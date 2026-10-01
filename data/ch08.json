@@ -1,0 +1,2479 @@
+{
+  "chapter": 8,
+  "title": "Stomach",
+  "pageRange": "52-59",
+  "questions": [
+    {
+      "id": "MED-C8-01",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "recall",
+      "q": "Which three regions appear as the columns of the stomach table?",
+      "opts": [
+        "Cardia, pylorus and duodenal bulb",
+        "Fundus, body/corpus and antrum",
+        "Fundus, incisura and duodenum",
+        "Oesophagus, corpus and jejunum"
+      ],
+      "ans": 1,
+      "exp": "The table divides the stomach into fundus, body/corpus and antrum. (Book p52)"
+    },
+    {
+      "id": "MED-C8-02",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "recall",
+      "q": "A lesion lies above the gastro-oesophageal sphincter (GES). Which stomach region is associated with that location?",
+      "opts": [
+        "Body/corpus",
+        "Antrum",
+        "Incisura",
+        "Fundus"
+      ],
+      "ans": 3,
+      "exp": "The fundus is located above the GES. (Book p52)"
+    },
+    {
+      "id": "MED-C8-03",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "recall",
+      "q": "The body/corpus is located:",
+      "opts": [
+        "Below the incisura",
+        "Above the GES",
+        "Within duodenal segments 1–4",
+        "Between the GES and incisura"
+      ],
+      "ans": 3,
+      "exp": "The body/corpus lies between the GES and incisura. (Book p52)"
+    },
+    {
+      "id": "MED-C8-04",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "recall",
+      "q": "Which region is located below the incisura?",
+      "opts": [
+        "Fundus",
+        "Antrum",
+        "Oesophagus",
+        "Body/corpus"
+      ],
+      "ans": 1,
+      "exp": "The antrum is below the incisura. (Book p52)"
+    },
+    {
+      "id": "MED-C8-05",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "recall",
+      "q": "Which gland names are paired with the stomach regions in the p52 table?",
+      "opts": [
+        "Fundus—oxyntic; body—pyloric; antrum—fundic",
+        "Fundus—Brunner; body—fundic; antrum—Lieberkühn",
+        "Fundus—pyloric; body—fundic; antrum—oxyntic",
+        "Fundus—fundic; body—oxyntic; antrum—pyloric"
+      ],
+      "ans": 3,
+      "exp": "The table assigns fundic glands to fundus, oxyntic glands to body, and pyloric glands to antrum. (Book p52)"
+    },
+    {
+      "id": "MED-C8-06",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "recall",
+      "q": "Which cell group is listed in the fundus?",
+      "opts": [
+        "G cells, chief cells and Paneth cells",
+        "Goblet cells, Paneth cells and enterocytes",
+        "ECL, mucous and endocrine cells",
+        "Parietal cells, chief cells and G cells"
+      ],
+      "ans": 2,
+      "exp": "Fundic glands contain enterochromaffin-like (ECL), mucous and endocrine cells. (Book p52)"
+    },
+    {
+      "id": "MED-C8-07",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "recall",
+      "q": "The fundic ECL cell secretion shown in the table is:",
+      "opts": [
+        "Pepsinogen",
+        "Gastrin",
+        "Intrinsic factor",
+        "Histamine"
+      ],
+      "ans": 3,
+      "exp": "The table shows ECL cells in the fundus secreting histamine. (Book p52)"
+    },
+    {
+      "id": "MED-C8-08",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "recall",
+      "q": "Which two secretory products are assigned to body parietal cells?",
+      "opts": [
+        "Acid and intrinsic factor",
+        "Pepsinogen and histamine",
+        "Gastrin and mucus",
+        "Bicarbonate and secretin"
+      ],
+      "ans": 0,
+      "exp": "Parietal cells in the body secrete acid and intrinsic factor. (Book p52)"
+    },
+    {
+      "id": "MED-C8-09",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "recall",
+      "q": "In the body oxyntic gland, chief cells are concentrated at the base and secrete:",
+      "opts": [
+        "Gastrin",
+        "Histamine",
+        "Pepsinogen",
+        "Intrinsic factor"
+      ],
+      "ans": 2,
+      "exp": "Chief cells are shown at the base and secrete pepsinogen. (Book p52)"
+    },
+    {
+      "id": "MED-C8-10",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "recall",
+      "q": "The parietal cells are labelled at which part of the oxyntic gland?",
+      "opts": [
+        "Base only",
+        "Villus tip",
+        "Neck/isthmus",
+        "Pyloric lumen"
+      ],
+      "ans": 2,
+      "exp": "The p52 table places parietal cells at the neck/isthmus. (Book p52)"
+    },
+    {
+      "id": "MED-C8-11",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "recall",
+      "q": "Which cell type and secretion are paired in the antrum?",
+      "opts": [
+        "ECL cell—intrinsic factor",
+        "Chief cell—pepsinogen",
+        "Parietal cell—gastrin",
+        "G cell—gastrin"
+      ],
+      "ans": 3,
+      "exp": "Antral G cells secrete gastrin; mucous cells and ECL cells are also listed in the antrum. (Book p52)"
+    },
+    {
+      "id": "MED-C8-12",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "recall",
+      "q": "Which set of cells is listed for pyloric glands in addition to antral G cells?",
+      "opts": [
+        "Enterocytes and endocrine cells only",
+        "Chief cells and Paneth cells",
+        "Mucous cells and ECL cells",
+        "Parietal cells and goblet cells"
+      ],
+      "ans": 2,
+      "exp": "The antrum/pyloric-gland column lists G cells, mucous cells and ECL cells. (Book p52)"
+    },
+    {
+      "id": "MED-C8-13",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "recall",
+      "q": "The folds shown inside the body of the stomach are labelled:",
+      "opts": [
+        "Kerckring valves",
+        "Haustra",
+        "Plicae circulares",
+        "Rugae"
+      ],
+      "ans": 3,
+      "exp": "The stomach diagram labels the internal folds as rugae. (Book p52)"
+    },
+    {
+      "id": "MED-C8-14",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "recall",
+      "q": "Which two named borders of the stomach are shown in the anatomy diagram?",
+      "opts": [
+        "Right and left colic flexures",
+        "Mesenteric and antimesenteric borders",
+        "Lesser and greater curvatures",
+        "Anterior and posterior taeniae"
+      ],
+      "ans": 2,
+      "exp": "The labelled stomach diagram identifies the lesser and greater curvatures. (Book p52)"
+    },
+    {
+      "id": "MED-C8-15",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "recall",
+      "q": "The diagram places the incisura between which stomach regions?",
+      "opts": [
+        "Body/corpus and antrum",
+        "Fundus and oesophagus",
+        "Antrum and duodenum",
+        "Cardia and fundus"
+      ],
+      "ans": 0,
+      "exp": "The incisura marks the transition from body/corpus toward the antrum. (Book p52)"
+    },
+    {
+      "id": "MED-C8-16",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "recall",
+      "q": "Which structures are shown at the outlet of the stomach in the diagram?",
+      "opts": [
+        "Pylorus and duodenum",
+        "Major papilla and jejunum",
+        "Fundus and oesophagus",
+        "Ileocecal valve and caecum"
+      ],
+      "ans": 0,
+      "exp": "The diagram labels the pylorus and the adjoining duodenum (segments 1–4). (Book p52)"
+    },
+    {
+      "id": "MED-C8-17",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "recall",
+      "q": "The two papillae labelled beside the duodenum are the:",
+      "opts": [
+        "Major and minor rugae",
+        "Major and minor papillae",
+        "Pyloric and ileocecal valves",
+        "Lesser and greater curvatures"
+      ],
+      "ans": 1,
+      "exp": "The diagram labels the major and minor papillae in the duodenum. (Book p52)"
+    },
+    {
+      "id": "MED-C8-18",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "recall",
+      "q": "Which additional fold pattern is labelled in the duodenum on the stomach illustration?",
+      "opts": [
+        "Circular folds",
+        "Gastric rugae",
+        "Haustral folds",
+        "Semilunar folds"
+      ],
+      "ans": 0,
+      "exp": "The label at the duodenum reads circular folds. (Book p52)"
+    },
+    {
+      "id": "MED-C8-19",
+      "sec": "Stomach Regions, Glands & Cells",
+      "page": 52,
+      "fmt": "scenario",
+      "q": "A cell in the neck/isthmus of an oxyntic gland produces both acid and intrinsic factor. Which cell is it?",
+      "opts": [
+        "Chief cell",
+        "Parietal cell",
+        "ECL cell",
+        "G cell"
+      ],
+      "ans": 1,
+      "exp": "Parietal cells in the neck/isthmus produce acid and intrinsic factor. (Book p52)"
+    },
+    {
+      "id": "MED-C8-20",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "Which sequence reproduces the three layers of gastroduodenal mucosal defence?",
+      "opts": [
+        "Pre-epithelial → epithelial (restitution) → subepithelial",
+        "Subepithelial → muscular → serosal",
+        "Epithelial → luminal → vascular",
+        "Mucosal → muscular → neural"
+      ],
+      "ans": 0,
+      "exp": "The page lists pre-epithelial, epithelial (restitution) and subepithelial layers. (Book p53)"
+    },
+    {
+      "id": "MED-C8-21",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "Which item is included among the listed gastric damaging factors?",
+      "opts": [
+        "Bicarbonate in mucus",
+        "Mucosal blood flow",
+        "Acid",
+        "Epithelial regeneration"
+      ],
+      "ans": 2,
+      "exp": "Acid, NSAIDs, tobacco and H. pylori (not always) are listed as damaging factors. (Book p53)"
+    },
+    {
+      "id": "MED-C8-22",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "How does the page qualify the role of H. pylori in the damaging-factor list?",
+      "opts": [
+        "H. pylori is restricted to the submucosa",
+        "H. pylori is marked 'not always'",
+        "H. pylori is described as the only cause",
+        "H. pylori is placed among protective factors"
+      ],
+      "ans": 1,
+      "exp": "The list includes H. pylori with the parenthetical qualifier 'not always'. (Book p53)"
+    },
+    {
+      "id": "MED-C8-23",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "The protective-factor pathway shown in the epithelial layer begins with COX-1 producing:",
+      "opts": [
+        "Leukotrienes",
+        "Prostaglandins",
+        "Gastrin",
+        "Histamine"
+      ],
+      "ans": 1,
+      "exp": "COX-1 is shown leading to prostaglandins in the epithelial layer. (Book p53)"
+    },
+    {
+      "id": "MED-C8-24",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "Which item belongs to the normal gastric protective-factor list in the injury diagram?",
+      "opts": [
+        "Bicarbonate secretion into mucus",
+        "Shock",
+        "NSAID exposure",
+        "Ischaemia"
+      ],
+      "ans": 0,
+      "exp": "Normal protective factors include surface mucus, bicarbonate into mucus, mucosal blood flow, barrier function, epithelial regeneration and prostaglandins. (Book p53)"
+    },
+    {
+      "id": "MED-C8-25",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "Besides mucus and bicarbonate, which vascular factor is listed as gastric mucosal protection?",
+      "opts": [
+        "Mesenteric arterial shunting",
+        "Mucosal blood flow",
+        "Portal venous pressure",
+        "Gastric venous stasis"
+      ],
+      "ans": 1,
+      "exp": "Mucosal blood flow is one of the protective factors in the normal panel. (Book p53)"
+    },
+    {
+      "id": "MED-C8-26",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "Which epithelial property appears in the p53 protective-factor panel?",
+      "opts": [
+        "Epithelial barrier function",
+        "Crypt-cell migration into colon",
+        "Loss of regenerative capacity",
+        "Disruption of cell junctions"
+      ],
+      "ans": 0,
+      "exp": "The protective list includes epithelial barrier function and regenerative capacity. (Book p53)"
+    },
+    {
+      "id": "MED-C8-27",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "Which combination is shown in the injury panel rather than the normal protective panel?",
+      "opts": [
+        "Mucosal blood flow, mucus and bicarbonate",
+        "Barrier function and surface mucus",
+        "Ischaemia, shock and NSAIDs",
+        "Epithelial repair and prostaglandins"
+      ],
+      "ans": 2,
+      "exp": "The injury panel names ischaemia, shock and NSAID exposure. (Book p53)"
+    },
+    {
+      "id": "MED-C8-28",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "In the ulcer diagram, the label N refers to:",
+      "opts": [
+        "Neutrophil count",
+        "Necrotic debris",
+        "Nerve plexus",
+        "Normal mucosa"
+      ],
+      "ans": 1,
+      "exp": "The diagram labels N as necrotic debris. (Book p53)"
+    },
+    {
+      "id": "MED-C8-29",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "The ulcer diagram's label G identifies:",
+      "opts": [
+        "Granulation tissue",
+        "Goblet-cell layer",
+        "Ganglion cells",
+        "Gastric glands"
+      ],
+      "ans": 0,
+      "exp": "The diagram labels G as granulation tissue. (Book p53)"
+    },
+    {
+      "id": "MED-C8-30",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "The ulcer diagram labels S as:",
+      "opts": [
+        "Surface mucus",
+        "Fibrosis",
+        "Serosa",
+        "Smooth muscle"
+      ],
+      "ans": 1,
+      "exp": "The p53 ulcer diagram identifies S as fibrosis. (Book p53)"
+    },
+    {
+      "id": "MED-C8-31",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "Which sequence gives the mucosal components of the GIT wall in the order listed?",
+      "opts": [
+        "Mucosal gel → muscularis externa → ganglia → serosa",
+        "Epithelium → serosa → submucosa → muscularis externa",
+        "Mucosal gel coating → epithelial layer → lamina propria → muscularis mucosa",
+        "Lamina propria → outer longitudinal muscle → mucosal gel → serosa"
+      ],
+      "ans": 2,
+      "exp": "The mucosa list contains mucosal gel coating, epithelial layer, lamina propria and muscularis mucosa. (Book p53)"
+    },
+    {
+      "id": "MED-C8-32",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "Which plexus is placed in the submucosa?",
+      "opts": [
+        "Meissner's plexus",
+        "Hypogastric plexus",
+        "Auerbach's plexus",
+        "Celiac plexus"
+      ],
+      "ans": 0,
+      "exp": "The submucosa is associated with Meissner's plexus. (Book p53)"
+    },
+    {
+      "id": "MED-C8-33",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "Which arrangement of the muscularis layer is shown on p53?",
+      "opts": [
+        "Inner longitudinal — Meissner's plexus — outer circular",
+        "Outer longitudinal — Auerbach's plexus — inner circular",
+        "Circular muscle only, with no intervening plexus",
+        "Outer circular — Meissner's plexus — inner longitudinal"
+      ],
+      "ans": 1,
+      "exp": "The muscularis layer is shown as outer longitudinal, Auerbach's plexus and inner circular. (Book p53)"
+    },
+    {
+      "id": "MED-C8-34",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "Which GIT wall layer is listed after the muscularis layer?",
+      "opts": [
+        "Muscularis mucosa",
+        "Submucosa",
+        "Lamina propria",
+        "Serosa"
+      ],
+      "ans": 3,
+      "exp": "Serosa is listed as the outer GIT wall layer after muscularis. (Book p53)"
+    },
+    {
+      "id": "MED-C8-35",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "The pacemaker cells of the GIT are the:",
+      "opts": [
+        "Paneth cells",
+        "Enterochromaffin cells",
+        "Chief cells",
+        "Interstitial cells of Cajal"
+      ],
+      "ans": 3,
+      "exp": "The note identifies interstitial cells of Cajal as GIT pacemaker cells. (Book p53)"
+    },
+    {
+      "id": "MED-C8-36",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "Interstitial cells of Cajal generate the:",
+      "opts": [
+        "Migrating motor complex only",
+        "Gastric acid output",
+        "Ileal brake",
+        "Basal electric rhythm (BER)"
+      ],
+      "ans": 3,
+      "exp": "Interstitial cells of Cajal produce basal electric rhythm (BER). (Book p53)"
+    },
+    {
+      "id": "MED-C8-37",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "Within intrinsic enteric innervation, Auerbach's plexus is associated with:",
+      "opts": [
+        "Bile-acid reabsorption",
+        "Motility",
+        "Intestinal secretion",
+        "Intrinsic-factor release"
+      ],
+      "ans": 1,
+      "exp": "The diagram links Auerbach's plexus to motility. (Book p53)"
+    },
+    {
+      "id": "MED-C8-38",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "recall",
+      "q": "Within intrinsic enteric innervation, Meissner's plexus is linked to:",
+      "opts": [
+        "Motility",
+        "Mucosal blood flow only",
+        "Intestinal secretion",
+        "Gastrin synthesis"
+      ],
+      "ans": 2,
+      "exp": "The diagram links Meissner's plexus to intestinal secretion. (Book p53)"
+    },
+    {
+      "id": "MED-C8-39",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "page": 53,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — in the p53 autonomic diagram, sympathetic input decreases motility while parasympathetic input increases it.",
+      "opts": [
+        "True — both divisions increase motility",
+        "False — sympathetic increases and parasympathetic decreases motility",
+        "True — sympathetic ↓ and parasympathetic ↑ motility",
+        "False — both divisions suppress motility"
+      ],
+      "ans": 2,
+      "exp": "The diagram shows sympathetic input decreasing motility and parasympathetic input increasing it. (Book p53)"
+    },
+    {
+      "id": "MED-C8-40",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "recall",
+      "q": "Which first messenger/second-messenger pair is shown for ECL-cell histamine?",
+      "opts": [
+        "Acetylcholine → increased cGMP",
+        "Gastrin → increased cAMP",
+        "Histamine → increased cAMP",
+        "Somatostatin → increased calcium"
+      ],
+      "ans": 2,
+      "exp": "ECL cells release histamine, which raises cAMP in the cooperative acid-secretion diagram. (Book p54)"
+    },
+    {
+      "id": "MED-C8-41",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "recall",
+      "q": "Gastrin released from G cells acts on which receptor shown on parietal cells?",
+      "opts": [
+        "CCK-B receptor",
+        "Secretin receptor",
+        "M3 receptor",
+        "H2 receptor"
+      ],
+      "ans": 0,
+      "exp": "The diagram shows G-cell gastrin acting at CCK-B receptors on parietal cells. (Book p54)"
+    },
+    {
+      "id": "MED-C8-42",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "recall",
+      "q": "The acetylcholine arm of the acid-secretion diagram signals through:",
+      "opts": [
+        "H2 receptor and cGMP",
+        "D2 receptor and potassium",
+        "M3 receptor and Ca²⁺",
+        "CCK-B receptor and cAMP"
+      ],
+      "ans": 2,
+      "exp": "Acetylcholine → M3 receptor → Ca²⁺ is the third cooperative arm. (Book p54)"
+    },
+    {
+      "id": "MED-C8-43",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "scenario",
+      "q": "Histamine, gastrin and acetylcholine converge on which final effect in the diagram?",
+      "opts": [
+        "Reduced mucosal blood flow",
+        "Increased acid production",
+        "Suppressed parietal-cell output",
+        "Increased intrinsic-factor degradation"
+      ],
+      "ans": 1,
+      "exp": "The three signals converge to increase acid production. (Book p54)"
+    },
+    {
+      "id": "MED-C8-44",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "recall",
+      "q": "GRP, also called bombesin, is shown to increase:",
+      "opts": [
+        "Gastrin",
+        "Intrinsic factor",
+        "Pepsinogen",
+        "Somatostatin"
+      ],
+      "ans": 0,
+      "exp": "GRP/bombesin is shown leading to increased gastrin. (Book p54)"
+    },
+    {
+      "id": "MED-C8-45",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "recall",
+      "q": "Which group contains only inhibitors of gastric acid production listed on p54?",
+      "opts": [
+        "Pepsinogen, intrinsic factor, mucus and bicarbonate",
+        "CCK, prostaglandin, somatostatin and GIP",
+        "Gastrin, histamine, acetylcholine and GRP",
+        "Secretin, serotonin, dopamine and motilin"
+      ],
+      "ans": 1,
+      "exp": "The listed inhibitors are CCK, prostaglandin, somatostatin and gastric inhibitory peptide. (Book p54)"
+    },
+    {
+      "id": "MED-C8-46",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "recall",
+      "q": "The maximum acid output (MAO) time written in the BAO note is:",
+      "opts": [
+        "6 am",
+        "Noon",
+        "Midnight",
+        "6 pm"
+      ],
+      "ans": 3,
+      "exp": "The p54 note pairs maximal acid output with 6 pm. (Book p54)"
+    },
+    {
+      "id": "MED-C8-47",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "recall",
+      "q": "The least acid output time given in the same note is:",
+      "opts": [
+        "Noon",
+        "Midnight",
+        "6 am",
+        "6 pm"
+      ],
+      "ans": 2,
+      "exp": "The note gives least acid output at 6 am. (Book p54)"
+    },
+    {
+      "id": "MED-C8-48",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "numeric",
+      "q": "A BAO/MAO ratio above what value is associated with a gastrin-secreting tumour in the note?",
+      "opts": [
+        ">1.6",
+        "<0.06",
+        ">0.6",
+        ">0.06"
+      ],
+      "ans": 2,
+      "exp": "The printed threshold is BAO/MAO >0.6. (Book p54)"
+    },
+    {
+      "id": "MED-C8-49",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "recall",
+      "q": "Gastritis is defined on p54 as:",
+      "opts": [
+        "Acute inflammation limited to the serosa",
+        "Infection of the pylorus only",
+        "Histological inflammation of the gastric mucosa",
+        "Endoscopic redness without mucosal inflammation"
+      ],
+      "ans": 2,
+      "exp": "The definition is histological inflammation of gastric mucosa. (Book p54)"
+    },
+    {
+      "id": "MED-C8-50",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "recall",
+      "q": "The cause ranking written for gastritis is:",
+      "opts": [
+        "Autoimmune causes are the only listed cause",
+        "Alcohol more common than both",
+        "Infectious causes more common than NSAIDs",
+        "NSAIDs more common than infectious causes"
+      ],
+      "ans": 3,
+      "exp": "The page states causes: NSAIDs > infectious. (Book p54)"
+    },
+    {
+      "id": "MED-C8-51",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — the page says endoscopic appearance and histology in gastritis correlate closely.",
+      "opts": [
+        "False — gastritis has no histological diagnosis",
+        "True — but only in acute gastritis",
+        "True — the two always match",
+        "False — it explicitly says there is no correlation"
+      ],
+      "ans": 3,
+      "exp": "The diagnostic note says endoscopy and histology have no correlation. (Book p54)"
+    },
+    {
+      "id": "MED-C8-52",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "recall",
+      "q": "Acute phlegmonous gastritis is characterized as:",
+      "opts": [
+        "Chronic atrophy limited to the corpus",
+        "Rare, severely progressive inflammation of the gastric wall",
+        "Common superficial inflammation of the antrum",
+        "Benign hypertrophy of the duodenal mucosa"
+      ],
+      "ans": 1,
+      "exp": "The page describes acute phlegmonous gastritis as rare and severely progressive, involving the gastric wall. (Book p54)"
+    },
+    {
+      "id": "MED-C8-53",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "recall",
+      "q": "The microscopic image beside acute phlegmonous gastritis is captioned as gastric mucosal infiltration by:",
+      "opts": [
+        "Neutrophils",
+        "Eosinophils",
+        "Plasma cells",
+        "Lymphocytes only"
+      ],
+      "ans": 0,
+      "exp": "The image caption identifies neutrophil infiltration. (Book p54)"
+    },
+    {
+      "id": "MED-C8-54",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "recall",
+      "q": "Which gross change is listed with acute phlegmonous gastritis?",
+      "opts": [
+        "Thickening of the wall and gas formation",
+        "Mucosal atrophy with intestinal metaplasia",
+        "Large tortuous folds sparing the antrum",
+        "Pyloric stenosis with a string sign"
+      ],
+      "ans": 0,
+      "exp": "The text lists wall thickening and gas formation. (Book p54)"
+    },
+    {
+      "id": "MED-C8-55",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "scenario",
+      "q": "Acute phlegmonous gastritis is specifically noted in which host group?",
+      "opts": [
+        "Children with congenital lactase deficiency only",
+        "Patients with isolated ileal Crohn's disease",
+        "Healthy young athletes",
+        "Immunocompromised people"
+      ],
+      "ans": 3,
+      "exp": "The page says it is seen in immunocompromised people. (Book p54)"
+    },
+    {
+      "id": "MED-C8-56",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "recall",
+      "q": "The causative-organism ranking for acute phlegmonous gastritis is:",
+      "opts": [
+        "Streptococci > E. coli",
+        "Salmonella > Shigella",
+        "H. pylori > E. coli",
+        "E. coli > Streptococci"
+      ],
+      "ans": 0,
+      "exp": "The printed ranking is Streptococci > E. coli. (Book p54)"
+    },
+    {
+      "id": "MED-C8-57",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "recall",
+      "q": "Which set contains the clinical features listed for acute phlegmonous gastritis?",
+      "opts": [
+        "Constipation, steatorrhoea and neuropathy",
+        "Abdominal pain, vomiting and fever",
+        "Dysphagia, early satiety and jaundice",
+        "Painless bleeding, tenesmus and weight loss"
+      ],
+      "ans": 1,
+      "exp": "The page lists abdominal pain, vomiting and fever. (Book p54)"
+    },
+    {
+      "id": "MED-C8-58",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "page": 54,
+      "fmt": "recall",
+      "q": "The complication and outcome emphasized for acute phlegmonous gastritis are:",
+      "opts": [
+        "Stomach-wall necrosis and high mortality",
+        "Duodenal web and spontaneous resolution",
+        "Gastric adenocarcinoma and low mortality",
+        "Oesophageal rupture and chronic recurrence"
+      ],
+      "ans": 0,
+      "exp": "Stomach-wall necrosis and a high mortality rate are listed complications/outcomes. (Book p54)"
+    },
+    {
+      "id": "MED-C8-59",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "Chronic gastritis is described as superficial involvement by:",
+      "opts": [
+        "Mast cells and platelets",
+        "Lymphocytes and plasma cells",
+        "Macrophages without lymphocytes",
+        "Neutrophils and eosinophils only"
+      ],
+      "ans": 1,
+      "exp": "The page states superficial involvement by lymphocytes and plasma cells. (Book p55)"
+    },
+    {
+      "id": "MED-C8-60",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "Which chronic-gastritis type is identified as less common?",
+      "opts": [
+        "Type A",
+        "Type B",
+        "Type D",
+        "Type C"
+      ],
+      "ans": 0,
+      "exp": "Type A is marked less common; Type B is more common. (Book p55)"
+    },
+    {
+      "id": "MED-C8-61",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "Type A chronic gastritis is also called:",
+      "opts": [
+        "Hypertrophic protein-losing gastropathy",
+        "Environmental metaplastic atrophic gastritis (EMAG)",
+        "Autoimmune metaplastic atrophic gastritis (AMAG)",
+        "Non-atrophic pangastritis"
+      ],
+      "ans": 2,
+      "exp": "Type A is named autoimmune metaplastic atrophic gastritis (AMAG). (Book p55)"
+    },
+    {
+      "id": "MED-C8-62",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "The pattern of atrophy in Type A gastritis is:",
+      "opts": [
+        "Diffuse body and fundus with antral sparing",
+        "Multifocal throughout the stomach",
+        "Patchy, mainly in the corpus",
+        "Antral-only without corpus involvement"
+      ],
+      "ans": 2,
+      "exp": "Type A atrophy is patchy and mainly corpus-predominant. (Book p55)"
+    },
+    {
+      "id": "MED-C8-63",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "The HLA association printed for Type A autoimmune gastritis is:",
+      "opts": [
+        "HLA-B27/DR4",
+        "HLA-DQ2/DQ8",
+        "HLA-B51/DR7",
+        "HLA-B8/DR3"
+      ],
+      "ans": 3,
+      "exp": "The page links autoimmune Type A gastritis with HLA B8/DR3. (Book p55)"
+    },
+    {
+      "id": "MED-C8-64",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "The antibody in Type A gastritis is directed against parietal cells in the:",
+      "opts": [
+        "Pylorus",
+        "Duodenal bulb",
+        "Antrum",
+        "Body"
+      ],
+      "ans": 3,
+      "exp": "The Type A diagram specifies antibodies against parietal cells in the body. (Book p55)"
+    },
+    {
+      "id": "MED-C8-65",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "Which sequence follows parietal-cell loss in Type A gastritis?",
+      "opts": [
+        "↓ acid → achlorhydria → hypergastrinaemia → gastrin-secreting carcinoid tumour",
+        "↓ intrinsic factor → intestinal metaplasia → adenocarcinoma",
+        "H. pylori → multifocal atrophy → low gastrin",
+        "↑ acid → hypergastrinaemia → gastric ulcer → carcinoid"
+      ],
+      "ans": 0,
+      "exp": "The printed Type A sequence is low acid, achlorhydria, hypergastrinaemia and then a gastrin-secreting carcinoid tumour. (Book p55)"
+    },
+    {
+      "id": "MED-C8-66",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "Loss of intrinsic factor in Type A gastritis is linked to:",
+      "opts": [
+        "Megaloblastic anaemia",
+        "Thrombocytopenia",
+        "Microcytic anaemia",
+        "Sideroblastic anaemia"
+      ],
+      "ans": 0,
+      "exp": "Reduced intrinsic factor is linked to megaloblastic anaemia in the diagram. (Book p55)"
+    },
+    {
+      "id": "MED-C8-67",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "The risk of malignancy column for Type A gastritis points:",
+      "opts": [
+        "To a value of 60%",
+        "Upward",
+        "To no change",
+        "Downward"
+      ],
+      "ans": 3,
+      "exp": "The table shows a downward arrow for Type A risk of malignancy. (Book p55)"
+    },
+    {
+      "id": "MED-C8-68",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "Type B chronic gastritis is marked as:",
+      "opts": [
+        "Unrelated to H. pylori",
+        "The rare childhood-only type",
+        "Less common",
+        "More common"
+      ],
+      "ans": 3,
+      "exp": "Type B is marked more common. (Book p55)"
+    },
+    {
+      "id": "MED-C8-69",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "Type B is also called:",
+      "opts": [
+        "Acute phlegmonous gastritis",
+        "Protein-losing hypertrophic gastritis",
+        "Environmental metaplastic atrophic gastritis (EMAG)",
+        "Autoimmune metaplastic atrophic gastritis (AMAG)"
+      ],
+      "ans": 2,
+      "exp": "Type B is named environmental metaplastic atrophic gastritis (EMAG). (Book p55)"
+    },
+    {
+      "id": "MED-C8-70",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "The pattern of atrophy in Type B gastritis is:",
+      "opts": [
+        "Multifocal",
+        "Limited to the pylorus",
+        "Patchy and mainly corpus-only",
+        "Absent by definition"
+      ],
+      "ans": 0,
+      "exp": "The table labels Type B atrophy multifocal. (Book p55)"
+    },
+    {
+      "id": "MED-C8-71",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "Which progression is shown for Type B/H. pylori gastritis?",
+      "opts": [
+        "Gastritis → hyperplasia → mucus loss → duodenal web",
+        "Gastritis → achlorhydria → megaloblastic anaemia → carcinoid",
+        "Gastritis → villous atrophy → lymphoma → ileal perforation",
+        "Gastritis → gastric atrophy → intestinal metaplasia → gastric adenocarcinoma"
+      ],
+      "ans": 3,
+      "exp": "The Type B diagram shows gastritis progressing through gastric atrophy and intestinal metaplasia to gastric adenocarcinoma. (Book p55)"
+    },
+    {
+      "id": "MED-C8-72",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "The Type B risk-of-malignancy indicator points:",
+      "opts": [
+        "To zero",
+        "Downward",
+        "To no difference from Type A",
+        "Upward"
+      ],
+      "ans": 3,
+      "exp": "The table shows increased malignancy risk for Type B. (Book p55)"
+    },
+    {
+      "id": "MED-C8-73",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "The note links eosinophilic gastritis to:",
+      "opts": [
+        "Celiac disease",
+        "Pseudo-tumour appearance",
+        "Crohn's disease as the commonest cause",
+        "Intestinal obstruction"
+      ],
+      "ans": 3,
+      "exp": "Eosinophilic gastritis is linked to intestinal obstruction. (Book p55)"
+    },
+    {
+      "id": "MED-C8-74",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "Russell body gastritis is associated with which endoscopic appearance?",
+      "opts": [
+        "A lead-pipe colon",
+        "A string sign",
+        "A pseudotumour appearance",
+        "Large tortuous folds sparing the antrum"
+      ],
+      "ans": 2,
+      "exp": "Russell body gastritis is noted for a pseudotumour endoscopic appearance. (Book p55)"
+    },
+    {
+      "id": "MED-C8-75",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "The commonest cause named for granulomatous gastritis is:",
+      "opts": [
+        "Celiac disease",
+        "Crohn's disease",
+        "Ulcerative colitis",
+        "H. pylori alone"
+      ],
+      "ans": 1,
+      "exp": "The note lists Crohn's disease as the most common cause of granulomatous gastritis. (Book p55)"
+    },
+    {
+      "id": "MED-C8-76",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "Lymphocytic gastritis is associated with:",
+      "opts": [
+        "CMV infection",
+        "Crohn's disease",
+        "Celiac disease",
+        "H. pylori-associated duodenal ulcer only"
+      ],
+      "ans": 2,
+      "exp": "The note pairs lymphocytic gastritis with celiac disease. (Book p55)"
+    },
+    {
+      "id": "MED-C8-77",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "Hypertrophic gastritis is also known as Ménétrier disease or:",
+      "opts": [
+        "Protein-losing gastropathy",
+        "Pseudomembranous enterocolitis",
+        "Acute phlegmonous gastritis",
+        "Autoimmune metaplastic atrophic gastritis"
+      ],
+      "ans": 0,
+      "exp": "The page names Ménétrier disease/protein-losing gastropathy. (Book p55)"
+    },
+    {
+      "id": "MED-C8-78",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "The large tortuous folds of hypertrophic gastritis involve the:",
+      "opts": [
+        "Corpus only, sparing the fundus and antrum",
+        "Antrum and pylorus, sparing the fundus",
+        "Body and fundus, sparing the antrum",
+        "Entire bowel, including duodenum"
+      ],
+      "ans": 2,
+      "exp": "The page says body and fundus are involved with antral sparing and large tortuous mucosal folds. (Book p55)"
+    },
+    {
+      "id": "MED-C8-79",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "numeric",
+      "q": "The demographic pattern given for hypertrophic gastritis is:",
+      "opts": [
+        "More common in females, usually under 20 years",
+        "More common in males, usually under 5 years",
+        "More common in males, usually 40–60 years",
+        "Equal by sex, usually over 70 years"
+      ],
+      "ans": 2,
+      "exp": "The page lists male > female and an age range of 40–60 years. (Book p55)"
+    },
+    {
+      "id": "MED-C8-80",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 55,
+      "fmt": "recall",
+      "q": "In children, hypertrophic gastritis is associated with:",
+      "opts": [
+        "Rotavirus infection",
+        "Shigella infection",
+        "H. pylori is excluded",
+        "CMV infection"
+      ],
+      "ans": 3,
+      "exp": "The note links childhood hypertrophic gastritis with CMV infection. (Book p55)"
+    },
+    {
+      "id": "MED-C8-81",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 56,
+      "fmt": "recall",
+      "q": "The main cytokine named in the pathogenesis of hypertrophic gastritis is:",
+      "opts": [
+        "IFN-γ",
+        "TNF-β",
+        "TGF-α",
+        "IL-5"
+      ],
+      "ans": 2,
+      "exp": "The pathogenesis section identifies TGF-α as the main cytokine. (Book p56)"
+    },
+    {
+      "id": "MED-C8-82",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 56,
+      "fmt": "recall",
+      "q": "Which hypertrophic-gastritis sequence is shown?",
+      "opts": [
+        "Granuloma formation → fibrosis → ileal obstruction",
+        "Parietal-cell loss → acid excess → iron loss",
+        "Villous atrophy → bile-acid loss → cAMP rise",
+        "Foveolar hyperplasia → mucus hypersecretion → protein loss"
+      ],
+      "ans": 3,
+      "exp": "The diagram links foveolar hyperplasia to mucus hypersecretion and then protein loss. (Book p56)"
+    },
+    {
+      "id": "MED-C8-83",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 56,
+      "fmt": "recall",
+      "q": "Which laboratory/clinical consequences of protein loss are listed?",
+      "opts": [
+        "Hyperalbuminaemia and dehydration",
+        "Hypocalcaemia and jaundice only",
+        "Polycythaemia and hypertension",
+        "Hypoalbuminaemia and oedema"
+      ],
+      "ans": 3,
+      "exp": "Clinical features include hypoalbuminaemia, oedema and upper-GI symptoms. (Book p56)"
+    },
+    {
+      "id": "MED-C8-84",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 56,
+      "fmt": "recall",
+      "q": "The p56 investigation note recommends endoscopy with which biopsy for hypertrophic gastritis?",
+      "opts": [
+        "Antral biopsy for rapid urease testing only",
+        "Superficial brushing without tissue sampling",
+        "Full-thickness gastric biopsy",
+        "Duodenal biopsy for villous architecture"
+      ],
+      "ans": 2,
+      "exp": "The page recommends endoscopy with full-thickness biopsy and separately describes the condition as premalignant. (Book p56)"
+    },
+    {
+      "id": "MED-C8-85",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 56,
+      "fmt": "management",
+      "q": "Which treatment is marked as the main treatment for hypertrophic gastritis?",
+      "opts": [
+        "Antibiotics alone",
+        "Surgery",
+        "Ringer lactate",
+        "Gluten-free diet"
+      ],
+      "ans": 1,
+      "exp": "Surgery is marked as the main treatment. (Book p56)"
+    },
+    {
+      "id": "MED-C8-86",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "page": 56,
+      "fmt": "recall",
+      "q": "The medical option listed for hypertrophic gastritis is an EGFR antagonist:",
+      "opts": [
+        "Linaclotide",
+        "Azithromycin",
+        "Cetuximab",
+        "Octreotide"
+      ],
+      "ans": 2,
+      "exp": "Cetuximab is listed as the medical EGFR antagonist. (Book p56)"
+    },
+    {
+      "id": "MED-C8-87",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 56,
+      "fmt": "recall",
+      "q": "H. pylori is introduced as a:",
+      "opts": [
+        "Gram-negative bacillus",
+        "Helminth",
+        "Gram-positive spore-forming bacillus",
+        "Acid-fast organism"
+      ],
+      "ans": 0,
+      "exp": "The introduction identifies H. pylori as a Gram-negative bacillus. (Book p56)"
+    },
+    {
+      "id": "MED-C8-88",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 56,
+      "fmt": "recall",
+      "q": "Which three positive tests complete the H. pylori 'triple positive' diagram?",
+      "opts": [
+        "Urease, coagulase and indole",
+        "Urease, oxidase and catalase",
+        "Oxidase, CAMP and citrate",
+        "Catalase, bile solubility and oxidase-negative"
+      ],
+      "ans": 1,
+      "exp": "The triangle is labelled urease positive, oxidase positive and catalase positive. (Book p56)"
+    },
+    {
+      "id": "MED-C8-89",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 56,
+      "fmt": "recall",
+      "q": "Urease helps H. pylori:",
+      "opts": [
+        "Invade the bloodstream",
+        "Form a pseudomembrane",
+        "Reside in the stomach",
+        "Absorb vitamin B12"
+      ],
+      "ans": 2,
+      "exp": "The page notes that urease helps H. pylori reside in the stomach. (Book p56)"
+    },
+    {
+      "id": "MED-C8-90",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 56,
+      "fmt": "recall",
+      "q": "The page locates H. pylori initially in the antrum and says it can migrate proximally because of:",
+      "opts": [
+        "Flagella",
+        "Auerbach's plexus",
+        "Pili of the toxin-coregulated pilus",
+        "Bile salts"
+      ],
+      "ans": 0,
+      "exp": "H. pylori is present in the antrum and can migrate proximally due to flagella. (Book p56)"
+    },
+    {
+      "id": "MED-C8-91",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 56,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — the introduction says H. pylori is invasive and resides on the exposed surface rather than within mucus.",
+      "opts": [
+        "True — it invades the full gastric wall",
+        "False — it resides in the bloodstream",
+        "True — it is limited to the pyloric lumen",
+        "False — it is non-invasive and resides deep in the mucosal gel"
+      ],
+      "ans": 3,
+      "exp": "The page describes H. pylori as non-invasive and resident deep in the mucosal gel. (Book p56)"
+    },
+    {
+      "id": "MED-C8-92",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 56,
+      "fmt": "recall",
+      "q": "The transmission route listed for H. pylori is:",
+      "opts": [
+        "Tick-borne",
+        "Faeco-oral",
+        "Airborne",
+        "Parenteral only"
+      ],
+      "ans": 1,
+      "exp": "The pathology section states faeco-oral transmission. (Book p56)"
+    },
+    {
+      "id": "MED-C8-93",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 56,
+      "fmt": "recall",
+      "q": "H. pylori colonisation is said to depend on:",
+      "opts": [
+        "Socioeconomic factors",
+        "Blood group alone",
+        "Gastric pH only",
+        "Sex only"
+      ],
+      "ans": 0,
+      "exp": "The page links colonisation to socioeconomic factors. (Book p56)"
+    },
+    {
+      "id": "MED-C8-94",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 56,
+      "fmt": "numeric",
+      "q": "The approximate H. pylori-colonised proportion printed for developing countries is:",
+      "opts": [
+        "27%",
+        "60%",
+        "80%",
+        "10%"
+      ],
+      "ans": 2,
+      "exp": "The note gives 80% in developing countries. (Book p56)"
+    },
+    {
+      "id": "MED-C8-95",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 56,
+      "fmt": "recall",
+      "q": "Among colonised people, the majority outcome shown in the progression diagram is:",
+      "opts": [
+        "MALT lymphoma",
+        "Gastric carcinoma",
+        "Chronic superficial gastritis",
+        "Peptic ulcer"
+      ],
+      "ans": 2,
+      "exp": "The diagram sends the majority to chronic superficial gastritis and 10% to peptic ulcer. (Book p56)"
+    },
+    {
+      "id": "MED-C8-96",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 56,
+      "fmt": "numeric",
+      "q": "The progression diagram assigns what proportion of colonised people to peptic ulcer?",
+      "opts": [
+        "10%",
+        "80%",
+        "50%",
+        "2%"
+      ],
+      "ans": 0,
+      "exp": "The peptic-ulcer branch is marked 10%. (Book p56)"
+    },
+    {
+      "id": "MED-C8-97",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 56,
+      "fmt": "recall",
+      "q": "H. pylori urease creates which local environment according to p56?",
+      "opts": [
+        "An acidic microenvironment",
+        "A low-oxygen bloodstream",
+        "An alkaline environment",
+        "A bile-rich environment"
+      ],
+      "ans": 2,
+      "exp": "Urease is described as creating an alkaline environment. (Book p56)"
+    },
+    {
+      "id": "MED-C8-98",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 56,
+      "fmt": "recall",
+      "q": "The second enzyme named on p56 is protease, which:",
+      "opts": [
+        "Digests mucin",
+        "Produces intrinsic factor",
+        "Converts gastrin to secretin",
+        "Forms iron–transferrin complexes"
+      ],
+      "ans": 0,
+      "exp": "The page says protease digests mucin. (Book p56)"
+    },
+    {
+      "id": "MED-C8-99",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 56,
+      "fmt": "recall",
+      "q": "Which conditions are listed under the note 'Protective against' on p56?",
+      "opts": [
+        "GERD and Barrett's oesophagus",
+        "MALToma and gastric adenocarcinoma",
+        "Gastric ulcer and duodenal ulcer",
+        "Celiac disease and tropical sprue"
+      ],
+      "ans": 0,
+      "exp": "The source note lists GERD and Barrett's oesophagus, as well as adenocarcinoma of oesophagus and stomach. This is reproduced as a book note, not a contemporary causal claim. (Book p56)"
+    },
+    {
+      "id": "MED-C8-100",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 56,
+      "fmt": "recall",
+      "q": "Which cancer does the p56 'Protective against' list include, despite this being a source-text error?",
+      "opts": [
+        "Pancreatic neuroendocrine tumour",
+        "Colorectal adenocarcinoma",
+        "Gastric MALT lymphoma",
+        "Adenocarcinoma of the stomach"
+      ],
+      "ans": 3,
+      "exp": "The scan places 'adenocarcinoma of stomach' under 'Protective against'. This contradicts authoritative cancer guidance; treat it as a source-text error, not a medical fact. See audit/known-source-caveats.md. (Book p56)"
+    },
+    {
+      "id": "MED-C8-101",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 57,
+      "fmt": "numeric",
+      "q": "H. pylori is attributed what proportion of duodenal ulcers on p57?",
+      "opts": [
+        "30–40%",
+        "70–80%",
+        "50–60%",
+        "10–20%"
+      ],
+      "ans": 1,
+      "exp": "The page states 70–80% of duodenal ulcers. (Book p57)"
+    },
+    {
+      "id": "MED-C8-102",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 57,
+      "fmt": "numeric",
+      "q": "The proportion of gastric ulcers attributed to H. pylori is listed as:",
+      "opts": [
+        "70–80%",
+        "50–60%",
+        "10–20%",
+        "30–40%"
+      ],
+      "ans": 1,
+      "exp": "The page states 50–60% of gastric ulcers. (Book p57)"
+    },
+    {
+      "id": "MED-C8-103",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 57,
+      "fmt": "recall",
+      "q": "Which pair of additional diseases appears under diseases caused by H. pylori?",
+      "opts": [
+        "Stomach carcinoma and MALToma",
+        "Celiac disease and Whipple disease",
+        "Pancreatic carcinoma and gastrinoma",
+        "Crohn's disease and ulcerative colitis"
+      ],
+      "ans": 0,
+      "exp": "The list includes carcinoma of the stomach and MALToma. (Book p57)"
+    },
+    {
+      "id": "MED-C8-104",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 57,
+      "fmt": "recall",
+      "q": "Flagella contribute to H. pylori virulence chiefly by enabling:",
+      "opts": [
+        "Adenyl-cyclase activation in enterocytes",
+        "Conversion of Fe2+ to Fe3+",
+        "Motility and chemotaxis to colonise beneath the mucosa",
+        "Direct inhibition of CD4 T-cell proliferation"
+      ],
+      "ans": 2,
+      "exp": "The diagram links flagella with bacterial mobility/chemotaxis and colonisation beneath the mucosa. (Book p57)"
+    },
+    {
+      "id": "MED-C8-105",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 57,
+      "fmt": "recall",
+      "q": "The urease virulence arm can injure gastric mucosa through production of:",
+      "opts": [
+        "Ammonia",
+        "cGMP",
+        "Neuraminidase",
+        "Verocytotoxin"
+      ],
+      "ans": 0,
+      "exp": "The figure says urease neutralises gastric acid and ammonia causes gastric mucosal injury. (Book p57)"
+    },
+    {
+      "id": "MED-C8-106",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 57,
+      "fmt": "recall",
+      "q": "In the virulence diagram, lipopolysaccharides are shown to:",
+      "opts": [
+        "Adhere to host cells and promote inflammation",
+        "Cause only small-bowel secretory diarrhoea",
+        "Digest mucin and create an alkaline environment",
+        "Bind the CCK-B receptor"
+      ],
+      "ans": 0,
+      "exp": "Lipopolysaccharides are linked to host-cell adherence and inflammation. (Book p57)"
+    },
+    {
+      "id": "MED-C8-107",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 57,
+      "fmt": "recall",
+      "q": "The outer proteins in the H. pylori diagram are linked to:",
+      "opts": [
+        "Gastrin secretion",
+        "Adherence to host cells",
+        "Bile-acid absorption",
+        "Mucosal prostaglandin synthesis"
+      ],
+      "ans": 1,
+      "exp": "Outer proteins are labelled as adhering to host cells. (Book p57)"
+    },
+    {
+      "id": "MED-C8-108",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 57,
+      "fmt": "recall",
+      "q": "VacA is described as a vacuolating toxin causing gastric mucosal injury and:",
+      "opts": [
+        "Inhibition of CD4 T-cell proliferation",
+        "Stimulation of CD4 T-cell proliferation",
+        "A rise in cAMP in small bowel",
+        "Production of intrinsic factor"
+      ],
+      "ans": 0,
+      "exp": "The VacA note links mucosal injury with inhibition of CD4 T-cell proliferation. (Book p57)"
+    },
+    {
+      "id": "MED-C8-109",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 57,
+      "fmt": "recall",
+      "q": "Which enzyme set is listed under H. pylori secretory enzymes?",
+      "opts": [
+        "Mucinase, protease and lipase",
+        "Urease, catalase and oxidase",
+        "Amylase, lactase and sucrase",
+        "Elastase, trypsin and chymotrypsin"
+      ],
+      "ans": 0,
+      "exp": "The figure lists mucinase, protease and lipase as secretory enzymes causing mucosal injury. (Book p57)"
+    },
+    {
+      "id": "MED-C8-110",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 57,
+      "fmt": "recall",
+      "q": "The H. pylori type IV secretion system is described as a pili-like structure for:",
+      "opts": [
+        "Secretion of gastric mucus",
+        "Injection of effectors",
+        "Absorption of haem iron",
+        "Formation of bile salts"
+      ],
+      "ans": 1,
+      "exp": "The diagram labels the type IV system as a pili-like structure for injection of effectors. (Book p57)"
+    },
+    {
+      "id": "MED-C8-111",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "page": 57,
+      "fmt": "recall",
+      "q": "Which group of effects is attributed to CagA-related effectors in the host cell?",
+      "opts": [
+        "Actin remodelling, IL-8 induction, host-cell growth and apoptosis inhibition",
+        "cAMP reduction, acid suppression and cell-cycle arrest",
+        "Iron storage, ferritin secretion and erythroid maturation",
+        "Reduced motility, lower IL-8 and increased apoptosis"
+      ],
+      "ans": 0,
+      "exp": "The figure lists actin remodelling, IL-8 induction, host-cell growth and apoptosis inhibition. (Book p57)"
+    },
+    {
+      "id": "MED-C8-112",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 57,
+      "fmt": "recall",
+      "q": "Which H. pylori gastritis pattern is linked to duodenal ulcer in the forms-of-gastritis list?",
+      "opts": [
+        "Hypertrophic gastritis",
+        "Corpus-predominant atrophic gastritis",
+        "Antral-predominant gastritis",
+        "Non-atrophic pangastritis"
+      ],
+      "ans": 2,
+      "exp": "Antral-predominant gastritis is linked to duodenal ulcer. (Book p57)"
+    },
+    {
+      "id": "MED-C8-113",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 57,
+      "fmt": "recall",
+      "q": "Which downstream sequence follows corpus-predominant atrophic gastritis in the diagram?",
+      "opts": [
+        "Gastric ulcer; intestinal metaplasia → dysplasia → carcinoma",
+        "Protein loss; oedema → CMV infection",
+        "Duodenal ulcer; MALToma → remission",
+        "Pseudomembrane; toxic megacolon → perforation"
+      ],
+      "ans": 0,
+      "exp": "Corpus-predominant atrophic gastritis is linked to gastric ulcer and intestinal metaplasia → dysplasia → carcinoma. (Book p57)"
+    },
+    {
+      "id": "MED-C8-114",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 57,
+      "fmt": "recall",
+      "q": "Non-atrophic pangastritis is linked to MALToma, identified on the page as the most common:",
+      "opts": [
+        "Extranodal marginal-zone B-cell lymphoma",
+        "Gastric stromal tumour",
+        "T-cell lymphoma of the small bowel",
+        "Pancreatic neuroendocrine tumour"
+      ],
+      "ans": 0,
+      "exp": "The page calls MALToma the most common extranodal marginal-zone lymphoma (B-cell). (Book p57)"
+    },
+    {
+      "id": "MED-C8-115",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 57,
+      "fmt": "numeric",
+      "q": "The p57 dyspepsia note estimates what proportion as functional?",
+      "opts": [
+        "50%",
+        "90%",
+        "75%",
+        "25%"
+      ],
+      "ans": 2,
+      "exp": "The printed note says dyspepsia is 75% functional. (Book p57)"
+    },
+    {
+      "id": "MED-C8-116",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 57,
+      "fmt": "recall",
+      "q": "Which symptom is included in the clinical-diagnosis cluster for dyspepsia?",
+      "opts": [
+        "Haematemesis",
+        "Painless rectal bleeding",
+        "Steatorrhoea",
+        "Postprandial fullness"
+      ],
+      "ans": 3,
+      "exp": "The dyspepsia symptom cluster is postprandial fullness, early satiety and epigastric discomfort. (Book p57)"
+    },
+    {
+      "id": "MED-C8-117",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 57,
+      "fmt": "recall",
+      "q": "Which trio is grouped as a clinical diagnosis for dyspepsia?",
+      "opts": [
+        "Postprandial fullness, early satiety and epigastric discomfort",
+        "Dysphagia, steatorrhoea and weight loss",
+        "Nocturnal diarrhoea, tenesmus and fever",
+        "Haematemesis, jaundice and pruritus"
+      ],
+      "ans": 0,
+      "exp": "The page brackets postprandial fullness, early satiety and epigastric discomfort as clinical diagnosis. (Book p57)"
+    },
+    {
+      "id": "MED-C8-118",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 57,
+      "fmt": "management",
+      "q": "The initial dyspepsia management trial written on p57 is:",
+      "opts": [
+        "A six-month steroid course",
+        "A 72-hour fasting challenge",
+        "A one-week daily-dose PPI trial",
+        "A one-day antibiotic course"
+      ],
+      "ans": 2,
+      "exp": "The scan reads 'a week trial of PPI (daily dose)'; it does not specify two weeks. (Book p57)"
+    },
+    {
+      "id": "MED-C8-119",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 57,
+      "fmt": "numeric",
+      "q": "Which age threshold is listed among indications for endoscopy in dyspepsia?",
+      "opts": [
+        ">30 years",
+        ">40 years",
+        ">70 years",
+        ">50 years"
+      ],
+      "ans": 3,
+      "exp": "Age >50 years is one of the listed endoscopy indications. (Book p57)"
+    },
+    {
+      "id": "MED-C8-120",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 57,
+      "fmt": "recall",
+      "q": "Which pair of swallowing symptoms appears among the dyspepsia endoscopy indications?",
+      "opts": [
+        "Globus and hoarseness",
+        "Regurgitation and tenesmus",
+        "Dyspepsia and dyschezia",
+        "Dysphagia and odynophagia"
+      ],
+      "ans": 3,
+      "exp": "Dysphagia and odynophagia are listed indications for endoscopy. (Book p57)"
+    },
+    {
+      "id": "MED-C8-121",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 57,
+      "fmt": "recall",
+      "q": "Which laboratory/clinical feature appears in the endoscopy-indication list?",
+      "opts": [
+        "Eosinophilia",
+        "Polycythaemia",
+        "Hyperalbuminaemia",
+        "Anaemia"
+      ],
+      "ans": 3,
+      "exp": "Anaemia is listed as an indication for endoscopy. (Book p57)"
+    },
+    {
+      "id": "MED-C8-122",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 57,
+      "fmt": "recall",
+      "q": "Which pair completes the non-age alarm indications for dyspepsia endoscopy on p57?",
+      "opts": [
+        "Constipation and abdominal distension",
+        "Mild nausea and early satiety",
+        "Weight loss and an abdominal mass",
+        "Pica and hair fall"
+      ],
+      "ans": 2,
+      "exp": "Weight loss and an abdominal mass are listed indications. (Book p57)"
+    },
+    {
+      "id": "MED-C8-123",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 57,
+      "fmt": "recall",
+      "q": "The family-history indication in the dyspepsia endoscopy list is a history of:",
+      "opts": [
+        "Celiac disease",
+        "Stomach carcinoma",
+        "Gallstones",
+        "Colorectal polyps only"
+      ],
+      "ans": 1,
+      "exp": "The list includes a family history of stomach carcinoma. (Book p57)"
+    },
+    {
+      "id": "MED-C8-124",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 58,
+      "fmt": "scenario",
+      "q": "Which pain pattern is used on p58 to illustrate epigastric pain associated with peptic ulcer disease?",
+      "opts": [
+        "Continuous right-lower-quadrant pain relieved by defecation",
+        "Pain only during exercise, unaffected by meals",
+        "Postprandial pain with jaundice and fever",
+        "Recurrent or nocturnal pain, precipitated by fasting and relieved by food"
+      ],
+      "ans": 3,
+      "exp": "The diagram lists recurrent episodes, nocturnal pain, fasting precipitation and relief on eating. (Book p58)"
+    },
+    {
+      "id": "MED-C8-125",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 58,
+      "fmt": "recall",
+      "q": "The indication for endoscopy in the p58 investigation section is epigastric pain as a symptom of:",
+      "opts": [
+        "Pseudomembranous colitis",
+        "Peptic ulcer disease",
+        "Celiac disease",
+        "Irritable bowel syndrome"
+      ],
+      "ans": 1,
+      "exp": "The page says endoscopy is indicated for epigastric pain as a symptom of peptic ulcer disease. (Book p58)"
+    },
+    {
+      "id": "MED-C8-126",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 58,
+      "fmt": "recall",
+      "q": "After endoscopy shows an ulcer, the sequence shown is:",
+      "opts": [
+        "Measure serum gastrin → proceed to colectomy",
+        "Test for H. pylori → anti-H. pylori treatment",
+        "Test for C. difficile → give vancomycin",
+        "Start treatment → then decide whether to test"
+      ],
+      "ans": 1,
+      "exp": "The diagram gives endoscopy → if ulcer present, H. pylori testing → anti-H. pylori treatment. (Book p58)"
+    },
+    {
+      "id": "MED-C8-127",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 58,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — the ACG recommendation says to test for H. pylori only if treatment will be offered when the result is positive.",
+      "opts": [
+        "False — test even when no treatment is planned",
+        "True — testing should be linked to an offer of treatment",
+        "False — only test after treatment fails",
+        "True — but only in children"
+      ],
+      "ans": 1,
+      "exp": "The note says testing should be performed only if the clinician plans to treat a positive result. (Book p58)"
+    },
+    {
+      "id": "MED-C8-128",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 58,
+      "fmt": "recall",
+      "q": "In the rapid urease test, the tissue sample is obtained by biopsy from the:",
+      "opts": [
+        "Terminal ileum",
+        "Oesophagus",
+        "Antrum",
+        "Fundus"
+      ],
+      "ans": 2,
+      "exp": "The sequence is endoscopy → antral biopsy → urease test on tissue. (Book p58)"
+    },
+    {
+      "id": "MED-C8-129",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 58,
+      "fmt": "recall",
+      "q": "A positive rapid urease test is indicated by:",
+      "opts": [
+        "A positive Kanagawa phenomenon",
+        "A colour change",
+        "A fall in stool pH",
+        "A rise in serum gastrin"
+      ],
+      "ans": 1,
+      "exp": "The rapid urease test is positive when the tissue test changes colour. (Book p58)"
+    },
+    {
+      "id": "MED-C8-130",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 58,
+      "fmt": "recall",
+      "q": "Which two tests are listed to confirm H. pylori eradication?",
+      "opts": [
+        "Serum IgE and stool culture",
+        "Rapid urease and fecal calprotectin",
+        "Stool antigen and 13C/14C urea breath tests",
+        "D-xylose and Schilling tests"
+      ],
+      "ans": 2,
+      "exp": "The source lists stool antigen and C13/C14 urea breath tests to confirm eradication. (Book p58)"
+    },
+    {
+      "id": "MED-C8-131",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 58,
+      "fmt": "numeric",
+      "q": "The stool-antigen test performance printed on p58 is:",
+      "opts": [
+        "Sensitivity 97%; specificity 94%",
+        "Sensitivity 94%; specificity 97%",
+        "Sensitivity 80%; specificity 60%",
+        "Sensitivity 50%; specificity 100%"
+      ],
+      "ans": 1,
+      "exp": "The page gives sensitivity 94% and specificity 97%. (Book p58)"
+    },
+    {
+      "id": "MED-C8-132",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 58,
+      "fmt": "recall",
+      "q": "Which medications are listed as affecting stool-antigen-test sensitivity?",
+      "opts": [
+        "PPIs, bismuth and antibiotics",
+        "Iron, folate and calcium",
+        "Loperamide, psyllium and PEG",
+        "NSAIDs, steroids and insulin"
+      ],
+      "ans": 0,
+      "exp": "PPI, bismuth and antibiotics are listed as affecting sensitivity. (Book p58)"
+    },
+    {
+      "id": "MED-C8-133",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "page": 58,
+      "fmt": "numeric",
+      "q": "The page recommends what gap after treatment before performing the eradication test?",
+      "opts": [
+        "One week",
+        "One month",
+        "Three days",
+        "Six months"
+      ],
+      "ans": 1,
+      "exp": "The note specifies a one-month gap after treatment before testing. (Book p58)"
+    },
+    {
+      "id": "MED-C8-134",
+      "sec": "H. pylori Treatment and Test of Cure",
+      "page": 58,
+      "fmt": "numeric",
+      "q": "The first-line H. pylori regimen is given for:",
+      "opts": [
+        "5 days",
+        "21 days",
+        "7 days",
+        "14 days"
+      ],
+      "ans": 3,
+      "exp": "The page specifies a 14-day first-line regimen. (Book p58)"
+    },
+    {
+      "id": "MED-C8-135",
+      "sec": "H. pylori Treatment and Test of Cure",
+      "page": 58,
+      "fmt": "recall",
+      "q": "Which alternatives are abbreviated OCA and OCM in the p58 first-line regimen?",
+      "opts": [
+        "OCA: omeprazole + amoxicillin + metronidazole; OCM: omeprazole + clarithromycin + tetracycline",
+        "OCA: omeprazole + clarithromycin + tetracycline; OCM: omeprazole + bismuth + amoxicillin",
+        "OCA: omeprazole + clarithromycin + amoxicillin; OCM: omeprazole + clarithromycin + metronidazole",
+        "Both abbreviations describe a four-drug course of omeprazole, bismuth, tetracycline and metronidazole"
+      ],
+      "ans": 2,
+      "exp": "OCA and OCM are alternative three-drug regimens, not a single four-drug course. (Book p58)"
+    },
+    {
+      "id": "MED-C8-136",
+      "sec": "H. pylori Treatment and Test of Cure",
+      "page": 58,
+      "fmt": "numeric",
+      "q": "The omeprazole dose in the first-line regimen is:",
+      "opts": [
+        "40 mg three times daily",
+        "20 mg once daily",
+        "20 mg twice daily",
+        "200 mg twice daily"
+      ],
+      "ans": 2,
+      "exp": "The printed first-line dose is omeprazole 20 mg BD. (Book p58)"
+    },
+    {
+      "id": "MED-C8-137",
+      "sec": "H. pylori Treatment and Test of Cure",
+      "page": 58,
+      "fmt": "numeric",
+      "q": "The amoxicillin dose in the OCA first-line alternative is:",
+      "opts": [
+        "200 mg twice daily",
+        "500 mg once daily",
+        "2 g three times daily",
+        "1 g twice daily"
+      ],
+      "ans": 3,
+      "exp": "The page lists amoxicillin 1 g BD. (Book p58)"
+    },
+    {
+      "id": "MED-C8-138",
+      "sec": "H. pylori Treatment and Test of Cure",
+      "page": 58,
+      "fmt": "numeric",
+      "q": "The clarithromycin dose in the first-line regimen is:",
+      "opts": [
+        "500 mg once weekly",
+        "500 mg twice daily",
+        "1 g once daily",
+        "200 mg twice daily"
+      ],
+      "ans": 1,
+      "exp": "The page lists clarithromycin 500 mg BD. (Book p58)"
+    },
+    {
+      "id": "MED-C8-139",
+      "sec": "H. pylori Treatment and Test of Cure",
+      "page": 58,
+      "fmt": "numeric",
+      "q": "The metronidazole dose in the OCM first-line alternative is:",
+      "opts": [
+        "200 mg once daily",
+        "2 g once weekly",
+        "500 mg twice daily",
+        "1 g three times daily"
+      ],
+      "ans": 2,
+      "exp": "The source lists metronidazole 500 mg BD. (Book p58)"
+    },
+    {
+      "id": "MED-C8-140",
+      "sec": "H. pylori Treatment and Test of Cure",
+      "page": 58,
+      "fmt": "recall",
+      "q": "Which four drugs make up the second-line OBTM combination on p58?",
+      "opts": [
+        "Omeprazole, bismuth subsalicylate, tetracycline and metronidazole",
+        "Bismuth, fidaxomicin, rifaximin and amoxicillin",
+        "Omeprazole, clarithromycin, amoxicillin and metronidazole",
+        "Omeprazole, azithromycin, doxycycline and vancomycin"
+      ],
+      "ans": 0,
+      "exp": "OBTM is omeprazole, bismuth subsalicylate, tetracycline and metronidazole. (Book p58)"
+    },
+    {
+      "id": "MED-C8-141",
+      "sec": "H. pylori Treatment and Test of Cure",
+      "page": 58,
+      "fmt": "recall",
+      "q": "The note cautions that alternative regimens may depend on:",
+      "opts": [
+        "Time of day of endoscopy",
+        "Patient height alone",
+        "Stool volume only",
+        "Local antibiotic resistance"
+      ],
+      "ans": 3,
+      "exp": "The page says other regimens are used depending on antibiotic resistance in the area. (Book p58)"
+    },
+    {
+      "id": "MED-C8-142",
+      "sec": "H. pylori Treatment and Test of Cure",
+      "page": 59,
+      "fmt": "scenario",
+      "q": "A patient with a treatment indication has a negative H. pylori test. What conclusion follows in the p59 algorithm?",
+      "opts": [
+        "Proceed to second-line therapy",
+        "H. pylori is not the cause",
+        "Start third-line culture-directed therapy",
+        "Repeat a positive stool antigen test"
+      ],
+      "ans": 1,
+      "exp": "A negative initial test leads to 'H. pylori not the cause'. (Book p59)"
+    },
+    {
+      "id": "MED-C8-143",
+      "sec": "H. pylori Treatment and Test of Cure",
+      "page": 59,
+      "fmt": "recall",
+      "q": "After a positive test and first-line treatment, the algorithm delays the test of cure until:",
+      "opts": [
+        "At least one month after treatment finishes",
+        "Three months before treatment finishes",
+        "One week after treatment begins",
+        "The next day"
+      ],
+      "ans": 0,
+      "exp": "The flowchart says to wait at least one month after treatment finishes. (Book p59)"
+    },
+    {
+      "id": "MED-C8-144",
+      "sec": "H. pylori Treatment and Test of Cure",
+      "page": 59,
+      "fmt": "recall",
+      "q": "During the month before the post-treatment test, the flowchart says to avoid:",
+      "opts": [
+        "Only antacids and H2 blockers",
+        "Iron, folate and vitamin B12",
+        "All food and fluids",
+        "Antibiotics, bismuth compounds and proton-pump inhibitors"
+      ],
+      "ans": 3,
+      "exp": "The flowchart specifies no antibiotics, bismuth compounds or PPIs in the interim. (Book p59)"
+    },
+    {
+      "id": "MED-C8-145",
+      "sec": "H. pylori Treatment and Test of Cure",
+      "page": 59,
+      "fmt": "recall",
+      "q": "The post-treatment test in the algorithm is either a urea breath test or:",
+      "opts": [
+        "Fecal elastase",
+        "Serum gastrin test",
+        "Stool-antigen test",
+        "Rapid urease test without biopsy"
+      ],
+      "ans": 2,
+      "exp": "The flowchart uses urea breath or stool antigen testing. (Book p59)"
+    },
+    {
+      "id": "MED-C8-146",
+      "sec": "H. pylori Treatment and Test of Cure",
+      "page": 59,
+      "fmt": "scenario",
+      "q": "After first-line treatment, a patient's test of cure is negative but symptoms persist. The algorithm attributes the remaining symptoms to:",
+      "opts": [
+        "Resistance requiring third-line treatment",
+        "Persistent H. pylori by definition",
+        "A cause other than H. pylori",
+        "A false-negative result requiring immediate surgery"
+      ],
+      "ans": 2,
+      "exp": "A negative test leads to the note that any remaining symptoms are not due to H. pylori. (Book p59)"
+    },
+    {
+      "id": "MED-C8-147",
+      "sec": "H. pylori Treatment and Test of Cure",
+      "page": 59,
+      "fmt": "scenario",
+      "q": "The test of cure remains positive after first-line treatment. The next treatment step shown is:",
+      "opts": [
+        "No further treatment",
+        "Endoscopy with culture before any second-line therapy",
+        "Second-line treatment",
+        "Immediate gastrectomy"
+      ],
+      "ans": 2,
+      "exp": "A positive test after first-line treatment leads to second-line treatment. (Book p59)"
+    },
+    {
+      "id": "MED-C8-148",
+      "sec": "H. pylori Treatment and Test of Cure",
+      "page": 59,
+      "fmt": "scenario",
+      "q": "After second-line therapy, H. pylori remains positive. Which next approach appears in the diagram?",
+      "opts": [
+        "Return to the same first-line course without testing",
+        "Stop treatment and diagnose IBS",
+        "Third-line treatment with endoscopy, culture and sensitivity",
+        "Start IV metronidazole for fulminant colitis"
+      ],
+      "ans": 2,
+      "exp": "The third-line step is endoscopy with H. pylori culture/sensitivity and treatment according to known sensitivities. (Book p59)"
+    },
+    {
+      "id": "MED-C8-149",
+      "sec": "H. pylori Treatment and Test of Cure",
+      "page": 59,
+      "fmt": "recall",
+      "q": "How should third-line treatment be selected in the p59 algorithm?",
+      "opts": [
+        "Without culture or sensitivity information",
+        "According to known antibiotic sensitivities",
+        "By the appearance of the stool alone",
+        "By the patient's blood group"
+      ],
+      "ans": 1,
+      "exp": "The flowchart states to treat according to known antibiotic sensitivities. (Book p59)"
+    },
+    {
+      "id": "MED-C8-150",
+      "sec": "H. pylori Treatment and Test of Cure",
+      "page": 59,
+      "fmt": "scenario",
+      "q": "A patient is still positive after third-line treatment. The final pathway is to:",
+      "opts": [
+        "Refer to a specialist and reconsider whether treatment remains indicated",
+        "Proceed directly to colectomy",
+        "Repeat first-line therapy indefinitely",
+        "Stop all follow-up without review"
+      ],
+      "ans": 0,
+      "exp": "The algorithm calls for specialist referral and consideration of whether treatment is still indicated. (Book p59)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U8-1",
+      "ch": 8,
+      "n": 1,
+      "title": "Regions, Glands & Cells",
+      "sec": "Stomach Regions, Glands & Cells",
+      "guide": "Fundus above GES; body between GES and incisura; antrum below incisura.\nFundic, oxyntic and pyloric glands contain region-specific ECL, parietal, chief, mucous and G cells.\nReview secretions and the diagram labels: rugae, curvatures, papillae and duodenum.",
+      "qs": [
+        "MED-C8-01",
+        "MED-C8-02",
+        "MED-C8-03",
+        "MED-C8-04",
+        "MED-C8-05",
+        "MED-C8-06",
+        "MED-C8-07",
+        "MED-C8-08",
+        "MED-C8-09",
+        "MED-C8-10",
+        "MED-C8-11",
+        "MED-C8-12",
+        "MED-C8-13",
+        "MED-C8-14",
+        "MED-C8-15",
+        "MED-C8-16",
+        "MED-C8-17",
+        "MED-C8-18",
+        "MED-C8-19"
+      ]
+    },
+    {
+      "id": "MED-U8-2",
+      "ch": 8,
+      "n": 2,
+      "title": "Mucosal Defence and Wall",
+      "sec": "Gastric Mucosal Defence and Wall",
+      "guide": "Defence layers: pre-epithelial, epithelial/restitution and subepithelial.\nSeparate damaging exposures from mucus, bicarbonate, blood-flow, barrier and repair protection.\nAuerbach = motility; Meissner = secretion; ICC generate BER.",
+      "qs": [
+        "MED-C8-20",
+        "MED-C8-21",
+        "MED-C8-22",
+        "MED-C8-23",
+        "MED-C8-24",
+        "MED-C8-25",
+        "MED-C8-26",
+        "MED-C8-27",
+        "MED-C8-28",
+        "MED-C8-29",
+        "MED-C8-30",
+        "MED-C8-31",
+        "MED-C8-32",
+        "MED-C8-33",
+        "MED-C8-34",
+        "MED-C8-35",
+        "MED-C8-36",
+        "MED-C8-37",
+        "MED-C8-38",
+        "MED-C8-39"
+      ]
+    },
+    {
+      "id": "MED-U8-3",
+      "ch": 8,
+      "n": 3,
+      "title": "Acid Regulation & Acute Gastritis",
+      "sec": "Acid Regulation and Acute Gastritis",
+      "guide": "Histamine/cAMP, gastrin/CCK-B and acetylcholine/M3-Ca²⁺ cooperate to increase acid.\nThe BAO/MAO threshold is >0.6; the page gives MAO at 6 pm and least output at 6 am.\nGastritis is histologic; acute phlegmonous gastritis is severe and linked to neutrophils.",
+      "qs": [
+        "MED-C8-40",
+        "MED-C8-41",
+        "MED-C8-42",
+        "MED-C8-43",
+        "MED-C8-44",
+        "MED-C8-45",
+        "MED-C8-46",
+        "MED-C8-47",
+        "MED-C8-48",
+        "MED-C8-49",
+        "MED-C8-50",
+        "MED-C8-51",
+        "MED-C8-52",
+        "MED-C8-53",
+        "MED-C8-54",
+        "MED-C8-55",
+        "MED-C8-56",
+        "MED-C8-57",
+        "MED-C8-58"
+      ]
+    },
+    {
+      "id": "MED-U8-4",
+      "ch": 8,
+      "n": 4,
+      "title": "Chronic & Hypertrophic Gastritis",
+      "sec": "Chronic and Hypertrophic Gastritis",
+      "guide": "Type A: less common autoimmune, patchy corpus, parietal-cell antibodies; Type B: commoner, multifocal, H. pylori.\nFollow each type's complications and malignancy arrow; retain the four gastritis associations.\nMénétrier disease: TGF-α/foveolar hyperplasia → mucus/protein loss; surgery is main treatment in the text.",
+      "qs": [
+        "MED-C8-59",
+        "MED-C8-60",
+        "MED-C8-61",
+        "MED-C8-62",
+        "MED-C8-63",
+        "MED-C8-64",
+        "MED-C8-65",
+        "MED-C8-66",
+        "MED-C8-67",
+        "MED-C8-68",
+        "MED-C8-69",
+        "MED-C8-70",
+        "MED-C8-71",
+        "MED-C8-72",
+        "MED-C8-73",
+        "MED-C8-74",
+        "MED-C8-75",
+        "MED-C8-76",
+        "MED-C8-77",
+        "MED-C8-78",
+        "MED-C8-79",
+        "MED-C8-80",
+        "MED-C8-81",
+        "MED-C8-82",
+        "MED-C8-83",
+        "MED-C8-84",
+        "MED-C8-85",
+        "MED-C8-86"
+      ]
+    },
+    {
+      "id": "MED-U8-5",
+      "ch": 8,
+      "n": 5,
+      "title": "H. pylori Biology & Virulence",
+      "sec": "Helicobacter pylori: Biology and Virulence",
+      "guide": "Gram-negative, urease/oxidase/catalase positive; antral, flagellated, non-invasive and deep in mucosal gel.\nTransmission is faeco-oral; the source lists ulcer/cancer associations and enzyme actions.\nKnow the roles of VacA, LPS, outer proteins, type IV secretion and CagA effectors.",
+      "qs": [
+        "MED-C8-87",
+        "MED-C8-88",
+        "MED-C8-89",
+        "MED-C8-90",
+        "MED-C8-91",
+        "MED-C8-92",
+        "MED-C8-93",
+        "MED-C8-94",
+        "MED-C8-95",
+        "MED-C8-96",
+        "MED-C8-97",
+        "MED-C8-98",
+        "MED-C8-99",
+        "MED-C8-100",
+        "MED-C8-101",
+        "MED-C8-102",
+        "MED-C8-103",
+        "MED-C8-104",
+        "MED-C8-105",
+        "MED-C8-106",
+        "MED-C8-107",
+        "MED-C8-108",
+        "MED-C8-109",
+        "MED-C8-110",
+        "MED-C8-111"
+      ]
+    },
+    {
+      "id": "MED-U8-6",
+      "ch": 8,
+      "n": 6,
+      "title": "H. pylori, Dyspepsia & Testing",
+      "sec": "H. pylori Gastritis, Dyspepsia and Testing",
+      "guide": "Antral-predominant → duodenal ulcer; corpus atrophy → metaplasia/dysplasia/carcinoma; pan-gastritis → MALToma.\nDyspepsia symptom cluster, one-week PPI note and alarm indications precede H. pylori investigations.\nRapid urease uses antral biopsy; stool antigen and urea-breath testing confirm eradication after a one-month gap.",
+      "qs": [
+        "MED-C8-112",
+        "MED-C8-113",
+        "MED-C8-114",
+        "MED-C8-115",
+        "MED-C8-116",
+        "MED-C8-117",
+        "MED-C8-118",
+        "MED-C8-119",
+        "MED-C8-120",
+        "MED-C8-121",
+        "MED-C8-122",
+        "MED-C8-123",
+        "MED-C8-124",
+        "MED-C8-125",
+        "MED-C8-126",
+        "MED-C8-127",
+        "MED-C8-128",
+        "MED-C8-129",
+        "MED-C8-130",
+        "MED-C8-131",
+        "MED-C8-132",
+        "MED-C8-133"
+      ]
+    },
+    {
+      "id": "MED-U8-7",
+      "ch": 8,
+      "n": 7,
+      "title": "Treatment & Test of Cure",
+      "sec": "H. pylori Treatment and Test of Cure",
+      "guide": "The p58 first-line and OBTM second-line regimens are transcribed as printed.\nThe p59 algorithm tests, treats, waits at least one month and branches by stool antigen/urea breath result.\nPersistent positivity proceeds to later-line sensitivity-guided specialist review; this is book study, not current guidance.",
+      "qs": [
+        "MED-C8-134",
+        "MED-C8-135",
+        "MED-C8-136",
+        "MED-C8-137",
+        "MED-C8-138",
+        "MED-C8-139",
+        "MED-C8-140",
+        "MED-C8-141",
+        "MED-C8-142",
+        "MED-C8-143",
+        "MED-C8-144",
+        "MED-C8-145",
+        "MED-C8-146",
+        "MED-C8-147",
+        "MED-C8-148",
+        "MED-C8-149",
+        "MED-C8-150"
+      ]
+    }
+  ]
+}
