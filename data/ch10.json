@@ -1,0 +1,987 @@
+{
+  "chapter": 10,
+  "title": "Irritable Bowel Syndrome",
+  "pageRange": "63-65",
+  "questions": [
+    {
+      "id": "MED-C10-01",
+      "sec": "Definition and Associations",
+      "page": 63,
+      "fmt": "recall",
+      "q": "The opening line describes IBS as a functional bowel disorder and as a reaction of the GI system to:",
+      "opts": [
+        "Bile-acid loss",
+        "Dietary iron deficiency",
+        "Stress",
+        "Bacterial invasion of all bowel-wall layers"
+      ],
+      "ans": 2,
+      "exp": "The page describes IBS as a functional bowel disorder/reaction of the GI system to stress. (Book p63)"
+    },
+    {
+      "id": "MED-C10-02",
+      "sec": "Definition and Associations",
+      "page": 63,
+      "fmt": "recall",
+      "q": "Which condition is included among the IBS associations?",
+      "opts": [
+        "Lactose intolerance",
+        "Pseudomembranous enterocolitis",
+        "Ulcerative colitis",
+        "Intestinal tuberculosis"
+      ],
+      "ans": 0,
+      "exp": "The association list includes lactose intolerance, celiac disease, fibromyalgia, chronic fatigue syndrome and generalized anxiety disorder. (Book p63)"
+    },
+    {
+      "id": "MED-C10-03",
+      "sec": "Definition and Associations",
+      "page": 63,
+      "fmt": "recall",
+      "q": "Which pair is also listed as IBS-associated on p63?",
+      "opts": [
+        "Campylobacter infection and IPSID",
+        "H. pylori and MALToma",
+        "Celiac disease and fibromyalgia",
+        "Crohn's disease and PSC"
+      ],
+      "ans": 2,
+      "exp": "Celiac disease and fibromyalgia are both in the associations list. (Book p63)"
+    },
+    {
+      "id": "MED-C10-04",
+      "sec": "Definition and Associations",
+      "page": 63,
+      "fmt": "recall",
+      "q": "Which neuropsychiatric/functional pair appears in the IBS associations list?",
+      "opts": [
+        "Migraine and epilepsy",
+        "Chronic fatigue syndrome and generalized anxiety disorder",
+        "Delirium and dementia",
+        "Panic disorder and Parkinson disease"
+      ],
+      "ans": 1,
+      "exp": "The page lists chronic fatigue syndrome and generalized anxiety disorder. (Book p63)"
+    },
+    {
+      "id": "MED-C10-05",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "recall",
+      "q": "The sex distribution written for IBS is:",
+      "opts": [
+        "Male > female",
+        "Female > male",
+        "Male-only",
+        "Equal by sex"
+      ],
+      "ans": 1,
+      "exp": "The clinical-presentation section states female > male. (Book p63)"
+    },
+    {
+      "id": "MED-C10-06",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "numeric",
+      "q": "The age group specified in the IBS clinical-presentation list is:",
+      "opts": [
+        "Under 45 years",
+        "45–65 years",
+        "Over 65 years",
+        "Under 20 years"
+      ],
+      "ans": 0,
+      "exp": "The page gives age <45 years. (Book p63)"
+    },
+    {
+      "id": "MED-C10-07",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "recall",
+      "q": "Which symptom is marked as the most important in the IBS presentation?",
+      "opts": [
+        "Altered stool form alone",
+        "Nausea",
+        "Abdominal pain",
+        "Belching"
+      ],
+      "ans": 2,
+      "exp": "Abdominal pain is marked as the most important symptom. (Book p63)"
+    },
+    {
+      "id": "MED-C10-08",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "numeric",
+      "q": "The page's Rome IV line requires recurrent abdominal pain at least how often?",
+      "opts": [
+        "One episode per week",
+        "One episode per month",
+        "One episode per year",
+        "One episode per day"
+      ],
+      "ans": 0,
+      "exp": "The book prints a minimum of one episode/week for ≥3 months. It omits Rome IV’s symptom-onset ≥6-month criterion; see audit/known-source-caveats.md. (Book p63)"
+    },
+    {
+      "id": "MED-C10-09",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "numeric",
+      "q": "For how long does the p63 Rome IV line require the weekly pain pattern?",
+      "opts": [
+        "At least three months",
+        "At least six months",
+        "At least one year",
+        "At least two weeks"
+      ],
+      "ans": 0,
+      "exp": "The page states ≥3 months. (Book p63)"
+    },
+    {
+      "id": "MED-C10-10",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "recall",
+      "q": "The Rome IV line requires the pain to be associated with at least how many of the listed stool/defecation features?",
+      "opts": [
+        "None",
+        "All three",
+        "One",
+        "Two"
+      ],
+      "ans": 3,
+      "exp": "The page says pain is associated with ≥2 of the listed features. (Book p63)"
+    },
+    {
+      "id": "MED-C10-11",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "recall",
+      "q": "Which group contains the three associated features shown in the Rome IV line?",
+      "opts": [
+        "Change in stool frequency; change in stool form; relation to defecation",
+        "Steatorrhoea; weight loss; nocturnal diarrhoea",
+        "Fever; blood in stool; raised ESR",
+        "Nausea; vomiting; early satiety"
+      ],
+      "ans": 0,
+      "exp": "The three printed features are change in stool frequency, change in stool form/appearance and relation to defecation. (Book p63)"
+    },
+    {
+      "id": "MED-C10-12",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "recall",
+      "q": "The typical pain location is described as:",
+      "opts": [
+        "Left shoulder",
+        "Epigastrium only",
+        "Crampy lower abdomen",
+        "Right upper quadrant"
+      ],
+      "ans": 2,
+      "exp": "The page describes crampy lower-abdominal pain. (Book p63)"
+    },
+    {
+      "id": "MED-C10-13",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "numeric",
+      "q": "The pain frequency listed in the clinical section is:",
+      "opts": [
+        "Once every six months",
+        "Episodic, about once per week",
+        "Only after meals, several times per hour",
+        "Continuous every day"
+      ],
+      "ans": 1,
+      "exp": "The source notes episodic pain at approximately one episode per week. (Book p63)"
+    },
+    {
+      "id": "MED-C10-14",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "recall",
+      "q": "Which pair of factors is listed as aggravating IBS pain?",
+      "opts": [
+        "Exercise and defecation",
+        "Stress and eating",
+        "Antibiotics and iron",
+        "Fasting and sleep"
+      ],
+      "ans": 1,
+      "exp": "Stress and eating are listed as aggravating factors. (Book p63)"
+    },
+    {
+      "id": "MED-C10-15",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "recall",
+      "q": "The listed relieving factor for IBS abdominal pain is:",
+      "opts": [
+        "Vomiting",
+        "Fasting",
+        "Defecation",
+        "Standing upright"
+      ],
+      "ans": 2,
+      "exp": "Defecation is listed as a relieving factor. (Book p63)"
+    },
+    {
+      "id": "MED-C10-16",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "recall",
+      "q": "Which symptom is called the most consistent in the IBS presentation?",
+      "opts": [
+        "Steatorrhoea",
+        "Altered bowel habits",
+        "Fever",
+        "Jaundice"
+      ],
+      "ans": 1,
+      "exp": "Altered bowel habits are marked as the most consistent symptom. (Book p63)"
+    },
+    {
+      "id": "MED-C10-17",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "recall",
+      "q": "In the D+ pattern, diarrhoea is described as:",
+      "opts": [
+        "Watery without mucus and high-volume",
+        "Large-volume and bloody",
+        "Fatty, pale and bulky",
+        "Small-volume and associated with mucus"
+      ],
+      "ans": 3,
+      "exp": "D+ is diarrhoea-predominant with small-volume stool associated with mucus. (Book p63)"
+    },
+    {
+      "id": "MED-C10-18",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "recall",
+      "q": "Which label is used for constipation-predominant IBS?",
+      "opts": [
+        "I+",
+        "C+",
+        "M+",
+        "D+"
+      ],
+      "ans": 1,
+      "exp": "The page labels constipation-predominant disease C+. (Book p63)"
+    },
+    {
+      "id": "MED-C10-19",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "recall",
+      "q": "Which subtype is marked as most common and consists of prolonged constipation interrupted by episodic diarrhoea?",
+      "opts": [
+        "M+ (mixed)",
+        "C+",
+        "D+",
+        "Post-infectious only"
+      ],
+      "ans": 0,
+      "exp": "M+ is marked m/c and described as prolonged constipation interrupted by episodic diarrhoea. (Book p63)"
+    },
+    {
+      "id": "MED-C10-20",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "scenario",
+      "q": "A patient with suspected IBS reports nocturnal diarrhoea and visible blood in stool. These findings are listed as:",
+      "opts": [
+        "The defining Rome IV association",
+        "Features against IBS",
+        "Typical of the D+ subtype",
+        "Evidence for uncomplicated IBS"
+      ],
+      "ans": 1,
+      "exp": "Nocturnal diarrhoea and blood in stools are listed against an IBS diagnosis. (Book p63)"
+    },
+    {
+      "id": "MED-C10-21",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "recall",
+      "q": "Which symptom cluster should prompt reconsideration of IBS in the page's warning list?",
+      "opts": [
+        "Episodic pain aggravated by stress",
+        "Crampy lower-abdominal pain relieved by defecation",
+        "Steatorrhoea, weight loss, anaemia or malabsorption",
+        "Mucus with small-volume D+ stool alone"
+      ],
+      "ans": 2,
+      "exp": "Steatorrhoea, weight loss, anaemia and malabsorption are listed as features against IBS. (Book p63)"
+    },
+    {
+      "id": "MED-C10-22",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "recall",
+      "q": "Which systemic finding is included among features against an IBS diagnosis?",
+      "opts": [
+        "Early satiety",
+        "Belching",
+        "Postprandial fullness",
+        "Fever"
+      ],
+      "ans": 3,
+      "exp": "Fever is included among features against IBS. (Book p63)"
+    },
+    {
+      "id": "MED-C10-23",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "recall",
+      "q": "The inflammatory marker listed among features against IBS is:",
+      "opts": [
+        "Low serum ferritin",
+        "Increased ESR",
+        "Elevated serum gastrin",
+        "Low ESR"
+      ],
+      "ans": 1,
+      "exp": "The warning list includes increased ESR. (Book p63)"
+    },
+    {
+      "id": "MED-C10-24",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "recall",
+      "q": "Besides abdominal pain and altered bowel habits, which additional presentation is listed?",
+      "opts": [
+        "Abdominal distension and belching",
+        "Dysphagia and odynophagia",
+        "Haematemesis and melaena",
+        "Ascites and peripheral oedema"
+      ],
+      "ans": 0,
+      "exp": "The clinical list includes abdominal distension and belching. (Book p63)"
+    },
+    {
+      "id": "MED-C10-25",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "recall",
+      "q": "Which upper-GI symptom is listed under IBS clinical presentations?",
+      "opts": [
+        "Dyspepsia/heartburn",
+        "Haematemesis",
+        "Jaundice",
+        "Cholestatic pruritus"
+      ],
+      "ans": 0,
+      "exp": "Dyspepsia/heartburn is listed. (Book p63)"
+    },
+    {
+      "id": "MED-C10-26",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "page": 63,
+      "fmt": "recall",
+      "q": "The remaining paired symptoms in the p63 presentation list are:",
+      "opts": [
+        "Jaundice and pruritus",
+        "Fever and chills",
+        "Nausea and vomiting",
+        "Tenesmus and dyschezia"
+      ],
+      "ans": 2,
+      "exp": "Nausea and vomiting are listed as clinical presentations. (Book p63)"
+    },
+    {
+      "id": "MED-C10-27",
+      "sec": "IBS Pathophysiology",
+      "page": 64,
+      "fmt": "recall",
+      "q": "The first pathophysiology theory on p64 is:",
+      "opts": [
+        "Bile-acid overproduction",
+        "Visceral hypersensitivity",
+        "Mucosal invasion",
+        "Pancreatic exocrine failure"
+      ],
+      "ans": 1,
+      "exp": "The first listed theory is visceral hypersensitivity. (Book p64)"
+    },
+    {
+      "id": "MED-C10-28",
+      "sec": "IBS Pathophysiology",
+      "page": 64,
+      "fmt": "scenario",
+      "q": "In the visceral-hypersensitivity model, minimal rectal distension can:",
+      "opts": [
+        "Suppress pain receptors until very high volume",
+        "Cause mucosal ulceration",
+        "Inhibit colonic motor activity completely",
+        "Stimulate pain receptors because sensitivity is enhanced"
+      ],
+      "ans": 3,
+      "exp": "The page says minimal rectal distension stimulates pain receptors due to enhanced sensitivity. (Book p64)"
+    },
+    {
+      "id": "MED-C10-29",
+      "sec": "IBS Pathophysiology",
+      "page": 64,
+      "fmt": "recall",
+      "q": "Compared with healthy controls, the graph demonstrates rectal hypersensitivity in IBS because pain/sensation occurs at:",
+      "opts": [
+        "The same volume in every subject",
+        "No measurable rectal volume",
+        "Higher distending volumes only",
+        "Lower distending volumes"
+      ],
+      "ans": 3,
+      "exp": "The IBS curve rises at lower distending volumes than the healthy-control curve. (Book p64)"
+    },
+    {
+      "id": "MED-C10-30",
+      "sec": "IBS Pathophysiology",
+      "page": 64,
+      "fmt": "recall",
+      "q": "Which additional motor abnormality appears second in the p64 pathophysiology list?",
+      "opts": [
+        "Increased ileal bile-acid transport",
+        "Increased colonic motor potentials",
+        "Absent gastric slow waves",
+        "Reduced oesophageal peristalsis"
+      ],
+      "ans": 1,
+      "exp": "The second listed mechanism is increased colonic motor potentials. (Book p64)"
+    },
+    {
+      "id": "MED-C10-31",
+      "sec": "IBS Pathophysiology",
+      "page": 64,
+      "fmt": "recall",
+      "q": "The central nervous system structure named in the IBS list is the:",
+      "opts": [
+        "Occipital cortex",
+        "Medulla oblongata",
+        "Cingulate cortex",
+        "Cerebellar vermis"
+      ],
+      "ans": 2,
+      "exp": "The page lists central activation of the cingulate cortex. (Book p64)"
+    },
+    {
+      "id": "MED-C10-32",
+      "sec": "IBS Pathophysiology",
+      "page": 64,
+      "fmt": "recall",
+      "q": "The cell population described as increased in IBS contains more:",
+      "opts": [
+        "Histamine in parietal cells",
+        "Gastrin in chief cells",
+        "Serotonin in enterochromaffin cells",
+        "Iron in macrophages"
+      ],
+      "ans": 2,
+      "exp": "The page lists an increase in serotonin-containing enterochromaffin cells. (Book p64)"
+    },
+    {
+      "id": "MED-C10-33",
+      "sec": "IBS Pathophysiology",
+      "page": 64,
+      "fmt": "recall",
+      "q": "Which ion-channel family is the fifth item in the pathophysiology list?",
+      "opts": [
+        "Voltage-gated calcium channels only",
+        "Sodium-glucose transporters",
+        "Vanilloid channels (TRP-V1)",
+        "Chloride channels activated by cAMP"
+      ],
+      "ans": 2,
+      "exp": "The final listed pathophysiology item is vanilloid channels (TRP-V1). (Book p64)"
+    },
+    {
+      "id": "MED-C10-34",
+      "sec": "IBS Pathophysiology",
+      "page": 64,
+      "fmt": "numeric",
+      "q": "The p64 lifestyle flowchart estimates improvement after diet and lifestyle modifications in:",
+      "opts": [
+        "90% of cases",
+        "50% of cases",
+        "70% of cases",
+        "30% of cases"
+      ],
+      "ans": 2,
+      "exp": "The flowchart gives improvement in 70% of cases. (Book p64)"
+    },
+    {
+      "id": "MED-C10-35",
+      "sec": "IBS Pathophysiology",
+      "page": 64,
+      "fmt": "numeric",
+      "q": "The proportion routed to medical management after no improvement with lifestyle measures is:",
+      "opts": [
+        "50%",
+        "70%",
+        "10%",
+        "30%"
+      ],
+      "ans": 3,
+      "exp": "No improvement is marked in 30% of cases, leading to medical management. (Book p64)"
+    },
+    {
+      "id": "MED-C10-36",
+      "sec": "Lifestyle and FODMAPs",
+      "page": 64,
+      "fmt": "numeric",
+      "q": "The walking target listed under lifestyle management is:",
+      "opts": [
+        "2,000–3,000 steps",
+        "10,000–12,000 steps",
+        "15,000–18,000 steps",
+        "6,000–8,000 steps"
+      ],
+      "ans": 3,
+      "exp": "The page lists walking 6,000–8,000 steps. (Book p64)"
+    },
+    {
+      "id": "MED-C10-37",
+      "sec": "Lifestyle and FODMAPs",
+      "page": 64,
+      "fmt": "recall",
+      "q": "The diet instruction written on p64 is to reduce:",
+      "opts": [
+        "FODMAPs",
+        "Iron and vitamin C",
+        "All dietary protein",
+        "Long-chain triglycerides only"
+      ],
+      "ans": 0,
+      "exp": "The lifestyle note says to reduce FODMAPs. (Book p64)"
+    },
+    {
+      "id": "MED-C10-38",
+      "sec": "Lifestyle and FODMAPs",
+      "page": 64,
+      "fmt": "recall",
+      "q": "FODMAP is expanded on the page as:",
+      "opts": [
+        "Fatty acids, bile salts and pancreatic enzymes",
+        "Fermentable proteins, minerals and peptides",
+        "Folate, oxyntic cells and mucins",
+        "Fermentable oligo-, di-, monosaccharides and polyols"
+      ],
+      "ans": 3,
+      "exp": "The printed expansion is fermentable oligo-, di-, monosaccharides and polyols. (Book p64)"
+    },
+    {
+      "id": "MED-C10-39",
+      "sec": "Lifestyle and FODMAPs",
+      "page": 64,
+      "fmt": "recall",
+      "q": "Which food is included in the p64 list of FODMAP sources?",
+      "opts": [
+        "Apple",
+        "Plain fish",
+        "Chicken",
+        "Egg white"
+      ],
+      "ans": 0,
+      "exp": "Examples listed include apple, mango, wheat, honey, legumes and cauliflower. (Book p64)"
+    },
+    {
+      "id": "MED-C10-40",
+      "sec": "Lifestyle and FODMAPs",
+      "page": 64,
+      "fmt": "recall",
+      "q": "Which set contains only examples listed as FODMAP sources?",
+      "opts": [
+        "Rice, chicken, egg and fish",
+        "Beef, butter, salt and water",
+        "Oats, eggs, poultry and cheese",
+        "Mango, wheat, honey, legumes and cauliflower"
+      ],
+      "ans": 3,
+      "exp": "The source list is apple, mango, wheat, honey, legume and cauliflower, among others. (Book p64)"
+    },
+    {
+      "id": "MED-C10-41",
+      "sec": "Lifestyle and FODMAPs",
+      "page": 64,
+      "fmt": "recall",
+      "q": "Which small-intestinal effect is shown for the FODMAP diagram?",
+      "opts": [
+        "Mucosal ulcers form and cause bleeding",
+        "Water is removed from the lumen, causing constipation only",
+        "Water is drawn into the bowel, leading to diarrhoea",
+        "Bile acids are reabsorbed and cause jaundice"
+      ],
+      "ans": 2,
+      "exp": "The figure shows water entering the bowel in the small intestine and a diarrhoeal outcome. (Book p64)"
+    },
+    {
+      "id": "MED-C10-42",
+      "sec": "Lifestyle and FODMAPs",
+      "page": 64,
+      "fmt": "recall",
+      "q": "In the large intestine, FODMAPs are linked to which process?",
+      "opts": [
+        "Hepatic conjugation",
+        "Pancreatic lipolysis",
+        "Bacterial fermentation",
+        "Brush-border hydrolysis"
+      ],
+      "ans": 2,
+      "exp": "The large-intestine part of the diagram is labelled bacterial fermentation. (Book p64)"
+    },
+    {
+      "id": "MED-C10-43",
+      "sec": "Lifestyle and FODMAPs",
+      "page": 64,
+      "fmt": "recall",
+      "q": "Which symptom cluster follows gas production in the large-intestinal FODMAP diagram?",
+      "opts": [
+        "Haematemesis, jaundice, pruritus and fever",
+        "Bloating, distension, flatulence, abdominal pain and constipation",
+        "Tenesmus, dysuria, rash and arthritis",
+        "Steatorrhoea, oedema, ascites and weight loss"
+      ],
+      "ans": 1,
+      "exp": "The diagram lists bloating, distension, flatulence, abdominal pain and constipation after gas production. (Book p64)"
+    },
+    {
+      "id": "MED-C10-44",
+      "sec": "Type-Based Medical Management",
+      "page": 65,
+      "fmt": "management",
+      "q": "The p65 medical-management diagram divides IBS treatment first according to:",
+      "opts": [
+        "Patient age only",
+        "Serum gastrin level",
+        "Presence of H. pylori",
+        "IBS type"
+      ],
+      "ans": 3,
+      "exp": "The diagram says medical management is based on the type of IBS. (Book p65)"
+    },
+    {
+      "id": "MED-C10-45",
+      "sec": "Type-Based Medical Management",
+      "page": 65,
+      "fmt": "management",
+      "q": "Which drug is listed for diarrhoea-predominant (D+) IBS?",
+      "opts": [
+        "Tegaserod",
+        "Psyllium husk",
+        "Lubiprostone",
+        "Loperamide"
+      ],
+      "ans": 3,
+      "exp": "Loperamide is listed in the D+ branch. (Book p65)"
+    },
+    {
+      "id": "MED-C10-46",
+      "sec": "Type-Based Medical Management",
+      "page": 65,
+      "fmt": "recall",
+      "q": "For the D+ branch, the timing instruction for antispasmodics is:",
+      "opts": [
+        "Thirty minutes before food",
+        "One hour after food",
+        "Only at bedtime",
+        "Immediately after every meal"
+      ],
+      "ans": 0,
+      "exp": "The page says antispasmodics are taken 30 minutes before food. (Book p65)"
+    },
+    {
+      "id": "MED-C10-47",
+      "sec": "Type-Based Medical Management",
+      "page": 65,
+      "fmt": "recall",
+      "q": "Which additional general drug class appears in the D+ treatment list?",
+      "opts": [
+        "Antidepressants",
+        "Thrombolytics",
+        "Anticoagulants",
+        "Chelators"
+      ],
+      "ans": 0,
+      "exp": "Antidepressants are also listed in the D+ branch. (Book p65)"
+    },
+    {
+      "id": "MED-C10-48",
+      "sec": "Type-Based Medical Management",
+      "page": 65,
+      "fmt": "recall",
+      "q": "The p65 table labels the listed agents for diarrhoea-predominant IBS as:",
+      "opts": [
+        "First-line antibiotics",
+        "Obsolete drugs",
+        "Eradication regimens",
+        "Diagnostic dyes"
+      ],
+      "ans": 1,
+      "exp": "The table is introduced under the heading 'Obsolete drugs'. (Book p65)"
+    },
+    {
+      "id": "MED-C10-49",
+      "sec": "Type-Based Medical Management",
+      "page": 65,
+      "fmt": "recall",
+      "q": "Alosetron acts as a:",
+      "opts": [
+        "Na+/H+ exchange blocker",
+        "5-HT3 antagonist",
+        "Guanylyl-cyclase agonist",
+        "μ/κ agonist and δ antagonist"
+      ],
+      "ans": 1,
+      "exp": "The table lists alosetron as a 5-HT3 antagonist. (Book p65)"
+    },
+    {
+      "id": "MED-C10-50",
+      "sec": "Type-Based Medical Management",
+      "page": 65,
+      "fmt": "recall",
+      "q": "The adverse effect paired with alosetron is:",
+      "opts": [
+        "Gastric intolerance",
+        "Cardiac toxicity",
+        "Pancreatitis",
+        "Ischaemic colitis"
+      ],
+      "ans": 3,
+      "exp": "The table pairs alosetron with ischaemic colitis. (Book p65)"
+    },
+    {
+      "id": "MED-C10-51",
+      "sec": "Type-Based Medical Management",
+      "page": 65,
+      "fmt": "recall",
+      "q": "Eluxadoline's opioid-receptor profile is:",
+      "opts": [
+        "Guanylyl-cyclase agonist",
+        "Na+/H+ exchange blocker",
+        "5-HT3 antagonist",
+        "μ- and κ-agonist, δ-antagonist"
+      ],
+      "ans": 3,
+      "exp": "The table lists μ, κ agonism and δ antagonism for eluxadoline. (Book p65)"
+    },
+    {
+      "id": "MED-C10-52",
+      "sec": "Type-Based Medical Management",
+      "page": 65,
+      "fmt": "recall",
+      "q": "Which adverse effect is paired with eluxadoline in the p65 table?",
+      "opts": [
+        "Ischaemic colitis",
+        "Pancreatitis",
+        "Cardiac toxicity",
+        "Oedema"
+      ],
+      "ans": 1,
+      "exp": "The table pairs eluxadoline with pancreatitis. (Book p65)"
+    },
+    {
+      "id": "MED-C10-53",
+      "sec": "Type-Based Medical Management",
+      "page": 65,
+      "fmt": "recall",
+      "q": "The adverse effect listed beside tegaserod is:",
+      "opts": [
+        "Pancreatitis",
+        "Hypoalbuminaemia",
+        "Ischaemic colitis",
+        "Cardiac toxicity"
+      ],
+      "ans": 3,
+      "exp": "The table lists cardiac toxicity for tegaserod. (Book p65)"
+    },
+    {
+      "id": "MED-C10-54",
+      "sec": "Type-Based Medical Management",
+      "page": 65,
+      "fmt": "recall",
+      "q": "Which two stool-bulking agents are listed under C+ IBS?",
+      "opts": [
+        "Lubiprostone and tenapanor only",
+        "Psyllium husk and polyethylene glycol (PEG) laxatives",
+        "Eluxadoline and tegaserod",
+        "Loperamide and alosetron"
+      ],
+      "ans": 1,
+      "exp": "The C+ branch lists psyllium husk and PEG laxatives as stool-bulking agents. (Book p65)"
+    },
+    {
+      "id": "MED-C10-55",
+      "sec": "Type-Based Medical Management",
+      "page": 65,
+      "fmt": "recall",
+      "q": "Lubiprostone is described as a bicyclic fatty acid that activates a:",
+      "opts": [
+        "CCK-B receptor",
+        "Na+/H+ exchanger",
+        "5-HT3 receptor",
+        "Chloride channel"
+      ],
+      "ans": 3,
+      "exp": "The page describes lubiprostone as a bicyclic fatty acid and Cl− channel activator. (Book p65)"
+    },
+    {
+      "id": "MED-C10-56",
+      "sec": "Type-Based Medical Management",
+      "page": 65,
+      "fmt": "recall",
+      "q": "Linaclotide is identified as a:",
+      "opts": [
+        "5-HT3 antagonist",
+        "Guanylyl-cyclase agonist",
+        "μ-opioid agonist",
+        "Na+/H+ exchange blocker"
+      ],
+      "ans": 1,
+      "exp": "The page labels linaclotide a guanylyl-cyclase agonist. (Book p65)"
+    },
+    {
+      "id": "MED-C10-57",
+      "sec": "Type-Based Medical Management",
+      "page": 65,
+      "fmt": "recall",
+      "q": "Tenapanor's listed action is blockade of the:",
+      "opts": [
+        "Guanylyl cyclase",
+        "Na+/H+ exchanger",
+        "5-HT3 receptor",
+        "Cl− channel"
+      ],
+      "ans": 1,
+      "exp": "The page describes tenapanor as a Na+/H+ exchange blocker. (Book p65)"
+    },
+    {
+      "id": "MED-C10-58",
+      "sec": "Type-Based Medical Management",
+      "page": 65,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — the p65 note says effectiveness of antibiotics, probiotics and prebiotics is not determined.",
+      "opts": [
+        "True — but only for C+ IBS",
+        "True — the note says effectiveness is not determined",
+        "False — all three are established as effective",
+        "False — the note addresses only loperamide"
+      ],
+      "ans": 1,
+      "exp": "The final note says effectiveness of antibiotics, probiotics and prebiotics is not determined. (Book p65)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U10-1",
+      "ch": 10,
+      "n": 1,
+      "title": "Definition & Associations",
+      "sec": "Definition and Associations",
+      "guide": "IBS is presented as a functional bowel disorder/reaction to stress.\nAssociations: lactose intolerance, celiac disease, fibromyalgia, chronic fatigue and generalized anxiety.\nThe clinical list is more common in women and under age 45.",
+      "qs": [
+        "MED-C10-01",
+        "MED-C10-02",
+        "MED-C10-03",
+        "MED-C10-04"
+      ]
+    },
+    {
+      "id": "MED-U10-2",
+      "ch": 10,
+      "n": 2,
+      "title": "Clinical Pattern, Rome IV & Red Flags",
+      "sec": "Clinical Pattern, Rome IV and Red Flags",
+      "guide": "Pain: crampy lower abdomen, at least weekly, aggravated by stress/eating and relieved by defecation.\nRome IV line as printed: ≥3 months and ≥2 of stool-frequency change, stool-form change or defecation relation; the source omits onset ≥6 months before diagnosis (see audit/known-source-caveats.md).\nNocturnal diarrhoea, blood, fever, weight loss, anaemia, malabsorption and raised ESR argue against IBS.",
+      "qs": [
+        "MED-C10-05",
+        "MED-C10-06",
+        "MED-C10-07",
+        "MED-C10-08",
+        "MED-C10-09",
+        "MED-C10-10",
+        "MED-C10-11",
+        "MED-C10-12",
+        "MED-C10-13",
+        "MED-C10-14",
+        "MED-C10-15",
+        "MED-C10-16",
+        "MED-C10-17",
+        "MED-C10-18",
+        "MED-C10-19",
+        "MED-C10-20",
+        "MED-C10-21",
+        "MED-C10-22",
+        "MED-C10-23",
+        "MED-C10-24",
+        "MED-C10-25",
+        "MED-C10-26"
+      ]
+    },
+    {
+      "id": "MED-U10-3",
+      "ch": 10,
+      "n": 3,
+      "title": "Pathophysiology",
+      "sec": "IBS Pathophysiology",
+      "guide": "Visceral hypersensitivity, increased colonic motor potentials and cingulate activation are listed.\nThe page also notes serotonin-containing enterochromaffin cells and TRP-V1 channels.\nThe graph shows pain/sensation at lower rectal distending volumes in IBS.",
+      "qs": [
+        "MED-C10-27",
+        "MED-C10-28",
+        "MED-C10-29",
+        "MED-C10-30",
+        "MED-C10-31",
+        "MED-C10-32",
+        "MED-C10-33",
+        "MED-C10-34",
+        "MED-C10-35"
+      ]
+    },
+    {
+      "id": "MED-U10-4",
+      "ch": 10,
+      "n": 4,
+      "title": "Lifestyle & FODMAPs",
+      "sec": "Lifestyle and FODMAPs",
+      "guide": "Diet/lifestyle changes improve about 70%; walking target is 6,000–8,000 steps.\nReduce fermentable oligo-, di-, monosaccharides and polyols; examples include apple, mango, wheat, honey, legumes and cauliflower.\nWater draw in small bowel and fermentation/gas in colon explain the diagrammed symptoms.",
+      "qs": [
+        "MED-C10-36",
+        "MED-C10-37",
+        "MED-C10-38",
+        "MED-C10-39",
+        "MED-C10-40",
+        "MED-C10-41",
+        "MED-C10-42",
+        "MED-C10-43"
+      ]
+    },
+    {
+      "id": "MED-U10-5",
+      "ch": 10,
+      "n": 5,
+      "title": "Type-Based Medical Management",
+      "sec": "Type-Based Medical Management",
+      "guide": "D+: loperamide, pre-meal antispasmodic, antidepressant; the table labels several drugs obsolete.\nC+: psyllium/PEG, lubiprostone, linaclotide and tenapanor.\nKeep each table drug linked to its action/adverse effect; the source says antibiotic/probiotic/prebiotic effectiveness is undetermined.",
+      "qs": [
+        "MED-C10-44",
+        "MED-C10-45",
+        "MED-C10-46",
+        "MED-C10-47",
+        "MED-C10-48",
+        "MED-C10-49",
+        "MED-C10-50",
+        "MED-C10-51",
+        "MED-C10-52",
+        "MED-C10-53",
+        "MED-C10-54",
+        "MED-C10-55",
+        "MED-C10-56",
+        "MED-C10-57",
+        "MED-C10-58"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1057 @@
+{
+  "chapter": 11,
+  "title": "Clinical Approach to Anemia",
+  "pageRange": "66-69",
+  "questions": [
+    {
+      "id": "MED-C11-01",
+      "sec": "WHO Thresholds and Hematopoiesis",
+      "page": 66,
+      "fmt": "numeric",
+      "q": "The WHO haemoglobin threshold for anaemia in an average healthy 40-year-old male is:",
+      "opts": [
+        "<15 g/dL",
+        "<11 g/dL",
+        "<13 g/dL",
+        "<10 g/dL"
+      ],
+      "ans": 2,
+      "exp": "The p66 definition gives male Hb <13 g/dL. (Book p66)"
+    },
+    {
+      "id": "MED-C11-02",
+      "sec": "WHO Thresholds and Hematopoiesis",
+      "page": 66,
+      "fmt": "numeric",
+      "q": "The female haemoglobin threshold shown beside the healthy-adult definition is:",
+      "opts": [
+        "<13 g/dL",
+        "<11 g/dL",
+        "<12 g/dL",
+        "<10 g/dL"
+      ],
+      "ans": 2,
+      "exp": "The page gives female Hb <12 g/dL. (Book p66)"
+    },
+    {
+      "id": "MED-C11-03",
+      "sec": "WHO Thresholds and Hematopoiesis",
+      "page": 66,
+      "fmt": "numeric",
+      "q": "The haemoglobin threshold printed for a pregnant woman is:",
+      "opts": [
+        "<13 g/dL",
+        "<10 g/dL",
+        "<11 g/dL",
+        "<12 g/dL"
+      ],
+      "ans": 2,
+      "exp": "The pregnancy threshold is <11 g/dL. (Book p66)"
+    },
+    {
+      "id": "MED-C11-04",
+      "sec": "WHO Thresholds and Hematopoiesis",
+      "page": 66,
+      "fmt": "numeric",
+      "q": "The p66 definition lists which haemoglobin threshold for a patient with CKD?",
+      "opts": [
+        "<10 g/dL",
+        "<11 g/dL",
+        "<13 g/dL",
+        "<12 g/dL"
+      ],
+      "ans": 0,
+      "exp": "The page lists Hb <10 g/dL for a known CKD patient. (Book p66)"
+    },
+    {
+      "id": "MED-C11-05",
+      "sec": "WHO Thresholds and Hematopoiesis",
+      "page": 66,
+      "fmt": "recall",
+      "q": "The top cell in the haematopoiesis diagram is the:",
+      "opts": [
+        "Pluripotent haematopoietic stem cell (PPHSC)",
+        "Proerythroblast",
+        "Common lymphoid progenitor",
+        "Reticulocyte"
+      ],
+      "ans": 0,
+      "exp": "The diagram begins with pluripotent haematopoietic stem cell (PPHSC). (Book p66)"
+    },
+    {
+      "id": "MED-C11-06",
+      "sec": "WHO Thresholds and Hematopoiesis",
+      "page": 66,
+      "fmt": "recall",
+      "q": "The two progenitor branches directly downstream of PPHSC are:",
+      "opts": [
+        "Common myeloid and common lymphoid progenitors",
+        "Granulocyte and monocyte progenitors",
+        "BFU-E and CFU-E",
+        "B/T cells and NK cells"
+      ],
+      "ans": 0,
+      "exp": "PPHSC branches to common myeloid and common lymphoid progenitors. (Book p66)"
+    },
+    {
+      "id": "MED-C11-07",
+      "sec": "WHO Thresholds and Hematopoiesis",
+      "page": 66,
+      "fmt": "recall",
+      "q": "Which set is shown downstream of the common myeloid progenitor?",
+      "opts": [
+        "Platelets, granulocytes, monocytes and RBCs",
+        "RBCs and plasma cells only",
+        "B/T lymphocytes and NK cells only",
+        "Eosinophils, B cells and platelets only"
+      ],
+      "ans": 0,
+      "exp": "The common myeloid progenitor gives platelets, granulocytes, monocytes and RBCs. (Book p66)"
+    },
+    {
+      "id": "MED-C11-08",
+      "sec": "WHO Thresholds and Hematopoiesis",
+      "page": 66,
+      "fmt": "recall",
+      "q": "The common lymphoid progenitor branch gives rise to:",
+      "opts": [
+        "Eosinophils and basophils",
+        "B/T lymphocytes and NK cells",
+        "Neutrophils and macrophages",
+        "Platelets and RBCs"
+      ],
+      "ans": 1,
+      "exp": "The diagram shows B/T lymphocytes and NK cells downstream of the common lymphoid progenitor. (Book p66)"
+    },
+    {
+      "id": "MED-C11-09",
+      "sec": "WHO Thresholds and Hematopoiesis",
+      "page": 66,
+      "fmt": "recall",
+      "q": "Which trio is included under granulocytes in the p66 lineage diagram?",
+      "opts": [
+        "B cells, T cells and plasma cells",
+        "Neutrophils, eosinophils and basophils",
+        "Platelets, erythroblasts and reticulocytes",
+        "Monocytes, macrophages and NK cells"
+      ],
+      "ans": 1,
+      "exp": "The listed granulocytes are neutrophils, eosinophils and basophils. (Book p66)"
+    },
+    {
+      "id": "MED-C11-10",
+      "sec": "WHO Thresholds and Hematopoiesis",
+      "page": 66,
+      "fmt": "recall",
+      "q": "The monocyte branch is shown giving rise to:",
+      "opts": [
+        "Macrophages",
+        "NK cells",
+        "Platelets",
+        "Chief cells"
+      ],
+      "ans": 0,
+      "exp": "Monocytes are shown differentiating into macrophages. (Book p66)"
+    },
+    {
+      "id": "MED-C11-11",
+      "sec": "WHO Thresholds and Hematopoiesis",
+      "page": 66,
+      "fmt": "recall",
+      "q": "Which sequence gives the early red-cell production pathway in the figure?",
+      "opts": [
+        "PPHSC → common lymphoid progenitor → NK cell → CFU-E → RBC",
+        "PPHSC → CFU-E → BFU-E → proerythroblast → platelet",
+        "PPHSC → megakaryocyte → reticulocyte → BFU-E → RBC",
+        "PPHSC → common myeloid progenitor → BFU-E → CFU-E → proerythroblast → mature RBC"
+      ],
+      "ans": 3,
+      "exp": "The figure traces PPHSC through CMP, BFU-E, CFU-E and proerythroblast to mature RBCs. (Book p66)"
+    },
+    {
+      "id": "MED-C11-12",
+      "sec": "WHO Thresholds and Hematopoiesis",
+      "page": 66,
+      "fmt": "recall",
+      "q": "The stage labelled EPO-independent and iron-independent is:",
+      "opts": [
+        "Proerythroblast",
+        "Common myeloid progenitor",
+        "BFU-E",
+        "CFU-E"
+      ],
+      "ans": 1,
+      "exp": "The diagram marks the common myeloid progenitor as EPO-independent and iron-independent. (Book p66)"
+    },
+    {
+      "id": "MED-C11-13",
+      "sec": "WHO Thresholds and Hematopoiesis",
+      "page": 66,
+      "fmt": "recall",
+      "q": "The BFU-E stage is labelled:",
+      "opts": [
+        "Iron-dependent but EPO-independent",
+        "EPO-independent and iron-independent",
+        "EPO-dependent but iron-independent",
+        "EPO- and iron-dependent"
+      ],
+      "ans": 2,
+      "exp": "BFU-E is marked EPO-dependent, iron-independent. (Book p66)"
+    },
+    {
+      "id": "MED-C11-14",
+      "sec": "WHO Thresholds and Hematopoiesis",
+      "page": 66,
+      "fmt": "recall",
+      "q": "The p66 bracket labels the CFU-E stage and downstream red-cell maturation as dependent on:",
+      "opts": [
+        "Neither EPO nor iron",
+        "Iron only",
+        "Both EPO and iron",
+        "EPO only"
+      ],
+      "ans": 2,
+      "exp": "The bracket begins at CFU-E and continues through mature RBCs; it labels dependence on both EPO and iron. (Book p66)"
+    },
+    {
+      "id": "MED-C11-15",
+      "sec": "WHO Thresholds and Hematopoiesis",
+      "page": 66,
+      "fmt": "recall",
+      "q": "Erythropoietin is produced by peritubular interstitial fibroblasts in the:",
+      "opts": [
+        "Renal pelvis only",
+        "Liver and spleen",
+        "Cortex and outer medulla of the kidney",
+        "Bone marrow sinusoids"
+      ],
+      "ans": 2,
+      "exp": "The note locates EPO production in peritubular interstitial fibroblasts of the renal cortex and outer medulla. (Book p66)"
+    },
+    {
+      "id": "MED-C11-16",
+      "sec": "WHO Thresholds and Hematopoiesis",
+      "page": 66,
+      "fmt": "recall",
+      "q": "The source named for thrombopoietin is the:",
+      "opts": [
+        "Kidney",
+        "Bone marrow",
+        "Liver",
+        "Spleen"
+      ],
+      "ans": 2,
+      "exp": "The note says thrombopoietin is produced by the liver for platelets. (Book p66)"
+    },
+    {
+      "id": "MED-C11-17",
+      "sec": "WHO Thresholds and Hematopoiesis",
+      "page": 66,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — as erythroid cells mature, the page shows cell size and number of nucleoli decreasing.",
+      "opts": [
+        "False — both increase",
+        "True — only the cytoplasm decreases",
+        "True — both decrease with maturation",
+        "False — cell size decreases but nucleoli increase"
+      ],
+      "ans": 2,
+      "exp": "The p66 note says nucleoli decrease with chromatin condensation and cell size also decreases as maturity increases. (Book p66)"
+    },
+    {
+      "id": "MED-C11-18",
+      "sec": "Erythroid Maturation",
+      "page": 67,
+      "fmt": "recall",
+      "q": "The pro-normoblast/pro-erythroblast is described as the:",
+      "opts": [
+        "First enucleated cell",
+        "Largest cell",
+        "Mature red cell",
+        "Smallest nucleated cell"
+      ],
+      "ans": 1,
+      "exp": "The page labels the pro-normoblast as the largest cell. (Book p67)"
+    },
+    {
+      "id": "MED-C11-19",
+      "sec": "Erythroid Maturation",
+      "page": 67,
+      "fmt": "recall",
+      "q": "Which cytoplasmic colour is listed for the pro-normoblast?",
+      "opts": [
+        "Polychromatic with no basophilia",
+        "Grayish",
+        "Basophilic",
+        "Reddish"
+      ],
+      "ans": 2,
+      "exp": "The pro-normoblast cytoplasm is basophilic. (Book p67)"
+    },
+    {
+      "id": "MED-C11-20",
+      "sec": "Erythroid Maturation",
+      "page": 67,
+      "fmt": "recall",
+      "q": "The pro-normoblast has nucleoli because the chromatin is:",
+      "opts": [
+        "Fine",
+        "Completely absent",
+        "Dense and pyknotic",
+        "Fully clumped and mature"
+      ],
+      "ans": 0,
+      "exp": "Nucleoli are present due to fine chromatin in the pro-normoblast. (Book p67)"
+    },
+    {
+      "id": "MED-C11-21",
+      "sec": "Erythroid Maturation",
+      "page": 67,
+      "fmt": "recall",
+      "q": "The pro-normoblast nucleus-to-cytoplasm ratio is:",
+      "opts": [
+        "Low",
+        "Equal to one",
+        "Absent because the nucleus has been lost",
+        "High"
+      ],
+      "ans": 3,
+      "exp": "A high N:C ratio is listed for the pro-normoblast. (Book p67)"
+    },
+    {
+      "id": "MED-C11-22",
+      "sec": "Erythroid Maturation",
+      "page": 67,
+      "fmt": "recall",
+      "q": "Which pair describes the early/basophilic normoblast?",
+      "opts": [
+        "Basophilic cytoplasm; nucleoli absent as chromatin condensation begins",
+        "Reddish cytoplasm; dense pyknotic nucleus",
+        "Gray cytoplasm; cell division ceases",
+        "No nucleus; bluish tinge from RNA"
+      ],
+      "ans": 0,
+      "exp": "The early normoblast remains basophilic; nucleoli are absent as chromatin condensation begins. (Book p67)"
+    },
+    {
+      "id": "MED-C11-23",
+      "sec": "Erythroid Maturation",
+      "page": 67,
+      "fmt": "recall",
+      "q": "The nucleus-to-cytoplasm ratio remains high in which early precursor after the pro-normoblast?",
+      "opts": [
+        "Late/orthochromatic normoblast only",
+        "Early/basophilic normoblast",
+        "Mature RBC",
+        "Reticulocyte"
+      ],
+      "ans": 1,
+      "exp": "The early/basophilic normoblast is also described with a high N:C ratio. (Book p67)"
+    },
+    {
+      "id": "MED-C11-24",
+      "sec": "Erythroid Maturation",
+      "page": 67,
+      "fmt": "recall",
+      "q": "The intermediate/polychromatic normoblast has grayish cytoplasm because of:",
+      "opts": [
+        "Initiation of haemoglobin synthesis",
+        "Complete absence of haemoglobin",
+        "RNA persistence after nucleus loss",
+        "Mucus accumulation"
+      ],
+      "ans": 0,
+      "exp": "The gray colour is attributed to the beginning of haemoglobin synthesis. (Book p67)"
+    },
+    {
+      "id": "MED-C11-25",
+      "sec": "Erythroid Maturation",
+      "page": 67,
+      "fmt": "recall",
+      "q": "The nucleus of the intermediate/polychromatic normoblast is described as:",
+      "opts": [
+        "Absent",
+        "Rounded, with chromatin condensation/clumping",
+        "Dense and pyknotic with red cytoplasm",
+        "Fine with prominent nucleoli"
+      ],
+      "ans": 1,
+      "exp": "The page describes a rounded nucleus and positive chromatin condensation/clumping. (Book p67)"
+    },
+    {
+      "id": "MED-C11-26",
+      "sec": "Erythroid Maturation",
+      "page": 67,
+      "fmt": "recall",
+      "q": "At which erythroid stage does cell division cease according to p67?",
+      "opts": [
+        "Pro-normoblast",
+        "Intermediate/polychromatic normoblast",
+        "Reticulocyte",
+        "Early/basophilic normoblast"
+      ],
+      "ans": 1,
+      "exp": "Cell division is stated to cease at the intermediate/polychromatic stage. (Book p67)"
+    },
+    {
+      "id": "MED-C11-27",
+      "sec": "Erythroid Maturation",
+      "page": 67,
+      "fmt": "recall",
+      "q": "The late/orthochromatic normoblast cytoplasm is reddish because it is:",
+      "opts": [
+        "Well haemoglobinised",
+        "Rich in RNA",
+        "Filled with mucin",
+        "Starting haemoglobin synthesis"
+      ],
+      "ans": 0,
+      "exp": "The reddish cytoplasm is attributed to being well haemoglobinised. (Book p67)"
+    },
+    {
+      "id": "MED-C11-28",
+      "sec": "Erythroid Maturation",
+      "page": 67,
+      "fmt": "recall",
+      "q": "The nucleus of the late/orthochromatic normoblast is:",
+      "opts": [
+        "Rounded with early clumping",
+        "Fine with visible nucleoli",
+        "Dense and pyknotic",
+        "Absent and replaced by RNA"
+      ],
+      "ans": 2,
+      "exp": "The late normoblast has a dense, pyknotic nucleus. (Book p67)"
+    },
+    {
+      "id": "MED-C11-29",
+      "sec": "Erythroid Maturation",
+      "page": 67,
+      "fmt": "recall",
+      "q": "Which pair characterizes a reticulocyte in the stage diagram?",
+      "opts": [
+        "Nucleus absent; cytoplasm has a bluish tinge from RNA",
+        "Rounded nucleus; gray cytoplasm",
+        "Dense pyknotic nucleus; red cytoplasm",
+        "Nucleoli present; basophilic cytoplasm"
+      ],
+      "ans": 0,
+      "exp": "The reticulocyte has no nucleus and a bluish cytoplasmic tinge due to RNA. (Book p67)"
+    },
+    {
+      "id": "MED-C11-30",
+      "sec": "Erythroid Maturation",
+      "page": 67,
+      "fmt": "recall",
+      "q": "The mature RBC image is described as being shown after:",
+      "opts": [
+        "Supravital staining only",
+        "Gram staining",
+        "Prussian-blue staining",
+        "Romanowsky staining"
+      ],
+      "ans": 3,
+      "exp": "The image caption says mature RBCs after Romanowsky staining. (Book p67)"
+    },
+    {
+      "id": "MED-C11-31",
+      "sec": "Erythroid Maturation",
+      "page": 67,
+      "fmt": "recall",
+      "q": "A giant pro-erythroblast is noted in:",
+      "opts": [
+        "Toxic megacolon",
+        "Celiac disease",
+        "Iron-deficiency anaemia",
+        "Pure red cell aplasia"
+      ],
+      "ans": 3,
+      "exp": "The p67 note associates a giant pro-erythroblast with pure red cell aplasia. (Book p67)"
+    },
+    {
+      "id": "MED-C11-32",
+      "sec": "Reticulocyte Count and Indices",
+      "page": 68,
+      "fmt": "recall",
+      "q": "Reticulocyte RNA is detected using which class of stain?",
+      "opts": [
+        "Romanowsky stains only",
+        "Acid-fast stain",
+        "Supravital stains",
+        "Prussian-blue stain"
+      ],
+      "ans": 2,
+      "exp": "The page says reticulocyte RNA requires supravital staining. (Book p68)"
+    },
+    {
+      "id": "MED-C11-33",
+      "sec": "Reticulocyte Count and Indices",
+      "page": 68,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — fixation is required before supravital staining to detect reticulocyte RNA.",
+      "opts": [
+        "True — fixation is required for every reticulocyte test",
+        "False — fixation is not required",
+        "False — but only for Romanowsky stain",
+        "True — fixation is essential"
+      ],
+      "ans": 1,
+      "exp": "The page explicitly notes fixation is not required for detecting RNA with supravital stain. (Book p68)"
+    },
+    {
+      "id": "MED-C11-34",
+      "sec": "Reticulocyte Count and Indices",
+      "page": 68,
+      "fmt": "recall",
+      "q": "Which pair of supravital stains is listed for reticulocytes?",
+      "opts": [
+        "Prussian blue and Wright stain",
+        "Brilliant cresyl blue and new methylene blue",
+        "Sudan III and Sudan IV",
+        "Gram stain and Ziehl–Neelsen stain"
+      ],
+      "ans": 1,
+      "exp": "The listed stains are brilliant cresyl blue and new methylene blue. (Book p68)"
+    },
+    {
+      "id": "MED-C11-35",
+      "sec": "Reticulocyte Count and Indices",
+      "page": 68,
+      "fmt": "recall",
+      "q": "With Romanowsky stain, reticulocytes are noted to appear:",
+      "opts": [
+        "Prussian blue",
+        "As a dark intracellular inclusion",
+        "Polychromatic; the reticulocyte RNA is not detected",
+        "Completely colourless"
+      ],
+      "ans": 2,
+      "exp": "The note says RNA is not detected with Romanowsky stain and cells appear polychromatic. (Book p68)"
+    },
+    {
+      "id": "MED-C11-36",
+      "sec": "Reticulocyte Count and Indices",
+      "page": 68,
+      "fmt": "numeric",
+      "q": "The normal reticulocyte count range printed on p68 is:",
+      "opts": [
+        "2.5–5%",
+        "0.5–1.5%",
+        "5–10%",
+        "0.05–0.15%"
+      ],
+      "ans": 1,
+      "exp": "The page gives a normal RC of 0.5–1.5%. (Book p68)"
+    },
+    {
+      "id": "MED-C11-37",
+      "sec": "Reticulocyte Count and Indices",
+      "page": 68,
+      "fmt": "recall",
+      "q": "In hypoproliferative anaemia, reduced RBC production leads to:",
+      "opts": [
+        "Reticulocytosis",
+        "Thrombocytosis",
+        "Polychromasia with normal count only",
+        "Reticulocytopenia"
+      ],
+      "ans": 3,
+      "exp": "Reduced RBC production is linked to reticulocytopenia/decreased reticulocyte count. (Book p68)"
+    },
+    {
+      "id": "MED-C11-38",
+      "sec": "Reticulocyte Count and Indices",
+      "page": 68,
+      "fmt": "recall",
+      "q": "A hyperproliferative response associated with RBC destruction or blood loss produces:",
+      "opts": [
+        "Reticulocytosis",
+        "Reticulocytopenia",
+        "A low absolute reticulocyte count",
+        "A normal count in every case"
+      ],
+      "ans": 0,
+      "exp": "Increased destruction or blood loss is linked to reticulocytosis. (Book p68)"
+    },
+    {
+      "id": "MED-C11-39",
+      "sec": "Reticulocyte Count and Indices",
+      "page": 68,
+      "fmt": "numeric",
+      "q": "The absolute reticulocyte count range shown is:",
+      "opts": [
+        "100,000–150,000 cells/µL",
+        "250,000–750,000 cells/µL",
+        "2,500–7,500 cells/µL",
+        "25,000–75,000 cells/µL"
+      ],
+      "ans": 3,
+      "exp": "The page gives an absolute count of 25,000–75,000 cells/µL. (Book p68)"
+    },
+    {
+      "id": "MED-C11-40",
+      "sec": "Reticulocyte Count and Indices",
+      "page": 68,
+      "fmt": "recall",
+      "q": "The corrected reticulocyte count (CRC) corrects for:",
+      "opts": [
+        "The platelet count",
+        "The patient's age alone",
+        "The size of the spleen",
+        "The degree of anaemia"
+      ],
+      "ans": 3,
+      "exp": "CRC is described as correction for the degree of anaemia. (Book p68)"
+    },
+    {
+      "id": "MED-C11-41",
+      "sec": "Reticulocyte Count and Indices",
+      "page": 68,
+      "fmt": "recall",
+      "q": "Which equation reproduces the corrected reticulocyte count formula?",
+      "opts": [
+        "Reticulocyte count × (desired haemoglobin ÷ patient haemoglobin)",
+        "Reticulocyte count × (patient haemoglobin ÷ desired haemoglobin)",
+        "Patient haemoglobin × desired haemoglobin ÷ reticulocyte count",
+        "Reticulocyte count ÷ (patient haemoglobin + desired haemoglobin)"
+      ],
+      "ans": 1,
+      "exp": "CRC = reticulocyte count × haemoglobin in patient / desired haemoglobin level. (Book p68)"
+    },
+    {
+      "id": "MED-C11-42",
+      "sec": "Reticulocyte Count and Indices",
+      "page": 68,
+      "fmt": "numeric",
+      "q": "The desired haemoglobin value used for a male in the CRC note is:",
+      "opts": [
+        "12 g/dL",
+        "10 g/dL",
+        "15 g/dL",
+        "13 g/dL"
+      ],
+      "ans": 2,
+      "exp": "The boxed desired Hb value is 15 g/dL for males. (Book p68)"
+    },
+    {
+      "id": "MED-C11-43",
+      "sec": "Reticulocyte Count and Indices",
+      "page": 68,
+      "fmt": "numeric",
+      "q": "The desired haemoglobin value used for a female in the CRC note is:",
+      "opts": [
+        "10 g/dL",
+        "13 g/dL",
+        "12 g/dL",
+        "15 g/dL"
+      ],
+      "ans": 1,
+      "exp": "The boxed desired Hb value is 13 g/dL for females. (Book p68)"
+    },
+    {
+      "id": "MED-C11-44",
+      "sec": "Reticulocyte Count and Indices",
+      "page": 68,
+      "fmt": "recall",
+      "q": "The reticulocyte production index (RPI) additionally corrects for:",
+      "opts": [
+        "The shorter lifespan of mature RBCs only",
+        "The platelet lifespan",
+        "The longer life of prematurely released reticulocytes",
+        "The degree of iron absorption"
+      ],
+      "ans": 2,
+      "exp": "RPI corrects for the longer life of prematurely released reticulocytes. (Book p68)"
+    },
+    {
+      "id": "MED-C11-45",
+      "sec": "Reticulocyte Count and Indices",
+      "page": 68,
+      "fmt": "numeric",
+      "q": "The p68 formula for RPI is:",
+      "opts": [
+        "CRC multiplied by 2",
+        "CRC divided by 2",
+        "Hb divided by absolute reticulocyte count",
+        "RC divided by desired Hb"
+      ],
+      "ans": 1,
+      "exp": "The page gives RPI = CRC/2. (Book p68)"
+    },
+    {
+      "id": "MED-C11-46",
+      "sec": "Reticulocyte Count and Indices",
+      "page": 68,
+      "fmt": "scenario",
+      "q": "A male with Hb 9 g/dL has a reticulocyte count of 6%. Using the desired male Hb and CRC formula on p68, what is his corrected reticulocyte count?",
+      "opts": [
+        "3.6%",
+        "1.8%",
+        "6%",
+        "10%"
+      ],
+      "ans": 0,
+      "exp": "CRC = 6% × (9/15) = 3.6%; 1.8% would be the page's subsequent RPI calculation after dividing CRC by 2. (Book p68)"
+    },
+    {
+      "id": "MED-C11-47",
+      "sec": "Clinical Approach and Marrow Notes",
+      "page": 69,
+      "fmt": "recall",
+      "q": "The first branch in the clinical-approach flowchart separates anaemia by:",
+      "opts": [
+        "Male versus female sex",
+        "Single versus multiple lineages affected",
+        "Acute versus chronic onset",
+        "Iron level versus ferritin only"
+      ],
+      "ans": 1,
+      "exp": "The first decision is single-lineage versus multiple-lineage involvement. (Book p69)"
+    },
+    {
+      "id": "MED-C11-48",
+      "sec": "Clinical Approach and Marrow Notes",
+      "page": 69,
+      "fmt": "numeric",
+      "q": "In the p69 flowchart, RPI below what threshold is labelled hypoproliferative anaemia?",
+      "opts": [
+        "<1.0",
+        "<2.5",
+        "<5.0",
+        "<0.5"
+      ],
+      "ans": 1,
+      "exp": "RPI <2.5 is labelled hypoproliferative. (Book p69)"
+    },
+    {
+      "id": "MED-C11-49",
+      "sec": "Clinical Approach and Marrow Notes",
+      "page": 69,
+      "fmt": "numeric",
+      "q": "An RPI above what threshold is labelled hyperproliferative anaemia?",
+      "opts": [
+        ">2.5",
+        ">0.5",
+        ">1.0",
+        ">5.0"
+      ],
+      "ans": 0,
+      "exp": "RPI >2.5 is labelled hyperproliferative. (Book p69)"
+    },
+    {
+      "id": "MED-C11-50",
+      "sec": "Clinical Approach and Marrow Notes",
+      "page": 69,
+      "fmt": "numeric",
+      "q": "The normocytic MCV interval written in the flowchart is:",
+      "opts": [
+        "60–80 fL",
+        "120–140 fL",
+        "80–100 fL",
+        "100–120 fL"
+      ],
+      "ans": 2,
+      "exp": "The note defines average RBC MCV as 80–100 fL. (Book p69)"
+    },
+    {
+      "id": "MED-C11-51",
+      "sec": "Clinical Approach and Marrow Notes",
+      "page": 69,
+      "fmt": "numeric",
+      "q": "The microcytic branch uses which MCV cutoff?",
+      "opts": [
+        "<80 fL",
+        ">100 fL",
+        "<100 fL",
+        ">120 fL"
+      ],
+      "ans": 0,
+      "exp": "The flowchart places microcytosis below 80 fL. (Book p69)"
+    },
+    {
+      "id": "MED-C11-52",
+      "sec": "Clinical Approach and Marrow Notes",
+      "page": 69,
+      "fmt": "numeric",
+      "q": "The macrocytic branch uses which MCV cutoff?",
+      "opts": [
+        "80–100 fL",
+        "<80 fL",
+        ">100 fL",
+        ">150 fL"
+      ],
+      "ans": 2,
+      "exp": "The flowchart defines macrocytosis as >100 fL. (Book p69)"
+    },
+    {
+      "id": "MED-C11-53",
+      "sec": "Clinical Approach and Marrow Notes",
+      "page": 69,
+      "fmt": "recall",
+      "q": "Which group appears under the normocytic/microcytic hypoproliferative branch?",
+      "opts": [
+        "Iron-deficiency anaemia, anaemia of chronic disease, sideroblastic anaemia and thalassaemia trait",
+        "B12 deficiency alone",
+        "Aplastic anaemia and pure red-cell aplasia only",
+        "Autoimmune haemolysis, G6PD deficiency and malaria"
+      ],
+      "ans": 0,
+      "exp": "The flowchart lists iron deficiency, chronic disease, sideroblastic anaemia and thalassaemia trait under normo/microcytic disease. (Book p69)"
+    },
+    {
+      "id": "MED-C11-54",
+      "sec": "Clinical Approach and Marrow Notes",
+      "page": 69,
+      "fmt": "recall",
+      "q": "The macrocytic branch in the flowchart points to:",
+      "opts": [
+        "Iron-deficiency anaemia due to blood loss",
+        "Megaloblastic anaemia due to vitamin B12 deficiency",
+        "Thalassaemia trait",
+        "Sideroblastic anaemia due to alcohol only"
+      ],
+      "ans": 1,
+      "exp": "The macrocytic branch is labelled megaloblastic anaemia due to vitamin B12 deficiency. (Book p69)"
+    },
+    {
+      "id": "MED-C11-55",
+      "sec": "Clinical Approach and Marrow Notes",
+      "page": 69,
+      "fmt": "recall",
+      "q": "Megaloblasts are described as RBC precursors with delayed:",
+      "opts": [
+        "Cytoplasmic maturation with normal nuclei",
+        "Nuclear maturation despite normal cytoplasmic maturation",
+        "Membrane maturation and platelet formation",
+        "Haemoglobin synthesis with normal cell division"
+      ],
+      "ans": 1,
+      "exp": "The note defines megaloblasts as RBCs lagging in nuclear maturation with normal cytoplasmic maturation. (Book p69)"
+    },
+    {
+      "id": "MED-C11-56",
+      "sec": "Clinical Approach and Marrow Notes",
+      "page": 69,
+      "fmt": "numeric",
+      "q": "The page estimates marrow cellularity as:",
+      "opts": [
+        "50% at every age",
+        "Age divided by 100",
+        "100 minus the person's age",
+        "100 plus the person's age"
+      ],
+      "ans": 2,
+      "exp": "The note gives marrow cellularity = 100 − age of the person. (Book p69)"
+    },
+    {
+      "id": "MED-C11-57",
+      "sec": "Clinical Approach and Marrow Notes",
+      "page": 69,
+      "fmt": "scenario",
+      "q": "For a 50-year-old person, the marrow-cellularity example predicts approximately:",
+      "opts": [
+        "100% cellularity with no fat",
+        "75% fat and 25% cellularity",
+        "25% fat and 75% cellularity",
+        "50% fat and 50% cellularity"
+      ],
+      "ans": 3,
+      "exp": "The example says a 50-year-old has 50% fat and 50% cellular marrow. (Book p69)"
+    },
+    {
+      "id": "MED-C11-58",
+      "sec": "Clinical Approach and Marrow Notes",
+      "page": 69,
+      "fmt": "recall",
+      "q": "The marrow-failure example says all cells are replaced by fat, as in:",
+      "opts": [
+        "Iron-deficiency anaemia",
+        "Thalassaemia trait",
+        "Erythroid hyperplasia",
+        "Aplastic anaemia"
+      ],
+      "ans": 3,
+      "exp": "The note names aplastic anaemia as an example of marrow failure with replacement by fat. (Book p69)"
+    },
+    {
+      "id": "MED-C11-59",
+      "sec": "Clinical Approach and Marrow Notes",
+      "page": 69,
+      "fmt": "numeric",
+      "q": "The normal myeloid-to-erythroid (M:E) ratio listed is:",
+      "opts": [
+        "1:3",
+        "10:1",
+        "1:1",
+        "3:1"
+      ],
+      "ans": 3,
+      "exp": "The page gives a normal M:E ratio of 3:1. (Book p69)"
+    },
+    {
+      "id": "MED-C11-60",
+      "sec": "Clinical Approach and Marrow Notes",
+      "page": 69,
+      "fmt": "recall",
+      "q": "Which marrow image is captioned separately from the two hyperplasia examples?",
+      "opts": [
+        "Aplastic marrow",
+        "Erythroid hyperplasia",
+        "Myeloid hyperplasia",
+        "Normal bone marrow"
+      ],
+      "ans": 3,
+      "exp": "The three image captions are normal bone marrow, myeloid hyperplasia and erythroid hyperplasia. (Book p69)"
+    },
+    {
+      "id": "MED-C11-61",
+      "sec": "Clinical Approach and Marrow Notes",
+      "page": 69,
+      "fmt": "recall",
+      "q": "The bottom-left marrow image is captioned:",
+      "opts": [
+        "Normal bone marrow",
+        "Erythroid hyperplasia",
+        "Pure red-cell aplasia",
+        "Myeloid hyperplasia"
+      ],
+      "ans": 3,
+      "exp": "The bottom-left image is labelled myeloid hyperplasia. (Book p69)"
+    },
+    {
+      "id": "MED-C11-62",
+      "sec": "Clinical Approach and Marrow Notes",
+      "page": 69,
+      "fmt": "recall",
+      "q": "The bottom-right marrow image is captioned:",
+      "opts": [
+        "Erythroid hyperplasia",
+        "Myeloid hyperplasia",
+        "Aplastic marrow",
+        "Normal bone marrow"
+      ],
+      "ans": 0,
+      "exp": "The bottom-right image is labelled erythroid hyperplasia. (Book p69)"
+    },
+    {
+      "id": "MED-C11-63",
+      "sec": "Clinical Approach and Marrow Notes",
+      "page": 69,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — the flowchart first evaluates lineage involvement, then uses RPI and MCV for a single-lineage anaemia branch.",
+      "opts": [
+        "False — RPI is not used in the flowchart",
+        "False — MCV is assessed before lineage",
+        "True — but only for multiple-lineage disease",
+        "True — lineage → RPI → MCV is the displayed sequence"
+      ],
+      "ans": 3,
+      "exp": "The diagram begins with single versus multiple lineages; the single-lineage branch then divides by RPI and MCV. (Book p69)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U11-1",
+      "ch": 11,
+      "n": 1,
+      "title": "WHO Thresholds & Haematopoiesis",
+      "sec": "WHO Thresholds and Hematopoiesis",
+      "guide": "Hb thresholds on p66: male <13, female <12, pregnancy <11 and CKD <10 g/dL.\nPPHSC splits to myeloid and lymphoid progenitors; the chart traces RBC stages.\nEPO is renal; thrombopoietin is hepatic; early erythroid stages differ in EPO/iron dependence.",
+      "qs": [
+        "MED-C11-01",
+        "MED-C11-02",
+        "MED-C11-03",
+        "MED-C11-04",
+        "MED-C11-05",
+        "MED-C11-06",
+        "MED-C11-07",
+        "MED-C11-08",
+        "MED-C11-09",
+        "MED-C11-10",
+        "MED-C11-11",
+        "MED-C11-12",
+        "MED-C11-13",
+        "MED-C11-14",
+        "MED-C11-15",
+        "MED-C11-16",
+        "MED-C11-17"
+      ]
+    },
+    {
+      "id": "MED-U11-2",
+      "ch": 11,
+      "n": 2,
+      "title": "Erythroid Maturation",
+      "sec": "Erythroid Maturation",
+      "guide": "Pro-normoblast is largest and nucleolated; early normoblast loses nucleoli.\nPolychromatic cells become gray, round-nucleated and stop dividing; orthochromatic cells are red/pyknotic.\nReticulocytes lose the nucleus but retain RNA; a giant proerythroblast is noted in pure red-cell aplasia.",
+      "qs": [
+        "MED-C11-18",
+        "MED-C11-19",
+        "MED-C11-20",
+        "MED-C11-21",
+        "MED-C11-22",
+        "MED-C11-23",
+        "MED-C11-24",
+        "MED-C11-25",
+        "MED-C11-26",
+        "MED-C11-27",
+        "MED-C11-28",
+        "MED-C11-29",
+        "MED-C11-30",
+        "MED-C11-31"
+      ]
+    },
+    {
+      "id": "MED-U11-3",
+      "ch": 11,
+      "n": 3,
+      "title": "Reticulocytes and Indices",
+      "sec": "Reticulocyte Count and Indices",
+      "guide": "Supravital dyes detect reticulocyte RNA; normal count 0.5–1.5%, absolute 25,000–75,000/µL.\nLow production → reticulocytopenia; destruction/loss → reticulocytosis.\nCRC corrects for anaemia; RPI also corrects for premature-reticulocyte lifespan.",
+      "qs": [
+        "MED-C11-32",
+        "MED-C11-33",
+        "MED-C11-34",
+        "MED-C11-35",
+        "MED-C11-36",
+        "MED-C11-37",
+        "MED-C11-38",
+        "MED-C11-39",
+        "MED-C11-40",
+        "MED-C11-41",
+        "MED-C11-42",
+        "MED-C11-43",
+        "MED-C11-44",
+        "MED-C11-45",
+        "MED-C11-46"
+      ]
+    },
+    {
+      "id": "MED-U11-4",
+      "ch": 11,
+      "n": 4,
+      "title": "Approach & Marrow Notes",
+      "sec": "Clinical Approach and Marrow Notes",
+      "guide": "Start with lineages, then RPI (<2.5 hypo; >2.5 hyper) and MCV (<80, 80–100, >100 fL).\nThe page lists hypoproliferative causes and marrow images/ratio.\nCellularity = 100 − age; normal M:E = 3:1; marrow failure replaces cells with fat.",
+      "qs": [
+        "MED-C11-47",
+        "MED-C11-48",
+        "MED-C11-49",
+        "MED-C11-50",
+        "MED-C11-51",
+        "MED-C11-52",
+        "MED-C11-53",
+        "MED-C11-54",
+        "MED-C11-55",
+        "MED-C11-56",
+        "MED-C11-57",
+        "MED-C11-58",
+        "MED-C11-59",
+        "MED-C11-60",
+        "MED-C11-61",
+        "MED-C11-62",
+        "MED-C11-63"
+      ]
+    }
+  ]
+}

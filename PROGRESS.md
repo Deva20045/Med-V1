@@ -1,16 +1,16 @@
 # PULSE Medicine Vol 1 — Progress
 
-Updated **2026-10-01** (Chapters 1–6 shipped — Gastroenterology block live). Standalone offline quiz based on *PULSE Medicine Vol 1*, printed Book p1–375 (Marrow Edition 8).
+Updated **2026-10-01** (Chapters 7–12 completed in the working release; source review now reaches Book p76). Standalone offline quiz based on *PULSE Medicine Vol 1*, printed Book p1–375 (Marrow Edition 8).
 
 - Repository: `Deva20045/Med-V1`
-- Session branch: `arena/01a0f576-med-v1`
+- Session branch: `arena/01a0f5f4-med-v1`
 - Published URL: https://deva20045.github.io/Med-V1/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 6 live chapters / 61 · 714 questions / 77 units.** All remaining roadmap chapters are listed as Soon; Book p1–45 is fully covered line to line.
+- **Build status: 12 built chapters / 61 · 1,297 questions / 114 units.** Chapters 1–12 are embedded by `build_content.py`; the published URL updates when the release is merged/deployed. Source coverage is complete through Book p76.
 
-## This release — Chapters 1 to 6 (Gastroenterology, Book p1–45)
+## This release — Chapters 7 to 12 (Book p46–76)
 
-Every chapter was read sheet-by-sheet from the scanned source in printed order, inventoried line to line, and encoded as strictly ordered questions with non-predictable distractors. Chapters 2–6 were added in this release on top of Chapter 1.
+The requested six chapters were reviewed sheet-by-sheet in printed order, then encoded with shuffled, plausible options and page-cited explanations. Existing Chapters 1–6 remain unchanged.
 
 | Ch | Title | Printed pages | PDF sheets | Questions | Units |
 |---:|---|---:|---:|---:|---:|
@@ -20,9 +20,15 @@ Every chapter was read sheet-by-sheet from the scanned source in printed order, 
 | 4 | Global Malabsorption | 18–29 | 01.pdf PDF30–41 | 196 | 19 |
 | 5 | Inflammatory Bowel Disease : Part 1 | 30–36 | 01.pdf PDF42–48 | 94 | 11 |
 | 6 | Inflammatory Bowel Disease : Part 2 | 37–45 | 01.pdf PDF49–57 | 128 | 14 |
-| **Release total** |  | **45 book pages** |  | **714** | **77** |
+| 7 | Infectious Diarrhoea | 46–51 | 01.pdf PDF58–63 | 111 | 7 |
+| 8 | Stomach | 52–59 | 01.pdf PDF64–71 | 150 | 7 |
+| 9 | Gastrinoma | 60–62 | 01.pdf PDF72–74 | 67 | 5 |
+| 10 | Irritable Bowel Syndrome | 63–65 | 01.pdf PDF75–77 | 58 | 5 |
+| 11 | Clinical Approach to Anemia | 66–69 | 01.pdf PDF78–81 | 63 | 4 |
+| 12 | Iron Metabolism | 70–76 | 01.pdf PDF82–88 | 134 | 9 |
+| **Cumulative total** |  | **76 book pages** |  | **1,297** | **114** |
 
-Question format distribution across the release: 444 recall, 78 match, 61 numeric, 41 fillup, 36 scenario, 32 oddoneout, 20 truefalse, 2 management.
+Cumulative format distribution through Chapter 12: 865 recall, 79 match, 157 numeric, 41 fillup, 64 scenario, 32 oddoneout, 38 truefalse, 21 management.
 
 ### Chapter 2 — Physiology of GIT Absorption and Selective Malabsorption (p6–13)
 
@@ -44,13 +50,37 @@ Entities of IBD, microscopic and diversion colitis, normal colonic histology, ep
 
 Ulcerative colitis clinical features and endoscopy, barium enema, Crohn's clinical features, endoscopic and cross-sectional imaging signs, intestinal tuberculosis versus Crohn's disease, extraintestinal manifestations, other investigations and serology, Truelove and Witt's classification, medical management of UC, sulfasalazine and surgery, Crohn's grading and severity-based management, and malignancy in IBD.
 
+### Chapter 7 — Infectious Diarrhoea (p46–51)
+
+Duration and site patterns, small-/large-bowel organisms, viral and bacterial mechanisms, preformed toxins, cholera, V. parahaemolyticus and ETEC, HUS/Shigella, Salmonella/Campylobacter, and the C. difficile diagnostic and severity branches. Source treatment notes are flagged as study-only.
+
+### Chapter 8 — Stomach (p52–59)
+
+Stomach regions and glands, mucosal defence and wall, acid regulation, acute/chronic/hypertrophic gastritis, H. pylori biology and virulence, gastritis patterns, dyspepsia and alarm features, endoscopy/testing, printed eradication regimens and test-of-cure flow. The scan's one-week PPI note is transcribed as one week.
+
+### Chapter 9 — Gastrinoma (p60–62)
+
+Sporadic versus MEN1 disease, gastrinoma triangle, acid effects and malabsorption, clinical clues, fasting gastrin/secretin thresholds, somatostatin-receptor imaging and limitations, BAO/MAO ratio, treatment by setting/location, surgery and metastasis.
+
+### Chapter 10 — Irritable Bowel Syndrome (p63–65)
+
+Printed definition and associations, Rome IV line as printed, alarm features, bowel-pattern subtypes, visceral hypersensitivity and other mechanisms, FODMAP/lifestyle diagram, subtype treatment and adverse effects. A note identifies the source's omitted Rome IV onset criterion.
+
+### Chapter 11 — Clinical Approach to Anemia (p66–69)
+
+WHO haemoglobin thresholds, hematopoietic lineages, EPO/iron dependence, erythroid maturation morphology, reticulocyte staining/counts, corrected reticulocyte count and RPI, MCV/RPI flowchart, marrow cellularity, M:E ratio and image labels. Includes a CRC calculation scenario.
+
+### Chapter 12 — Iron Metabolism (p70–76)
+
+Body-iron pools, dietary heme/non-heme absorption, transport/export and marrow uptake, iron indices, staged deficiency, causes and iron-deficit formula, clinical signs, blood indices/smear, marrow, printed treatment notes and response timeline. Source-level medical caveats are documented separately.
+
 ## Quality and ordering contract delivered
 
-1. Every printed page p1–45 was read top-to-bottom in printed order from the scans (no text layer exists), so headings, table cells, image labels, flowchart arms, numeric thresholds and notes are captured in exact book order. Verified page map: `01.pdf` PDF13 = p1 … PDF57 = p45; no sheets missing.
-2. `audit/coverage.json` now holds **714 inventoried points** across the six audited chapters; every ledger point resolves to exactly one question, in exact question order, with the matching book page.
-3. Distractors are not predictable: match options require an exact bijection and are shuffled, true/false uses balanced True/False pairs, numeric thresholds use nearby plausible values, scenarios embed the full clinical context, and fill-ups target a single printed word.
+1. Every printed page p1–76 is covered in book order from the scanned source (no text layer exists); headings, table cells, image labels, flowchart arms, thresholds and notes are represented. Page map: `01.pdf` PDF13 = p1 … PDF88 = p76; no requested sheets are missing.
+2. `audit/coverage.json` holds **1,297 inventoried points** across Chapters 1–12; every ledger point resolves to exactly one question in question order and on the matching book page.
+3. Four-option sets are unique and shuffled in the app. Matching items use exact bijections; true/false items have balanced True/False choices; numeric questions use plausible distractors; scenarios retain their clinical context. New Chapters 7–12 avoid fill-up patterns and reserve matching format for one true match item.
 4. IDs are sequential `MED-C<N>-<seq>`; the question array is strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, every unit guide is 2–4 lines, and every explanation ends with its exact `(Book pX)` citation matching the question page.
-5. All six chapters are embedded in the standalone app with their live flags set; **6/61 roadmap chapters are now live — next chapter is Infectious Diarrhoea (p46).**
+5. Chapters 1–12 are embedded in the standalone app with live flags set; **12/61 roadmap chapters are built**. The public URL reflects the new chapters after the release is merged/deployed. See [audit/known-source-caveats.md](audit/known-source-caveats.md) for transcription and medical-source caveats.
 
 ## Verified PDF → printed-page map
 
@@ -61,7 +91,7 @@ Printed page numbers are ground truth. `uploads/01.pdf` is sequential after 12 u
 - `uploads/03.pdf` PDF1–128  = Book p248–375  (PDF129–131 are blank/end-quote matter)
 - **PDF → Book formula:** `01.pdf: Book p = PDF page − 12`; `02.pdf: Book p = PDF page + 117`; `03.pdf: Book p = PDF page + 247`
 
-Chapter sheet coverage verified so far:
+Chapter sheet coverage source-reviewed through p76:
 
 | Ch | Book pages | 01.pdf sheets |
 |---:|---|---|
@@ -71,7 +101,13 @@ Chapter sheet coverage verified so far:
 | 4 | 18–29 | PDF30–41 |
 | 5 | 30–36 | PDF42–48 |
 | 6 | 37–45 | PDF49–57 |
-| 7 (next) | 46 | PDF58 |
+| 7 | 46–51 | PDF58–63 |
+| 8 | 52–59 | PDF64–71 |
+| 9 | 60–62 | PDF72–74 |
+| 10 | 63–65 | PDF75–77 |
+| 11 | 66–69 | PDF78–81 |
+| 12 | 70–76 | PDF82–88 |
+| 13 (next) | 77 | PDF89 |
 
 ## Schema and order contract
 
@@ -179,6 +215,43 @@ node tests/app_parsers.cjs
 | 6 | Crohn's Disease: Management by Severity | 44 | MED-C6-104–MED-C6-116 | 13 |
 | 6 | Malignancy in IBD | 45 | MED-C6-117–MED-C6-128 | 12 |
 
+| 7 | Definitions & Site Patterns | 46 | MED-C7-01–MED-C7-17 | 17 |
+| 7 | Small- and Large-Bowel Organisms | 47 | MED-C7-18–MED-C7-26 | 9 |
+| 7 | Preformed-Toxin Food Poisoning | 47–48 | MED-C7-27–MED-C7-37 | 11 |
+| 7 | Vibrio, ETEC & Secretory Diarrhoea | 48 | MED-C7-38–MED-C7-49 | 12 |
+| 7 | HUS and Shigella | 49 | MED-C7-50–MED-C7-70 | 21 |
+| 7 | Salmonella and Campylobacter | 50 | MED-C7-71–MED-C7-86 | 16 |
+| 7 | C. difficile Enterocolitis | 50–51 | MED-C7-87–MED-C7-111 | 25 |
+| 8 | Regions, Glands & Cells | 52 | MED-C8-01–MED-C8-19 | 19 |
+| 8 | Mucosal Defence and Wall | 53 | MED-C8-20–MED-C8-39 | 20 |
+| 8 | Acid Regulation & Acute Gastritis | 54 | MED-C8-40–MED-C8-58 | 19 |
+| 8 | Chronic & Hypertrophic Gastritis | 55–56 | MED-C8-59–MED-C8-86 | 28 |
+| 8 | H. pylori Biology & Virulence | 56–57 | MED-C8-87–MED-C8-111 | 25 |
+| 8 | H. pylori, Dyspepsia & Testing | 57–58 | MED-C8-112–MED-C8-133 | 22 |
+| 8 | Treatment & Test of Cure | 58–59 | MED-C8-134–MED-C8-150 | 17 |
+| 9 | Types and Comparisons | 60 | MED-C9-01–MED-C9-23 | 23 |
+| 9 | Triangle and Gastrin Effects | 60 | MED-C9-24–MED-C9-32 | 9 |
+| 9 | Clinical Features | 61 | MED-C9-33–MED-C9-42 | 10 |
+| 9 | Tests and Imaging | 61–62 | MED-C9-43–MED-C9-58 | 16 |
+| 9 | Treatment and Surgical Anatomy | 62 | MED-C9-59–MED-C9-67 | 9 |
+| 10 | Definition & Associations | 63 | MED-C10-01–MED-C10-04 | 4 |
+| 10 | Clinical Pattern, Rome IV & Red Flags | 63 | MED-C10-05–MED-C10-26 | 22 |
+| 10 | Pathophysiology | 64 | MED-C10-27–MED-C10-35 | 9 |
+| 10 | Lifestyle & FODMAPs | 64 | MED-C10-36–MED-C10-43 | 8 |
+| 10 | Type-Based Medical Management | 65 | MED-C10-44–MED-C10-58 | 15 |
+| 11 | WHO Thresholds & Haematopoiesis | 66 | MED-C11-01–MED-C11-17 | 17 |
+| 11 | Erythroid Maturation | 67 | MED-C11-18–MED-C11-31 | 14 |
+| 11 | Reticulocytes and Indices | 68 | MED-C11-32–MED-C11-46 | 15 |
+| 11 | Approach & Marrow Notes | 69 | MED-C11-47–MED-C11-63 | 17 |
+| 12 | Body Iron & Daily Needs | 70 | MED-C12-01–MED-C12-19 | 19 |
+| 12 | Dietary Iron & Absorption | 71 | MED-C12-20–MED-C12-35 | 16 |
+| 12 | Export, Transport & Marrow Uptake | 71–72 | MED-C12-36–MED-C12-50 | 15 |
+| 12 | Serum Iron Indices | 72 | MED-C12-51–MED-C12-65 | 15 |
+| 12 | Stages of Iron Deficiency | 73 | MED-C12-66–MED-C12-91 | 26 |
+| 12 | Causes & Iron Deficit | 74 | MED-C12-92–MED-C12-93 | 2 |
+| 12 | Clinical Features | 74 | MED-C12-94–MED-C12-103 | 10 |
+| 12 | IDA Investigations | 75 | MED-C12-104–MED-C12-119 | 16 |
+| 12 | Marrow, Treatment & Follow-up | 76 | MED-C12-120–MED-C12-134 | 15 |
 
 ## Full roadmap
 
@@ -190,12 +263,12 @@ node tests/app_parsers.cjs
 | 4 | Global Malabsorption | 18 | **Live** |
 | 5 | Inflammatory Bowel Disease : Part 1 | 30 | **Live** |
 | 6 | Inflammatory Bowel Disease : Part 2 | 37 | **Live** |
-| 7 | Infectious Diarrhoea | 46 | Soon |
-| 8 | Stomach | 52 | Soon |
-| 9 | Gastrinoma | 60 | Soon |
-| 10 | Irritable Bowel Syndrome | 63 | Soon |
-| 11 | Clinical Approach to Anemia | 66 | Soon |
-| 12 | Iron Metabolism | 70 | Soon |
+| 7 | Infectious Diarrhoea | 46 | **Built** |
+| 8 | Stomach | 52 | **Built** |
+| 9 | Gastrinoma | 60 | **Built** |
+| 10 | Irritable Bowel Syndrome | 63 | **Built** |
+| 11 | Clinical Approach to Anemia | 66 | **Built** |
+| 12 | Iron Metabolism | 70 | **Built** |
 | 13 | Approach To Microcytic Hypochromic Anemia | 77 | Soon |
 | 14 | Macrocytic Anemia | 82 | Soon |
 | 15 | Approach to Hemolysis | 89 | Soon |
@@ -255,4 +328,4 @@ node tests/app_parsers.cjs
 4. Run `validate_content.py`, `tests`, and `build_content.py` to embed; verify live flags and embedded arrays.
 5. Commit, push, PR to `main` — live link updates via GitHub Pages.
 
-*Next up:* **Chapter 7 — Infectious Diarrhoea (p46)** — render `uploads/01.pdf` PDF58 onward, inventory p46–51, same pipeline.
+*Next up:* **Chapter 13 — Approach To Microcytic Hypochromic Anemia (p77)** — render `uploads/01.pdf` PDF89 onward, audit in strict book order, and continue the same pipeline.

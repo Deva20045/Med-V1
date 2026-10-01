@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Embed the chapter JSON artifacts into the standalone PULSE Medicine Vol 2 app.
+"""Embed the chapter JSON artifacts into the standalone PULSE Medicine Vol 1 app.
 
 The browser app is intentionally a single offline HTML file. Structured chapter
 artifacts in data/chNN.json are the editable source of truth; run this script

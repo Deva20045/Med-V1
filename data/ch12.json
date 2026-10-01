@@ -1,0 +1,2243 @@
+{
+  "chapter": 12,
+  "title": "Iron Metabolism",
+  "pageRange": "70-76",
+  "questions": [
+    {
+      "id": "MED-C12-01",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "numeric",
+      "q": "The total-body-iron estimate for males on p70 is:",
+      "opts": [
+        "50 mg/kg",
+        "25 mg/kg",
+        "40 mg/kg",
+        "70 mg/kg"
+      ],
+      "ans": 0,
+      "exp": "The page gives total body iron as 50 mg/kg in males. (Book p70)"
+    },
+    {
+      "id": "MED-C12-02",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "numeric",
+      "q": "The corresponding total-body-iron estimate for females is:",
+      "opts": [
+        "50 mg/kg",
+        "40 mg/kg",
+        "20 mg/kg",
+        "60 mg/kg"
+      ],
+      "ans": 1,
+      "exp": "The page gives 40 mg/kg in females. (Book p70)"
+    },
+    {
+      "id": "MED-C12-03",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "numeric",
+      "q": "Approximately what fraction of body iron is bound to haemoglobin?",
+      "opts": [
+        "67%",
+        "3.5%",
+        "0.08%",
+        "27%"
+      ],
+      "ans": 0,
+      "exp": "The composition list gives 67% bound with Hb. (Book p70)"
+    },
+    {
+      "id": "MED-C12-04",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "numeric",
+      "q": "The storage-iron fraction is listed as 27%, with which relationship between its two forms?",
+      "opts": [
+        "Ferritin > hemosiderin",
+        "Hemosiderin > ferritin",
+        "Ferritin = transferrin",
+        "Myoglobin > ferritin"
+      ],
+      "ans": 0,
+      "exp": "The page gives 27% as storage iron and writes ferritin > hemosiderin. (Book p70)"
+    },
+    {
+      "id": "MED-C12-05",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "numeric",
+      "q": "The transport-iron fraction bound to transferrin is approximately:",
+      "opts": [
+        "27%",
+        "0.08%",
+        "0.8%",
+        "3.5%"
+      ],
+      "ans": 1,
+      "exp": "Transport iron/transferrin is listed as 0.08%. (Book p70)"
+    },
+    {
+      "id": "MED-C12-06",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "numeric",
+      "q": "The proportion of total-body iron assigned to myoglobin is:",
+      "opts": [
+        "3.5%",
+        "27%",
+        "0.08%",
+        "2.2%"
+      ],
+      "ans": 0,
+      "exp": "The composition list assigns 3.5% to myoglobin. (Book p70)"
+    },
+    {
+      "id": "MED-C12-07",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "numeric",
+      "q": "The labile iron pool is given as:",
+      "opts": [
+        "27%",
+        "0.08%",
+        "3.5%",
+        "2.2%"
+      ],
+      "ans": 3,
+      "exp": "The printed proportion for the labile pool is 2.2%. (Book p70)"
+    },
+    {
+      "id": "MED-C12-08",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "recall",
+      "q": "Which comparison between hemosiderin and ferritin matches the p70 table?",
+      "opts": [
+        "Hemosiderin is water-soluble and readily available; ferritin is insoluble and unavailable",
+        "Ferritin is found only in macrophages and hemosiderin only in plasma",
+        "Both forms are equally common and water-insoluble",
+        "Hemosiderin is less common/less available and water-insoluble; ferritin is more common/available and water-soluble"
+      ],
+      "ans": 3,
+      "exp": "The table contrasts less-common, less-available, water-insoluble hemosiderin with more-common, available, water-soluble ferritin. (Book p70)"
+    },
+    {
+      "id": "MED-C12-09",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "recall",
+      "q": "The iron-to-protein ratio is higher in which storage form?",
+      "opts": [
+        "Hemosiderin",
+        "Ferritin",
+        "Transferrin",
+        "Haemoglobin"
+      ],
+      "ans": 0,
+      "exp": "The table shows an increased iron:protein ratio for hemosiderin and a decreased ratio for ferritin. (Book p70)"
+    },
+    {
+      "id": "MED-C12-10",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "recall",
+      "q": "The location specifically listed for hemosiderin is:",
+      "opts": [
+        "Plasma transferrin",
+        "Gastric parietal cells",
+        "Erythrocyte membrane",
+        "Macrophages"
+      ],
+      "ans": 3,
+      "exp": "Macrophage is the location listed for hemosiderin. (Book p70)"
+    },
+    {
+      "id": "MED-C12-11",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "recall",
+      "q": "The gold-standard stain for assessing bone-marrow iron stores is:",
+      "opts": [
+        "Sudan III",
+        "Prussian blue",
+        "Romanowsky",
+        "New methylene blue"
+      ],
+      "ans": 1,
+      "exp": "The page calls Prussian blue stain the gold standard for bone-marrow iron stores. (Book p70)"
+    },
+    {
+      "id": "MED-C12-12",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "recall",
+      "q": "In the stain reaction described, hemosiderin with potassium ferrocyanide turns:",
+      "opts": [
+        "Red-orange",
+        "Green-yellow",
+        "Blue-black",
+        "Colourless"
+      ],
+      "ans": 2,
+      "exp": "The p70 note says hemosiderin + potassium ferrocyanide turns blue-black. (Book p70)"
+    },
+    {
+      "id": "MED-C12-13",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "numeric",
+      "q": "A normal diet is stated to contain approximately how much iron per day?",
+      "opts": [
+        "20 mg",
+        "1 mg",
+        "10 mg",
+        "3 mg"
+      ],
+      "ans": 2,
+      "exp": "The page says a normal diet contains 10 mg iron. (Book p70)"
+    },
+    {
+      "id": "MED-C12-14",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "numeric",
+      "q": "The total absorption fraction is listed as 10%, rising to what proportion in deficiency?",
+      "opts": [
+        "50%",
+        "12%",
+        "30%",
+        "20%"
+      ],
+      "ans": 3,
+      "exp": "Total absorption is 10%, or 20% in deficiency. (Book p70)"
+    },
+    {
+      "id": "MED-C12-15",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "numeric",
+      "q": "The daily iron requirement shown for an adult male is:",
+      "opts": [
+        "0.5 mg",
+        "3 mg",
+        "1 mg",
+        "2 mg"
+      ],
+      "ans": 2,
+      "exp": "The adult-male requirement is 1 mg/day. (Book p70)"
+    },
+    {
+      "id": "MED-C12-16",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "numeric",
+      "q": "The daily iron requirement shown for an adult female is:",
+      "opts": [
+        "2 mg",
+        "3 mg",
+        "1 mg",
+        "0.5 mg"
+      ],
+      "ans": 0,
+      "exp": "The adult-female requirement is 2 mg/day. (Book p70)"
+    },
+    {
+      "id": "MED-C12-17",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "numeric",
+      "q": "The daily iron requirement listed during pregnancy is:",
+      "opts": [
+        "1 mg",
+        "2 mg",
+        "0.5 mg",
+        "3 mg"
+      ],
+      "ans": 3,
+      "exp": "The page gives 3 mg/day during pregnancy. (Book p70)"
+    },
+    {
+      "id": "MED-C12-18",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "numeric",
+      "q": "Which pair of daily requirements is printed for children and infants, respectively?",
+      "opts": [
+        "Children 0.5 mg; infant 1 mg",
+        "Children 1 mg; infant 0.5 mg",
+        "Children 2 mg; infant 3 mg",
+        "Children 3 mg; infant 2 mg"
+      ],
+      "ans": 0,
+      "exp": "The list gives children 0.5 mg and infant 1 mg daily. (Book p70)"
+    },
+    {
+      "id": "MED-C12-19",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "page": 70,
+      "fmt": "recall",
+      "q": "The boxed note on p70 repeats anaemia thresholds as pregnancy, female and male, respectively:",
+      "opts": [
+        "<13, <12 and <11 g/dL",
+        "<11, <12 and <13 g/dL",
+        "<12, <13 and <14 g/dL",
+        "<10, <11 and <12 g/dL"
+      ],
+      "ans": 1,
+      "exp": "The note lists Hb <11 in pregnancy, <12 in females and <13 in males. (Book p70)"
+    },
+    {
+      "id": "MED-C12-20",
+      "sec": "Dietary Iron and Intestinal Absorption",
+      "page": 71,
+      "fmt": "recall",
+      "q": "Which food group is listed as a source of heme iron?",
+      "opts": [
+        "Chicken, meat, oyster and poultry",
+        "Apple, mango, wheat and honey",
+        "Rice, legumes, cauliflower and tea",
+        "Spinach, potato, sunflower and dark chocolate"
+      ],
+      "ans": 0,
+      "exp": "The heme column lists chicken, meat, oyster and poultry. (Book p71)"
+    },
+    {
+      "id": "MED-C12-21",
+      "sec": "Dietary Iron and Intestinal Absorption",
+      "page": 71,
+      "fmt": "recall",
+      "q": "Which food group is listed as a source of non-heme iron?",
+      "opts": [
+        "Pork, custard and canned meat",
+        "Spinach, potato, sunflower and dark chocolate",
+        "Fish, shellfish and poultry",
+        "Chicken, meat, oyster and poultry"
+      ],
+      "ans": 1,
+      "exp": "The non-heme column lists spinach, potato, sunflower and dark chocolate. (Book p71)"
+    },
+    {
+      "id": "MED-C12-22",
+      "sec": "Dietary Iron and Intestinal Absorption",
+      "page": 71,
+      "fmt": "recall",
+      "q": "Dietary heme iron is shown in which oxidation state?",
+      "opts": [
+        "Fe⁰",
+        "Fe⁴⁺",
+        "Fe²⁺ (ferrous)",
+        "Fe³⁺ (ferric)"
+      ],
+      "ans": 2,
+      "exp": "The table gives heme iron as Fe2+ (ferrous). (Book p71)"
+    },
+    {
+      "id": "MED-C12-23",
+      "sec": "Dietary Iron and Intestinal Absorption",
+      "page": 71,
+      "fmt": "recall",
+      "q": "Dietary non-heme iron is shown initially in which form?",
+      "opts": [
+        "Fe³⁺ (ferric)",
+        "Fe²⁺ (ferrous)",
+        "Haem-bound iron only",
+        "Fe⁰"
+      ],
+      "ans": 0,
+      "exp": "The table gives non-heme iron as Fe3+ (ferric). (Book p71)"
+    },
+    {
+      "id": "MED-C12-24",
+      "sec": "Dietary Iron and Intestinal Absorption",
+      "page": 71,
+      "fmt": "recall",
+      "q": "Heme iron uptake is paired with which carrier in the duodenum?",
+      "opts": [
+        "Heme carrier protein (HCP)",
+        "DMT1 alone",
+        "Transferrin receptor 2",
+        "Ferroportin 1"
+      ],
+      "ans": 0,
+      "exp": "The table shows heme carrier protein (HCP) transporting heme iron in the duodenum. (Book p71)"
+    },
+    {
+      "id": "MED-C12-25",
+      "sec": "Dietary Iron and Intestinal Absorption",
+      "page": 71,
+      "fmt": "recall",
+      "q": "Before non-heme iron absorption, duodenal cytochrome b reductase converts:",
+      "opts": [
+        "Fe²⁺ to Fe³⁺",
+        "Fe³⁺ to Fe⁰",
+        "Haem iron to transferrin",
+        "Fe³⁺ to Fe²⁺"
+      ],
+      "ans": 3,
+      "exp": "Duodenal cytochrome b reductase reduces Fe3+ to Fe2+ in enterocytes. (Book p71)"
+    },
+    {
+      "id": "MED-C12-26",
+      "sec": "Dietary Iron and Intestinal Absorption",
+      "page": 71,
+      "fmt": "recall",
+      "q": "Which transporter is labelled for uptake of ferrous iron across the luminal membrane?",
+      "opts": [
+        "Ferroportin 1",
+        "Transferrin",
+        "DMT1",
+        "HCP"
+      ],
+      "ans": 2,
+      "exp": "DMT1 is labelled as the transporter for Fe2+ entry at the luminal membrane. (Book p71)"
+    },
+    {
+      "id": "MED-C12-27",
+      "sec": "Dietary Iron and Intestinal Absorption",
+      "page": 71,
+      "fmt": "recall",
+      "q": "DMT is expanded in the note as:",
+      "opts": [
+        "Direct marrow transfer",
+        "Duodenal mucosal transferrin",
+        "Dietary metal transaminase",
+        "Divalent metal transporter"
+      ],
+      "ans": 3,
+      "exp": "DMT is expanded as divalent metal transporter. (Book p71)"
+    },
+    {
+      "id": "MED-C12-28",
+      "sec": "Dietary Iron and Intestinal Absorption",
+      "page": 71,
+      "fmt": "recall",
+      "q": "The alternate name printed for DMT1 is:",
+      "opts": [
+        "NRAMP-1",
+        "HCP",
+        "NRAMP-2",
+        "TfR2"
+      ],
+      "ans": 2,
+      "exp": "The p71 note gives DMT as divalent metal transporter, also called NRAMP-2. (Book p71)"
+    },
+    {
+      "id": "MED-C12-29",
+      "sec": "Dietary Iron and Intestinal Absorption",
+      "page": 71,
+      "fmt": "recall",
+      "q": "Which substance is listed among reducing substances that enhance iron absorption?",
+      "opts": [
+        "Tannate",
+        "Ascorbic acid",
+        "Oxalate",
+        "Phytate"
+      ],
+      "ans": 1,
+      "exp": "Listed reducing substances include sorbitol, cysteine, fructose, lactate, pyruvate, succinate and ascorbic acid. (Book p71)"
+    },
+    {
+      "id": "MED-C12-30",
+      "sec": "Dietary Iron and Intestinal Absorption",
+      "page": 71,
+      "fmt": "recall",
+      "q": "Which set contains only reducing substances listed as enhancing iron absorption?",
+      "opts": [
+        "Ferritin, hemosiderin and transferrin",
+        "Phytates, tannates and oxalates",
+        "Gastrin, histamine and acetylcholine",
+        "Sorbitol, cysteine, fructose, lactate, pyruvate, succinate and ascorbic acid"
+      ],
+      "ans": 3,
+      "exp": "Those seven substances are listed as reducing substances that enhance absorption. (Book p71)"
+    },
+    {
+      "id": "MED-C12-31",
+      "sec": "Dietary Iron and Intestinal Absorption",
+      "page": 71,
+      "fmt": "recall",
+      "q": "Which set contains the inhibitors of iron absorption on p71?",
+      "opts": [
+        "Ferritin, transferrin and myoglobin",
+        "Phytates, tannates and oxalates",
+        "Lactate, pyruvate and ascorbic acid",
+        "Sorbitol, cysteine and fructose"
+      ],
+      "ans": 1,
+      "exp": "The inhibitors listed are phytates, tannates and oxalates. (Book p71)"
+    },
+    {
+      "id": "MED-C12-32",
+      "sec": "Dietary Iron and Intestinal Absorption",
+      "page": 71,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — the p71 note says acidic pH enhances Fe²⁺ absorption.",
+      "opts": [
+        "False — the note concerns only Fe³⁺",
+        "True — but only in the colon",
+        "True — acidic pH enhances ferrous-iron absorption",
+        "False — acidic pH blocks Fe²⁺ absorption"
+      ],
+      "ans": 2,
+      "exp": "The note states acidic pH enhances Fe2+ absorption. (Book p71)"
+    },
+    {
+      "id": "MED-C12-33",
+      "sec": "Dietary Iron and Intestinal Absorption",
+      "page": 71,
+      "fmt": "recall",
+      "q": "The p71 diagram identifies the mucosal storage form of iron as:",
+      "opts": [
+        "Heme-bound Fe only",
+        "Fe³⁺",
+        "Fe⁰",
+        "Fe²⁺"
+      ],
+      "ans": 1,
+      "exp": "The diagram's note gives the storage form of iron as Fe3+. (Book p71)"
+    },
+    {
+      "id": "MED-C12-34",
+      "sec": "Dietary Iron and Intestinal Absorption",
+      "page": 71,
+      "fmt": "recall",
+      "q": "Which protein is labelled as temporary iron storage inside the duodenal enterocyte?",
+      "opts": [
+        "Ferroportin 1",
+        "Mucosal ferritin",
+        "Transferrin",
+        "Hepcidin"
+      ],
+      "ans": 1,
+      "exp": "The enterocyte diagram labels a mucosal ferritin storage pool. (Book p71)"
+    },
+    {
+      "id": "MED-C12-35",
+      "sec": "Dietary Iron and Intestinal Absorption",
+      "page": 71,
+      "fmt": "recall",
+      "q": "Iron retained in an enterocyte may be lost when the cell is:",
+      "opts": [
+        "Converted to a reticulocyte",
+        "Shed",
+        "Stimulated by CCK-B",
+        "Phagocytosed by a neutrophil"
+      ],
+      "ans": 1,
+      "exp": "The absorption diagram labels iron as lost by shedding of epithelial cells. (Book p71)"
+    },
+    {
+      "id": "MED-C12-36",
+      "sec": "Iron Export, Transport and Marrow Uptake",
+      "page": 71,
+      "fmt": "recall",
+      "q": "The basolateral iron-export protein shown in the enterocyte diagram is:",
+      "opts": [
+        "DMT1",
+        "Transferrin receptor 1",
+        "Ferroportin 1",
+        "Heme carrier protein"
+      ],
+      "ans": 2,
+      "exp": "Ferroportin 1 is the basolateral exporter in the diagram. (Book p71)"
+    },
+    {
+      "id": "MED-C12-37",
+      "sec": "Iron Export, Transport and Marrow Uptake",
+      "page": 71,
+      "fmt": "recall",
+      "q": "The liver-derived regulator shown inhibiting ferroportin-mediated iron exit is:",
+      "opts": [
+        "Erythropoietin",
+        "Hephaestin",
+        "Ceruloplasmin",
+        "Hepcidin"
+      ],
+      "ans": 3,
+      "exp": "The diagram shows hepcidin from the liver inhibiting ferroportin 1. (Book p71)"
+    },
+    {
+      "id": "MED-C12-38",
+      "sec": "Iron Export, Transport and Marrow Uptake",
+      "page": 71,
+      "fmt": "recall",
+      "q": "At the basolateral surface, hephaestin converts:",
+      "opts": [
+        "Fe³⁺ to Fe²⁺",
+        "Fe²⁺ to Fe³⁺",
+        "Heme to globin",
+        "Fe²⁺ to Fe⁰"
+      ],
+      "ans": 1,
+      "exp": "Hephaestin is shown converting Fe2+ to Fe3+ at the basolateral surface. (Book p71)"
+    },
+    {
+      "id": "MED-C12-39",
+      "sec": "Iron Export, Transport and Marrow Uptake",
+      "page": 71,
+      "fmt": "recall",
+      "q": "Plasma transferrin is shown binding how many Fe³⁺ molecules?",
+      "opts": [
+        "One",
+        "Four",
+        "Three",
+        "Two"
+      ],
+      "ans": 3,
+      "exp": "The figure notes that one transferrin binds with two Fe3+ molecules. (Book p71)"
+    },
+    {
+      "id": "MED-C12-40",
+      "sec": "Iron Export, Transport and Marrow Uptake",
+      "page": 71,
+      "fmt": "recall",
+      "q": "The transferrin–iron complex transports iron toward:",
+      "opts": [
+        "Small-bowel lumen",
+        "Gastric antrum",
+        "Erythroid marrow",
+        "Pancreatic duct"
+      ],
+      "ans": 2,
+      "exp": "The diagram sends the transferrin–iron complex to erythroid marrow. (Book p71)"
+    },
+    {
+      "id": "MED-C12-41",
+      "sec": "Iron Export, Transport and Marrow Uptake",
+      "page": 71,
+      "fmt": "recall",
+      "q": "The p71 note attributes conversion of Fe³⁺ to Fe²⁺ in the brain to:",
+      "opts": [
+        "DMT1",
+        "Ceruloplasmin (as printed in the source)",
+        "Hepcidin",
+        "Hephaestin"
+      ],
+      "ans": 1,
+      "exp": "The scanned p71 note prints 'Ceruloplasmin: converts Fe3+ → Fe2+ in brain.' This direction is preserved as printed for source coverage; verify against a trusted physiology reference before clinical use. (Book p71)"
+    },
+    {
+      "id": "MED-C12-42",
+      "sec": "Iron Export, Transport and Marrow Uptake",
+      "page": 72,
+      "fmt": "recall",
+      "q": "The transferrin receptors named on the surface of marrow cells are:",
+      "opts": [
+        "TfR1 and TfR2",
+        "DMT1 and DMT2",
+        "HCP and NRAMP-2",
+        "Ferroportin 1 and hephaestin"
+      ],
+      "ans": 0,
+      "exp": "The marrow-uptake diagram lists transferrin receptors TfR1 and TfR2. (Book p72)"
+    },
+    {
+      "id": "MED-C12-43",
+      "sec": "Iron Export, Transport and Marrow Uptake",
+      "page": 72,
+      "fmt": "recall",
+      "q": "The transferrin–iron complex is internalized into marrow-cell:",
+      "opts": [
+        "Lysosomal granules only",
+        "Endosomes",
+        "Nucleoli",
+        "Mitochondria directly"
+      ],
+      "ans": 1,
+      "exp": "The diagram shows the complex entering endosomes. (Book p72)"
+    },
+    {
+      "id": "MED-C12-44",
+      "sec": "Iron Export, Transport and Marrow Uptake",
+      "page": 72,
+      "fmt": "recall",
+      "q": "The endosome environment in the marrow uptake diagram is:",
+      "opts": [
+        "Alkaline",
+        "Neutral and enzyme-free",
+        "Acidic",
+        "Highly oxygenated"
+      ],
+      "ans": 2,
+      "exp": "The p72 label specifies acidic-pH endosomes. (Book p72)"
+    },
+    {
+      "id": "MED-C12-45",
+      "sec": "Iron Export, Transport and Marrow Uptake",
+      "page": 72,
+      "fmt": "recall",
+      "q": "In the marrow endosome, the sequence shown before iron reaches the cytoplasm is:",
+      "opts": [
+        "Fe³⁺ binds hepcidin, then enters through a CCK-B receptor",
+        "Heme is split into globin, then moved by HCP",
+        "Fe²⁺ is oxidized to Fe³⁺, then exported by ferroportin",
+        "Fe³⁺ is reduced to Fe²⁺, then transported by DMT1"
+      ],
+      "ans": 3,
+      "exp": "The diagram shows Fe3+ reduced to Fe2+, followed by DMT1 transport to cytoplasm. (Book p72)"
+    },
+    {
+      "id": "MED-C12-46",
+      "sec": "Iron Export, Transport and Marrow Uptake",
+      "page": 72,
+      "fmt": "recall",
+      "q": "The cytoplasmic destination is labelled the:",
+      "opts": [
+        "Storage-only compartment",
+        "Labile plasma pool",
+        "Heme-free zone",
+        "Common iron pool"
+      ],
+      "ans": 3,
+      "exp": "The marrow diagram labels cytoplasm as the common iron pool. (Book p72)"
+    },
+    {
+      "id": "MED-C12-47",
+      "sec": "Iron Export, Transport and Marrow Uptake",
+      "page": 72,
+      "fmt": "recall",
+      "q": "From the common iron pool, iron proceeds to mitochondria for:",
+      "opts": [
+        "Ferritin secretion",
+        "Globin degradation",
+        "Bile-acid conjugation",
+        "Heme synthesis"
+      ],
+      "ans": 3,
+      "exp": "The final step leads to mitochondria for heme synthesis. (Book p72)"
+    },
+    {
+      "id": "MED-C12-48",
+      "sec": "Iron Export, Transport and Marrow Uptake",
+      "page": 72,
+      "fmt": "recall",
+      "q": "Which site is included in the p72 iron-storage list?",
+      "opts": [
+        "Adrenal cortex",
+        "Pancreatic islets",
+        "Thyroid gland",
+        "Duodenum"
+      ],
+      "ans": 3,
+      "exp": "The storage list includes duodenum, bone marrow and macrophages in liver, spleen and brain. (Book p72)"
+    },
+    {
+      "id": "MED-C12-49",
+      "sec": "Iron Export, Transport and Marrow Uptake",
+      "page": 72,
+      "fmt": "recall",
+      "q": "The macrophage storage sites listed on p72 are:",
+      "opts": [
+        "Stomach, colon and pancreas",
+        "Kidney, lung and thyroid",
+        "Liver, spleen and brain",
+        "Pancreas, heart and skin"
+      ],
+      "ans": 2,
+      "exp": "The page lists macrophages in liver, spleen and brain. (Book p72)"
+    },
+    {
+      "id": "MED-C12-50",
+      "sec": "Iron Export, Transport and Marrow Uptake",
+      "page": 72,
+      "fmt": "recall",
+      "q": "The p72 DMT-1 note lists which additional metals?",
+      "opts": [
+        "Co, Se, I and F",
+        "Pb, Hg, Cd and As",
+        "Cu, Mn, Mg and Zn",
+        "Na, K, Ca and Cl"
+      ],
+      "ans": 2,
+      "exp": "The note lists Cu, Mn, Mg and Zn after DMT-1. (Book p72)"
+    },
+    {
+      "id": "MED-C12-51",
+      "sec": "Serum Iron Indices",
+      "page": 72,
+      "fmt": "recall",
+      "q": "Serum ferritin primarily indicates:",
+      "opts": [
+        "Iron stores, noted as predominant in marrow",
+        "Iron circulating bound to transferrin",
+        "The proportion of transferrin occupied by iron",
+        "Total binding capacity of transferrin"
+      ],
+      "ans": 0,
+      "exp": "The table says serum ferritin indicates iron stores (predominant in marrow). (Book p72)"
+    },
+    {
+      "id": "MED-C12-52",
+      "sec": "Serum Iron Indices",
+      "page": 72,
+      "fmt": "numeric",
+      "q": "The normal serum-ferritin range shown is:",
+      "opts": [
+        "50–150 µg/dL",
+        "3–30 ng/mL",
+        "30–300 ng/mL",
+        "300–360 µg/dL"
+      ],
+      "ans": 2,
+      "exp": "The p72 table gives 30–300 ng/mL. (Book p72)"
+    },
+    {
+      "id": "MED-C12-53",
+      "sec": "Serum Iron Indices",
+      "page": 72,
+      "fmt": "recall",
+      "q": "A low ferritin is interpreted as:",
+      "opts": [
+        "Reduced iron stores and iron deficiency",
+        "A high acute-phase response only",
+        "Increased circulating iron",
+        "A normal result that excludes deficiency"
+      ],
+      "ans": 0,
+      "exp": "Low ferritin reflects decreased iron stores and iron deficiency. (Book p72)"
+    },
+    {
+      "id": "MED-C12-54",
+      "sec": "Serum Iron Indices",
+      "page": 72,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — a normal or high serum ferritin always rules out iron deficiency.",
+      "opts": [
+        "True — but only when serum iron is low",
+        "False — only a low ferritin rules out iron deficiency",
+        "True — ferritin is never affected by inflammation",
+        "False — ferritin is an acute-phase reactant, so normal/high values cannot rule it out"
+      ],
+      "ans": 3,
+      "exp": "The page warns that normal/high ferritin cannot rule out deficiency because ferritin is an acute-phase reactant. (Book p72)"
+    },
+    {
+      "id": "MED-C12-55",
+      "sec": "Serum Iron Indices",
+      "page": 72,
+      "fmt": "recall",
+      "q": "Serum iron represents the amount of iron in circulation bound to:",
+      "opts": [
+        "Transferrin",
+        "Ferritin",
+        "Hemosiderin",
+        "Albumin only"
+      ],
+      "ans": 0,
+      "exp": "The table defines serum iron as circulating iron bound to transferrin. (Book p72)"
+    },
+    {
+      "id": "MED-C12-56",
+      "sec": "Serum Iron Indices",
+      "page": 72,
+      "fmt": "numeric",
+      "q": "The normal serum-iron range in the table is:",
+      "opts": [
+        "50–150 µg/dL",
+        "15–30 µg/dL",
+        "30–300 ng/mL",
+        "300–360 µg/dL"
+      ],
+      "ans": 0,
+      "exp": "The table gives serum iron 50–150 µg/dL. (Book p72)"
+    },
+    {
+      "id": "MED-C12-57",
+      "sec": "Serum Iron Indices",
+      "page": 72,
+      "fmt": "recall",
+      "q": "The table defines TIBC as the:",
+      "opts": [
+        "Total iron-binding capacity of transferrin",
+        "Fraction of transferrin saturated with iron",
+        "Amount of ferritin stored in marrow",
+        "Daily iron absorbed from the diet"
+      ],
+      "ans": 0,
+      "exp": "TIBC is total iron-binding capacity of transferrin. (Book p72)"
+    },
+    {
+      "id": "MED-C12-58",
+      "sec": "Serum Iron Indices",
+      "page": 72,
+      "fmt": "numeric",
+      "q": "The normal TIBC range printed is:",
+      "opts": [
+        "50–150 µg/dL",
+        "30–300 ng/mL",
+        "10–20 µg/dL",
+        "300–360 µg/dL"
+      ],
+      "ans": 3,
+      "exp": "The normal TIBC is 300–360 µg/dL. (Book p72)"
+    },
+    {
+      "id": "MED-C12-59",
+      "sec": "Serum Iron Indices",
+      "page": 72,
+      "fmt": "recall",
+      "q": "Transferrin saturation is calculated as:",
+      "opts": [
+        "Serum iron ÷ TIBC × 100",
+        "Serum iron × ferritin ÷ 100",
+        "TIBC ÷ serum iron × 100",
+        "Ferritin ÷ TIBC × 100"
+      ],
+      "ans": 0,
+      "exp": "The table gives TSAT = serum iron/TIBC × 100. (Book p72)"
+    },
+    {
+      "id": "MED-C12-60",
+      "sec": "Serum Iron Indices",
+      "page": 72,
+      "fmt": "numeric",
+      "q": "The normal transferrin saturation written in the table is:",
+      "opts": [
+        "13%",
+        "20%",
+        "67%",
+        "33%"
+      ],
+      "ans": 3,
+      "exp": "The table lists TSAT 33%. (Book p72)"
+    },
+    {
+      "id": "MED-C12-61",
+      "sec": "Serum Iron Indices",
+      "page": 72,
+      "fmt": "recall",
+      "q": "The serum-iron interpretation in iron deficiency is:",
+      "opts": [
+        "Normal because transferrin carries no iron",
+        "Low, reflecting reduced absorption and reduced circulating iron",
+        "High due to increased absorption",
+        "Low only when ferritin is high"
+      ],
+      "ans": 1,
+      "exp": "The table links low serum iron to decreased absorption and decreased circulation. (Book p72)"
+    },
+    {
+      "id": "MED-C12-62",
+      "sec": "Serum Iron Indices",
+      "page": 72,
+      "fmt": "recall",
+      "q": "Why does TIBC rise in iron deficiency in the p72 table?",
+      "opts": [
+        "Hepcidin causes excess ferritin release",
+        "Low iron triggers compensatory increased transferrin production",
+        "Ferritin converts into transferrin",
+        "The marrow stops making transferrin receptors"
+      ],
+      "ans": 1,
+      "exp": "The table explains high TIBC as compensatory increased transferrin production when iron is low. (Book p72)"
+    },
+    {
+      "id": "MED-C12-63",
+      "sec": "Serum Iron Indices",
+      "page": 72,
+      "fmt": "recall",
+      "q": "The earliest iron-deficiency marker singled out under the table is:",
+      "opts": [
+        "Low haemoglobin",
+        "Low ferritin",
+        "Low MCV",
+        "High TIBC"
+      ],
+      "ans": 1,
+      "exp": "The page explicitly labels low ferritin as earliest. (Book p72)"
+    },
+    {
+      "id": "MED-C12-64",
+      "sec": "Serum Iron Indices",
+      "page": 72,
+      "fmt": "recall",
+      "q": "The most sensitive marker for iron deficiency listed beneath the table is increased:",
+      "opts": [
+        "TIBC",
+        "Soluble transferrin receptor",
+        "Haemoglobin",
+        "Serum iron"
+      ],
+      "ans": 1,
+      "exp": "The p72 note labels increased soluble transferrin receptor as most sensitive. (Book p72)"
+    },
+    {
+      "id": "MED-C12-65",
+      "sec": "Serum Iron Indices",
+      "page": 72,
+      "fmt": "recall",
+      "q": "The ratio named as most specific for iron deficiency is:",
+      "opts": [
+        "Serum iron ÷ TIBC",
+        "Soluble transferrin receptor ÷ log ferritin",
+        "TIBC ÷ haemoglobin",
+        "Ferritin ÷ log soluble transferrin receptor"
+      ],
+      "ans": 1,
+      "exp": "The page names sTfR/log ferritin as the most specific measure. (Book p72)"
+    },
+    {
+      "id": "MED-C12-66",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "Which stage labels are shown in order on the iron-deficiency table?",
+      "opts": [
+        "Stage I pre-latent/negative balance → Stage II latent/iron-deficient erythropoiesis → Stage III iron-deficiency anaemia",
+        "Stage I anaemia → Stage II normal → Stage III negative balance",
+        "Stage I haemolysis → Stage II iron excess → Stage III anaemia of chronic disease",
+        "Stage I latent → Stage II pre-latent → Stage III sideroblastic anaemia"
+      ],
+      "ans": 0,
+      "exp": "The table progresses from pre-latent negative balance to latent iron-deficient erythropoiesis to iron-deficiency anaemia. (Book p73)"
+    },
+    {
+      "id": "MED-C12-67",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "In Stage I (pre-latent/negative iron balance), bone-marrow iron is:",
+      "opts": [
+        "Increased",
+        "Absent",
+        "Unchanged in all cases",
+        "Decreased"
+      ],
+      "ans": 3,
+      "exp": "The Stage I row shows decreased marrow iron. (Book p73)"
+    },
+    {
+      "id": "MED-C12-68",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "Bone-marrow iron is absent in which stages of the table?",
+      "opts": [
+        "Stage I and II only",
+        "Stages II and III",
+        "Stage I only",
+        "Stage III only"
+      ],
+      "ans": 1,
+      "exp": "The marrow-iron row is absent in Stage II and Stage III. (Book p73)"
+    },
+    {
+      "id": "MED-C12-69",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "Serum ferritin across the three stages is shown as:",
+      "opts": [
+        "Absent in Stage I, then increased",
+        "Increased in Stage I and low only in Stage III",
+        "Decreased from Stage I onward",
+        "Normal through Stage III"
+      ],
+      "ans": 2,
+      "exp": "The serum-ferritin row decreases in all three stages. (Book p73)"
+    },
+    {
+      "id": "MED-C12-70",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "Transferrin saturation in Stage I is shown as:",
+      "opts": [
+        "Increased",
+        "Below 15%",
+        "Normal",
+        "Below 20%"
+      ],
+      "ans": 2,
+      "exp": "Stage I TSAT is marked normal in the table. (Book p73)"
+    },
+    {
+      "id": "MED-C12-71",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "numeric",
+      "q": "Transferrin saturation in Stage II is shown as below:",
+      "opts": [
+        "15%",
+        "10%",
+        "33%",
+        "20%"
+      ],
+      "ans": 3,
+      "exp": "The Stage II TSAT entry is decreased (<20%). (Book p73)"
+    },
+    {
+      "id": "MED-C12-72",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "numeric",
+      "q": "The Stage III TSAT threshold shown in the table is below:",
+      "opts": [
+        "20%",
+        "33%",
+        "15%",
+        "10%"
+      ],
+      "ans": 2,
+      "exp": "The Stage III TSAT entry is decreased (<15%). (Book p73)"
+    },
+    {
+      "id": "MED-C12-73",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "TIBC and soluble transferrin receptor are normal in Stage I, then in Stages II and III they are:",
+      "opts": [
+        "Both decreased",
+        "TIBC decreased and sTfR unchanged",
+        "Both absent",
+        "Increased"
+      ],
+      "ans": 3,
+      "exp": "The table shows TIBC and sTfR rising from Stage II onward. (Book p73)"
+    },
+    {
+      "id": "MED-C12-74",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "FEP on p73 is expanded as:",
+      "opts": [
+        "Ferritin erythroid protein",
+        "Free extracellular peptide",
+        "Free erythrocyte protoporphyrin",
+        "Folate erythrocyte precursor"
+      ],
+      "ans": 2,
+      "exp": "FEP is free erythrocyte protoporphyrin. (Book p73)"
+    },
+    {
+      "id": "MED-C12-75",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "The page writes haemoglobin as:",
+      "opts": [
+        "Iron + transferrin",
+        "Ferritin + globin",
+        "Heme + globin",
+        "Protoporphyrin + albumin"
+      ],
+      "ans": 2,
+      "exp": "The FEP note states Hb = heme + globin. (Book p73)"
+    },
+    {
+      "id": "MED-C12-76",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "Across the three deficiency stages, FEP is shown as:",
+      "opts": [
+        "Decreased in Stage I, then absent",
+        "Increased only in Stage I, then normal",
+        "Normal in all three stages",
+        "Normal in Stage I, increased in Stages II and III"
+      ],
+      "ans": 3,
+      "exp": "The FEP row is normal in Stage I and increased in Stages II and III. (Book p73)"
+    },
+    {
+      "id": "MED-C12-77",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "As iron falls during haem synthesis, what happens to unbound protoporphyrin?",
+      "opts": [
+        "It decreases",
+        "It is converted to transferrin",
+        "It increases",
+        "It remains absent at every stage"
+      ],
+      "ans": 2,
+      "exp": "The page shows Fe + protoporphyrin and ↓Fe leading to increased unbound protoporphyrin. (Book p73)"
+    },
+    {
+      "id": "MED-C12-78",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "Reticulocyte haemoglobin becomes reduced in which stages?",
+      "opts": [
+        "It remains normal in all three stages",
+        "Stage III only",
+        "Stages II and III",
+        "Stage I only"
+      ],
+      "ans": 2,
+      "exp": "The reticulocyte-haemoglobin row is normal in Stage I and decreased in Stages II and III. (Book p73)"
+    },
+    {
+      "id": "MED-C12-79",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "In Stage II, haemoglobin and MCV are both shown as:",
+      "opts": [
+        "Normal",
+        "Increased",
+        "Absent",
+        "Decreased"
+      ],
+      "ans": 0,
+      "exp": "Stage II retains normal Hb and MCV; the cells are described as normocytic/normochromic. (Book p73)"
+    },
+    {
+      "id": "MED-C12-80",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "The Stage II red-cell description is:",
+      "opts": [
+        "Spherocytic and polychromatic",
+        "Microcytic and hypochromic",
+        "Macrocytic and hyperchromic",
+        "Normocytic and normochromic"
+      ],
+      "ans": 3,
+      "exp": "Stage II is labelled normocytic and normochromic. (Book p73)"
+    },
+    {
+      "id": "MED-C12-81",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "The symptom entry in Stage I (pre-latent/negative balance) is:",
+      "opts": [
+        "Jaundice and splenomegaly",
+        "No symptom is listed",
+        "Pica and epithelial changes",
+        "Fatigue and hair fall"
+      ],
+      "ans": 1,
+      "exp": "The Stage I symptom cell contains a dash; the table lists no symptoms there. (Book p73)"
+    },
+    {
+      "id": "MED-C12-82",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "Which non-specific symptoms are listed for Stage II?",
+      "opts": [
+        "Fatigue and hair fall",
+        "Jaundice and splenomegaly only",
+        "Pica and epithelial changes",
+        "Fever and bloody diarrhoea"
+      ],
+      "ans": 0,
+      "exp": "Stage II symptoms are listed as fatigue and hair fall. (Book p73)"
+    },
+    {
+      "id": "MED-C12-83",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "Stage III is associated with which paired symptom group?",
+      "opts": [
+        "No symptoms",
+        "Fever and arthritis",
+        "Pica and epithelial changes",
+        "Fatigue and hair fall only"
+      ],
+      "ans": 2,
+      "exp": "Stage III includes pica and epithelial changes. (Book p73)"
+    },
+    {
+      "id": "MED-C12-84",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "scenario",
+      "q": "A patient with iron deficiency reports eating ice. Which Stage III symptom label applies?",
+      "opts": [
+        "Pica (pagophagia)",
+        "Meralgia",
+        "Tenesmus",
+        "Dyspepsia"
+      ],
+      "ans": 0,
+      "exp": "The page lists pica, for example eating ice, in Stage III. (Book p73)"
+    },
+    {
+      "id": "MED-C12-85",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "In the Stage III row, the red-cell size/colour may be:",
+      "opts": [
+        "Spherocytic with high haemoglobin",
+        "Macrocytic and hyperchromic only",
+        "Always normocytic and normochromic",
+        "Normocytic plus microcytic, and normochromic plus hypochromic"
+      ],
+      "ans": 3,
+      "exp": "Stage III is shown as normocytic + microcytic and normochromic + hypochromic. (Book p73)"
+    },
+    {
+      "id": "MED-C12-86",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "The Stage III haemoglobin and MCV rows are both shown as:",
+      "opts": [
+        "Not measured",
+        "Normal",
+        "Decreased",
+        "Increased"
+      ],
+      "ans": 2,
+      "exp": "Stage III is iron-deficiency anaemia, with decreased Hb and MCV in the table. (Book p73)"
+    },
+    {
+      "id": "MED-C12-87",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "Chronic blood loss in the IDA aetiology section is qualified as:",
+      "opts": [
+        "Unless proven otherwise",
+        "Only after iron therapy",
+        "Not a possible cause",
+        "Only when stool is visibly bloody"
+      ],
+      "ans": 0,
+      "exp": "The page lists chronic blood loss with the qualifier 'unless proven otherwise'. (Book p73)"
+    },
+    {
+      "id": "MED-C12-88",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "Which pair appears in the iron-loss causes list?",
+      "opts": [
+        "Menstruation and haemorrhoids",
+        "Celiac disease and tropical sprue",
+        "CKD and malnutrition",
+        "Pica and epithelial changes"
+      ],
+      "ans": 0,
+      "exp": "Menstruation and haemorrhoids are listed under iron loss. (Book p73)"
+    },
+    {
+      "id": "MED-C12-89",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "Which malabsorption-site associations are printed as causes of iron deficiency?",
+      "opts": [
+        "Celiac disease—colon; tropical sprue—oesophagus",
+        "Celiac disease—pancreas; tropical sprue—stomach only",
+        "Celiac disease—duodenal involvement; tropical sprue—pan-intestinal involvement",
+        "Celiac disease—ileal only; tropical sprue—gastric only"
+      ],
+      "ans": 2,
+      "exp": "The page pairs celiac disease with duodenal involvement and tropical sprue with pan-intestinal involvement. (Book p73)"
+    },
+    {
+      "id": "MED-C12-90",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "The increased-demand category on p73 lists:",
+      "opts": [
+        "Celiac disease",
+        "Haemorrhoids",
+        "Pica",
+        "Chronic kidney disease"
+      ],
+      "ans": 3,
+      "exp": "Chronic kidney disease is the item printed under increased demand on the page. (Book p73)"
+    },
+    {
+      "id": "MED-C12-91",
+      "sec": "Stages of Iron Deficiency",
+      "page": 73,
+      "fmt": "recall",
+      "q": "Which additional broad cause category appears after increased demand?",
+      "opts": [
+        "Neoplastic",
+        "Infectious",
+        "Autoimmune",
+        "Nutritional"
+      ],
+      "ans": 3,
+      "exp": "Nutritional is listed as another cause category. (Book p73)"
+    },
+    {
+      "id": "MED-C12-92",
+      "sec": "Iron Deficiency Causes and Calculation",
+      "page": 74,
+      "fmt": "recall",
+      "q": "Which formula is printed for iron deficit?",
+      "opts": [
+        "2.3 × (desired Hb − patient's Hb) × body weight + 1000 mg",
+        "2.3 × (desired Hb + patient's Hb) ÷ body weight",
+        "2.4 × (patient Hb − desired Hb) × body weight − 500 mg",
+        "Body weight ÷ Hb difference × 1000 mg"
+      ],
+      "ans": 0,
+      "exp": "The p74 formula is 2.3 × (desired Hb − patient's Hb) × body weight + 1000 mg. (Book p74)"
+    },
+    {
+      "id": "MED-C12-93",
+      "sec": "Iron Deficiency Causes and Calculation",
+      "page": 74,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — the p74 note says EPO therapy should be given before correcting iron stores.",
+      "opts": [
+        "False — correct iron stores first",
+        "True — but only in pregnancy",
+        "True — EPO is first even when iron stores are depleted",
+        "False — iron stores do not matter before EPO"
+      ],
+      "ans": 0,
+      "exp": "The note says EPO therapy should be given after correcting iron stores. (Book p74)"
+    },
+    {
+      "id": "MED-C12-94",
+      "sec": "Clinical Features of Iron Deficiency",
+      "page": 74,
+      "fmt": "recall",
+      "q": "Which four oral lesions are shown/labeled under epithelial lesions of iron deficiency?",
+      "opts": [
+        "Hair loss, koilonychia, pica and splenomegaly",
+        "Aphthae, leukoplakia, oral lichen planus and parotitis",
+        "Angular cheilitis/stomatitis, oral candidiasis, median rhomboid glossitis and atrophic glossitis",
+        "Canker sores, gingival hyperplasia, thrush and ulcers only"
+      ],
+      "ans": 2,
+      "exp": "The p74 images label angular cheilitis/stomatitis, oral candidiasis, median rhomboid glossitis and atrophic glossitis. (Book p74)"
+    },
+    {
+      "id": "MED-C12-95",
+      "sec": "Clinical Features of Iron Deficiency",
+      "page": 74,
+      "fmt": "recall",
+      "q": "Atrophic glossitis is described as involving:",
+      "opts": [
+        "A white pseudomembrane only",
+        "Loss of papillae and atrophy",
+        "Tongue ulceration with intact papillae",
+        "Enlarged papillae and hyperplasia"
+      ],
+      "ans": 1,
+      "exp": "The caption describes atrophic glossitis as loss of papillae and atrophy. (Book p74)"
+    },
+    {
+      "id": "MED-C12-96",
+      "sec": "Clinical Features of Iron Deficiency",
+      "page": 74,
+      "fmt": "recall",
+      "q": "Plummer–Vinson syndrome on p74 is associated with:",
+      "opts": [
+        "Diarrhoea and ileal webs",
+        "Dysphagia and oesophageal webs",
+        "Steatorrhoea and duodenal strictures",
+        "Odynophagia and gastric folds"
+      ],
+      "ans": 1,
+      "exp": "The page links Plummer–Vinson syndrome to dysphagia and oesophageal webs. (Book p74)"
+    },
+    {
+      "id": "MED-C12-97",
+      "sec": "Clinical Features of Iron Deficiency",
+      "page": 74,
+      "fmt": "recall",
+      "q": "Which nail change appears in the 'Others' list for iron deficiency?",
+      "opts": [
+        "Onycholysis",
+        "Clubbing",
+        "Leukonychia",
+        "Koilonychia"
+      ],
+      "ans": 3,
+      "exp": "Koilonychia is listed among the other clinical features. (Book p74)"
+    },
+    {
+      "id": "MED-C12-98",
+      "sec": "Clinical Features of Iron Deficiency",
+      "page": 74,
+      "fmt": "recall",
+      "q": "The gastric associations listed among other iron-deficiency features are:",
+      "opts": [
+        "Gastrinoma and MALToma",
+        "Pseudomembranous gastritis and ulcers",
+        "Achlorhydria and atrophic gastritis",
+        "Hyperchlorhydria and hypertrophic gastritis"
+      ],
+      "ans": 2,
+      "exp": "The page lists achlorhydria and atrophic gastritis. (Book p74)"
+    },
+    {
+      "id": "MED-C12-99",
+      "sec": "Clinical Features of Iron Deficiency",
+      "page": 74,
+      "fmt": "recall",
+      "q": "Which additional syndrome appears in the p74 'Others' list?",
+      "opts": [
+        "Hyperactivity syndromes",
+        "Carcinoid syndrome",
+        "Dumping syndrome",
+        "Nephrotic syndrome"
+      ],
+      "ans": 0,
+      "exp": "The p74 list includes hyperactivity syndromes. (Book p74)"
+    },
+    {
+      "id": "MED-C12-100",
+      "sec": "Clinical Features of Iron Deficiency",
+      "page": 74,
+      "fmt": "recall",
+      "q": "The growth/development note proposes which relationship?",
+      "opts": [
+        "Increased transferrin → decreased growth hormone",
+        "Increased ferritin → increased growth hormone",
+        "Decreased transferrin → increased growth hormone",
+        "Increased hepcidin → increased growth hormone"
+      ],
+      "ans": 0,
+      "exp": "The note links growth/development defect to increased transferrin and decreased GH. (Book p74)"
+    },
+    {
+      "id": "MED-C12-101",
+      "sec": "Clinical Features of Iron Deficiency",
+      "page": 74,
+      "fmt": "recall",
+      "q": "The most common form of pica identified is:",
+      "opts": [
+        "Geophagia",
+        "Amylophagia",
+        "Pagophagia",
+        "Trichophagia"
+      ],
+      "ans": 2,
+      "exp": "The page notes pica and marks pagophagia as most common. (Book p74)"
+    },
+    {
+      "id": "MED-C12-102",
+      "sec": "Clinical Features of Iron Deficiency",
+      "page": 74,
+      "fmt": "recall",
+      "q": "Which cardiovascular consequence is listed among other iron-deficiency features?",
+      "opts": [
+        "Worsening congestive cardiac failure",
+        "Pulmonary hypertension only",
+        "Aortic stenosis",
+        "Reduced cardiac output with no symptoms"
+      ],
+      "ans": 0,
+      "exp": "Worsening of congestive cardiac failure is listed. (Book p74)"
+    },
+    {
+      "id": "MED-C12-103",
+      "sec": "Clinical Features of Iron Deficiency",
+      "page": 74,
+      "fmt": "recall",
+      "q": "Which pair completes the p74 list of systemic features?",
+      "opts": [
+        "Hepatomegaly and jaundice",
+        "Fever and arthritis",
+        "Mild splenomegaly and neuropsychiatric manifestations",
+        "Oedema and ascites"
+      ],
+      "ans": 2,
+      "exp": "The list includes mild splenomegaly and neuropsychiatric manifestations; hair loss is also included. (Book p74)"
+    },
+    {
+      "id": "MED-C12-104",
+      "sec": "IDA Blood Indices and Smear",
+      "page": 75,
+      "fmt": "recall",
+      "q": "Which blood-test pattern is shown for iron-deficiency anaemia?",
+      "opts": [
+        "Ferritin↓, serum iron↑, TSAT↑, TIBC↓ and sTfR↓",
+        "Ferritin↑, serum iron↑, TSAT↑, TIBC↓, sTfR↓ and RDW↓",
+        "Ferritin↓, serum iron↓, TSAT↓, TIBC↑, soluble transferrin receptor↑, red-cell protoporphyrin↑ and RDW↑",
+        "Ferritin normal, serum iron↑, TIBC↓ and RDW normal"
+      ],
+      "ans": 2,
+      "exp": "The p75 blood parameters show low ferritin/iron/TSAT and increased TIBC, sTfR, red-cell protoporphyrin and RDW. (Book p75)"
+    },
+    {
+      "id": "MED-C12-105",
+      "sec": "IDA Blood Indices and Smear",
+      "page": 75,
+      "fmt": "recall",
+      "q": "The MCV in IDA is described as:",
+      "opts": [
+        "High only in Stage I",
+        "Normal to low",
+        "Always normal",
+        "Always high"
+      ],
+      "ans": 1,
+      "exp": "The page states MCV normal to low. (Book p75)"
+    },
+    {
+      "id": "MED-C12-106",
+      "sec": "IDA Blood Indices and Smear",
+      "page": 75,
+      "fmt": "recall",
+      "q": "The mean corpuscular haemoglobin (MCH) is described as:",
+      "opts": [
+        "Elevated only in Stage III",
+        "Always absent",
+        "Normal to low",
+        "Always high"
+      ],
+      "ans": 2,
+      "exp": "The page describes MCH as normal to low. (Book p75)"
+    },
+    {
+      "id": "MED-C12-107",
+      "sec": "IDA Blood Indices and Smear",
+      "page": 75,
+      "fmt": "numeric",
+      "q": "The MCH range printed on p75 is:",
+      "opts": [
+        "32–36 pg",
+        "80–100 pg",
+        "27–31 pg",
+        "17–21 pg"
+      ],
+      "ans": 2,
+      "exp": "The source gives MCH 27–31 pg. (Book p75)"
+    },
+    {
+      "id": "MED-C12-108",
+      "sec": "IDA Blood Indices and Smear",
+      "page": 75,
+      "fmt": "recall",
+      "q": "The page places hypochromia and microcytosis at which IDA stage?",
+      "opts": [
+        "Stage III",
+        "Stage I",
+        "Stage II",
+        "They are present before iron stores fall"
+      ],
+      "ans": 0,
+      "exp": "The p75 note brackets hypochromia and microcytosis as occurring at the third stage. (Book p75)"
+    },
+    {
+      "id": "MED-C12-109",
+      "sec": "IDA Blood Indices and Smear",
+      "page": 75,
+      "fmt": "recall",
+      "q": "MCHC in iron deficiency is described as:",
+      "opts": [
+        "Always increased in Stage I",
+        "Normal to low",
+        "Absent",
+        "Always high"
+      ],
+      "ans": 1,
+      "exp": "The page lists MCHC as normal to low. (Book p75)"
+    },
+    {
+      "id": "MED-C12-110",
+      "sec": "IDA Blood Indices and Smear",
+      "page": 75,
+      "fmt": "recall",
+      "q": "The Mentzer index is calculated as:",
+      "opts": [
+        "MCH × MCV",
+        "RBC count ÷ MCV",
+        "MCV ÷ RBC count",
+        "Haemoglobin ÷ ferritin"
+      ],
+      "ans": 2,
+      "exp": "The page defines Mentzer index as MCV/RBC. (Book p75)"
+    },
+    {
+      "id": "MED-C12-111",
+      "sec": "IDA Blood Indices and Smear",
+      "page": 75,
+      "fmt": "numeric",
+      "q": "A Mentzer index above 13 favours:",
+      "opts": [
+        "Sideroblastic anaemia",
+        "Anaemia of chronic disease only",
+        "Thalassaemia trait",
+        "Iron deficiency"
+      ],
+      "ans": 3,
+      "exp": "The page labels >13 as iron deficiency. (Book p75)"
+    },
+    {
+      "id": "MED-C12-112",
+      "sec": "IDA Blood Indices and Smear",
+      "page": 75,
+      "fmt": "numeric",
+      "q": "A Mentzer index below 13 is paired with:",
+      "opts": [
+        "Thalassaemia trait",
+        "Megaloblastic anaemia",
+        "Haemolysis",
+        "Iron deficiency"
+      ],
+      "ans": 0,
+      "exp": "The page labels <13 as thalassaemia trait. (Book p75)"
+    },
+    {
+      "id": "MED-C12-113",
+      "sec": "IDA Blood Indices and Smear",
+      "page": 75,
+      "fmt": "recall",
+      "q": "The most common cause of anisopoikilocytosis noted on the smear page is:",
+      "opts": [
+        "Celiac disease",
+        "Sickle-cell disease",
+        "Iron-deficiency anaemia",
+        "Autoimmune haemolysis"
+      ],
+      "ans": 2,
+      "exp": "The smear note says anisopoikilocytosis (most common cause: IDA). (Book p75)"
+    },
+    {
+      "id": "MED-C12-114",
+      "sec": "IDA Blood Indices and Smear",
+      "page": 75,
+      "fmt": "recall",
+      "q": "The morphology comment accompanying anisopoikilocytosis is:",
+      "opts": [
+        "Only nucleated RBCs",
+        "Large spherocytes only",
+        "Uniform RBC morphology",
+        "Variable RBC morphology"
+      ],
+      "ans": 3,
+      "exp": "The p75 smear note says variable RBC morphology. (Book p75)"
+    },
+    {
+      "id": "MED-C12-115",
+      "sec": "IDA Blood Indices and Smear",
+      "page": 75,
+      "fmt": "numeric",
+      "q": "The RDW threshold marked increased in the smear note is:",
+      "opts": [
+        ">10%",
+        ">14.5%",
+        "<11.5%",
+        "<14.5%"
+      ],
+      "ans": 1,
+      "exp": "The note gives increased RDW >14.5%, with normal 11.5–14.5%. (Book p75)"
+    },
+    {
+      "id": "MED-C12-116",
+      "sec": "IDA Blood Indices and Smear",
+      "page": 75,
+      "fmt": "numeric",
+      "q": "The normal RDW interval shown in parentheses is:",
+      "opts": [
+        "5.5–10.5%",
+        "20–30%",
+        "11.5–14.5%",
+        "14.5–20%"
+      ],
+      "ans": 2,
+      "exp": "The source notes normal RDW of 11.5–14.5%. (Book p75)"
+    },
+    {
+      "id": "MED-C12-117",
+      "sec": "IDA Blood Indices and Smear",
+      "page": 75,
+      "fmt": "recall",
+      "q": "Which three red-cell findings are labelled in the iron-deficiency smear image?",
+      "opts": [
+        "Tear-drop cells, hypochromia and pencil cells",
+        "Howell–Jolly bodies, basophilic stippling and sickle cells",
+        "Acanthocytes, bite cells and stomatocytes",
+        "Spherocytes, schistocytes and target cells"
+      ],
+      "ans": 0,
+      "exp": "The labelled smear findings are tear-drop cell, hypochromia and pencil cells. (Book p75)"
+    },
+    {
+      "id": "MED-C12-118",
+      "sec": "IDA Blood Indices and Smear",
+      "page": 75,
+      "fmt": "recall",
+      "q": "The lower-right severe iron-deficiency smear image specifically labels:",
+      "opts": [
+        "Macro-ovalocytes",
+        "Spherocytes",
+        "Schistocytes",
+        "Microcytes"
+      ],
+      "ans": 3,
+      "exp": "The severe iron-deficiency image is labelled microcytes. (Book p75)"
+    },
+    {
+      "id": "MED-C12-119",
+      "sec": "IDA Blood Indices and Smear",
+      "page": 75,
+      "fmt": "recall",
+      "q": "RDW is expanded in the note as:",
+      "opts": [
+        "Reticulocyte distribution window",
+        "Red-cell distribution width",
+        "Red-cell diameter weight",
+        "Reticulocyte division width"
+      ],
+      "ans": 1,
+      "exp": "The note expands RDW as red-cell distribution width. (Book p75)"
+    },
+    {
+      "id": "MED-C12-120",
+      "sec": "Marrow, Treatment and Follow-up",
+      "page": 76,
+      "fmt": "recall",
+      "q": "In IDA, a Prussian-blue bone-marrow stain shows:",
+      "opts": [
+        "Absence of iron stores",
+        "Excess iron stores",
+        "Normal iron stores in every case",
+        "Increased ferritin granules"
+      ],
+      "ans": 0,
+      "exp": "The p76 bone-marrow list states absence of iron stores on Prussian-blue stain. (Book p76)"
+    },
+    {
+      "id": "MED-C12-121",
+      "sec": "Marrow, Treatment and Follow-up",
+      "page": 76,
+      "fmt": "recall",
+      "q": "The erythroid marrow response listed in IDA is:",
+      "opts": [
+        "Myeloid aplasia due to increased iron",
+        "Marrow replacement by granulomas",
+        "Erythroid hyperplasia due to ineffective erythropoiesis",
+        "Megakaryocytic hyperplasia due to haemolysis"
+      ],
+      "ans": 2,
+      "exp": "The page lists erythroid hyperplasia due to ineffective erythropoiesis. (Book p76)"
+    },
+    {
+      "id": "MED-C12-122",
+      "sec": "Marrow, Treatment and Follow-up",
+      "page": 76,
+      "fmt": "management",
+      "q": "Parenteral iron is listed for which stage of iron deficiency?",
+      "opts": [
+        "Stage III",
+        "Stage I only",
+        "Stage II only",
+        "All stages before ferritin falls"
+      ],
+      "ans": 0,
+      "exp": "The page says parenteral iron is given for Stage III iron deficiency. (Book p76)"
+    },
+    {
+      "id": "MED-C12-123",
+      "sec": "Marrow, Treatment and Follow-up",
+      "page": 76,
+      "fmt": "numeric",
+      "q": "The dose/frequency as written for iron sucrose on p76 is:",
+      "opts": [
+        "20 mg once daily",
+        "1 g once weekly",
+        "200 mg × thrice daily",
+        "500 mg every month"
+      ],
+      "ans": 2,
+      "exp": "The scan prints 'iron sucrose 200 mg × thrice daily'. This source transcription is not a current prescribing instruction; verify dosing against a trusted clinical reference. (Book p76)"
+    },
+    {
+      "id": "MED-C12-124",
+      "sec": "Marrow, Treatment and Follow-up",
+      "page": 76,
+      "fmt": "recall",
+      "q": "Which additional parenteral iron preparation is listed between iron sucrose and ferric carboxymaltose?",
+      "opts": [
+        "Ferrous sulphate",
+        "Transferrin",
+        "Ferritin",
+        "Iron isomaltose"
+      ],
+      "ans": 3,
+      "exp": "The listed parenteral agents include iron sucrose, iron isomaltose and ferric carboxymaltose. (Book p76)"
+    },
+    {
+      "id": "MED-C12-125",
+      "sec": "Marrow, Treatment and Follow-up",
+      "page": 76,
+      "fmt": "numeric",
+      "q": "The ferric carboxymaltose amount printed on p76 is:",
+      "opts": [
+        "100 mg",
+        "200 mg",
+        "1 g",
+        "2.5 g"
+      ],
+      "ans": 2,
+      "exp": "The page lists ferric carboxymaltose 1 g. (Book p76)"
+    },
+    {
+      "id": "MED-C12-126",
+      "sec": "Marrow, Treatment and Follow-up",
+      "page": 76,
+      "fmt": "recall",
+      "q": "The administration routes listed for parenteral iron are:",
+      "opts": [
+        "Direct IV or infusion",
+        "Subcutaneous only",
+        "Oral or sublingual",
+        "Intramuscular only"
+      ],
+      "ans": 0,
+      "exp": "The page says direct IV or infusion. (Book p76)"
+    },
+    {
+      "id": "MED-C12-127",
+      "sec": "Marrow, Treatment and Follow-up",
+      "page": 76,
+      "fmt": "management",
+      "q": "Oral iron is assigned in the source to:",
+      "opts": [
+        "All patients with normal ferritin",
+        "Latent-stage iron deficiency",
+        "Stage III only",
+        "Iron overload"
+      ],
+      "ans": 1,
+      "exp": "The page lists oral iron for latent-stage iron deficiency. (Book p76)"
+    },
+    {
+      "id": "MED-C12-128",
+      "sec": "Marrow, Treatment and Follow-up",
+      "page": 76,
+      "fmt": "numeric",
+      "q": "The oral ferrous-sulphate dose shown is:",
+      "opts": [
+        "200 mg three times daily",
+        "20 mg once daily",
+        "200 mg once weekly",
+        "1 g twice daily"
+      ],
+      "ans": 0,
+      "exp": "The source gives 200 mg ferrous sulphate TID. (Book p76)"
+    },
+    {
+      "id": "MED-C12-129",
+      "sec": "Marrow, Treatment and Follow-up",
+      "page": 76,
+      "fmt": "numeric",
+      "q": "Oral iron is to be resumed/continued for how long after correction, according to the page?",
+      "opts": [
+        "2 weeks",
+        "3–5 years",
+        "6–12 days",
+        "6–12 months"
+      ],
+      "ans": 3,
+      "exp": "The p76 note says resume for 6–12 months after correction. (Book p76)"
+    },
+    {
+      "id": "MED-C12-130",
+      "sec": "Marrow, Treatment and Follow-up",
+      "page": 76,
+      "fmt": "recall",
+      "q": "The side effect listed for oral iron is:",
+      "opts": [
+        "Pancreatitis",
+        "Cardiac toxicity",
+        "Gastric intolerance",
+        "Ischaemic colitis"
+      ],
+      "ans": 2,
+      "exp": "The page lists gastric intolerance as a side effect. (Book p76)"
+    },
+    {
+      "id": "MED-C12-131",
+      "sec": "Marrow, Treatment and Follow-up",
+      "page": 76,
+      "fmt": "numeric",
+      "q": "After treatment, the reticulocyte count is expected to begin rising after:",
+      "opts": [
+        "4 weeks",
+        "1–2 days",
+        "5–7 days",
+        "10–14 days"
+      ],
+      "ans": 2,
+      "exp": "The page says reticulocytes start to rise after 5–7 days. (Book p76)"
+    },
+    {
+      "id": "MED-C12-132",
+      "sec": "Marrow, Treatment and Follow-up",
+      "page": 76,
+      "fmt": "numeric",
+      "q": "The reticulocyte-count peak is expected at:",
+      "opts": [
+        "6–12 months",
+        "2–3 weeks",
+        "5–7 days",
+        "10–14 days"
+      ],
+      "ans": 3,
+      "exp": "The page gives a reticulocyte peak at 10–14 days. (Book p76)"
+    },
+    {
+      "id": "MED-C12-133",
+      "sec": "Marrow, Treatment and Follow-up",
+      "page": 76,
+      "fmt": "numeric",
+      "q": "Haemoglobin is expected to start rising after:",
+      "opts": [
+        "2 weeks",
+        "2 days",
+        "5–7 days",
+        "10–14 weeks"
+      ],
+      "ans": 0,
+      "exp": "The p76 follow-up note says Hb starts to rise at 2 weeks. (Book p76)"
+    },
+    {
+      "id": "MED-C12-134",
+      "sec": "Marrow, Treatment and Follow-up",
+      "page": 76,
+      "fmt": "numeric",
+      "q": "The Hb increase listed per month is:",
+      "opts": [
+        "1 g/dL",
+        "2 g/dL",
+        "0.2 g/dL",
+        "5 g/dL"
+      ],
+      "ans": 1,
+      "exp": "The page gives an increase of 2 g/dL per month. (Book p76)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U12-1",
+      "ch": 12,
+      "n": 1,
+      "title": "Body Iron & Daily Needs",
+      "sec": "Body Iron Pools and Daily Requirements",
+      "guide": "Male 50 mg/kg; female 40 mg/kg. Pools: Hb 67%, storage 27%, transferrin 0.08%, myoglobin 3.5%, labile 2.2%.\nPrussian blue is the marrow-store gold standard; hemosiderin + ferrocyanide turns blue-black.\nDaily requirements and p70 Hb thresholds are included as printed.",
+      "qs": [
+        "MED-C12-01",
+        "MED-C12-02",
+        "MED-C12-03",
+        "MED-C12-04",
+        "MED-C12-05",
+        "MED-C12-06",
+        "MED-C12-07",
+        "MED-C12-08",
+        "MED-C12-09",
+        "MED-C12-10",
+        "MED-C12-11",
+        "MED-C12-12",
+        "MED-C12-13",
+        "MED-C12-14",
+        "MED-C12-15",
+        "MED-C12-16",
+        "MED-C12-17",
+        "MED-C12-18",
+        "MED-C12-19"
+      ]
+    },
+    {
+      "id": "MED-U12-2",
+      "ch": 12,
+      "n": 2,
+      "title": "Dietary Iron & Absorption",
+      "sec": "Dietary Iron and Intestinal Absorption",
+      "guide": "Heme Fe²⁺/HCP versus non-heme Fe³⁺/duodenal cytochrome b reductase → Fe²⁺/DMT1.\nReducing substances and acidic pH enhance absorption; phytate, tannate and oxalate inhibit it.\nThe diagram follows mucosal storage, epithelial shedding and basolateral export.",
+      "qs": [
+        "MED-C12-20",
+        "MED-C12-21",
+        "MED-C12-22",
+        "MED-C12-23",
+        "MED-C12-24",
+        "MED-C12-25",
+        "MED-C12-26",
+        "MED-C12-27",
+        "MED-C12-28",
+        "MED-C12-29",
+        "MED-C12-30",
+        "MED-C12-31",
+        "MED-C12-32",
+        "MED-C12-33",
+        "MED-C12-34",
+        "MED-C12-35"
+      ]
+    },
+    {
+      "id": "MED-U12-3",
+      "ch": 12,
+      "n": 3,
+      "title": "Export, Transport & Marrow Uptake",
+      "sec": "Iron Export, Transport and Marrow Uptake",
+      "guide": "Ferroportin exports iron; liver hepcidin inhibits it; hephaestin oxidizes Fe²⁺ to Fe³⁺ for transferrin.\nMarrow TfR1/TfR2 → acidic endosome → Fe²⁺/DMT1 → common iron pool → mitochondrial heme.\nA source-note direction for ceruloplasmin is flagged as printed and should be verified before clinical use.",
+      "qs": [
+        "MED-C12-36",
+        "MED-C12-37",
+        "MED-C12-38",
+        "MED-C12-39",
+        "MED-C12-40",
+        "MED-C12-41",
+        "MED-C12-42",
+        "MED-C12-43",
+        "MED-C12-44",
+        "MED-C12-45",
+        "MED-C12-46",
+        "MED-C12-47",
+        "MED-C12-48",
+        "MED-C12-49",
+        "MED-C12-50"
+      ]
+    },
+    {
+      "id": "MED-U12-4",
+      "ch": 12,
+      "n": 4,
+      "title": "Serum Iron Indices",
+      "sec": "Serum Iron Indices",
+      "guide": "Ferritin 30–300 ng/mL; serum iron 50–150 µg/dL; TIBC 300–360 µg/dL; TSAT 33%.\nIron deficiency: ferritin/iron/TSAT low and TIBC/sTfR high; ferritin can be masked by acute-phase response.\nLow ferritin is earliest; sTfR is most sensitive; sTfR/log ferritin is listed as most specific.",
+      "qs": [
+        "MED-C12-51",
+        "MED-C12-52",
+        "MED-C12-53",
+        "MED-C12-54",
+        "MED-C12-55",
+        "MED-C12-56",
+        "MED-C12-57",
+        "MED-C12-58",
+        "MED-C12-59",
+        "MED-C12-60",
+        "MED-C12-61",
+        "MED-C12-62",
+        "MED-C12-63",
+        "MED-C12-64",
+        "MED-C12-65"
+      ]
+    },
+    {
+      "id": "MED-U12-5",
+      "ch": 12,
+      "n": 5,
+      "title": "Stages of Iron Deficiency",
+      "sec": "Stages of Iron Deficiency",
+      "guide": "Stage I: pre-latent/negative balance; Stage II: latent/iron-deficient erythropoiesis; Stage III: IDA.\nTSAT falls below 20% then 15%; TIBC, sTfR and FEP rise; reticulocyte Hb falls from Stage II.\nStage II remains normocytic/normochromic; Stage III has anaemia, microcytosis/hypochromia and pica/epithelial changes.",
+      "qs": [
+        "MED-C12-66",
+        "MED-C12-67",
+        "MED-C12-68",
+        "MED-C12-69",
+        "MED-C12-70",
+        "MED-C12-71",
+        "MED-C12-72",
+        "MED-C12-73",
+        "MED-C12-74",
+        "MED-C12-75",
+        "MED-C12-76",
+        "MED-C12-77",
+        "MED-C12-78",
+        "MED-C12-79",
+        "MED-C12-80",
+        "MED-C12-81",
+        "MED-C12-82",
+        "MED-C12-83",
+        "MED-C12-84",
+        "MED-C12-85",
+        "MED-C12-86",
+        "MED-C12-87",
+        "MED-C12-88",
+        "MED-C12-89",
+        "MED-C12-90",
+        "MED-C12-91"
+      ]
+    },
+    {
+      "id": "MED-U12-6",
+      "ch": 12,
+      "n": 6,
+      "title": "Causes & Iron Deficit",
+      "sec": "Iron Deficiency Causes and Calculation",
+      "guide": "Blood loss is emphasized ('unless proven otherwise'); menstruation and haemorrhoids are listed.\nMalabsorption: celiac (duodenum), tropical sprue (pan-intestinal); CKD and nutrition are also listed.\nThe 2.3 × Hb-difference × weight + 1000 mg formula and EPO-after-iron note are transcribed.",
+      "qs": [
+        "MED-C12-92",
+        "MED-C12-93"
+      ]
+    },
+    {
+      "id": "MED-U12-7",
+      "ch": 12,
+      "n": 7,
+      "title": "Clinical Features",
+      "sec": "Clinical Features of Iron Deficiency",
+      "guide": "Oral lesions: angular cheilitis/stomatitis, candidiasis, median rhomboid and atrophic glossitis.\nPlummer–Vinson: dysphagia + oesophageal webs; other findings include koilonychia, pagophagia and hair loss.\nGrowth/development, splenomegaly, heart failure and neuropsychiatric features are also inventoried.",
+      "qs": [
+        "MED-C12-94",
+        "MED-C12-95",
+        "MED-C12-96",
+        "MED-C12-97",
+        "MED-C12-98",
+        "MED-C12-99",
+        "MED-C12-100",
+        "MED-C12-101",
+        "MED-C12-102",
+        "MED-C12-103"
+      ]
+    },
+    {
+      "id": "MED-U12-8",
+      "ch": 12,
+      "n": 8,
+      "title": "IDA Investigations",
+      "sec": "IDA Blood Indices and Smear",
+      "guide": "Ferritin, serum iron, TSAT fall; TIBC, sTfR, red-cell protoporphyrin and RDW rise.\nMCH 27–31 pg; Mentzer >13 favors IDA, <13 thalassaemia trait; smear shows anisopoikilocytosis.\nTear-drop cells, hypochromia, pencil cells and microcytes are labelled in the figures.",
+      "qs": [
+        "MED-C12-104",
+        "MED-C12-105",
+        "MED-C12-106",
+        "MED-C12-107",
+        "MED-C12-108",
+        "MED-C12-109",
+        "MED-C12-110",
+        "MED-C12-111",
+        "MED-C12-112",
+        "MED-C12-113",
+        "MED-C12-114",
+        "MED-C12-115",
+        "MED-C12-116",
+        "MED-C12-117",
+        "MED-C12-118",
+        "MED-C12-119"
+      ]
+    },
+    {
+      "id": "MED-U12-9",
+      "ch": 12,
+      "n": 9,
+      "title": "Marrow, Treatment & Follow-up",
+      "sec": "Marrow, Treatment and Follow-up",
+      "guide": "Marrow: absent Prussian-blue stores and erythroid hyperplasia.\nThe page lists parenteral iron for Stage III, oral iron for latent disease and gastric intolerance.\nReticulocytes rise at 5–7 days/peak 10–14; Hb starts at two weeks; dosing is reproduced as printed, not current guidance.",
+      "qs": [
+        "MED-C12-120",
+        "MED-C12-121",
+        "MED-C12-122",
+        "MED-C12-123",
+        "MED-C12-124",
+        "MED-C12-125",
+        "MED-C12-126",
+        "MED-C12-127",
+        "MED-C12-128",
+        "MED-C12-129",
+        "MED-C12-130",
+        "MED-C12-131",
+        "MED-C12-132",
+        "MED-C12-133",
+        "MED-C12-134"
+      ]
+    }
+  ]
+}

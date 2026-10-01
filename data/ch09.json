@@ -1,0 +1,1131 @@
+{
+  "chapter": 9,
+  "title": "Gastrinoma",
+  "pageRange": "60-62",
+  "questions": [
+    {
+      "id": "MED-C9-01",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "recall",
+      "q": "A gastrinoma is described as a neuroendocrine tumour that secretes:",
+      "opts": [
+        "Somatostatin",
+        "Gastrin",
+        "Insulin",
+        "Vasoactive intestinal peptide"
+      ],
+      "ans": 1,
+      "exp": "The opening definition is a neuroendocrine tumour secreting gastrin. (Book p60)"
+    },
+    {
+      "id": "MED-C9-02",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "recall",
+      "q": "Which pair is listed as neuroendocrine markers in the introduction?",
+      "opts": [
+        "Ferritin and transferrin receptor",
+        "AFP and β-hCG",
+        "Chromogranin and NSE",
+        "CEA and CA-125"
+      ],
+      "ans": 2,
+      "exp": "The page lists chromogranin and NSE as neuroendocrine markers. (Book p60)"
+    },
+    {
+      "id": "MED-C9-03",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "recall",
+      "q": "The clinical manifestation named for gastrinoma is:",
+      "opts": [
+        "Zollinger–Ellison syndrome",
+        "Carcinoid syndrome",
+        "Whipple disease",
+        "Werner syndrome"
+      ],
+      "ans": 0,
+      "exp": "The clinical manifestation is Zollinger–Ellison syndrome. (Book p60)"
+    },
+    {
+      "id": "MED-C9-04",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "numeric",
+      "q": "What proportion of gastrinomas is labelled sporadic in the comparison table?",
+      "opts": [
+        "50%",
+        "20%",
+        "80%",
+        "60%"
+      ],
+      "ans": 2,
+      "exp": "The table assigns 80% to sporadic gastrinoma. (Book p60)"
+    },
+    {
+      "id": "MED-C9-05",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "numeric",
+      "q": "What proportion is labelled MEN1-associated?",
+      "opts": [
+        "10%",
+        "60%",
+        "80%",
+        "20%"
+      ],
+      "ans": 3,
+      "exp": "The table assigns 20% to MEN1-associated gastrinoma. (Book p60)"
+    },
+    {
+      "id": "MED-C9-06",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "recall",
+      "q": "Among sporadic pancreatic neuroendocrine tumours, the page calls gastrinoma the:",
+      "opts": [
+        "Only non-functional pancreatic tumour",
+        "Most common functional pancreatic neuroendocrine tumour",
+        "Second most common functional pancreatic neuroendocrine tumour",
+        "Least common pancreatic neuroendocrine tumour"
+      ],
+      "ans": 2,
+      "exp": "The sporadic column says second most common functional pancreatic neuroendocrine tumour. (Book p60)"
+    },
+    {
+      "id": "MED-C9-07",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "recall",
+      "q": "The typical sporadic gastrinoma is described as:",
+      "opts": [
+        "Multiple and small",
+        "Single and microscopic",
+        "Multiple and large",
+        "Single and large"
+      ],
+      "ans": 3,
+      "exp": "The sporadic column lists a single, large tumour. (Book p60)"
+    },
+    {
+      "id": "MED-C9-08",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "recall",
+      "q": "Within MEN1, gastrinoma is described as the most common:",
+      "opts": [
+        "Pituitary tumour",
+        "Neuroendocrine tumour",
+        "Parathyroid carcinoma",
+        "Adrenal cortical tumour"
+      ],
+      "ans": 1,
+      "exp": "The MEN1 column calls it the most common neuroendocrine tumour in MEN1. (Book p60)"
+    },
+    {
+      "id": "MED-C9-09",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "recall",
+      "q": "MEN1-associated gastrinomas are described as:",
+      "opts": [
+        "Large and restricted to pancreatic tail",
+        "Single and usually benign",
+        "Single and large",
+        "Multiple and small"
+      ],
+      "ans": 3,
+      "exp": "The MEN1 column lists multiple, small tumours. (Book p60)"
+    },
+    {
+      "id": "MED-C9-10",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "numeric",
+      "q": "The age range associated with sporadic gastrinoma in the table is:",
+      "opts": [
+        "Over 70 years",
+        "50–70 years",
+        "30–50 years",
+        "Under 20 years"
+      ],
+      "ans": 2,
+      "exp": "The sporadic column gives an age group of 30–50 years. (Book p60)"
+    },
+    {
+      "id": "MED-C9-11",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "numeric",
+      "q": "The age group shown for MEN1-associated gastrinoma is:",
+      "opts": [
+        "Under 20 years",
+        "30–50 years",
+        "Over 70 years",
+        "50–70 years"
+      ],
+      "ans": 0,
+      "exp": "The MEN1 column gives <20 years. (Book p60)"
+    },
+    {
+      "id": "MED-C9-12",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "recall",
+      "q": "The sex distribution printed for sporadic gastrinoma is:",
+      "opts": [
+        "Male = female",
+        "Female > male",
+        "Female-only",
+        "Male > female"
+      ],
+      "ans": 1,
+      "exp": "The sporadic column states female > male. (Book p60)"
+    },
+    {
+      "id": "MED-C9-13",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "recall",
+      "q": "The MEN1-associated sex distribution is shown as equal, with which inheritance pattern?",
+      "opts": [
+        "Male = female; autosomal dominant",
+        "Equal; mitochondrial inheritance",
+        "Male > female; autosomal recessive",
+        "Female > male; X-linked recessive"
+      ],
+      "ans": 0,
+      "exp": "The MEN1 column states M = F and notes autosomal-dominant inheritance. (Book p60)"
+    },
+    {
+      "id": "MED-C9-14",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "numeric",
+      "q": "The malignancy-risk entry for sporadic gastrinoma is:",
+      "opts": [
+        "60%, with liver metastasis noted",
+        "20%, with lung metastasis",
+        "100%, with bone metastasis",
+        "Low, mostly benign"
+      ],
+      "ans": 0,
+      "exp": "The sporadic column gives 60% and notes metastasis to liver. (Book p60)"
+    },
+    {
+      "id": "MED-C9-15",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "recall",
+      "q": "The MEN1-associated malignancy-risk entry is:",
+      "opts": [
+        "Uniformly metastatic at diagnosis",
+        "High and more aggressive",
+        "60% with liver metastasis",
+        "Low; mostly benign"
+      ],
+      "ans": 3,
+      "exp": "The MEN1 column describes low malignancy risk and mostly benign tumours. (Book p60)"
+    },
+    {
+      "id": "MED-C9-16",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "recall",
+      "q": "The location paired with sporadic gastrinoma in the table is:",
+      "opts": [
+        "Splenic hilum",
+        "Pyloric antrum",
+        "Passaro's triangle (gastrinoma triangle)",
+        "Duodenum only"
+      ],
+      "ans": 2,
+      "exp": "The sporadic location is Passaro's/gastrinoma triangle. (Book p60)"
+    },
+    {
+      "id": "MED-C9-17",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "recall",
+      "q": "The location cell for MEN1-associated gastrinoma reads:",
+      "opts": [
+        "Passaro's triangle only",
+        "Liver",
+        "Duodenum",
+        "Gastric fundus"
+      ],
+      "ans": 2,
+      "exp": "The MEN1 location entry is duodenum. (Book p60)"
+    },
+    {
+      "id": "MED-C9-18",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "management",
+      "q": "The table's treatment entry for the majority of sporadic gastrinoma cases is:",
+      "opts": [
+        "Surgery",
+        "High-dose PPI alone",
+        "Octreotide without surgery",
+        "Total gastrectomy in all cases"
+      ],
+      "ans": 0,
+      "exp": "The sporadic column says surgery in the majority of cases. (Book p60)"
+    },
+    {
+      "id": "MED-C9-19",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "management",
+      "q": "For MEN1-associated disease, the table lists high-dose PPI and surgery when tumour size exceeds:",
+      "opts": [
+        ">5 cm",
+        ">1 cm",
+        ">0.5 cm",
+        ">2.5 cm"
+      ],
+      "ans": 3,
+      "exp": "The MEN1 table lists high-dose PPI and surgery if size is >2.5 cm. (Book p60)"
+    },
+    {
+      "id": "MED-C9-20",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "recall",
+      "q": "The prognosis comparison in the table describes sporadic tumours as:",
+      "opts": [
+        "Uniformly indolent",
+        "Bad and more aggressive",
+        "Good and less aggressive",
+        "Unrelated to tumour behaviour"
+      ],
+      "ans": 1,
+      "exp": "The sporadic prognosis is labelled bad/more aggressive. (Book p60)"
+    },
+    {
+      "id": "MED-C9-21",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "recall",
+      "q": "The prognosis entry for MEN1-associated tumours is:",
+      "opts": [
+        "Good and less aggressive",
+        "Not assessed",
+        "Always metastatic",
+        "Bad and more aggressive"
+      ],
+      "ans": 0,
+      "exp": "The MEN1 prognosis is labelled good/less aggressive. (Book p60)"
+    },
+    {
+      "id": "MED-C9-22",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "recall",
+      "q": "The note identifies which tumour as the most common functional pancreatic neuroendocrine tumour overall?",
+      "opts": [
+        "Insulinoma",
+        "Gastrinoma",
+        "VIPoma",
+        "Glucagonoma"
+      ],
+      "ans": 0,
+      "exp": "The note says insulinoma is the most common functional pancreatic neuroendocrine tumour overall. (Book p60)"
+    },
+    {
+      "id": "MED-C9-23",
+      "sec": "Gastrinoma Types and Comparisons",
+      "page": 60,
+      "fmt": "recall",
+      "q": "The most common cause of death in MEN1 is attributed in the note to an entero-pancreatic neuroendocrine tumour, specifically:",
+      "opts": [
+        "Somatostatinoma",
+        "Glucagonoma",
+        "Gastrinoma",
+        "Insulinoma"
+      ],
+      "ans": 2,
+      "exp": "The note identifies entero-pancreatic NET (gastrinoma) as the most common cause of death in MEN1. (Book p60)"
+    },
+    {
+      "id": "MED-C9-24",
+      "sec": "Gastrinoma Triangle and Gastrin Effects",
+      "page": 60,
+      "fmt": "recall",
+      "q": "Which junction is point A of the gastrinoma triangle?",
+      "opts": [
+        "Junction of second and third duodenal portions",
+        "Junction of pancreatic body and neck",
+        "Junction of cystic duct and common bile duct",
+        "Junction of common bile duct and pancreatic tail"
+      ],
+      "ans": 2,
+      "exp": "Point A is the junction of the cystic duct and CBD. (Book p60)"
+    },
+    {
+      "id": "MED-C9-25",
+      "sec": "Gastrinoma Triangle and Gastrin Effects",
+      "page": 60,
+      "fmt": "recall",
+      "q": "Point B of the gastrinoma triangle is the junction of the:",
+      "opts": [
+        "Second and third portions of the duodenum",
+        "Body and neck of pancreas",
+        "Cystic duct and common bile duct",
+        "First and second portions of the duodenum"
+      ],
+      "ans": 0,
+      "exp": "Point B is the junction of the second and third portions of the duodenum. (Book p60)"
+    },
+    {
+      "id": "MED-C9-26",
+      "sec": "Gastrinoma Triangle and Gastrin Effects",
+      "page": 60,
+      "fmt": "recall",
+      "q": "The pancreatic landmark at point C is the junction of the:",
+      "opts": [
+        "Body and tail",
+        "Pancreatic duct and ampulla",
+        "Head and uncinate process",
+        "Body and neck of the pancreas"
+      ],
+      "ans": 3,
+      "exp": "Point C is the junction of the body and neck of pancreas. (Book p60)"
+    },
+    {
+      "id": "MED-C9-27",
+      "sec": "Gastrinoma Triangle and Gastrin Effects",
+      "page": 60,
+      "fmt": "recall",
+      "q": "Which group contains all three boundaries identified for the gastrinoma triangle?",
+      "opts": [
+        "CBD/ampulla; D1–D2 junction; pancreatic body–tail junction",
+        "Cystic-duct/CBD junction; D2–D3 junction; pancreatic body–neck junction",
+        "Fundus; ileocecal valve; pancreatic head",
+        "Pylorus; ligament of Treitz; pancreatic tail"
+      ],
+      "ans": 1,
+      "exp": "The three labelled points are the cystic duct/CBD junction, second–third duodenal junction and pancreatic body–neck junction. (Book p60)"
+    },
+    {
+      "id": "MED-C9-28",
+      "sec": "Gastrinoma Triangle and Gastrin Effects",
+      "page": 60,
+      "fmt": "recall",
+      "q": "In the effect diagram, increased gastrin first stimulates:",
+      "opts": [
+        "Paneth cells",
+        "Chief cells",
+        "Parietal cells",
+        "Goblet cells"
+      ],
+      "ans": 2,
+      "exp": "The diagram shows increased gastrin stimulating parietal cells. (Book p60)"
+    },
+    {
+      "id": "MED-C9-29",
+      "sec": "Gastrinoma Triangle and Gastrin Effects",
+      "page": 60,
+      "fmt": "recall",
+      "q": "The parietal-cell response to increased gastrin is increased secretion of:",
+      "opts": [
+        "Intrinsic factor only",
+        "Bicarbonate into the lumen",
+        "Hydrochloric acid",
+        "Pepsinogen"
+      ],
+      "ans": 2,
+      "exp": "The pathway is gastrin → parietal cells → increased HCl secretion. (Book p60)"
+    },
+    {
+      "id": "MED-C9-30",
+      "sec": "Gastrinoma Triangle and Gastrin Effects",
+      "page": 60,
+      "fmt": "recall",
+      "q": "Which downstream consequence is paired with mucosal acid injury in the gastrin effect diagram?",
+      "opts": [
+        "MALToma or celiac disease",
+        "Aphthous ulcer or toxic megacolon",
+        "Pyloric hypertrophy or ileal stricture",
+        "Gastric ulcer or duodenal ulcer"
+      ],
+      "ans": 3,
+      "exp": "Acid damages the GI mucosal lining and is linked to gastric or duodenal ulcer. (Book p60)"
+    },
+    {
+      "id": "MED-C9-31",
+      "sec": "Gastrinoma Triangle and Gastrin Effects",
+      "page": 60,
+      "fmt": "recall",
+      "q": "Excess acid can cause diarrhoea and steatorrhoea by inactivating:",
+      "opts": [
+        "Bile-acid transporters",
+        "Pancreatic enzymes",
+        "Intrinsic factor",
+        "Brush-border lactase only"
+      ],
+      "ans": 1,
+      "exp": "The page states that acid inactivates pancreatic enzymes, producing diarrhoea, steatorrhoea and malabsorption. (Book p60)"
+    },
+    {
+      "id": "MED-C9-32",
+      "sec": "Gastrinoma Triangle and Gastrin Effects",
+      "page": 60,
+      "fmt": "recall",
+      "q": "Which cluster is explicitly linked to acid-mediated pancreatic-enzyme inactivation?",
+      "opts": [
+        "Diarrhoea, steatorrhoea and malabsorption",
+        "Haematemesis, leucopenia and fever",
+        "Constipation, jaundice and pruritus",
+        "Dysphagia, tenesmus and anaemia"
+      ],
+      "ans": 0,
+      "exp": "The diagram lists diarrhoea, steatorrhoea and malabsorption after pancreatic enzyme inactivation. (Book p60)"
+    },
+    {
+      "id": "MED-C9-33",
+      "sec": "Clinical Features and Diarrhoea",
+      "page": 61,
+      "fmt": "recall",
+      "q": "The most important symptom of gastrinoma listed on p61 is:",
+      "opts": [
+        "Painless rectal bleeding",
+        "Abdominal pain",
+        "Dysphagia",
+        "Jaundice"
+      ],
+      "ans": 1,
+      "exp": "The clinical-features list marks abdominal pain as the most important symptom. (Book p61)"
+    },
+    {
+      "id": "MED-C9-34",
+      "sec": "Clinical Features and Diarrhoea",
+      "page": 61,
+      "fmt": "recall",
+      "q": "The most common manifestation of gastrinoma is:",
+      "opts": [
+        "Carcinoid syndrome",
+        "Acute pancreatitis",
+        "Peptic ulcer disease",
+        "Iron-deficiency anaemia"
+      ],
+      "ans": 2,
+      "exp": "The page identifies peptic ulcer disease as the most common manifestation. (Book p61)"
+    },
+    {
+      "id": "MED-C9-35",
+      "sec": "Clinical Features and Diarrhoea",
+      "page": 61,
+      "fmt": "recall",
+      "q": "An unusually distal ulcer location that raises suspicion of gastrinoma is:",
+      "opts": [
+        "Gastric antrum only",
+        "Lower oesophagus",
+        "Second part of the duodenum and beyond",
+        "First part of the duodenum only"
+      ],
+      "ans": 2,
+      "exp": "The indicator list says unusual location: D2 and beyond. (Book p61)"
+    },
+    {
+      "id": "MED-C9-36",
+      "sec": "Clinical Features and Diarrhoea",
+      "page": 61,
+      "fmt": "numeric",
+      "q": "The book's refractory gastric-ulcer threshold is failure to respond for more than:",
+      "opts": [
+        "4 weeks",
+        "24 weeks",
+        "12 weeks",
+        "8 weeks"
+      ],
+      "ans": 2,
+      "exp": "The page lists GU >12 weeks as refractory to medical therapy. (Book p61)"
+    },
+    {
+      "id": "MED-C9-37",
+      "sec": "Clinical Features and Diarrhoea",
+      "page": 61,
+      "fmt": "numeric",
+      "q": "The refractory duodenal-ulcer threshold listed is more than:",
+      "opts": [
+        "24 weeks",
+        "2 weeks",
+        "8 weeks",
+        "12 weeks"
+      ],
+      "ans": 2,
+      "exp": "The page lists DU >8 weeks as refractory to medical therapy. (Book p61)"
+    },
+    {
+      "id": "MED-C9-38",
+      "sec": "Clinical Features and Diarrhoea",
+      "page": 61,
+      "fmt": "recall",
+      "q": "Which course feature is included as an indicator of gastrinoma in peptic-ulcer disease?",
+      "opts": [
+        "Absence of abdominal symptoms",
+        "Pain limited to fasting without recurrence",
+        "A single ulcer that heals permanently",
+        "Ulcer recurrence"
+      ],
+      "ans": 3,
+      "exp": "Recurrence is one of the listed indicators. (Book p61)"
+    },
+    {
+      "id": "MED-C9-39",
+      "sec": "Clinical Features and Diarrhoea",
+      "page": 61,
+      "fmt": "recall",
+      "q": "The symptom pair written together in the gastrinoma clinical-features list is:",
+      "opts": [
+        "Abdominal pain and diarrhoea",
+        "Constipation and tenesmus",
+        "Jaundice and pruritus",
+        "Dysphagia and odynophagia"
+      ],
+      "ans": 0,
+      "exp": "The list includes abdominal pain and diarrhoea. (Book p61)"
+    },
+    {
+      "id": "MED-C9-40",
+      "sec": "Clinical Features and Diarrhoea",
+      "page": 61,
+      "fmt": "recall",
+      "q": "The page describes gastrinoma-associated diarrhoea as having:",
+      "opts": [
+        "Only an osmotic component",
+        "Both osmotic and secretory components",
+        "Only a secretory component",
+        "Neither component"
+      ],
+      "ans": 1,
+      "exp": "The note explicitly says both osmotic and secretory components are present. (Book p61)"
+    },
+    {
+      "id": "MED-C9-41",
+      "sec": "Clinical Features and Diarrhoea",
+      "page": 61,
+      "fmt": "recall",
+      "q": "Which chain is the secretory component attributed to gastrin?",
+      "opts": [
+        "Gastrin suppresses parietal cells → constipation",
+        "Gastrin acts on enterocytes → water moves into the lumen",
+        "Acid blocks enterocytes → water moves into blood",
+        "Gastrin inactivates lipase → steatorrhoea"
+      ],
+      "ans": 1,
+      "exp": "The source gives gastrin acting on enterocytes and water moving into the lumen as the secretory component. (Book p61)"
+    },
+    {
+      "id": "MED-C9-42",
+      "sec": "Clinical Features and Diarrhoea",
+      "page": 61,
+      "fmt": "recall",
+      "q": "Which chain explains the osmotic/steatorrhoea component on p61?",
+      "opts": [
+        "Increased gastrin → CCK-B blockade → bile-acid loss",
+        "Increased acid → pancreatic-enzyme inactivation → reduced lipolysis → steatorrhoea",
+        "Increased secretin → pancreatic enzyme activation → diarrhoea",
+        "Reduced acid → increased lipolysis → constipation"
+      ],
+      "ans": 1,
+      "exp": "The page links increased acid to enzyme inactivation, reduced lipolysis and steatorrhoea. (Book p61)"
+    },
+    {
+      "id": "MED-C9-43",
+      "sec": "Biochemical and Receptor Imaging",
+      "page": 61,
+      "fmt": "numeric",
+      "q": "The p61 fasting-gastrin screening list labels a level above which value as 'carcinoma'?",
+      "opts": [
+        "<200 pg/mL",
+        "200–1000 pg/mL",
+        ">1000 pg/mL",
+        ">200 pg/mL"
+      ],
+      "ans": 2,
+      "exp": "The printed threshold list reads >1000 pg/mL: carcinoma; this question preserves the page's wording rather than substituting current diagnostic criteria. (Book p61)"
+    },
+    {
+      "id": "MED-C9-44",
+      "sec": "Biochemical and Receptor Imaging",
+      "page": 61,
+      "fmt": "numeric",
+      "q": "A fasting gastrin level in which interval is marked as needing a confirmatory test?",
+      "opts": [
+        "50–150 pg/mL",
+        "Below 200 pg/mL",
+        "200–1000 pg/mL",
+        "Above 1000 pg/mL"
+      ],
+      "ans": 2,
+      "exp": "The book says 200–1000 pg/mL requires a confirmatory test. (Book p61)"
+    },
+    {
+      "id": "MED-C9-45",
+      "sec": "Biochemical and Receptor Imaging",
+      "page": 61,
+      "fmt": "numeric",
+      "q": "Which fasting gastrin level is classified as normal in the p61 list?",
+      "opts": [
+        "<200 pg/mL",
+        ">1000 pg/mL",
+        ">2000 pg/mL",
+        "200–1000 pg/mL"
+      ],
+      "ans": 0,
+      "exp": "The page labels <200 pg/mL as normal. (Book p61)"
+    },
+    {
+      "id": "MED-C9-46",
+      "sec": "Biochemical and Receptor Imaging",
+      "page": 61,
+      "fmt": "recall",
+      "q": "The confirmatory stimulation test named for gastrinoma is the:",
+      "opts": [
+        "Pentagastrin suppression test",
+        "Schilling test",
+        "Secretin stimulation test",
+        "D-xylose challenge"
+      ],
+      "ans": 2,
+      "exp": "Secretin stimulation is identified as the confirmatory test. (Book p61)"
+    },
+    {
+      "id": "MED-C9-47",
+      "sec": "Biochemical and Receptor Imaging",
+      "page": 61,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — secretin physiologically stimulates gastrin secretion, but in gastrinoma it inhibits it.",
+      "opts": [
+        "False — secretin has no effect in either setting",
+        "True — secretin stimulates in both settings",
+        "False — the page says gastrinoma responds with stimulation; physiologically secretin inhibits gastrin",
+        "True — the response is reversed in gastrinoma"
+      ],
+      "ans": 2,
+      "exp": "The source says secretin stimulates gastrin in gastrinoma, whereas physiologically it inhibits gastrin secretion. (Book p61)"
+    },
+    {
+      "id": "MED-C9-48",
+      "sec": "Biochemical and Receptor Imaging",
+      "page": 61,
+      "fmt": "recall",
+      "q": "The secretin-stimulation procedure begins with:",
+      "opts": [
+        "Radio-labelled octreotide",
+        "Intramuscular gastrin",
+        "Intravenous secretin",
+        "Oral secretin"
+      ],
+      "ans": 2,
+      "exp": "The procedure gives IV secretin and measures serum gastrin at regular intervals. (Book p61)"
+    },
+    {
+      "id": "MED-C9-49",
+      "sec": "Biochemical and Receptor Imaging",
+      "page": 61,
+      "fmt": "recall",
+      "q": "After IV secretin, serum gastrin is measured:",
+      "opts": [
+        "Only in a 24-hour urine collection",
+        "At regular intervals",
+        "Only after a month",
+        "Only once before injection"
+      ],
+      "ans": 1,
+      "exp": "The printed procedure measures serum gastrin at regular intervals. (Book p61)"
+    },
+    {
+      "id": "MED-C9-50",
+      "sec": "Biochemical and Receptor Imaging",
+      "page": 61,
+      "fmt": "numeric",
+      "q": "What increase in serum gastrin after secretin is shown as diagnostic of gastrinoma?",
+      "opts": [
+        "A rise of at least 200 pg/mL",
+        "A fall of 200 pg/mL",
+        "A rise of 20 pg/mL",
+        "A rise of 1000 pg/mL"
+      ],
+      "ans": 0,
+      "exp": "The diagram shows a rise by ≥200 pg/mL indicating gastrinoma. (Book p61)"
+    },
+    {
+      "id": "MED-C9-51",
+      "sec": "Biochemical and Receptor Imaging",
+      "page": 61,
+      "fmt": "recall",
+      "q": "The somatostatin-receptor scintigraphy test is also called the:",
+      "opts": [
+        "Kanagawa test",
+        "Prussian-blue scan",
+        "Schilling scan",
+        "Octreotide scan"
+      ],
+      "ans": 3,
+      "exp": "The source names somatostatin receptor scintigraphy (SRS)/octreotide scan. (Book p61)"
+    },
+    {
+      "id": "MED-C9-52",
+      "sec": "Biochemical and Receptor Imaging",
+      "page": 61,
+      "fmt": "recall",
+      "q": "The radioisotope specifically written beside SRS as most specific is:",
+      "opts": [
+        "¹³¹I",
+        "⁶⁸Ga",
+        "¹¹¹In",
+        "⁹⁹ᵐTc"
+      ],
+      "ans": 2,
+      "exp": "The p61 SRS list marks ¹¹¹In as most specific. (Book p61)"
+    },
+    {
+      "id": "MED-C9-53",
+      "sec": "Biochemical and Receptor Imaging",
+      "page": 61,
+      "fmt": "recall",
+      "q": "The principle behind an octreotide scan is that gastrinomas have many:",
+      "opts": [
+        "CCK-B receptors in the liver only",
+        "Insulin receptors",
+        "Somatostatin receptors",
+        "Bile-acid transporters"
+      ],
+      "ans": 2,
+      "exp": "The page explains that gastrinomas have somatostatin receptors in large numbers. (Book p61)"
+    },
+    {
+      "id": "MED-C9-54",
+      "sec": "Biochemical and Receptor Imaging",
+      "page": 61,
+      "fmt": "recall",
+      "q": "The page notes that octreotide is used in gastrinoma:",
+      "opts": [
+        "Only as a stool marker",
+        "As a treatment as well as a radiolabelled imaging agent",
+        "Only to inhibit the rapid urease test",
+        "Only to provoke gastrin release"
+      ],
+      "ans": 1,
+      "exp": "The note says the abundant somatostatin receptors explain octreotide use in treatment too. (Book p61)"
+    },
+    {
+      "id": "MED-C9-55",
+      "sec": "Biochemical and Receptor Imaging",
+      "page": 61,
+      "fmt": "recall",
+      "q": "The scan procedure described uses:",
+      "opts": [
+        "Oral barium and a fasting blood sample",
+        "Radioactive-labelled gastrin",
+        "Radioactive-labelled octreotide",
+        "Unlabelled secretin only"
+      ],
+      "ans": 2,
+      "exp": "The listed procedure gives radioactive-labelled octreotide. (Book p61)"
+    },
+    {
+      "id": "MED-C9-56",
+      "sec": "Biochemical and Receptor Imaging",
+      "page": 62,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — the p62 note says SRS is not effective for small tumours/MEN1 and prefers endoscopic ultrasound.",
+      "opts": [
+        "False — SRS is best for every small MEN1 tumour",
+        "False — CT is the stated preferred test",
+        "True — EUS is preferred in that note",
+        "True — but only for gastric ulcers"
+      ],
+      "ans": 2,
+      "exp": "The note says SRS is not effective in small tumour/MEN1 and endoscopic USG is preferred. (Book p62)"
+    },
+    {
+      "id": "MED-C9-57",
+      "sec": "Biochemical and Receptor Imaging",
+      "page": 62,
+      "fmt": "recall",
+      "q": "The p62 note gives a basal-acid-output/maximal-acid-output ratio above what value for gastrinoma?",
+      "opts": [
+        "<0.6",
+        ">0.06",
+        ">1.0",
+        ">0.6"
+      ],
+      "ans": 3,
+      "exp": "The note gives BAO/MAO >0.6 for gastrinoma. (Book p62)"
+    },
+    {
+      "id": "MED-C9-58",
+      "sec": "Biochemical and Receptor Imaging",
+      "page": 62,
+      "fmt": "recall",
+      "q": "The investigation listed under the p62 pheochromocytoma note is:",
+      "opts": [
+        "Gallium DOTATATE PET scan",
+        "¹¹¹In octreotide scan only",
+        "C14 urea breath test",
+        "Prussian-blue stain"
+      ],
+      "ans": 0,
+      "exp": "The page's note reads: investigation in pheochromocytoma — Gallium DOTATATE PET scan. (Book p62)"
+    },
+    {
+      "id": "MED-C9-59",
+      "sec": "Treatment and Surgical Anatomy",
+      "page": 62,
+      "fmt": "numeric",
+      "q": "The MEN1-associated treatment note gives a high-dose PPI range of:",
+      "opts": [
+        "60–80 mg",
+        "5–10 mg",
+        "20–40 mg",
+        "100–120 mg"
+      ],
+      "ans": 0,
+      "exp": "The page gives high-dose PPI (60–80 mg) as usually enough for MEN1-associated disease. (Book p62)"
+    },
+    {
+      "id": "MED-C9-60",
+      "sec": "Treatment and Surgical Anatomy",
+      "page": 62,
+      "fmt": "scenario",
+      "q": "In MEN1-associated gastrinoma, the p62 treatment diagram recommends surgery when tumour size exceeds:",
+      "opts": [
+        "1 cm",
+        "2.5 cm",
+        "5 cm",
+        "0.5 cm"
+      ],
+      "ans": 1,
+      "exp": "The MEN1 note says surgery if size >2.5 cm. (Book p62)"
+    },
+    {
+      "id": "MED-C9-61",
+      "sec": "Treatment and Surgical Anatomy",
+      "page": 62,
+      "fmt": "management",
+      "q": "The sporadic-gastrinoma sequence on p62 is:",
+      "opts": [
+        "Antibiotics followed by colectomy",
+        "High-dose PPI plus octreotide, followed by surgery",
+        "Gastrectomy without medical treatment",
+        "Surgery first, then low-dose PPI only"
+      ],
+      "ans": 1,
+      "exp": "For sporadic disease the page lists high-dose PPI + octreotide followed by surgery. (Book p62)"
+    },
+    {
+      "id": "MED-C9-62",
+      "sec": "Treatment and Surgical Anatomy",
+      "page": 62,
+      "fmt": "recall",
+      "q": "For a gastrinoma in the pancreatic head, the operation listed is:",
+      "opts": [
+        "Full-thickness duodenal excision",
+        "Distal pancreatectomy",
+        "Enucleation",
+        "Total gastrectomy"
+      ],
+      "ans": 2,
+      "exp": "The page pairs pancreatic-head location with enucleation. (Book p62)"
+    },
+    {
+      "id": "MED-C9-63",
+      "sec": "Treatment and Surgical Anatomy",
+      "page": 62,
+      "fmt": "recall",
+      "q": "For a pancreatic-body or tail gastrinoma, the operation listed is:",
+      "opts": [
+        "Enucleation of the duodenum",
+        "Full-thickness duodenal excision",
+        "Total gastrectomy",
+        "Distal pancreatectomy"
+      ],
+      "ans": 3,
+      "exp": "The source pairs pancreatic body/tail with distal pancreatectomy. (Book p62)"
+    },
+    {
+      "id": "MED-C9-64",
+      "sec": "Treatment and Surgical Anatomy",
+      "page": 62,
+      "fmt": "recall",
+      "q": "The operation listed for a duodenal gastrinoma is:",
+      "opts": [
+        "Enucleation of pancreatic head",
+        "Full-thickness excision",
+        "Distal pancreatectomy",
+        "Billroth II gastrectomy"
+      ],
+      "ans": 1,
+      "exp": "The page lists full-thickness excision for duodenal location. (Book p62)"
+    },
+    {
+      "id": "MED-C9-65",
+      "sec": "Treatment and Surgical Anatomy",
+      "page": 62,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — gastrectomy is required in the p62 gastrinoma treatment note.",
+      "opts": [
+        "True — but only for MEN1",
+        "False — the note says gastrectomy is not required",
+        "False — a total gastrectomy is required for sporadic disease",
+        "True — it is required in all cases"
+      ],
+      "ans": 1,
+      "exp": "The note explicitly says gastrectomy is not required. (Book p62)"
+    },
+    {
+      "id": "MED-C9-66",
+      "sec": "Treatment and Surgical Anatomy",
+      "page": 62,
+      "fmt": "recall",
+      "q": "The most common site of gastrinoma metastasis named in the treatment notes is:",
+      "opts": [
+        "Brain",
+        "Liver",
+        "Lung",
+        "Bone"
+      ],
+      "ans": 1,
+      "exp": "The p62 note names the liver as the most common metastasis site. (Book p62)"
+    },
+    {
+      "id": "MED-C9-67",
+      "sec": "Treatment and Surgical Anatomy",
+      "page": 62,
+      "fmt": "recall",
+      "q": "The gross specimen photograph on p62 is captioned as a:",
+      "opts": [
+        "H. pylori culture plate",
+        "Pyloric biopsy",
+        "Surgical excision specimen",
+        "Octreotide scan"
+      ],
+      "ans": 2,
+      "exp": "The image caption reads 'Surgical excision specimen'. (Book p62)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U9-1",
+      "ch": 9,
+      "n": 1,
+      "title": "Types and Comparisons",
+      "sec": "Gastrinoma Types and Comparisons",
+      "guide": "Sporadic (80%) versus MEN1-associated (20%) differ in number/size, age, sex, location and risk.\nSporadic tumours are listed as more aggressive; MEN1 disease is usually smaller and less aggressive.\nKeep the note separating insulinoma as the commonest functional pancreatic NET overall.",
+      "qs": [
+        "MED-C9-01",
+        "MED-C9-02",
+        "MED-C9-03",
+        "MED-C9-04",
+        "MED-C9-05",
+        "MED-C9-06",
+        "MED-C9-07",
+        "MED-C9-08",
+        "MED-C9-09",
+        "MED-C9-10",
+        "MED-C9-11",
+        "MED-C9-12",
+        "MED-C9-13",
+        "MED-C9-14",
+        "MED-C9-15",
+        "MED-C9-16",
+        "MED-C9-17",
+        "MED-C9-18",
+        "MED-C9-19",
+        "MED-C9-20",
+        "MED-C9-21",
+        "MED-C9-22",
+        "MED-C9-23"
+      ]
+    },
+    {
+      "id": "MED-U9-2",
+      "ch": 9,
+      "n": 2,
+      "title": "Triangle and Gastrin Effects",
+      "sec": "Gastrinoma Triangle and Gastrin Effects",
+      "guide": "Triangle points: cystic duct/CBD, D2–D3 and pancreatic body–neck junctions.\nGastrin → parietal cells → HCl; mucosal injury yields GU/DU.\nAcid can inactivate pancreatic enzymes, linking to diarrhoea, steatorrhoea and malabsorption.",
+      "qs": [
+        "MED-C9-24",
+        "MED-C9-25",
+        "MED-C9-26",
+        "MED-C9-27",
+        "MED-C9-28",
+        "MED-C9-29",
+        "MED-C9-30",
+        "MED-C9-31",
+        "MED-C9-32"
+      ]
+    },
+    {
+      "id": "MED-U9-3",
+      "ch": 9,
+      "n": 3,
+      "title": "Clinical Features",
+      "sec": "Clinical Features and Diarrhoea",
+      "guide": "Abdominal pain is the most important symptom; PUD is the commonest manifestation.\nUnusual D2+ ulcers, refractory GU/DU, recurrence and diarrhoea raise suspicion in the page.\nDiarrhoea has secretory and enzyme-inactivation/steatorrhoea components.",
+      "qs": [
+        "MED-C9-33",
+        "MED-C9-34",
+        "MED-C9-35",
+        "MED-C9-36",
+        "MED-C9-37",
+        "MED-C9-38",
+        "MED-C9-39",
+        "MED-C9-40",
+        "MED-C9-41",
+        "MED-C9-42"
+      ]
+    },
+    {
+      "id": "MED-U9-4",
+      "ch": 9,
+      "n": 4,
+      "title": "Tests and Imaging",
+      "sec": "Biochemical and Receptor Imaging",
+      "guide": "Fasting gastrin: <200 normal, 200–1000 needs confirmation; preserve the source's >1000 wording.\nSecretin gives a paradoxical gastrin rise ≥200 pg/mL in the printed test.\nSRS/¹¹¹In, octreotide rationale, EUS caveat, BAO/MAO and DOTATATE note are inventoried.",
+      "qs": [
+        "MED-C9-43",
+        "MED-C9-44",
+        "MED-C9-45",
+        "MED-C9-46",
+        "MED-C9-47",
+        "MED-C9-48",
+        "MED-C9-49",
+        "MED-C9-50",
+        "MED-C9-51",
+        "MED-C9-52",
+        "MED-C9-53",
+        "MED-C9-54",
+        "MED-C9-55",
+        "MED-C9-56",
+        "MED-C9-57",
+        "MED-C9-58"
+      ]
+    },
+    {
+      "id": "MED-U9-5",
+      "ch": 9,
+      "n": 5,
+      "title": "Treatment and Surgical Anatomy",
+      "sec": "Treatment and Surgical Anatomy",
+      "guide": "MEN1: high-dose PPI 60–80 mg; surgery when >2.5 cm.\nSporadic: PPI + octreotide then surgery; procedure follows head/body-tail/duodenal location.\nThe page says gastrectomy is not required and names liver as the commonest metastasis site.",
+      "qs": [
+        "MED-C9-59",
+        "MED-C9-60",
+        "MED-C9-61",
+        "MED-C9-62",
+        "MED-C9-63",
+        "MED-C9-64",
+        "MED-C9-65",
+        "MED-C9-66",
+        "MED-C9-67"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1855 @@
+{
+  "chapter": 7,
+  "title": "Infectious Diarrhoea",
+  "pageRange": "46-51",
+  "questions": [
+    {
+      "id": "MED-C7-01",
+      "sec": "Infectious Diarrhoea: Definitions & Patterns",
+      "page": 46,
+      "fmt": "recall",
+      "q": "In the book's opening definition, acute diarrhoea lasting no more than two weeks is considered:",
+      "opts": [
+        "Infectious unless proved otherwise",
+        "Protozoal until an organism is identified",
+        "Non-infectious unless a stool culture is positive",
+        "Inflammatory only when blood is visible"
+      ],
+      "ans": 0,
+      "exp": "Acute diarrhoea (≤2 weeks) is considered infectious unless proved otherwise. (Book p46)"
+    },
+    {
+      "id": "MED-C7-02",
+      "sec": "Infectious Diarrhoea: Definitions & Patterns",
+      "page": 46,
+      "fmt": "numeric",
+      "q": "Which duration boundary is used in the opening definition of acute diarrhoea?",
+      "opts": [
+        "≤2 weeks",
+        "<1 week",
+        ">2 weeks",
+        "≥4 weeks"
+      ],
+      "ans": 0,
+      "exp": "The introductory definition uses acute diarrhoea of ≤2 weeks. (Book p46)"
+    },
+    {
+      "id": "MED-C7-03",
+      "sec": "Infectious Diarrhoea: Definitions & Patterns",
+      "page": 46,
+      "fmt": "recall",
+      "q": "The first classification diagram organizes infectious diarrhoea by:",
+      "opts": [
+        "Exposure history and immune status",
+        "Anatomical site and electrolyte loss",
+        "Duration and severity",
+        "Stool colour and pH"
+      ],
+      "ans": 2,
+      "exp": "The first diagram is headed 'Based on duration and severity'. (Book p46)"
+    },
+    {
+      "id": "MED-C7-04",
+      "sec": "Infectious Diarrhoea: Definitions & Patterns",
+      "page": 46,
+      "fmt": "scenario",
+      "q": "A brief episode is placed in the diagram's benign, short-lasting, self-limiting branch. Which class is written at its end?",
+      "opts": [
+        "Bacterial",
+        "Protozoal",
+        "Viral",
+        "Enterocolitic"
+      ],
+      "ans": 2,
+      "exp": "The <1-week benign, short-lasting, self-limiting branch ends in viral diarrhoea. (Book p46)"
+    },
+    {
+      "id": "MED-C7-05",
+      "sec": "Infectious Diarrhoea: Definitions & Patterns",
+      "page": 46,
+      "fmt": "scenario",
+      "q": "In the same duration diagram, the <1-week episode marked 'complicated' leads to which broad cause?",
+      "opts": [
+        "Non-infectious",
+        "Viral",
+        "Bacterial",
+        "Protozoal"
+      ],
+      "ans": 2,
+      "exp": "The complicated <1-week branch is labelled bacterial. (Book p46)"
+    },
+    {
+      "id": "MED-C7-06",
+      "sec": "Infectious Diarrhoea: Definitions & Patterns",
+      "page": 46,
+      "fmt": "numeric",
+      "q": "The diagram associates diarrhoea lasting more than one week with which broad group?",
+      "opts": [
+        "Viral",
+        "Protozoal",
+        "Medication-related",
+        "Bacterial"
+      ],
+      "ans": 1,
+      "exp": "The >1-week branch in the duration diagram is labelled protozoal. (Book p46)"
+    },
+    {
+      "id": "MED-C7-07",
+      "sec": "Infectious Diarrhoea: Definitions & Patterns",
+      "page": 46,
+      "fmt": "recall",
+      "q": "The site-based classification distinguishes small bowel, large bowel, and:",
+      "opts": [
+        "Enterocolitis involving small and large bowel",
+        "Gastric-colonic diarrhoea",
+        "Ileal-only diarrhoea",
+        "Pancreatic-enteric diarrhoea"
+      ],
+      "ans": 0,
+      "exp": "The third site category is enterocolitis (small bowel + large bowel). (Book p46)"
+    },
+    {
+      "id": "MED-C7-08",
+      "sec": "Infectious Diarrhoea: Definitions & Patterns",
+      "page": 46,
+      "fmt": "recall",
+      "q": "In the site classification, Yersinia is singled out for causing:",
+      "opts": [
+        "Isolated proctitis",
+        "Gastric inflammation without bowel disease",
+        "Painless secretory diarrhoea",
+        "Severe ileocolitis"
+      ],
+      "ans": 3,
+      "exp": "Yersinia is listed under enterocolitis and causes severe ileocolitis. (Book p46)"
+    },
+    {
+      "id": "MED-C7-09",
+      "sec": "Infectious Diarrhoea: Definitions & Patterns",
+      "page": 46,
+      "fmt": "scenario",
+      "q": "Right-lower-quadrant tenderness during Yersinia ileocolitis is emphasized because it can mimic:",
+      "opts": [
+        "Acute appendicitis",
+        "Pancreatitis",
+        "Biliary colic",
+        "Renal colic"
+      ],
+      "ans": 0,
+      "exp": "The note states that severe Yersinia ileocolitis produces right-lower-quadrant tenderness and mimics appendicitis. (Book p46)"
+    },
+    {
+      "id": "MED-C7-10",
+      "sec": "Infectious Diarrhoea: Definitions & Patterns",
+      "page": 46,
+      "fmt": "recall",
+      "q": "Which stool pattern best fits the small-bowel column on the clinical-features table?",
+      "opts": [
+        "Large-volume watery stool without blood, pus or mucus",
+        "Painless formed stool streaked with blood",
+        "Frequent stools with fecal leukocytes and mucus",
+        "Small-volume bloody stool with urgency and tenesmus"
+      ],
+      "ans": 0,
+      "exp": "Small-bowel diarrhoea is described as large-volume and watery, without blood, pus, mucus, increased frequency, urgency or tenesmus. (Book p46)"
+    },
+    {
+      "id": "MED-C7-11",
+      "sec": "Infectious Diarrhoea: Definitions & Patterns",
+      "page": 46,
+      "fmt": "scenario",
+      "q": "A patient has small-volume bloody diarrhoea, abdominal pain and fecal leukocytes. The table localizes this pattern to the:",
+      "opts": [
+        "Stomach",
+        "Small bowel",
+        "Large bowel",
+        "Pancreas"
+      ],
+      "ans": 2,
+      "exp": "Fever, small-volume bloody diarrhoea, abdominal pain and fecal leukocytes are in the large-bowel column. (Book p46)"
+    },
+    {
+      "id": "MED-C7-12",
+      "sec": "Infectious Diarrhoea: Definitions & Patterns",
+      "page": 46,
+      "fmt": "match",
+      "q": "Match each stool pattern to its site — 1) Large-volume watery stool without blood, pus or mucus 2) Small-volume bloody stool with fecal leukocytes … A) Large bowel B) Small bowel",
+      "opts": [
+        "1-B, 2-B",
+        "1-A, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-A"
+      ],
+      "ans": 3,
+      "exp": "The table places large-volume watery non-bloody stool in small-bowel disease and small-volume bloody stool with fecal leukocytes in large-bowel disease. (Book p46)"
+    },
+    {
+      "id": "MED-C7-13",
+      "sec": "Infectious Diarrhoea: Definitions & Patterns",
+      "page": 46,
+      "fmt": "recall",
+      "q": "Among adults, which virus is marked as the most common cause in the small-bowel column?",
+      "opts": [
+        "Cytomegalovirus",
+        "Rotavirus",
+        "Adenovirus",
+        "Norovirus"
+      ],
+      "ans": 3,
+      "exp": "Norovirus is marked most common in adults. (Book p46)"
+    },
+    {
+      "id": "MED-C7-14",
+      "sec": "Infectious Diarrhoea: Definitions & Patterns",
+      "page": 46,
+      "fmt": "recall",
+      "q": "The virus marked most common in children is:",
+      "opts": [
+        "Cytomegalovirus",
+        "Rotavirus",
+        "Norovirus",
+        "Astrovirus"
+      ],
+      "ans": 1,
+      "exp": "Rotavirus is marked most common in children. (Book p46)"
+    },
+    {
+      "id": "MED-C7-15",
+      "sec": "Infectious Diarrhoea: Definitions & Patterns",
+      "page": 46,
+      "fmt": "scenario",
+      "q": "A post-transplant patient develops sore throat, diarrhoea and leucopenia. Which virus is named beside this presentation?",
+      "opts": [
+        "Cytomegalovirus",
+        "Adenovirus",
+        "Rotavirus",
+        "Norovirus"
+      ],
+      "ans": 0,
+      "exp": "The page associates post-transplant CMV with sore throat, diarrhoea and leucopenia. (Book p46)"
+    },
+    {
+      "id": "MED-C7-16",
+      "sec": "Infectious Diarrhoea: Definitions & Patterns",
+      "page": 46,
+      "fmt": "recall",
+      "q": "The table places cytomegalovirus more prominently in which site?",
+      "opts": [
+        "Small bowel rather than large bowel",
+        "Equal involvement of small and large bowel",
+        "Large bowel rather than small bowel",
+        "Stomach rather than either bowel"
+      ],
+      "ans": 2,
+      "exp": "The printed comparison is cytomegalovirus (large bowel > small bowel). (Book p46)"
+    },
+    {
+      "id": "MED-C7-17",
+      "sec": "Infectious Diarrhoea: Definitions & Patterns",
+      "page": 46,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — the site table places fecal leukocytes with the large-bowel pattern, not the large-volume watery small-bowel pattern.",
+      "opts": [
+        "True — fecal leukocytes are in the large-bowel column",
+        "False — the table does not mention fecal leukocytes",
+        "False — fecal leukocytes are listed only for small bowel",
+        "True — but the small-bowel stool is also described as bloody"
+      ],
+      "ans": 0,
+      "exp": "Fecal leukocytes are listed in the large-bowel column; small-bowel stool is large-volume and watery without blood, pus or mucus. (Book p46)"
+    },
+    {
+      "id": "MED-C7-18",
+      "sec": "Small- and Large-Bowel Organisms",
+      "page": 47,
+      "fmt": "recall",
+      "q": "The small-bowel bacterial mechanism described as in-vivo toxin production raises which second messenger before secretory diarrhoea?",
+      "opts": [
+        "cAMP",
+        "Intracellular calcium only",
+        "cGMP",
+        "cGMP and cAMP both fall"
+      ],
+      "ans": 0,
+      "exp": "The table links in-vivo toxin production to increased cAMP and secretory diarrhoea. (Book p47)"
+    },
+    {
+      "id": "MED-C7-19",
+      "sec": "Small- and Large-Bowel Organisms",
+      "page": 47,
+      "fmt": "recall",
+      "q": "Which organism is labelled the most common small-bowel in-vivo secretory-toxin cause?",
+      "opts": [
+        "Enteroinvasive E. coli (EIEC)",
+        "Shigella flexneri",
+        "Non-typhoid Salmonella",
+        "Enterotoxigenic Escherichia coli (ETEC)"
+      ],
+      "ans": 3,
+      "exp": "ETEC is marked most common under small-bowel in-vivo toxin production. (Book p47)"
+    },
+    {
+      "id": "MED-C7-20",
+      "sec": "Small- and Large-Bowel Organisms",
+      "page": 47,
+      "fmt": "recall",
+      "q": "Which second organism is listed alongside ETEC under small-bowel in-vivo toxin production?",
+      "opts": [
+        "Campylobacter jejuni",
+        "Vibrio parahaemolyticus",
+        "Vibrio cholerae",
+        "Salmonella typhi"
+      ],
+      "ans": 2,
+      "exp": "The listed small-bowel in-vivo toxin producers are ETEC and Vibrio cholerae. (Book p47)"
+    },
+    {
+      "id": "MED-C7-21",
+      "sec": "Small- and Large-Bowel Organisms",
+      "page": 47,
+      "fmt": "recall",
+      "q": "Which set is grouped as preformed-toxin food poisoning in the small-bowel bacteria column?",
+      "opts": [
+        "Staphylococcus aureus, Bacillus cereus and Clostridium perfringens",
+        "Shigella flexneri, Campylobacter and non-typhoid Salmonella",
+        "Giardia, Cryptosporidium and Entamoeba",
+        "ETEC, Vibrio cholerae and EIEC"
+      ],
+      "ans": 0,
+      "exp": "The preformed-toxin group contains Staphylococcus aureus, Bacillus cereus and Clostridium perfringens. (Book p47)"
+    },
+    {
+      "id": "MED-C7-22",
+      "sec": "Small- and Large-Bowel Organisms",
+      "page": 47,
+      "fmt": "recall",
+      "q": "Which organism is listed as an invasive large-bowel bacterium and is linked to shigellosis?",
+      "opts": [
+        "Bacillus cereus",
+        "Shigella flexneri",
+        "Vibrio cholerae",
+        "ETEC"
+      ],
+      "ans": 1,
+      "exp": "Shigella flexneri is listed among invasive organisms in the large-bowel column and causes shigellosis. (Book p47)"
+    },
+    {
+      "id": "MED-C7-23",
+      "sec": "Small- and Large-Bowel Organisms",
+      "page": 47,
+      "fmt": "recall",
+      "q": "Which complete group lists the invasive bacteria named in the large-bowel column?",
+      "opts": [
+        "Shigella, Giardia, Cryptosporidium and ETEC",
+        "Shigella flexneri, V. parahaemolyticus, Campylobacter, non-typhoid Salmonella and EIEC",
+        "Rotavirus, norovirus and cytomegalovirus",
+        "ETEC, V. cholerae and Staphylococcus aureus"
+      ],
+      "ans": 1,
+      "exp": "The complete large-bowel invasive list includes Shigella, V. parahaemolyticus, Campylobacter, non-typhoid Salmonella and EIEC. (Book p47)"
+    },
+    {
+      "id": "MED-C7-24",
+      "sec": "Small- and Large-Bowel Organisms",
+      "page": 47,
+      "fmt": "recall",
+      "q": "Which Vibrio species appears in the large-bowel invasive-organism list rather than the small-bowel secretory list?",
+      "opts": [
+        "Vibrio cholerae",
+        "Vibrio alginolyticus",
+        "Vibrio vulnificus",
+        "Vibrio parahaemolyticus"
+      ],
+      "ans": 3,
+      "exp": "V. parahaemolyticus is listed among large-bowel invasive organisms; V. cholerae is in the small-bowel secretory group. (Book p47)"
+    },
+    {
+      "id": "MED-C7-25",
+      "sec": "Small- and Large-Bowel Organisms",
+      "page": 47,
+      "fmt": "recall",
+      "q": "Which protozoal distribution matches the table?",
+      "opts": [
+        "Small bowel: Entamoeba; large bowel: Giardia and Cryptosporidium",
+        "Small bowel: Entamoeba and microsporidium; large bowel: Cryptosporidium",
+        "Small bowel: Cryptosporidium, microsporidium, Giardia; large bowel: Entamoeba histolytica",
+        "Small bowel: Giardia only; large bowel: all other protozoa"
+      ],
+      "ans": 2,
+      "exp": "The table lists Cryptosporidium, microsporidium and Giardia in small bowel; Entamoeba histolytica in large bowel. (Book p47)"
+    },
+    {
+      "id": "MED-C7-26",
+      "sec": "Small- and Large-Bowel Organisms",
+      "page": 47,
+      "fmt": "recall",
+      "q": "The note distinguishes Salmonella typhi from diarrhoeal small-bowel pathogens because small-bowel invasion is associated with:",
+      "opts": [
+        "Steatorrhoea with no systemic symptoms",
+        "Fever with chills and abdominal pain, without diarrhoea",
+        "Small-volume bloody diarrhoea with tenesmus",
+        "Large-volume watery diarrhoea without fever"
+      ],
+      "ans": 1,
+      "exp": "The note describes typhoid small-bowel invasion as fever with chills and abdominal pain, with no diarrhoea. (Book p47)"
+    },
+    {
+      "id": "MED-C7-27",
+      "sec": "Preformed-Toxin Food Poisoning",
+      "page": 47,
+      "fmt": "recall",
+      "q": "Staphylococcus aureus food poisoning is caused by a:",
+      "opts": [
+        "Heat-labile toxin formed after ingestion",
+        "Shiga-like cytotoxin produced in the colon",
+        "Preformed, heat-stable enterotoxin",
+        "Neuraminidase toxin formed in blood"
+      ],
+      "ans": 2,
+      "exp": "The page labels the Staphylococcus aureus toxin preformed and heat stable. (Book p47)"
+    },
+    {
+      "id": "MED-C7-28",
+      "sec": "Preformed-Toxin Food Poisoning",
+      "page": 47,
+      "fmt": "numeric",
+      "q": "The incubation period written for Staphylococcus aureus food poisoning is:",
+      "opts": [
+        "6–72 hours",
+        "6–12 hours",
+        "1–6 hours",
+        "2–4 days"
+      ],
+      "ans": 2,
+      "exp": "The printed incubation period is 1–6 hours. (Book p47)"
+    },
+    {
+      "id": "MED-C7-29",
+      "sec": "Preformed-Toxin Food Poisoning",
+      "page": 47,
+      "fmt": "recall",
+      "q": "Which source is specifically included in the Staphylococcus aureus food-poisoning list?",
+      "opts": [
+        "Unpasteurized milk only",
+        "Undercooked fried rice",
+        "Raw fish",
+        "Custard"
+      ],
+      "ans": 3,
+      "exp": "The listed sources are custard, pork and canned meat. (Book p47)"
+    },
+    {
+      "id": "MED-C7-30",
+      "sec": "Preformed-Toxin Food Poisoning",
+      "page": 47,
+      "fmt": "scenario",
+      "q": "After a shared meal, the earliest and most prominent symptom is vomiting. The page attributes this prominent symptom in S. aureus food poisoning to stimulation of:",
+      "opts": [
+        "CCK-B receptors",
+        "Muscarinic M3 receptors",
+        "5-HT3 receptors",
+        "Dopamine D2 receptors"
+      ],
+      "ans": 2,
+      "exp": "Vomiting is the most prominent clinical feature and is attributed to 5-HT3 stimulation. (Book p47)"
+    },
+    {
+      "id": "MED-C7-31",
+      "sec": "Preformed-Toxin Food Poisoning",
+      "page": 47,
+      "fmt": "recall",
+      "q": "Besides prominent vomiting, the other clinical feature listed for S. aureus food poisoning is:",
+      "opts": [
+        "Painless rectal bleeding",
+        "Abdominal cramps",
+        "Jaundice",
+        "Tenesmus"
+      ],
+      "ans": 1,
+      "exp": "The listed clinical features are vomiting and abdominal cramps. (Book p47)"
+    },
+    {
+      "id": "MED-C7-32",
+      "sec": "Preformed-Toxin Food Poisoning",
+      "page": 47,
+      "fmt": "recall",
+      "q": "Which set reproduces the organisms listed as heat-stable-enterotoxin producers in the note?",
+      "opts": [
+        "S. aureus, B. cereus, C. perfringens, Yersinia and E. coli",
+        "V. cholerae, Shigella, Campylobacter, Giardia and CMV",
+        "EIEC, EHEC, S. typhi, Rotavirus and Entamoeba",
+        "S. aureus, V. cholerae, EIEC, norovirus and CMV"
+      ],
+      "ans": 0,
+      "exp": "The note lists S. aureus, B. cereus, C. perfringens, Yersinia and E. coli as producers of heat-stable enterotoxin. (Book p47)"
+    },
+    {
+      "id": "MED-C7-33",
+      "sec": "Preformed-Toxin Food Poisoning",
+      "page": 48,
+      "fmt": "recall",
+      "q": "In the B. cereus table, which pairing is correct for the heat-stable toxin?",
+      "opts": [
+        "Preformed toxin; 6–12 h; diarrhoea; raw fish",
+        "Formed toxin; 6–12 h; diarrhoea; meat and pudding",
+        "Preformed toxin; 1–6 h incubation; vomiting; undercooked fried rice",
+        "Formed toxin; 1–6 h; vomiting; canned meat"
+      ],
+      "ans": 2,
+      "exp": "The heat-stable B. cereus toxin is preformed; incubation is 1–6 hours, vomiting predominates, and undercooked fried rice is the source. (Book p48)"
+    },
+    {
+      "id": "MED-C7-34",
+      "sec": "Preformed-Toxin Food Poisoning",
+      "page": 48,
+      "fmt": "recall",
+      "q": "Which B. cereus table entry belongs to the heat-labile toxin?",
+      "opts": [
+        "Preformed toxin with 1–6 h incubation and vomiting",
+        "Cytotoxic toxin with a 2-day incubation and pseudomembranes",
+        "Formed toxin with 6–12 h incubation and diarrhoea associated with increased cAMP",
+        "Shiga toxin with 6–72 h incubation and haemolysis"
+      ],
+      "ans": 2,
+      "exp": "The heat-labile B. cereus toxin is formed; the table gives 6–12 hours and diarrhoea with increased cAMP. (Book p48)"
+    },
+    {
+      "id": "MED-C7-35",
+      "sec": "Preformed-Toxin Food Poisoning",
+      "page": 48,
+      "fmt": "recall",
+      "q": "Which foods are listed as sources for the heat-labile B. cereus presentation?",
+      "opts": [
+        "Undercooked fried rice only",
+        "Custard, pork and canned meat",
+        "Raw fish and shellfish",
+        "Meat, pudding and dried potato"
+      ],
+      "ans": 3,
+      "exp": "The heat-labile B. cereus column lists meat, pudding and dried potato. (Book p48)"
+    },
+    {
+      "id": "MED-C7-36",
+      "sec": "Preformed-Toxin Food Poisoning",
+      "page": 48,
+      "fmt": "numeric",
+      "q": "The incubation period paired with formed, heat-labile B. cereus toxin is:",
+      "opts": [
+        "1–6 hours",
+        "12–24 hours",
+        "6–12 hours",
+        "2–4 days"
+      ],
+      "ans": 2,
+      "exp": "The table gives 6–12 hours for heat-labile B. cereus toxin. (Book p48)"
+    },
+    {
+      "id": "MED-C7-37",
+      "sec": "Preformed-Toxin Food Poisoning",
+      "page": 48,
+      "fmt": "scenario",
+      "q": "A diner eats undercooked fried rice and develops vomiting within a few hours. Which B. cereus toxin pattern fits the page?",
+      "opts": [
+        "Preformed heat-stable toxin",
+        "Formed heat-labile toxin with diarrhoea",
+        "Shiga-like toxin",
+        "In-vivo cholera toxin"
+      ],
+      "ans": 0,
+      "exp": "Undercooked fried rice, vomiting and 1–6-hour incubation identify the preformed heat-stable B. cereus pattern. (Book p48)"
+    },
+    {
+      "id": "MED-C7-38",
+      "sec": "Vibrio, ETEC & Secretory Diarrhoea",
+      "page": 48,
+      "fmt": "recall",
+      "q": "Vibrio cholerae is described as:",
+      "opts": [
+        "A protozoan restricted to the colon",
+        "A toxin-producing virus",
+        "An organism that invades all four bowel-wall layers",
+        "Non-invasive"
+      ],
+      "ans": 3,
+      "exp": "The pathogenesis section labels V. cholerae non-invasive. (Book p48)"
+    },
+    {
+      "id": "MED-C7-39",
+      "sec": "Vibrio, ETEC & Secretory Diarrhoea",
+      "page": 48,
+      "fmt": "recall",
+      "q": "The cholera enterotoxin increases secretion by activating:",
+      "opts": [
+        "Phospholipase C only",
+        "Adenyl cyclase",
+        "Na+/H+ exchange",
+        "Guanylyl cyclase"
+      ],
+      "ans": 1,
+      "exp": "The book states that the cholera enterotoxin activates adenyl cyclase. (Book p48)"
+    },
+    {
+      "id": "MED-C7-40",
+      "sec": "Vibrio, ETEC & Secretory Diarrhoea",
+      "page": 48,
+      "fmt": "recall",
+      "q": "The toxin-coregulated pilus of V. cholerae mediates:",
+      "opts": [
+        "Destruction of ileal Peyer's patches",
+        "Attachment to intestinal mucosa",
+        "Binding of iron to transferrin",
+        "Invasion of the submucosa"
+      ],
+      "ans": 1,
+      "exp": "The toxin-coregulated pilus is described as mediating attachment to intestinal mucosa. (Book p48)"
+    },
+    {
+      "id": "MED-C7-41",
+      "sec": "Vibrio, ETEC & Secretory Diarrhoea",
+      "page": 48,
+      "fmt": "scenario",
+      "q": "A patient with cholera has profuse watery stool and marked volume depletion. Which stool-volume pattern is specifically listed?",
+      "opts": [
+        "Small-volume bloody diarrhoea",
+        "Small-volume mucoid stool with tenesmus",
+        "Formed stool with streaks of blood",
+        "Large-volume watery diarrhoea"
+      ],
+      "ans": 3,
+      "exp": "The listed cholera features are large-volume watery diarrhoea and dehydration. (Book p48)"
+    },
+    {
+      "id": "MED-C7-42",
+      "sec": "Vibrio, ETEC & Secretory Diarrhoea",
+      "page": 48,
+      "fmt": "recall",
+      "q": "The acid–base/electrolyte disturbance listed with cholera is:",
+      "opts": [
+        "Hypochloraemic high-anion-gap acidosis",
+        "Hypokalaemic normal-anion-gap metabolic acidosis",
+        "Hypernatraemic respiratory alkalosis",
+        "Hyperkalaemic metabolic alkalosis"
+      ],
+      "ans": 1,
+      "exp": "The book lists hypokalaemic acidosis with a normal anion gap. (Book p48)"
+    },
+    {
+      "id": "MED-C7-43",
+      "sec": "Vibrio, ETEC & Secretory Diarrhoea",
+      "page": 48,
+      "fmt": "management",
+      "q": "For fluid replacement in the cholera treatment list, which fluid is named as the fluid of choice?",
+      "opts": [
+        "Ringer lactate",
+        "Half-normal saline alone",
+        "5% dextrose alone",
+        "Colloid without crystalloid"
+      ],
+      "ans": 0,
+      "exp": "Ringer lactate is labelled the fluid of choice. (Book p48)"
+    },
+    {
+      "id": "MED-C7-44",
+      "sec": "Vibrio, ETEC & Secretory Diarrhoea",
+      "page": 48,
+      "fmt": "management",
+      "q": "Which antibiotic is named as the drug of choice for cholera in the book, with a pregnancy alternative also listed?",
+      "opts": [
+        "Oral vancomycin; fidaxomicin in pregnancy",
+        "Rifaximin; doxycycline in pregnancy",
+        "Ciprofloxacin; metronidazole in pregnancy",
+        "Doxycycline; azithromycin in pregnancy"
+      ],
+      "ans": 3,
+      "exp": "The printed drug of choice is doxycycline; azithromycin is listed in pregnancy. These are book-study notes, not current treatment guidance. (Book p48)"
+    },
+    {
+      "id": "MED-C7-45",
+      "sec": "Vibrio, ETEC & Secretory Diarrhoea",
+      "page": 48,
+      "fmt": "recall",
+      "q": "Raw fish is the source listed for:",
+      "opts": [
+        "Vibrio parahaemolyticus",
+        "Enterotoxigenic E. coli",
+        "Vibrio cholerae",
+        "Bacillus cereus"
+      ],
+      "ans": 0,
+      "exp": "The V. parahaemolyticus section lists raw fish as the source. (Book p48)"
+    },
+    {
+      "id": "MED-C7-46",
+      "sec": "Vibrio, ETEC & Secretory Diarrhoea",
+      "page": 48,
+      "fmt": "recall",
+      "q": "The named diagnostic phenomenon for V. parahaemolyticus is:",
+      "opts": [
+        "String sign",
+        "Osmotic-gap phenomenon",
+        "Kanagawa phenomenon",
+        "CAMP phenomenon"
+      ],
+      "ans": 2,
+      "exp": "Kanagawa phenomenon is the listed diagnostic clue. (Book p48)"
+    },
+    {
+      "id": "MED-C7-47",
+      "sec": "Vibrio, ETEC & Secretory Diarrhoea",
+      "page": 48,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — the V. parahaemolyticus section says acute diarrhoea may occur and antibiotics have no role.",
+      "opts": [
+        "False — it causes chronic steatorrhoea and antibiotics are mandatory",
+        "True — acute diarrhoea is listed and antibiotics have no role",
+        "False — raw fish is not a listed source",
+        "True — but only when Kanagawa testing is negative"
+      ],
+      "ans": 1,
+      "exp": "The page lists acute diarrhoea, Kanagawa phenomenon for diagnosis, and no role for antibiotics. (Book p48)"
+    },
+    {
+      "id": "MED-C7-48",
+      "sec": "Vibrio, ETEC & Secretory Diarrhoea",
+      "page": 48,
+      "fmt": "recall",
+      "q": "ETEC is identified as the most common cause of:",
+      "opts": [
+        "Community-acquired and travellers' diarrhoea",
+        "Typhoid fever without diarrhoea",
+        "Pseudomembranous enterocolitis",
+        "Post-transplant CMV colitis"
+      ],
+      "ans": 0,
+      "exp": "ETEC is called the most common cause of community-acquired diarrhoea and travellers' diarrhoea. (Book p48)"
+    },
+    {
+      "id": "MED-C7-49",
+      "sec": "Vibrio, ETEC & Secretory Diarrhoea",
+      "page": 48,
+      "fmt": "recall",
+      "q": "The ETEC toxin begun at the bottom of p48 is the heat-labile toxin, which raises:",
+      "opts": [
+        "cGMP",
+        "Intracellular iron",
+        "cAMP",
+        "Serum gastrin"
+      ],
+      "ans": 2,
+      "exp": "The ETEC heat-labile toxin is linked to increased cAMP. (Book p48)"
+    },
+    {
+      "id": "MED-C7-50",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "recall",
+      "q": "The clinical feature used to introduce childhood HUS is the combination of:",
+      "opts": [
+        "Neutropenia and macrocytosis",
+        "Haemolytic anaemia and thrombocytopenia",
+        "Thrombocytosis and iron deficiency",
+        "Leukopenia and eosinophilia"
+      ],
+      "ans": 1,
+      "exp": "The margin defines the HUS feature as haemolytic anaemia with thrombocytopenia. (Book p49)"
+    },
+    {
+      "id": "MED-C7-51",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "numeric",
+      "q": "Approximately what fraction of childhood HUS is assigned to the first branch on p49?",
+      "opts": [
+        "50%",
+        "10%",
+        "90%",
+        "70%"
+      ],
+      "ans": 2,
+      "exp": "The diagram divides childhood HUS into 90% and 10% branches. (Book p49)"
+    },
+    {
+      "id": "MED-C7-52",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "recall",
+      "q": "The organism marked most common in the 90% childhood-HUS branch is:",
+      "opts": [
+        "Streptococcus pneumoniae",
+        "Vibrio cholerae",
+        "Salmonella typhi",
+        "Enterohaemorrhagic E. coli O157:H7"
+      ],
+      "ans": 3,
+      "exp": "EHEC O157:H7 is marked most common in the 90% branch. (Book p49)"
+    },
+    {
+      "id": "MED-C7-53",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "recall",
+      "q": "The toxin paired with EHEC O157:H7 is:",
+      "opts": [
+        "Shiga-like toxin (verocytotoxin)",
+        "Heat-labile toxin",
+        "Toxin A enterotoxin",
+        "Neuraminidase toxin"
+      ],
+      "ans": 0,
+      "exp": "EHEC O157:H7 is paired with Shiga-like toxin, also called verocytotoxin. (Book p49)"
+    },
+    {
+      "id": "MED-C7-54",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "recall",
+      "q": "Which organism-toxin pair is also included in the 90% childhood-HUS branch?",
+      "opts": [
+        "S. pneumoniae — neuraminidase",
+        "ETEC — toxin B",
+        "C. difficile — verocytotoxin",
+        "Shigella dysenteriae — Shiga toxin"
+      ],
+      "ans": 3,
+      "exp": "The 90% branch also lists Shigella dysenteriae producing Shiga toxin. (Book p49)"
+    },
+    {
+      "id": "MED-C7-55",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "numeric",
+      "q": "The p49 diagram assigns what proportion of childhood HUS to Streptococcus pneumoniae?",
+      "opts": [
+        "50%",
+        "90%",
+        "10%",
+        "25%"
+      ],
+      "ans": 2,
+      "exp": "The S. pneumoniae branch is labelled 10%. (Book p49)"
+    },
+    {
+      "id": "MED-C7-56",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "recall",
+      "q": "The toxin named beside S. pneumoniae in the childhood-HUS diagram is:",
+      "opts": [
+        "Neuraminidase toxin",
+        "Shiga-like toxin",
+        "Toxin A",
+        "Heat-stable ETEC toxin"
+      ],
+      "ans": 0,
+      "exp": "The 10% S. pneumoniae branch is paired with neuraminidase toxin. (Book p49)"
+    },
+    {
+      "id": "MED-C7-57",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "recall",
+      "q": "The note distinguishes the heat-stable ETEC toxin from LT by linking it to increased:",
+      "opts": [
+        "cGMP and cAMP both decrease",
+        "cGMP",
+        "Serum creatinine",
+        "cAMP"
+      ],
+      "ans": 1,
+      "exp": "The note states that heat-stable ETEC toxin increases cGMP; the heat-labile toxin on p48 increases cAMP. (Book p49)"
+    },
+    {
+      "id": "MED-C7-58",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "recall",
+      "q": "In the Shigella pathogenesis diagram, the invasive branch begins with:",
+      "opts": [
+        "Urease-mediated neutralization",
+        "Invasion by plasmid antigen",
+        "Transferrin-receptor binding",
+        "Attachment by toxin-coregulated pilus"
+      ],
+      "ans": 1,
+      "exp": "The diagram identifies invasion by plasmid antigen as one pathogenesis arm. (Book p49)"
+    },
+    {
+      "id": "MED-C7-59",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "numeric",
+      "q": "The invasive Shigella process is noted to affect how many layers of the intestinal wall?",
+      "opts": [
+        "One superficial layer",
+        "Two layers",
+        "All four",
+        "Three layers"
+      ],
+      "ans": 2,
+      "exp": "The note says plasmid-antigen invasion affects all four layers of the intestinal wall. (Book p49)"
+    },
+    {
+      "id": "MED-C7-60",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "recall",
+      "q": "The invasive Shigella pathway is linked to severe inflammatory diarrhoea and:",
+      "opts": [
+        "Reactive arthritis",
+        "Aortoarteritis",
+        "Pseudomembranous colitis",
+        "Guillain–Barré syndrome"
+      ],
+      "ans": 0,
+      "exp": "The listed outcomes are shigellosis (severe inflammatory diarrhoea) and reactive arthritis. (Book p49)"
+    },
+    {
+      "id": "MED-C7-61",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "recall",
+      "q": "The toxin-mediated Shigella branches are paired as:",
+      "opts": [
+        "Both toxins → secretory cAMP diarrhoea only",
+        "Both toxins → urease production",
+        "Enterotoxin → cytotoxicity; Shiga-like toxin → diarrhoea",
+        "Enterotoxin → diarrhoea; Shiga-like toxin → cytotoxicity"
+      ],
+      "ans": 3,
+      "exp": "The diagram links enterotoxin with diarrhoea and Shiga-like toxin with cytotoxicity. (Book p49)"
+    },
+    {
+      "id": "MED-C7-62",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "management",
+      "q": "Which drug is labelled the drug of choice for Shigella on p49?",
+      "opts": [
+        "Doxycycline",
+        "Ciprofloxacin",
+        "Azithromycin",
+        "Oral fidaxomicin"
+      ],
+      "ans": 1,
+      "exp": "Ciprofloxacin is labelled DOC; azithromycin is also listed as treatment. This reflects the book's study content, not current prescribing guidance. (Book p49)"
+    },
+    {
+      "id": "MED-C7-63",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "management",
+      "q": "Which additional antibiotic is listed after ciprofloxacin in the Shigella treatment section?",
+      "opts": [
+        "Vancomycin",
+        "Tetracycline",
+        "Rifaximin",
+        "Azithromycin"
+      ],
+      "ans": 3,
+      "exp": "Azithromycin is listed alongside ciprofloxacin for Shigella in the source. (Book p49)"
+    },
+    {
+      "id": "MED-C7-64",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "scenario",
+      "q": "A patient with diarrhoea and arthritis is being distinguished from IBD. The note says IBD can be identified by fecal:",
+      "opts": [
+        "α-1 antitrypsin only",
+        "Elastase or chymotrypsin",
+        "Lactoferrin or calprotectin",
+        "Bile acids or D-xylose"
+      ],
+      "ans": 2,
+      "exp": "The note lists fecal lactoferrin/calprotectin as IBD identifiers in the differential. (Book p49)"
+    },
+    {
+      "id": "MED-C7-65",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "recall",
+      "q": "Which extraintestinal feature is specifically included in that IBD differential note?",
+      "opts": [
+        "Koilonychia",
+        "Erythema nodosum",
+        "Rose spots of enteric fever",
+        "Pica"
+      ],
+      "ans": 1,
+      "exp": "The note's extraintestinal list includes erythema nodosum, episcleritis and type-I peripheral arthritis. (Book p49)"
+    },
+    {
+      "id": "MED-C7-66",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "recall",
+      "q": "The non-typhoid Salmonella source is described as:",
+      "opts": [
+        "Raw fish only",
+        "Faeco-oral",
+        "Respiratory droplets",
+        "Vector-borne"
+      ],
+      "ans": 1,
+      "exp": "Non-typhoid Salmonella is listed as faeco-oral. (Book p49)"
+    },
+    {
+      "id": "MED-C7-67",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "numeric",
+      "q": "The incubation interval listed for non-typhoid Salmonella is:",
+      "opts": [
+        "2–4 days",
+        "6–12 hours",
+        "6–72 hours",
+        "1–6 hours"
+      ],
+      "ans": 2,
+      "exp": "The p49 incubation period is 6–72 hours. (Book p49)"
+    },
+    {
+      "id": "MED-C7-68",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "recall",
+      "q": "The pathogenesis phrase used for non-typhoid Salmonella is:",
+      "opts": [
+        "Shiga-like toxin alone",
+        "Invasive enterotoxin",
+        "Non-invasive adenyl-cyclase toxin",
+        "Preformed heat-stable toxin"
+      ],
+      "ans": 1,
+      "exp": "The page describes non-typhoid Salmonella pathogenesis as invasive enterotoxin. (Book p49)"
+    },
+    {
+      "id": "MED-C7-69",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "recall",
+      "q": "The complication singled out as the most severe in non-typhoid Salmonella is:",
+      "opts": [
+        "Endovascular infection",
+        "Reactive arthritis",
+        "Toxic megacolon",
+        "Aortoarteritis"
+      ],
+      "ans": 3,
+      "exp": "Aortoarteritis is marked as the most severe complication; endovascular infection is also listed. (Book p49)"
+    },
+    {
+      "id": "MED-C7-70",
+      "sec": "HUS and Shigella",
+      "page": 49,
+      "fmt": "recall",
+      "q": "Besides aortoarteritis, which complication is listed for non-typhoid Salmonella?",
+      "opts": [
+        "Intestinal lymphangiectasia",
+        "Endovascular infection",
+        "Celiac crisis",
+        "Gallbladder perforation"
+      ],
+      "ans": 1,
+      "exp": "Endovascular infection is the second listed complication. (Book p49)"
+    },
+    {
+      "id": "MED-C7-71",
+      "sec": "Salmonella and Campylobacter",
+      "page": 50,
+      "fmt": "recall",
+      "q": "In the Salmonella typhi note, diarrhoea in enteric fever is placed in which week?",
+      "opts": [
+        "It is stated to occur before fever",
+        "The second week",
+        "The first 24 hours",
+        "The third week only"
+      ],
+      "ans": 1,
+      "exp": "The note says enteric fever has diarrhoea in the second week. (Book p50)"
+    },
+    {
+      "id": "MED-C7-72",
+      "sec": "Salmonella and Campylobacter",
+      "page": 50,
+      "fmt": "recall",
+      "q": "The common complication named for typhoid in the p50 note is:",
+      "opts": [
+        "Pancreatic pseudocyst",
+        "Oesophageal web",
+        "Toxic megacolon",
+        "Intestinal perforation"
+      ],
+      "ans": 3,
+      "exp": "Intestinal perforation is called a common complication of typhoid. (Book p50)"
+    },
+    {
+      "id": "MED-C7-73",
+      "sec": "Salmonella and Campylobacter",
+      "page": 50,
+      "fmt": "recall",
+      "q": "Which haematologic complication is included in the Salmonella typhi note?",
+      "opts": [
+        "Thrombocytosis",
+        "Polycythaemia",
+        "Bone-marrow suppression",
+        "Eosinophilia"
+      ],
+      "ans": 2,
+      "exp": "Bone-marrow suppression is listed among typhoid clinical features. (Book p50)"
+    },
+    {
+      "id": "MED-C7-74",
+      "sec": "Salmonella and Campylobacter",
+      "page": 50,
+      "fmt": "recall",
+      "q": "Which gastrointestinal complication is listed alongside typhoid perforation?",
+      "opts": [
+        "Protein-losing gastropathy",
+        "Achalasia",
+        "Pseudomembrane formation",
+        "Intestinal haemorrhage"
+      ],
+      "ans": 3,
+      "exp": "Intestinal haemorrhage is listed with perforation and bone-marrow suppression. (Book p50)"
+    },
+    {
+      "id": "MED-C7-75",
+      "sec": "Salmonella and Campylobacter",
+      "page": 50,
+      "fmt": "recall",
+      "q": "The photograph on p50 is captioned:",
+      "opts": [
+        "Pseudomembranous colitis",
+        "Ileal perforation",
+        "Toxic megacolon",
+        "Rose spots of enteric fever"
+      ],
+      "ans": 1,
+      "exp": "The photograph caption reads 'Ileal perforation'. (Book p50)"
+    },
+    {
+      "id": "MED-C7-76",
+      "sec": "Salmonella and Campylobacter",
+      "page": 50,
+      "fmt": "recall",
+      "q": "Campylobacter jejuni is acquired by the route listed as:",
+      "opts": [
+        "Vector-borne",
+        "Airborne droplets",
+        "Transplacental",
+        "Faeco-oral"
+      ],
+      "ans": 3,
+      "exp": "The C. jejuni source is faeco-oral. (Book p50)"
+    },
+    {
+      "id": "MED-C7-77",
+      "sec": "Salmonella and Campylobacter",
+      "page": 50,
+      "fmt": "numeric",
+      "q": "The incubation period listed for C. jejuni is:",
+      "opts": [
+        "7–14 days",
+        "6–72 hours",
+        "1–6 hours",
+        "2–4 days"
+      ],
+      "ans": 3,
+      "exp": "The page gives a 2–4-day incubation period for C. jejuni. (Book p50)"
+    },
+    {
+      "id": "MED-C7-78",
+      "sec": "Salmonella and Campylobacter",
+      "page": 50,
+      "fmt": "recall",
+      "q": "C. jejuni is listed as a risk factor for which later disease category?",
+      "opts": [
+        "Autoimmune gastritis",
+        "Pseudomembranous colitis",
+        "Inflammatory bowel disease",
+        "Celiac disease"
+      ],
+      "ans": 2,
+      "exp": "The complication list names inflammatory bowel disease as a risk association. (Book p50)"
+    },
+    {
+      "id": "MED-C7-79",
+      "sec": "Salmonella and Campylobacter",
+      "page": 50,
+      "fmt": "recall",
+      "q": "The neurological syndrome C. jejuni is said to trigger is:",
+      "opts": [
+        "Guillain–Barré syndrome",
+        "Toxic neuropathy",
+        "Miller Fisher syndrome only",
+        "Myasthenia gravis"
+      ],
+      "ans": 0,
+      "exp": "The source abbreviates Guillain–Barré syndrome as GBS and lists it as a trigger. (Book p50)"
+    },
+    {
+      "id": "MED-C7-80",
+      "sec": "Salmonella and Campylobacter",
+      "page": 50,
+      "fmt": "recall",
+      "q": "The immune-proliferative small-intestinal disease association is abbreviated:",
+      "opts": [
+        "IBS-D",
+        "HUS",
+        "IPF",
+        "IPSID"
+      ],
+      "ans": 3,
+      "exp": "The page lists immune proliferative small intestinal disease (IPSID)/lymphoma. (Book p50)"
+    },
+    {
+      "id": "MED-C7-81",
+      "sec": "Salmonella and Campylobacter",
+      "page": 50,
+      "fmt": "scenario",
+      "q": "An older adult with C. jejuni has fever, abdominal pain, hypovolaemia and at least six stools daily. These features are among the page's:",
+      "opts": [
+        "Criteria ruling out culture",
+        "Diagnostic criteria for HUS",
+        "Features of non-severe C. difficile only",
+        "Indications for management"
+      ],
+      "ans": 3,
+      "exp": "Age >70 years, fever, abdominal pain, hypovolaemia and ≥6 stools/day are listed under management indications. (Book p50)"
+    },
+    {
+      "id": "MED-C7-82",
+      "sec": "Salmonella and Campylobacter",
+      "page": 50,
+      "fmt": "numeric",
+      "q": "Which age threshold appears among the C. jejuni management indications?",
+      "opts": [
+        ">50 years",
+        ">40 years",
+        "<20 years",
+        ">70 years"
+      ],
+      "ans": 3,
+      "exp": "The first indication listed is age >70 years. (Book p50)"
+    },
+    {
+      "id": "MED-C7-83",
+      "sec": "Salmonella and Campylobacter",
+      "page": 50,
+      "fmt": "numeric",
+      "q": "The stool-frequency threshold listed among the management indications is:",
+      "opts": [
+        "≥2 stools per day",
+        "≥6 stools per day",
+        "≥4 stools per day",
+        "≥10 stools per day"
+      ],
+      "ans": 1,
+      "exp": "The source gives ≥6 stools/day. (Book p50)"
+    },
+    {
+      "id": "MED-C7-84",
+      "sec": "Salmonella and Campylobacter",
+      "page": 50,
+      "fmt": "recall",
+      "q": "The culture organisms named in the management section are:",
+      "opts": [
+        "ETEC, rotavirus and CMV",
+        "C. difficile, S. pneumoniae and norovirus",
+        "Shigella, Salmonella and Campylobacter",
+        "Giardia, Entamoeba and microsporidium"
+      ],
+      "ans": 2,
+      "exp": "The listed culture targets are Shigella, Salmonella and Campylobacter. (Book p50)"
+    },
+    {
+      "id": "MED-C7-85",
+      "sec": "Salmonella and Campylobacter",
+      "page": 50,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — the page groups stool culture and azithromycin treatment as not routinely indicated in small-bowel diarrhoea.",
+      "opts": [
+        "True — the brace marks both as not routinely indicated in small-bowel diarrhoea",
+        "False — the brace applies only to culture",
+        "False — the brace applies only to azithromycin",
+        "True — but only for large-bowel diarrhoea"
+      ],
+      "ans": 0,
+      "exp": "The bracket beside culture and azithromycin says they are not routinely indicated in small-bowel diarrhoea. (Book p50)"
+    },
+    {
+      "id": "MED-C7-86",
+      "sec": "Salmonella and Campylobacter",
+      "page": 50,
+      "fmt": "management",
+      "q": "The azithromycin dose shown in the C. jejuni management note is:",
+      "opts": [
+        "500 mg",
+        "100 mg",
+        "200 mg twice daily",
+        "1 g once weekly"
+      ],
+      "ans": 0,
+      "exp": "The page lists azithromycin 500 mg; it is book-study content rather than a prescribing recommendation. (Book p50)"
+    },
+    {
+      "id": "MED-C7-87",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 50,
+      "fmt": "recall",
+      "q": "The p50 section heading for the next disorder is:",
+      "opts": [
+        "Tropical sprue",
+        "Microscopic colitis",
+        "Pseudomembranous enterocolitis",
+        "Collagenous colitis"
+      ],
+      "ans": 2,
+      "exp": "The next heading is pseudomembranous enterocolitis. (Book p50)"
+    },
+    {
+      "id": "MED-C7-88",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 50,
+      "fmt": "recall",
+      "q": "The organism named under pseudomembranous-enterocolitis pathogenesis is:",
+      "opts": [
+        "Campylobacter jejuni",
+        "Shigella dysenteriae",
+        "Clostridium perfringens",
+        "Clostridioides difficile"
+      ],
+      "ans": 3,
+      "exp": "The pathogenesis section names C. difficile. (Book p50)"
+    },
+    {
+      "id": "MED-C7-89",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 50,
+      "fmt": "recall",
+      "q": "The page links antibiotic exposure in C. difficile pathogenesis to a change in:",
+      "opts": [
+        "Gastric acid secretion",
+        "Bile-acid synthesis",
+        "Gut flora",
+        "Red-cell production"
+      ],
+      "ans": 2,
+      "exp": "The readable pathogenesis line links antibiotics with a change in gut flora. (Book p50)"
+    },
+    {
+      "id": "MED-C7-90",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 50,
+      "fmt": "recall",
+      "q": "Which toxin description is correct for C. difficile on p50?",
+      "opts": [
+        "Toxin A is an enterotoxin; toxin B is cytotoxic and the most potent",
+        "Toxin A is cytotoxic and most potent; toxin B is an enterotoxin",
+        "Toxin A causes HUS; toxin B causes cholera",
+        "Both toxins are heat-stable preformed enterotoxins"
+      ],
+      "ans": 0,
+      "exp": "The source calls toxin A an enterotoxin and toxin B cytotoxic (most potent). (Book p50)"
+    },
+    {
+      "id": "MED-C7-91",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 50,
+      "fmt": "numeric",
+      "q": "The incubation period printed for pseudomembranous enterocolitis is:",
+      "opts": [
+        "2 weeks",
+        "6–7 days",
+        "6 hours",
+        "2 days"
+      ],
+      "ans": 3,
+      "exp": "The page gives an incubation period of 2 days. (Book p50)"
+    },
+    {
+      "id": "MED-C7-92",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "recall",
+      "q": "The clinical-features list for pseudomembranous enterocolitis begins with:",
+      "opts": [
+        "Dysphagia and early satiety",
+        "Painless bleeding and constipation",
+        "Jaundice and right-upper-quadrant pain",
+        "Fever and abdominal cramps"
+      ],
+      "ans": 3,
+      "exp": "Fever and abdominal cramps are listed at the start of the clinical-features section. (Book p51)"
+    },
+    {
+      "id": "MED-C7-93",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "recall",
+      "q": "The diarrhoea pattern described for C. difficile may be watery with:",
+      "opts": [
+        "Pus but never mucus or blood",
+        "Mucus, with or without blood",
+        "Only formed stool streaked with blood",
+        "Fat globules and no mucus"
+      ],
+      "ans": 1,
+      "exp": "The page describes watery diarrhoea with mucus ± blood. (Book p51)"
+    },
+    {
+      "id": "MED-C7-94",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "recall",
+      "q": "The stool pattern in the C. difficile clinical-features section is categorized as:",
+      "opts": [
+        "Pancreatic maldigestion pattern",
+        "Large-bowel pattern",
+        "Small-bowel high-volume pattern",
+        "Gastric outlet pattern"
+      ],
+      "ans": 1,
+      "exp": "The source explicitly labels this a large-bowel pattern. (Book p51)"
+    },
+    {
+      "id": "MED-C7-95",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "recall",
+      "q": "The major complication illustrated and named for C. difficile enterocolitis is:",
+      "opts": [
+        "Pneumatosis of the stomach",
+        "Intestinal lymphangiectasia",
+        "Toxic megacolon",
+        "Ileal perforation"
+      ],
+      "ans": 2,
+      "exp": "Toxic megacolon is the listed complication and the image caption. (Book p51)"
+    },
+    {
+      "id": "MED-C7-96",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "recall",
+      "q": "The relative order of toxic-megacolon associations printed in parentheses is:",
+      "opts": [
+        "Ulcerative colitis > pseudomembranous enterocolitis > invasive-organism infection",
+        "Pseudomembranous enterocolitis > invasive infection > ulcerative colitis",
+        "Pseudomembranous enterocolitis > ulcerative colitis > invasive-organism infection",
+        "Invasive-organism infection > ulcerative colitis > pseudomembranous enterocolitis"
+      ],
+      "ans": 2,
+      "exp": "The printed order is pseudomembranous enterocolitis, then ulcerative colitis, then infection by invasive organisms. (Book p51)"
+    },
+    {
+      "id": "MED-C7-97",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "recall",
+      "q": "The initial C. difficile diagnostic combination shown on p51 is:",
+      "opts": [
+        "Fecal calprotectin plus lactoferrin",
+        "PCR alone followed by toxin culture",
+        "Glutamate dehydrogenase (GDH) test plus EIA against toxin A/B",
+        "Stool culture plus occult blood"
+      ],
+      "ans": 2,
+      "exp": "The diagnostic algorithm begins with GDH and EIA against toxins A/B. (Book p51)"
+    },
+    {
+      "id": "MED-C7-98",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "recall",
+      "q": "When both the GDH test and toxin EIA are positive, the diagram concludes:",
+      "opts": [
+        "Confirmed diagnosis",
+        "C. difficile ruled out",
+        "Proceed directly to stool culture",
+        "Repeat testing after one month"
+      ],
+      "ans": 0,
+      "exp": "Both-positive results lead directly to confirmed diagnosis. (Book p51)"
+    },
+    {
+      "id": "MED-C7-99",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "scenario",
+      "q": "GDH and toxin EIA are discordant, so at least one is positive. What is the next test in the printed algorithm?",
+      "opts": [
+        "Schilling test",
+        "PCR (nucleic-acid amplification test)",
+        "Rapid urease test",
+        "D-xylose urine test"
+      ],
+      "ans": 1,
+      "exp": "When any one initial test is positive, the diagram sends the case to PCR/NAAT; a positive PCR confirms diagnosis. (Book p51)"
+    },
+    {
+      "id": "MED-C7-100",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "recall",
+      "q": "If both initial GDH and toxin EIA tests are negative, the algorithm says:",
+      "opts": [
+        "C. difficile infection is ruled out",
+        "PCR is mandatory in every case",
+        "Repeat EIA after treatment",
+        "The diagnosis is confirmed"
+      ],
+      "ans": 0,
+      "exp": "Both-negative results rule out C. difficile infection in the printed flowchart. (Book p51)"
+    },
+    {
+      "id": "MED-C7-101",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "numeric",
+      "q": "The non-severe branch requires a white-cell count below:",
+      "opts": [
+        "15,000",
+        "10,000",
+        "5,000",
+        "20,000"
+      ],
+      "ans": 0,
+      "exp": "The non-severe criteria show WBC <15,000. (Book p51)"
+    },
+    {
+      "id": "MED-C7-102",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "numeric",
+      "q": "The creatinine criterion for the non-severe branch is:",
+      "opts": [
+        "Serum creatinine >3.0",
+        "Serum creatinine <1.5",
+        "Serum creatinine <0.5",
+        "Serum creatinine >1.5"
+      ],
+      "ans": 1,
+      "exp": "The flowchart pairs non-severe disease with serum creatinine <1.5. (Book p51)"
+    },
+    {
+      "id": "MED-C7-103",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "management",
+      "q": "The non-severe first-line option labelled DOC is:",
+      "opts": [
+        "Oral azithromycin",
+        "Ciprofloxacin",
+        "Oral fidaxomicin",
+        "Intravenous metronidazole alone"
+      ],
+      "ans": 2,
+      "exp": "Oral fidaxomicin is marked DOC in the non-severe branch; oral vancomycin is also listed. These are source-book notes, not current treatment guidance. (Book p51)"
+    },
+    {
+      "id": "MED-C7-104",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "recall",
+      "q": "The page notes that oral fidaxomicin has which advantage in the non-severe branch?",
+      "opts": [
+        "Provides a diagnostic PCR result",
+        "Reduced recurrence",
+        "Prevents all toxic megacolon",
+        "Removes the need for fluid replacement"
+      ],
+      "ans": 1,
+      "exp": "A downward arrow and 'recurrence' are noted beside oral fidaxomicin. (Book p51)"
+    },
+    {
+      "id": "MED-C7-105",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "management",
+      "q": "Which additional oral antibiotic is listed for non-severe C. difficile disease?",
+      "opts": [
+        "Vancomycin",
+        "Amoxicillin",
+        "Doxycycline",
+        "Ciprofloxacin"
+      ],
+      "ans": 0,
+      "exp": "Oral vancomycin is listed beside fidaxomicin in the non-severe branch. (Book p51)"
+    },
+    {
+      "id": "MED-C7-106",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "scenario",
+      "q": "A patient has WBC >15,000 and creatinine >1.5 but no ileus, shock or megacolon. Which category does the flowchart use?",
+      "opts": [
+        "Severe",
+        "Not C. difficile",
+        "Fulminant",
+        "Non-severe"
+      ],
+      "ans": 0,
+      "exp": "The severe branch is selected when the elevated WBC/creatinine criteria are present but ileus, shock and megacolon are absent. (Book p51)"
+    },
+    {
+      "id": "MED-C7-107",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "management",
+      "q": "Which dose of oral fidaxomicin is specified in the severe branch?",
+      "opts": [
+        "200 mg once weekly",
+        "200 mg twice daily",
+        "1 g three times daily",
+        "500 mg once daily"
+      ],
+      "ans": 1,
+      "exp": "The severe branch specifies oral fidaxomicin 200 mg BD. (Book p51)"
+    },
+    {
+      "id": "MED-C7-108",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "management",
+      "q": "Which other oral agent appears in the severe C. difficile branch?",
+      "opts": [
+        "Azithromycin",
+        "Doxycycline",
+        "Rifaximin",
+        "Vancomycin"
+      ],
+      "ans": 3,
+      "exp": "Oral vancomycin is listed as the other severe-branch option. (Book p51)"
+    },
+    {
+      "id": "MED-C7-109",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "scenario",
+      "q": "Ileus, shock or megacolon moves a patient with C. difficile into which category?",
+      "opts": [
+        "Fulminant",
+        "Severe without complications",
+        "Uncomplicated viral diarrhoea",
+        "Non-severe"
+      ],
+      "ans": 0,
+      "exp": "The right-hand branch labels the presence of ileus, shock or megacolon as fulminant. (Book p51)"
+    },
+    {
+      "id": "MED-C7-110",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "management",
+      "q": "Which combination is listed for fulminant C. difficile disease?",
+      "opts": [
+        "Azithromycin with a repeat stool antigen test",
+        "Oral vancomycin, IV metronidazole and surgical consultation",
+        "Doxycycline, Ringer lactate and no surgical input",
+        "Oral fidaxomicin alone and outpatient review"
+      ],
+      "ans": 1,
+      "exp": "The fulminant branch lists oral vancomycin, IV metronidazole and surgical consultation. This transcribes the book's management diagram and is not a current-care protocol. (Book p51)"
+    },
+    {
+      "id": "MED-C7-111",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "page": 51,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — in the p51 flowchart, fulminant disease adds IV metronidazole and surgical consultation to oral vancomycin.",
+      "opts": [
+        "True — all three appear in the fulminant branch",
+        "False — surgery is explicitly excluded",
+        "False — IV metronidazole is listed for non-severe disease",
+        "True — but vancomycin is not included"
+      ],
+      "ans": 0,
+      "exp": "The fulminant branch lists oral vancomycin, IV metronidazole and surgical consultation. (Book p51)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U7-1",
+      "ch": 7,
+      "n": 1,
+      "title": "Definitions & Site Patterns",
+      "sec": "Infectious Diarrhoea: Definitions & Patterns",
+      "guide": "Acute diarrhoea ≤2 weeks is infectious unless proved otherwise.\nDuration branches: <1 week benign/viral or complicated/bacterial; >1 week protozoal.\nSeparate small-bowel large-volume watery stool from large-bowel small-volume bloody stool.",
+      "qs": [
+        "MED-C7-01",
+        "MED-C7-02",
+        "MED-C7-03",
+        "MED-C7-04",
+        "MED-C7-05",
+        "MED-C7-06",
+        "MED-C7-07",
+        "MED-C7-08",
+        "MED-C7-09",
+        "MED-C7-10",
+        "MED-C7-11",
+        "MED-C7-12",
+        "MED-C7-13",
+        "MED-C7-14",
+        "MED-C7-15",
+        "MED-C7-16",
+        "MED-C7-17"
+      ]
+    },
+    {
+      "id": "MED-U7-2",
+      "ch": 7,
+      "n": 2,
+      "title": "Small- and Large-Bowel Organisms",
+      "sec": "Small- and Large-Bowel Organisms",
+      "guide": "Small bowel: ETEC/V. cholerae toxins, preformed-toxin bacteria, Cryptosporidium, microsporidium, Giardia.\nLarge bowel: Shigella, Campylobacter, non-typhoid Salmonella, EIEC, V. parahaemolyticus, Entamoeba.\nTyphoid is a small-bowel invasion with fever/pain and no diarrhoea in the note.",
+      "qs": [
+        "MED-C7-18",
+        "MED-C7-19",
+        "MED-C7-20",
+        "MED-C7-21",
+        "MED-C7-22",
+        "MED-C7-23",
+        "MED-C7-24",
+        "MED-C7-25",
+        "MED-C7-26"
+      ]
+    },
+    {
+      "id": "MED-U7-3",
+      "ch": 7,
+      "n": 3,
+      "title": "Preformed-Toxin Food Poisoning",
+      "sec": "Preformed-Toxin Food Poisoning",
+      "guide": "S. aureus: preformed heat-stable toxin, 1–6 h, custard/pork/canned meat, vomiting via 5-HT3.\nB. cereus heat-stable: fried rice/vomiting; heat-labile: formed toxin, 6–12 h, diarrhoea/cAMP.\nThe source also lists Yersinia and E. coli among heat-stable-toxin producers.",
+      "qs": [
+        "MED-C7-27",
+        "MED-C7-28",
+        "MED-C7-29",
+        "MED-C7-30",
+        "MED-C7-31",
+        "MED-C7-32",
+        "MED-C7-33",
+        "MED-C7-34",
+        "MED-C7-35",
+        "MED-C7-36",
+        "MED-C7-37"
+      ]
+    },
+    {
+      "id": "MED-U7-4",
+      "ch": 7,
+      "n": 4,
+      "title": "Vibrio, ETEC & Secretory Diarrhoea",
+      "sec": "Vibrio, ETEC & Secretory Diarrhoea",
+      "guide": "V. cholerae is non-invasive; toxin activates adenyl cyclase; TCP attaches to mucosa.\nLarge-volume watery stool, dehydration and hypokalaemic normal-gap acidosis; the page names Ringer lactate.\nV. parahaemolyticus: raw fish/Kanagawa; ETEC LT raises cAMP and is linked to travellers' diarrhoea.",
+      "qs": [
+        "MED-C7-38",
+        "MED-C7-39",
+        "MED-C7-40",
+        "MED-C7-41",
+        "MED-C7-42",
+        "MED-C7-43",
+        "MED-C7-44",
+        "MED-C7-45",
+        "MED-C7-46",
+        "MED-C7-47",
+        "MED-C7-48",
+        "MED-C7-49"
+      ]
+    },
+    {
+      "id": "MED-U7-5",
+      "ch": 7,
+      "n": 5,
+      "title": "HUS and Shigella",
+      "sec": "HUS and Shigella",
+      "guide": "Childhood HUS: 90% EHEC O157:H7/Shigella dysenteriae toxins; 10% pneumococcal neuraminidase.\nShigella invasion affects all four bowel-wall layers; enterotoxin causes diarrhoea and Shiga-like toxin is cytotoxic.\nThe note contrasts diarrhoea with arthritis against IBD markers and extraintestinal signs.",
+      "qs": [
+        "MED-C7-50",
+        "MED-C7-51",
+        "MED-C7-52",
+        "MED-C7-53",
+        "MED-C7-54",
+        "MED-C7-55",
+        "MED-C7-56",
+        "MED-C7-57",
+        "MED-C7-58",
+        "MED-C7-59",
+        "MED-C7-60",
+        "MED-C7-61",
+        "MED-C7-62",
+        "MED-C7-63",
+        "MED-C7-64",
+        "MED-C7-65",
+        "MED-C7-66",
+        "MED-C7-67",
+        "MED-C7-68",
+        "MED-C7-69",
+        "MED-C7-70"
+      ]
+    },
+    {
+      "id": "MED-U7-6",
+      "ch": 7,
+      "n": 6,
+      "title": "Salmonella and Campylobacter",
+      "sec": "Salmonella and Campylobacter",
+      "guide": "Typhoid: diarrhoea in week two, perforation, marrow suppression and intestinal bleeding.\nC. jejuni is faeco-oral, incubates 2–4 days, and is linked to IBD, GBS and IPSID/lymphoma.\nThe page's culture and azithromycin notes are explicitly not routine for small-bowel diarrhoea.",
+      "qs": [
+        "MED-C7-71",
+        "MED-C7-72",
+        "MED-C7-73",
+        "MED-C7-74",
+        "MED-C7-75",
+        "MED-C7-76",
+        "MED-C7-77",
+        "MED-C7-78",
+        "MED-C7-79",
+        "MED-C7-80",
+        "MED-C7-81",
+        "MED-C7-82",
+        "MED-C7-83",
+        "MED-C7-84",
+        "MED-C7-85",
+        "MED-C7-86"
+      ]
+    },
+    {
+      "id": "MED-U7-7",
+      "ch": 7,
+      "n": 7,
+      "title": "C. difficile Enterocolitis",
+      "sec": "Clostridioides difficile Enterocolitis",
+      "guide": "GDH + toxin A/B EIA → confirm if both positive; discordant results go to PCR/NAAT.\nThe p51 flowchart separates non-severe, severe and fulminant disease by WBC/creatinine and ileus/shock/megacolon.\nTreatment entries reproduce the book for study; they are not current clinical guidance.",
+      "qs": [
+        "MED-C7-87",
+        "MED-C7-88",
+        "MED-C7-89",
+        "MED-C7-90",
+        "MED-C7-91",
+        "MED-C7-92",
+        "MED-C7-93",
+        "MED-C7-94",
+        "MED-C7-95",
+        "MED-C7-96",
+        "MED-C7-97",
+        "MED-C7-98",
+        "MED-C7-99",
+        "MED-C7-100",
+        "MED-C7-101",
+        "MED-C7-102",
+        "MED-C7-103",
+        "MED-C7-104",
+        "MED-C7-105",
+        "MED-C7-106",
+        "MED-C7-107",
+        "MED-C7-108",
+        "MED-C7-109",
+        "MED-C7-110",
+        "MED-C7-111"
+      ]
+    }
+  ]
+}
