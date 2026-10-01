@@ -1,0 +1,26 @@
+{
+  "01.pdf": {
+    "pdfStart": 13,
+    "bookStart": 1,
+    "pdfEnd": 129,
+    "bookEnd": 117,
+    "offset": 12,
+    "note": "12 front-matter sheets; Book p = PDF page -12"
+  },
+  "02.pdf": {
+    "pdfStart": 1,
+    "bookStart": 118,
+    "pdfEnd": 130,
+    "bookEnd": 247,
+    "offset": -117,
+    "note": "Book p = PDF page +117"
+  },
+  "03.pdf": {
+    "pdfStart": 1,
+    "bookStart": 248,
+    "pdfEnd": 128,
+    "bookEnd": 375,
+    "offset": 247,
+    "note": "Book p = PDF page +247; PDF129-131 are blank/end matter"
+  }
+}

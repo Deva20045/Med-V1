@@ -1,0 +1,1155 @@
+{
+  "chapter": 1,
+  "title": "Diarrhea",
+  "pageRange": "1-5",
+  "questions": [
+    {
+      "id": "MED-C1-01",
+      "sec": "Definition & Bristol Chart",
+      "page": 1,
+      "fmt": "fillup",
+      "q": "Diarrhea is defined as stool water content >____ mL/24 hours.",
+      "opts": [
+        "100 mL/24 hours",
+        "200 mL/24 hours",
+        "300 mL/24 hours",
+        "500 mL/24 hours"
+      ],
+      "ans": 1,
+      "exp": "Definition: Stool water content >200 mL/24 hours. (Book p1)"
+    },
+    {
+      "id": "MED-C1-02",
+      "sec": "Definition & Bristol Chart",
+      "page": 1,
+      "fmt": "match",
+      "q": "Match the Bristol stool types to the book's clinical label — 1) Type 1 & 2 2) Type 3 & 4 3) Type 6 & 7 … A) Normal B) Constipation C) Diarrhea",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 0,
+      "exp": "According to Bristol stool chart: Type 1 & 2 = Constipation, Type 6 & 7 = Diarrhea; Types 3-4 are Normal. (Book p1)"
+    },
+    {
+      "id": "MED-C1-03",
+      "sec": "Definition & Bristol Chart",
+      "page": 1,
+      "fmt": "recall",
+      "q": "Bristol Type 1 is described as separate hard lumps and is labelled as:",
+      "opts": [
+        "Mild constipation",
+        "Severe constipation",
+        "Normal",
+        "Lacking fibre"
+      ],
+      "ans": 1,
+      "exp": "Type 1: Separate hard lumps = SEVERE CONSTIPATION on the Bristol chart. (Book p1)"
+    },
+    {
+      "id": "MED-C1-04",
+      "sec": "Definition & Bristol Chart",
+      "page": 1,
+      "fmt": "recall",
+      "q": "Bristol Type 2 (lumpy and sausage like) corresponds to:",
+      "opts": [
+        "Normal",
+        "Lacking fibre",
+        "Mild constipation",
+        "Mild diarrhea"
+      ],
+      "ans": 2,
+      "exp": "Type 2: Lumpy and sausage like = MILD CONSTIPATION. (Book p1)"
+    },
+    {
+      "id": "MED-C1-05",
+      "sec": "Definition & Bristol Chart",
+      "page": 1,
+      "fmt": "recall",
+      "q": "Bristol Type 3 – ‘A sausage shape with cracks in the surface’ – is classified as:",
+      "opts": [
+        "Normal",
+        "Mild constipation",
+        "Severe constipation",
+        "Lacking fibre"
+      ],
+      "ans": 0,
+      "exp": "Type 3: A sausage shape with cracks in the surface = NORMAL. (Book p1)"
+    },
+    {
+      "id": "MED-C1-06",
+      "sec": "Definition & Bristol Chart",
+      "page": 1,
+      "fmt": "recall",
+      "q": "Bristol Type 4 – ‘Like a smooth, soft sausage or snake’ – is:",
+      "opts": [
+        "Mild diarrhea",
+        "Severe diarrhea",
+        "Lacking fibre",
+        "Normal"
+      ],
+      "ans": 3,
+      "exp": "Type 4: Like a smooth, soft sausage or snake = NORMAL. (Book p1)"
+    },
+    {
+      "id": "MED-C1-07",
+      "sec": "Definition & Bristol Chart",
+      "page": 1,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one pairing is NOT as printed for the Bristol chart:",
+      "opts": [
+        "Type 5 – Soft blobs with clear-cut edges – LACKING FIBRE",
+        "Type 6 – Mushy consistency with ragged edges – MILD DIARRHEA",
+        "Type 7 – Liquid consistency with no solid pieces – SEVERE DIARRHEA",
+        "Type 5 – Soft blobs with clear-cut edges – SEVERE CONSTIPATION"
+      ],
+      "ans": 3,
+      "exp": "Type 5 is Soft blobs with clear-cut edges = LACKING FIBRE, not severe constipation; the other three are as printed. (Book p1)"
+    },
+    {
+      "id": "MED-C1-08",
+      "sec": "Definition & Bristol Chart",
+      "page": 1,
+      "fmt": "fillup",
+      "q": "Bristol Type 5 (soft blobs with clear-cut edges) is labelled ____.",
+      "opts": [
+        "Normal",
+        "Lacking fibre",
+        "Mild diarrhea",
+        "Severe diarrhea"
+      ],
+      "ans": 1,
+      "exp": "Type 5: Soft blobs with clear-cut edges = LACKING FIBRE. (Book p1)"
+    },
+    {
+      "id": "MED-C1-09",
+      "sec": "Definition & Bristol Chart",
+      "page": 1,
+      "fmt": "recall",
+      "q": "Bristol Type 6 – mushy consistency with ragged edges – indicates:",
+      "opts": [
+        "Normal",
+        "Lacking fibre",
+        "Mild diarrhea",
+        "Severe constipation"
+      ],
+      "ans": 2,
+      "exp": "Type 6: Mushy consistency with ragged edges = MILD DIARRHEA. (Book p1)"
+    },
+    {
+      "id": "MED-C1-10",
+      "sec": "Definition & Bristol Chart",
+      "page": 1,
+      "fmt": "scenario",
+      "q": "A patient reports stools that are entirely liquid with no solid pieces. By Bristol chart this is Type 7 and the book labels it:",
+      "opts": [
+        "Mild diarrhea",
+        "Normal",
+        "Lacking fibre",
+        "Severe diarrhea"
+      ],
+      "ans": 3,
+      "exp": "Type 7: Liquid consistency with no solid pieces = SEVERE DIARRHEA. (Book p1)"
+    },
+    {
+      "id": "MED-C1-11",
+      "sec": "Physiology & Macronutrients",
+      "page": 1,
+      "fmt": "match",
+      "q": "Match the phases of absorption as book-ordered — 1) Luminal 2) Mucosal 3) Post mucosal … A) Post mucosal B) Luminal C) Mucosal",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Physiology of absorption: 1. Luminal, 2. Mucosal, 3. Post mucosal. (Book p1)"
+    },
+    {
+      "id": "MED-C1-12",
+      "sec": "Physiology & Macronutrients",
+      "page": 1,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — the book states that the mucosal phase occurs mainly in the small intestine and accounts for maximum absorption.",
+      "opts": [
+        "True — small intestine (majority), maximum absorption",
+        "False — mucosal phase is colonic",
+        "False — maximum absorption is luminal",
+        "True — but post mucosal is majority"
+      ],
+      "ans": 0,
+      "exp": "Mucosal: Small intestine (majority), maximum absorption. (Book p1)"
+    },
+    {
+      "id": "MED-C1-13",
+      "sec": "Physiology & Macronutrients",
+      "page": 1,
+      "fmt": "recall",
+      "q": "Among macronutrients listed, which is noted as most calorie-dense?",
+      "opts": [
+        "Proteins",
+        "Carbohydrates",
+        "Fat",
+        "Fiber"
+      ],
+      "ans": 2,
+      "exp": "Fat: most calorie dense nutrient. (Book p1)"
+    },
+    {
+      "id": "MED-C1-14",
+      "sec": "Physiology & Macronutrients",
+      "page": 1,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — fat is the most specific nutrient affected in malabsorption.",
+      "opts": [
+        "True — fat is the most specific marker",
+        "False — carbohydrate is most specific",
+        "False — protein is most specific",
+        "True — but only in pancreatic insufficiency"
+      ],
+      "ans": 0,
+      "exp": "Fat: most specific nutrient affected in malabsorption. (Book p1)"
+    },
+    {
+      "id": "MED-C1-15",
+      "sec": "Physiology & Macronutrients",
+      "page": 1,
+      "fmt": "oddoneout",
+      "q": "Three are listed under ‘macronutrients for absorption’ in the book. Pick the ODD ONE OUT:",
+      "opts": [
+        "Fat",
+        "Carbohydrates",
+        "Proteins",
+        "Vitamins"
+      ],
+      "ans": 3,
+      "exp": "The book lists Fat, Carbohydrates, Proteins under macronutrients; Vitamins is not listed there. (Book p1)"
+    },
+    {
+      "id": "MED-C1-16",
+      "sec": "Frequency Classification & Acute Etiology",
+      "page": 1,
+      "fmt": "numeric",
+      "q": "By Frequency Classification, ‘Acute’ diarrhea is defined as duration:",
+      "opts": [
+        "<2 weeks (Nuisance symptom)",
+        "<4 weeks",
+        "<1 week",
+        ">4 weeks"
+      ],
+      "ans": 0,
+      "exp": "Frequency Classification: Acute <2 weeks (Nuisance symptom). (Book p1)"
+    },
+    {
+      "id": "MED-C1-17",
+      "sec": "Frequency Classification & Acute Etiology",
+      "page": 1,
+      "fmt": "match",
+      "q": "Match the frequency label to duration — 1) Acute 2) Persistent 3) Chronic … A) >4 weeks B) <2 weeks C) >2 weeks",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Acute <2 weeks, Persistent >2 weeks, Chronic >4 weeks. (Book p1)"
+    },
+    {
+      "id": "MED-C1-18",
+      "sec": "Frequency Classification & Acute Etiology",
+      "page": 1,
+      "fmt": "recall",
+      "q": "The most common cause of acute diarrhea overall, per the book, is:",
+      "opts": [
+        "Bacterial toxin",
+        "Parasitic",
+        "Viral infection",
+        "Drug-induced"
+      ],
+      "ans": 2,
+      "exp": "Acute diarrhea: Infectious: Viral infection (m/c). (Book p1)"
+    },
+    {
+      "id": "MED-C1-19",
+      "sec": "Frequency Classification & Acute Etiology",
+      "page": 1,
+      "fmt": "scenario",
+      "q": "A 28-year-old food handler develops acute watery diarrhea for 12 hours after a buffet; no blood. The book’s most common viral cause in adults is:",
+      "opts": [
+        "Rotavirus",
+        "Norovirus",
+        "Adenovirus",
+        "Enterovirus"
+      ],
+      "ans": 1,
+      "exp": "m/c in adults: Norovirus. (Book p1)"
+    },
+    {
+      "id": "MED-C1-20",
+      "sec": "Frequency Classification & Acute Etiology",
+      "page": 1,
+      "fmt": "scenario",
+      "q": "A 2-year-old with acute watery diarrhea, low-grade fever, self-limited course. The book’s most common viral cause in children is:",
+      "opts": [
+        "Norovirus",
+        "Rotavirus",
+        "Sapovirus",
+        "Astrovirus"
+      ],
+      "ans": 1,
+      "exp": "m/c in children: Rotavirus. (Book p1)"
+    },
+    {
+      "id": "MED-C1-21",
+      "sec": "Frequency Classification & Acute Etiology",
+      "page": 1,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — acute viral diarrhea as described is typically self-limiting.",
+      "opts": [
+        "True — self-limiting",
+        "False — requires antibiotics",
+        "False — always chronic",
+        "True — but only in children"
+      ],
+      "ans": 0,
+      "exp": "Acute viral diarrhea is listed as Self-limiting. (Book p1)"
+    },
+    {
+      "id": "MED-C1-22",
+      "sec": "Chronic Diarrhea & Malassimilation",
+      "page": 2,
+      "fmt": "match",
+      "q": "Match chronic diarrhea D/d to etiology — 1) Osmotic 2) Secretory 3) Inflammatory … A) Inflammatory bowel disease B) Malabsorption C) Tumor / Toxin",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Chronic diarrhea table: Osmotic → malabsorption, Secretory → Tumor/Toxin, Inflammatory → Inflammatory bowel disease. (Book p2)"
+    },
+    {
+      "id": "MED-C1-23",
+      "sec": "Chronic Diarrhea & Malassimilation",
+      "page": 2,
+      "fmt": "fillup",
+      "q": "Malassimilation = ____ + malabsorption.",
+      "opts": [
+        "Maldigestion",
+        "Maldistribution",
+        "Malnutrition",
+        "Malrotation"
+      ],
+      "ans": 0,
+      "exp": "Malassimilation: maldigestion + malabsorption. (Book p2)"
+    },
+    {
+      "id": "MED-C1-24",
+      "sec": "Chronic Diarrhea & Malassimilation",
+      "page": 2,
+      "fmt": "fillup",
+      "q": "Malassimilation is diminished intestinal digestion/absorption of ____.",
+      "opts": [
+        "One or more nutrients",
+        "Fat alone",
+        "Water alone",
+        "Vitamin B12 alone"
+      ],
+      "ans": 0,
+      "exp": "Diminished intestinal digestion/absorption of one or more nutrients. (Book p2)"
+    },
+    {
+      "id": "MED-C1-25",
+      "sec": "Osmotic Diarrhea & Steatorrhea",
+      "page": 2,
+      "fmt": "recall",
+      "q": "Which is described as the most consistent clinical symptom of malabsorption under Pathological Classification?",
+      "opts": [
+        "Hematemesis",
+        "Osmotic diarrhea",
+        "Constipation",
+        "Jaundice"
+      ],
+      "ans": 1,
+      "exp": "1. OSMOTIC DIARRHEA — most consistent clinical symptom of malabsorption. (Book p2)"
+    },
+    {
+      "id": "MED-C1-26",
+      "sec": "Osmotic Diarrhea & Steatorrhea",
+      "page": 2,
+      "fmt": "scenario",
+      "q": "A patient passes pale, bulky, fatty, malodorous, greasy stools that float. The book terms this hallmark of malabsorption as:",
+      "opts": [
+        "Melena",
+        "Steatorrhea",
+        "Hematochezia",
+        "Lientery"
+      ],
+      "ans": 1,
+      "exp": "Steatorrhea: Hallmark of malabsorption. Definition: Passing of pale, bulky, fatty, malodorous, greasy stools. (Book p2)"
+    },
+    {
+      "id": "MED-C1-27",
+      "sec": "Osmotic Diarrhea & Steatorrhea",
+      "page": 2,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — the book lists diarrhea as the most consistent clinical finding in steatorrhea.",
+      "opts": [
+        "True — diarrhea (most consistent clinical finding)",
+        "False — weight loss is most consistent",
+        "False — steatorrhea is always painless so diarrhea is rare",
+        "True — but only in children"
+      ],
+      "ans": 0,
+      "exp": "Clinical presentation: Diarrhea (most consistent clinical finding) in steatorrhea. (Book p2)"
+    },
+    {
+      "id": "MED-C1-28",
+      "sec": "Osmotic Diarrhea & Steatorrhea",
+      "page": 2,
+      "fmt": "match",
+      "q": "Order the osmotic diarrhea pathogenesis as printed — 1) ↓ Fat absorption in small intestine 2) Unabsorbed macronutrients ↑ stool osmolality (osmotically active) in colon 3) Stool draws water from large intestinal epithelial cells … A) Stool draws water B) ↓ Fat absorption C) ↑ Stool osmolality",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Pathology: ↓ fat absorption in small intestine → In colon → Unabsorbed macronutrients ↑ stool osmolality (osmotically active) → Stool draws water from large intestinal epithelial cells → Osmotic diarrhea. (Book p2)"
+    },
+    {
+      "id": "MED-C1-29",
+      "sec": "Steatorrhea Investigations",
+      "page": 2,
+      "fmt": "recall",
+      "q": "Gold standard investigation for steatorrhea per the book is:",
+      "opts": [
+        "Qualitative Sudan stain",
+        "72 hour fecal fat test",
+        "Fecal elastase",
+        "D-xylose test"
+      ],
+      "ans": 1,
+      "exp": "Investigations: 1. 72 hour fecal fat test: Gold standard. (Book p2)"
+    },
+    {
+      "id": "MED-C1-30",
+      "sec": "Steatorrhea Investigations",
+      "page": 2,
+      "fmt": "numeric",
+      "q": "For the 72-hour fecal fat test, the book’s prescribed fat input is:",
+      "opts": [
+        "40 g/day",
+        "100 g/day",
+        "60 g/day",
+        "200 g/day"
+      ],
+      "ans": 1,
+      "exp": "Procedure: Fat input = 100 g/day. (Book p2)"
+    },
+    {
+      "id": "MED-C1-31",
+      "sec": "Steatorrhea Investigations",
+      "page": 2,
+      "fmt": "numeric",
+      "q": "Normal fecal fat excretion on the 72-hour test is:",
+      "opts": [
+        "<7 g/day",
+        "<14 g/day",
+        "<3 g/day",
+        "<20 g/day"
+      ],
+      "ans": 0,
+      "exp": "Normal: <7 g/day. (Book p2)"
+    },
+    {
+      "id": "MED-C1-32",
+      "sec": "Steatorrhea Investigations",
+      "page": 2,
+      "fmt": "fillup",
+      "q": "Steatorrhea is diagnosed if fecal fat is >7 g/day for 3 days on ____.",
+      "opts": [
+        "D1, D2, D3",
+        "D3, D4, D5",
+        "D2, D3, D4",
+        "Any 2 days"
+      ],
+      "ans": 1,
+      "exp": ">7 g/day for 3 days (D3, D4, D5) = Steatorrhea. (Book p2)"
+    },
+    {
+      "id": "MED-C1-33",
+      "sec": "Steatorrhea Investigations",
+      "page": 2,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — stool fat excretion ≥7% also qualifies as steatorrhea by the book’s criteria.",
+      "opts": [
+        "True — Stool fat excretion ≥7%",
+        "False — threshold is ≥10%",
+        "False — only quantitative grams matter",
+        "True — but only with Sudan stain"
+      ],
+      "ans": 0,
+      "exp": "Stool fat excretion ≥7% → Steatorrhea. (Book p2)"
+    },
+    {
+      "id": "MED-C1-34",
+      "sec": "Steatorrhea Investigations",
+      "page": 2,
+      "fmt": "match",
+      "q": "Match the qualitative stool fat test to its stain — 1) Sudan III 2) Sudan IV 3) Oil red O … A) Oil red O B) Sudan III C) Sudan IV",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Qualitative stool fat: Sudan III, Sudan IV, Oil red O. (Book p2)"
+    },
+    {
+      "id": "MED-C1-35",
+      "sec": "Secretory Diarrhea & Stool Osmotic Gap",
+      "page": 3,
+      "fmt": "recall",
+      "q": "Which pair is listed under toxins causing secretory diarrhea?",
+      "opts": [
+        "ETEC & V. cholera (heat labile toxin)",
+        "Shigella & Salmonella",
+        "Entamoeba & Giardia",
+        "C. difficile toxin A/B alone"
+      ],
+      "ans": 0,
+      "exp": "Secretory: a. Toxins → ETEC, V. cholera (heat labile toxin). (Book p3)"
+    },
+    {
+      "id": "MED-C1-36",
+      "sec": "Secretory Diarrhea & Stool Osmotic Gap",
+      "page": 3,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — enteropathogenic virus (rotavirus) is listed under secretory diarrhea toxin etiology.",
+      "opts": [
+        "True — listed as toxin-mediated secretory cause",
+        "False — rotavirus is osmotic",
+        "False — listed under inflammatory",
+        "True — but only for adults"
+      ],
+      "ans": 0,
+      "exp": "Toxins → Enteropathogenic virus (rotavirus) is listed. (Book p3)"
+    },
+    {
+      "id": "MED-C1-37",
+      "sec": "Secretory Diarrhea & Stool Osmotic Gap",
+      "page": 3,
+      "fmt": "scenario",
+      "q": "A patient with chronic watery diarrhea, hypokalemia and non-anion gap acidosis with a pancreatic tumor is described. The book’s tumor and triad are:",
+      "opts": [
+        "Gastrinoma with Zollinger-Ellison",
+        "VIPoma with WDHA (Watery Diarrhea, Hypokalemia, Acidosis)",
+        "Somatostatinoma with steatorrhea",
+        "Insulinoma with Whipple triad"
+      ],
+      "ans": 1,
+      "exp": "Tumours: VIPoma → Watery Diarrhoea → WDHA syndrome with Hypokalemia and Acidosis triangle. (Book p3)"
+    },
+    {
+      "id": "MED-C1-38",
+      "sec": "Secretory Diarrhea & Stool Osmotic Gap",
+      "page": 3,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — in secretory diarrhea the book notes ‘No structural damage seen.’",
+      "opts": [
+        "True — No structural damage seen",
+        "False — villous atrophy is typical",
+        "False — ulcerations are characteristic",
+        "True — but only for osmotic"
+      ],
+      "ans": 0,
+      "exp": "Note: No structural damage seen (secretory diarrhea). (Book p3)"
+    },
+    {
+      "id": "MED-C1-39",
+      "sec": "Secretory Diarrhea & Stool Osmotic Gap",
+      "page": 3,
+      "fmt": "match",
+      "q": "Match the stool osmotic gap category — 1) Osmotic diarrhea 2) Secretory diarrhea … A) Normal/decreased (<50 mOsm/kg), ↑ stool Na⁺+K⁺ B) Increased (>100 mOsm/kg)",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-B",
+        "1-A, 2-A"
+      ],
+      "ans": 0,
+      "exp": "Stool osmotic gap: Osmotic Increased (>100), Secretory Normal/decreased (<50), ↑ stool Na+ + K+ (By toxins). (Book p3)"
+    },
+    {
+      "id": "MED-C1-40",
+      "sec": "Secretory Diarrhea & Stool Osmotic Gap",
+      "page": 3,
+      "fmt": "scenario",
+      "q": "A patient’s diarrhea improves dramatically on fasting. The comparison table suggests:",
+      "opts": [
+        "Secretory diarrhea (no change on fasting)",
+        "Osmotic diarrhea (Improvement)",
+        "Factitious diarrhea",
+        "Inflammatory diarrhea"
+      ],
+      "ans": 1,
+      "exp": "Response to fasting: Osmotic → Improvement, Secretory → No change. (Book p3)"
+    },
+    {
+      "id": "MED-C1-41",
+      "sec": "Secretory Diarrhea & Stool Osmotic Gap",
+      "page": 3,
+      "fmt": "numeric",
+      "q": "Osmotic diarrhea stool pH is typically <5.5 due to fermentation of unabsorbed carbohydrates to acids; secretory diarrhea stool pH is:",
+      "opts": [
+        ">6.0",
+        "<4.5",
+        "<5.0",
+        "<6.5 but >5.5"
+      ],
+      "ans": 0,
+      "exp": "Stool pH: Osmotic <5.5 (Fermentation… → Acids), Secretory >6.0. (Book p3)"
+    },
+    {
+      "id": "MED-C1-42",
+      "sec": "Secretory Diarrhea & Stool Osmotic Gap",
+      "page": 3,
+      "fmt": "fillup",
+      "q": "Stool osmotic gap = 290 − 2 × (stool ____ + stool ____).",
+      "opts": [
+        "Na⁺ + K⁺",
+        "Cl⁻ + HCO₃⁻",
+        "Na⁺ + Cl⁻",
+        "K⁺ + urea"
+      ],
+      "ans": 0,
+      "exp": "Note: Stool osmotic gap = measured osmolality - calculated; 290 - 2 (Stool Na⁺ + K⁺). (Book p3)"
+    },
+    {
+      "id": "MED-C1-43",
+      "sec": "Secretory Diarrhea & Stool Osmotic Gap",
+      "page": 3,
+      "fmt": "numeric",
+      "q": "Normal stool osmotic gap is:",
+      "opts": [
+        "50–100 mOsm/kg",
+        "10–30 mOsm/kg",
+        "150–200 mOsm/kg",
+        "0–10 mOsm/kg"
+      ],
+      "ans": 0,
+      "exp": "Normal: 50-100 mOsm/kg. (Book p3)"
+    },
+    {
+      "id": "MED-C1-44",
+      "sec": "Secretory Diarrhea & Stool Osmotic Gap",
+      "page": 3,
+      "fmt": "scenario",
+      "q": "An adolescent female with chronic diarrhea, no weight gain, fatigue, and normal supervised stool osmolality but very low unsupervised osmolality. The book’s clinical picture fits:",
+      "opts": [
+        "Osmotic diarrhea from lactase deficiency",
+        "Secretory diarrhea from VIPoma",
+        "Factitious diarrhea",
+        "Inflammatory bowel disease"
+      ],
+      "ans": 2,
+      "exp": "Factitious: Adolescent female, Chronic diarrhea, Fatigue, Weight loss. (Book p3)"
+    },
+    {
+      "id": "MED-C1-45",
+      "sec": "Factitious & Anatomical Classification",
+      "page": 4,
+      "fmt": "numeric",
+      "q": "In factitious diarrhea findings, unsupervised stool (mixed with water) osmolality is about ____, supervised is about 279.",
+      "opts": [
+        "~16 mOsm/kg",
+        "~100 mOsm/kg",
+        "~150 mOsm/kg",
+        "~290 mOsm/kg"
+      ],
+      "ans": 0,
+      "exp": "Unsupervised (mixed with water) Very low (~16 mOsm/kg), Supervised Normal (~279). (Book p4)"
+    },
+    {
+      "id": "MED-C1-46",
+      "sec": "Factitious & Anatomical Classification",
+      "page": 4,
+      "fmt": "match",
+      "q": "Match etiology to site in Anatomical Classification — 1) Osmotic/Secretory (ETEC, Vibrio cholera) 2) Invasive organisms (Shigella) / Ulcerative colitis inflammation … A) Large intestinal diarrhea B) Small intestinal diarrhea",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-B",
+        "1-A, 2-A"
+      ],
+      "ans": 0,
+      "exp": "Small intestinal: Osmotic, Secretory - ETEC, Vibrio cholera; Large intestinal: Invasive (Shigella), Inflammation: ulcerative colitis. (Book p4)"
+    },
+    {
+      "id": "MED-C1-47",
+      "sec": "Factitious & Anatomical Classification",
+      "page": 4,
+      "fmt": "recall",
+      "q": "By the Small vs Large table, stool volume is:",
+      "opts": [
+        "Large in small intestinal (↓ nutrient absorption) vs Small in large intestinal",
+        "Small in small intestinal vs Large in large intestinal",
+        "Equal in both",
+        "Decreased only in colonic"
+      ],
+      "ans": 0,
+      "exp": "Clinical presentation: Volume - Large (↓ nutrient absorption) in small intestinal, Small in large intestinal. (Book p4)"
+    },
+    {
+      "id": "MED-C1-48",
+      "sec": "Factitious & Anatomical Classification",
+      "page": 4,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — both small and large intestinal diarrheas are listed as ‘watery’ in consistency per the table.",
+      "opts": [
+        "True — both are listed as watery",
+        "False — large is bloody",
+        "False — small is formed",
+        "True — but large is semi-solid"
+      ],
+      "ans": 0,
+      "exp": "Consistency: Small → watery, Large → watery. (Book p4)"
+    },
+    {
+      "id": "MED-C1-49",
+      "sec": "Factitious & Anatomical Classification",
+      "page": 4,
+      "fmt": "recall",
+      "q": "Frequency/urgency in the anatomical table is:",
+      "opts": [
+        "↓ in small intestinal, ↑ in large intestinal",
+        "↑ in both",
+        "↓ in both",
+        "↑ in small, ↓ in large"
+      ],
+      "ans": 0,
+      "exp": "Frequency/urgency: Small ↓, Large ↑. (Book p4)"
+    },
+    {
+      "id": "MED-C1-50",
+      "sec": "Factitious & Anatomical Classification",
+      "page": 4,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — pus/blood/mucus is Absent in small intestinal diarrhea and Present in large intestinal diarrhea.",
+      "opts": [
+        "True — Absent vs Present",
+        "False — opposite",
+        "False — present in both",
+        "True — but only with fever"
+      ],
+      "ans": 0,
+      "exp": "Pus/blood/mucus: Small Absent, Large Present. (Book p4)"
+    },
+    {
+      "id": "MED-C1-51",
+      "sec": "Factitious & Anatomical Classification",
+      "page": 4,
+      "fmt": "recall",
+      "q": "Tenesmus is:",
+      "opts": [
+        "Present in small, Absent in large",
+        "Absent in small, Present in large",
+        "Absent in both",
+        "Present in both"
+      ],
+      "ans": 1,
+      "exp": "Tenesmus: Small Absent, Large Present. (Book p4)"
+    },
+    {
+      "id": "MED-C1-52",
+      "sec": "Factitious & Anatomical Classification",
+      "page": 4,
+      "fmt": "recall",
+      "q": "Dyschezia is:",
+      "opts": [
+        "Absent in small intestinal, Present in large intestinal",
+        "Present in small, Absent in large",
+        "Present in both",
+        "Absent in both"
+      ],
+      "ans": 0,
+      "exp": "Dyschezia: Small Absent, Large Present. (Book p4)"
+    },
+    {
+      "id": "MED-C1-53",
+      "sec": "Factitious & Anatomical Classification",
+      "page": 4,
+      "fmt": "recall",
+      "q": "Abdominal pain is:",
+      "opts": [
+        "Absent in small intestinal, Present in large intestinal",
+        "Present in both",
+        "Absent in both",
+        "Present in small, Absent in large"
+      ],
+      "ans": 0,
+      "exp": "Abdominal pain: Small Absent, Large Present. (Book p4)"
+    },
+    {
+      "id": "MED-C1-54",
+      "sec": "Factitious & Anatomical Classification",
+      "page": 4,
+      "fmt": "recall",
+      "q": "Fever is:",
+      "opts": [
+        "Absent in small intestinal diarrhea, Present in large intestinal diarrhea",
+        "Present in small, Absent in large",
+        "Present in both",
+        "Absent in both"
+      ],
+      "ans": 0,
+      "exp": "Fever: Small Absent, Large Present. (Book p4)"
+    },
+    {
+      "id": "MED-C1-55",
+      "sec": "Factitious & Anatomical Classification",
+      "page": 4,
+      "fmt": "oddoneout",
+      "q": "Three are Present in both small and large intestinal diarrhea; pick the ODD ONE OUT that is NOT present in both:",
+      "opts": [
+        "Abdominal cramps",
+        "Bloating",
+        "Fever",
+        "Abdominal cramps and Bloating are both Present"
+      ],
+      "ans": 2,
+      "exp": "Abdominal cramps: Present in both; Bloating: Present in both; Fever: Absent in small, Present in large — so fever is the odd one. (Book p4)"
+    },
+    {
+      "id": "MED-C1-56",
+      "sec": "Factitious & Anatomical Classification",
+      "page": 4,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — bloating is Present in both small and large intestinal diarrhea.",
+      "opts": [
+        "True — Present in both",
+        "False — absent in small",
+        "False — absent in large",
+        "True — but rare in large"
+      ],
+      "ans": 0,
+      "exp": "Bloating: Present in both. (Book p4)"
+    },
+    {
+      "id": "MED-C1-57",
+      "sec": "Factitious & Anatomical Classification",
+      "page": 4,
+      "fmt": "scenario",
+      "q": "A patient with chronic large volume diarrhea for 6 months has lost 8 kg; vomiting is occasional. The table suggests this fits:",
+      "opts": [
+        "Large intestinal diarrhea (weight loss rare)",
+        "Small intestinal diarrhea (weight loss Present if persistent, vomiting maybe present, steatorrhoea Present)",
+        "Factitious diarrhea",
+        "Secretory diarrhea only"
+      ],
+      "ans": 1,
+      "exp": "Weight loss: Small intestinal Present (if persistent), Large Rare; Vomiting maybe present in small, Rare in large; Steatorrhoea Present in small, Absent in large. (Book p4)"
+    },
+    {
+      "id": "MED-C1-58",
+      "sec": "Factitious & Anatomical Classification",
+      "page": 4,
+      "fmt": "recall",
+      "q": "Vomiting in the anatomical classification is:",
+      "opts": [
+        "Maybe present in small intestinal, Rare in large intestinal",
+        "Rare in small, Maybe present in large",
+        "Present in both",
+        "Absent in both"
+      ],
+      "ans": 0,
+      "exp": "Vomiting: Small maybe present, Large Rare. (Book p4)"
+    },
+    {
+      "id": "MED-C1-59",
+      "sec": "Factitious & Anatomical Classification",
+      "page": 4,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — steatorrhoea is Present in small intestinal diarrhea and Absent in large intestinal diarrhea.",
+      "opts": [
+        "True — Present vs Absent",
+        "False — opposite",
+        "False — present in both",
+        "True — but only in colonic"
+      ],
+      "ans": 0,
+      "exp": "Steatorrhoea: Small Present, Large Absent. (Book p4)"
+    },
+    {
+      "id": "MED-C1-60",
+      "sec": "Approach to Diarrhea",
+      "page": 5,
+      "fmt": "recall",
+      "q": "By ‘Approach to Diarrhea’ flowchart, diarrhea <2 weeks suggests:",
+      "opts": [
+        "Inflammatory ulcerative colitis",
+        "Osmotic malabsorption",
+        "Infection",
+        "VIPoma"
+      ],
+      "ans": 2,
+      "exp": "Duration <2 weeks → Infection. (Book p5)"
+    },
+    {
+      "id": "MED-C1-61",
+      "sec": "Approach to Diarrhea",
+      "page": 5,
+      "fmt": "match",
+      "q": "Match the <2 weeks infection by site — 1) Small intestine (Large volume): Viral m/c, ETEC, Cholera 2) Large intestine (Fever, pain abdomen, blood, mucus) … A) Invasive: Shigella, Non-typhoid salmonella, Campylobacter B) Viral m/c, ETEC, Cholera (Self limiting)",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-B",
+        "1-A, 2-A"
+      ],
+      "ans": 0,
+      "exp": "<2 weeks: Small intestine (Large volume): Viral m/c, ETEC, Cholera → Self limiting; Large intestine (Fever, pain, blood, mucus): Invasive: Shigella, Non typhoid salmonella, Campylobacter. (Book p5)"
+    },
+    {
+      "id": "MED-C1-62",
+      "sec": "Approach to Diarrhea",
+      "page": 5,
+      "fmt": "management",
+      "q": "A traveler with 1-day history of large volume watery diarrhea, no fever/blood, likely viral/ETEC/cholera. The book’s flowchart implies:",
+      "opts": [
+        "Immediate colonoscopy",
+        "Self limiting — supportive care",
+        "Start mesalamine for UC",
+        "Check VIPoma levels"
+      ],
+      "ans": 1,
+      "exp": "Small intestine viral/ETEC/Cholera → Self limiting. (Book p5)"
+    },
+    {
+      "id": "MED-C1-63",
+      "sec": "Approach to Diarrhea",
+      "page": 5,
+      "fmt": "match",
+      "q": "For diarrhea >4 weeks, match — 1) Small intestine - Osmotic 2) Small intestine - Secretory 3) Large intestine - Inflammatory … A) VIPoma B) ↑ stool osmotic gap, Improves on fasting C) Ulcerative colitis",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 0,
+      "exp": ">4 weeks: Small → Osmotic: ↑ stool osmotic gap, Improves on fasting; Secretory: VIPoma; Large → Inflammatory: ulcerative colitis. (Book p5)"
+    },
+    {
+      "id": "MED-C1-64",
+      "sec": "Approach to Diarrhea",
+      "page": 5,
+      "fmt": "scenario",
+      "q": "A patient has chronic watery diarrhea for 6 weeks with hypokalemia. Fasting does NOT improve stool output. Workup for VIPoma is planned. This matches which branch of the approach flowchart?",
+      "opts": [
+        "Small intestinal osmotic (>100 gap, improves on fasting)",
+        "Small intestinal secretory (VIPoma, no improvement on fasting)",
+        "Large intestinal inflammatory (ulcerative colitis)",
+        "Acute infectious small intestinal (viral)"
+      ],
+      "ans": 1,
+      "exp": "Small intestinal Secretory: VIPoma (diarrhea persists fasting) vs Osmotic: ↑ gap, Improves on fasting. (Book p5)"
+    },
+    {
+      "id": "MED-C1-65",
+      "sec": "Approach to Diarrhea",
+      "page": 5,
+      "fmt": "scenario",
+      "q": "A patient has >4 weeks diarrhea with fever, abdominal pain, blood/mucus, urgency, and tenesmus. Approach flowchart points to:",
+      "opts": [
+        "Small intestinal osmotic with lactase deficiency",
+        "Large intestinal inflammatory: ulcerative colitis",
+        "Factitious diarrhea",
+        "Self-limiting viral"
+      ],
+      "ans": 1,
+      "exp": "Large intestine >4 weeks → Inflammatory: ulcerative colitis (presents with Fever, pain abdomen, blood, mucus). (Book p5)"
+    },
+    {
+      "id": "MED-C1-66",
+      "sec": "Approach to Diarrhea",
+      "page": 5,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — not listed under invasive organisms for Large intestinal <2 weeks infection:",
+      "opts": [
+        "Shigella",
+        "Non typhoid salmonella",
+        "Campylobacter",
+        "ETEC"
+      ],
+      "ans": 3,
+      "exp": "Invasive organisms for Large intestine: Shigella, Non typhoid salmonella, Campylobacter; ETEC is Small intestinal (Large volume). (Book p5)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U1-1",
+      "ch": 1,
+      "n": 1,
+      "title": "Definition & Bristol Chart",
+      "sec": "Definition & Bristol Chart",
+      "guide": "Definition >200 mL/24 h and Bristol Types 1-7.\nLink Type numbers to stool form and clinical label.\nSevere constipation (1) through severe diarrhea (7) in strict order.",
+      "qs": [
+        "MED-C1-01",
+        "MED-C1-02",
+        "MED-C1-03",
+        "MED-C1-04",
+        "MED-C1-05",
+        "MED-C1-06",
+        "MED-C1-07",
+        "MED-C1-08",
+        "MED-C1-09",
+        "MED-C1-10"
+      ]
+    },
+    {
+      "id": "MED-U1-2",
+      "ch": 1,
+      "n": 2,
+      "title": "Physiology & Macronutrients",
+      "sec": "Physiology & Macronutrients",
+      "guide": "Luminal → Mucosal (small intestine, maximum) → Post mucosal.\nFat is most calorie-dense and most specific in malabsorption.\nList carbs and proteins as the other macronutrients.",
+      "qs": [
+        "MED-C1-11",
+        "MED-C1-12",
+        "MED-C1-13",
+        "MED-C1-14",
+        "MED-C1-15"
+      ]
+    },
+    {
+      "id": "MED-U1-3",
+      "ch": 1,
+      "n": 3,
+      "title": "Frequency Classification & Acute Etiology",
+      "sec": "Frequency Classification & Acute Etiology",
+      "guide": "Acute <2w (nuisance), Persistent >2w, Chronic >4w.\nAcute viral m/c overall: Norovirus adults, Rotavirus children, self-limiting.\nClassify by duration first in the flowchart.",
+      "qs": [
+        "MED-C1-16",
+        "MED-C1-17",
+        "MED-C1-18",
+        "MED-C1-19",
+        "MED-C1-20",
+        "MED-C1-21"
+      ]
+    },
+    {
+      "id": "MED-U1-4",
+      "ch": 1,
+      "n": 4,
+      "title": "Chronic Diarrhea & Malassimilation",
+      "sec": "Chronic Diarrhea & Malassimilation",
+      "guide": "Chronic D/d: Osmotic→malabsorption, Secretory→tumor/toxin, Inflammatory→IBD.\nMalassimilation = maldigestion + malabsorption.\nDiminished digestion/absorption of one or more nutrients.",
+      "qs": [
+        "MED-C1-22",
+        "MED-C1-23",
+        "MED-C1-24"
+      ]
+    },
+    {
+      "id": "MED-U1-5",
+      "ch": 1,
+      "n": 5,
+      "title": "Osmotic Diarrhea & Steatorrhea",
+      "sec": "Osmotic Diarrhea & Steatorrhea",
+      "guide": "Osmotic = most consistent symptom of malabsorption.\nSteatorrhea = hallmark: pale bulky fatty malodorous greasy stools.\nPathology: ↓ fat absorption → ↑ stool osmolality → draws water → osmotic diarrhea.",
+      "qs": [
+        "MED-C1-25",
+        "MED-C1-26",
+        "MED-C1-27",
+        "MED-C1-28"
+      ]
+    },
+    {
+      "id": "MED-U1-6",
+      "ch": 1,
+      "n": 6,
+      "title": "Steatorrhea Investigations",
+      "sec": "Steatorrhea Investigations",
+      "guide": "72-h fecal fat = gold standard with 100 g/day fat input.\nNormal <7 g/day; steatorrhea >7 g/d for 3 d (D3-D5) or ≥7% excretion.\nQualitative: Sudan III, Sudan IV, Oil red O.",
+      "qs": [
+        "MED-C1-29",
+        "MED-C1-30",
+        "MED-C1-31",
+        "MED-C1-32",
+        "MED-C1-33",
+        "MED-C1-34"
+      ]
+    },
+    {
+      "id": "MED-U1-7",
+      "ch": 1,
+      "n": 7,
+      "title": "Secretory Diarrhea & Stool Osmotic Gap",
+      "sec": "Secretory Diarrhea & Stool Osmotic Gap",
+      "guide": "Secretory: ETEC/V. cholera heat-labile toxin + rotavirus; VIPoma→WDHA + hypoK + acidosis; no structural damage.\nGap table: Osmotic >100 + pH<5.5 vs Secretory <50 + ↑Na+K + pH>6.0 + no change on fasting.\nFormula 290−2(Na⁺+K⁺), normal 50-100; factitious case adolescent female.",
+      "qs": [
+        "MED-C1-35",
+        "MED-C1-36",
+        "MED-C1-37",
+        "MED-C1-38",
+        "MED-C1-39",
+        "MED-C1-40",
+        "MED-C1-41",
+        "MED-C1-42",
+        "MED-C1-43",
+        "MED-C1-44"
+      ]
+    },
+    {
+      "id": "MED-U1-8",
+      "ch": 1,
+      "n": 8,
+      "title": "Factitious & Anatomical Classification",
+      "sec": "Factitious & Anatomical Classification",
+      "guide": "Factitious unsupervised ~16 vs supervised ~279.\nSmall vs Large etiology + full clinical table (volume, consistency, frequency, pus/blood/mucus, tenesmus, dyschezia, pain, fever, cramps, bloating, weight loss, vomiting, steatorrhoea) in order.\nWeight loss/vomiting/steatorrhoea distinguish persistent small intestinal.",
+      "qs": [
+        "MED-C1-45",
+        "MED-C1-46",
+        "MED-C1-47",
+        "MED-C1-48",
+        "MED-C1-49",
+        "MED-C1-50",
+        "MED-C1-51",
+        "MED-C1-52",
+        "MED-C1-53",
+        "MED-C1-54",
+        "MED-C1-55",
+        "MED-C1-56",
+        "MED-C1-57",
+        "MED-C1-58",
+        "MED-C1-59"
+      ]
+    },
+    {
+      "id": "MED-U1-9",
+      "ch": 1,
+      "n": 9,
+      "title": "Approach to Diarrhea",
+      "sec": "Approach to Diarrhea",
+      "guide": "Duration first: <2w = infection, >4w = small vs large.\n<2w Small (large volume, viral/ETEC/cholera, self-limiting) vs Large (fever/pain/blood, Shigella etc).\n>4w Small osmotic (>100 gap, improves) vs secretory (VIPoma) vs Large inflammatory (UC).",
+      "qs": [
+        "MED-C1-60",
+        "MED-C1-61",
+        "MED-C1-62",
+        "MED-C1-63",
+        "MED-C1-64",
+        "MED-C1-65",
+        "MED-C1-66"
+      ]
+    }
+  ]
+}

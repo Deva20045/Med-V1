@@ -1,0 +1,6 @@
+.venv/
+.audit-render/
+__pycache__/
+
+# Generated page renders (reading aid, not app content)
+.renders/
