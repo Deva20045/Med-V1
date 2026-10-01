@@ -1,0 +1,2197 @@
+{
+  "chapter": 6,
+  "title": "Inflammatory Bowel Disease : Part 2",
+  "pageRange": "37-45",
+  "questions": [
+    {
+      "id": "MED-C6-01",
+      "sec": "Ulcerative Colitis: Clinical Features",
+      "page": 37,
+      "fmt": "recall",
+      "q": "The clinical features of ulcerative colitis are based on:",
+      "opts": [
+        "The level of involvement",
+        "The age of the patient",
+        "The serological profile",
+        "The histological grade"
+      ],
+      "ans": 0,
+      "exp": "Clinical features of ulcerative colitis are described based on the level of involvement. (Book p37)"
+    },
+    {
+      "id": "MED-C6-02",
+      "sec": "Ulcerative Colitis: Clinical Features",
+      "page": 37,
+      "fmt": "match",
+      "q": "Match the extent of ulcerative colitis to its printed presentation — 1) Proctitis 2) Proctosigmoiditis 3) Proctocolitis … A) Streaks of blood onto formed stool B) Painless bleeding per rectum C) Large bowel diarrhea with small frequent stools containing blood, pus and mucus",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Proctitis gives painless bleeding per rectum; proctosigmoiditis gives streaks of blood onto formed stool; proctocolitis gives large bowel diarrhea with small, frequent stools containing blood, pus and mucus. (Book p37)"
+    },
+    {
+      "id": "MED-C6-03",
+      "sec": "Ulcerative Colitis: Clinical Features",
+      "page": 37,
+      "fmt": "recall",
+      "q": "The differential diagnosis listed for painless bleeding per rectum in ulcerative colitis is:",
+      "opts": [
+        "Hemorrhoids and malignancies",
+        "Anal fissures only",
+        "Diverticulosis only",
+        "Infectious colitis only"
+      ],
+      "ans": 0,
+      "exp": "Painless bleeding per rectum — differential diagnosis: hemorrhoids and malignancies. (Book p37)"
+    },
+    {
+      "id": "MED-C6-04",
+      "sec": "Ulcerative Colitis: Clinical Features",
+      "page": 37,
+      "fmt": "recall",
+      "q": "Physical examination in ulcerative colitis is:",
+      "opts": [
+        "Normal",
+        "Shows a right iliac fossa mass",
+        "Shows hepatosplenomegaly",
+        "Shows generalised tenderness"
+      ],
+      "ans": 0,
+      "exp": "Clinical features: normal physical examination. (Book p37)"
+    },
+    {
+      "id": "MED-C6-05",
+      "sec": "Ulcerative Colitis: Clinical Features",
+      "page": 37,
+      "fmt": "recall",
+      "q": "Slow proximal transit in ulcerative colitis produces:",
+      "opts": [
+        "Constipation",
+        "Steatorrhea",
+        "Vomiting",
+        "Tenesmus"
+      ],
+      "ans": 0,
+      "exp": "Slow proximal transit produces constipation. (Book p37)"
+    },
+    {
+      "id": "MED-C6-06",
+      "sec": "Ulcerative Colitis: Clinical Features",
+      "page": 37,
+      "fmt": "recall",
+      "q": "The symptom that accompanies large bowel diarrhea in ulcerative colitis is:",
+      "opts": [
+        "Tenesmus",
+        "Nocturnal vomiting",
+        "Jaundice",
+        "Dysphagia"
+      ],
+      "ans": 0,
+      "exp": "Large bowel diarrhea: small, frequent stools with blood, pus and mucus, plus tenesmus. (Book p37)"
+    },
+    {
+      "id": "MED-C6-07",
+      "sec": "Ulcerative Colitis: Clinical Features",
+      "page": 37,
+      "fmt": "recall",
+      "q": "Systemic symptoms in ulcerative colitis are:",
+      "opts": [
+        "Very rare",
+        "Universal",
+        "Present in half the patients",
+        "The presenting feature"
+      ],
+      "ans": 0,
+      "exp": "Systemic symptoms are very rare in ulcerative colitis. (Book p37)"
+    },
+    {
+      "id": "MED-C6-08",
+      "sec": "Ulcerative Colitis: Clinical Features",
+      "page": 37,
+      "fmt": "fillup",
+      "q": "Systemic symptoms are very rare because the lineage involved is ____, acting through IL-4, IL-5 and IL-13.",
+      "opts": [
+        "Th2",
+        "Th1",
+        "Th17",
+        "T-reg"
+      ],
+      "ans": 0,
+      "exp": "Systemic symptoms: very rare (Th2 lineage involving IL-4, IL-5 and IL-13). (Book p37)"
+    },
+    {
+      "id": "MED-C6-09",
+      "sec": "Ulcerative Colitis: Clinical Features",
+      "page": 37,
+      "fmt": "numeric",
+      "q": "The book states that what proportion of ulcerative colitis patients have a relapsing course?",
+      "opts": [
+        "90%",
+        "9%",
+        "19%",
+        "50%"
+      ],
+      "ans": 0,
+      "exp": "90% of ulcerative colitis patients have a relapsing course. (Book p37)"
+    },
+    {
+      "id": "MED-C6-10",
+      "sec": "Fecal Calprotectin & Endoscopy in UC",
+      "page": 37,
+      "fmt": "recall",
+      "q": "Fecal calprotectin is described in the note as:",
+      "opts": [
+        "The most sensitive biomarker",
+        "A specific but insensitive biomarker",
+        "A liver function marker",
+        "A marker of bile acid malabsorption"
+      ],
+      "ans": 0,
+      "exp": "Note: fecal calprotectin is the most sensitive biomarker. (Book p37)"
+    },
+    {
+      "id": "MED-C6-11",
+      "sec": "Fecal Calprotectin & Endoscopy in UC",
+      "page": 37,
+      "fmt": "recall",
+      "q": "Fecal calprotectin is used to:",
+      "opts": [
+        "Assess disease severity, response to treatment and diagnose relapse",
+        "Confirm the need for colectomy",
+        "Distinguish ulcerative colitis from Crohn's disease",
+        "Screen for dysplasia"
+      ],
+      "ans": 0,
+      "exp": "Fecal calprotectin is used to assess disease severity, response to treatment and to diagnose relapse. (Book p37)"
+    },
+    {
+      "id": "MED-C6-12",
+      "sec": "Fecal Calprotectin & Endoscopy in UC",
+      "page": 37,
+      "fmt": "recall",
+      "q": "The extent of involvement on endoscopy in ulcerative colitis is described as:",
+      "opts": [
+        "Symmetrical, superficial and continuous",
+        "Asymmetrical and segmental",
+        "Transmural and patchy",
+        "Limited to the right colon"
+      ],
+      "ans": 0,
+      "exp": "Endoscopy findings: symmetrical, superficial and continuous involvement. (Book p37)"
+    },
+    {
+      "id": "MED-C6-13",
+      "sec": "Fecal Calprotectin & Endoscopy in UC",
+      "page": 37,
+      "fmt": "match",
+      "q": "Match the ulcerative colitis endoscopic item to the printed descriptor — 1) Earliest finding 2) Vascularity 3) Mucosal detail 4) Late finding … A) Decreased vascularity B) Lead pipe or pipestem colon C) Erythematous, red, velvety mucosa D) Mucosal ulcerations with fine granulations and friability",
+      "opts": [
+        "1-C, 2-A, 3-D, 4-B",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 0,
+      "exp": "Erythematous, red, velvety mucosa is the earliest finding; vascularity is decreased; the mucosa shows ulcerations with fine granulations and friability; late disease gives a lead pipe or pipestem colon. (Book p37)"
+    },
+    {
+      "id": "MED-C6-14",
+      "sec": "Fecal Calprotectin & Endoscopy in UC",
+      "page": 37,
+      "fmt": "recall",
+      "q": "Inflammatory pseudopolyps are listed among the:",
+      "opts": [
+        "Endoscopy findings in ulcerative colitis",
+        "Barium enema findings only",
+        "Serological markers",
+        "Surgical indications"
+      ],
+      "ans": 0,
+      "exp": "Endoscopy findings in ulcerative colitis include inflammatory pseudopolyps. (Book p37)"
+    },
+    {
+      "id": "MED-C6-15",
+      "sec": "Fecal Calprotectin & Endoscopy in UC",
+      "page": 37,
+      "fmt": "recall",
+      "q": "The lead pipe or pipestem colon is described as:",
+      "opts": [
+        "Very rare on endoscopy",
+        "The usual endoscopic appearance",
+        "Diagnostic of Crohn's colitis",
+        "Seen in every patient"
+      ],
+      "ans": 0,
+      "exp": "Lead pipe or pipestem colon is very rare on endoscopy. (Book p37)"
+    },
+    {
+      "id": "MED-C6-16",
+      "sec": "Fecal Calprotectin & Endoscopy in UC",
+      "page": 37,
+      "fmt": "scenario",
+      "q": "A patient with long-standing colitis is scoped and shows continuous symmetrical disease from the rectum upwards with decreased vascularity, friable granular mucosa and pseudopolyps. The book's findings are those of:",
+      "opts": [
+        "Ulcerative colitis",
+        "Crohn's colitis",
+        "Intestinal tuberculosis",
+        "Microscopic colitis"
+      ],
+      "ans": 0,
+      "exp": "Ulcerative colitis endoscopy: symmetrical, superficial, continuous involvement with decreased vascularity, fine granulations, friability and inflammatory pseudopolyps. (Book p37)"
+    },
+    {
+      "id": "MED-C6-17",
+      "sec": "Radiology: Barium Enema in UC",
+      "page": 38,
+      "fmt": "recall",
+      "q": "The earliest change on barium enema in ulcerative colitis is:",
+      "opts": [
+        "Fine mucosal granularities",
+        "Deep collar stud ulcers",
+        "Lead pipe colon",
+        "Toxic megacolon"
+      ],
+      "ans": 0,
+      "exp": "Barium enema: earliest change is fine mucosal granularities. (Book p38)"
+    },
+    {
+      "id": "MED-C6-18",
+      "sec": "Radiology: Barium Enema in UC",
+      "page": 38,
+      "fmt": "recall",
+      "q": "Serrations on barium enema in ulcerative colitis produce:",
+      "opts": [
+        "A hazy margin",
+        "A target appearance",
+        "A comb sign",
+        "A string sign"
+      ],
+      "ans": 0,
+      "exp": "Barium enema: serrations producing a hazy margin. (Book p38)"
+    },
+    {
+      "id": "MED-C6-19",
+      "sec": "Radiology: Barium Enema in UC",
+      "page": 38,
+      "fmt": "recall",
+      "q": "Deep ulcers extending to the submucosa correspond to the named lesion:",
+      "opts": [
+        "Collar stud ulcers",
+        "Aphthous ulcers",
+        "Rose thorn ulcers",
+        "Longitudinal ulcers"
+      ],
+      "ans": 0,
+      "exp": "Deep ulcers extending to the submucosa produce collar stud ulcers. (Book p38)"
+    },
+    {
+      "id": "MED-C6-20",
+      "sec": "Radiology: Barium Enema in UC",
+      "page": 38,
+      "fmt": "recall",
+      "q": "Backwash ileitis is inflammation of the:",
+      "opts": [
+        "Terminal ileum",
+        "Duodenum",
+        "Ascending colon",
+        "Rectum"
+      ],
+      "ans": 0,
+      "exp": "Backwash ileitis is inflammation of the terminal ileum. (Book p38)"
+    },
+    {
+      "id": "MED-C6-21",
+      "sec": "Radiology: Barium Enema in UC",
+      "page": 38,
+      "fmt": "recall",
+      "q": "Which structure is lost on barium enema in ulcerative colitis?",
+      "opts": [
+        "Rectal valves",
+        "Haustra of the caecum",
+        "Ileocaecal valve",
+        "Appendiceal orifice"
+      ],
+      "ans": 0,
+      "exp": "Barium enema findings include loss of rectal valves. (Book p38)"
+    },
+    {
+      "id": "MED-C6-22",
+      "sec": "Radiology: Barium Enema in UC",
+      "page": 38,
+      "fmt": "match",
+      "q": "Match the barium enema appearance to its printed stage — 1) Earliest change 2) Deep ulcers 3) Chronic long-standing disease 4) Fulminant disease … A) Lead pipe appearance B) Toxic megacolon C) Collar stud ulcers D) Fine mucosal granularities",
+      "opts": [
+        "1-D, 2-C, 3-A, 4-B",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-A, 3-B, 4-C",
+        "1-C, 2-D, 3-B, 4-A"
+      ],
+      "ans": 0,
+      "exp": "Fine mucosal granularities are the earliest change; collar stud ulcers reflect deep ulcers; lead pipe appearance reflects chronic long-standing disease; toxic megacolon complicates fulminant disease. (Book p38)"
+    },
+    {
+      "id": "MED-C6-23",
+      "sec": "Radiology: Barium Enema in UC",
+      "page": 38,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one is not a listed barium enema finding in ulcerative colitis:",
+      "opts": [
+        "String sign",
+        "Fine mucosal granularities",
+        "Collar stud ulcers",
+        "Backwash ileitis"
+      ],
+      "ans": 0,
+      "exp": "Barium enema findings in ulcerative colitis: fine mucosal granularities, serrations, collar stud ulcers, mild narrowing of lumen, loss of rectal valves, backwash ileitis. The string sign belongs to Crohn's disease. (Book p38)"
+    },
+    {
+      "id": "MED-C6-24",
+      "sec": "Crohn's Disease: Clinical Features",
+      "page": 38,
+      "fmt": "recall",
+      "q": "The commonest site pattern of Crohn's disease is:",
+      "opts": [
+        "Ileocolitis",
+        "Isolated colitis",
+        "Jejunoileitis",
+        "Isolated gastric disease"
+      ],
+      "ans": 0,
+      "exp": "Crohn's disease clinical features: ileocolitis is the most common pattern. (Book p38)"
+    },
+    {
+      "id": "MED-C6-25",
+      "sec": "Crohn's Disease: Clinical Features",
+      "page": 38,
+      "fmt": "recall",
+      "q": "Episodic right lower quadrant pain in ileocolitis is:",
+      "opts": [
+        "Relieved with diarrhea",
+        "Relieved by fasting only",
+        "Worse after defecation",
+        "Unrelated to bowel habit"
+      ],
+      "ans": 0,
+      "exp": "Ileocolitis: episodic right lower quadrant pain relieved with diarrhea (large bowel diarrhea due to colitis). (Book p38)"
+    },
+    {
+      "id": "MED-C6-26",
+      "sec": "Crohn's Disease: Clinical Features",
+      "page": 38,
+      "fmt": "fillup",
+      "q": "Fever, weight loss and systemic symptoms in Crohn's disease reflect a ____ profile acting through IL-2 and interferon gamma.",
+      "opts": [
+        "Th1",
+        "Th2",
+        "Th17",
+        "T-reg"
+      ],
+      "ans": 0,
+      "exp": "Fever, weight loss and systemic symptoms are due to the Th1 profile (IL-2, interferon gamma). (Book p38)"
+    },
+    {
+      "id": "MED-C6-27",
+      "sec": "Crohn's Disease: Clinical Features",
+      "page": 38,
+      "fmt": "recall",
+      "q": "Jejunoileitis in Crohn's disease produces:",
+      "opts": [
+        "Malabsorption",
+        "Constipation",
+        "Jaundice",
+        "Haematuria"
+      ],
+      "ans": 0,
+      "exp": "Jejunoileitis produces malabsorption. (Book p38)"
+    },
+    {
+      "id": "MED-C6-28",
+      "sec": "Crohn's Disease: Clinical Features",
+      "page": 38,
+      "fmt": "recall",
+      "q": "A palpable inflammatory mass in Crohn's disease is due to:",
+      "opts": [
+        "Thickening of the bowel wall",
+        "Mesenteric lymph nodes only",
+        "An abscess cavity",
+        "Creeping fat alone"
+      ],
+      "ans": 0,
+      "exp": "Palpable inflammatory mass: due to thickening of the bowel wall. (Book p38)"
+    },
+    {
+      "id": "MED-C6-29",
+      "sec": "Crohn's Disease: Clinical Features",
+      "page": 38,
+      "fmt": "recall",
+      "q": "The fistula frequency listed for Crohn's disease is:",
+      "opts": [
+        "Enterovesical more than perianal",
+        "Perianal more than enterovesical",
+        "Equal for both",
+        "Enterocutaneous only"
+      ],
+      "ans": 0,
+      "exp": "Fistulas: enterovesical more than perianal. (Book p38)"
+    },
+    {
+      "id": "MED-C6-30",
+      "sec": "Crohn's Disease: Clinical Features",
+      "page": 38,
+      "fmt": "fillup",
+      "q": "Fissures in Crohn's disease progress to ____ strictures.",
+      "opts": [
+        "fibrosed",
+        "inflammatory",
+        "malignant",
+        "congenital"
+      ],
+      "ans": 0,
+      "exp": "Fissures progress to fibrosed strictures. (Book p38)"
+    },
+    {
+      "id": "MED-C6-31",
+      "sec": "Crohn's Disease: Clinical Features",
+      "page": 38,
+      "fmt": "match",
+      "q": "Match the Crohn's disease feature to its printed mechanism — 1) Palpable inflammatory mass 2) Malabsorption 3) Fistulas 4) Strictures … A) Enterovesical more than perianal B) Thickening of the bowel wall C) Fissures leading to fibrosis D) Jejunoileitis",
+      "opts": [
+        "1-B, 2-D, 3-A, 4-C",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-A, 3-D, 4-C"
+      ],
+      "ans": 0,
+      "exp": "The palpable inflammatory mass comes from bowel wall thickening; malabsorption from jejunoileitis; fistulas are enterovesical more than perianal; strictures follow fibrosis of fissures. (Book p38)"
+    },
+    {
+      "id": "MED-C6-32",
+      "sec": "Crohn's Disease: Clinical Features",
+      "page": 38,
+      "fmt": "scenario",
+      "q": "A young man has episodic right lower quadrant pain relieved by diarrhea, low grade fever, weight loss, bowel obstruction and a palpable right lower quadrant mass. The book's picture is:",
+      "opts": [
+        "Crohn's disease with ileocolitis",
+        "Ulcerative proctitis",
+        "Intestinal tuberculosis",
+        "Irritable bowel syndrome"
+      ],
+      "ans": 0,
+      "exp": "Crohn's ileocolitis: episodic right lower quadrant pain relieved with diarrhea, fever, weight loss, systemic symptoms, obstruction, palpable inflammatory mass. (Book p38)"
+    },
+    {
+      "id": "MED-C6-33",
+      "sec": "Endoscopy & Cross Sectional Imaging in Crohn's",
+      "page": 39,
+      "fmt": "recall",
+      "q": "The target sign on barium enema is:",
+      "opts": [
+        "Mucosal ulcers with a surrounding translucent mound of edema",
+        "A narrowed fibrosed segment",
+        "A hypervascular mesentery",
+        "A fatty middle layer in the bowel wall"
+      ],
+      "ans": 0,
+      "exp": "Barium enema: target sign — mucosal ulcers with a surrounding translucent mound of edema. (Book p39)"
+    },
+    {
+      "id": "MED-C6-34",
+      "sec": "Endoscopy & Cross Sectional Imaging in Crohn's",
+      "page": 39,
+      "fmt": "recall",
+      "q": "The target sign is described as the:",
+      "opts": [
+        "Earliest radiological and endoscopic finding",
+        "Most specific sign of fistula",
+        "Sign of toxic megacolon",
+        "Late fibrotic change"
+      ],
+      "ans": 0,
+      "exp": "The target sign is the earliest radiological and endoscopic finding. (Book p39)"
+    },
+    {
+      "id": "MED-C6-35",
+      "sec": "Endoscopy & Cross Sectional Imaging in Crohn's",
+      "page": 39,
+      "fmt": "recall",
+      "q": "Rose thorn ulcers, fissures and the string sign are grouped as reflecting:",
+      "opts": [
+        "Transmural ulcers",
+        "Mucosal ulcers only",
+        "Ischaemic ulcers",
+        "Infectious ulcers"
+      ],
+      "ans": 0,
+      "exp": "Rose thorn ulcers, fissures and the string sign reflect transmural ulcers. (Book p39)"
+    },
+    {
+      "id": "MED-C6-36",
+      "sec": "Endoscopy & Cross Sectional Imaging in Crohn's",
+      "page": 39,
+      "fmt": "recall",
+      "q": "The string sign represents:",
+      "opts": [
+        "Fibrosed bowel",
+        "Active mucosal inflammation",
+        "A fistulous track",
+        "Mesenteric oedema"
+      ],
+      "ans": 0,
+      "exp": "String sign: fibrosed bowel. (Book p39)"
+    },
+    {
+      "id": "MED-C6-37",
+      "sec": "Endoscopy & Cross Sectional Imaging in Crohn's",
+      "page": 39,
+      "fmt": "recall",
+      "q": "The role of CT scan in inflammatory bowel disease is:",
+      "opts": [
+        "Limited, with MR enterography preferred instead",
+        "The investigation of choice",
+        "Used only for dysplasia surveillance",
+        "Used only in ulcerative colitis"
+      ],
+      "ans": 0,
+      "exp": "CT scan has a limited role in the diagnosis of IBD; MR enterography is preferred instead. (Book p39)"
+    },
+    {
+      "id": "MED-C6-38",
+      "sec": "Endoscopy & Cross Sectional Imaging in Crohn's",
+      "page": 39,
+      "fmt": "match",
+      "q": "Match the CT sign to its printed meaning — 1) Target appearance 2) Comb sign 3) Fat halo sign … A) Hypervascular mesentery B) Inner and outer soft tissue attenuation with a fatty middle layer C) Colonic wall thickening",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Target appearance reflects colonic wall thickening; the comb sign reflects a hypervascular mesentery; the fat halo sign shows inner and outer soft tissue attenuation with a fatty middle layer. (Book p39)"
+    },
+    {
+      "id": "MED-C6-39",
+      "sec": "Endoscopy & Cross Sectional Imaging in Crohn's",
+      "page": 39,
+      "fmt": "recall",
+      "q": "The comb sign in Crohn's disease indicates:",
+      "opts": [
+        "Hypervascular mesentery",
+        "Fibrosed stricture",
+        "Transmural ulceration",
+        "Bowel wall fat deposition"
+      ],
+      "ans": 0,
+      "exp": "Comb sign in Crohn's disease: hypervascular mesentery. (Book p39)"
+    },
+    {
+      "id": "MED-C6-40",
+      "sec": "Endoscopy & Cross Sectional Imaging in Crohn's",
+      "page": 39,
+      "fmt": "recall",
+      "q": "In the fat halo sign the middle layer shows:",
+      "opts": [
+        "Fatty attenuation",
+        "Soft tissue attenuation",
+        "Calcification",
+        "Air"
+      ],
+      "ans": 0,
+      "exp": "Fat halo sign: inner and outer layers show soft tissue attenuation, the middle layer fatty attenuation. (Book p39)"
+    },
+    {
+      "id": "MED-C6-41",
+      "sec": "Endoscopy & Cross Sectional Imaging in Crohn's",
+      "page": 39,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one is not a listed CT scan finding in inflammatory bowel disease:",
+      "opts": [
+        "Sinus tract",
+        "Target appearance",
+        "Comb sign",
+        "Fat halo sign"
+      ],
+      "ans": 0,
+      "exp": "CT scan findings listed: target appearance from colonic wall thickening, comb sign and fat halo sign. Sinus tract appears among the barium enema images. (Book p39)"
+    },
+    {
+      "id": "MED-C6-42",
+      "sec": "Intestinal Tuberculosis versus Crohn's Disease",
+      "page": 40,
+      "fmt": "match",
+      "q": "Match the feature to the Crohn's disease finding — 1) Ileocaecal valve 2) Colon 3) Ulcers … A) Four or more segments, especially terminal ileum and ileocaecal valve B) Longitudinal C) Commonly involved",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Crohn's disease: ileocaecal valve commonly involved; four or more segments especially terminal ileum and ileocaecal valve; longitudinal ulcers. (Book p40)"
+    },
+    {
+      "id": "MED-C6-43",
+      "sec": "Intestinal Tuberculosis versus Crohn's Disease",
+      "page": 40,
+      "fmt": "match",
+      "q": "Match the feature to the intestinal tuberculosis finding — 1) Ileocaecal valve 2) Colon 3) Ulcers … A) Fewer than four segments, especially ileocaecal valve and ascending colon B) Transverse C) Usually strictured and patulous",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Intestinal tuberculosis: ileocaecal valve usually strictured and patulous; fewer than four segments especially ileocaecal valve and ascending colon; transverse ulcers. (Book p40)"
+    },
+    {
+      "id": "MED-C6-44",
+      "sec": "Intestinal Tuberculosis versus Crohn's Disease",
+      "page": 40,
+      "fmt": "recall",
+      "q": "Cobblestone appearance, aphthous lesions and perianal lesions are:",
+      "opts": [
+        "Frequent in Crohn's disease and rare in intestinal tuberculosis",
+        "Frequent in intestinal tuberculosis and rare in Crohn's disease",
+        "Equally frequent in both",
+        "Absent in both"
+      ],
+      "ans": 0,
+      "exp": "Cobblestone appearance, aphthous lesions and perianal lesions are frequent in Crohn's disease and rare in intestinal tuberculosis. (Book p40)"
+    },
+    {
+      "id": "MED-C6-45",
+      "sec": "Intestinal Tuberculosis versus Crohn's Disease",
+      "page": 40,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — in the book's comparison, transverse ulcers with a usually strictured and patulous ileocaecal valve favour intestinal tuberculosis over Crohn's disease.",
+      "opts": [
+        "True — transverse ulcers and a strictured patulous valve favour tuberculosis",
+        "False — those findings favour Crohn's disease",
+        "False — the valve is never involved in tuberculosis",
+        "True — but only when more than four segments are involved"
+      ],
+      "ans": 0,
+      "exp": "Intestinal tuberculosis: transverse ulcers, usually strictured and patulous ileocaecal valve, fewer than four segments, perianal lesions rare. (Book p40)"
+    },
+    {
+      "id": "MED-C6-46",
+      "sec": "Intestinal Tuberculosis versus Crohn's Disease",
+      "page": 40,
+      "fmt": "scenario",
+      "q": "A patient with ileocaecal disease has transverse ulcers, a patulous but usually strictured ileocaecal valve and involvement of fewer than four segments. The book favours:",
+      "opts": [
+        "Intestinal tuberculosis",
+        "Crohn's disease",
+        "Ulcerative colitis",
+        "Behcet's disease"
+      ],
+      "ans": 0,
+      "exp": "Intestinal tuberculosis: transverse ulcers, usually strictured and patulous ileocaecal valve, fewer than four segments especially ileocaecal valve and ascending colon, perianal lesions rare. (Book p40)"
+    },
+    {
+      "id": "MED-C6-47",
+      "sec": "Extraintestinal Manifestations of IBD",
+      "page": 40,
+      "fmt": "recall",
+      "q": "Most extraintestinal manifestations of inflammatory bowel disease are most common in:",
+      "opts": [
+        "Crohn's disease",
+        "Ulcerative colitis",
+        "Microscopic colitis",
+        "Diversion colitis"
+      ],
+      "ans": 0,
+      "exp": "Most extraintestinal manifestations are most common in Crohn's disease. (Book p40)"
+    },
+    {
+      "id": "MED-C6-48",
+      "sec": "Extraintestinal Manifestations of IBD",
+      "page": 40,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one is not listed as most common in ulcerative colitis:",
+      "opts": [
+        "Erythema nodosum",
+        "Uveitis",
+        "Primary sclerosing cholangitis",
+        "Pyoderma gangrenosum"
+      ],
+      "ans": 0,
+      "exp": "Listed as most common in ulcerative colitis: uveitis, primary sclerosing cholangitis and pyoderma gangrenosum. Erythema nodosum is not in that list. (Book p40)"
+    },
+    {
+      "id": "MED-C6-49",
+      "sec": "Extraintestinal Manifestations of IBD",
+      "page": 40,
+      "fmt": "match",
+      "q": "Match the eye manifestation to its printed descriptor — 1) Episcleritis 2) Uveitis … A) More dangerous, can lead to loss of vision, unrelated to bowel activity B) Extension of conjunctivitis, parallels bowel activity",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Episcleritis is an extension of conjunctivitis and parallels bowel activity; uveitis is more dangerous, can lead to loss of vision and is unrelated to bowel activity. (Book p40)"
+    },
+    {
+      "id": "MED-C6-50",
+      "sec": "Extraintestinal Manifestations of IBD",
+      "page": 40,
+      "fmt": "recall",
+      "q": "Erythema nodosum is described by the book as:",
+      "opts": [
+        "Painful, pretibial papules",
+        "Painless, truncal nodules",
+        "Pruritic vesicles on the extensor surface",
+        "Painless palmar macules"
+      ],
+      "ans": 0,
+      "exp": "Erythema nodosum: painful, pretibial papules. (Book p40)"
+    },
+    {
+      "id": "MED-C6-51",
+      "sec": "Extraintestinal Manifestations of IBD",
+      "page": 40,
+      "fmt": "match",
+      "q": "Match the arthritis pattern to its printed descriptor — 1) Peripheral arthritis type I 2) Peripheral arthritis type II … A) Ankylosing spondylitis like axial arthritis, unrelated to bowel activity B) Large joint migratory asymmetrical pauciarticular arthritis, parallels bowel activity",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Peripheral arthritis type I is large joint migratory asymmetrical pauciarticular arthritis that parallels bowel activity; type II is ankylosing spondylitis like axial arthritis unrelated to bowel activity. (Book p40)"
+    },
+    {
+      "id": "MED-C6-52",
+      "sec": "Extraintestinal Manifestations of IBD",
+      "page": 40,
+      "fmt": "recall",
+      "q": "Peripheral arthritis type I in inflammatory bowel disease:",
+      "opts": [
+        "Parallels bowel activity",
+        "Is unrelated to bowel activity",
+        "Only occurs after colectomy",
+        "Is erosive and deforming"
+      ],
+      "ans": 0,
+      "exp": "Peripheral arthritis type I parallels bowel activity. (Book p40)"
+    },
+    {
+      "id": "MED-C6-53",
+      "sec": "Extraintestinal Manifestations of IBD",
+      "page": 40,
+      "fmt": "recall",
+      "q": "Which of the following skin lesions is listed among the manifestations of inflammatory bowel disease?",
+      "opts": [
+        "Pyoderma vegetans",
+        "Erythema multiforme",
+        "Psoriasis",
+        "Dermatitis herpetiformis"
+      ],
+      "ans": 0,
+      "exp": "Skin lesions listed: erythema nodosum, pyoderma gangrenosum, pyoderma vegetans, aphthous ulcers and Sweet syndrome. (Book p40)"
+    },
+    {
+      "id": "MED-C6-54",
+      "sec": "Extraintestinal Manifestations of IBD",
+      "page": 40,
+      "fmt": "scenario",
+      "q": "A patient with quiescent colitis develops large joint migratory asymmetrical pauciarticular arthritis that flares whenever the bowel symptoms flare. The book's type is:",
+      "opts": [
+        "Peripheral arthritis type I",
+        "Peripheral arthritis type II",
+        "Ankylosing spondylitis",
+        "Septic arthritis"
+      ],
+      "ans": 0,
+      "exp": "Peripheral arthritis type I: large joint migratory asymmetrical pauciarticular arthritis that parallels bowel activity. (Book p40)"
+    },
+    {
+      "id": "MED-C6-55",
+      "sec": "Others, Other Investigations & Serology",
+      "page": 41,
+      "fmt": "recall",
+      "q": "Primary sclerosing cholangitis in inflammatory bowel disease is:",
+      "opts": [
+        "Most common in ulcerative colitis",
+        "Most common in Crohn's disease",
+        "Equally common in both",
+        "Not associated with IBD"
+      ],
+      "ans": 0,
+      "exp": "Primary sclerosing cholangitis is most common in ulcerative colitis. (Book p41)"
+    },
+    {
+      "id": "MED-C6-56",
+      "sec": "Others, Other Investigations & Serology",
+      "page": 41,
+      "fmt": "recall",
+      "q": "Primary sclerosing cholangitis is described as fibrosing destruction of:",
+      "opts": [
+        "Intra and extrahepatic bile ducts",
+        "Only the intrahepatic ducts",
+        "Only the extrahepatic ducts",
+        "The portal vein"
+      ],
+      "ans": 0,
+      "exp": "Primary sclerosing cholangitis: fibrosing destruction of intra and extrahepatic bile ducts. (Book p41)"
+    },
+    {
+      "id": "MED-C6-57",
+      "sec": "Others, Other Investigations & Serology",
+      "page": 41,
+      "fmt": "numeric",
+      "q": "What proportion of patients with primary sclerosing cholangitis are ulcerative colitis positive?",
+      "opts": [
+        "Two thirds",
+        "One third",
+        "5%",
+        "90%"
+      ],
+      "ans": 0,
+      "exp": "Two thirds of patients with primary sclerosing cholangitis are ulcerative colitis positive. (Book p41)"
+    },
+    {
+      "id": "MED-C6-58",
+      "sec": "Others, Other Investigations & Serology",
+      "page": 41,
+      "fmt": "numeric",
+      "q": "What proportion of patients with ulcerative colitis are primary sclerosing cholangitis positive?",
+      "opts": [
+        "5%",
+        "Two thirds",
+        "50%",
+        "95%"
+      ],
+      "ans": 0,
+      "exp": "5% of patients with ulcerative colitis are primary sclerosing cholangitis positive. (Book p41)"
+    },
+    {
+      "id": "MED-C6-59",
+      "sec": "Others, Other Investigations & Serology",
+      "page": 41,
+      "fmt": "recall",
+      "q": "The stones listed under OTHERS in inflammatory bowel disease are:",
+      "opts": [
+        "Cholelithiasis and oxalate nephrolithiasis",
+        "Struvite renal stones only",
+        "Pigment gallstones only",
+        "Salivary calculi"
+      ],
+      "ans": 0,
+      "exp": "Stones: cholelithiasis and nephrolithiasis of the oxalate type. (Book p41)"
+    },
+    {
+      "id": "MED-C6-60",
+      "sec": "Others, Other Investigations & Serology",
+      "page": 41,
+      "fmt": "match",
+      "q": "Match the OTHERS item to its printed content — 1) Musculoskeletal 2) Liver 3) Vascular … A) Steatosis B) Increased risk of thromboembolism C) Osteopenia and osteoporosis",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Musculoskeletal: osteopenia and osteoporosis; liver: steatosis; vascular: increased risk of thromboembolism. (Book p41)"
+    },
+    {
+      "id": "MED-C6-61",
+      "sec": "Others, Other Investigations & Serology",
+      "page": 41,
+      "fmt": "numeric",
+      "q": "Osteopenia and osteoporosis are reported in what proportion of patients as most common?",
+      "opts": [
+        "More than 40%",
+        "More than 4%",
+        "More than 90%",
+        "Less than 1%"
+      ],
+      "ans": 0,
+      "exp": "Musculoskeletal: osteopenia and osteoporosis, most common in more than 40% of patients. (Book p41)"
+    },
+    {
+      "id": "MED-C6-62",
+      "sec": "Others, Other Investigations & Serology",
+      "page": 41,
+      "fmt": "recall",
+      "q": "Osteopenia and osteoporosis in inflammatory bowel disease are attributed to:",
+      "opts": [
+        "Long term drug use",
+        "Vitamin A excess",
+        "Parathyroid adenoma",
+        "Renal phosphate wasting"
+      ],
+      "ans": 0,
+      "exp": "Osteopenia and osteoporosis occur due to long term drug use. (Book p41)"
+    },
+    {
+      "id": "MED-C6-63",
+      "sec": "Others, Other Investigations & Serology",
+      "page": 41,
+      "fmt": "recall",
+      "q": "Fecal calprotectin and lactoferrin help to differentiate:",
+      "opts": [
+        "IBD relapse from infectious large bowel diarrhea",
+        "Ulcerative colitis from Crohn's disease",
+        "Irritable bowel syndrome from microscopic colitis",
+        "Dysplasia from carcinoma"
+      ],
+      "ans": 0,
+      "exp": "Fecal calprotectin and lactoferrin help differentiate IBD relapse from infectious large bowel diarrhea. (Book p41)"
+    },
+    {
+      "id": "MED-C6-64",
+      "sec": "Others, Other Investigations & Serology",
+      "page": 41,
+      "fmt": "recall",
+      "q": "Levels of fecal calprotectin and lactoferrin are:",
+      "opts": [
+        "Increased in IBD relapse",
+        "Decreased in IBD relapse",
+        "Unchanged in IBD relapse",
+        "Only raised in infection"
+      ],
+      "ans": 0,
+      "exp": "Levels of fecal calprotectin and lactoferrin are increased in IBD relapse. (Book p41)"
+    },
+    {
+      "id": "MED-C6-65",
+      "sec": "Others, Other Investigations & Serology",
+      "page": 41,
+      "fmt": "recall",
+      "q": "Relapse is identified by:",
+      "opts": [
+        "Fecal calprotectin and lactoferrin, and correlation with extraintestinal manifestations",
+        "Serology alone",
+        "Barium enema alone",
+        "Liver function tests alone"
+      ],
+      "ans": 0,
+      "exp": "Relapse is identified by fecal calprotectin and lactoferrin, and by correlation with extraintestinal manifestations. (Book p41)"
+    },
+    {
+      "id": "MED-C6-66",
+      "sec": "Others, Other Investigations & Serology",
+      "page": 41,
+      "fmt": "match",
+      "q": "Match the serological marker to its printed meaning — 1) ASCA 2) Omp-C 3) APB 4) Anti-Ia … A) Anti-pancreatic antibody B) Elevated levels mean bad prognosis and need for surgery C) Anti-Saccharomyces cerevisiae antibody D) Outer membrane porin C antibody",
+      "opts": [
+        "1-C, 2-D, 3-A, 4-B",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-C, 2-A, 3-D, 4-B"
+      ],
+      "ans": 0,
+      "exp": "ASCA is anti-Saccharomyces cerevisiae antibody; Omp-C is outer membrane porin C antibody; APB is anti-pancreatic antibody; anti-Ia elevated means bad prognosis and need for surgery. (Book p41)"
+    },
+    {
+      "id": "MED-C6-67",
+      "sec": "Others, Other Investigations & Serology",
+      "page": 41,
+      "fmt": "recall",
+      "q": "Elevated anti-Ia in Crohn's disease indicates:",
+      "opts": [
+        "Bad prognosis and need for surgery",
+        "Imminent response to steroids",
+        "Coexistent celiac disease",
+        "Resolution of inflammation"
+      ],
+      "ans": 0,
+      "exp": "Anti-Ia elevated means bad prognosis and need for surgery. (Book p41)"
+    },
+    {
+      "id": "MED-C6-68",
+      "sec": "Others, Other Investigations & Serology",
+      "page": 41,
+      "fmt": "recall",
+      "q": "Atypical p-ANCA in ulcerative colitis:",
+      "opts": [
+        "Correlates with disease activity",
+        "Predicts the need for colectomy",
+        "Is diagnostic on its own",
+        "Is unrelated to the disease"
+      ],
+      "ans": 0,
+      "exp": "Ulcerative colitis serology: atypical p-ANCA correlates with disease activity. (Book p41)"
+    },
+    {
+      "id": "MED-C6-69",
+      "sec": "Others, Other Investigations & Serology",
+      "page": 41,
+      "fmt": "recall",
+      "q": "ASCA is common to Crohn's disease and:",
+      "opts": [
+        "Behcet's disease",
+        "Ulcerative colitis",
+        "Celiac disease",
+        "Whipple's disease"
+      ],
+      "ans": 0,
+      "exp": "Note: ASCA is common to Crohn's disease and Behcet's disease. (Book p41)"
+    },
+    {
+      "id": "MED-C6-70",
+      "sec": "Others, Other Investigations & Serology",
+      "page": 41,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one is not listed under Crohn's disease serology:",
+      "opts": [
+        "Anti-goblet cell antibody",
+        "ASCA",
+        "Omp-C",
+        "Anti-flagellin"
+      ],
+      "ans": 0,
+      "exp": "Crohn's disease serology: ASCA, Omp-C, APB, anti-Ia and anti-flagellin. Anti-goblet cell antibody is listed under ulcerative colitis. (Book p41)"
+    },
+    {
+      "id": "MED-C6-71",
+      "sec": "Truelove And Witt's Classification",
+      "page": 42,
+      "fmt": "match",
+      "q": "Match the Truelove and Witt's grade to its printed stool criterion — 1) Mild 2) Moderate 3) Severe … A) Fewer than four stools per day B) More than ten stools per day with blood C) Between mild and severe",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Mild: fewer than four stools per day; moderate: between mild and severe; severe: more than ten stools per day with blood. (Book p42)"
+    },
+    {
+      "id": "MED-C6-72",
+      "sec": "Truelove And Witt's Classification",
+      "page": 42,
+      "fmt": "numeric",
+      "q": "The stool frequency that defines mild ulcerative colitis is:",
+      "opts": [
+        "Fewer than four stools per day",
+        "Fewer than ten stools per day",
+        "More than ten stools per day",
+        "Exactly four stools per day"
+      ],
+      "ans": 0,
+      "exp": "Mild ulcerative colitis: fewer than four stools per day. (Book p42)"
+    },
+    {
+      "id": "MED-C6-73",
+      "sec": "Truelove And Witt's Classification",
+      "page": 42,
+      "fmt": "numeric",
+      "q": "The stool frequency that defines severe ulcerative colitis is:",
+      "opts": [
+        "More than ten stools per day with blood",
+        "More than four stools per day",
+        "Fewer than four stools per day",
+        "More than twenty stools per day"
+      ],
+      "ans": 0,
+      "exp": "Severe ulcerative colitis: more than ten stools per day with blood. (Book p42)"
+    },
+    {
+      "id": "MED-C6-74",
+      "sec": "Truelove And Witt's Classification",
+      "page": 42,
+      "fmt": "numeric",
+      "q": "The fever threshold for severe ulcerative colitis is:",
+      "opts": [
+        "Above 37.5 °C",
+        "Above 38.5 °C",
+        "Above 39.5 °C",
+        "Any documented fever"
+      ],
+      "ans": 0,
+      "exp": "Severe ulcerative colitis: fever above 37.5 °C. (Book p42)"
+    },
+    {
+      "id": "MED-C6-75",
+      "sec": "Truelove And Witt's Classification",
+      "page": 42,
+      "fmt": "numeric",
+      "q": "The heart rate threshold listed for severe ulcerative colitis is:",
+      "opts": [
+        "Above 90 per minute",
+        "Above 100 per minute",
+        "Above 120 per minute",
+        "Above 60 per minute"
+      ],
+      "ans": 0,
+      "exp": "Severe ulcerative colitis: heart rate above 90 per minute. (Book p42)"
+    },
+    {
+      "id": "MED-C6-76",
+      "sec": "Truelove And Witt's Classification",
+      "page": 42,
+      "fmt": "numeric",
+      "q": "The anemia threshold for severe ulcerative colitis is a hemoglobin below:",
+      "opts": [
+        "75% of normal",
+        "50% of normal",
+        "90% of normal",
+        "10 g/dL in every case"
+      ],
+      "ans": 0,
+      "exp": "Severe ulcerative colitis: anemia with hemoglobin below 75% of normal. (Book p42)"
+    },
+    {
+      "id": "MED-C6-77",
+      "sec": "Truelove And Witt's Classification",
+      "page": 42,
+      "fmt": "numeric",
+      "q": "The ESR threshold that separates severe from mild ulcerative colitis is:",
+      "opts": [
+        "30 mm per hour",
+        "10 mm per hour",
+        "50 mm per hour",
+        "100 mm per hour"
+      ],
+      "ans": 0,
+      "exp": "Mild ulcerative colitis has ESR below 30 mm per hour; severe disease has ESR above 30 mm per hour. (Book p42)"
+    },
+    {
+      "id": "MED-C6-78",
+      "sec": "Truelove And Witt's Classification",
+      "page": 42,
+      "fmt": "recall",
+      "q": "Mild ulcerative colitis is characterised by:",
+      "opts": [
+        "No fever, no tachycardia and mild anemia",
+        "High fever and tachycardia",
+        "More than ten bloody stools per day",
+        "Peritoneal signs"
+      ],
+      "ans": 0,
+      "exp": "Mild ulcerative colitis: fewer than four stools per day, no fever, no tachycardia, mild anemia, ESR below 30 mm per hour. (Book p42)"
+    },
+    {
+      "id": "MED-C6-79",
+      "sec": "Truelove And Witt's Classification",
+      "page": 42,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one is not a Truelove and Witt's severe criterion:",
+      "opts": [
+        "ESR below 30 mm per hour",
+        "More than ten stools per day with blood",
+        "Fever above 37.5 °C",
+        "Heart rate above 90 per minute"
+      ],
+      "ans": 0,
+      "exp": "Severe criteria: more than ten stools per day with blood, fever above 37.5 °C, heart rate above 90 per minute, hemoglobin below 75% of normal, ESR above 30 mm per hour. (Book p42)"
+    },
+    {
+      "id": "MED-C6-80",
+      "sec": "Medical Management of Ulcerative Colitis",
+      "page": 42,
+      "fmt": "recall",
+      "q": "The mainstay of treatment in ulcerative colitis is:",
+      "opts": [
+        "5-aminosalicylic acid",
+        "Corticosteroids",
+        "Colectomy",
+        "Total parenteral nutrition"
+      ],
+      "ans": 0,
+      "exp": "5-ASA (aminosalicylic acid) is the mainstay of treatment. (Book p42)"
+    },
+    {
+      "id": "MED-C6-81",
+      "sec": "Medical Management of Ulcerative Colitis",
+      "page": 42,
+      "fmt": "fillup",
+      "q": "Plain 5-ASA is absorbed at the small intestine and therefore does not reach the ____.",
+      "opts": [
+        "rectum",
+        "duodenum",
+        "stomach",
+        "liver"
+      ],
+      "ans": 0,
+      "exp": "Disadvantage of plain 5-ASA: absorbed at the small intestine, so it does not reach the rectum, the site of active disease. (Book p42)"
+    },
+    {
+      "id": "MED-C6-82",
+      "sec": "Medical Management of Ulcerative Colitis",
+      "page": 42,
+      "fmt": "recall",
+      "q": "Delayed or controlled release 5-ASA, that is mesalamine, is the drug of choice for:",
+      "opts": [
+        "Mild ulcerative colitis",
+        "Severe fulminant colitis",
+        "Toxic megacolon",
+        "Maintenance after colectomy"
+      ],
+      "ans": 0,
+      "exp": "Mesalamine is a delayed or controlled release 5-ASA and is the drug of choice for mild ulcerative colitis. (Book p42)"
+    },
+    {
+      "id": "MED-C6-83",
+      "sec": "Medical Management of Ulcerative Colitis",
+      "page": 42,
+      "fmt": "match",
+      "q": "Match the ulcerative colitis severity to its printed induction therapy — 1) Mild 2) Moderate 3) Severe … A) Oral mesalamine and oral steroids B) Intravenous steroid C) Topical 5-ASA or oral mesalamine",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Induction: mild disease gets topical 5-ASA or oral mesalamine; moderate disease gets oral mesalamine and oral steroids; severe disease gets intravenous steroid. (Book p42)"
+    },
+    {
+      "id": "MED-C6-84",
+      "sec": "Medical Management of Ulcerative Colitis",
+      "page": 42,
+      "fmt": "recall",
+      "q": "Maintenance therapy in mild ulcerative colitis is:",
+      "opts": [
+        "Topical 5-ASA",
+        "Oral prednisolone",
+        "Intravenous cyclosporine",
+        "No treatment"
+      ],
+      "ans": 0,
+      "exp": "Maintenance: mild ulcerative colitis is maintained on topical 5-ASA. (Book p42)"
+    },
+    {
+      "id": "MED-C6-85",
+      "sec": "Medical Management of Ulcerative Colitis",
+      "page": 42,
+      "fmt": "recall",
+      "q": "Steroid resistant or refractory moderate ulcerative colitis is treated with:",
+      "opts": [
+        "Azathioprine or 6-mercaptopurine",
+        "Increasing doses of oral steroids",
+        "Colectomy",
+        "Topical 5-ASA alone"
+      ],
+      "ans": 0,
+      "exp": "Steroid resistant or refractory moderate ulcerative colitis: azathioprine or 6-mercaptopurine. (Book p42)"
+    },
+    {
+      "id": "MED-C6-86",
+      "sec": "Medical Management of Ulcerative Colitis",
+      "page": 42,
+      "fmt": "recall",
+      "q": "Severe ulcerative colitis is induced with:",
+      "opts": [
+        "Intravenous steroid, intravenous anti-TNF-alpha or intravenous cyclosporine",
+        "Topical 5-ASA alone",
+        "Oral budesonide alone",
+        "Mesalamine enemas alone"
+      ],
+      "ans": 0,
+      "exp": "Severe ulcerative colitis induction: intravenous steroid, intravenous anti-TNF-alpha or intravenous cyclosporine. (Book p42)"
+    },
+    {
+      "id": "MED-C6-87",
+      "sec": "Medical Management of Ulcerative Colitis",
+      "page": 42,
+      "fmt": "recall",
+      "q": "Maintenance in severe ulcerative colitis is with:",
+      "opts": [
+        "Azathioprine or 6-mercaptopurine, low dose anti-TNF-alpha or oral cyclosporine",
+        "Topical 5-ASA alone",
+        "Long term high dose prednisolone",
+        "No maintenance required"
+      ],
+      "ans": 0,
+      "exp": "Severe ulcerative colitis maintenance: azathioprine or 6-mercaptopurine, low dose anti-TNF-alpha or oral cyclosporine. (Book p42)"
+    },
+    {
+      "id": "MED-C6-88",
+      "sec": "Medical Management of Ulcerative Colitis",
+      "page": 42,
+      "fmt": "scenario",
+      "q": "A patient with severe ulcerative colitis settles after intravenous steroid and now needs maintenance. According to the book you would choose:",
+      "opts": [
+        "Azathioprine or 6-mercaptopurine",
+        "Topical 5-ASA alone",
+        "Oral budesonide 9 mg per day",
+        "No maintenance"
+      ],
+      "ans": 0,
+      "exp": "Severe ulcerative colitis maintenance: azathioprine or 6-mercaptopurine, low dose anti-TNF-alpha or oral cyclosporine. (Book p42)"
+    },
+    {
+      "id": "MED-C6-89",
+      "sec": "Sulfasalazine & Surgery in Ulcerative Colitis",
+      "page": 43,
+      "fmt": "fillup",
+      "q": "Sulfasalazine is 5-ASA linked to a carrier molecule called ____.",
+      "opts": [
+        "sulfapyridine",
+        "mesalamine",
+        "olsalazine",
+        "balsalazide"
+      ],
+      "ans": 0,
+      "exp": "Sulfasalazine: 5-ASA plus sulfapyridine as the carrier. (Book p43)"
+    },
+    {
+      "id": "MED-C6-90",
+      "sec": "Sulfasalazine & Surgery in Ulcerative Colitis",
+      "page": 43,
+      "fmt": "recall",
+      "q": "Sulfasalazine is absorbed at the:",
+      "opts": [
+        "Rectum",
+        "Stomach",
+        "Duodenum",
+        "Oesophagus"
+      ],
+      "ans": 0,
+      "exp": "Sulfasalazine: 5-ASA plus sulfapyridine carrier, absorbed at the rectum. (Book p43)"
+    },
+    {
+      "id": "MED-C6-91",
+      "sec": "Sulfasalazine & Surgery in Ulcerative Colitis",
+      "page": 43,
+      "fmt": "recall",
+      "q": "The note 'G6PD deficiency, no longer used' appears against:",
+      "opts": [
+        "Sulfasalazine",
+        "Mesalamine",
+        "Azathioprine",
+        "Budesonide"
+      ],
+      "ans": 0,
+      "exp": "Sulfasalazine note: G6PD deficiency means it is no longer used. (Book p43)"
+    },
+    {
+      "id": "MED-C6-92",
+      "sec": "Sulfasalazine & Surgery in Ulcerative Colitis",
+      "page": 43,
+      "fmt": "recall",
+      "q": "The side effects listed for azathioprine are:",
+      "opts": [
+        "Hepatotoxicity, bone marrow suppression and pancreatitis",
+        "Nephrotoxicity and ototoxicity",
+        "Pulmonary fibrosis and alopecia",
+        "Cardiomyopathy and cataract"
+      ],
+      "ans": 0,
+      "exp": "Side effects of azathioprine: hepatotoxicity, bone marrow suppression and pancreatitis. (Book p43)"
+    },
+    {
+      "id": "MED-C6-93",
+      "sec": "Sulfasalazine & Surgery in Ulcerative Colitis",
+      "page": 43,
+      "fmt": "recall",
+      "q": "The surgical procedure listed for ulcerative colitis is:",
+      "opts": [
+        "Proctocolectomy with ileoanal anastomosis",
+        "Segmental colectomy",
+        "Stricturoplasty",
+        "Loop ileostomy alone"
+      ],
+      "ans": 0,
+      "exp": "Surgical management of ulcerative colitis: proctocolectomy with ileoanal anastomosis. (Book p43)"
+    },
+    {
+      "id": "MED-C6-94",
+      "sec": "Sulfasalazine & Surgery in Ulcerative Colitis",
+      "page": 43,
+      "fmt": "recall",
+      "q": "Which of the following is a listed indication for surgery in ulcerative colitis?",
+      "opts": [
+        "Medically refractory disease",
+        "Perianal fistula",
+        "Asymptomatic proctitis",
+        "Mild arthralgia"
+      ],
+      "ans": 0,
+      "exp": "Indications for surgery in ulcerative colitis: colonic dysplasia or carcinoma, uncontrollable colonic hemorrhage, colonic perforation, toxic megacolon and medically refractory disease. (Book p43)"
+    },
+    {
+      "id": "MED-C6-95",
+      "sec": "Sulfasalazine & Surgery in Ulcerative Colitis",
+      "page": 43,
+      "fmt": "match",
+      "q": "Match the surgical indication to its printed wording — 1) Bleeding 2) Perforation 3) Neoplasia … A) Colonic perforation B) Uncontrollable colonic hemorrhage C) Colonic dysplasia or carcinoma",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Surgical indications: uncontrollable colonic hemorrhage, colonic perforation and colonic dysplasia or carcinoma, plus toxic megacolon and medically refractory disease. (Book p43)"
+    },
+    {
+      "id": "MED-C6-96",
+      "sec": "Sulfasalazine & Surgery in Ulcerative Colitis",
+      "page": 43,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one is not a listed indication for surgery in ulcerative colitis:",
+      "opts": [
+        "Perianal fistula",
+        "Toxic megacolon",
+        "Colonic perforation",
+        "Colonic dysplasia or carcinoma"
+      ],
+      "ans": 0,
+      "exp": "Indications for surgery in ulcerative colitis: toxic megacolon, colonic perforation, uncontrollable colonic hemorrhage, colonic dysplasia or carcinoma and medically refractory disease. Perianal fistula is not listed. (Book p43)"
+    },
+    {
+      "id": "MED-C6-97",
+      "sec": "Crohn's Disease: Grading & Medical Management",
+      "page": 43,
+      "fmt": "match",
+      "q": "Match the Crohn's disease severity grade to its printed descriptor — 1) Mild-moderate 2) Moderate-severe 3) Severe-fulminant … A) Between mild and severe B) No dehydration, no obstruction, no weight loss and no systemic features C) Despite steroid intake the patient has fever, cachexia, obstruction and peritoneal signs",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Mild-moderate: no dehydration, no obstruction, no weight loss, no systemic features. Moderate-severe: between mild and severe. Severe-fulminant: despite steroid intake the patient has fever, cachexia, obstruction and peritoneal signs. (Book p43)"
+    },
+    {
+      "id": "MED-C6-98",
+      "sec": "Crohn's Disease: Grading & Medical Management",
+      "page": 43,
+      "fmt": "recall",
+      "q": "Severe-fulminant Crohn's disease is defined by the book as:",
+      "opts": [
+        "Persistence of fever, cachexia, obstruction and peritoneal signs despite steroid intake",
+        "Any obstruction at presentation",
+        "Weight loss alone",
+        "Response to oral budesonide"
+      ],
+      "ans": 0,
+      "exp": "Severe-fulminant: despite steroid intake the patient has fever, cachexia, obstruction and peritoneal signs. (Book p43)"
+    },
+    {
+      "id": "MED-C6-99",
+      "sec": "Crohn's Disease: Grading & Medical Management",
+      "page": 43,
+      "fmt": "recall",
+      "q": "The objectives of medical management in Crohn's disease are:",
+      "opts": [
+        "Endoscopic mucosal healing and prevention of complications such as strictures and fistulae",
+        "Complete eradication of the disease",
+        "Weight gain alone",
+        "Normalisation of serology"
+      ],
+      "ans": 0,
+      "exp": "Objectives: endoscopic mucosal healing and prevention of complications such as strictures and fistulae. (Book p43)"
+    },
+    {
+      "id": "MED-C6-100",
+      "sec": "Crohn's Disease: Grading & Medical Management",
+      "page": 43,
+      "fmt": "recall",
+      "q": "Corticosteroids in Crohn's disease carry a high risk of:",
+      "opts": [
+        "Dependency and resistance",
+        "Hepatotoxicity",
+        "Bone marrow suppression",
+        "Pancreatitis"
+      ],
+      "ans": 0,
+      "exp": "Corticosteroids carry a high risk of dependency and resistance. (Book p43)"
+    },
+    {
+      "id": "MED-C6-101",
+      "sec": "Crohn's Disease: Grading & Medical Management",
+      "page": 43,
+      "fmt": "recall",
+      "q": "The anti-TNF agents listed for Crohn's disease are:",
+      "opts": [
+        "Infliximab, adalimumab and certolizumab pegol",
+        "Natalizumab, vedolizumab and ustekinumab",
+        "Rituximab and tocilizumab",
+        "Secukinumab and ixekizumab"
+      ],
+      "ans": 0,
+      "exp": "Biologics: anti-TNF agents are infliximab, adalimumab and certolizumab pegol. (Book p43)"
+    },
+    {
+      "id": "MED-C6-102",
+      "sec": "Crohn's Disease: Grading & Medical Management",
+      "page": 43,
+      "fmt": "recall",
+      "q": "Biologics play an important role in:",
+      "opts": [
+        "Continuously active disease and prolonged symptomatic remission",
+        "Asymptomatic disease",
+        "Acute infective diarrhea",
+        "Perianal skin tags alone"
+      ],
+      "ans": 0,
+      "exp": "Biologics play an important role in the treatment of continuously active disease and prolonged symptomatic remission. (Book p43)"
+    },
+    {
+      "id": "MED-C6-103",
+      "sec": "Crohn's Disease: Grading & Medical Management",
+      "page": 43,
+      "fmt": "recall",
+      "q": "Which drug class is listed among the drugs used in Crohn's disease?",
+      "opts": [
+        "Immunomodulators",
+        "Statins",
+        "Proton pump inhibitors",
+        "Bisphosphonates"
+      ],
+      "ans": 0,
+      "exp": "Drugs listed for Crohn's disease: antibiotics, corticosteroids, 5-ASA, immunomodulators and biologics. (Book p43)"
+    },
+    {
+      "id": "MED-C6-104",
+      "sec": "Crohn's Disease: Management by Severity",
+      "page": 44,
+      "fmt": "fillup",
+      "q": "Mild-moderate Crohn's disease is induced with oral ____ at 9 mg per day.",
+      "opts": [
+        "budesonide",
+        "prednisolone",
+        "mesalamine",
+        "methotrexate"
+      ],
+      "ans": 0,
+      "exp": "Mild-moderate Crohn's disease induction: oral budesonide 9 mg per day. (Book p44)"
+    },
+    {
+      "id": "MED-C6-105",
+      "sec": "Crohn's Disease: Management by Severity",
+      "page": 44,
+      "fmt": "numeric",
+      "q": "The dose of oral budesonide used for induction in mild-moderate Crohn's disease is:",
+      "opts": [
+        "9 mg per day",
+        "90 mg per day",
+        "3 mg per day",
+        "40 mg per day"
+      ],
+      "ans": 0,
+      "exp": "Oral budesonide 9 mg per day for mild-moderate Crohn's disease. (Book p44)"
+    },
+    {
+      "id": "MED-C6-106",
+      "sec": "Crohn's Disease: Management by Severity",
+      "page": 44,
+      "fmt": "recall",
+      "q": "Maintenance therapy in mild-moderate Crohn's disease is:",
+      "opts": [
+        "Not required",
+        "Azathioprine",
+        "Periodic anti-TNF-alpha",
+        "Oral 5-ASA"
+      ],
+      "ans": 0,
+      "exp": "Mild-moderate Crohn's disease: maintenance is not required. (Book p44)"
+    },
+    {
+      "id": "MED-C6-107",
+      "sec": "Crohn's Disease: Management by Severity",
+      "page": 44,
+      "fmt": "match",
+      "q": "Match the Crohn's severity to the printed induction steroid — 1) Mild-moderate 2) Moderate-severe 3) Severe-fulminant … A) Intravenous steroids B) Oral budesonide C) Oral steroids",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Induction: mild-moderate gets oral budesonide, moderate-severe gets oral steroids, severe-fulminant gets intravenous steroids. (Book p44)"
+    },
+    {
+      "id": "MED-C6-108",
+      "sec": "Crohn's Disease: Management by Severity",
+      "page": 44,
+      "fmt": "recall",
+      "q": "Maintenance in severe-fulminant Crohn's disease is:",
+      "opts": [
+        "Periodic anti-TNF-alpha",
+        "Not required",
+        "Oral budesonide",
+        "Topical 5-ASA"
+      ],
+      "ans": 0,
+      "exp": "Severe-fulminant Crohn's disease maintenance: periodic anti-TNF-alpha. (Book p44)"
+    },
+    {
+      "id": "MED-C6-109",
+      "sec": "Crohn's Disease: Management by Severity",
+      "page": 44,
+      "fmt": "recall",
+      "q": "Maintenance in moderate-severe Crohn's disease is with:",
+      "opts": [
+        "Azathioprine or 6-mercaptopurine",
+        "Oral budesonide",
+        "Topical 5-ASA",
+        "No treatment"
+      ],
+      "ans": 0,
+      "exp": "Moderate-severe Crohn's disease maintenance: azathioprine or 6-mercaptopurine. (Book p44)"
+    },
+    {
+      "id": "MED-C6-110",
+      "sec": "Crohn's Disease: Management by Severity",
+      "page": 44,
+      "fmt": "recall",
+      "q": "Fistulizing Crohn's disease is managed with:",
+      "opts": [
+        "Anti-TNF-alpha with or without immunomodulators, followed by surgery",
+        "Oral budesonide alone",
+        "Antibiotics alone",
+        "No intervention"
+      ],
+      "ans": 0,
+      "exp": "Fistulizing disease: anti-TNF-alpha with or without immunomodulators followed by surgery. (Book p44)"
+    },
+    {
+      "id": "MED-C6-111",
+      "sec": "Crohn's Disease: Management by Severity",
+      "page": 44,
+      "fmt": "recall",
+      "q": "The drug listed in moderate-severe Crohn's disease alongside azathioprine and anti-TNF-alpha is:",
+      "opts": [
+        "Methotrexate",
+        "Cyclosporine",
+        "Tacrolimus",
+        "Cyclophosphamide"
+      ],
+      "ans": 0,
+      "exp": "Moderate-severe Crohn's disease drugs: oral steroids, azathioprine or 6-mercaptopurine, methotrexate, anti-TNF-alpha and periodic anti-TNF-alpha. (Book p44)"
+    },
+    {
+      "id": "MED-C6-112",
+      "sec": "Crohn's Disease: Management by Severity",
+      "page": 44,
+      "fmt": "recall",
+      "q": "The note on maintenance therapy in Crohn's disease advises avoiding:",
+      "opts": [
+        "Smoking and NSAIDs",
+        "Exercise and fibre",
+        "Dairy and gluten",
+        "Vaccinations"
+      ],
+      "ans": 0,
+      "exp": "Note: avoid smoking and NSAIDs. (Book p44)"
+    },
+    {
+      "id": "MED-C6-113",
+      "sec": "Crohn's Disease: Management by Severity",
+      "page": 44,
+      "fmt": "recall",
+      "q": "The drugs to be avoided in maintenance therapy of Crohn's disease are:",
+      "opts": [
+        "Oral 5-ASA, corticosteroids and budesonide",
+        "Azathioprine and 6-mercaptopurine",
+        "Anti-TNF agents and methotrexate",
+        "Antibiotics and biologics"
+      ],
+      "ans": 0,
+      "exp": "Drugs to be avoided in maintenance therapy: oral 5-ASA, corticosteroids and budesonide. (Book p44)"
+    },
+    {
+      "id": "MED-C6-114",
+      "sec": "Crohn's Disease: Management by Severity",
+      "page": 44,
+      "fmt": "match",
+      "q": "Match the newer drug to its printed target — 1) Natalizumab 2) Ustekinumab 3) Vedolizumab … A) Anti-IL-12 and IL-23 B) Anti-alpha-4 integrin C) Anti-integrin",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Newer drugs: natalizumab is anti-alpha-4 integrin, ustekinumab is anti-IL-12 and IL-23, vedolizumab is anti-integrin. (Book p44)"
+    },
+    {
+      "id": "MED-C6-115",
+      "sec": "Crohn's Disease: Management by Severity",
+      "page": 44,
+      "fmt": "recall",
+      "q": "Natalizumab is:",
+      "opts": [
+        "An anti-alpha-4 integrin antibody",
+        "An anti-IL-12 and IL-23 antibody",
+        "An anti-TNF agent",
+        "An anti-integrin antibody"
+      ],
+      "ans": 0,
+      "exp": "Newer drugs: natalizumab is anti-alpha-4 integrin. (Book p44)"
+    },
+    {
+      "id": "MED-C6-116",
+      "sec": "Crohn's Disease: Management by Severity",
+      "page": 44,
+      "fmt": "scenario",
+      "q": "A patient with moderate-severe ileocolonic Crohn's disease is in remission after oral steroids. The book's maintenance choice is:",
+      "opts": [
+        "Azathioprine or 6-mercaptopurine",
+        "Oral budesonide",
+        "Topical 5-ASA",
+        "No maintenance"
+      ],
+      "ans": 0,
+      "exp": "Moderate-severe Crohn's disease maintenance: azathioprine or 6-mercaptopurine. (Book p44)"
+    },
+    {
+      "id": "MED-C6-117",
+      "sec": "Malignancy in IBD",
+      "page": 45,
+      "fmt": "recall",
+      "q": "The risk of malignancy in inflammatory bowel disease is:",
+      "opts": [
+        "Present in both ulcerative colitis and Crohn's disease",
+        "Confined to ulcerative colitis",
+        "Confined to Crohn's disease",
+        "Negligible in both"
+      ],
+      "ans": 0,
+      "exp": "Risk of malignancy is present in both ulcerative colitis and Crohn's disease. (Book p45)"
+    },
+    {
+      "id": "MED-C6-118",
+      "sec": "Malignancy in IBD",
+      "page": 45,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one is not listed as an increased malignancy risk in inflammatory bowel disease:",
+      "opts": [
+        "Gastric carcinoma",
+        "Non-Hodgkin's lymphoma",
+        "Leukemia",
+        "Myelodysplastic syndrome"
+      ],
+      "ans": 0,
+      "exp": "Increased risk: non-Hodgkin's lymphoma, leukemia, myelodysplastic syndrome and cholangiocarcinoma. Gastric carcinoma is not listed. (Book p45)"
+    },
+    {
+      "id": "MED-C6-119",
+      "sec": "Malignancy in IBD",
+      "page": 45,
+      "fmt": "recall",
+      "q": "Cholangiocarcinoma in inflammatory bowel disease is attributed to the association with:",
+      "opts": [
+        "Primary sclerosing cholangitis",
+        "Chronic hepatitis B",
+        "Alcoholic liver disease",
+        "Gallstones"
+      ],
+      "ans": 0,
+      "exp": "Cholangiocarcinoma occurs due to the association with primary sclerosing cholangitis. (Book p45)"
+    },
+    {
+      "id": "MED-C6-120",
+      "sec": "Malignancy in IBD",
+      "page": 45,
+      "fmt": "match",
+      "q": "Match the sporadic colorectal carcinoma feature to the IBD related carcinoma feature — 1) Age of onset 2) Genetic sequence 3) Site of lesion … A) Adenoma to carcinoma sequence B) Any segment of diseased colon C) Ten to fifteen years younger",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Sporadic carcinoma presents after 50 years; IBD related carcinoma presents ten to fifteen years younger, follows an inflammation-dysplasia-carcinoma sequence in sporadic terms, and arises in any segment of diseased colon. (Book p45)"
+    },
+    {
+      "id": "MED-C6-121",
+      "sec": "Malignancy in IBD",
+      "page": 45,
+      "fmt": "numeric",
+      "q": "The age of onset quoted for sporadic colorectal carcinoma is:",
+      "opts": [
+        "Above 50 years",
+        "Above 30 years",
+        "Above 70 years",
+        "Below 20 years"
+      ],
+      "ans": 0,
+      "exp": "Sporadic colorectal carcinoma: age of onset above 50 years. (Book p45)"
+    },
+    {
+      "id": "MED-C6-122",
+      "sec": "Malignancy in IBD",
+      "page": 45,
+      "fmt": "numeric",
+      "q": "IBD related colorectal carcinoma presents how much earlier than sporadic carcinoma?",
+      "opts": [
+        "Ten to fifteen years younger",
+        "One to two years younger",
+        "Thirty years younger",
+        "At the same age"
+      ],
+      "ans": 0,
+      "exp": "IBD related carcinoma: ten to fifteen years younger. (Book p45)"
+    },
+    {
+      "id": "MED-C6-123",
+      "sec": "Malignancy in IBD",
+      "page": 45,
+      "fmt": "numeric",
+      "q": "The five year survival rate quoted in the comparison table is:",
+      "opts": [
+        "50% for both",
+        "90% for sporadic and 50% for IBD related",
+        "50% for sporadic and 90% for IBD related",
+        "Unknown for both"
+      ],
+      "ans": 0,
+      "exp": "Five year survival rate: 50% for both sporadic and IBD related carcinoma. (Book p45)"
+    },
+    {
+      "id": "MED-C6-124",
+      "sec": "Malignancy in IBD",
+      "page": 45,
+      "fmt": "recall",
+      "q": "The pathological feature of IBD related carcinoma is:",
+      "opts": [
+        "Signet ring cell carcinoma",
+        "Adenocarcinoma",
+        "Squamous cell carcinoma",
+        "Carcinoid tumour"
+      ],
+      "ans": 0,
+      "exp": "IBD related carcinoma is a signet ring cell carcinoma; sporadic carcinoma is an adenocarcinoma. (Book p45)"
+    },
+    {
+      "id": "MED-C6-125",
+      "sec": "Malignancy in IBD",
+      "page": 45,
+      "fmt": "recall",
+      "q": "Sporadic colorectal carcinoma is:",
+      "opts": [
+        "Common on the left side",
+        "Equally distributed",
+        "Confined to the rectum",
+        "Confined to the caecum"
+      ],
+      "ans": 0,
+      "exp": "Sporadic colorectal carcinoma is common on the left side. (Book p45)"
+    },
+    {
+      "id": "MED-C6-126",
+      "sec": "Malignancy in IBD",
+      "page": 45,
+      "fmt": "recall",
+      "q": "Mutation timing in sporadic colorectal carcinoma is:",
+      "opts": [
+        "APC mutation early and p53 mutation late",
+        "p53 mutation early and APC mutation late",
+        "Both mutations early",
+        "Both mutations late"
+      ],
+      "ans": 0,
+      "exp": "Sporadic colorectal carcinoma: APC mutation early, p53 mutation late. (Book p45)"
+    },
+    {
+      "id": "MED-C6-127",
+      "sec": "Malignancy in IBD",
+      "page": 45,
+      "fmt": "recall",
+      "q": "Mutation timing in IBD related carcinoma is:",
+      "opts": [
+        "p53 mutation early and APC mutation late",
+        "APC mutation early and p53 mutation late",
+        "Both mutations early",
+        "Both mutations late"
+      ],
+      "ans": 0,
+      "exp": "IBD related carcinoma: p53 mutation early, APC mutation late. (Book p45)"
+    },
+    {
+      "id": "MED-C6-128",
+      "sec": "Malignancy in IBD",
+      "page": 45,
+      "fmt": "scenario",
+      "q": "A patient with long-standing colitis develops a signet ring cell carcinoma in a segment of diseased colon at 38 years of age. Compared with sporadic carcinoma the book would describe this as:",
+      "opts": [
+        "Ten to fifteen years younger, arising in any segment of diseased colon",
+        "Typical sporadic left sided adenocarcinoma",
+        "Unrelated to the colitis",
+        "Due to APC mutation occurring early"
+      ],
+      "ans": 0,
+      "exp": "IBD related carcinoma: ten to fifteen years younger, signet ring cell type, any segment of diseased colon, inflammation-dysplasia-carcinoma sequence with p53 early and APC late. (Book p45)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U6-1",
+      "ch": 6,
+      "n": 1,
+      "title": "Ulcerative Colitis: Clinical Features",
+      "sec": "Ulcerative Colitis: Clinical Features",
+      "guide": "Features are described by the level of involvement: proctitis, proctosigmoiditis and proctocolitis.\nProctitis gives painless bleeding per rectum (differential: hemorrhoids and malignancies); proctosigmoiditis gives streaks of blood onto formed stool; proctocolitis gives large bowel diarrhea with small frequent stools containing blood, pus and mucus, plus tenesmus.\nPhysical examination is normal, slow proximal transit causes constipation, systemic symptoms are very rare because the lineage is Th2, and 90% have a relapsing course.",
+      "qs": [
+        "MED-C6-01",
+        "MED-C6-02",
+        "MED-C6-03",
+        "MED-C6-04",
+        "MED-C6-05",
+        "MED-C6-06",
+        "MED-C6-07",
+        "MED-C6-08",
+        "MED-C6-09"
+      ]
+    },
+    {
+      "id": "MED-U6-2",
+      "ch": 6,
+      "n": 2,
+      "title": "Fecal Calprotectin & Endoscopy in UC",
+      "sec": "Fecal Calprotectin & Endoscopy in UC",
+      "guide": "Fecal calprotectin is the most sensitive biomarker and is used to assess severity, treatment response and relapse.\nEndoscopy shows symmetrical, superficial, continuous involvement.\nErythematous red velvety mucosa is earliest; vascularity is decreased; the mucosa shows ulcerations with fine granulations and friability; inflammatory pseudopolyps and, very rarely, a lead pipe colon.",
+      "qs": [
+        "MED-C6-10",
+        "MED-C6-11",
+        "MED-C6-12",
+        "MED-C6-13",
+        "MED-C6-14",
+        "MED-C6-15",
+        "MED-C6-16"
+      ]
+    },
+    {
+      "id": "MED-U6-3",
+      "ch": 6,
+      "n": 3,
+      "title": "Radiology: Barium Enema in UC",
+      "sec": "Radiology: Barium Enema in UC",
+      "guide": "Barium enema is the radiological heading for ulcerative colitis.\nFine mucosal granularities are the earliest change, followed by serrations giving a hazy margin, mild luminal narrowing and loss of rectal valves.\nDeep ulcers reaching the submucosa give collar stud ulcers; backwash ileitis inflames the terminal ileum; chronic disease gives a lead pipe and fulminant disease toxic megacolon.",
+      "qs": [
+        "MED-C6-17",
+        "MED-C6-18",
+        "MED-C6-19",
+        "MED-C6-20",
+        "MED-C6-21",
+        "MED-C6-22",
+        "MED-C6-23"
+      ]
+    },
+    {
+      "id": "MED-U6-4",
+      "ch": 6,
+      "n": 4,
+      "title": "Crohn's Disease: Clinical Features",
+      "sec": "Crohn's Disease: Clinical Features",
+      "guide": "Ileocolitis is the commonest pattern: episodic right lower quadrant pain relieved by diarrhea.\nFever, weight loss and systemic symptoms reflect the Th1 profile with IL-2 and interferon gamma.\nJejunoileitis causes malabsorption; a palpable inflammatory mass comes from bowel wall thickening; obstruction, enterovesical more than perianal fistulas, and fissures progressing to fibrosed strictures complete the list.",
+      "qs": [
+        "MED-C6-24",
+        "MED-C6-25",
+        "MED-C6-26",
+        "MED-C6-27",
+        "MED-C6-28",
+        "MED-C6-29",
+        "MED-C6-30",
+        "MED-C6-31",
+        "MED-C6-32"
+      ]
+    },
+    {
+      "id": "MED-U6-5",
+      "ch": 6,
+      "n": 5,
+      "title": "Endoscopy & Cross Sectional Imaging in Crohn's",
+      "sec": "Endoscopy & Cross Sectional Imaging in Crohn's",
+      "guide": "The target sign, mucosal ulcers with a translucent mound of edema, is the earliest radiological and endoscopic finding.\nRose thorn ulcers, fissures and the string sign reflect transmural disease; the string sign itself is fibrosed bowel.\nCT has a limited role because MR enterography is preferred: target appearance from wall thickening, comb sign from a hypervascular mesentery, and fat halo sign with soft tissue inner and outer layers around a fatty middle layer.",
+      "qs": [
+        "MED-C6-33",
+        "MED-C6-34",
+        "MED-C6-35",
+        "MED-C6-36",
+        "MED-C6-37",
+        "MED-C6-38",
+        "MED-C6-39",
+        "MED-C6-40",
+        "MED-C6-41"
+      ]
+    },
+    {
+      "id": "MED-U6-6",
+      "ch": 6,
+      "n": 6,
+      "title": "Intestinal Tuberculosis versus Crohn's Disease",
+      "sec": "Intestinal Tuberculosis versus Crohn's Disease",
+      "guide": "Crohn's: ileocaecal valve commonly involved, four or more segments especially terminal ileum and ileocaecal valve, longitudinal ulcers, and frequent cobblestoning, aphthous and perianal lesions.\nTuberculosis: ileocaecal valve usually strictured and patulous, fewer than four segments especially ileocaecal valve and ascending colon, transverse ulcers, and rare cobblestoning, aphthous and perianal lesions.\nTransverse ulcers plus a patulous strictured valve with fewer than four segments is the tuberculosis pattern.",
+      "qs": [
+        "MED-C6-42",
+        "MED-C6-43",
+        "MED-C6-44",
+        "MED-C6-45",
+        "MED-C6-46"
+      ]
+    },
+    {
+      "id": "MED-U6-7",
+      "ch": 6,
+      "n": 7,
+      "title": "Extraintestinal Manifestations of IBD",
+      "sec": "Extraintestinal Manifestations of IBD",
+      "guide": "Most extraintestinal manifestations are most common in Crohn's disease; uveitis, primary sclerosing cholangitis and pyoderma gangrenosum are most common in ulcerative colitis.\nEye: episcleritis extends from conjunctivitis and parallels bowel activity; uveitis is more dangerous, can cause vision loss and is unrelated to bowel activity.\nSkin: painful pretibial papules of erythema nodosum, pyoderma gangrenosum, pyoderma vegetans, aphthous ulcers and Sweet syndrome. Joints: type I pauciarticular arthritis parallels the bowel; type II axial arthritis does not.",
+      "qs": [
+        "MED-C6-47",
+        "MED-C6-48",
+        "MED-C6-49",
+        "MED-C6-50",
+        "MED-C6-51",
+        "MED-C6-52",
+        "MED-C6-53",
+        "MED-C6-54"
+      ]
+    },
+    {
+      "id": "MED-U6-8",
+      "ch": 6,
+      "n": 8,
+      "title": "Others, Other Investigations & Serology",
+      "sec": "Others, Other Investigations & Serology",
+      "guide": "Primary sclerosing cholangitis is most common in ulcerative colitis and fibroses intra and extrahepatic ducts; two thirds of PSC patients have UC and 5% of UC patients have PSC.\nOthers: gallstones and oxalate renal stones, osteopenia and osteoporosis in over 40% from long term drug use, hepatic steatosis and raised thromboembolic risk.\nFecal calprotectin and lactoferrin separate relapse from infectious diarrhea and rise during relapse. Serology: p-ANCA and anti-goblet cell antibody for UC; ASCA, Omp-C, anti-pancreatic antibody, anti-Ia and anti-flagellin for Crohn's.",
+      "qs": [
+        "MED-C6-55",
+        "MED-C6-56",
+        "MED-C6-57",
+        "MED-C6-58",
+        "MED-C6-59",
+        "MED-C6-60",
+        "MED-C6-61",
+        "MED-C6-62",
+        "MED-C6-63",
+        "MED-C6-64",
+        "MED-C6-65",
+        "MED-C6-66",
+        "MED-C6-67",
+        "MED-C6-68",
+        "MED-C6-69",
+        "MED-C6-70"
+      ]
+    },
+    {
+      "id": "MED-U6-9",
+      "ch": 6,
+      "n": 9,
+      "title": "Truelove And Witt's Classification",
+      "sec": "Truelove And Witt's Classification",
+      "guide": "Mild: fewer than four stools per day, no fever, no tachycardia, mild anemia, ESR below 30 mm per hour.\nModerate sits between mild and severe.\nSevere: more than ten stools per day with blood, fever above 37.5 °C, heart rate above 90, hemoglobin below 75% of normal and ESR above 30 mm per hour.",
+      "qs": [
+        "MED-C6-71",
+        "MED-C6-72",
+        "MED-C6-73",
+        "MED-C6-74",
+        "MED-C6-75",
+        "MED-C6-76",
+        "MED-C6-77",
+        "MED-C6-78",
+        "MED-C6-79"
+      ]
+    },
+    {
+      "id": "MED-U6-10",
+      "ch": 6,
+      "n": 10,
+      "title": "Medical Management of Ulcerative Colitis",
+      "sec": "Medical Management of Ulcerative Colitis",
+      "guide": "5-ASA is the mainstay, but plain 5-ASA is absorbed in the small intestine and never reaches the rectum; delayed release mesalamine is the drug of choice for mild disease.\nInduction: topical 5-ASA or oral mesalamine for mild, add oral steroids for moderate, intravenous steroid for severe.\nSteroid refractory moderate disease moves to azathioprine or 6-mercaptopurine; severe disease adds intravenous anti-TNF or cyclosporine, and maintenance uses azathioprine or 6-mercaptopurine with low dose anti-TNF or oral cyclosporine.",
+      "qs": [
+        "MED-C6-80",
+        "MED-C6-81",
+        "MED-C6-82",
+        "MED-C6-83",
+        "MED-C6-84",
+        "MED-C6-85",
+        "MED-C6-86",
+        "MED-C6-87",
+        "MED-C6-88"
+      ]
+    },
+    {
+      "id": "MED-U6-11",
+      "ch": 6,
+      "n": 11,
+      "title": "Sulfasalazine & Surgery in Ulcerative Colitis",
+      "sec": "Sulfasalazine & Surgery in Ulcerative Colitis",
+      "guide": "Sulfasalazine is 5-ASA carried by sulfapyridine, absorbed at the rectum, and abandoned in G6PD deficiency.\nAzathioprine side effects are hepatotoxicity, bone marrow suppression and pancreatitis.\nSurgery is proctocolectomy with ileoanal anastomosis for toxic megacolon, perforation, uncontrollable hemorrhage, dysplasia or carcinoma, and medically refractory disease.",
+      "qs": [
+        "MED-C6-89",
+        "MED-C6-90",
+        "MED-C6-91",
+        "MED-C6-92",
+        "MED-C6-93",
+        "MED-C6-94",
+        "MED-C6-95",
+        "MED-C6-96"
+      ]
+    },
+    {
+      "id": "MED-U6-12",
+      "ch": 6,
+      "n": 12,
+      "title": "Crohn's Disease: Grading & Medical Management",
+      "sec": "Crohn's Disease: Grading & Medical Management",
+      "guide": "Grading: mild-moderate has no dehydration, obstruction, weight loss or systemic features; moderate-severe lies between; severe-fulminant means fever, cachexia, obstruction and peritoneal signs despite steroids.\nObjectives are endoscopic mucosal healing and prevention of strictures and fistulae.\nDrugs: antibiotics, corticosteroids with their dependency risk, 5-ASA, immunomodulators and biologics such as infliximab, adalimumab and certolizumab pegol.",
+      "qs": [
+        "MED-C6-97",
+        "MED-C6-98",
+        "MED-C6-99",
+        "MED-C6-100",
+        "MED-C6-101",
+        "MED-C6-102",
+        "MED-C6-103"
+      ]
+    },
+    {
+      "id": "MED-U6-13",
+      "ch": 6,
+      "n": 13,
+      "title": "Crohn's Disease: Management by Severity",
+      "sec": "Crohn's Disease: Management by Severity",
+      "guide": "Induction: oral budesonide 9 mg per day for mild-moderate, oral steroids for moderate-severe, intravenous steroids for severe-fulminant.\nMaintenance: none for mild-moderate, azathioprine or 6-mercaptopurine for moderate-severe, periodic anti-TNF for severe-fulminant.\nFistulizing disease needs anti-TNF with or without immunomodulators then surgery; avoid smoking and NSAIDs; never maintain with oral 5-ASA, corticosteroids or budesonide. Newer agents: natalizumab, ustekinumab and vedolizumab.",
+      "qs": [
+        "MED-C6-104",
+        "MED-C6-105",
+        "MED-C6-106",
+        "MED-C6-107",
+        "MED-C6-108",
+        "MED-C6-109",
+        "MED-C6-110",
+        "MED-C6-111",
+        "MED-C6-112",
+        "MED-C6-113",
+        "MED-C6-114",
+        "MED-C6-115",
+        "MED-C6-116"
+      ]
+    },
+    {
+      "id": "MED-U6-14",
+      "ch": 6,
+      "n": 14,
+      "title": "Malignancy in IBD",
+      "sec": "Malignancy in IBD",
+      "guide": "Risk exists in both ulcerative colitis and Crohn's disease: lymphoma, leukemia, myelodysplasia and cholangiocarcinoma from primary sclerosing cholangitis.\nIBD related carcinoma arises ten to fifteen years younger, in any segment of diseased colon, as a signet ring cell carcinoma.\nGenetics invert the sporadic pattern: sporadic is APC early and p53 late, IBD related is p53 early and APC late. Five year survival is 50% for both.",
+      "qs": [
+        "MED-C6-117",
+        "MED-C6-118",
+        "MED-C6-119",
+        "MED-C6-120",
+        "MED-C6-121",
+        "MED-C6-122",
+        "MED-C6-123",
+        "MED-C6-124",
+        "MED-C6-125",
+        "MED-C6-126",
+        "MED-C6-127",
+        "MED-C6-128"
+      ]
+    }
+  ]
+}

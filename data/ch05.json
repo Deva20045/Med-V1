@@ -1,0 +1,1623 @@
+{
+  "chapter": 5,
+  "title": "Inflammatory Bowel Disease : Part 1",
+  "pageRange": "30-36",
+  "questions": [
+    {
+      "id": "MED-C5-01",
+      "sec": "Entities of IBD & Microscopic Colitis",
+      "page": 30,
+      "fmt": "recall",
+      "q": "The entities listed under inflammatory bowel disease are:",
+      "opts": [
+        "Ulcerative colitis, Crohn's disease, microscopic colitis and diversion colitis",
+        "Ulcerative colitis and Crohn's disease only",
+        "Microscopic colitis and collagenous colitis only",
+        "Infectious colitis and ischaemic colitis"
+      ],
+      "ans": 0,
+      "exp": "Entities of inflammatory bowel disease: 1. ulcerative colitis (UC), 2. Crohn's disease (CD), 3. microscopic colitis, 4. diversion colitis. (Book p30)"
+    },
+    {
+      "id": "MED-C5-02",
+      "sec": "Entities of IBD & Microscopic Colitis",
+      "page": 30,
+      "fmt": "recall",
+      "q": "The book states that currently inflammatory bowel disease includes only:",
+      "opts": [
+        "UC and CD",
+        "All four listed entities",
+        "Microscopic colitis and diversion colitis",
+        "UC and microscopic colitis"
+      ],
+      "ans": 0,
+      "exp": "Currently, inflammatory bowel disease includes only UC and CD. (Book p30)"
+    },
+    {
+      "id": "MED-C5-03",
+      "sec": "Entities of IBD & Microscopic Colitis",
+      "page": 30,
+      "fmt": "recall",
+      "q": "Microscopic colitis is associated with long-term use of:",
+      "opts": [
+        "PPI and NSAIDS",
+        "Antibiotics and steroids",
+        "Opioids and anticholinergics",
+        "Statins and metformin"
+      ],
+      "ans": 0,
+      "exp": "Microscopic colitis: associated with long-term use of PPI and NSAIDS. (Book p30)"
+    },
+    {
+      "id": "MED-C5-04",
+      "sec": "Entities of IBD & Microscopic Colitis",
+      "page": 30,
+      "fmt": "recall",
+      "q": "Microscopic colitis presents with:",
+      "opts": [
+        "Chronic, non-bloody, voluminous, watery diarrhea similar to small bowel diarrhea",
+        "Small volume bloody diarrhea with tenesmus",
+        "Steatorrhea with weight loss",
+        "Alternating constipation and obstructive episodes"
+      ],
+      "ans": 0,
+      "exp": "Microscopic colitis: chronic, non-bloody, voluminous, watery diarrhea (similar to small bowel diarrhea). (Book p30)"
+    },
+    {
+      "id": "MED-C5-05",
+      "sec": "Entities of IBD & Microscopic Colitis",
+      "page": 30,
+      "fmt": "recall",
+      "q": "Clinical examination in microscopic colitis is:",
+      "opts": [
+        "Normal",
+        "Shows a palpable mass",
+        "Shows perianal fistulae",
+        "Shows hepatosplenomegaly"
+      ],
+      "ans": 0,
+      "exp": "Microscopic colitis: on clinical examination — normal. (Book p30)"
+    },
+    {
+      "id": "MED-C5-06",
+      "sec": "Entities of IBD & Microscopic Colitis",
+      "page": 30,
+      "fmt": "recall",
+      "q": "Endoscopy in microscopic colitis is:",
+      "opts": [
+        "Normal",
+        "Shows continuous ulceration",
+        "Shows pseudopolyps",
+        "Shows cobblestoning"
+      ],
+      "ans": 0,
+      "exp": "Microscopic colitis investigations: endoscopy — normal. (Book p30)"
+    },
+    {
+      "id": "MED-C5-07",
+      "sec": "Entities of IBD & Microscopic Colitis",
+      "page": 30,
+      "fmt": "match",
+      "q": "Match the microscopic colitis pattern to its printed feature — 1) Collagenous colitis 2) Lymphocytic colitis … A) Intra-epithelial lymphocytes B) Collagen band in mucosa",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Biopsy: collagenous colitis — collagen band in mucosa; lymphocytic colitis — intra-epithelial lymphocytes. (Book p30)"
+    },
+    {
+      "id": "MED-C5-08",
+      "sec": "Entities of IBD & Microscopic Colitis",
+      "page": 30,
+      "fmt": "match",
+      "q": "Match the microscopic colitis pattern to its printed association — 1) Collagenous colitis 2) Lymphocytic colitis … A) Celiac disease B) Sjogren's syndrome",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Collagenous colitis is associated with Sjogren's syndrome; lymphocytic colitis with celiac disease. (Book p30)"
+    },
+    {
+      "id": "MED-C5-09",
+      "sec": "Entities of IBD & Microscopic Colitis",
+      "page": 30,
+      "fmt": "scenario",
+      "q": "An elderly patient on long-term PPI has chronic watery voluminous non-bloody diarrhea with a normal colonoscopy. The book's diagnosis is:",
+      "opts": [
+        "Microscopic colitis",
+        "Ulcerative colitis",
+        "Crohn's disease",
+        "Diversion colitis"
+      ],
+      "ans": 0,
+      "exp": "Microscopic colitis: long-term PPI and NSAIDS, chronic non-bloody voluminous watery diarrhea with normal endoscopy. (Book p30)"
+    },
+    {
+      "id": "MED-C5-10",
+      "sec": "Diversion Colitis & Normal Histology of Colon",
+      "page": 30,
+      "fmt": "recall",
+      "q": "Diversion colitis is seen in:",
+      "opts": [
+        "Patients using colostomy bags after surgery for bowel malignancies",
+        "Patients with ileostomy for ulcerative colitis only",
+        "Patients on long-term PPI",
+        "Patients with radiation enteritis"
+      ],
+      "ans": 0,
+      "exp": "Diversion colitis: colitis seen in patients using colostomy bags (after surgery for bowel malignancies). (Book p30)"
+    },
+    {
+      "id": "MED-C5-11",
+      "sec": "Diversion Colitis & Normal Histology of Colon",
+      "page": 30,
+      "fmt": "match",
+      "q": "Order the layers of the normal colon as printed, innermost to outermost — 1) Mucosal epithelial cells 2) Lamina propria 3) Muscularis mucosa 4) Submucosa 5) Muscularis propria 6) Serosa … A) Serosa B) Mucosal epithelial cells C) Submucosa D) Lamina propria E) Muscularis propria F) Muscularis mucosa",
+      "opts": [
+        "1-B, 2-D, 3-F, 4-C, 5-E, 6-A",
+        "1-A, 2-B, 3-C, 4-D, 5-E, 6-F",
+        "1-F, 2-E, 3-D, 4-C, 5-B, 6-A",
+        "1-B, 2-C, 3-D, 4-E, 5-F, 6-A"
+      ],
+      "ans": 0,
+      "exp": "Normal histology of colon, innnermost to outermost: mucosal epithelial cells, lamina propria, muscularis mucosa, submucosa, muscularis propria, serosa. (Book p30)"
+    },
+    {
+      "id": "MED-C5-12",
+      "sec": "Diversion Colitis & Normal Histology of Colon",
+      "page": 30,
+      "fmt": "recall",
+      "q": "In the printed layer list, the layer immediately outside the muscularis mucosa is the:",
+      "opts": [
+        "Submucosa",
+        "Muscularis propria",
+        "Lamina propria",
+        "Serosa"
+      ],
+      "ans": 0,
+      "exp": "Layers: mucosal epithelial cells → lamina propria → muscularis mucosa → submucosa → muscularis propria → serosa. (Book p30)"
+    },
+    {
+      "id": "MED-C5-13",
+      "sec": "Diversion Colitis & Normal Histology of Colon",
+      "page": 30,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one is not a printed layer of the normal colon:",
+      "opts": [
+        "Adventitia",
+        "Muscularis mucosa",
+        "Muscularis propria",
+        "Submucosa"
+      ],
+      "ans": 0,
+      "exp": "The printed layers are mucosal epithelial cells, lamina propria, muscularis mucosa, submucosa, muscularis propria and serosa. Adventitia is not listed. (Book p30)"
+    },
+    {
+      "id": "MED-C5-14",
+      "sec": "Colonic Mucosa & Definition of Diarrhea",
+      "page": 31,
+      "fmt": "recall",
+      "q": "Compared with the small intestine, the colonic mucosa has:",
+      "opts": [
+        "No villi",
+        "Long villi",
+        "Villi only in the caecum",
+        "Fused villi"
+      ],
+      "ans": 0,
+      "exp": "Mucosa: villi are absent in the colon. (Book p31)"
+    },
+    {
+      "id": "MED-C5-15",
+      "sec": "Colonic Mucosa & Definition of Diarrhea",
+      "page": 31,
+      "fmt": "recall",
+      "q": "The crypts of the colon contain microvilli whose function is:",
+      "opts": [
+        "Water absorption",
+        "Mucus secretion",
+        "Bile acid absorption",
+        "Vitamin B12 absorption"
+      ],
+      "ans": 0,
+      "exp": "Crypts: contain microvilli — water absorption. (Book p31)"
+    },
+    {
+      "id": "MED-C5-16",
+      "sec": "Colonic Mucosa & Definition of Diarrhea",
+      "page": 31,
+      "fmt": "recall",
+      "q": "Goblet cells of the colon:",
+      "opts": [
+        "Secrete mucus",
+        "Absorb water",
+        "Produce defensins",
+        "Secrete gastrin"
+      ],
+      "ans": 0,
+      "exp": "Goblet cells: secrete mucus. (Book p31)"
+    },
+    {
+      "id": "MED-C5-17",
+      "sec": "Colonic Mucosa & Definition of Diarrhea",
+      "page": 31,
+      "fmt": "numeric",
+      "q": "The note defines diarrhea as a stool volume above:",
+      "opts": [
+        ">200 mL",
+        ">100 mL",
+        ">500 mL",
+        ">1000 mL"
+      ],
+      "ans": 0,
+      "exp": "Note: diarrhea → >200 mL of stool volume. (Book p31)"
+    },
+    {
+      "id": "MED-C5-18",
+      "sec": "Epidemiology of UC and Crohn's Disease",
+      "page": 31,
+      "fmt": "recall",
+      "q": "Overall, in the epidemiology of IBD:",
+      "opts": [
+        "CD is more common than UC, and males outnumber females",
+        "UC is more common than CD, and females outnumber males",
+        "UC and CD are equally common",
+        "CD is more common but females outnumber males"
+      ],
+      "ans": 0,
+      "exp": "Epidemiology overall: CD > UC; males > females. (Book p31)"
+    },
+    {
+      "id": "MED-C5-19",
+      "sec": "Epidemiology of UC and Crohn's Disease",
+      "page": 31,
+      "fmt": "match",
+      "q": "Match the epidemiological variable to the printed UC and CD values — 1) Female:male ratio 2) Smoking 3) Appendicectomy 4) OCP … A) UC protective / CD no association B) UC males > females / CD females > males (OCP use) C) UC no increased risk / CD increased risk D) UC protective / CD causative",
+      "opts": [
+        "1-B, 2-D, 3-A, 4-C",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-A, 3-D, 4-C"
+      ],
+      "ans": 0,
+      "exp": "Female:male ratio — UC males > females, CD females > males (OCP use); smoking — UC protective, CD causative; appendicectomy — UC protective, CD no association; OCP — UC no increased risk, CD increased risk. (Book p31)"
+    },
+    {
+      "id": "MED-C5-20",
+      "sec": "Epidemiology of UC and Crohn's Disease",
+      "page": 31,
+      "fmt": "recall",
+      "q": "Smoking in IBD is:",
+      "opts": [
+        "Protective for UC and causative for CD",
+        "Causative for UC and protective for CD",
+        "Causative for both",
+        "Protective for both"
+      ],
+      "ans": 0,
+      "exp": "Smoking: UC — protective; CD — causative. (Book p31)"
+    },
+    {
+      "id": "MED-C5-21",
+      "sec": "Epidemiology of UC and Crohn's Disease",
+      "page": 31,
+      "fmt": "recall",
+      "q": "Appendicectomy is:",
+      "opts": [
+        "Protective for UC with no association for CD",
+        "Protective for both",
+        "A risk factor for both",
+        "Protective for CD only"
+      ],
+      "ans": 0,
+      "exp": "Appendicectomy: UC — protective; CD — no association. (Book p31)"
+    },
+    {
+      "id": "MED-C5-22",
+      "sec": "Epidemiology of UC and Crohn's Disease",
+      "page": 31,
+      "fmt": "recall",
+      "q": "Oral contraceptive pills carry:",
+      "opts": [
+        "Increased risk for CD but no increased risk for UC",
+        "Increased risk for UC but not CD",
+        "No increased risk for either",
+        "Increased risk for both equally"
+      ],
+      "ans": 0,
+      "exp": "OCP: UC — no increased risk; CD — increased risk. (Book p31)"
+    },
+    {
+      "id": "MED-C5-23",
+      "sec": "Epidemiology of UC and Crohn's Disease",
+      "page": 31,
+      "fmt": "recall",
+      "q": "Familial inheritance (concordance) in IBD is:",
+      "opts": [
+        "Significant, and greater for CD than UC",
+        "Not significant",
+        "Significant and greater for UC than CD",
+        "Significant but equal for both"
+      ],
+      "ans": 0,
+      "exp": "Familial inheritance (concordance): significant; CD > UC. (Book p31)"
+    },
+    {
+      "id": "MED-C5-24",
+      "sec": "Epidemiology of UC and Crohn's Disease",
+      "page": 31,
+      "fmt": "numeric",
+      "q": "Antibiotics in the first year of life increase the risk of IBD by:",
+      "opts": [
+        "3 times",
+        "30 times",
+        "1.5 times",
+        "10 times"
+      ],
+      "ans": 0,
+      "exp": "Antibiotics in 1st year of life → increases risk of IBD by 3 times. (Book p31)"
+    },
+    {
+      "id": "MED-C5-25",
+      "sec": "Epidemiology of UC and Crohn's Disease",
+      "page": 31,
+      "fmt": "recall",
+      "q": "The age distribution of IBD is described by the book as having peaks at:",
+      "opts": [
+        "15-30 years and 70-90 years",
+        "5-15 years and 40-50 years",
+        "30-45 years only (single peak)",
+        "0-5 years and 20-30 years"
+      ],
+      "ans": 0,
+      "exp": "Age: peaks at 15-30 years and 70-90 years. (Book p31)"
+    },
+    {
+      "id": "MED-C5-26",
+      "sec": "Epidemiology of UC and Crohn's Disease",
+      "page": 31,
+      "fmt": "recall",
+      "q": "The ethnicity gradient listed for IBD runs:",
+      "opts": [
+        "Jews > non-Jewish white > African American > Hispanic > Asian",
+        "Asian > Hispanic > African American > non-Jewish white > Jews",
+        "African American > non-Jewish white > Jews > Hispanic > Asian",
+        "Non-Jewish white > Jews > Hispanic > Asian > African American"
+      ],
+      "ans": 0,
+      "exp": "Ethnicity: Jews > non-Jewish white > African American > Hispanic > Asian. (Book p31)"
+    },
+    {
+      "id": "MED-C5-27",
+      "sec": "Epidemiology of UC and Crohn's Disease",
+      "page": 31,
+      "fmt": "recall",
+      "q": "Behcet's disease and Crohn's disease share a common antibody, namely:",
+      "opts": [
+        "ASCA (anti-Saccharomyces cerevisiae antibody)",
+        "p-ANCA",
+        "Anti-goblet cell antibody",
+        "Anti-OmpC"
+      ],
+      "ans": 0,
+      "exp": "Note: Behcet's disease has GI manifestations like Crohn's disease and shares a common antibody — ASCA. (Book p31)"
+    },
+    {
+      "id": "MED-C5-28",
+      "sec": "Epidemiology of UC and Crohn's Disease",
+      "page": 31,
+      "fmt": "recall",
+      "q": "Prolonged use of which drug causes features similar to ulcerative colitis?",
+      "opts": [
+        "α-methyl dopa",
+        "Methyldopa withdrawal",
+        "Isotretinoin",
+        "Mycophenolate"
+      ],
+      "ans": 0,
+      "exp": "Note: prolonged use of α-methyl dopa causes features similar to ulcerative colitis. (Book p31)"
+    },
+    {
+      "id": "MED-C5-29",
+      "sec": "Epidemiology of UC and Crohn's Disease",
+      "page": 31,
+      "fmt": "scenario",
+      "q": "A patient develops a UC-like colitis after long-term therapy for hypertension. The drug implicated in the note is:",
+      "opts": [
+        "α-methyl dopa",
+        "Amlodipine",
+        "Hydrochlorothiazide",
+        "Bisoprolol"
+      ],
+      "ans": 0,
+      "exp": "Prolonged use of α-methyl dopa causes features similar to ulcerative colitis. (Book p31)"
+    },
+    {
+      "id": "MED-C5-30",
+      "sec": "Epidemiology of UC and Crohn's Disease",
+      "page": 31,
+      "fmt": "recall",
+      "q": "Campylobacter jejuni is noted as a risk factor for IBD and also causes:",
+      "opts": [
+        "Large bowel diarrhea and Guillain Barre syndrome",
+        "Small bowel diarrhea and hemolytic uremic syndrome",
+        "Steatorrhea and osteomalacia",
+        "Toxic megacolon and perforation"
+      ],
+      "ans": 0,
+      "exp": "Campylobacter jejuni is a risk factor for IBD (also causes large bowel diarrhea, Guillain Barre syndrome). (Book p31)"
+    },
+    {
+      "id": "MED-C5-31",
+      "sec": "Genetic Syndromes Associated with IBD",
+      "page": 32,
+      "fmt": "match",
+      "q": "Match the syndrome to its printed defect or inheritance — 1) Wiskott-Aldrich syndrome 2) Hermansky-Pudlak syndrome 3) Von Gierke's disease … A) Glucose-1-phosphatase deficiency B) WASP gene mutation (X-linked recessive) C) Autosomal recessive",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Wiskott-Aldrich — WASP gene mutation (X-linked recessive); Hermansky-Pudlak — autosomal recessive; von Gierke's disease (glycogen storage disorder type I) — glucose-1-phosphatase deficiency. (Book p32)"
+    },
+    {
+      "id": "MED-C5-32",
+      "sec": "Genetic Syndromes Associated with IBD",
+      "page": 32,
+      "fmt": "recall",
+      "q": "The triad of Wiskott-Aldrich syndrome is:",
+      "opts": [
+        "Recurrent sino-pulmonary infections, recurrent eczema and recurrent thrombocytopenia with microplatelets",
+        "Recurrent infections, albinism and pulmonary fibrosis",
+        "Hypoglycemia, hepatomegaly and lactic acidosis",
+        "Dermatitis, endocrinopathy and enteropathy"
+      ],
+      "ans": 0,
+      "exp": "Wiskott-Aldrich syndrome: triad of 1. recurrent sino-pulmonary infections, 2. recurrent eczema, 3. recurrent thrombocytopenia (microplatelets). (Book p32)"
+    },
+    {
+      "id": "MED-C5-33",
+      "sec": "Genetic Syndromes Associated with IBD",
+      "page": 32,
+      "fmt": "recall",
+      "q": "The platelet abnormality in Wiskott-Aldrich syndrome is:",
+      "opts": [
+        "Recurrent thrombocytopenia with microplatelets",
+        "Platelet dysfunction with a normal count",
+        "Thrombocytosis",
+        " normal platelet function"
+      ],
+      "ans": 0,
+      "exp": "Wiskott-Aldrich: recurrent thrombocytopenia (microplatelets). (Book p32)"
+    },
+    {
+      "id": "MED-C5-34",
+      "sec": "Genetic Syndromes Associated with IBD",
+      "page": 32,
+      "fmt": "recall",
+      "q": "Hermansky-Pudlak syndrome is characterised by:",
+      "opts": [
+        "Platelet dysfunction with a normal platelet count",
+        "Thrombocytopenia with microplatelets",
+        "Thrombocytosis with bleeding",
+        "Normal platelets and normal bleeding time"
+      ],
+      "ans": 0,
+      "exp": "Hermansky-Pudlak syndrome: platelet dysfunction with normal platelet count. (Book p32)"
+    },
+    {
+      "id": "MED-C5-35",
+      "sec": "Genetic Syndromes Associated with IBD",
+      "page": 32,
+      "fmt": "recall",
+      "q": "The interstitial lung disease of Hermansky-Pudlak syndrome is:",
+      "opts": [
+        "Pulmonary fibrosis",
+        "Bronchiectasis",
+        "Hypersensitivity pneumonitis",
+        "Sarcoid-like granulomas"
+      ],
+      "ans": 0,
+      "exp": "Hermansky-Pudlak: interstitial lung disease — pulmonary fibrosis. (Book p32)"
+    },
+    {
+      "id": "MED-C5-36",
+      "sec": "Genetic Syndromes Associated with IBD",
+      "page": 32,
+      "fmt": "recall",
+      "q": "The third feature of Hermansky-Pudlak syndrome is:",
+      "opts": [
+        "Oculocutaneous albinism",
+        "Doll facies",
+        "Cerebral calcification",
+        "Hyposplenism"
+      ],
+      "ans": 0,
+      "exp": "Hermansky-Pudlak syndrome: oculocutaneous albinism. (Book p32)"
+    },
+    {
+      "id": "MED-C5-37",
+      "sec": "Genetic Syndromes Associated with IBD",
+      "page": 32,
+      "fmt": "recall",
+      "q": "The features listed for von Gierke's disease are:",
+      "opts": [
+        "Hypoglycemia with or without seizures and Doll facies, hepatomegaly, lactic acidosis, hyperuricemia and hyperlipidemia",
+        "Hypoglycemia, jaundice and renal tubular acidosis",
+        "Hyperglycemia, ketosis and dehydration",
+        "Hepatosplenomegaly with normal glucose"
+      ],
+      "ans": 0,
+      "exp": "Von Gierke's disease features: hypoglycemia ± seizures, Doll facies; hepatomegaly; lactic acidosis; hyperuricemia; hyperlipidemia. (Book p32)"
+    },
+    {
+      "id": "MED-C5-38",
+      "sec": "Genetic Syndromes Associated with IBD",
+      "page": 32,
+      "fmt": "fillup",
+      "q": "Von Gierke's disease is glycogen storage disorder type ____.",
+      "opts": [
+        "I",
+        "II",
+        "III",
+        "V"
+      ],
+      "ans": 0,
+      "exp": "Von Gierke's disease (glycogen storage disorder — type I). (Book p32)"
+    },
+    {
+      "id": "MED-C5-39",
+      "sec": "Genetic Syndromes Associated with IBD",
+      "page": 32,
+      "fmt": "recall",
+      "q": "Syndromes presenting as IBD in childhood are grouped as:",
+      "opts": [
+        "UC-like non-granulomatous versus CD-like granulomatous",
+        "Only granulomatous",
+        "Only non-granulomatous",
+        "Indistinguishable from adult onset disease"
+      ],
+      "ans": 0,
+      "exp": "Present as IBD in childhood: UC (non-granulomatous) versus CD (granulomatous). (Book p32)"
+    },
+    {
+      "id": "MED-C5-40",
+      "sec": "Genetic Syndromes Associated with IBD",
+      "page": 32,
+      "fmt": "recall",
+      "q": "The syndrome the book lists as the most common (m/c) presenting as IBD in childhood is:",
+      "opts": [
+        "Turner's syndrome",
+        "Wiskott-Aldrich syndrome",
+        "Hermansky-Pudlak syndrome",
+        "Von Gierke's disease"
+      ],
+      "ans": 0,
+      "exp": "Genetic syndromes associated with IBD: Turner's syndrome — m/c. (Book p32)"
+    },
+    {
+      "id": "MED-C5-41",
+      "sec": "Genetic Syndromes Associated with IBD",
+      "page": 32,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one is not a listed genetic syndrome associated with IBD:",
+      "opts": [
+        "Marfan syndrome",
+        "Wiskott-Aldrich syndrome",
+        "Hermansky-Pudlak syndrome",
+        "Von Gierke's disease"
+      ],
+      "ans": 0,
+      "exp": "Listed syndromes: Turner's syndrome (m/c), Wiskott-Aldrich, Hermansky-Pudlak and von Gierke's disease. Marfan syndrome is not listed. (Book p32)"
+    },
+    {
+      "id": "MED-C5-42",
+      "sec": "IPEX Syndrome & Early Onset Childhood IBD",
+      "page": 32,
+      "fmt": "recall",
+      "q": "IPEX syndrome stands for:",
+      "opts": [
+        "Immune polyendocrinopathy X-linked syndrome",
+        "Immune polyarthritis X-linked syndrome",
+        "Idiopathic polyendocrinopathy enteropathy X-linked syndrome",
+        "Immunodeficiency polyendocrinopathy X-linked syndrome"
+      ],
+      "ans": 0,
+      "exp": "IPEX: immune polyendocrinopathy X-linked syndrome. (Book p32)"
+    },
+    {
+      "id": "MED-C5-43",
+      "sec": "IPEX Syndrome & Early Onset Childhood IBD",
+      "page": 32,
+      "fmt": "fillup",
+      "q": "IPEX results from loss of ____ function causing reduced regulatory T-cell tolerance.",
+      "opts": [
+        "Foxp3",
+        "AIRE",
+        "WASP",
+        "STAT3"
+      ],
+      "ans": 0,
+      "exp": "Pathology: loss of Foxp3 function → reduced T-reg cell tolerance → IPEX syndrome. (Book p32)"
+    },
+    {
+      "id": "MED-C5-44",
+      "sec": "IPEX Syndrome & Early Onset Childhood IBD",
+      "page": 32,
+      "fmt": "recall",
+      "q": "The triad of IPEX syndrome is:",
+      "opts": [
+        "Dermatitis, endocrinopathy (type I DM / thyroiditis) and UC-like enteropathy",
+        "Eczema, thrombocytopenia and sino-pulmonary infections",
+        "Albinism, pulmonary fibrosis and colitis",
+        "Arthritis, uveitis and pyoderma gangrenosum"
+      ],
+      "ans": 0,
+      "exp": "IPEX clinical features: triad of dermatitis, endocrinopathy (type I DM / thyroiditis), UC-like enteropathy. (Book p32)"
+    },
+    {
+      "id": "MED-C5-45",
+      "sec": "IPEX Syndrome & Early Onset Childhood IBD",
+      "page": 33,
+      "fmt": "recall",
+      "q": "Management of IPEX syndrome is:",
+      "opts": [
+        "Supportive care and replacement therapy, and gene therapy",
+        "Colectomy",
+        "Gluten-free diet",
+        "Anti-TNF therapy alone"
+      ],
+      "ans": 0,
+      "exp": "IPEX management: supportive care and replacement therapy; gene therapy. (Book p33)"
+    },
+    {
+      "id": "MED-C5-46",
+      "sec": "IPEX Syndrome & Early Onset Childhood IBD",
+      "page": 33,
+      "fmt": "recall",
+      "q": "The investigation for IPEX syndrome is:",
+      "opts": [
+        "Genetic testing",
+        "Anti-TTG serology",
+        "Colonoscopic biopsy",
+        "Stool calprotectin"
+      ],
+      "ans": 0,
+      "exp": "IPEX investigations: genetic testing. (Book p33)"
+    },
+    {
+      "id": "MED-C5-47",
+      "sec": "IPEX Syndrome & Early Onset Childhood IBD",
+      "page": 33,
+      "fmt": "match",
+      "q": "Match the T-cell marker to its printed meaning — 1) CD3 2) CD25 3) CD4 … A) Helper T-cell B) Pan T-cell marker C) T-reg cell",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Markers of T-reg cell: CD3 — pan T-cell marker; CD25 — T-reg cell; CD4 — helper T-cell. (Book p33)"
+    },
+    {
+      "id": "MED-C5-48",
+      "sec": "IPEX Syndrome & Early Onset Childhood IBD",
+      "page": 33,
+      "fmt": "recall",
+      "q": "Early onset childhood IBD is associated with a defect in:",
+      "opts": [
+        "IL-10 or the IL-10 receptor",
+        "IL-17 or the IL-17 receptor",
+        "IL-4 or IL-13",
+        "Interferon gamma"
+      ],
+      "ans": 0,
+      "exp": "Early onset childhood IBD: defect in IL-10 or IL-10 receptor function. (Book p33)"
+    },
+    {
+      "id": "MED-C5-49",
+      "sec": "IPEX Syndrome & Early Onset Childhood IBD",
+      "page": 33,
+      "fmt": "recall",
+      "q": "Early onset childhood IBD presents as:",
+      "opts": [
+        "Severe refractory IBD in early life",
+        "Mild self-limiting colitis",
+        "Asymptomatic serological abnormality",
+        "Isolated perianal disease"
+      ],
+      "ans": 0,
+      "exp": "Early onset childhood IBD: severe refractory IBD in early life. (Book p33)"
+    },
+    {
+      "id": "MED-C5-50",
+      "sec": "IPEX Syndrome & Early Onset Childhood IBD",
+      "page": 33,
+      "fmt": "recall",
+      "q": "The most potent anti-inflammatory cytokine in the body, per the note, is:",
+      "opts": [
+        "IL-10",
+        "IL-4",
+        "TGF-β",
+        "IL-1 receptor antagonist"
+      ],
+      "ans": 0,
+      "exp": "Note: most potent anti-inflammatory cytokine in the body — IL-10. (Book p33)"
+    },
+    {
+      "id": "MED-C5-51",
+      "sec": "Pathogenesis of IBD",
+      "page": 33,
+      "fmt": "fillup",
+      "q": "Exogenous and endogenous factors produce a dysregulated ____ immune response in a genetically susceptible individual.",
+      "opts": [
+        "mucosal",
+        "systemic",
+        "humoral",
+        "vascular"
+      ],
+      "ans": 0,
+      "exp": "Pathogenesis of IBD: exogenous and endogenous factors → dysregulated mucosal immune response in a genetically susceptible individual. (Book p33)"
+    },
+    {
+      "id": "MED-C5-52",
+      "sec": "Pathogenesis of IBD",
+      "page": 33,
+      "fmt": "recall",
+      "q": "In ulcerative colitis the overactive adaptive immune system is described as which lineage?",
+      "opts": [
+        "Th2",
+        "Th1",
+        "Th17 only",
+        "T-reg deficiency"
+      ],
+      "ans": 0,
+      "exp": "Ulcerative colitis: overactive adaptive immune system — Th2 lineage. (Book p33)"
+    },
+    {
+      "id": "MED-C5-53",
+      "sec": "Pathogenesis of IBD",
+      "page": 33,
+      "fmt": "recall",
+      "q": "The gene polymorphism linked to Crohn's disease is:",
+      "opts": [
+        "NOD2 (CARD15) on chromosome 16",
+        "HLA DQ2",
+        "WASP",
+        "Foxp3"
+      ],
+      "ans": 0,
+      "exp": "Crohn's disease: NOD2 (CARD15) gene polymorphism on chromosome 16 in genetically susceptible individuals. (Book p33)"
+    },
+    {
+      "id": "MED-C5-54",
+      "sec": "Pathogenesis of IBD",
+      "page": 33,
+      "fmt": "recall",
+      "q": "Defective innate immunity in Crohn's disease includes decreased clearance of:",
+      "opts": [
+        "Intracellular organisms — Mycobacterium paratuberculosis and M. avium complex",
+        "Extracellular Gram negative bacilli",
+        "Fungal spores",
+        "Helminths"
+      ],
+      "ans": 0,
+      "exp": "Defective innate immunity: decreased clearance of intracellular organisms (Mycobacterium paratuberculosis, M. avium complex). (Book p33)"
+    },
+    {
+      "id": "MED-C5-55",
+      "sec": "Pathogenesis of IBD",
+      "page": 33,
+      "fmt": "recall",
+      "q": "Another innate defect listed for Crohn's disease is:",
+      "opts": [
+        "Decreased defensin production from Paneth cells",
+        "Increased defensin production from Paneth cells",
+        "Loss of Paneth cells",
+        "Paneth cell metaplasia in the rectum"
+      ],
+      "ans": 0,
+      "exp": "Defective innate immunity: decreased defensin production from Paneth cells. (Book p33)"
+    },
+    {
+      "id": "MED-C5-56",
+      "sec": "Pathogenesis of IBD",
+      "page": 33,
+      "fmt": "match",
+      "q": "Match the Crohn's disease pathogenic step to its printed content — 1) Defective innate immunity 2) Defective autophagy 3) Overactive adaptive immunity 4) Altered microbiota … A) Decrease in gut bacteria like Faecalibacterium (gut protective) B) Decreased clearance of intracellular organisms C) Th1 lineage D) Autophagy defect",
+      "opts": [
+        "1-B, 2-D, 3-C, 4-A",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-A, 3-D, 4-C"
+      ],
+      "ans": 0,
+      "exp": "Defective innate immunity: decreased clearance of intracellular organisms and decreased defensin from Paneth cells; defective autophagy; overactive adaptive immune system (Th1 lineage); decrease in protective gut bacteria such as Faecalibacterium. (Book p33)"
+    },
+    {
+      "id": "MED-C5-57",
+      "sec": "Pathogenesis of IBD",
+      "page": 33,
+      "fmt": "recall",
+      "q": "The protective gut bacterium noted as decreased in Crohn's disease is:",
+      "opts": [
+        "Faecalibacterium",
+        "Bacteroides fragilis",
+        "Escherichia coli",
+        "Lactobacillus"
+      ],
+      "ans": 0,
+      "exp": "Decrease in gut bacteria like Faecalibacterium (gut protective). (Book p33)"
+    },
+    {
+      "id": "MED-C5-58",
+      "sec": "Pathogenesis of IBD",
+      "page": 33,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — the book attributes the adaptive immune overactivity of Crohn's disease to the Th1 lineage.",
+      "opts": [
+        "True — Th1 lineage in Crohn's disease",
+        "False — Crohn's disease is Th2 mediated",
+        "False — the lineage is not identified",
+        "True — but Th2 is also overactive"
+      ],
+      "ans": 0,
+      "exp": "Overactive adaptive immune system (Th lineage: Crohn's disease) — Th1. (Book p33)"
+    },
+    {
+      "id": "MED-C5-59",
+      "sec": "Ulcerative Colitis: Site & Macroscopy",
+      "page": 34,
+      "fmt": "numeric",
+      "q": "The rectum alone is the site of involvement in ulcerative colitis in what proportion?",
+      "opts": [
+        "50%",
+        "5%",
+        "90%",
+        "15%"
+      ],
+      "ans": 0,
+      "exp": "Site of involvement — ulcerative colitis: rectum alone 50%. (Book p34)"
+    },
+    {
+      "id": "MED-C5-60",
+      "sec": "Ulcerative Colitis: Site & Macroscopy",
+      "page": 34,
+      "fmt": "recall",
+      "q": "The macroscopy of ulcerative colitis is described as:",
+      "opts": [
+        "Hemorrhagic, edematous, ulcerated mucosa with a granular surface",
+        "Normal mucosa with patchy skip lesions",
+        "Cobblestone mucosa with creeping fat",
+        "Transmural fissuring with strictures"
+      ],
+      "ans": 0,
+      "exp": "Macroscopy: hemorrhagic, edematous, ulcerated mucosa with granular surface. (Book p34)"
+    },
+    {
+      "id": "MED-C5-61",
+      "sec": "Ulcerative Colitis: Site & Macroscopy",
+      "page": 34,
+      "fmt": "fillup",
+      "q": "Pseudopolyps in ulcerative colitis are inflammatory polyps due to epithelial ____.",
+      "opts": [
+        "regeneration",
+        "metaplasia",
+        "dysplasia",
+        "necrosis"
+      ],
+      "ans": 0,
+      "exp": "Pseudopolyps: inflammatory polyp d/t epithelial regeneration. (Book p34)"
+    },
+    {
+      "id": "MED-C5-62",
+      "sec": "Ulcerative Colitis: Site & Macroscopy",
+      "page": 34,
+      "fmt": "recall",
+      "q": "The lead pipe appearance of the colon is:",
+      "opts": [
+        "Atrophic and featureless, seen in chronic long-standing UC (rare)",
+        "The typical finding of acute severe UC",
+        "Caused by transmural fibrosis",
+        "Pathognomonic of Crohn's colitis"
+      ],
+      "ans": 0,
+      "exp": "Chronic long-standing UC (rare): lead pipe appearance (atrophic, featureless colon). (Book p34)"
+    },
+    {
+      "id": "MED-C5-63",
+      "sec": "Ulcerative Colitis: Site & Macroscopy",
+      "page": 34,
+      "fmt": "match",
+      "q": "Match the lead pipe features as printed — 1) Feature a 2) Feature b … A) Shortening and narrowing of colon B) Loss of haustrations",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Lead pipe appearance: a. loss of haustrations; b. shortening and narrowing of colon. (Book p34)"
+    },
+    {
+      "id": "MED-C5-64",
+      "sec": "Ulcerative Colitis: Site & Macroscopy",
+      "page": 34,
+      "fmt": "numeric",
+      "q": "Toxic megacolon in fulminant colitis is defined by a colon diameter above:",
+      "opts": [
+        ">6 cm",
+        ">3 cm",
+        ">10 cm",
+        ">15 cm"
+      ],
+      "ans": 0,
+      "exp": "Fulminant colitis (very rare): toxic megacolon (colon diameter >6 cm). (Book p34)"
+    },
+    {
+      "id": "MED-C5-65",
+      "sec": "Ulcerative Colitis: Site & Macroscopy",
+      "page": 34,
+      "fmt": "recall",
+      "q": "Fulminant colitis with toxic megacolon is described as:",
+      "opts": [
+        "Very rare",
+        "The commonest presentation",
+        "Seen in 50% of patients",
+        "Exclusive to Crohn's disease"
+      ],
+      "ans": 0,
+      "exp": "Fulminant colitis (very rare): toxic megacolon (colon diameter >6 cm). (Book p34)"
+    },
+    {
+      "id": "MED-C5-66",
+      "sec": "Ulcerative Colitis: Site & Macroscopy",
+      "page": 34,
+      "fmt": "recall",
+      "q": "Haustrations in the uninvolved colon in ulcerative colitis are:",
+      "opts": [
+        "Present",
+        "Absent",
+        "Replaced by pseudopolyps",
+        "Thickened"
+      ],
+      "ans": 0,
+      "exp": "Image label: haustrations present (uninvolved colon). (Book p34)"
+    },
+    {
+      "id": "MED-C5-67",
+      "sec": "Ulcerative Colitis: Site & Macroscopy",
+      "page": 34,
+      "fmt": "scenario",
+      "q": "A barium study in long-standing UC shows an atrophic, featureless, shortened colon without haustrations. The book calls this:",
+      "opts": [
+        "Lead pipe appearance",
+        "Cobblestone appearance",
+        "String sign",
+        "Garden hose appearance"
+      ],
+      "ans": 0,
+      "exp": "Lead pipe appearance (atrophic, featureless colon) with loss of haustrations and shortening, seen on barium study. (Book p34)"
+    },
+    {
+      "id": "MED-C5-68",
+      "sec": "Ulcerative Colitis: Microscopy",
+      "page": 35,
+      "fmt": "recall",
+      "q": "The microscopic description of ulcerative colitis begins with:",
+      "opts": [
+        "Cryptitis with loss of crypt architecture",
+        "Non-caseating granulomas",
+        "Transmural lymphoid aggregates",
+        "Pyloric metaplasia"
+      ],
+      "ans": 0,
+      "exp": "Microscopy: cryptitis with loss of crypt architecture. (Book p35)"
+    },
+    {
+      "id": "MED-C5-69",
+      "sec": "Ulcerative Colitis: Microscopy",
+      "page": 35,
+      "fmt": "recall",
+      "q": "Paneth cell metaplasia in ulcerative colitis is seen:",
+      "opts": [
+        "Distal to the hepatic flexure",
+        "Only in the rectum",
+        "Only in the terminal ileum",
+        "Throughout the colon"
+      ],
+      "ans": 0,
+      "exp": "Paneth cell metaplasia (seen distal to hepatic flexure). (Book p35)"
+    },
+    {
+      "id": "MED-C5-70",
+      "sec": "Ulcerative Colitis: Microscopy",
+      "page": 35,
+      "fmt": "recall",
+      "q": "The earliest microscopic finding in ulcerative colitis is:",
+      "opts": [
+        "Basal plasma cells and lymphoid aggregates",
+        "Crypt abscesses",
+        "Non-caseating granulomas",
+        "Fibrosis"
+      ],
+      "ans": 0,
+      "exp": "Basal plasma cell and lymphoid aggregates: earliest finding. (Book p35)"
+    },
+    {
+      "id": "MED-C5-71",
+      "sec": "Ulcerative Colitis: Microscopy",
+      "page": 35,
+      "fmt": "recall",
+      "q": "Basal plasma cells are useful because they:",
+      "opts": [
+        "Can help in diagnosing relapse in patients in remission",
+        "Predict the need for colectomy",
+        "Confirm Crohn's disease",
+        "Exclude dysplasia"
+      ],
+      "ans": 0,
+      "exp": "Basal plasma cell and lymphoid aggregates: earliest finding; can help in diagnosing relapse in remission patients. (Book p35)"
+    },
+    {
+      "id": "MED-C5-72",
+      "sec": "Ulcerative Colitis: Microscopy",
+      "page": 35,
+      "fmt": "oddoneout",
+      "q": "All of the following are listed as factors AGAINST the diagnosis of ulcerative colitis EXCEPT:",
+      "opts": [
+        "Continuous mucosal involvement",
+        "Transmural involvement",
+        "Skip lesions",
+        "Fistulas"
+      ],
+      "ans": 0,
+      "exp": "Factors against UC: transmural involvement, thickening, fistulas, fibrosis, skip lesions, strictures, deep ulcers, fissures, abscess. Continuous mucosal involvement is typical of UC. (Book p35)"
+    },
+    {
+      "id": "MED-C5-73",
+      "sec": "Ulcerative Colitis: Microscopy",
+      "page": 35,
+      "fmt": "match",
+      "q": "Match the finding to the disease it argues against or for — 1) Skip lesions 2) Cryptitis with loss of crypt architecture 3) Non-caseating granuloma … A) Ulcerative colitis B) Against ulcerative colitis C) Crohn's disease",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Skip lesions argue against UC; cryptitis with loss of crypt architecture supports UC; non-caseating granulomas support Crohn's disease. (Book p35)"
+    },
+    {
+      "id": "MED-C5-74",
+      "sec": "Crohn's Disease: Site & Macroscopy",
+      "page": 35,
+      "fmt": "recall",
+      "q": "Crohn's disease can occur:",
+      "opts": [
+        "Anywhere from the oral cavity to the anal canal, including perianal disease",
+        "Only in the terminal ileum",
+        "Only in the colon",
+        "Only in the jejunum"
+      ],
+      "ans": 0,
+      "exp": "Site of involvement: can occur anywhere from oral cavity to anal canal (e.g. perianal involvement). (Book p35)"
+    },
+    {
+      "id": "MED-C5-75",
+      "sec": "Crohn's Disease: Site & Macroscopy",
+      "page": 35,
+      "fmt": "numeric",
+      "q": "Ileocolitis accounts for what proportion of Crohn's disease?",
+      "opts": [
+        "40-50%",
+        "15-20%",
+        "30-40%",
+        "70-80%"
+      ],
+      "ans": 0,
+      "exp": "Ileocolitis: 40-50%. (Book p35)"
+    },
+    {
+      "id": "MED-C5-76",
+      "sec": "Crohn's Disease: Site & Macroscopy",
+      "page": 35,
+      "fmt": "numeric",
+      "q": "Ileitis alone accounts for what proportion of Crohn's disease?",
+      "opts": [
+        "30-40%",
+        "15-20%",
+        "40-50%",
+        "5-10%"
+      ],
+      "ans": 0,
+      "exp": "Ileitis: 30-40%. (Book p35)"
+    },
+    {
+      "id": "MED-C5-77",
+      "sec": "Crohn's Disease: Site & Macroscopy",
+      "page": 35,
+      "fmt": "numeric",
+      "q": "Colitis alone accounts for what proportion of Crohn's disease?",
+      "opts": [
+        "15-20%",
+        "30-40%",
+        "40-50%",
+        "60-70%"
+      ],
+      "ans": 0,
+      "exp": "Colitis: 15-20%. (Book p35)"
+    },
+    {
+      "id": "MED-C5-78",
+      "sec": "Crohn's Disease: Site & Macroscopy",
+      "page": 35,
+      "fmt": "match",
+      "q": "Match the Crohn's distribution to its printed frequency — 1) Ileocolitis 2) Ileitis 3) Colitis … A) 15-20% B) 30-40% C) 40-50%",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 0,
+      "exp": "Ileocolitis 40-50%; ileitis 30-40%; colitis 15-20%. (Book p35)"
+    },
+    {
+      "id": "MED-C5-79",
+      "sec": "Crohn's Disease: Site & Macroscopy",
+      "page": 35,
+      "fmt": "recall",
+      "q": "The earliest macroscopic finding in Crohn's disease is:",
+      "opts": [
+        "Aphthous ulcers — small, translucent ulcers",
+        "Linear serpiginous ulcers",
+        "Cobblestone appearance",
+        "Strictures"
+      ],
+      "ans": 0,
+      "exp": "Earliest finding: aphthous ulcers → small, translucent ulcers. (Book p35)"
+    },
+    {
+      "id": "MED-C5-80",
+      "sec": "Crohn's Disease: Site & Macroscopy",
+      "page": 35,
+      "fmt": "recall",
+      "q": "The most visible macroscopic finding in Crohn's disease is:",
+      "opts": [
+        "Linear, serpiginous ulcers",
+        "Aphthous ulcers",
+        "Pseudopolyps",
+        "Lead pipe colon"
+      ],
+      "ans": 0,
+      "exp": "Most visible finding: linear, serpiginous ulcers. (Book p35)"
+    },
+    {
+      "id": "MED-C5-81",
+      "sec": "Crohn's Disease: Site & Macroscopy",
+      "page": 35,
+      "fmt": "recall",
+      "q": "The cobblestone appearance results from:",
+      "opts": [
+        "Ulcers fusing longitudinally and transversely with areas of uninvolved mucosa between",
+        "Oedema of the submucosa alone",
+        "Confluent pseudopolyps",
+        "Fibrotic strictures"
+      ],
+      "ans": 0,
+      "exp": "Cobblestone appearance: the ulcers fuse longitudinally and transversely with areas of uninvolved mucosa in between. (Book p35)"
+    },
+    {
+      "id": "MED-C5-82",
+      "sec": "Crohn's Disease: Site & Macroscopy",
+      "page": 35,
+      "fmt": "recall",
+      "q": "The macroscopic description of Crohn's lesions is:",
+      "opts": [
+        "Deep, transmural, asymmetric skip lesions",
+        "Superficial, symmetrical, continuous lesions",
+        "Mucosal granularities only",
+        "Diffuse pseudopolyposis"
+      ],
+      "ans": 0,
+      "exp": "Macroscopy: deep, transmural, asymmetric skip lesions. (Book p35)"
+    },
+    {
+      "id": "MED-C5-83",
+      "sec": "Crohn's Disease: Site & Macroscopy",
+      "page": 35,
+      "fmt": "recall",
+      "q": "Thickening of the wall and strictures in Crohn's disease reflect:",
+      "opts": [
+        "Transmural fibrosis and stenosis, typically in the terminal ileum",
+        "Mucosal oedema only",
+        "Muscularis mucosa hyperplasia",
+        "Amyloid deposition"
+      ],
+      "ans": 0,
+      "exp": "Thickening of the wall and strictures: transmural fibrosis and stenosis seen in terminal ileum. (Book p35)"
+    },
+    {
+      "id": "MED-C5-84",
+      "sec": "Crohn's Disease: Site & Macroscopy",
+      "page": 35,
+      "fmt": "fillup",
+      "q": "Creeping fat is thickened ____ encasing the bowel wall.",
+      "opts": [
+        "mesentery",
+        "serosa",
+        "submucosa",
+        "omentum"
+      ],
+      "ans": 0,
+      "exp": "Creeping fat: thickened mesentery encasing the bowel wall. (Book p35)"
+    },
+    {
+      "id": "MED-C5-85",
+      "sec": "Crohn's Disease: Site & Macroscopy",
+      "page": 35,
+      "fmt": "recall",
+      "q": "The garden hose appearance of the esophagus is noted in:",
+      "opts": [
+        "Well developed progressive systemic sclerosis",
+        "Crohn's disease of the esophagus",
+        "Ulcerative colitis",
+        "Achalasia cardia"
+      ],
+      "ans": 0,
+      "exp": "Note: garden hose appearance in esophagus → well developed progressive systemic sclerosis. (Book p35)"
+    },
+    {
+      "id": "MED-C5-86",
+      "sec": "Crohn's Disease: Site & Macroscopy",
+      "page": 35,
+      "fmt": "scenario",
+      "q": "At laparotomy for ileal Crohn's disease the surgeon finds the mesentery thickened and encasing the bowel wall. The book terms this:",
+      "opts": [
+        "Creeping fat",
+        "Cobblestoning",
+        "Lead pipe colon",
+        "Fat halo sign"
+      ],
+      "ans": 0,
+      "exp": "Creeping fat: thickened mesentery encasing the bowel wall. (Book p35)"
+    },
+    {
+      "id": "MED-C5-87",
+      "sec": "Crohn's Disease: Microscopy",
+      "page": 36,
+      "fmt": "recall",
+      "q": "Microscopically, Crohn's disease involves tissue up to the:",
+      "opts": [
+        "Muscularis propria",
+        "Mucosa only",
+        "Submucosa only",
+        "Serosa only"
+      ],
+      "ans": 0,
+      "exp": "Microscopy: involvement up to muscularis propria. (Book p36)"
+    },
+    {
+      "id": "MED-C5-88",
+      "sec": "Crohn's Disease: Microscopy",
+      "page": 36,
+      "fmt": "recall",
+      "q": "Non-caseating granulomas in Crohn's disease may be found:",
+      "opts": [
+        "At any level and can be extraintestinal",
+        "Only in the mucosa",
+        "Only in lymph nodes",
+        "Only in the rectum"
+      ],
+      "ans": 0,
+      "exp": "Non-caseating granulomas: at any level, can be extraintestinal. (Book p36)"
+    },
+    {
+      "id": "MED-C5-89",
+      "sec": "Crohn's Disease: Microscopy",
+      "page": 36,
+      "fmt": "recall",
+      "q": "The lymph node finding in Crohn's disease is:",
+      "opts": [
+        "Mesenteric lymphadenopathy",
+        "Caseating granulomas",
+        "Caseous necrosis",
+        "Abscess formation"
+      ],
+      "ans": 0,
+      "exp": "Microscopy: mesenteric lymphadenopathy. (Book p36)"
+    },
+    {
+      "id": "MED-C5-90",
+      "sec": "Crohn's Disease: Microscopy",
+      "page": 36,
+      "fmt": "recall",
+      "q": "Crypt architecture in Crohn's disease is:",
+      "opts": [
+        "Normal",
+        "Lost",
+        "Branching and distorted",
+        "Replaced by fibrosis"
+      ],
+      "ans": 0,
+      "exp": "Changes in crypts: cryptitis, crypt abscesses; crypt architecture — normal. (Book p36)"
+    },
+    {
+      "id": "MED-C5-91",
+      "sec": "Crohn's Disease: Microscopy",
+      "page": 36,
+      "fmt": "match",
+      "q": "Match the Crohn's microscopy item to its printed descriptor — 1) Crypt changes 2) Metaplasia 3) Aggregates 4) Deep involvement … A) Pyloric metaplasia B) Cryptitis and crypt abscesses with normal architecture C) Involvement up to muscularis propria D) Lymphoid aggregates",
+      "opts": [
+        "1-B, 2-A, 3-D, 4-C",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 0,
+      "exp": "Cryptitis and crypt abscesses with normal crypt architecture; pyloric metaplasia; lymphoid aggregates; involvement up to muscularis propria. (Book p36)"
+    },
+    {
+      "id": "MED-C5-92",
+      "sec": "Crohn's Disease: Microscopy",
+      "page": 36,
+      "fmt": "oddoneout",
+      "q": "All of the following are listed causes of non-caseating granuloma EXCEPT:",
+      "opts": [
+        "Rheumatoid arthritis",
+        "Sarcoidosis",
+        "Tuberculosis",
+        "Berylliosis"
+      ],
+      "ans": 0,
+      "exp": "Causes of non-caseating granuloma: sarcoidosis, tuberculosis, cat scratch disease, berylliosis, hypersensitivity pneumonitis, Crohn's disease. Rheumatoid arthritis is not listed. (Book p36)"
+    },
+    {
+      "id": "MED-C5-93",
+      "sec": "Crohn's Disease: Microscopy",
+      "page": 36,
+      "fmt": "recall",
+      "q": "Which of these is listed among the causes of non-caseating granuloma?",
+      "opts": [
+        "Cat scratch disease",
+        "Rheumatoid arthritis",
+        "Sjogren's syndrome",
+        "Whipple's disease"
+      ],
+      "ans": 0,
+      "exp": "Causes of non-caseating granuloma: sarcoidosis, tuberculosis, cat scratch disease, berylliosis, hypersensitivity pneumonitis, Crohn's disease. (Book p36)"
+    },
+    {
+      "id": "MED-C5-94",
+      "sec": "Crohn's Disease: Microscopy",
+      "page": 36,
+      "fmt": "scenario",
+      "q": "A resection specimen shows transmural inflammation with non-caseating granulomas and lymphoid aggregates, but crypt architecture is preserved. The book's diagnosis is:",
+      "opts": [
+        "Crohn's disease",
+        "Ulcerative colitis",
+        "Intestinal tuberculosis",
+        "Microscopic colitis"
+      ],
+      "ans": 0,
+      "exp": "Crohn's microscopy: involvement up to muscularis propria, non-caseating granulomas, lymphoid aggregates, cryptitis and crypt abscesses with normal crypt architecture. (Book p36)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U5-1",
+      "ch": 5,
+      "n": 1,
+      "title": "Entities of IBD & Microscopic Colitis",
+      "sec": "Entities of IBD & Microscopic Colitis",
+      "guide": "Four entities are listed, but IBD currently means UC and CD only.\nMicroscopic colitis follows long-term PPI and NSAID use: chronic non-bloody voluminous watery diarrhea with a normal examination and normal endoscopy.\nBiopsy: collagenous colitis (collagen band, Sjogren's) versus lymphocytic colitis (intra-epithelial lymphocytes, celiac disease).",
+      "qs": [
+        "MED-C5-01",
+        "MED-C5-02",
+        "MED-C5-03",
+        "MED-C5-04",
+        "MED-C5-05",
+        "MED-C5-06",
+        "MED-C5-07",
+        "MED-C5-08",
+        "MED-C5-09"
+      ]
+    },
+    {
+      "id": "MED-U5-2",
+      "ch": 5,
+      "n": 2,
+      "title": "Diversion Colitis & Normal Histology of Colon",
+      "sec": "Diversion Colitis & Normal Histology of Colon",
+      "guide": "Diversion colitis occurs in patients using colostomy bags after surgery for bowel malignancies.\nNormal colonic layers, innermost to outermost: mucosal epithelial cells, lamina propria, muscularis mucosa, submucosa, muscularis propria, serosa.\nLearn the order — it anchors every depth-of-invasion comparison that follows.",
+      "qs": [
+        "MED-C5-10",
+        "MED-C5-11",
+        "MED-C5-12",
+        "MED-C5-13"
+      ]
+    },
+    {
+      "id": "MED-U5-3",
+      "ch": 5,
+      "n": 3,
+      "title": "Colonic Mucosa & Definition of Diarrhea",
+      "sec": "Colonic Mucosa & Definition of Diarrhea",
+      "guide": "Colonic mucosa has no villi.\nCrypts contain microvilli for water absorption; goblet cells secrete mucus.\nDiarrhea is defined as a stool volume above 200 mL.",
+      "qs": [
+        "MED-C5-14",
+        "MED-C5-15",
+        "MED-C5-16",
+        "MED-C5-17"
+      ]
+    },
+    {
+      "id": "MED-U5-4",
+      "ch": 5,
+      "n": 4,
+      "title": "Epidemiology of UC and Crohn's Disease",
+      "sec": "Epidemiology of UC and Crohn's Disease",
+      "guide": "Overall CD > UC and males > females; peaks at 15-30 and 70-90 years.\nEthnicity: Jews > non-Jewish white > African American > Hispanic > Asian.\nSmoking protects against UC but causes CD; appendicectomy protects against UC; OCP raises CD risk; concordance is significant and greater in CD; antibiotics in the first year triple the risk.",
+      "qs": [
+        "MED-C5-18",
+        "MED-C5-19",
+        "MED-C5-20",
+        "MED-C5-21",
+        "MED-C5-22",
+        "MED-C5-23",
+        "MED-C5-24",
+        "MED-C5-25",
+        "MED-C5-26",
+        "MED-C5-27",
+        "MED-C5-28",
+        "MED-C5-29",
+        "MED-C5-30"
+      ]
+    },
+    {
+      "id": "MED-U5-5",
+      "ch": 5,
+      "n": 5,
+      "title": "Genetic Syndromes Associated with IBD",
+      "sec": "Genetic Syndromes Associated with IBD",
+      "guide": "Childhood IBD is grouped as UC-like non-granulomatous versus CD-like granulomatous; Turner's syndrome is listed as most common.\nWiskott-Aldrich: WASP mutation, X-linked recessive, eczema plus sino-pulmonary infection plus microplatelet thrombocytopenia.\nHermansky-Pudlak: autosomal recessive with platelet dysfunction, pulmonary fibrosis and oculocutaneous albinism; von Gierke type I with glucose-1-phosphatase deficiency.",
+      "qs": [
+        "MED-C5-31",
+        "MED-C5-32",
+        "MED-C5-33",
+        "MED-C5-34",
+        "MED-C5-35",
+        "MED-C5-36",
+        "MED-C5-37",
+        "MED-C5-38",
+        "MED-C5-39",
+        "MED-C5-40",
+        "MED-C5-41"
+      ]
+    },
+    {
+      "id": "MED-U5-6",
+      "ch": 5,
+      "n": 6,
+      "title": "IPEX Syndrome & Early Onset Childhood IBD",
+      "sec": "IPEX Syndrome & Early Onset Childhood IBD",
+      "guide": "Loss of Foxp3 function reduces regulatory T-cell tolerance and causes IPEX.\nTriad: dermatitis, endocrinopathy (type I DM / thyroiditis) and UC-like enteropathy.\nSupportive care, gene therapy and genetic testing; T-reg marker is CD25; early onset IBD reflects IL-10 pathway defects.",
+      "qs": [
+        "MED-C5-42",
+        "MED-C5-43",
+        "MED-C5-44",
+        "MED-C5-45",
+        "MED-C5-46",
+        "MED-C5-47",
+        "MED-C5-48",
+        "MED-C5-49",
+        "MED-C5-50"
+      ]
+    },
+    {
+      "id": "MED-U5-7",
+      "ch": 5,
+      "n": 7,
+      "title": "Pathogenesis of IBD",
+      "sec": "Pathogenesis of IBD",
+      "guide": "Exogenous and endogenous factors drive a dysregulated mucosal immune response in a genetically susceptible host.\nUC: unclear pathogenesis with Th2 overactivity.\nCrohn's: NOD2/CARD15 on chromosome 16, defective innate immunity (intracellular organisms, Paneth cell defensins), defective autophagy, Th1 overactivity and loss of protective Faecalibacterium.",
+      "qs": [
+        "MED-C5-51",
+        "MED-C5-52",
+        "MED-C5-53",
+        "MED-C5-54",
+        "MED-C5-55",
+        "MED-C5-56",
+        "MED-C5-57",
+        "MED-C5-58"
+      ]
+    },
+    {
+      "id": "MED-U5-8",
+      "ch": 5,
+      "n": 8,
+      "title": "Ulcerative Colitis: Site & Macroscopy",
+      "sec": "Ulcerative Colitis: Site & Macroscopy",
+      "guide": "Rectum alone is involved in 50%.\nHemorrhagic, edematous, ulcerated granular mucosa with pseudopolyps from epithelial regeneration.\nChronic disease rarely gives a lead pipe atrophic featureless colon; fulminant colitis rarely gives toxic megacolon with a diameter above 6 cm.",
+      "qs": [
+        "MED-C5-59",
+        "MED-C5-60",
+        "MED-C5-61",
+        "MED-C5-62",
+        "MED-C5-63",
+        "MED-C5-64",
+        "MED-C5-65",
+        "MED-C5-66",
+        "MED-C5-67"
+      ]
+    },
+    {
+      "id": "MED-U5-9",
+      "ch": 5,
+      "n": 9,
+      "title": "Ulcerative Colitis: Microscopy",
+      "sec": "Ulcerative Colitis: Microscopy",
+      "guide": "Cryptitis with loss of crypt architecture.\nPaneth cell metaplasia distal to the hepatic flexure.\nBasal plasma cells and lymphoid aggregates are the earliest finding and flag relapse; transmural disease, skip lesions, fistulas, strictures and fissures all argue against UC.",
+      "qs": [
+        "MED-C5-68",
+        "MED-C5-69",
+        "MED-C5-70",
+        "MED-C5-71",
+        "MED-C5-72",
+        "MED-C5-73"
+      ]
+    },
+    {
+      "id": "MED-U5-10",
+      "ch": 5,
+      "n": 10,
+      "title": "Crohn's Disease: Site & Macroscopy",
+      "sec": "Crohn's Disease: Site & Macroscopy",
+      "guide": "Anywhere from mouth to anus; ileocolitis 40-50%, ileitis 30-40%, colitis 15-20%.\nDeep transmural asymmetric skip lesions; aphthous ulcers are earliest, linear serpiginous ulcers most visible.\nCobblestoning, perianal fissures and fistulas, terminal ileal fibrosis and stenosis, and creeping fat.",
+      "qs": [
+        "MED-C5-74",
+        "MED-C5-75",
+        "MED-C5-76",
+        "MED-C5-77",
+        "MED-C5-78",
+        "MED-C5-79",
+        "MED-C5-80",
+        "MED-C5-81",
+        "MED-C5-82",
+        "MED-C5-83",
+        "MED-C5-84",
+        "MED-C5-85",
+        "MED-C5-86"
+      ]
+    },
+    {
+      "id": "MED-U5-11",
+      "ch": 5,
+      "n": 11,
+      "title": "Crohn's Disease: Microscopy",
+      "sec": "Crohn's Disease: Microscopy",
+      "guide": "Involvement up to the muscularis propria with non-caseating granulomas at any level, even extraintestinal.\nMesenteric lymphadenopathy; cryptitis and crypt abscesses with normal crypt architecture.\nPyloric metaplasia, lymphoid aggregates and fibrosis; granuloma differential includes sarcoidosis, tuberculosis, cat scratch disease, berylliosis and hypersensitivity pneumonitis.",
+      "qs": [
+        "MED-C5-87",
+        "MED-C5-88",
+        "MED-C5-89",
+        "MED-C5-90",
+        "MED-C5-91",
+        "MED-C5-92",
+        "MED-C5-93",
+        "MED-C5-94"
+      ]
+    }
+  ]
+}
