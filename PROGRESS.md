@@ -1,16 +1,16 @@
 # PULSE Medicine Vol 1 — Progress
 
-Updated **2026-10-01** (Chapters 7–12 released and deployed; source review now reaches Book p76). Standalone offline quiz based on *PULSE Medicine Vol 1*, printed Book p1–375 (Marrow Edition 8).
+Updated **2026-10-01** (Chapters 13–18 released and deployed; source review now reaches Book p106). Standalone offline quiz based on *PULSE Medicine Vol 1*, printed Book p1–375 (Marrow Edition 8).
 
 - Repository: `Deva20045/Med-V1`
-- Session branch: `arena/01a0f5f4-med-v1`
+- Session branch: `arena/01a0f61e-med-v1`
 - Published URL: https://deva20045.github.io/Med-V1/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 12 live chapters / 61 · 1,297 questions / 114 units.** Chapters 1–12 are embedded by `build_content.py`; the GitHub Pages deployment for this release succeeded. Source coverage is complete through Book p76.
+- **Build status: 18 live chapters / 61 · 1,712 questions / 144 units.** Chapters 1–18 are embedded by `build_content.py`; the GitHub Pages deployment for this release succeeded. Source coverage is complete through Book p106.
 
-## This release — Chapters 7 to 12 (Book p46–76)
+## This release — Chapters 13 to 18 (Book p77–106)
 
-The requested six chapters were reviewed sheet-by-sheet in printed order, then encoded with shuffled, plausible options and page-cited explanations. Existing Chapters 1–6 remain unchanged.
+The requested six hematology chapters were reviewed sheet-by-sheet in printed order (`uploads/01.pdf` PDF89–118), then encoded with shuffled, parallel, non-predictable options across all formats (`recall`, `numeric`, `scenario`, `truefalse`, `oddoneout`, `management`, `fillup`, and 3- to 4-item bijective `match` items) and page-cited explanations. Existing Chapters 1–12 remain unchanged.
 
 | Ch | Title | Printed pages | PDF sheets | Questions | Units |
 |---:|---|---:|---:|---:|---:|
@@ -26,9 +26,15 @@ The requested six chapters were reviewed sheet-by-sheet in printed order, then e
 | 10 | Irritable Bowel Syndrome | 63–65 | 01.pdf PDF75–77 | 58 | 5 |
 | 11 | Clinical Approach to Anemia | 66–69 | 01.pdf PDF78–81 | 63 | 4 |
 | 12 | Iron Metabolism | 70–76 | 01.pdf PDF82–88 | 134 | 9 |
-| **Cumulative total** |  | **76 book pages** |  | **1,297** | **114** |
+| 13 | Approach To Microcytic Hypochromic Anemia | 77–81 | 01.pdf PDF89–93 | 83 | 5 |
+| 14 | Macrocytic Anemia | 82–88 | 01.pdf PDF94–100 | 107 | 7 |
+| 15 | Approach to Hemolysis | 89–91 | 01.pdf PDF101–103 | 44 | 3 |
+| 16 | Immune Mediated Hemolytic Anemia | 92–96 | 01.pdf PDF104–108 | 62 | 5 |
+| 17 | Non-Immune Mediated Hemolytic Anemia | 97–102 | 01.pdf PDF109–114 | 70 | 6 |
+| 18 | Hemolytic Anemia : Miscellaneous | 103–106 | 01.pdf PDF115–118 | 49 | 4 |
+| **Cumulative total** |  | **106 book pages** |  | **1,712** | **144** |
 
-Cumulative format distribution through Chapter 12: 865 recall, 79 match, 157 numeric, 41 fillup, 64 scenario, 32 oddoneout, 38 truefalse, 21 management.
+Cumulative format distribution through Chapter 18: 1,132 recall, 186 numeric, 114 match, 93 fillup, 66 scenario, 48 truefalse, 40 oddoneout, 33 management.
 
 ### Chapter 2 — Physiology of GIT Absorption and Selective Malabsorption (p6–13)
 
@@ -74,13 +80,37 @@ WHO haemoglobin thresholds, hematopoietic lineages, EPO/iron dependence, erythro
 
 Body-iron pools, dietary heme/non-heme absorption, transport/export and marrow uptake, iron indices, staged deficiency, causes and iron-deficit formula, clinical signs, blood indices/smear, marrow, printed treatment notes and response timeline. Source-level medical caveats are documented separately.
 
+### Chapter 13 — Approach To Microcytic Hypochromic Anemia (p77–81)
+
+Normal versus microcytic hypochromic peripheral smear (target and pencil cells), anemia of chronic disease (IL-6/hepcidin pathway, iron indices, soluble transferrin receptor, marrow storage vs erythroblast iron, treatment), sideroblastic anemia (heme synthesis pathway, congenital δ-ALA synthase/B6 vs acquired causes including alcohol, lead, INH, pyrazinamide, chloramphenicol, copper deficiency, MDS, rheumatoid arthritis, ring sideroblasts on Prussian blue), thalassemia major vs trait, full four-condition comparison table (IDA, ACD, thalassemia trait, sideroblastic anemia), Mentzer index, RDW, inherited IDA (IRIDA/TMPRSS6, DMT1, aceruloplasminemia) and the p81 diagnostic protocol flowchart.
+
+### Chapter 14 — Macrocytic Anemia (p82–88)
+
+Megaloblastic versus non-megaloblastic macrocytic anemia (reticulocytosis false positivity, hypothyroidism, liver disease, alcoholism, drugs), Vitamin B12 versus folic acid stores/RDA/depletion table, cobalamin absorption pathway (salivary R-binder, parietal cell HCl/IF, pancreatic enzymes, ileal enterocyte uptake, TC-1/TC-2/TC-3 transport), odd-chain fatty acid and methionine synthase biochemical pathways, methylfolate trap, diagnostic workup (MCV > 100 fL, hypersegmented neutrophils, Howell-Jolly bodies, basophilic stippling, Cabot rings, teardrop cells, pancytopenia, indirect bilirubin/LDH, B12/folate/MMA/homocysteine profiles), and pernicious anemia (Type A gastritis, anti-parietal cell vs anti-IF antibodies, subacute combined degeneration of cord, investigations, and B12 replacement protocol).
+
+### Chapter 15 — Approach to Hemolysis (p89–91)
+
+Classification of hemolytic anemia by mechanism, inheritance, site of destruction (intravascular vs extravascular), clinical presentation (acute vs chronic) and defect location (intracorpuscular vs extracorpuscular, PNH exception), intravascular hemolysis cascade (free Hb, haptoglobin depletion, methemoglobin, hemoglobinuria in acute cases vs hemosiderinuria on Prussian blue in chronic cases), extravascular hemolysis in spleen (spherocytes, unconjugated bilirubin, urobilinogen, fecal stercobilinogen, absent bilirubinuria), summary comparison table, and general classification rules for inherited and immune hemolytic anemias.
+
+### Chapter 16 — Immune Mediated Hemolytic Anemia (p92–96)
+
+Autoimmune versus alloimmune classification, Direct and Indirect Coombs tests (principles, reagents, 3+/4+ positivity), DAT subtyping flowchart (anti-IgG and anti-C3d profiles), Warm AIHA versus Cold AIHA comparison table (IgG vs IgM, 37 °C vs 0–4 °C, etiologies, splenic Fc-mediated spherocytosis vs hepatic C3b-mediated agglutination/acrocyanosis), treatment ladders for Warm and Cold AIHA (steroids, rituximab, immunosuppressants, splenectomy status, plasmapheresis, bortezomib, sutimlimab), Evans syndrome, causes of spherocytes, paroxysmal cold hemoglobinuria (Donath–Landsteiner anti-P biphasic hemolysin), and the four mechanisms of drug-induced immune hemolysis.
+
+### Chapter 17 — Non-Immune Mediated Hemolytic Anemia (p97–102)
+
+Four categories of non-immune hemolysis (infections, drugs/toxins, PNH, fragmentation), PNH physiology and pathogenesis (X-linked somatic PIGA mutation, GPI anchor, CD55/DAF, CD59/MIRL, neutrophil alkaline phosphatase, UPAR, nitric oxide scavenging), PNH clinical triad (intravascular hemolysis, pancytopenia/MDS/AML, Budd–Chiari hepatic vein thrombosis), PNH investigations (Ham/sucrose lysis, FLAER gold standard, CD55/CD59 flow cytometry, Hb vs myoglobin plasma test) and management (ravulizumab > eculizumab + meningococcal vaccine, BMT), fragmentation hemolysis/MAHA/TMA pathogenesis (endothelial injury, vWF multimers, Gp Ib–IX/Gp VI, schistocytes/helmet cells), HUS versus TTP comparison, Childhood (D⁺, EHEC O157:H7/Shiga toxin, sorbitol MacConkey, supportive care, antibiotics CI) versus Adult HUS (D⁻/atypical, CFH/CFB/MCP mutations, sporadic drugs/states, plasmapheresis, rituximab/eculizumab), TTP (ADAMTS-13 deficiency, plasmapheresis + steroids + rituximab, caplacizumab, platelet transfusion CI), and fragmentation types (MAHA/march, cardiac prosthetic valve, Kasabach–Merritt consumption).
+
+### Chapter 18 — Hemolytic Anemia : Miscellaneous (p103–106)
+
+Inherited hemolytic anemia classification (hemoglobinopathies, membrane cytoskeleton disorders, enzymopathies), 5'-nucleotidase deficiency and cholestasis markers, hereditary spherocytosis (AD ankyrin ANK-1 > Band 3 vs AR β-spectrin, RBC membrane/cytoskeleton diagram with Band 3, spectrin dimer, glycophorin and P. falciparum binding, microvesicle pathogenesis in 3–4 µm splenic capillaries, clinical features, parvovirus B19 aplastic crisis, ↓ MCV and ↑↑ MCHC, ektacytometry, SDS-PAGE gold standard, EMA test, osmotic fragility, glycerol lysis/pink test, severity-based splenectomy and cholecystectomy rules), G6PD deficiency (X-linked intermediate, Class 2 Mediterranean, HMP shunt NADPH/glutathione pathway, oxidant drugs/infections/fava beans, malaria heterozygote protection, peripheral smear gallery with Heinz bodies, blister/hemighost cells, bite cells, triangle cells, helmet cells, echinocytes and basophilic stippling, fluorescent spot screening and quantitative assay, treatment), and anemia of blood loss (Stages I–III and the lethal triad of hypothermia, acidosis and DIC).
+
 ## Quality and ordering contract delivered
 
-1. Every printed page p1–76 is covered in book order from the scanned source (no text layer exists); headings, table cells, image labels, flowchart arms, thresholds and notes are represented. Page map: `01.pdf` PDF13 = p1 … PDF88 = p76; no requested sheets are missing.
-2. `audit/coverage.json` holds **1,297 inventoried points** across Chapters 1–12; every ledger point resolves to exactly one question in question order and on the matching book page.
-3. Four-option sets are unique and shuffled in the app. Matching items use exact bijections; true/false items have balanced True/False choices; numeric questions use plausible distractors; scenarios retain their clinical context. New Chapters 7–12 avoid fill-up patterns and reserve matching format for one true match item.
+1. Every printed page p1–106 is covered in book order from the scanned source (no text layer exists); headings, table cells, image labels, flowchart arms, thresholds and notes are represented. Page map: `01.pdf` PDF13 = p1 … PDF118 = p106; no requested sheets are missing.
+2. `audit/coverage.json` holds **1,712 inventoried points** across Chapters 1–18; every ledger point resolves to exactly one question in question order and on the matching book page.
+3. Four-option sets are unique, parallel in length/detail, and deterministically shuffled across all four positions (`A`–`D`). Matching items use 3- or 4-item bijections with varied permutations; true/false items have balanced 2 True / 2 False choices; numeric and fill-up questions use plausible clinical distractors; scenarios retain full clinical context.
 4. IDs are sequential `MED-C<N>-<seq>`; the question array is strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, every unit guide is 2–4 lines, and every explanation ends with its exact `(Book pX)` citation matching the question page.
-5. Chapters 1–12 are embedded in the standalone app with live flags set; **12/61 roadmap chapters are live**. The published URL was verified after deployment. See [audit/known-source-caveats.md](audit/known-source-caveats.md) for transcription and medical-source caveats.
+5. Chapters 1–18 are embedded in the standalone app with live flags set; **18/61 roadmap chapters are live**. See [audit/known-source-caveats.md](audit/known-source-caveats.md) for transcription and medical-source caveats.
 
 ## Verified PDF → printed-page map
 
@@ -91,7 +121,7 @@ Printed page numbers are ground truth. `uploads/01.pdf` is sequential after 12 u
 - `uploads/03.pdf` PDF1–128  = Book p248–375  (PDF129–131 are blank/end-quote matter)
 - **PDF → Book formula:** `01.pdf: Book p = PDF page − 12`; `02.pdf: Book p = PDF page + 117`; `03.pdf: Book p = PDF page + 247`
 
-Chapter sheet coverage source-reviewed through p76:
+Chapter sheet coverage source-reviewed through p106:
 
 | Ch | Book pages | 01.pdf sheets |
 |---:|---|---|
@@ -107,7 +137,13 @@ Chapter sheet coverage source-reviewed through p76:
 | 10 | 63–65 | PDF75–77 |
 | 11 | 66–69 | PDF78–81 |
 | 12 | 70–76 | PDF82–88 |
-| 13 (next) | 77 | PDF89 |
+| 13 | 77–81 | PDF89–93 |
+| 14 | 82–88 | PDF94–100 |
+| 15 | 89–91 | PDF101–103 |
+| 16 | 92–96 | PDF104–108 |
+| 17 | 97–102 | PDF109–114 |
+| 18 | 103–106 | PDF115–118 |
+| 19 (next) | 107 | PDF119 |
 
 ## Schema and order contract
 
@@ -122,7 +158,7 @@ Chapter sheet coverage source-reviewed through p76:
 
 ```sh
 # Generate chapter artifacts (one generator per chapter).
-python3 tools/generate_ch0N.py
+python3 tools/generate_chNN.py
 python3 tools/update_ledger.py     # rebuilds audit/coverage.json from every data/ch*.json
 
 # Fail-closed source gate, standalone-app build, and embedded-array gate.
@@ -214,7 +250,6 @@ node tests/app_parsers.cjs
 | 6 | Crohn's Disease: Grading & Medical Management | 43 | MED-C6-97–MED-C6-103 | 7 |
 | 6 | Crohn's Disease: Management by Severity | 44 | MED-C6-104–MED-C6-116 | 13 |
 | 6 | Malignancy in IBD | 45 | MED-C6-117–MED-C6-128 | 12 |
-
 | 7 | Definitions & Site Patterns | 46 | MED-C7-01–MED-C7-17 | 17 |
 | 7 | Small- and Large-Bowel Organisms | 47 | MED-C7-18–MED-C7-26 | 9 |
 | 7 | Preformed-Toxin Food Poisoning | 47–48 | MED-C7-27–MED-C7-37 | 11 |
@@ -252,6 +287,36 @@ node tests/app_parsers.cjs
 | 12 | Clinical Features | 74 | MED-C12-94–MED-C12-103 | 10 |
 | 12 | IDA Investigations | 75 | MED-C12-104–MED-C12-119 | 16 |
 | 12 | Marrow, Treatment & Follow-up | 76 | MED-C12-120–MED-C12-134 | 15 |
+| 13 | Blood Picture & ACD Pathophysiology | 77 | MED-C13-01–MED-C13-18 | 18 |
+| 13 | ACD Indices & Sideroblastic Etiology | 78 | MED-C13-19–MED-C13-42 | 24 |
+| 13 | Sideroblastic Pathogenesis & Thalassemia | 79 | MED-C13-43–MED-C13-59 | 17 |
+| 13 | Thalassemia Indices & Inherited IDA | 80 | MED-C13-60–MED-C13-77 | 18 |
+| 13 | Diagnostic Protocol | 81 | MED-C13-78–MED-C13-83 | 6 |
+| 14 | Types, Causes & B12 vs Folate Stores | 82 | MED-C14-01–MED-C14-22 | 22 |
+| 14 | Vitamin B12 Sources & Absorption | 83 | MED-C14-23–MED-C14-35 | 13 |
+| 14 | B12 Deficiency, Transcobalamins & Roles | 84 | MED-C14-36–MED-C14-54 | 19 |
+| 14 | Folate Metabolism, Trap & Causes | 85 | MED-C14-55–MED-C14-70 | 16 |
+| 14 | Diagnosis of Megaloblastic Anemia | 86–87 | MED-C14-71–MED-C14-85 | 15 |
+| 14 | Pernicious Anemia: Pathogenesis & Signs | 87 | MED-C14-86–MED-C14-93 | 8 |
+| 14 | Pernicious Anemia: CNS, Workup & Rx | 88 | MED-C14-94–MED-C14-107 | 14 |
+| 15 | Classification of Hemolytic Anemia | 89 | MED-C15-01–MED-C15-15 | 15 |
+| 15 | Abbreviations & Intravascular Hemolysis | 90 | MED-C15-16–MED-C15-28 | 13 |
+| 15 | Extravascular Hemolysis & General Rules | 91 | MED-C15-29–MED-C15-44 | 16 |
+| 16 | Immune Classification & Coombs Test | 92 | MED-C16-01–MED-C16-13 | 13 |
+| 16 | DAT Subtyping & Warm vs Cold Etiology | 93 | MED-C16-14–MED-C16-31 | 18 |
+| 16 | Warm vs Cold: Pathogenesis & Smear | 94 | MED-C16-32–MED-C16-39 | 8 |
+| 16 | AIHA Treatment, Evans & Spherocytes | 95 | MED-C16-40–MED-C16-50 | 11 |
+| 16 | PCH & Drug-Induced Hemolysis | 96 | MED-C16-51–MED-C16-62 | 12 |
+| 17 | Overview & PNH Physiology | 97 | MED-C17-01–MED-C17-13 | 13 |
+| 17 | PNH: Pathogenesis & Clinical Features | 98 | MED-C17-14–MED-C17-25 | 12 |
+| 17 | PNH: Investigations & Treatment | 99 | MED-C17-26–MED-C17-33 | 8 |
+| 17 | Fragmentation: MAHA, TMA & HUS vs TTP | 100 | MED-C17-34–MED-C17-45 | 12 |
+| 17 | HUS: Childhood (D⁺) vs Adult (D⁻) | 101 | MED-C17-46–MED-C17-60 | 15 |
+| 17 | TTP & Types of Fragmentation Hemolysis | 102 | MED-C17-61–MED-C17-70 | 10 |
+| 18 | Inherited Hemolytic Anemias & Hereditary Spherocytosis: Genetics and RBC Membrane Structure | 103 | MED-C18-01–MED-C18-14 | 14 |
+| 18 | Hereditary Spherocytosis: Pathogenesis, Clinical Features & Investigations | 104 | MED-C18-15–MED-C18-25 | 11 |
+| 18 | Hereditary Spherocytosis Treatment & G6PD Deficiency: Genetics, HMP Shunt and Triggers | 105 | MED-C18-26–MED-C18-37 | 12 |
+| 18 | G6PD Deficiency: Peripheral Smear, Diagnosis, Treatment & Anemia of Blood Loss | 106 | MED-C18-38–MED-C18-49 | 12 |
 
 ## Full roadmap
 
@@ -269,12 +334,12 @@ node tests/app_parsers.cjs
 | 10 | Irritable Bowel Syndrome | 63 | **Live** |
 | 11 | Clinical Approach to Anemia | 66 | **Live** |
 | 12 | Iron Metabolism | 70 | **Live** |
-| 13 | Approach To Microcytic Hypochromic Anemia | 77 | Soon |
-| 14 | Macrocytic Anemia | 82 | Soon |
-| 15 | Approach to Hemolysis | 89 | Soon |
-| 16 | Immune Mediated Hemolytic Anemia | 92 | Soon |
-| 17 | Non-Immune Mediated Hemolytic Anemia | 97 | Soon |
-| 18 | Hemolytic Anemia : Miscellaneous | 103 | Soon |
+| 13 | Approach To Microcytic Hypochromic Anemia | 77 | **Live** |
+| 14 | Macrocytic Anemia | 82 | **Live** |
+| 15 | Approach to Hemolysis | 89 | **Live** |
+| 16 | Immune Mediated Hemolytic Anemia | 92 | **Live** |
+| 17 | Non-Immune Mediated Hemolytic Anemia | 97 | **Live** |
+| 18 | Hemolytic Anemia : Miscellaneous | 103 | **Live** |
 | 19 | Myeloproliferative Neoplasms : Part 1 | 107 | Soon |
 | 20 | Myeloproliferative Neoplasms : Part 2 | 118 | Soon |
 | 21 | Bone Marrow Failure Syndromes | 121 | Soon |
@@ -328,4 +393,4 @@ node tests/app_parsers.cjs
 4. Run `validate_content.py`, `tests`, and `build_content.py` to embed; verify live flags and embedded arrays.
 5. Commit, push, PR to `main` — live link updates via GitHub Pages.
 
-*Next up:* **Chapter 13 — Approach To Microcytic Hypochromic Anemia (p77)** — render `uploads/01.pdf` PDF89 onward, audit in strict book order, and continue the same pipeline.
+*Next up:* **Chapter 19 — Myeloproliferative Neoplasms : Part 1 (p107)** — render `uploads/01.pdf` PDF119 onward, audit in strict book order, and continue the same pipeline.

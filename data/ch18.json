@@ -1,0 +1,833 @@
+{
+  "chapter": 18,
+  "title": "Hemolytic Anemia : Miscellaneous",
+  "pageRange": "103-106",
+  "questions": [
+    {
+      "id": "MED-C18-01",
+      "sec": "Inherited Hemolytic Anemias & Hereditary Spherocytosis: Genetics and RBC Membrane Structure",
+      "page": 103,
+      "fmt": "match",
+      "q": "Match the category of inherited hemolytic anemia with its prototype disorder(s) — 1) Hemoglobinopathies 2) Membrane cytoskeleton disorders 3) Other RBC enzymopathies 4) Most common RBC enzymopathy … A) Hereditary spherocytosis B) G6PD deficiency C) Sickle cell anemia & thalassemia D) Pyruvate kinase & 5'-nucleotidase deficiency",
+      "opts": [
+        "1-B, 2-A, 3-C, 4-D",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-A, 2-C, 3-B, 4-D",
+        "1-C, 2-A, 3-D, 4-B"
+      ],
+      "ans": 3,
+      "exp": "Inherited hemolytic anemias are classified into hemoglobinopathies (sickle cell anemia, thalassemia), membrane cytoskeleton disorders (hereditary spherocytosis), and enzymopathies (G6PD deficiency [most common], pyruvate kinase deficiency, and 5'-nucleotidase deficiency). (Book p103)"
+    },
+    {
+      "id": "MED-C18-02",
+      "sec": "Inherited Hemolytic Anemias & Hereditary Spherocytosis: Genetics and RBC Membrane Structure",
+      "page": 103,
+      "fmt": "recall",
+      "q": "Which is the most common inherited red blood cell enzymopathy causing hemolytic anemia?",
+      "opts": [
+        "Pyruvate kinase deficiency",
+        "5'-nucleotidase deficiency",
+        "Glucose-6-phosphate dehydrogenase (G6PD) deficiency",
+        "Hexokinase deficiency"
+      ],
+      "ans": 2,
+      "exp": "Under inherited hemolytic anemias, enzymopathies include G6PD deficiency (most common, m/c), pyruvate kinase deficiency, and 5'-nucleotidase deficiency. (Book p103)"
+    },
+    {
+      "id": "MED-C18-03",
+      "sec": "Inherited Hemolytic Anemias & Hereditary Spherocytosis: Genetics and RBC Membrane Structure",
+      "page": 103,
+      "fmt": "recall",
+      "q": "Which inherited red blood cell enzymopathy is specifically noted for producing prominent basophilic stippling on the peripheral blood smear?",
+      "opts": [
+        "Glutathione synthetase deficiency",
+        "5'-nucleotidase deficiency",
+        "Pyruvate kinase deficiency",
+        "Glucose-6-phosphate dehydrogenase (G6PD) deficiency"
+      ],
+      "ans": 1,
+      "exp": "Basophilic stippling is characteristically seen in 5'-nucleotidase deficiency. (Book p103)"
+    },
+    {
+      "id": "MED-C18-04",
+      "sec": "Inherited Hemolytic Anemias & Hereditary Spherocytosis: Genetics and RBC Membrane Structure",
+      "page": 103,
+      "fmt": "oddoneout",
+      "q": "All of the following are listed as biochemical markers of cholestasis on page 103 EXCEPT:",
+      "opts": [
+        "Pyruvate kinase",
+        "Gamma-glutamyl transferase (GGT)",
+        "Alkaline phosphatase",
+        "5'-nucleotidase"
+      ],
+      "ans": 0,
+      "exp": "The three listed markers of cholestasis are 5'-nucleotidase (printed as 5' nucleotidase deficiency), alkaline phosphatase, and gamma-glutamyl transferase. (Book p103)"
+    },
+    {
+      "id": "MED-C18-05",
+      "sec": "Inherited Hemolytic Anemias & Hereditary Spherocytosis: Genetics and RBC Membrane Structure",
+      "page": 103,
+      "fmt": "fillup",
+      "q": "Hereditary spherocytosis is characterized by chronic compensated ______ hemolysis.",
+      "opts": [
+        "extravascular",
+        "complement-mediated",
+        "intravascular",
+        "microangiopathic"
+      ],
+      "ans": 0,
+      "exp": "Hereditary spherocytosis (HS) causes chronic compensated extravascular hemolysis. (Book p103)"
+    },
+    {
+      "id": "MED-C18-06",
+      "sec": "Inherited Hemolytic Anemias & Hereditary Spherocytosis: Genetics and RBC Membrane Structure",
+      "page": 103,
+      "fmt": "recall",
+      "q": "What is the most common mode of inheritance and underlying membrane protein defect in hereditary spherocytosis?",
+      "opts": [
+        "Autosomal dominant inheritance; Ankyrin defect (more common than Band 3)",
+        "X-linked recessive inheritance; Glycophorin A defect",
+        "Autosomal recessive inheritance; β-spectrin defect (more common than Ankyrin)",
+        "Autosomal dominant inheritance; Band 4.1 defect (more common than Ankyrin)"
+      ],
+      "ans": 0,
+      "exp": "Hereditary spherocytosis is most commonly autosomal dominant, with ankyrin (ANK-1 gene) defects being more common than Band 3 defects (Ankyrin > Band 3). (Book p103)"
+    },
+    {
+      "id": "MED-C18-07",
+      "sec": "Inherited Hemolytic Anemias & Hereditary Spherocytosis: Genetics and RBC Membrane Structure",
+      "page": 103,
+      "fmt": "recall",
+      "q": "Autosomal recessive hereditary spherocytosis is classically caused by a defect in which RBC cytoskeleton protein?",
+      "opts": [
+        "Glycophorin C",
+        "Band 3 anion exchanger",
+        "β-spectrin",
+        "Ankyrin (ANK-1)"
+      ],
+      "ans": 2,
+      "exp": "Autosomal recessive hereditary spherocytosis is associated with β-spectrin deficiency. (Book p103)"
+    },
+    {
+      "id": "MED-C18-08",
+      "sec": "Inherited Hemolytic Anemias & Hereditary Spherocytosis: Genetics and RBC Membrane Structure",
+      "page": 103,
+      "fmt": "recall",
+      "q": "What is the fundamental structural defect in the RBC membrane in hereditary spherocytosis?",
+      "opts": [
+        "Inability to generate NADPH via the hexose monophosphate shunt",
+        "Defective pattern of the lipid bilayer between vertical and tangential associations",
+        "Polymerization of deoxygenated hemoglobin S chains into rigid tactoids",
+        "Failure of GPI-anchor synthesis due to somatic PIGA mutation"
+      ],
+      "ans": 1,
+      "exp": "The primary defect in hereditary spherocytosis is a defective pattern of the lipid bilayer between vertical and tangential associations. (Book p103)"
+    },
+    {
+      "id": "MED-C18-09",
+      "sec": "Inherited Hemolytic Anemias & Hereditary Spherocytosis: Genetics and RBC Membrane Structure",
+      "page": 103,
+      "fmt": "recall",
+      "q": "In the RBC membrane structure diagram, defects in Band 3 (an abundant integral membrane protein associated with HS) also cause which two red cell membrane disorders and confer protection against which parasite?",
+      "opts": [
+        "Hereditary elliptocytosis and pyropoikilocytosis; protective against Babesia microti",
+        "Southeast Asian xerocytosis and echinocytosis; protective against Leishmania donovani",
+        "Hereditary ovalocytosis and stomatocytosis; protective against Plasmodium falciparum",
+        "Paroxysmal nocturnal hemoglobinuria and acanthocytosis; protective against Plasmodium vivax"
+      ],
+      "ans": 2,
+      "exp": "Band 3 is abundant in the RBC membrane, associated with hereditary spherocytosis, hereditary ovalocytosis, and stomatocytosis, and is protective against Plasmodium falciparum. (Book p103)"
+    },
+    {
+      "id": "MED-C18-10",
+      "sec": "Inherited Hemolytic Anemias & Hereditary Spherocytosis: Genetics and RBC Membrane Structure",
+      "page": 103,
+      "fmt": "recall",
+      "q": "According to the RBC membrane structure diagram, what is the primary physiological role of the spectrin dimer and which two clinical disorders result from its defect?",
+      "opts": [
+        "Catalyzes glutathione reduction in the cytosol; causes favism and neonatal kernicterus",
+        "Responsible for biconcavity of RBC (abundant in cytoskeleton); causes severe autosomal recessive HS in children/neonates and hereditary elliptocytosis",
+        "Serves as the extracellular sialoglycoprotein receptor; causes paroxysmal cold hemoglobinuria",
+        "Acts as the primary anion channel in the lipid bilayer; causes hereditary ovalocytosis and stomatocytosis"
+      ],
+      "ans": 1,
+      "exp": "Spectrin dimer is abundant in the cytoskeleton and responsible for the biconcavity of the RBC; its defects cause severe autosomal recessive HS in children and neonates as well as hereditary elliptocytosis. (Book p103)"
+    },
+    {
+      "id": "MED-C18-11",
+      "sec": "Inherited Hemolytic Anemias & Hereditary Spherocytosis: Genetics and RBC Membrane Structure",
+      "page": 103,
+      "fmt": "recall",
+      "q": "Which gene is mutated in the most common autosomal dominant form of hereditary spherocytosis?",
+      "opts": [
+        "ANK-1 gene (encoding Ankyrin)",
+        "PIGA gene (encoding phosphatidylinositol glycan class A)",
+        "SPTA1 gene (encoding α-spectrin)",
+        "EPB42 gene (encoding Protein 4.2)"
+      ],
+      "ans": 0,
+      "exp": "Mutation in the ANK-1 gene (autosomal dominant), which encodes ankyrin, is the most common cause of hereditary spherocytosis (m/c HS). (Book p103)"
+    },
+    {
+      "id": "MED-C18-12",
+      "sec": "Inherited Hemolytic Anemias & Hereditary Spherocytosis: Genetics and RBC Membrane Structure",
+      "page": 103,
+      "fmt": "recall",
+      "q": "In the RBC membrane cytoskeleton diagram on page 103, which accessory proteins are depicted at the junctional complexes on the cytoplasmic face of the lipid bilayer?",
+      "opts": [
+        "Dystrophin, sarcoglycan, and syntrophin",
+        "Clathrin, caveolin, and dynamin",
+        "Tropomyosin and Actin on one complex, and Band 4.1, Adducin, and Band 4.9 on the other",
+        "CD55 (DAF) and CD59 (MIRL) anchored via glycolipid tails"
+      ],
+      "ans": 2,
+      "exp": "The RBC cytoskeleton diagram illustrates Ankyrin linking Band 3 to the spectrin dimer, with Tropomyosin and Actin at one junctional complex and Band 4.1, Adducin, and Band 4.9 at the other. (Book p103)"
+    },
+    {
+      "id": "MED-C18-13",
+      "sec": "Inherited Hemolytic Anemias & Hereditary Spherocytosis: Genetics and RBC Membrane Structure",
+      "page": 103,
+      "fmt": "fillup",
+      "q": "Plasmodium falciparum binds with ______ on the red blood cell surface, which is noted as the most abundant protein on the RBC membrane.",
+      "opts": [
+        "spectrin",
+        "tropomyosin",
+        "ankyrin",
+        "glycophorin"
+      ],
+      "ans": 3,
+      "exp": "Plasmodium falciparum binds with glycophorin, noted at the bottom of page 103 as the most abundant protein on the RBC membrane. (Book p103)"
+    },
+    {
+      "id": "MED-C18-14",
+      "sec": "Inherited Hemolytic Anemias & Hereditary Spherocytosis: Genetics and RBC Membrane Structure",
+      "page": 103,
+      "fmt": "match",
+      "q": "Match the RBC membrane protein with its key attribute from the Structure of RBC diagram — 1) Band 3 2) Ankyrin 3) Spectrin dimer 4) Glycophorin … A) Cytoskeletal protein responsible for RBC biconcavity & elliptocytosis B) Integral protein associated with ovalocytosis & stomatocytosis C) Surface receptor bound by Plasmodium falciparum D) ANK-1 gene (AD) — most common cause of HS",
+      "opts": [
+        "1-B, 2-C, 3-A, 4-D",
+        "1-A, 2-D, 3-B, 4-C",
+        "1-B, 2-D, 3-A, 4-C",
+        "1-D, 2-B, 3-C, 4-A"
+      ],
+      "ans": 2,
+      "exp": "Band 3 is associated with HS, ovalocytosis, and stomatocytosis; Ankyrin (ANK-1 gene, AD) is the most common defect in HS; Spectrin dimer maintains biconcavity and is defective in severe AR HS and hereditary elliptocytosis; Glycophorin is bound by P. falciparum. (Book p103)"
+    },
+    {
+      "id": "MED-C18-15",
+      "sec": "Hereditary Spherocytosis: Pathogenesis, Clinical Features & Investigations",
+      "page": 104,
+      "fmt": "recall",
+      "q": "In the pathogenesis of hereditary spherocytosis, what immediate membrane event converts a biconcave red blood cell with a lipid bilayer defect into a sphere?",
+      "opts": [
+        "Formation and detachment of microvesicles from the RBC membrane",
+        "Cross-linking of membrane sulfhydryl groups by precipitated Heinz bodies",
+        "Osmotic influx of sodium and water through leaky cation channels",
+        "Fc-receptor-mediated partial phagocytosis by hepatic Kupffer cells"
+      ],
+      "ans": 0,
+      "exp": "A defect in the lipid bilayer leads to microvesicle formation on the RBC membrane followed by detachment of the microvesicle from the membrane, causing the RBC to become spherical. (Book p104)"
+    },
+    {
+      "id": "MED-C18-16",
+      "sec": "Hereditary Spherocytosis: Pathogenesis, Clinical Features & Investigations",
+      "page": 104,
+      "fmt": "fillup",
+      "q": "When a red blood cell loses membrane microvesicles and becomes spherical, a sphere has the ______ surface area to volume ratio.",
+      "opts": [
+        "highest",
+        "least",
+        "most deformable",
+        "unchanged"
+      ],
+      "ans": 1,
+      "exp": "A sphere has the least surface area : volume ratio, which prevents degradation in the general circulation but prevents elongation in narrow splenic capillaries. (Book p104)"
+    },
+    {
+      "id": "MED-C18-17",
+      "sec": "Hereditary Spherocytosis: Pathogenesis, Clinical Features & Investigations",
+      "page": 104,
+      "fmt": "numeric",
+      "q": "Why do spherocytes fail to traverse the splenic cords and undergo extravascular destruction by splenic macrophages?",
+      "opts": [
+        "Normal RBC diameter is 3–4 μm whereas splenic capillaries measure 7–8 μm",
+        "Normal RBC diameter is 12–15 μm whereas splenic capillaries measure 8–10 μm",
+        "Spherocytes polymerize at splenic pH < 6.8 and occlude 15–20 μm venules",
+        "Normal RBC diameter is 7–8 μm whereas splenic capillaries measure only 3–4 μm, and spherical RBCs fail to elongate"
+      ],
+      "ans": 3,
+      "exp": "Because RBC diameter is 7–8 μm while splenic capillaries measure 3–4 μm, spherical RBCs fail to elongate and are destroyed by splenic macrophages (extravascular hemolysis). (Book p104)"
+    },
+    {
+      "id": "MED-C18-18",
+      "sec": "Hereditary Spherocytosis: Pathogenesis, Clinical Features & Investigations",
+      "page": 104,
+      "fmt": "oddoneout",
+      "q": "All of the following are classic clinical features of hereditary spherocytosis listed on page 104 EXCEPT:",
+      "opts": [
+        "Recurrent hemoglobinuria and pancytopenia with hepatic vein thrombosis",
+        "Aplastic crisis due to parvovirus B19",
+        "Moderate splenomegaly and gallstones",
+        "Anemia and intermittent jaundice"
+      ],
+      "ans": 0,
+      "exp": "Clinical features of hereditary spherocytosis are anemia, moderate splenomegaly, aplastic crisis due to parvovirus B19, gallstones, and intermittent jaundice. (Book p104)"
+    },
+    {
+      "id": "MED-C18-19",
+      "sec": "Hereditary Spherocytosis: Pathogenesis, Clinical Features & Investigations",
+      "page": 104,
+      "fmt": "recall",
+      "q": "Which viral infection classically precipitates an acute aplastic crisis in patients with hereditary spherocytosis?",
+      "opts": [
+        "Parvovirus B19",
+        "Epstein-Barr virus (EBV)",
+        "Human herpesvirus-6 (HHV-6)",
+        "Cytomegalovirus (CMV)"
+      ],
+      "ans": 0,
+      "exp": "Aplastic crisis in hereditary spherocytosis is caused by Parvovirus B19. (Book p104)"
+    },
+    {
+      "id": "MED-C18-20",
+      "sec": "Hereditary Spherocytosis: Pathogenesis, Clinical Features & Investigations",
+      "page": 104,
+      "fmt": "scenario",
+      "q": "A 19-year-old patient presents with intermittent jaundice, moderate splenomegaly, and pigment gallstones on ultrasound. Peripheral blood smear demonstrates round red blood cells lacking central pallor (microspherocytes). What red blood cell index pattern is expected?",
+      "opts": [
+        "Decreased MCV (↓) and markedly decreased MCHC (↓↓)",
+        "Normal MCV and decreased MCHC (↓)",
+        "Decreased MCV (↓) and markedly increased MCHC (↑↑)",
+        "Increased MCV (↑↑) and decreased MCHC (↓↓)"
+      ],
+      "ans": 2,
+      "exp": "In hereditary spherocytosis, peripheral smear shows microspherocytes (round with no pallor) and red cell indices characteristically show ↓ MCV and ↑↑ MCHC. (Book p104)"
+    },
+    {
+      "id": "MED-C18-21",
+      "sec": "Hereditary Spherocytosis: Pathogenesis, Clinical Features & Investigations",
+      "page": 104,
+      "fmt": "recall",
+      "q": "In the diagnostic workup of hereditary spherocytosis, which investigation is listed as the MOST PREFERRED test and which is the GOLD STANDARD?",
+      "opts": [
+        "Osmotic fragility test is most preferred; glycerol lysis (pink) test is the gold standard",
+        "Eosin-5-maleimide (EMA) test is most preferred; osmotic fragility is the gold standard",
+        "Direct Coombs test is most preferred; FLAER flow cytometry is the gold standard",
+        "Ektacytometry is most preferred; SDS-PAGE electrophoresis is the gold standard"
+      ],
+      "ans": 3,
+      "exp": "Under HS investigations on page 104: Ektacytometry is most preferred, and SDS-PAGE electrophoresis is the gold standard. (Book p104)"
+    },
+    {
+      "id": "MED-C18-22",
+      "sec": "Hereditary Spherocytosis: Pathogenesis, Clinical Features & Investigations",
+      "page": 104,
+      "fmt": "match",
+      "q": "Match the diagnostic investigation in hereditary spherocytosis with its status or characteristic — 1) Ektacytometry 2) SDS-PAGE electrophoresis 3) Eosin-5-maleimide (EMA) binding test 4) Glycerol lysis / Pink test … A) Obsolete test B) Gold standard test C) Flow fluorescence test (less specific for ankyrin) D) Most preferred test",
+      "opts": [
+        "1-A, 2-B, 3-D, 4-C",
+        "1-D, 2-B, 3-C, 4-A",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 1,
+      "exp": "In HS investigations: Ektacytometry is most preferred, SDS-PAGE electrophoresis is the gold standard, Eosin-5-maleimide (EMA) test measures RBC fluorescence (less specific for ankyrin), osmotic fragility has low sensitivity/specificity and is not used, and the glycerol lysis/pink test is obsolete. (Book p104)"
+    },
+    {
+      "id": "MED-C18-23",
+      "sec": "Hereditary Spherocytosis: Pathogenesis, Clinical Features & Investigations",
+      "page": 104,
+      "fmt": "recall",
+      "q": "In the Eosin-5-maleimide (EMA) test for hereditary spherocytosis, what is the principle and noted limitation?",
+      "opts": [
+        "EMA binds with RBC membrane proteins to produce fluorescence; it is less specific for ankyrin defects",
+        "EMA precipitates unstable hemoglobin H inclusions; it is falsely negative in splenectomized patients",
+        "EMA measures glucose-6-phosphate oxidation under UV light; it is falsely normal during acute reticulocytosis",
+        "EMA chelates intracellular non-heme iron; it is only positive in hereditary elliptocytosis"
+      ],
+      "ans": 0,
+      "exp": "In the Eosin-5-maleimide (EMA) test, EMA binds with the RBC to produce fluorescence and is noted as less specific for ankyrin. (Book p104)"
+    },
+    {
+      "id": "MED-C18-24",
+      "sec": "Hereditary Spherocytosis: Pathogenesis, Clinical Features & Investigations",
+      "page": 104,
+      "fmt": "numeric",
+      "q": "What saline concentrations and clinical utility are listed for the osmotic fragility test in hereditary spherocytosis on page 104?",
+      "opts": [
+        "Printed principle lists (N) 3.0% hypertonic saline and HS rupture at 1.8% saline; it is the most preferred first-line screening investigation",
+        "Printed principle lists acidified serum lysis at pH 6.5 in 5% sucrose; it is more specific than SDS-PAGE electrophoresis for ankyrin defects",
+        "Printed principle lists (N) ≥ 0.7% saline and HS rupture at 0.3% (fragile RBCs); it has low sensitivity and specificity and is not used",
+        "Printed principle lists (N) 0.1% saline and HS rupture at 0.9% saline; it is the gold standard test with > 99% sensitivity and specificity"
+      ],
+      "ans": 2,
+      "exp": "The osmotic fragility test tests RBC rupture in hypotonic saline (printed on page 104 as '(N): Rupture of RBC in ≥ 0.7% saline; HS: Rupture at 0.3% → Fragile RBCs'); because it has low sensitivity and specificity, it is not used. (Book p104)"
+    },
+    {
+      "id": "MED-C18-25",
+      "sec": "Hereditary Spherocytosis: Pathogenesis, Clinical Features & Investigations",
+      "page": 104,
+      "fmt": "truefalse",
+      "q": "Which of the following statements regarding diagnostic tests for hereditary spherocytosis is TRUE?",
+      "opts": [
+        "True — The osmotic fragility test has the highest sensitivity and specificity for hereditary spherocytosis",
+        "False — The glycerol lysis (pink) test is the current first-line screening test for hereditary spherocytosis",
+        "False — Red blood cell indices in hereditary spherocytosis characteristically show elevated MCV and decreased MCHC",
+        "True — Ektacytometry is the most preferred investigation, whereas SDS-PAGE electrophoresis is the gold standard"
+      ],
+      "ans": 3,
+      "exp": "Ektacytometry is the most preferred test and SDS-PAGE electrophoresis is the gold standard; MCV is decreased with markedly increased MCHC (↑↑), osmotic fragility has low sensitivity/specificity and is not used, and the glycerol lysis (pink) test is obsolete. (Book p104)"
+    },
+    {
+      "id": "MED-C18-26",
+      "sec": "Hereditary Spherocytosis Treatment & G6PD Deficiency: Genetics, HMP Shunt and Triggers",
+      "page": 105,
+      "fmt": "match",
+      "q": "Match the severity grade of hereditary spherocytosis with its typical clinical presentation and definitive management — 1) Mild disease 2) Moderate disease 3) Severe disease 4) Concomitant gallbladder rule … A) Cholecystectomy is done only if gallstones are positive B) Seen in adults; supportive care C) Anemia & gallstones; splenectomy at puberty D) Seen in children with jaundice & complications; splenectomy at 3–4 years",
+      "opts": [
+        "1-B, 2-C, 3-D, 4-A",
+        "1-C, 2-B, 3-A, 4-D",
+        "1-B, 2-D, 3-C, 4-A",
+        "1-D, 2-B, 3-C, 4-A"
+      ],
+      "ans": 0,
+      "exp": "In HS treatment: mild disease (seen in adults) is managed with supportive care; moderate disease (anemia, gallstones) with splenectomy at puberty; severe disease (seen in children with jaundice and complications) with splenectomy at 3–4 years; and cholecystectomy is done only if gallstones are positive (+ve). (Book p105)"
+    },
+    {
+      "id": "MED-C18-27",
+      "sec": "Hereditary Spherocytosis Treatment & G6PD Deficiency: Genetics, HMP Shunt and Triggers",
+      "page": 105,
+      "fmt": "management",
+      "q": "How is moderate hereditary spherocytosis (presenting with anemia and gallstones/cholelithiasis) managed surgically?",
+      "opts": [
+        "Allogeneic hematopoietic stem cell transplantation in early childhood",
+        "Supportive care alone with lifelong avoidance of splenectomy",
+        "Emergency splenectomy in the neonatal period (< 6 months of age)",
+        "Splenectomy at puberty (with cholecystectomy performed if gallstones are positive)"
+      ],
+      "ans": 3,
+      "exp": "Moderate HS presents with anemia and gallstones (cholelithiasis) and is treated with splenectomy at puberty; mild HS (seen in adults) receives supportive care. (Book p105)"
+    },
+    {
+      "id": "MED-C18-28",
+      "sec": "Hereditary Spherocytosis Treatment & G6PD Deficiency: Genetics, HMP Shunt and Triggers",
+      "page": 105,
+      "fmt": "management",
+      "q": "A child with severe hereditary spherocytosis has persistent jaundice and transfusion-dependent complications. At what age is splenectomy recommended, and what pre-operative and post-operative considerations apply?",
+      "opts": [
+        "Defer splenectomy until age 25 years; main post-operative risk is autoimmune warm hemolysis",
+        "Perform prophylactic cholecystectomy without splenectomy at 1 year of age",
+        "Splenectomy at 3–4 years of age; pre-operative vaccination is required, and post-operative risks include sepsis and thrombosis",
+        "Immediate splenectomy in the neonatal period (< 6 months); no vaccination needed until puberty"
+      ],
+      "ans": 2,
+      "exp": "Severe HS in children (jaundice, complications) is treated with splenectomy at 3–4 years of age. Pre-operative vaccination is mandatory, and post-operative complications include the risk of sepsis and thrombosis. (Book p105)"
+    },
+    {
+      "id": "MED-C18-29",
+      "sec": "Hereditary Spherocytosis Treatment & G6PD Deficiency: Genetics, HMP Shunt and Triggers",
+      "page": 105,
+      "fmt": "recall",
+      "q": "When performing splenectomy in a patient with hereditary spherocytosis, when is cholecystectomy indicated?",
+      "opts": [
+        "Routinely in all patients undergoing splenectomy as prophylaxis",
+        "Only if gallstones are positive (+ve)",
+        "Never at the same sitting as splenectomy due to portal vein thrombosis risk",
+        "Only if serum alkaline phosphatase exceeds 1,000 IU/L"
+      ],
+      "ans": 1,
+      "exp": "As highlighted in the boxed note on page 105: Cholecystectomy is done only if gallstones are positive (+ve). (Book p105)"
+    },
+    {
+      "id": "MED-C18-30",
+      "sec": "Hereditary Spherocytosis Treatment & G6PD Deficiency: Genetics, HMP Shunt and Triggers",
+      "page": 105,
+      "fmt": "recall",
+      "q": "What are the two major post-operative risks following splenectomy highlighted on page 105?",
+      "opts": [
+        "Secondary hemochromatosis and monoclonal gammopathy",
+        "Autoimmune thyroiditis and aplastic anemia",
+        "Pigment nephropathy and fat embolism",
+        "Sepsis and thrombosis"
+      ],
+      "ans": 3,
+      "exp": "Under Splenectomy on page 105: Pre-operative requires vaccination, and post-operative carries the risk of sepsis and thrombosis. (Book p105)"
+    },
+    {
+      "id": "MED-C18-31",
+      "sec": "Hereditary Spherocytosis Treatment & G6PD Deficiency: Genetics, HMP Shunt and Triggers",
+      "page": 105,
+      "fmt": "recall",
+      "q": "What is the mode of inheritance, specific variant class highlighted, and pattern of hemolysis in Glucose-6-Phosphate Dehydrogenase (G6PD) deficiency?",
+      "opts": [
+        "Mitochondrial maternal inheritance; Class 3 Mediterranean type has ↑ NADPH; causes pure microangiopathic mechanical fragmentation hemolysis",
+        "Autosomal dominant inheritance; Class 1 African type has ↑ G6PD activity; causes isolated chronic extravascular hemolysis in the hepatic sinusoids",
+        "Autosomal recessive inheritance; Class 4 Asian type has absent Band 3 protein; causes isolated chronic extravascular hemolysis in the splenic cords",
+        "X-linked intermediate inheritance; Class 2 Mediterranean type has ↓ G6PD; causes combined hemolysis with acute intravascular > chronic extravascular hemolysis"
+      ],
+      "ans": 3,
+      "exp": "G6PD deficiency shows X-linked intermediate inheritance, Class 2 Mediterranean type has decreased (↓) G6PD activity, and hemolysis is combined (acute intravascular hemolysis > chronic extravascular hemolysis). (Book p105)"
+    },
+    {
+      "id": "MED-C18-32",
+      "sec": "Hereditary Spherocytosis Treatment & G6PD Deficiency: Genetics, HMP Shunt and Triggers",
+      "page": 105,
+      "fmt": "fillup",
+      "q": "In the hexose monophosphate (HMP) shunt, G6PD converts glucose-6-phosphate into 6-phosphogluconolactone while generating ______, which maintains reduced glutathione to protect RBCs from oxidative injury.",
+      "opts": [
+        "2,3-bisphosphoglycerate (2,3-BPG)",
+        "FADH2",
+        "NADPH",
+        "NADH"
+      ],
+      "ans": 2,
+      "exp": "In the HMP shunt: G6PD → 6-phosphogluconolactone → NADPH → Reduced glutathione → Protects RBCs from oxidative injury. (Book p105)"
+    },
+    {
+      "id": "MED-C18-33",
+      "sec": "Hereditary Spherocytosis Treatment & G6PD Deficiency: Genetics, HMP Shunt and Triggers",
+      "page": 105,
+      "fmt": "recall",
+      "q": "Trace the exact sequence of the HMP shunt protective pathway depicted under G6PD Deficiency pathophysiology on page 105:",
+      "opts": [
+        "G6PD → 2,3-BPG → Oxidized glutathione → Catalase → Prevents sickle polymerization",
+        "G6PD → Pyruvate → NADH → Methemoglobin reductase → Protects RBCs from osmotic lysis",
+        "G6PD → 6-Phosphogluconolactone → NADPH → Reduced glutathione → Protects RBCs from oxidative injury",
+        "G6PD → Fructose-1,6-bisphosphate → ATP → Na+/K+-ATPase → Maintains biconcavity"
+      ],
+      "ans": 2,
+      "exp": "The HMP shunt flowchart on page 105 shows: G6PD → 6 Phosphogluconolactone → NADPH → Reduced glutathione → Protects RBCs from oxidative injury. (Book p105)"
+    },
+    {
+      "id": "MED-C18-34",
+      "sec": "Hereditary Spherocytosis Treatment & G6PD Deficiency: Genetics, HMP Shunt and Triggers",
+      "page": 105,
+      "fmt": "numeric",
+      "q": "Above what dose thresholds do aspirin and vitamin C precipitate oxidative hemolysis in patients with G6PD deficiency?",
+      "opts": [
+        "Aspirin > 325 mg and vitamin C > 250 mg",
+        "High-dose aspirin > 3 g/dL (3 g/day) and high-dose vitamin C > 1 g",
+        "Aspirin > 10 g and vitamin C > 10 g",
+        "Low-dose aspirin > 75 mg and vitamin C > 60 mg"
+      ],
+      "ans": 1,
+      "exp": "The precipitating drugs list specifies high-dose aspirin (> 3 g/dL as printed) and high-dose vitamin C (> 1 g) alongside primaquine, dapsone, sulfamethoxazole (cotrimoxazole), nitrofurantoin, rasburicase, methylene blue, and chloroquine. (Book p105)"
+    },
+    {
+      "id": "MED-C18-35",
+      "sec": "Hereditary Spherocytosis Treatment & G6PD Deficiency: Genetics, HMP Shunt and Triggers",
+      "page": 105,
+      "fmt": "oddoneout",
+      "q": "All of the following drugs and exposures are listed as precipitants of acute oxidative hemolysis in G6PD deficiency EXCEPT:",
+      "opts": [
+        "Methylene blue, fava beans, and acute infection",
+        "Penicillin G",
+        "Primaquine, chloroquine, and dapsone",
+        "Sulfamethoxazole (cotrimoxazole), nitrofurantoin, and rasburicase"
+      ],
+      "ans": 1,
+      "exp": "Listed precipitants of G6PD hemolysis include primaquine, dapsone, sulfamethoxazole (cotrimoxazole), nitrofurantoin, rasburicase, high-dose aspirin (>3 g/dL), high-dose vitamin C (>1 g), methylene blue, chloroquine, infection, and fava beans. (Book p105)"
+    },
+    {
+      "id": "MED-C18-36",
+      "sec": "Hereditary Spherocytosis Treatment & G6PD Deficiency: Genetics, HMP Shunt and Triggers",
+      "page": 105,
+      "fmt": "recall",
+      "q": "Why is methylene blue contraindicated in a patient with G6PD deficiency (for example, during treatment of dapsone- or rasburicase-induced methemoglobinemia)?",
+      "opts": [
+        "Methylene blue requires NADPH from the HMP shunt and is itself a precipitating oxidant drug that worsens hemolysis in G6PD deficiency",
+        "Methylene blue induces warm IgG autoantibodies against Rh antigens that trigger fulminant Fc-receptor-mediated splenic sequestration",
+        "Methylene blue irreversibly chelates mitochondrial iron in normoblasts and precipitates acute ringed sideroblastic arrest in the bone marrow",
+        "Methylene blue inhibits hepatic ferrochelatase and delta-ALA dehydratase, precipitating acute neurovisceral porphyria and vasospasm"
+      ],
+      "ans": 0,
+      "exp": "Methylene blue and rasburicase are both explicitly listed among the drugs that precipitate acute oxidative hemolysis in G6PD deficiency. (Book p105)"
+    },
+    {
+      "id": "MED-C18-37",
+      "sec": "Hereditary Spherocytosis Treatment & G6PD Deficiency: Genetics, HMP Shunt and Triggers",
+      "page": 105,
+      "fmt": "fillup",
+      "q": "In G6PD deficiency, the ______ state is protective against malaria.",
+      "opts": [
+        "heterozygote",
+        "iron-overloaded",
+        "splenectomized",
+        "homozygous null"
+      ],
+      "ans": 0,
+      "exp": "As stated in the boxed note on page 105: Heterozygote is protective against malaria. (Book p105)"
+    },
+    {
+      "id": "MED-C18-38",
+      "sec": "G6PD Deficiency: Peripheral Smear, Diagnosis, Treatment & Anemia of Blood Loss",
+      "page": 106,
+      "fmt": "recall",
+      "q": "In G6PD deficiency, what are Heinz bodies composed of, and what red cell morphologies result when splenic macrophages pit them out?",
+      "opts": [
+        "Heinz bodies are precipitates of denatured globin inside the RBC; their removal produces blister cells (hemighosts), bite cells, and triangle cells",
+        "Heinz bodies are nuclear DNA remnants; hepatic Kupffer cells convert them into target cells",
+        "Heinz bodies are precipitated ribosomal RNA aggregates; complement MAC converts them into spherocytes",
+        "Heinz bodies are iron-laden mitochondria; bone marrow macrophages convert them into acanthocytes"
+      ],
+      "ans": 0,
+      "exp": "On the peripheral smear in G6PD deficiency, Heinz bodies represent precipitation of denatured globin inside the RBC; also illustrated on page 106 are blister cells (hemighosts), bite cells, triangle cells, and Howell-Jolly bodies. (Book p106)"
+    },
+    {
+      "id": "MED-C18-39",
+      "sec": "G6PD Deficiency: Peripheral Smear, Diagnosis, Treatment & Anemia of Blood Loss",
+      "page": 106,
+      "fmt": "fillup",
+      "q": "On the peripheral blood smear in oxidative hemolysis, blister cells are also known as ______.",
+      "opts": [
+        "drepanocytes",
+        "codocytes",
+        "hemighosts",
+        "dacrocytes"
+      ],
+      "ans": 2,
+      "exp": "Page 106 labels blister cells on the peripheral smear as Hemighosts ('Blister cells (Hemighosts)'). (Book p106)"
+    },
+    {
+      "id": "MED-C18-40",
+      "sec": "G6PD Deficiency: Peripheral Smear, Diagnosis, Treatment & Anemia of Blood Loss",
+      "page": 106,
+      "fmt": "match",
+      "q": "Match the peripheral blood smear red cell morphology depicted on page 106 with its description or disease association — 1) Heinz bodies 2) Blister cells 3) Helmet cells 4) Echinocytes … A) Also called hemighosts B) Classical of fragmented hemolysis C) Seen in CKD and pyruvate kinase deficiency D) Precipitation of denatured globin inside RBC",
+      "opts": [
+        "1-D, 2-A, 3-B, 4-C",
+        "1-D, 2-C, 3-A, 4-B",
+        "1-B, 2-D, 3-C, 4-A",
+        "1-A, 2-D, 3-B, 4-C"
+      ],
+      "ans": 0,
+      "exp": "Page 106 illustrates: Howell-Jolly bodies, Heinz bodies (precipitation of denatured globin inside RBC), blister cells (hemighosts), bite cells, triangle cells, helmet cells (classical of fragmented hemolysis), echinocytes (in CKD and pyruvate kinase deficiency), and basophilic stippling (also seen in 5'-pyrimidine nucleotidase). (Book p106)"
+    },
+    {
+      "id": "MED-C18-41",
+      "sec": "G6PD Deficiency: Peripheral Smear, Diagnosis, Treatment & Anemia of Blood Loss",
+      "page": 106,
+      "fmt": "recall",
+      "q": "Helmet cells on the peripheral blood smear panel on page 106 are highlighted as classical of which type of hemolysis?",
+      "opts": [
+        "Extravascular warm autoimmune hemolysis",
+        "Fragmented hemolysis",
+        "5'-pyrimidine nucleotidase deficiency",
+        "Hereditary stomatocytosis"
+      ],
+      "ans": 1,
+      "exp": "Helmet cells are labeled on page 106 as 'Classical of fragmented hemolysis'. (Book p106)"
+    },
+    {
+      "id": "MED-C18-42",
+      "sec": "G6PD Deficiency: Peripheral Smear, Diagnosis, Treatment & Anemia of Blood Loss",
+      "page": 106,
+      "fmt": "recall",
+      "q": "Echinocytes (burr cells with uniform short projections) shown on the peripheral smear panel on page 106 are characteristically associated with which two conditions?",
+      "opts": [
+        "Abetalipoproteinemia and McLeod syndrome",
+        "Chronic kidney disease (CKD) and pyruvate kinase deficiency",
+        "Paroxysmal nocturnal hemoglobinuria and cold agglutinin disease",
+        "Hereditary spherocytosis and warm autoimmune hemolytic anemia"
+      ],
+      "ans": 1,
+      "exp": "The peripheral smear gallery on page 106 highlights echinocytes in chronic kidney disease (CKD) and pyruvate kinase deficiency. (Book p106)"
+    },
+    {
+      "id": "MED-C18-43",
+      "sec": "G6PD Deficiency: Peripheral Smear, Diagnosis, Treatment & Anemia of Blood Loss",
+      "page": 106,
+      "fmt": "recall",
+      "q": "Which specific laboratory test is used as the screening test for G6PD deficiency, and how is the diagnosis confirmed?",
+      "opts": [
+        "Fluorescent spot test for screening, followed by quantitative enzyme assay",
+        "Sucrose lysis test for screening, followed by FLAER flow cytometry",
+        "Direct Coombs test for screening, followed by cold agglutinin titer",
+        "Eosin-5-maleimide (EMA) binding test for screening, followed by SDS-PAGE electrophoresis"
+      ],
+      "ans": 0,
+      "exp": "Investigations for G6PD deficiency are: (1) peripheral smear, (2) fluorescent spot test (screening test), and (3) quantitative assay. (Book p106)"
+    },
+    {
+      "id": "MED-C18-44",
+      "sec": "G6PD Deficiency: Peripheral Smear, Diagnosis, Treatment & Anemia of Blood Loss",
+      "page": 106,
+      "fmt": "management",
+      "q": "What is the primary treatment for a patient experiencing acute hemolysis due to G6PD deficiency?",
+      "opts": [
+        "Intravenous methylene blue and high-dose ascorbic acid (> 1 g/day)",
+        "Terminal complement C5 inhibition with eculizumab",
+        "Stop the precipitating agent and provide symptomatic treatment",
+        "Emergency splenectomy and high-dose intravenous methylprednisolone"
+      ],
+      "ans": 2,
+      "exp": "Treatment of G6PD deficiency consists of stopping the precipitating agent and providing symptomatic Rx. (Book p106)"
+    },
+    {
+      "id": "MED-C18-45",
+      "sec": "G6PD Deficiency: Peripheral Smear, Diagnosis, Treatment & Anemia of Blood Loss",
+      "page": 106,
+      "fmt": "match",
+      "q": "Match the sequential physiological stages and lethal triad of anemia due to acute blood loss — 1) Stage I 2) Stage II 3) Stage III 4) Lethal triad of hemorrhage … A) Increased EPO (↑) and increased reticulocytes (↑) B) Hypothermia, Acidosis, and DIC C) Hypovolemia D) Volume shift (extravascular → intravascular)",
+      "opts": [
+        "1-C, 2-A, 3-D, 4-B",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-D, 2-C, 3-A, 4-B",
+        "1-A, 2-D, 3-C, 4-B"
+      ],
+      "ans": 1,
+      "exp": "Blood loss stages are: Stage I — Hypovolemia; Stage II — Volume shift (extravascular → intravascular); Stage III — ↑ EPO and ↑ reticulocytes. The triangle diagram shows the triad of Hypothermia, Acidosis, and DIC. (Book p106)"
+    },
+    {
+      "id": "MED-C18-46",
+      "sec": "G6PD Deficiency: Peripheral Smear, Diagnosis, Treatment & Anemia of Blood Loss",
+      "page": 106,
+      "fmt": "recall",
+      "q": "During Stage II of acute blood loss, what fluid compartment shift occurs?",
+      "opts": [
+        "Volume shift from the intravascular compartment into the extravascular interstitial space",
+        "Selective shift of red blood cells from the spleen into the portal vein",
+        "Osmotic shift of intracellular water out of red blood cells into plasma",
+        "Volume shift from the extravascular space into the intravascular compartment"
+      ],
+      "ans": 3,
+      "exp": "In Stage I of blood loss there is hypovolemia; in Stage II, volume shift occurs from the extravascular to the intravascular compartment (Extravascular → Intravascular); in Stage III, EPO ↑ and reticulocytes ↑. (Book p106)"
+    },
+    {
+      "id": "MED-C18-47",
+      "sec": "G6PD Deficiency: Peripheral Smear, Diagnosis, Treatment & Anemia of Blood Loss",
+      "page": 106,
+      "fmt": "recall",
+      "q": "What characterizes Stage III of the physiological response to blood loss anemia?",
+      "opts": [
+        "Extravascular-to-intravascular interstitial fluid shift with falling hematocrit",
+        "Suppression of erythropoietin with bone marrow erythroid hypoplasia",
+        "Acute hypovolemic shock with normal hemoglobin concentration",
+        "Increased erythropoietin (EPO ↑) and increased reticulocyte count (reticulocyte ↑)"
+      ],
+      "ans": 3,
+      "exp": "Stage III of blood loss is characterized by ↑ EPO and ↑ reticulocytes. (Book p106)"
+    },
+    {
+      "id": "MED-C18-48",
+      "sec": "G6PD Deficiency: Peripheral Smear, Diagnosis, Treatment & Anemia of Blood Loss",
+      "page": 106,
+      "fmt": "recall",
+      "q": "What are the three components of the triad illustrated at the bottom of page 106 under Blood Loss?",
+      "opts": [
+        "Hypothermia, Acidosis, and DIC (printed with Hypercoagulability)",
+        "Hemolysis, Elevated liver enzymes, and Low platelets (HELLP)",
+        "Hemoglobinuria, Pancytopenia, and Hepatic vein thrombosis",
+        "Microangiopathic hemolytic anemia, Thrombocytopenia, and Acute kidney injury"
+      ],
+      "ans": 0,
+      "exp": "The triangle diagram at the bottom of page 106 shows the triad of Hypothermia, Acidosis, and DIC (printed as 'DIC (Hypercoagulability)'). (Book p106)"
+    },
+    {
+      "id": "MED-C18-49",
+      "sec": "G6PD Deficiency: Peripheral Smear, Diagnosis, Treatment & Anemia of Blood Loss",
+      "page": 106,
+      "fmt": "truefalse",
+      "q": "Which of the following statements regarding G6PD deficiency and blood loss anemia on page 106 is TRUE?",
+      "opts": [
+        "False — Heinz bodies are composed of precipitated ribosomal RNA and are stained with Wright-Giemsa as basophilic stippling",
+        "False — In Stage II of acute blood loss, fluid shifts from the intravascular compartment into the extravascular compartment",
+        "True — Helmet cells are pathognomonic of 5'-pyrimidine nucleotidase deficiency",
+        "True — The fluorescent spot test is used as the screening test for G6PD deficiency, and echinocytes are seen in CKD and pyruvate kinase deficiency"
+      ],
+      "ans": 3,
+      "exp": "The fluorescent spot test is the screening test for G6PD deficiency, echinocytes are seen in CKD and pyruvate kinase deficiency, helmet cells are classical of fragmented hemolysis, Heinz bodies are denatured globin precipitates, and Stage II of blood loss involves an extravascular → intravascular volume shift. (Book p106)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U18-1",
+      "ch": 18,
+      "n": 1,
+      "title": "Inherited Hemolytic Anemias & Hereditary Spherocytosis: Genetics and RBC Membrane Structure",
+      "sec": "Inherited Hemolytic Anemias & Hereditary Spherocytosis: Genetics and RBC Membrane Structure",
+      "guide": "Inherited hemolytic anemias classify into hemoglobinopathies (sickle cell, thalassemia), membrane cytoskeleton disorders (HS), and enzymopathies (G6PD most common, pyruvate kinase, 5'-nucleotidase).\n5'-nucleotidase deficiency shows basophilic stippling; cholestasis markers include 5'-nucleotidase, alkaline phosphatase, and GGT.\nHereditary spherocytosis causes chronic compensated extravascular hemolysis from vertical/tangential membrane-cytoskeleton defects — AD (ankyrin ANK-1 > Band 3) more common than AR (β-spectrin).\nBand 3 (abundant in membrane; ovalocytosis/stomatocytosis; protects against P. falciparum), spectrin dimer (biconcavity, abundant in cytoskeleton; severe AR HS & hereditary elliptocytosis), and glycophorin (P. falciparum receptor).",
+      "qs": [
+        "MED-C18-01",
+        "MED-C18-02",
+        "MED-C18-03",
+        "MED-C18-04",
+        "MED-C18-05",
+        "MED-C18-06",
+        "MED-C18-07",
+        "MED-C18-08",
+        "MED-C18-09",
+        "MED-C18-10",
+        "MED-C18-11",
+        "MED-C18-12",
+        "MED-C18-13",
+        "MED-C18-14"
+      ]
+    },
+    {
+      "id": "MED-U18-2",
+      "ch": 18,
+      "n": 2,
+      "title": "Hereditary Spherocytosis: Pathogenesis, Clinical Features & Investigations",
+      "sec": "Hereditary Spherocytosis: Pathogenesis, Clinical Features & Investigations",
+      "guide": "Lipid bilayer defect → membrane microvesicle formation and detachment → spherical RBCs with the least surface-area-to-volume ratio.\n7–8 μm spherocytes fail to elongate through 3–4 μm splenic capillaries and undergo extravascular destruction by splenic macrophages.\nPresents with anemia, moderate splenomegaly, parvovirus B19 aplastic crisis, gallstones, and intermittent jaundice; indices show decreased MCV and markedly elevated MCHC with microspherocytes lacking central pallor.\nEktacytometry is most preferred, SDS-PAGE electrophoresis is the gold standard, EMA flow cytometry is less specific for ankyrin, osmotic fragility is not used, and glycerol lysis/pink test is obsolete.",
+      "qs": [
+        "MED-C18-15",
+        "MED-C18-16",
+        "MED-C18-17",
+        "MED-C18-18",
+        "MED-C18-19",
+        "MED-C18-20",
+        "MED-C18-21",
+        "MED-C18-22",
+        "MED-C18-23",
+        "MED-C18-24",
+        "MED-C18-25"
+      ]
+    },
+    {
+      "id": "MED-U18-3",
+      "ch": 18,
+      "n": 3,
+      "title": "Hereditary Spherocytosis Treatment & G6PD Deficiency: Genetics, HMP Shunt and Triggers",
+      "sec": "Hereditary Spherocytosis Treatment & G6PD Deficiency: Genetics, HMP Shunt and Triggers",
+      "guide": "HS treatment by severity: mild (adults) gets supportive care; moderate (anemia, gallstones) gets splenectomy at puberty; severe (children with jaundice/complications) gets splenectomy at 3–4 years.\nCholecystectomy is performed only if gallstones are positive; splenectomy requires pre-op vaccination and carries post-op risk of sepsis and thrombosis.\nG6PD deficiency is X-linked intermediate (Class 2 Mediterranean has decreased G6PD) and causes combined hemolysis with acute intravascular > chronic extravascular hemolysis.\nHMP shunt generates NADPH and reduced glutathione to protect RBCs from oxidative injury triggered by oxidant drugs (primaquine, dapsone, cotrimoxazole, nitrofurantoin, rasburicase, high-dose aspirin/vitamin C, methylene blue, chloroquine), infections, and fava beans.",
+      "qs": [
+        "MED-C18-26",
+        "MED-C18-27",
+        "MED-C18-28",
+        "MED-C18-29",
+        "MED-C18-30",
+        "MED-C18-31",
+        "MED-C18-32",
+        "MED-C18-33",
+        "MED-C18-34",
+        "MED-C18-35",
+        "MED-C18-36",
+        "MED-C18-37"
+      ]
+    },
+    {
+      "id": "MED-U18-4",
+      "ch": 18,
+      "n": 4,
+      "title": "G6PD Deficiency: Peripheral Smear, Diagnosis, Treatment & Anemia of Blood Loss",
+      "sec": "G6PD Deficiency: Peripheral Smear, Diagnosis, Treatment & Anemia of Blood Loss",
+      "guide": "Peripheral smear morphology includes Heinz bodies (denatured globin precipitates), blister cells (hemighosts), bite cells, triangle cells, Howell-Jolly bodies, helmet cells, echinocytes (CKD, PK deficiency), and basophilic stippling (5'-pyrimidine nucleotidase).\nG6PD diagnosis uses the fluorescent spot test for screening and quantitative enzyme assay for confirmation; management is stopping the precipitating agent and symptomatic care.\nAnemia of blood loss progresses through Stage I (hypovolemia), Stage II (extravascular-to-intravascular volume shift), and Stage III (increased EPO and reticulocytes).\nThe lethal triad in severe hemorrhage/blood loss comprises hypothermia, acidosis, and DIC.",
+      "qs": [
+        "MED-C18-38",
+        "MED-C18-39",
+        "MED-C18-40",
+        "MED-C18-41",
+        "MED-C18-42",
+        "MED-C18-43",
+        "MED-C18-44",
+        "MED-C18-45",
+        "MED-C18-46",
+        "MED-C18-47",
+        "MED-C18-48",
+        "MED-C18-49"
+      ]
+    }
+  ]
+}

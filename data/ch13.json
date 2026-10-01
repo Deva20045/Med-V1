@@ -1,0 +1,1387 @@
+{
+  "chapter": 13,
+  "title": "Approach To Microcytic Hypochromic Anemia",
+  "pageRange": "77-81",
+  "questions": [
+    {
+      "id": "MED-C13-01",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "page": 77,
+      "fmt": "recall",
+      "q": "In the opening blood-picture table on p77, what is the baseline blood picture of iron deficiency anemia?",
+      "opts": [
+        "Normocytic normochromic",
+        "Leukoerythroblastic",
+        "Macrocytic normochromic",
+        "Dimorphic (microcytic and macrocytic)"
+      ],
+      "ans": 0,
+      "exp": "The p77 table lists the baseline blood picture of iron deficiency anemia as normocytic normochromic. (Book p77)"
+    },
+    {
+      "id": "MED-C13-02",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "page": 77,
+      "fmt": "recall",
+      "q": "When does iron deficiency anemia show a microcytic hypochromic blood picture according to the p77 table?",
+      "opts": [
+        "Only when complicated by rheumatoid arthritis",
+        "Before serum ferritin begins to fall",
+        "In severe anemia",
+        "In Stage I pre-latent negative iron balance"
+      ],
+      "ans": 2,
+      "exp": "Iron deficiency anemia is normocytic normochromic (microcytic hypochromic in severe anemia). (Book p77)"
+    },
+    {
+      "id": "MED-C13-03",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "page": 77,
+      "fmt": "recall",
+      "q": "According to the p77 table, anemia of chronic disease typically presents with which blood picture?",
+      "opts": [
+        "Normocytic normochromic",
+        "Dimorphic (microcytic, macrocytic)",
+        "Uniformly microcytic hypochromic in every etiology",
+        "Macrocytic hypochromic"
+      ],
+      "ans": 0,
+      "exp": "Anemia of chronic disease has a normocytic normochromic blood picture in most cases. (Book p77)"
+    },
+    {
+      "id": "MED-C13-04",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "page": 77,
+      "fmt": "recall",
+      "q": "Which two exceptions in anemia of chronic disease are specifically noted to produce a microcytic hypochromic blood picture?",
+      "opts": [
+        "Systemic lupus erythematosus and sarcoidosis",
+        "Rheumatoid arthritis and miliary tuberculosis",
+        "Crohn's disease and infective endocarditis",
+        "Chronic kidney disease and ulcerative colitis"
+      ],
+      "ans": 1,
+      "exp": "The p77 table notes that anemia of chronic disease is normocytic normochromic except in rheumatoid arthritis and miliary TB (microcytic hypochromic). (Book p77)"
+    },
+    {
+      "id": "MED-C13-05",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "page": 77,
+      "fmt": "fillup",
+      "q": "The blood picture of sideroblastic anemia in the p77 comparison table is ____ (microcytic, macrocytic).",
+      "opts": [
+        "Dimorphic",
+        "Normocytic",
+        "Leukoerythroblastic",
+        "Polychromatic"
+      ],
+      "ans": 0,
+      "exp": "Sideroblastic anemia is listed with a dimorphic (microcytic, macrocytic) blood picture. (Book p77)"
+    },
+    {
+      "id": "MED-C13-06",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "page": 77,
+      "fmt": "recall",
+      "q": "In the opening table, the blood picture of thalassemia trait (minor) is:",
+      "opts": [
+        "Dimorphic (microcytic, macrocytic)",
+        "Microcytic hypochromic",
+        "Normocytic normochromic",
+        "Macrocytic normochromic"
+      ],
+      "ans": 1,
+      "exp": "Thalassemia trait (minor) is listed as microcytic hypochromic. (Book p77)"
+    },
+    {
+      "id": "MED-C13-07",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "page": 77,
+      "fmt": "match",
+      "q": "Match each anemia to its characteristic blood picture in the opening table — 1) Iron deficiency anemia 2) Anemia of chronic disease 3) Sideroblastic anemia 4) Thalassemia trait (minor) … A) Dimorphic (microcytic, macrocytic) B) Microcytic hypochromic C) Normocytic normochromic (microcytic hypochromic in severe anemia) D) Normocytic normochromic except in rheumatoid arthritis and miliary TB",
+      "opts": [
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-C, 3-D, 4-A",
+        "1-C, 2-A, 3-D, 4-B",
+        "1-C, 2-D, 3-A, 4-B"
+      ],
+      "ans": 3,
+      "exp": "IDA is normocytic normochromic (microcytic hypochromic in severe anemia); ACD is normocytic normochromic except RA and miliary TB; sideroblastic anemia is dimorphic; thalassemia trait is microcytic hypochromic. (Book p77)"
+    },
+    {
+      "id": "MED-C13-08",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "page": 77,
+      "fmt": "recall",
+      "q": "Chemically, hepcidin is classified in the pathophysiology section as a:",
+      "opts": [
+        "Steroid hormone",
+        "Peptide hormone",
+        "Catecholamine derivative",
+        "Eicosanoid lipid mediator"
+      ],
+      "ans": 1,
+      "exp": "Hepcidin is described as a peptide hormone. (Book p77)"
+    },
+    {
+      "id": "MED-C13-09",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "page": 77,
+      "fmt": "fillup",
+      "q": "Hepcidin is a peptide hormone produced in the ____.",
+      "opts": [
+        "Bone marrow",
+        "Spleen",
+        "Kidney",
+        "Liver"
+      ],
+      "ans": 3,
+      "exp": "Hepcidin is produced in the liver. (Book p77)"
+    },
+    {
+      "id": "MED-C13-10",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "page": 77,
+      "fmt": "recall",
+      "q": "In normal physiology on p77, stimulation of hepcidin acts directly on which transporter?",
+      "opts": [
+        "Ferroportin",
+        "Heme carrier protein-1 (HCP-1)",
+        "Divalent metal transporter-1 (DMT-1)",
+        "Transferrin receptor-1 (TfR1)"
+      ],
+      "ans": 0,
+      "exp": "Physiology: Stimulation of hepcidin → Regulates ferroportin. (Book p77)"
+    },
+    {
+      "id": "MED-C13-11",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "page": 77,
+      "fmt": "recall",
+      "q": "When hepcidin regulates ferroportin in normal physiology, what is the downstream effect on iron?",
+      "opts": [
+        "Decreased release of Fe²⁺ into circulation",
+        "Direct uptake of transferrin-bound iron into erythroblasts",
+        "Enhanced oxidation of Fe²⁺ to Fe³⁺ at the brush border",
+        "Increased export of Fe³⁺ from duodenal enterocytes into plasma"
+      ],
+      "ans": 0,
+      "exp": "Physiology: Stimulation of hepcidin → Regulates ferroportin → ↓ release of Fe2+ into circulation. (Book p77)"
+    },
+    {
+      "id": "MED-C13-12",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "page": 77,
+      "fmt": "fillup",
+      "q": "In the pathology of anemia of chronic disease, marked inflammation causes increased release of ____.",
+      "opts": [
+        "IL-6 and activin",
+        "IL-1 and TNF-beta",
+        "IL-4 and IL-13",
+        "EPO and hephaestin"
+      ],
+      "ans": 0,
+      "exp": "Pathology flowchart: ↑↑ Inflammation → ↑↑ release of IL-6, activin. (Book p77)"
+    },
+    {
+      "id": "MED-C13-13",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "page": 77,
+      "fmt": "recall",
+      "q": "In the ACD pathology cascade, increased release of IL-6 and activin leads to increased stimulation of hepcidin synthesis, which then acts to:",
+      "opts": [
+        "Stimulate duodenal cytochrome b reductase",
+        "Upregulate transferrin receptor-1 on normoblasts",
+        "Inhibit ferroportin",
+        "Activate divalent metal transporter-1 (DMT-1)"
+      ],
+      "ans": 2,
+      "exp": "↑↑ release of IL-6, activin → ↑↑ stimulation of hepcidin synthesis → Inhibit ferroportin. (Book p77)"
+    },
+    {
+      "id": "MED-C13-14",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "page": 77,
+      "fmt": "recall",
+      "q": "When ferroportin is inhibited in anemia of chronic disease, iron becomes trapped in which three storage sites?",
+      "opts": [
+        "Circulating reticulocytes, plasma and lymph nodes",
+        "Duodenal cells, liver and spleen",
+        "Gastric parietal cells, pancreas and thyroid",
+        "Renal cortex, bone matrix and skeletal muscle"
+      ],
+      "ans": 1,
+      "exp": "Inhibit ferroportin → Iron trapped in the stores (Duodenal cells, liver, spleen). (Book p77)"
+    },
+    {
+      "id": "MED-C13-15",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "page": 77,
+      "fmt": "scenario",
+      "q": "A patient with chronic inflammatory disease has high IL-6 and activin levels that stimulate hepatic hepcidin and trap iron inside duodenal cells, liver, and spleen. What is the resulting final state in the p77 pathology flowchart?",
+      "opts": [
+        "Increased release of iron from macrophages into plasma",
+        "Systemic iron overload with saturated plasma transferrin",
+        "Deficient iron in circulation",
+        "Excessive unbound ferrous iron in the portal vein"
+      ],
+      "ans": 2,
+      "exp": "The pathology cascade ends with iron trapped in stores (duodenal cells, liver, spleen) → Deficient iron in circulation. (Book p77)"
+    },
+    {
+      "id": "MED-C13-16",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "page": 77,
+      "fmt": "recall",
+      "q": "How does hypoxia regulate hepcidin and intestinal iron absorption on p77?",
+      "opts": [
+        "Hypoxia inhibits ferroportin directly → traps iron in enterocytes → decreased iron absorption",
+        "Hypoxia stimulates hepcidin → degrades ferroportin → decreased iron absorption",
+        "Hypoxia stimulates HFE and Tfr2 → increases hepcidin → prevents iron overload",
+        "Hypoxia inhibits hepcidin → no regulation of ferroportin → increased iron absorption"
+      ],
+      "ans": 3,
+      "exp": "Factors regulating hepcidin: Hypoxia → inhibits hepcidin → no regulation of ferroportin → ↑ iron absorption. (Book p77)"
+    },
+    {
+      "id": "MED-C13-17",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "page": 77,
+      "fmt": "numeric",
+      "q": "The HFE gene that regulates hepcidin is located on which chromosome?",
+      "opts": [
+        "Chromosome 11",
+        "Chromosome 6",
+        "Chromosome 16",
+        "Chromosome 22"
+      ],
+      "ans": 1,
+      "exp": "The p77 note specifies HFE gene (chromosome 6). (Book p77)"
+    },
+    {
+      "id": "MED-C13-18",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "page": 77,
+      "fmt": "recall",
+      "q": "How do the HFE gene (chromosome 6), hemojuvelin, and Tfr2 regulate hepcidin and iron balance?",
+      "opts": [
+        "They inhibit hepcidin → increased iron absorption → promote erythropoiesis",
+        "They block transferrin binding → increased urinary iron clearance",
+        "They degrade ferroportin directly → increased iron excretion in bile",
+        "They stimulate hepcidin → decreased iron absorption → prevent iron overload"
+      ],
+      "ans": 3,
+      "exp": "HFE gene (chromosome 6), hemojuvelin, Tfr2 → stimulates hepcidin → ↓ iron absorption → Prevent iron overload. (Book p77)"
+    },
+    {
+      "id": "MED-C13-19",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "fillup",
+      "q": "According to the note at the top of p78, an HFE gene mutation leads to ____.",
+      "opts": [
+        "Atransferrinemia",
+        "Thalassemia minor",
+        "Hemochromatosis",
+        "Sideroblastic anemia"
+      ],
+      "ans": 2,
+      "exp": "Note on p78: HFE gene mutation → Hemochromatosis. (Book p78)"
+    },
+    {
+      "id": "MED-C13-20",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "recall",
+      "q": "Besides regulating duodenal absorption, hepcidin is noted on p78 to play a role in recycling iron from which three cell types?",
+      "opts": [
+        "Erythroblasts, platelets and megakaryocytes",
+        "Podocytes, renal tubular cells and astrocytes",
+        "Macrophages, enterocytes and hepatocytes",
+        "Neutrophils, lymphocytes and plasma cells"
+      ],
+      "ans": 2,
+      "exp": "Note on p78: Hepcidin also plays a role in recycling iron from macrophages, enterocytes & hepatocytes. (Book p78)"
+    },
+    {
+      "id": "MED-C13-21",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "recall",
+      "q": "In the blood indices for anemia of chronic disease (p78), serum ferritin is:",
+      "opts": [
+        "Always absent",
+        "Decreased in proportion to hemoglobin",
+        "Normal or high",
+        "Very low"
+      ],
+      "ans": 2,
+      "exp": "Blood indices in ACD: Sr. Ferritin : Normal / high. (Book p78)"
+    },
+    {
+      "id": "MED-C13-22",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "recall",
+      "q": "In the blood indices for anemia of chronic disease (p78), serum iron is:",
+      "opts": [
+        "Normal or high",
+        "Moderately increased",
+        "Unchanged from baseline",
+        "Very low"
+      ],
+      "ans": 3,
+      "exp": "Blood indices in ACD: Sr. Iron : Very low. (Book p78)"
+    },
+    {
+      "id": "MED-C13-23",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "recall",
+      "q": "In the blood indices for anemia of chronic disease (p78), Total Iron Binding Capacity (TIBC) is:",
+      "opts": [
+        "Normal in all cases",
+        "High",
+        "Low",
+        "Markedly elevated"
+      ],
+      "ans": 2,
+      "exp": "Blood indices in ACD: TIBC (Total iron binding capacity) : Low. (Book p78)"
+    },
+    {
+      "id": "MED-C13-24",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "recall",
+      "q": "Why is TIBC low in anemia of chronic disease according to the parenthetical note on p78?",
+      "opts": [
+        "Transferrin is rapidly lost through glomerular filtration",
+        "Unbound protoporphyrin directly chelates circulating transferrin",
+        "Depleted marrow stores trigger compensatory transferrin degradation",
+        "Iron stores are adequate, leading to less transferrin synthesis"
+      ],
+      "ans": 3,
+      "exp": "TIBC is Low (Store adequate → less transferrin synthesis). (Book p78)"
+    },
+    {
+      "id": "MED-C13-25",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "recall",
+      "q": "Which formula is printed beneath Transferrin saturation in the blood indices list on p78?",
+      "opts": [
+        "(Sr. iron ÷ TIBC) × 100",
+        "(TIBC ÷ Sr. iron) × 100",
+        "(Sr. iron ÷ Sr. ferritin) × 100",
+        "(Sr. ferritin ÷ TIBC) × 100"
+      ],
+      "ans": 0,
+      "exp": "Transferrin saturation formula on p78: (Sr. iron / TIBC) × 100. (Book p78)"
+    },
+    {
+      "id": "MED-C13-26",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "recall",
+      "q": "What is the level of transferrin saturation in anemia of chronic disease on p78?",
+      "opts": [
+        "Normal",
+        "Low",
+        "Above 50%",
+        "High"
+      ],
+      "ans": 1,
+      "exp": "Transferrin saturation : Low in anemia of chronic disease. (Book p78)"
+    },
+    {
+      "id": "MED-C13-27",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "recall",
+      "q": "In the blood indices for anemia of chronic disease on p78, soluble transferrin receptors are:",
+      "opts": [
+        "High",
+        "The earliest rising marker",
+        "Markedly elevated",
+        "Low"
+      ],
+      "ans": 3,
+      "exp": "Soluble transferrin receptors : Low in anemia of chronic disease. (Book p78)"
+    },
+    {
+      "id": "MED-C13-28",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "recall",
+      "q": "In the blood indices for anemia of chronic disease on p78, serum hepcidin is:",
+      "opts": [
+        "Low",
+        "High",
+        "Absent",
+        "Suppressed by IL-6"
+      ],
+      "ans": 1,
+      "exp": "Hepcidin : High in anemia of chronic disease. (Book p78)"
+    },
+    {
+      "id": "MED-C13-29",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "match",
+      "q": "Match each blood index in anemia of chronic disease to its printed level — 1) Serum ferritin 2) Serum iron 3) Soluble transferrin receptors 4) Hepcidin … A) Very low B) Low C) High D) Normal / high",
+      "opts": [
+        "1-D, 2-B, 3-A, 4-C",
+        "1-A, 2-D, 3-C, 4-B",
+        "1-D, 2-A, 3-B, 4-C",
+        "1-C, 2-A, 3-B, 4-D"
+      ],
+      "ans": 2,
+      "exp": "In ACD: Sr. ferritin is normal/high, Sr. iron is very low, soluble transferrin receptors are low, and hepcidin is high. (Book p78)"
+    },
+    {
+      "id": "MED-C13-30",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "recall",
+      "q": "Under Sideroblastic Anemia on p78, causes are classified based on etiology into which two main groups?",
+      "opts": [
+        "Immune and non-immune",
+        "Megaloblastic and normoblastic",
+        "Inherited and acquired",
+        "Intravascular and extravascular"
+      ],
+      "ans": 2,
+      "exp": "Causes of sideroblastic anemia — Based on etiology: Inherited and Acquired. (Book p78)"
+    },
+    {
+      "id": "MED-C13-31",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "fillup",
+      "q": "The inherited cause of sideroblastic anemia listed on p78 is ____ deficiency.",
+      "opts": [
+        "Glucose-6-phosphate dehydrogenase",
+        "ALA synthase",
+        "Uroporphyrinogen decarboxylase",
+        "Ferrochelatase"
+      ],
+      "ans": 1,
+      "exp": "Inherited: ALA synthase deficiency (X-linked). (Book p78)"
+    },
+    {
+      "id": "MED-C13-32",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "recall",
+      "q": "What is the mode of inheritance printed for ALA synthase deficiency on p78?",
+      "opts": [
+        "Mitochondrial maternal",
+        "Autosomal recessive",
+        "Autosomal dominant",
+        "X-linked"
+      ],
+      "ans": 3,
+      "exp": "Inherited: ALA synthase deficiency (X-linked). (Book p78)"
+    },
+    {
+      "id": "MED-C13-33",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "recall",
+      "q": "Which clonal bone-marrow disorder is listed first under acquired causes of sideroblastic anemia on p78?",
+      "opts": [
+        "Myelodysplastic syndrome",
+        "Hairy-cell leukemia",
+        "Chronic myeloid leukemia",
+        "Polycythemia vera"
+      ],
+      "ans": 0,
+      "exp": "Acquired causes of sideroblastic anemia: first bullet is myelodysplastic syndrome. (Book p78)"
+    },
+    {
+      "id": "MED-C13-34",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "fillup",
+      "q": "Which trace-element deficiency is listed under acquired causes of sideroblastic anemia on p78? ____ deficiency.",
+      "opts": [
+        "Manganese",
+        "Copper",
+        "Cobalt",
+        "Selenium"
+      ],
+      "ans": 1,
+      "exp": "Acquired causes of sideroblastic anemia include Copper deficiency. (Book p78)"
+    },
+    {
+      "id": "MED-C13-35",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "recall",
+      "q": "Which toxin/substance-use disorder is listed as the third bullet under acquired causes of sideroblastic anemia on p78?",
+      "opts": [
+        "Cannabis use",
+        "Tobacco smoking",
+        "Alcoholism",
+        "Opioid dependence"
+      ],
+      "ans": 2,
+      "exp": "Acquired causes of sideroblastic anemia: myelodysplastic syndrome, copper deficiency, alcoholism. (Book p78)"
+    },
+    {
+      "id": "MED-C13-36",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "recall",
+      "q": "Which three drugs are specifically listed under acquired causes of sideroblastic anemia on p78?",
+      "opts": [
+        "Phenytoin, carbamazepine and valproate",
+        "Rifampicin, ethambutol and streptomycin",
+        "Chloramphenicol, isoniazid and pyrazinamide",
+        "Methotrexate, cytarabine and hydroxyurea"
+      ],
+      "ans": 2,
+      "exp": "Drugs listed under acquired sideroblastic anemia are chloramphenicol, isoniazid, and pyrazinamide. (Book p78)"
+    },
+    {
+      "id": "MED-C13-37",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "recall",
+      "q": "Which heavy metal is listed at the bottom of the acquired causes of sideroblastic anemia on p78?",
+      "opts": [
+        "Arsenic",
+        "Cadmium",
+        "Mercury",
+        "Lead"
+      ],
+      "ans": 3,
+      "exp": "Lead is listed as the fifth bullet under acquired causes of sideroblastic anemia. (Book p78)"
+    },
+    {
+      "id": "MED-C13-38",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — which of the following is NOT listed among the acquired causes of sideroblastic anemia on p78?",
+      "opts": [
+        "Chloramphenicol",
+        "Myelodysplastic syndrome",
+        "Hydroxyurea",
+        "Copper deficiency"
+      ],
+      "ans": 2,
+      "exp": "Acquired causes on p78 are myelodysplastic syndrome, copper deficiency, alcoholism, drugs (chloramphenicol, isoniazid, pyrazinamide), and lead. Hydroxyurea is a DNA synthesis inhibitor causing megaloblastic anemia. (Book p78)"
+    },
+    {
+      "id": "MED-C13-39",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "recall",
+      "q": "In the physiology of hemoglobin formation on p78, which two substrates and cofactor combine in the initial step?",
+      "opts": [
+        "Succinyl Co-A + Glycine + Pyridoxal phosphate",
+        "Acetyl Co-A + Alanine + Thiamine pyrophosphate",
+        "Malonyl Co-A + Glutamine + Methylcobalamin",
+        "Propionyl Co-A + Serine + Tetrahydrofolate"
+      ],
+      "ans": 0,
+      "exp": "Physiology of Hb formation: Succinyl Co-A + Glycine + Pyridoxal phosphate. (Book p78)"
+    },
+    {
+      "id": "MED-C13-40",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "fillup",
+      "q": "In the physiology of Hb formation diagram on p78, Succinyl Co-A + Glycine + Pyridoxal phosphate are converted into ALA by the enzyme ____.",
+      "opts": [
+        "Heme oxygenase",
+        "Ferrochelatase",
+        "ALA dehydratase",
+        "ALA synthase"
+      ],
+      "ans": 3,
+      "exp": "Succinyl Co-A + Glycine + Pyridoxal phosphate → (via ALA synthase) → ALA. (Book p78)"
+    },
+    {
+      "id": "MED-C13-41",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "recall",
+      "q": "In the p78 hemoglobin formation pathway, ALA is converted to which intermediate before combining with iron?",
+      "opts": [
+        "Biliverdin",
+        "Urobilinogen",
+        "Transferrin",
+        "Protoporphyrin"
+      ],
+      "ans": 3,
+      "exp": "ALA → Protoporphyrin, which then combines with Iron to form Heme → Hemoglobin. (Book p78)"
+    },
+    {
+      "id": "MED-C13-42",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "page": 78,
+      "fmt": "recall",
+      "q": "In the final steps of the p78 pathway, Iron combines with Protoporphyrin to form:",
+      "opts": [
+        "Heme, which then forms Hemoglobin",
+        "Ferritin, which then forms Hemosiderin",
+        "ALA, which then forms Globin",
+        "Hepcidin, which then forms Transferrin"
+      ],
+      "ans": 0,
+      "exp": "Protoporphyrin + Iron → Heme → Hemoglobin. (Book p78)"
+    },
+    {
+      "id": "MED-C13-43",
+      "sec": "Sideroblastic Pathogenesis & Thalassemia Trait Genetics",
+      "page": 79,
+      "fmt": "recall",
+      "q": "At the top of p79, what initiates the pathogenesis flowchart of sideroblastic anemia?",
+      "opts": [
+        "ALA synthase deficiency",
+        "Spectrin and ankyrin deficiency",
+        "Autoimmune anti-parietal cell antibodies",
+        "Glucose-6-phosphate dehydrogenase deficiency"
+      ],
+      "ans": 0,
+      "exp": "Pathogenesis of sideroblastic anemia begins with: ALA synthase deficiency. (Book p79)"
+    },
+    {
+      "id": "MED-C13-44",
+      "sec": "Sideroblastic Pathogenesis & Thalassemia Trait Genetics",
+      "page": 79,
+      "fmt": "recall",
+      "q": "In the pathogenesis of sideroblastic anemia on p79, what is the immediate consequence of ALA synthase deficiency?",
+      "opts": [
+        "Globin chains precipitate inside the endoplasmic reticulum",
+        "Excess protoporphyrin accumulates with depleted intracellular iron",
+        "Protoporphyrin is absent, leaving unbound iron",
+        "Ferroportin is constitutively activated, exporting iron from erythroblasts"
+      ],
+      "ans": 2,
+      "exp": "ALA synthase deficiency → Protoporphyrin absent, unbound iron. (Book p79)"
+    },
+    {
+      "id": "MED-C13-45",
+      "sec": "Sideroblastic Pathogenesis & Thalassemia Trait Genetics",
+      "page": 79,
+      "fmt": "recall",
+      "q": "In sideroblastic anemia, how does unbound iron distribute inside the developing red-cell precursor?",
+      "opts": [
+        "Iron is extruded into plasma bound to haptocorrin",
+        "Iron polymerizes into linear crystalline rods inside myeloblasts",
+        "Iron surrounds the erythroblast in the form of a ring",
+        "Iron precipitates at one pole of the mature erythrocyte as a Heinz body"
+      ],
+      "ans": 2,
+      "exp": "Protoporphyrin absent, unbound iron → Iron surrounds erythroblast in the form of ring. (Book p79)"
+    },
+    {
+      "id": "MED-C13-46",
+      "sec": "Sideroblastic Pathogenesis & Thalassemia Trait Genetics",
+      "page": 79,
+      "fmt": "fillup",
+      "q": "Iron surrounding the erythroblast in the form of a ring produces ____ in Prussian blue stain, leading to sideroblastic anemia.",
+      "opts": [
+        "Ring sideroblasts",
+        "Target cells",
+        "Cabot rings",
+        "Howell-Jolly bodies"
+      ],
+      "ans": 0,
+      "exp": "Iron surrounds erythroblast in the form of ring → Ring sideroblasts in Prussian blue stain → Sideroblastic anemia. (Book p79)"
+    },
+    {
+      "id": "MED-C13-47",
+      "sec": "Sideroblastic Pathogenesis & Thalassemia Trait Genetics",
+      "page": 79,
+      "fmt": "recall",
+      "q": "Which stain is used to demonstrate ring sideroblasts in the two bone-marrow photomicrographs on p79?",
+      "opts": [
+        "Romanowsky stain without iron reagent",
+        "Supravital new methylene blue stain",
+        "Prussian blue stain",
+        "Periodic acid–Schiff (PAS) stain"
+      ],
+      "ans": 2,
+      "exp": "Ring sideroblasts in Prussian blue stain are illustrated in the p79 bone marrow images. (Book p79)"
+    },
+    {
+      "id": "MED-C13-48",
+      "sec": "Sideroblastic Pathogenesis & Thalassemia Trait Genetics",
+      "page": 79,
+      "fmt": "recall",
+      "q": "Under investigations for sideroblastic anemia on p79, how is cellularity described?",
+      "opts": [
+        "Uniformly microcytic and hypochromic",
+        "Normocytic normochromic with spherocytes",
+        "Dimorphic (microcytic + macrocytic)",
+        "Purely macro-ovalocytic with hypersegmented neutrophils"
+      ],
+      "ans": 2,
+      "exp": "Investigations: Cellularity : Dimorphic (microcytic + macrocytic). (Book p79)"
+    },
+    {
+      "id": "MED-C13-49",
+      "sec": "Sideroblastic Pathogenesis & Thalassemia Trait Genetics",
+      "page": 79,
+      "fmt": "fillup",
+      "q": "Under investigations for sideroblastic anemia on p79, electron microscopy shows ____.",
+      "opts": [
+        "Pappenheimer bodies",
+        "Auer rods",
+        "Cabot rings",
+        "Schuffner's dots"
+      ],
+      "ans": 0,
+      "exp": "Electronmicroscopy : Pappenheimer bodies. (Book p79)"
+    },
+    {
+      "id": "MED-C13-50",
+      "sec": "Sideroblastic Pathogenesis & Thalassemia Trait Genetics",
+      "page": 79,
+      "fmt": "recall",
+      "q": "In the blood indices for sideroblastic anemia on p79, serum ferritin is:",
+      "opts": [
+        "Normal or high",
+        "Decreased below 15 ng/mL",
+        "Always absent",
+        "Very low"
+      ],
+      "ans": 0,
+      "exp": "Blood indices in sideroblastic anemia: Sr. ferritin : Normal/high. (Book p79)"
+    },
+    {
+      "id": "MED-C13-51",
+      "sec": "Sideroblastic Pathogenesis & Thalassemia Trait Genetics",
+      "page": 79,
+      "fmt": "recall",
+      "q": "In the blood indices for sideroblastic anemia on p79, serum iron is:",
+      "opts": [
+        "High",
+        "Very low",
+        "Decreased",
+        "Zero"
+      ],
+      "ans": 0,
+      "exp": "Blood indices in sideroblastic anemia: Sr. iron : High. (Book p79)"
+    },
+    {
+      "id": "MED-C13-52",
+      "sec": "Sideroblastic Pathogenesis & Thalassemia Trait Genetics",
+      "page": 79,
+      "fmt": "recall",
+      "q": "Why is serum iron high in sideroblastic anemia according to the parenthetical mechanism on p79?",
+      "opts": [
+        "Due to defective renal excretion preventing urinary iron clearance",
+        "Due to ineffective erythropoiesis leading to a compensatory increase in iron absorption",
+        "Due to intravascular hemolysis releasing free hemoglobin into plasma",
+        "Due to excessive hepcidin release accelerating macrophage iron export"
+      ],
+      "ans": 1,
+      "exp": "(D/t ineffective erythropoiesis → Compensatory ↑ in iron absorption). (Book p79)"
+    },
+    {
+      "id": "MED-C13-53",
+      "sec": "Sideroblastic Pathogenesis & Thalassemia Trait Genetics",
+      "page": 79,
+      "fmt": "recall",
+      "q": "In the blood indices for sideroblastic anemia on p79, TIBC and transferrin saturation are respectively:",
+      "opts": [
+        "Both TIBC and transferrin saturation are normal",
+        "Both TIBC and transferrin saturation are low",
+        "TIBC is high; transferrin saturation is low",
+        "TIBC is low; transferrin saturation is high"
+      ],
+      "ans": 3,
+      "exp": "In sideroblastic anemia blood indices: TIBC : Low; Transferrin saturation : High. (Book p79)"
+    },
+    {
+      "id": "MED-C13-54",
+      "sec": "Sideroblastic Pathogenesis & Thalassemia Trait Genetics",
+      "page": 79,
+      "fmt": "match",
+      "q": "Match each blood index in sideroblastic anemia to its printed value — 1) Serum ferritin 2) Serum iron 3) TIBC 4) Transferrin saturation … A) Low B) High (due to compensatory increased absorption) C) Normal / high D) High",
+      "opts": [
+        "1-A, 2-C, 3-B, 4-D",
+        "1-C, 2-A, 3-D, 4-B",
+        "1-B, 2-D, 3-A, 4-C",
+        "1-C, 2-B, 3-A, 4-D"
+      ],
+      "ans": 3,
+      "exp": "In sideroblastic anemia: Sr. ferritin is Normal/high, Sr. iron is High (due to ineffective erythropoiesis → compensatory ↑ in iron absorption), TIBC is Low, and Transferrin saturation is High. (Book p79)"
+    },
+    {
+      "id": "MED-C13-55",
+      "sec": "Sideroblastic Pathogenesis & Thalassemia Trait Genetics",
+      "page": 79,
+      "fmt": "recall",
+      "q": "In the Thalassemia Trait (Minor) table on p79, what level of β-chain synthesis corresponds to the β⁰ allele?",
+      "opts": [
+        "Increased",
+        "Nil",
+        "Normal",
+        "Reduced"
+      ],
+      "ans": 1,
+      "exp": "Gene table on p79: β⁰ → Nil β synthesis. (Book p79)"
+    },
+    {
+      "id": "MED-C13-56",
+      "sec": "Sideroblastic Pathogenesis & Thalassemia Trait Genetics",
+      "page": 79,
+      "fmt": "recall",
+      "q": "In the Thalassemia Trait (Minor) table on p79, what level of β-chain synthesis corresponds to the β and β⁺ alleles respectively?",
+      "opts": [
+        "β: Normal synthesis; β⁺: Reduced synthesis",
+        "β: Nil synthesis; β⁺: Normal synthesis",
+        "β: Increased synthesis; β⁺: Normal synthesis",
+        "β: Reduced synthesis; β⁺: Nil synthesis"
+      ],
+      "ans": 0,
+      "exp": "Gene table on p79: β → Normal; β⁺ → Reduced. (Book p79)"
+    },
+    {
+      "id": "MED-C13-57",
+      "sec": "Sideroblastic Pathogenesis & Thalassemia Trait Genetics",
+      "page": 79,
+      "fmt": "match",
+      "q": "Match each β-globin gene notation in the Thalassemia Trait table to its β-chain synthesis — 1) β⁰ 2) β 3) β⁺ … A) Normal B) Reduced C) Nil",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 1,
+      "exp": "Gene table on p79: β⁰ = Nil synthesis; β = Normal synthesis; β⁺ = Reduced synthesis. (Book p79)"
+    },
+    {
+      "id": "MED-C13-58",
+      "sec": "Sideroblastic Pathogenesis & Thalassemia Trait Genetics",
+      "page": 79,
+      "fmt": "recall",
+      "q": "Which genotypes are shown for thalassemia trait on p79, representing one normal β chain and one defective β chain?",
+      "opts": [
+        "β⁰β⁰ and β⁺β⁺",
+        "β⁰β⁺ and αα/−−",
+        "ββ and β⁰β⁰",
+        "ββ⁰ and ββ⁺"
+      ],
+      "ans": 3,
+      "exp": "Thalassemia trait: ββ⁰, ββ⁺ → One normal β chain + One defective β chain. (Book p79)"
+    },
+    {
+      "id": "MED-C13-59",
+      "sec": "Sideroblastic Pathogenesis & Thalassemia Trait Genetics",
+      "page": 79,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — in thalassemia trait on p79, ineffective erythropoiesis is absent, resulting in normal iron indices plus microcytic hypochromic anemia.",
+      "opts": [
+        "True — but serum ferritin and transferrin saturation are markedly elevated",
+        "False — thalassemia trait presents with normocytic anemia and low serum iron",
+        "True — absent ineffective erythropoiesis gives normal iron indices with microcytic hypochromic anemia",
+        "False — severe ineffective erythropoiesis causes iron overload in thalassemia trait"
+      ],
+      "ans": 2,
+      "exp": "The p79 diagram states: Absent ineffective erythropoiesis → Normal iron indices + microcytic hypochromic anemia. (Book p79)"
+    },
+    {
+      "id": "MED-C13-60",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "page": 80,
+      "fmt": "recall",
+      "q": "Under blood indices for thalassemia trait on p80, what is the Red Cell Distribution Width (RDW)?",
+      "opts": [
+        "Bimodal",
+        "Normal",
+        "Decreased (<8%)",
+        "Markedly increased (>14.5%)"
+      ],
+      "ans": 1,
+      "exp": "Blood indices in thalassemia trait: RDW (Red cell distribution width) : Normal. (Book p80)"
+    },
+    {
+      "id": "MED-C13-61",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "page": 80,
+      "fmt": "numeric",
+      "q": "What is the Mentzer index cutoff listed under blood indices for thalassemia trait on p80?",
+      "opts": [
+        "<13",
+        ">13",
+        "<10",
+        ">20"
+      ],
+      "ans": 0,
+      "exp": "Blood indices in thalassemia trait: Mentzer index : <13. (Book p80)"
+    },
+    {
+      "id": "MED-C13-62",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "page": 80,
+      "fmt": "recall",
+      "q": "Under blood indices for thalassemia trait on p80, what is the status of 'Other indices'?",
+      "opts": [
+        "Decreased serum iron and low TSAT",
+        "Normal",
+        "Increased serum iron and low TIBC",
+        "Increased TIBC and decreased ferritin"
+      ],
+      "ans": 1,
+      "exp": "Blood indices in thalassemia trait: Other indices : Normal. (Book p80)"
+    },
+    {
+      "id": "MED-C13-63",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "page": 80,
+      "fmt": "recall",
+      "q": "What is the first peripheral smear finding listed for thalassemia trait on p80?",
+      "opts": [
+        "Hypersegmented neutrophils",
+        "Anisopoikilocytosis",
+        "Macro-ovalocytosis",
+        "Ring sideroblasts"
+      ],
+      "ans": 1,
+      "exp": "Peripheral smear in thalassemia trait: first bullet is Anisopoikilocytosis. (Book p80)"
+    },
+    {
+      "id": "MED-C13-64",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "page": 80,
+      "fmt": "recall",
+      "q": "Which two peripheral smear findings in thalassemia trait are bracketed together as 'Rare' on p80?",
+      "opts": [
+        "Howell-Jolly bodies and Cabot rings",
+        "Spherocytes and schistocytes",
+        "Tear-drop cells and pencil cells",
+        "Few target cells and stippled red cells"
+      ],
+      "ans": 3,
+      "exp": "Peripheral smear on p80 brackets Few target cells and Stippled red cells as Rare. (Book p80)"
+    },
+    {
+      "id": "MED-C13-65",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "page": 80,
+      "fmt": "numeric",
+      "q": "On hemoglobin electrophoresis (p80), what is the normal HbA₂ level range?",
+      "opts": [
+        "0.5–1.5%",
+        "8–12%",
+        "4–8%",
+        "1.5–3%"
+      ],
+      "ans": 3,
+      "exp": "Electrophoresis HbA2 levels: Normal : 1.5–3%. (Book p80)"
+    },
+    {
+      "id": "MED-C13-66",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "page": 80,
+      "fmt": "numeric",
+      "q": "On hemoglobin electrophoresis (p80), what is the HbA₂ level range in thalassemia trait?",
+      "opts": [
+        "10–15%",
+        "1.5–3%",
+        "20–30%",
+        "4–8%"
+      ],
+      "ans": 3,
+      "exp": "Electrophoresis HbA2 levels: Thalassemia : 4–8%. (Book p80)"
+    },
+    {
+      "id": "MED-C13-67",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "page": 80,
+      "fmt": "recall",
+      "q": "In the p80 master comparison table, what is the Serum Iron (Sr. iron) pattern across Iron deficiency anemia, Anemia of chronic disease, Sideroblastic anemia, and Thalassemia trait?",
+      "opts": [
+        "IDA: ↓; ACD: ↑; Sideroblastic anemia: ↓↓; Thalassemia trait: Ⓝ",
+        "IDA: ↓; ACD: ↓↓; Sideroblastic anemia: ↑; Thalassemia trait: Ⓝ",
+        "IDA: Ⓝ; ACD: ↓↓; Sideroblastic anemia: ↑; Thalassemia trait: ↓",
+        "IDA: ↓↓; ACD: ↓; Sideroblastic anemia: Ⓝ; Thalassemia trait: ↑"
+      ],
+      "ans": 1,
+      "exp": "Sr. iron row on p80: IDA ↓, ACD ↓↓, Sideroblastic anemia ↑, Thalassemia trait Ⓝ. (Book p80)"
+    },
+    {
+      "id": "MED-C13-68",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "page": 80,
+      "fmt": "recall",
+      "q": "In the p80 master table, how is the Serum Ferritin row populated across Iron deficiency anemia, Anemia of chronic disease, Sideroblastic anemia, and Thalassemia trait?",
+      "opts": [
+        "IDA: ↓; ACD: ↓; Sideroblastic anemia: ↑↑; Thalassemia trait: ↑",
+        "IDA: Ⓝ; ACD: ↓↓; Sideroblastic anemia: ↓; Thalassemia trait: Ⓝ / ↑",
+        "IDA: ↓ / Ⓝ / ↑; ACD: Ⓝ / ↑; Sideroblastic anemia: Ⓝ / ↑; Thalassemia trait: Ⓝ",
+        "IDA: ↓ / Ⓝ / ↑; ACD: ↓; Sideroblastic anemia: ↓; Thalassemia trait: ↑"
+      ],
+      "ans": 2,
+      "exp": "The Sr. ferritin row on p80 shows: IDA ↓/Ⓝ/↑, ACD Ⓝ/↑, Sideroblastic anemia Ⓝ/↑, and Thalassemia trait Ⓝ. (Book p80)"
+    },
+    {
+      "id": "MED-C13-69",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "page": 80,
+      "fmt": "recall",
+      "q": "Across the four columns of the p80 master table, TIBC is:",
+      "opts": [
+        "Decreased (↓) in IDA, increased (↑) in ACD and sideroblastic anemia, and normal (Ⓝ) in thalassemia trait",
+        "Normal (Ⓝ) in ACD, increased (↑) in sideroblastic anemia, and decreased (↓) in IDA and thalassemia trait",
+        "Increased (↑) in IDA, decreased (↓) in ACD and sideroblastic anemia, and normal (Ⓝ) in thalassemia trait",
+        "Increased (↑) in both IDA and ACD, and decreased (↓) in sideroblastic anemia and thalassemia trait"
+      ],
+      "ans": 2,
+      "exp": "TIBC row on p80: IDA ↑, ACD ↓, Sideroblastic anemia ↓, Thalassemia trait Ⓝ. (Book p80)"
+    },
+    {
+      "id": "MED-C13-70",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "page": 80,
+      "fmt": "recall",
+      "q": "In the p80 master table, what is the Transferrin Saturation pattern across Iron deficiency anemia, Anemia of chronic disease, Sideroblastic anemia, and Thalassemia trait?",
+      "opts": [
+        "IDA: ↓↓; ACD: ↓; Sideroblastic anemia: ↑↑; Thalassemia trait: Ⓝ",
+        "IDA: ↑↑; ACD: ↓; Sideroblastic anemia: ↓↓; Thalassemia trait: Ⓝ",
+        "IDA: ↓↓; ACD: ↑; Sideroblastic anemia: ↑↑; Thalassemia trait: ↓",
+        "IDA: ↓; ACD: ↓↓; Sideroblastic anemia: Ⓝ; Thalassemia trait: ↑↑"
+      ],
+      "ans": 0,
+      "exp": "Transferrin saturation row on p80: IDA ↓↓, ACD ↓, Sideroblastic anemia ↑↑, Thalassemia trait Ⓝ. (Book p80)"
+    },
+    {
+      "id": "MED-C13-71",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "page": 80,
+      "fmt": "match",
+      "q": "Match each condition in the p80 master table to its Serum Iron and Transferrin Saturation pattern — 1) Iron deficiency anemia 2) Anemia of chronic disease 3) Sideroblastic anemia 4) Thalassemia trait … A) Sr. iron ↓↓, Transferrin saturation ↓ B) Sr. iron ↑, Transferrin saturation ↑↑ C) Sr. iron Ⓝ, Transferrin saturation Ⓝ D) Sr. iron ↓, Transferrin saturation ↓↓",
+      "opts": [
+        "1-A, 2-D, 3-B, 4-C",
+        "1-D, 2-A, 3-B, 4-C",
+        "1-D, 2-B, 3-A, 4-C",
+        "1-C, 2-A, 3-B, 4-D"
+      ],
+      "ans": 1,
+      "exp": "In the p80 table: IDA has Sr. iron ↓ and TSAT ↓↓; ACD has Sr. iron ↓↓ and TSAT ↓; Sideroblastic anemia has Sr. iron ↑ and TSAT ↑↑; Thalassemia trait has both normal (Ⓝ). (Book p80)"
+    },
+    {
+      "id": "MED-C13-72",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "page": 80,
+      "fmt": "recall",
+      "q": "Under Inherited Iron Deficiency Anemia on p80, what does the abbreviation IRIDA stand for?",
+      "opts": [
+        "Iron resistant iron deficiency anemia",
+        "Idiopathic renal iron deficiency anemia",
+        "Inherited reticulocyte iron deficiency aplasia",
+        "Immune refractory iron depletion anemia"
+      ],
+      "ans": 0,
+      "exp": "1. Iron resistant iron deficiency Anemia (IRIDA). (Book p80)"
+    },
+    {
+      "id": "MED-C13-73",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "page": 80,
+      "fmt": "recall",
+      "q": "What is the molecular defect and mechanism of Iron Resistant Iron Deficiency Anemia (IRIDA) on p80?",
+      "opts": [
+        "Defective hephaestin → decreased hepcidin → activation of ferroportin",
+        "Defective HFE gene → absent hepcidin → uninhibited duodenal iron export",
+        "Defective matriptase-2 → increased hepcidin → inhibition of ferroportin",
+        "Defective ferrochelatase → absent protoporphyrin → ring sideroblast formation"
+      ],
+      "ans": 2,
+      "exp": "1. Iron resistant iron deficiency anemia (IRIDA): Defective matriptase-2 → ↑ Hepcidin → Inhibit ferroportin. (Book p80)"
+    },
+    {
+      "id": "MED-C13-74",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "page": 80,
+      "fmt": "recall",
+      "q": "In inherited iron deficiency anemia due to a DMT-1 mutation (cause #2 on p80), what is the cellular transport defect?",
+      "opts": [
+        "Inability of plasma transferrin to bind ferric iron in circulation",
+        "No transport of iron from endosomes to cytoplasm",
+        "Failure of ferroportin to export iron across the basolateral membrane",
+        "Absence of duodenal cytochrome b reductase at the brush border"
+      ],
+      "ans": 1,
+      "exp": "2. DMT-1 mutation: No transport of iron from endosomes to cytoplasm. (Book p80)"
+    },
+    {
+      "id": "MED-C13-75",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "page": 80,
+      "fmt": "recall",
+      "q": "In a DMT-1 mutation on p80, what is the status of iron stores?",
+      "opts": [
+        "Markedly depleted in Stage I",
+        "Normal (Ⓝ)",
+        "Completely absent",
+        "Replaced by hemosiderin rings"
+      ],
+      "ans": 1,
+      "exp": "DMT-1 mutation — Indices: Iron stores : Ⓝ. (Book p80)"
+    },
+    {
+      "id": "MED-C13-76",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "page": 80,
+      "fmt": "recall",
+      "q": "In a DMT-1 mutation on p80, what are the printed levels of TIBC and serum iron?",
+      "opts": [
+        "TIBC: Increased (↑); Serum iron: Increased (↑)",
+        "TIBC: Decreased (↓); Serum iron: Normal or increased (Ⓝ / ↑)",
+        "TIBC: Normal (Ⓝ); Serum iron: Very low (↓↓)",
+        "TIBC: Increased (↑); Serum iron: Decreased (↓)"
+      ],
+      "ans": 1,
+      "exp": "DMT-1 mutation — Indices: Iron stores : Ⓝ, TIBC : ↓, Sr. iron : Ⓝ / ↑. (Book p80)"
+    },
+    {
+      "id": "MED-C13-77",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "page": 80,
+      "fmt": "fillup",
+      "q": "The third cause of inherited iron deficiency anemia listed on p80 is ____, in which there is no transfer of iron.",
+      "opts": [
+        "Abetalipoproteinemia",
+        "Aceruloplasminemia",
+        "Afibrinogenemia",
+        "Atransferrinemia"
+      ],
+      "ans": 3,
+      "exp": "3. Atransferrinemia : No transfer of iron. (Book p80)"
+    },
+    {
+      "id": "MED-C13-78",
+      "sec": "Diagnostic Protocol for Microcytic Hypochromic Anemia",
+      "page": 81,
+      "fmt": "recall",
+      "q": "At the very top of the p81 'Protocol for Diagnosis' flowchart, what is the first branch point?",
+      "opts": [
+        "Reticulocyte production index: Low versus High",
+        "MCV: Low versus High",
+        "Iron indices: Normal versus Abnormal",
+        "Lineage: Single versus Multiple"
+      ],
+      "ans": 3,
+      "exp": "The p81 protocol starts with Lineage → Single vs Multiple. (Book p81)"
+    },
+    {
+      "id": "MED-C13-79",
+      "sec": "Diagnostic Protocol for Microcytic Hypochromic Anemia",
+      "page": 81,
+      "fmt": "recall",
+      "q": "Under the 'Single' lineage arm of the p81 flowchart, what parameter is evaluated next?",
+      "opts": [
+        "Reticulocyte production index (Low vs High)",
+        "Hemoglobin electrophoresis (HbA₂ vs HbF)",
+        "Serum ferritin and TIBC",
+        "Direct Coombs test (Positive vs Negative)"
+      ],
+      "ans": 0,
+      "exp": "Single lineage proceeds to Reticulocyte production index → Low vs High. (Book p81)"
+    },
+    {
+      "id": "MED-C13-80",
+      "sec": "Diagnostic Protocol for Microcytic Hypochromic Anemia",
+      "page": 81,
+      "fmt": "recall",
+      "q": "Under the 'Low' Reticulocyte production index arm on p81, how does MCV divide?",
+      "opts": [
+        "Intravascular versus Extravascular",
+        "Normal (Ⓝ) to Low versus High",
+        "Microcytic (<60 fL) versus Normocytic (60–80 fL)",
+        "Dimorphic versus Normochromic"
+      ],
+      "ans": 1,
+      "exp": "Under Low RPI, MCV branches into Ⓝ to Low and High. (Book p81)"
+    },
+    {
+      "id": "MED-C13-81",
+      "sec": "Diagnostic Protocol for Microcytic Hypochromic Anemia",
+      "page": 81,
+      "fmt": "fillup",
+      "q": "In the p81 flowchart, a Normal (Ⓝ) to Low MCV leads directly to evaluation of ____.",
+      "opts": [
+        "Iron indices",
+        "Bone marrow biopsy",
+        "Osmotic fragility",
+        "Schilling test"
+      ],
+      "ans": 0,
+      "exp": "Ⓝ to Low MCV → Iron indices. (Book p81)"
+    },
+    {
+      "id": "MED-C13-82",
+      "sec": "Diagnostic Protocol for Microcytic Hypochromic Anemia",
+      "page": 81,
+      "fmt": "recall",
+      "q": "At the bottom of the p81 diagnostic protocol, 'Iron indices' differentiates which four conditions?",
+      "opts": [
+        "Anemia of chronic disease, pure red cell aplasia, paroxysmal nocturnal hemoglobinuria and IRIDA",
+        "Iron deficiency anemia, anemia of chronic disease, sideroblastic anemia and thalassemia trait",
+        "Autoimmune hemolytic anemia, G6PD deficiency, hereditary spherocytosis and sickle cell anemia",
+        "Iron deficiency anemia, megaloblastic anemia, aplastic anemia and myelodysplastic syndrome"
+      ],
+      "ans": 1,
+      "exp": "Under Iron indices, the flowchart branches into: Iron deficiency anemia, Anemia of chronic disease, Sideroblastic anemia, and Thalassemia trait. (Book p81)"
+    },
+    {
+      "id": "MED-C13-83",
+      "sec": "Diagnostic Protocol for Microcytic Hypochromic Anemia",
+      "page": 81,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — in the p81 diagnostic flowchart, the complete sequence to reach the four microcytic/normocytic anemias is Lineage (Single) → Reticulocyte production index (Low) → MCV (Ⓝ to Low) → Iron indices.",
+      "opts": [
+        "False — they sit under the Multiple-lineage branch of the protocol",
+        "True — but only when the Reticulocyte Production Index (RPI) is High",
+        "False — Iron indices are evaluated before checking MCV or RPI",
+        "True — Single lineage → Low RPI → Ⓝ to Low MCV → Iron indices is the exact flowchart pathway"
+      ],
+      "ans": 3,
+      "exp": "The p81 flowchart shows Lineage (Single vs Multiple) → RPI (Low vs High) → MCV (Ⓝ to Low vs High) → Iron indices → four anemias. (Book p81)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U13-1",
+      "ch": 13,
+      "n": 1,
+      "title": "Blood Picture & ACD Pathophysiology",
+      "sec": "Blood Picture & Anemia of Chronic Disease Pathophysiology",
+      "guide": "IDA and ACD are normocytic normochromic initially; RA and miliary TB cause microcytic hypochromic ACD.\nSideroblastic anemia is dimorphic (microcytic + macrocytic); thalassemia trait is microcytic hypochromic.\nHepcidin (liver peptide) inhibits ferroportin; IL-6/activin, HFE (chr 6), hemojuvelin and Tfr2 stimulate it, while hypoxia inhibits it.",
+      "qs": [
+        "MED-C13-01",
+        "MED-C13-02",
+        "MED-C13-03",
+        "MED-C13-04",
+        "MED-C13-05",
+        "MED-C13-06",
+        "MED-C13-07",
+        "MED-C13-08",
+        "MED-C13-09",
+        "MED-C13-10",
+        "MED-C13-11",
+        "MED-C13-12",
+        "MED-C13-13",
+        "MED-C13-14",
+        "MED-C13-15",
+        "MED-C13-16",
+        "MED-C13-17",
+        "MED-C13-18"
+      ]
+    },
+    {
+      "id": "MED-U13-2",
+      "ch": 13,
+      "n": 2,
+      "title": "ACD Indices & Sideroblastic Etiology",
+      "sec": "ACD Indices & Sideroblastic Anemia Etiology",
+      "guide": "HFE mutation causes hemochromatosis; in ACD, ferritin and hepcidin are normal/high while Sr. iron, TIBC, TSAT and sTfR are low.\nSideroblastic anemia is inherited (X-linked ALA synthase deficiency) or acquired (MDS, Cu deficiency, alcohol, chloramphenicol/INH/PZA, lead).\nNormal heme synthesis proceeds from Succinyl Co-A + Glycine + B6 (via ALA synthase) → ALA → Protoporphyrin + Fe → Heme → Hb.",
+      "qs": [
+        "MED-C13-19",
+        "MED-C13-20",
+        "MED-C13-21",
+        "MED-C13-22",
+        "MED-C13-23",
+        "MED-C13-24",
+        "MED-C13-25",
+        "MED-C13-26",
+        "MED-C13-27",
+        "MED-C13-28",
+        "MED-C13-29",
+        "MED-C13-30",
+        "MED-C13-31",
+        "MED-C13-32",
+        "MED-C13-33",
+        "MED-C13-34",
+        "MED-C13-35",
+        "MED-C13-36",
+        "MED-C13-37",
+        "MED-C13-38",
+        "MED-C13-39",
+        "MED-C13-40",
+        "MED-C13-41",
+        "MED-C13-42"
+      ]
+    },
+    {
+      "id": "MED-U13-3",
+      "ch": 13,
+      "n": 3,
+      "title": "Sideroblastic Pathogenesis & Thalassemia",
+      "sec": "Sideroblastic Pathogenesis & Thalassemia Trait Genetics",
+      "guide": "ALA synthase deficiency leaves unbound iron around the erythroblast nucleus as ring sideroblasts on Prussian blue stain.\nSideroblastic investigations show dimorphic cellularity, EM Pappenheimer bodies, high Sr. iron/TSAT, normal/high ferritin and low TIBC.\nThalassemia trait (ββ⁰, ββ⁺) has one normal and one defective β gene, absent ineffective erythropoiesis, and normal iron indices.",
+      "qs": [
+        "MED-C13-43",
+        "MED-C13-44",
+        "MED-C13-45",
+        "MED-C13-46",
+        "MED-C13-47",
+        "MED-C13-48",
+        "MED-C13-49",
+        "MED-C13-50",
+        "MED-C13-51",
+        "MED-C13-52",
+        "MED-C13-53",
+        "MED-C13-54",
+        "MED-C13-55",
+        "MED-C13-56",
+        "MED-C13-57",
+        "MED-C13-58",
+        "MED-C13-59"
+      ]
+    },
+    {
+      "id": "MED-U13-4",
+      "ch": 13,
+      "n": 4,
+      "title": "Thalassemia Indices & Inherited IDA",
+      "sec": "Thalassemia Investigations, Master Table & Inherited IDA",
+      "guide": "Thalassemia trait shows normal RDW, Mentzer index <13, rare target/stippled cells, and HbA₂ 4–8% (normal 1.5–3%).\nThe master table contrasts Sr. iron, ferritin, TIBC and TSAT across IDA, ACD, sideroblastic anemia and thalassemia trait.\nInherited IDA includes IRIDA (defective matriptase-2 → ↑ hepcidin), DMT-1 mutation (no endosome-to-cytoplasm transport) and atransferrinemia.",
+      "qs": [
+        "MED-C13-60",
+        "MED-C13-61",
+        "MED-C13-62",
+        "MED-C13-63",
+        "MED-C13-64",
+        "MED-C13-65",
+        "MED-C13-66",
+        "MED-C13-67",
+        "MED-C13-68",
+        "MED-C13-69",
+        "MED-C13-70",
+        "MED-C13-71",
+        "MED-C13-72",
+        "MED-C13-73",
+        "MED-C13-74",
+        "MED-C13-75",
+        "MED-C13-76",
+        "MED-C13-77"
+      ]
+    },
+    {
+      "id": "MED-U13-5",
+      "ch": 13,
+      "n": 5,
+      "title": "Diagnostic Protocol",
+      "sec": "Diagnostic Protocol for Microcytic Hypochromic Anemia",
+      "guide": "The diagnostic protocol begins with Lineage (Single vs Multiple) followed by Reticulocyte Production Index (Low vs High).\nUnder Single lineage and Low RPI, MCV divides into Normal-to-Low versus High.\nNormal-to-Low MCV proceeds to Iron indices to separate IDA, ACD, sideroblastic anemia and thalassemia trait.",
+      "qs": [
+        "MED-C13-78",
+        "MED-C13-79",
+        "MED-C13-80",
+        "MED-C13-81",
+        "MED-C13-82",
+        "MED-C13-83"
+      ]
+    }
+  ]
+}

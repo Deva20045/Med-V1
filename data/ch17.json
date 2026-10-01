@@ -1,0 +1,1189 @@
+{
+  "chapter": 17,
+  "title": "Non-Immune Mediated Hemolytic Anemia",
+  "pageRange": "97-102",
+  "questions": [
+    {
+      "id": "MED-C17-01",
+      "sec": "Overview & Paroxysmal Nocturnal Hemoglobinuria Physiology",
+      "page": 97,
+      "fmt": "recall",
+      "q": "At the top of p97, Non-Immune Mediated Hemolytic Anemia is divided into which four main categories?",
+      "opts": [
+        "Infections (through exotoxins & endotoxins), Drugs and toxins, Paroxysmal nocturnal hemoglobinuria, and Fragmentation hemolysis",
+        "Warm antibody AIHA, Cold antibody AIHA, Paroxysmal cold hemoglobinuria, and Drug-induced immune hemolytic anemia",
+        "Iron deficiency anemia, Anemia of chronic disease, Megaloblastic macrocytic anemia, and Aplastic bone marrow failure",
+        "Hemoglobinopathies (sickle cell/thalassemia), Membrane cytoskeleton defects, Red cell enzymopathies, and Sideroblastic anemia"
+      ],
+      "ans": 0,
+      "exp": "The opening p97 chart divides non-immune mediated hemolytic anemia into Infections, Drugs and toxins, Paroxysmal nocturnal hemoglobinuria, and Fragmentation hemolysis. (Book p97)"
+    },
+    {
+      "id": "MED-C17-02",
+      "sec": "Overview & Paroxysmal Nocturnal Hemoglobinuria Physiology",
+      "page": 97,
+      "fmt": "recall",
+      "q": "Which four infectious causes (acting through exotoxins and endotoxins) are listed under Non-Immune Mediated Hemolytic Anemia on p97?",
+      "opts": [
+        "Malaria, Babesia, Oroya fever and Clostridium perfringens",
+        "Infectious mononucleosis, EBV, cytomegalovirus and Mycoplasma pneumoniae",
+        "Diphyllobothrium latum, Ancylostoma duodenale, Giardia and Entamoeba",
+        "Tertiary syphilis, HIV, hepatitis C and parvovirus B19"
+      ],
+      "ans": 0,
+      "exp": "Infections (Through exotoxins & endotoxins) on p97: • Malaria, • Babesia, • Oroya fever, • Clostridium perfringens. (Book p97)"
+    },
+    {
+      "id": "MED-C17-03",
+      "sec": "Overview & Paroxysmal Nocturnal Hemoglobinuria Physiology",
+      "page": 97,
+      "fmt": "recall",
+      "q": "Which two drugs are specifically listed under 'Drugs and toxins' in the p97 non-immune hemolysis overview?",
+      "opts": [
+        "Penicillin and lenalidomide",
+        "Methyldopa and procainamide",
+        "Quinidine and rifampicin",
+        "Dapsone and primaquine"
+      ],
+      "ans": 3,
+      "exp": "Drugs and toxins on p97: • Dapsone, • Primaquine. (Book p97)"
+    },
+    {
+      "id": "MED-C17-04",
+      "sec": "Overview & Paroxysmal Nocturnal Hemoglobinuria Physiology",
+      "page": 97,
+      "fmt": "recall",
+      "q": "Under Paroxysmal Nocturnal Hemoglobinuria (PNH) on p97, how is the pattern of hemolysis described?",
+      "opts": [
+        "Purely intramedullary ineffective erythropoiesis",
+        "Chronic intravascular hemolysis with acute exacerbation",
+        "Acute self-limiting extravascular hemolysis in the spleen",
+        "Chronic cold-induced hepatic extravascular hemolysis"
+      ],
+      "ans": 1,
+      "exp": "Paroxysmal Nocturnal Hemoglobinuria on p97: Chronic intravascular hemolysis with acute exacerbation. (Book p97)"
+    },
+    {
+      "id": "MED-C17-05",
+      "sec": "Overview & Paroxysmal Nocturnal Hemoglobinuria Physiology",
+      "page": 97,
+      "fmt": "numeric",
+      "q": "How many blood lineages are affected in Paroxysmal Nocturnal Hemoglobinuria (PNH) according to p97?",
+      "opts": [
+        "Only 1 lineage (erythroid only)",
+        "All 3 blood lineages",
+        "Only plasma cells and T lymphocytes",
+        "Only 2 lineages (erythroid and lymphoid)"
+      ],
+      "ans": 1,
+      "exp": "PNH on p97: All 3 blood lineages affected. (Book p97)"
+    },
+    {
+      "id": "MED-C17-06",
+      "sec": "Overview & Paroxysmal Nocturnal Hemoglobinuria Physiology",
+      "page": 97,
+      "fmt": "fillup",
+      "q": "The underlying defect in Paroxysmal Nocturnal Hemoglobinuria (PNH) on p97 is an acquired mutation in the ____ gene.",
+      "opts": [
+        "HFE",
+        "ADAMTS13",
+        "PIGA",
+        "MYD88"
+      ],
+      "ans": 2,
+      "exp": "Defect: Acquired mutation in PIGA gene. (Book p97)"
+    },
+    {
+      "id": "MED-C17-07",
+      "sec": "Overview & Paroxysmal Nocturnal Hemoglobinuria Physiology",
+      "page": 97,
+      "fmt": "recall",
+      "q": "On which chromosome is the PIGA gene located according to 'Physiology of PIGA Gene' on p97?",
+      "opts": [
+        "X chromosome",
+        "Chromosome 11",
+        "Y chromosome",
+        "Chromosome 6"
+      ],
+      "ans": 0,
+      "exp": "Physiology of PIGA gene: PIGA gene (Present on X chromosome). (Book p97)"
+    },
+    {
+      "id": "MED-C17-08",
+      "sec": "Overview & Paroxysmal Nocturnal Hemoglobinuria Physiology",
+      "page": 97,
+      "fmt": "recall",
+      "q": "What is item 1 coded for by the PIGA gene on p97, and what is its function on the RBC surface?",
+      "opts": [
+        "GPI anchor protein, which anchors complement regulatory proteins on the surface of the RBC",
+        "Spectrin dimer, which maintains biconcave deformability in splenic sinusoids",
+        "Ferroportin-1, which exports ferrous iron across the basolateral membrane",
+        "Transferrin receptor-1, which internalizes ferric iron into endosomes"
+      ],
+      "ans": 0,
+      "exp": "PIGA gene codes for: 1. GPI anchor protein → Anchor complement regulatory protein on the surface of RBC. (Book p97)"
+    },
+    {
+      "id": "MED-C17-09",
+      "sec": "Overview & Paroxysmal Nocturnal Hemoglobinuria Physiology",
+      "page": 97,
+      "fmt": "fillup",
+      "q": "On p97, CD55 is expanded as ____.",
+      "opts": [
+        "Membrane inhibitor of reactive lysis (MIRL)",
+        "Decay accelerating factor (DAF)",
+        "Direct antiglobulin factor (DAF)",
+        "Urokinase plasminogen activator receptor (UPAR)"
+      ],
+      "ans": 1,
+      "exp": "CD55 : Decay accelerating factor (DAF). (Book p97)"
+    },
+    {
+      "id": "MED-C17-10",
+      "sec": "Overview & Paroxysmal Nocturnal Hemoglobinuria Physiology",
+      "page": 97,
+      "fmt": "fillup",
+      "q": "On p97, CD59 is expanded as ____.",
+      "opts": [
+        "Membrane cofactor protein (MCP)",
+        "Decay accelerating factor (DAF)",
+        "Complement factor H (CFH)",
+        "Membrane inhibitor of reactive lysis (MIRL)"
+      ],
+      "ans": 3,
+      "exp": "CD59 : Membrane inhibitor of reactive lysis (MIRL). (Book p97)"
+    },
+    {
+      "id": "MED-C17-11",
+      "sec": "Overview & Paroxysmal Nocturnal Hemoglobinuria Physiology",
+      "page": 97,
+      "fmt": "match",
+      "q": "Match each GPI-anchored complement regulatory protein or anchoring moiety on the RBC surface (p97) to its full name or description — 1) CD55 2) CD59 3) GPI anchor protein … A) Glycolipid protein on RBC surface B) Decay accelerating factor (DAF) C) Membrane inhibitor of reactive lysis (MIRL)",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 1,
+      "exp": "Under GPI anchor protein (glycolipid protein on RBC surface) on p97: CD55 : Decay accelerating factor (DAF); CD59 : Membrane inhibitor of reactive lysis (MIRL) — bracketed as main complement regulatory proteins that prevent attack by complement-mediated protein. (Book p97)"
+    },
+    {
+      "id": "MED-C17-12",
+      "sec": "Overview & Paroxysmal Nocturnal Hemoglobinuria Physiology",
+      "page": 97,
+      "fmt": "recall",
+      "q": "Besides 1. GPI anchor protein, what are items 2 and 3 coded for/anchored via the PIGA gene on p97?",
+      "opts": [
+        "2. Erythrocyte acid phosphatase, and 3. Platelet glycoprotein Ib–IX–V receptor complex",
+        "2. Leukocyte myeloperoxidase (MPO), and 3. Tissue plasminogen activator inhibitor-1 (PAI-1)",
+        "2. Neutrophil alkaline phosphatase, and 3. Urokinase plasminogen activator receptor (UPAR)",
+        "2. Glucose-6-phosphate dehydrogenase (G6PD), and 3. Pyruvate kinase tetrameric enzyme"
+      ],
+      "ans": 2,
+      "exp": "PIGA gene (Present on X chromosome) codes for: 1. GPI anchor protein, 2. Neutrophil alkaline phosphatase, 3. Urokinase plasminogen activator receptor (UPAR). (Book p97)"
+    },
+    {
+      "id": "MED-C17-13",
+      "sec": "Overview & Paroxysmal Nocturnal Hemoglobinuria Physiology",
+      "page": 97,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — according to the bottom note on p97, inherited hemolysis is intracorpuscular, whereas acquired hemolysis is extracorpuscular EXCEPT for PNH.",
+      "opts": [
+        "False — all acquired hemolytic anemias without exception are mediated by extracorpuscular factors",
+        "True — both PNH and warm autoimmune hemolytic anemia are inherited intracorpuscular defects",
+        "True — inherited hemolysis is intracorpuscular, and acquired hemolysis is extracorpuscular except PNH",
+        "False — PNH is an inherited autosomal dominant extracorpuscular hemolytic anemia"
+      ],
+      "ans": 2,
+      "exp": "Note at bottom of p97: • Inherited hemolysis : Intracorpuscular. • Acquired hemolysis : Extracorpuscular (Except PNH). (Book p97)"
+    },
+    {
+      "id": "MED-C17-14",
+      "sec": "PNH: Pathogenesis & Clinical Presentation",
+      "page": 98,
+      "fmt": "recall",
+      "q": "In the left arm of the PNH Pathogenesis chart on p98, what is the sequence from 'Defective GPI anchor protein' to RBC lysis?",
+      "opts": [
+        "Defective GPI anchor protein → IgM cold agglutination in peripheral extremities → Hepatic Kupffer cell C3b uptake → Extravascular hepatic lysis",
+        "Defective GPI anchor protein → Splenic macrophage Fc-gamma receptor binding → Progressive membrane microvesiculation → Extravascular lysis of RBC",
+        "Defective GPI anchor protein → Defective complement regulatory protein → Affinity to PNH III RBC (PNH III RBCs lack CD55, CD59) → Lysis of RBC",
+        "Defective GPI anchor protein → Absent protoporphyrin IX synthesis in mitochondria → Ring sideroblast formation → Intramedullary lysis of normoblasts"
+      ],
+      "ans": 2,
+      "exp": "Pathogenesis left arm on p98: Defective GPI anchor protein → Defective complement regulatory protein → Affinity to PNH III RBC (PNH III RBCs lack CD55, CD59) → Lysis of RBC. (Book p98)"
+    },
+    {
+      "id": "MED-C17-15",
+      "sec": "PNH: Pathogenesis & Clinical Presentation",
+      "page": 98,
+      "fmt": "recall",
+      "q": "In the middle and right arms of the PNH Pathogenesis chart on p98, what are the consequences of a PIGA gene mutation on neutrophil alkaline phosphatase and UPAR?",
+      "opts": [
+        "Neutrophil alkaline phosphatase increases (↑); Defective UPAR leads to Bleeding",
+        "Neutrophil alkaline phosphatase is unchanged; Defective UPAR leads to Spherocytosis",
+        "Neutrophil alkaline phosphatase increases (↑); Defective UPAR leads to Splenomegaly",
+        "Neutrophil alkaline phosphatase decreases (↓); Defective UPAR leads to Thrombosis"
+      ],
+      "ans": 3,
+      "exp": "Pathogenesis middle and right arms on p98: Neutrophil alkaline phosphatase ↓; Defective UPAR → Thrombosis. (Book p98)"
+    },
+    {
+      "id": "MED-C17-16",
+      "sec": "PNH: Pathogenesis & Clinical Presentation",
+      "page": 98,
+      "fmt": "match",
+      "q": "Match each arm of the PIGA gene mutation pathogenesis chart on p98 to its downstream consequence — 1) Defective GPI anchor protein 2) Neutrophil alkaline phosphatase 3) Defective UPAR … A) Decreased (↓) level B) Thrombosis C) Defective complement regulatory protein → Affinity to PNH III RBC (lacking CD55, CD59) → Lysis of RBC",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 2,
+      "exp": "Pathogenesis on p98: Mutation of PIGA gene → (1) Defective GPI anchor protein → Lysis of PNH III RBC; (2) Neutrophil alkaline phosphatase ↓; (3) Defective UPAR → Thrombosis. (Book p98)"
+    },
+    {
+      "id": "MED-C17-17",
+      "sec": "PNH: Pathogenesis & Clinical Presentation",
+      "page": 98,
+      "fmt": "fillup",
+      "q": "According to the first bullet of the boxed note on p98, ____ scavenging due to RBC lysis also causes thrombosis in PNH.",
+      "opts": [
+        "NO (nitric oxide)",
+        "O₂ (oxygen)",
+        "H₂S (hydrogen sulfide)",
+        "CO (carbon monoxide)"
+      ],
+      "ans": 0,
+      "exp": "Boxed note on p98: • NO scavenging d/t RBC lysis also causes thrombosis. (Book p98)"
+    },
+    {
+      "id": "MED-C17-18",
+      "sec": "PNH: Pathogenesis & Clinical Presentation",
+      "page": 98,
+      "fmt": "recall",
+      "q": "According to the second bullet of the boxed note on p98, markedly decreased (↓↓) leukocyte/neutrophil alkaline phosphatase levels are seen in which two conditions?",
+      "opts": [
+        "Polycythemia vera and essential thrombocythemia",
+        "Leukemoid reaction and pregnancy",
+        "CML and PNH",
+        "Hodgkin lymphoma and multiple myeloma"
+      ],
+      "ans": 2,
+      "exp": "Boxed note on p98: • ↓↓ alkaline phosphatase level : CML, PNH. (Book p98)"
+    },
+    {
+      "id": "MED-C17-19",
+      "sec": "PNH: Pathogenesis & Clinical Presentation",
+      "page": 98,
+      "fmt": "recall",
+      "q": "Under Clinical Presentation of PNH on p98, what is the sequence explaining '1. Nocturnal hemoglobinuria/hemosiderinuria'?",
+      "opts": [
+        "Sleep → Respiratory alkalosis → Splenic sequestration → Acholic stool",
+        "Fasting → Hyperbilirubinemia → Renal tubular secretion → Orange urine",
+        "Sleep → Acidotic pH → Intravascular hemolysis → High colored urine",
+        "Exercise → Cold extremity temperature (4°C) → Kupffer cell phagocytosis → Acrocyanosis"
+      ],
+      "ans": 2,
+      "exp": "1. Nocturnal hemoglobinuria/hemosiderinuria: Sleep → Acidotic pH → Intravascular hemolysis → High colored urine (with image captioned 'Diurnal changes in hemoglobinuria in PNH patients'). (Book p98)"
+    },
+    {
+      "id": "MED-C17-20",
+      "sec": "PNH: Pathogenesis & Clinical Presentation",
+      "page": 98,
+      "fmt": "recall",
+      "q": "Under '2. Thrombosis' in PNH on p98, which venous thrombosis (item a) is marked most common (m/c), and what syndrome does it cause?",
+      "opts": [
+        "Hepatic venous thrombosis (m/c) → Budd–Chiari syndrome",
+        "Renal vein thrombosis (m/c) → Nephrotic syndrome",
+        "Subclavian vein thrombosis (m/c) → Paget–Schroetter syndrome",
+        "Splenic vein thrombosis (m/c) → Sinistral portal hypertension"
+      ],
+      "ans": 0,
+      "exp": "2. Thrombosis on p98: a. Hepatic venous thrombosis (m/c) → Budd Chiari Syndrome. (Book p98)"
+    },
+    {
+      "id": "MED-C17-21",
+      "sec": "PNH: Pathogenesis & Clinical Presentation",
+      "page": 98,
+      "fmt": "fillup",
+      "q": "Beneath Budd–Chiari syndrome on p98, an arrow notes that the other hematologic cause of Budd–Chiari syndrome is ____.",
+      "opts": [
+        "MDS (myelodysplastic syndrome)",
+        "PCRV (polycythemia rubra vera)",
+        "ITP (immune thrombocytopenic purpura)",
+        "CLL (chronic lymphocytic leukemia)"
+      ],
+      "ans": 1,
+      "exp": "Budd Chiari Syndrome → ↓ Other cause is PCRV. (Book p98)"
+    },
+    {
+      "id": "MED-C17-22",
+      "sec": "PNH: Pathogenesis & Clinical Presentation",
+      "page": 98,
+      "fmt": "recall",
+      "q": "Besides hepatic venous thrombosis (m/c), which three other thrombosis sites are listed as items b, c, and d under '2. Thrombosis' on p98?",
+      "opts": [
+        "b. Coronary artery thrombosis, c. Retinal artery occlusion, and d. Femoral artery embolism",
+        "b. Carotid artery thrombosis, c. Renal artery thrombosis, and d. Radial artery thrombosis",
+        "b. Intraabdominal thrombosis, c. Cerebral venous thrombosis, and d. Deep vein thrombosis",
+        "b. Pulmonary microvascular thrombosis, c. Glomerular capillary thrombosis, and d. Digital ischemia"
+      ],
+      "ans": 2,
+      "exp": "2. Thrombosis on p98 lists: a. Hepatic venous thrombosis (m/c), b. Intraabdominal thrombosis, c. Cerebral venous thrombosis, d. Deep vein thrombosis. (Book p98)"
+    },
+    {
+      "id": "MED-C17-23",
+      "sec": "PNH: Pathogenesis & Clinical Presentation",
+      "page": 98,
+      "fmt": "recall",
+      "q": "Under '3. Pancytopenia' in PNH on p98, what is the bone marrow cellularity pattern, and which one is marked most common (m/c)?",
+      "opts": [
+        "Hypercellular (m/c), normal or hypocellular bone marrow",
+        "Strictly acellular fatty bone marrow in 100% of cases",
+        "Fibrotic dry-tap bone marrow (m/c) with osteosclerosis",
+        "Purely megaloblastic bone marrow with giant metamyelocytes"
+      ],
+      "ans": 0,
+      "exp": "3. Pancytopenia on p98: Bone marrow : Hypercellular (m/c), normal or hypocellular bone marrow. (Book p98)"
+    },
+    {
+      "id": "MED-C17-24",
+      "sec": "PNH: Pathogenesis & Clinical Presentation",
+      "page": 98,
+      "fmt": "numeric",
+      "q": "What is the '25/10 rule' under '4. Aplastic anemia' in PNH on p98?",
+      "opts": [
+        "25% of PNH progresses to CML; 10% of CML is due to PNH",
+        "10% of PNH progresses to aplastic anemia; 25% of aplastic anemia is due to PNH",
+        "25% of PNH resolves spontaneously; 10% requires splenectomy",
+        "25% of PNH progresses to aplastic anemia; 10% of aplastic anemia is due to PNH"
+      ],
+      "ans": 3,
+      "exp": "4. Aplastic anemia — 25/10 rule: – 25% of PNH progresses to aplastic anemia; – 10% of aplastic anemia is d/t PNH. (Book p98)"
+    },
+    {
+      "id": "MED-C17-25",
+      "sec": "PNH: Pathogenesis & Clinical Presentation",
+      "page": 98,
+      "fmt": "fillup",
+      "q": "At the bottom of p98 (item e), PNH is noted to rarely progress to ____.",
+      "opts": [
+        "Multiple myeloma",
+        "CLL (chronic lymphocytic leukemia)",
+        "ALL (acute lymphoblastic leukemia)",
+        "AML (acute myeloid leukemia)"
+      ],
+      "ans": 3,
+      "exp": "e. Rarely progresses to AML. (Book p98)"
+    },
+    {
+      "id": "MED-C17-26",
+      "sec": "PNH: Investigations & Treatment",
+      "page": 99,
+      "fmt": "recall",
+      "q": "Under Investigation of PNH on p99, what is the Investigation of Choice (IOC), and what does it detect?",
+      "opts": [
+        "Flow cytometry (IOC): detects PNH III RBCs percentage",
+        "Ham's acid hemolysis test (IOC): detects serum complement C3",
+        "Direct Coombs test (IOC): detects surface IgG and C3d",
+        "Sucrose lysis test (IOC): detects spectrin deficiency"
+      ],
+      "ans": 0,
+      "exp": "1. Flow cytometry (IOC): • Detects PNH III RBC's percentage. (Book p99)"
+    },
+    {
+      "id": "MED-C17-27",
+      "sec": "PNH: Investigations & Treatment",
+      "page": 99,
+      "fmt": "numeric",
+      "q": "In flow cytometry for PNH on p99, what percentage of PNH III RBCs is considered 'Significant'?",
+      "opts": [
+        ">90%",
+        ">5%",
+        ">50%",
+        ">15%"
+      ],
+      "ans": 2,
+      "exp": "1. Flow cytometry (IOC): • Significant : >50%. (Book p99)"
+    },
+    {
+      "id": "MED-C17-28",
+      "sec": "PNH: Investigations & Treatment",
+      "page": 99,
+      "fmt": "recall",
+      "q": "In the '2. Urine analysis' flowchart on p99, when urine is centrifuged, how does the supernatant distinguish intact RBCs (hematuria) from free Hb/myoglobin?",
+      "opts": [
+        "Clear supernatant indicates RBC; high-colored supernatant indicates Hb or myoglobin",
+        "High-colored supernatant indicates intact RBC; clear supernatant indicates free Hb",
+        "Turbid precipitate indicates myoglobin; clear supernatant indicates hemosiderin",
+        "Green fluorescence indicates Hb; clear supernatant indicates urobilinogen"
+      ],
+      "ans": 0,
+      "exp": "2. Urine analysis on p99: Centrifuge urine → Supernatant → Clear = RBC; High colored = Hb, myoglobin. (Book p99)"
+    },
+    {
+      "id": "MED-C17-29",
+      "sec": "PNH: Investigations & Treatment",
+      "page": 99,
+      "fmt": "numeric",
+      "q": "In the p99 urine analysis flowchart, when a high-colored supernatant (containing Hb or myoglobin) is left to rest aside for 3–6 hours, how are Hb and myoglobin differentiated?",
+      "opts": [
+        "Becomes clear = Hb (T₁/₂ of 3–6 hours); remains high-colored = myoglobin",
+        "Remains high-colored = Hb; becomes clear = myoglobin (because myoglobin has a T₁/₂ of 3–6 hours)",
+        "Both become clear within 30 minutes due to spontaneous oxidation",
+        "Forms a blue ring = Hb; forms a red precipitate = myoglobin (T₁/₂ of 24 hours)"
+      ],
+      "ans": 1,
+      "exp": "Under Hb, myoglobin on p99: Rest aside for 3–6 hrs → High colored = Hb; Clear = myoglobin (T1/2 : 3–6 hrs). (Book p99)"
+    },
+    {
+      "id": "MED-C17-30",
+      "sec": "PNH: Investigations & Treatment",
+      "page": 99,
+      "fmt": "recall",
+      "q": "What is the result of the Coombs test (item 3) in PNH on p99?",
+      "opts": [
+        "Positive for cold IgM agglutinins",
+        "Positive for Donath–Landsteiner biphasic hemolysin",
+        "Strongly positive (3+, 4+) for IgG",
+        "Negative"
+      ],
+      "ans": 3,
+      "exp": "3. Coombs : Negative. (Book p99)"
+    },
+    {
+      "id": "MED-C17-31",
+      "sec": "PNH: Investigations & Treatment",
+      "page": 99,
+      "fmt": "recall",
+      "q": "What are items 4 and 5 under Investigation of PNH on p99?",
+      "opts": [
+        "4. Bone marrow studies; 5. Ham's test (Not used)",
+        "4. Osmotic fragility; 5. Schilling test (Routine)",
+        "4. Hb electrophoresis; 5. Prussian blue stain (Obsolete)",
+        "4. Spleen biopsy; 5. Donath–Landsteiner test (Gold standard)"
+      ],
+      "ans": 0,
+      "exp": "4. Bone marrow studies. 5. Hams test (Not used). (Book p99)"
+    },
+    {
+      "id": "MED-C17-32",
+      "sec": "PNH: Investigations & Treatment",
+      "page": 99,
+      "fmt": "management",
+      "q": "In the Treatment flowchart for PNH on p99, what is the treatment for the 'Bone marrow involvement' branch?",
+      "opts": [
+        "Autologous peripheral blood stem cell transplant",
+        "Oral hydroxyurea plus phlebotomy",
+        "Allogeneic hematopoietic stem cell transplant",
+        "Splenectomy plus high-dose corticosteroids"
+      ],
+      "ans": 2,
+      "exp": "Treatment on p99: Bone marrow involvement → Allogenic hematopoietic stem cell transplant. (Book p99)"
+    },
+    {
+      "id": "MED-C17-33",
+      "sec": "PNH: Investigations & Treatment",
+      "page": 99,
+      "fmt": "management",
+      "q": "In the Treatment flowchart for PNH on p99, what is the treatment for the 'Hemoglobinuria/thrombosis' branch?",
+      "opts": [
+        "Anti-CD20 antibody (Rituximab) + BCG vaccine",
+        "High-dose IVIG + oral warfarin monotherapy",
+        "Anti-C5 antibodies (Ravulizumab > Eculizumab) + meningococcal vaccine",
+        "Anti-IgE antibody (Omalizumab) + rabies vaccine"
+      ],
+      "ans": 2,
+      "exp": "Treatment on p99: Hemoglobinuria/thrombosis → Anti C5 antibodies (Ravulizumab > Eculizumab) + meningococcal vaccine. (Book p99)"
+    },
+    {
+      "id": "MED-C17-34",
+      "sec": "Fragmentation Hemolysis: MAHA, TMA & HUS vs TTP",
+      "page": 100,
+      "fmt": "recall",
+      "q": "At the top of p100, 'Non immune Hemolysis - Fragmentation' is defined as an acute syndrome of which two entities?",
+      "opts": [
+        "Macroangiopathic hemolysis and disseminated intravascular coagulation (DIC)",
+        "Hereditary spherocytosis and hereditary elliptocytosis",
+        "Autoimmune hemolytic anemia (AIHA) and paroxysmal nocturnal hemoglobinuria (PNH)",
+        "Microangiopathic hemolytic anemia (MAHA) and thrombotic microangiopathy (TMA)"
+      ],
+      "ans": 3,
+      "exp": "Top of p100: Acute syndrome of microangiopathic hemolytic anemia (MAHA) and thrombotic microangiopathy (TMA). (Book p100)"
+    },
+    {
+      "id": "MED-C17-35",
+      "sec": "Fragmentation Hemolysis: MAHA, TMA & HUS vs TTP",
+      "page": 100,
+      "fmt": "recall",
+      "q": "Which two classic syndromes are listed under 'Seen in :' at the top of p100?",
+      "opts": [
+        "Hemolytic uremic syndrome (HUS) and thrombotic thrombocytopenic purpura (TTP)",
+        "Evans syndrome and Imerslund–Gräsbeck syndrome",
+        "Budd–Chiari syndrome and Dressler syndrome",
+        "Plummer–Vinson syndrome and Felty syndrome"
+      ],
+      "ans": 0,
+      "exp": "Seen in: • Hemolytic uremic syndrome (HUS), • Thrombotic thrombocytopenic purpura (TTP). (Book p100)"
+    },
+    {
+      "id": "MED-C17-36",
+      "sec": "Fragmentation Hemolysis: MAHA, TMA & HUS vs TTP",
+      "page": 100,
+      "fmt": "recall",
+      "q": "In the MAHA etiopathogenesis flowchart on p100, endothelial injury in small vessels triggers the release of what factor and form?",
+      "opts": [
+        "Complement C3b — membrane-bound opsonins",
+        "von Willebrand factor (vWF) — large, high-molecular-weight multimers",
+        "Tissue plasminogen activator (tPA) — low-molecular-weight monomers",
+        "Antithrombin III — heparin-bound dimers"
+      ],
+      "ans": 1,
+      "exp": "MAHA flowchart on p100: Endothelial injury in small vessels → Release of von Willebrand factor (vWF) (vWF : Large, high molecular weight multimers). (Book p100)"
+    },
+    {
+      "id": "MED-C17-37",
+      "sec": "Fragmentation Hemolysis: MAHA, TMA & HUS vs TTP",
+      "page": 100,
+      "fmt": "match",
+      "q": "Match each component of the MAHA microvascular platelet plug flowchart on p100 to its role — 1) vWF multimers 2) Gp Ib–IX 3) Gp VI … A) Bind to collagen B) Released upon endothelial injury to initiate platelet plug C) Attract platelets",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 2,
+      "exp": "Under endothelial injury on p100: vWF multimers act via Gp Ib–IX (Attract platelets) and Gp VI (Bind to collagen) to form the Platelet plug. (Book p100)"
+    },
+    {
+      "id": "MED-C17-38",
+      "sec": "Fragmentation Hemolysis: MAHA, TMA & HUS vs TTP",
+      "page": 100,
+      "fmt": "recall",
+      "q": "In the MAHA flowchart on p100, formation of the 'Platelet plug' branches into which two downstream hematologic consequences?",
+      "opts": [
+        "1) Bone marrow megakaryocyte aplasia → Pancytopenia; 2) Hepatic Kupffer cell uptake → Cold agglutination",
+        "1) Prolong PT/aPTT → Coagulopathy; 2) Inhibit ferroportin → Iron-deficient erythropoiesis",
+        "1) Trap platelets → Thrombocytopenia; 2) Intravascular RBC destruction (fragmentation) → Microangiopathic non-immune fragmentation hemolysis",
+        "1) Activate plasminogen → Hyperfibrinolysis; 2) Splenic macrophage phagocytosis → Extravascular spherocytosis"
+      ],
+      "ans": 2,
+      "exp": "Platelet plug on p100 branches into: Trap platelets → Thrombocytopenia, and Intravascular RBC destruction (Fragmentation) → Microangiopathic non-immune fragmentation hemolysis. (Book p100)"
+    },
+    {
+      "id": "MED-C17-39",
+      "sec": "Fragmentation Hemolysis: MAHA, TMA & HUS vs TTP",
+      "page": 100,
+      "fmt": "recall",
+      "q": "How is TMA (Thrombotic Microangiopathy) defined under Etiopathogenesis on p100?",
+      "opts": [
+        "Venous thrombosis of the hepatic veins",
+        "Medium vessel necrotizing vasculitis of the lungs",
+        "Large vessel aneurysm of the abdominal aorta",
+        "Small vessel disease of kidney"
+      ],
+      "ans": 3,
+      "exp": "TMA on p100: Small vessel disease of kidney. (Book p100)"
+    },
+    {
+      "id": "MED-C17-40",
+      "sec": "Fragmentation Hemolysis: MAHA, TMA & HUS vs TTP",
+      "page": 100,
+      "fmt": "recall",
+      "q": "Which five causes of TMA are listed on p100, and which one is parenthetically marked '(most important)'?",
+      "opts": [
+        "HUS (most important), catastrophic antiphospholipid syndrome (APS), diffuse scleroderma, HELLP syndrome and malignant hypertension",
+        "PNH (most important), SLE, polyarteritis nodosa, gestational diabetes and coarctation of aorta",
+        "TTP (most important), rheumatoid arthritis, ulcerative colitis, preeclampsia and benign hypertension",
+        "DIC (most important), Sjögren's syndrome, Crohn's disease, hyperemesis gravidarum and pulmonary hypertension"
+      ],
+      "ans": 0,
+      "exp": "TMA Causes on p100: • HUS (most important), • Catastrophic antiphospholipid syndrome (APS), • Diffuse scleroderma, • HELLP Syndrome, • Malignant hypertension. (Book p100)"
+    },
+    {
+      "id": "MED-C17-41",
+      "sec": "Fragmentation Hemolysis: MAHA, TMA & HUS vs TTP",
+      "page": 100,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — which of the following is NOT listed among the causes of TMA on p100?",
+      "opts": [
+        "Diffuse scleroderma",
+        "Henoch–Schönlein purpura (IgA vasculitis)",
+        "Malignant hypertension",
+        "Catastrophic antiphospholipid syndrome (APS)"
+      ],
+      "ans": 1,
+      "exp": "Causes of TMA listed on p100 are HUS (most important), catastrophic APS, diffuse scleroderma, HELLP syndrome, and malignant hypertension. (Book p100)"
+    },
+    {
+      "id": "MED-C17-42",
+      "sec": "Fragmentation Hemolysis: MAHA, TMA & HUS vs TTP",
+      "page": 100,
+      "fmt": "recall",
+      "q": "In the HUS v/s TTP table on p100, what are the affected anatomical sites in HUS versus TTP?",
+      "opts": [
+        "HUS: Renal capillaries; TTP: Brain (small cerebral vessels) and GIT",
+        "HUS: Splenic sinusoids; TTP: Hepatic portal veins",
+        "HUS: Brain and GIT; TTP: Renal capillaries only",
+        "HUS: Pulmonary alveolar capillaries; TTP: Coronary arteries"
+      ],
+      "ans": 0,
+      "exp": "Site row in HUS v/s TTP table on p100: HUS = Renal capillaries; TTP = • Brain (Small cerebral vessels), • GIT. (Book p100)"
+    },
+    {
+      "id": "MED-C17-43",
+      "sec": "Fragmentation Hemolysis: MAHA, TMA & HUS vs TTP",
+      "page": 100,
+      "fmt": "recall",
+      "q": "In the HUS v/s TTP table on p100, what is the primary 'Disease' listed for HUS versus TTP?",
+      "opts": [
+        "HUS: Acute liver failure; TTP: Pulmonary embolism",
+        "HUS: Budd–Chiari syndrome; TTP: Subacute combined degeneration",
+        "HUS: Small vessel stroke / lacunar stroke; TTP: Nephrotic syndrome",
+        "HUS: Renal failure; TTP: Small vessel stroke / lacunar stroke"
+      ],
+      "ans": 3,
+      "exp": "Disease row in HUS v/s TTP table on p100: HUS = Renal failure; TTP = Small vessel stroke/lacunar stroke. (Book p100)"
+    },
+    {
+      "id": "MED-C17-44",
+      "sec": "Fragmentation Hemolysis: MAHA, TMA & HUS vs TTP",
+      "page": 100,
+      "fmt": "recall",
+      "q": "Compare the classic clinical 'Presentation' of HUS (Triad) and TTP (Pentad) in the p100 table:",
+      "opts": [
+        "HUS Triad: spherocytosis, splenomegaly, jaundice; TTP Pentad: pancytopenia, glossitis, neuropathy, diarrhea, rash",
+        "HUS Triad: hematuria, flank pain, palpable mass; TTP Pentad: fever, arthralgia, purpura, abdominal pain, melena",
+        "HUS Pentad: MAHA, thrombocytosis, fever, stroke, jaundice; TTP Triad: MAHA, leukopenia, renal failure",
+        "HUS Triad: MAHA, thrombocytopenia, renal failure; TTP Pentad: MAHA, thrombocytopenia, fever, neurological manifestations, renal failure (rare)"
+      ],
+      "ans": 3,
+      "exp": "Presentation row on p100 — HUS Triad: microangiopathic hemolytic anemia, thrombocytopenia, renal failure; TTP Pentad: microangiopathic hemolytic anemia, thrombocytopenia, fever, neurological manifestations, renal failure (Rare). (Book p100)"
+    },
+    {
+      "id": "MED-C17-45",
+      "sec": "Fragmentation Hemolysis: MAHA, TMA & HUS vs TTP",
+      "page": 100,
+      "fmt": "match",
+      "q": "Match each feature in the p100 HUS vs TTP comparison table to the corresponding disorder and category — 1) HUS target site & disease 2) HUS clinical presentation 3) TTP target site & disease 4) TTP clinical presentation … A) Triad of MAHA, thrombocytopenia, and renal failure B) Brain (small cerebral vessels) & GIT; small vessel/lacunar stroke C) Pentad of MAHA, thrombocytopenia, fever, neurological manifestations, and rare renal failure D) Renal capillaries; renal failure",
+      "opts": [
+        "1-A, 2-D, 3-C, 4-B",
+        "1-D, 2-A, 3-B, 4-C",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-C, 3-D, 4-A"
+      ],
+      "ans": 1,
+      "exp": "HUS v/s TTP table on p100 contrasts HUS (Renal capillaries, Renal failure, Triad) with TTP (Brain & GIT, Small vessel stroke/lacunar stroke, Pentad). (Book p100)"
+    },
+    {
+      "id": "MED-C17-46",
+      "sec": "Hemolytic Uremic Syndrome: Childhood vs Adult",
+      "page": 101,
+      "fmt": "recall",
+      "q": "In the Hemolytic Uremic Syndrome (HUS) Types table on p101, what are the 'Other names' for Childhood HUS (<5 yrs) and Adult HUS?",
+      "opts": [
+        "Childhood HUS (<5 yrs): Familial HUS; Adult HUS: Enteropathic HUS",
+        "Childhood HUS (<5 yrs): D⁻ HUS / Atypical HUS; Adult HUS: D⁺ HUS",
+        "Childhood HUS (<5 yrs): Warm HUS; Adult HUS: Cold HUS",
+        "Childhood HUS (<5 yrs): D⁺ HUS; Adult HUS: D⁻ HUS / Atypical HUS"
+      ],
+      "ans": 3,
+      "exp": "Other names row on p101: Childhood HUS (<5 yrs) = D+ HUS; Adult HUS = D- HUS, Atypical HUS. (Book p101)"
+    },
+    {
+      "id": "MED-C17-47",
+      "sec": "Hemolytic Uremic Syndrome: Childhood vs Adult",
+      "page": 101,
+      "fmt": "recall",
+      "q": "In the p101 HUS table, how do Childhood HUS (<5 yrs) and Adult HUS differ in 'Associated with dysentery' and 'Severity'?",
+      "opts": [
+        "Childhood HUS: No, Severity: Leads to ESRD; Adult HUS: Yes (preceded by bloody diarrhoea), Severity: Benign",
+        "Both Childhood and Adult HUS: Preceded by bloody diarrhoea and Benign",
+        "Both Childhood and Adult HUS: Not associated with dysentery and lead to ESRD",
+        "Childhood HUS: Yes (preceded by bloody diarrhoea), Severity: Benign; Adult HUS: No, Severity: Leads to end stage renal disease (m/c)"
+      ],
+      "ans": 3,
+      "exp": "Rows 2 & 3 on p101: Childhood HUS = Yes (Preceeded by bloody diarrhoea), Benign; Adult HUS = No, Leads to end stage renal disease (m/c). (Book p101)"
+    },
+    {
+      "id": "MED-C17-48",
+      "sec": "Hemolytic Uremic Syndrome: Childhood vs Adult",
+      "page": 101,
+      "fmt": "match",
+      "q": "Match Childhood HUS (<5 yrs) and Adult HUS on p101 to their nomenclature, dysentery association, and course — 1) Childhood HUS (<5 yrs) nomenclature & trigger 2) Childhood HUS (<5 yrs) clinical course 3) Adult HUS nomenclature & trigger 4) Adult HUS clinical course … A) Benign course with good prognosis B) D⁺ HUS; associated with dysentery (preceded by bloody diarrhoea) C) Leads to end-stage renal disease (m/c) D) D⁻ HUS / Atypical HUS; not associated with dysentery",
+      "opts": [
+        "1-B, 2-A, 3-D, 4-C",
+        "1-B, 2-C, 3-D, 4-A",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-C, 3-B, 4-A"
+      ],
+      "ans": 0,
+      "exp": "Top rows of p101 table: Childhood HUS (<5 yrs) = D+ HUS, associated with dysentery (preceded by bloody diarrhoea), Benign. Adult HUS = D- HUS / Atypical HUS, not associated with dysentery, leads to end stage renal disease (m/c). (Book p101)"
+    },
+    {
+      "id": "MED-C17-49",
+      "sec": "Hemolytic Uremic Syndrome: Childhood vs Adult",
+      "page": 101,
+      "fmt": "recall",
+      "q": "Under the 'Cause' row for Childhood HUS (<5 yrs) on p101, which two bacterial toxins account for 90% of toxin-mediated endothelial injury, and which one is marked most common (m/c)?",
+      "opts": [
+        "a. Enterotoxigenic E. coli (heat-labile toxin, m/c) and b. Vibrio cholerae enterotoxin",
+        "a. Enterohemorrhagic E. coli: EHEC O157:H7 (Shiga-like toxin, m/c) and b. Shiga toxin (Shigella dysenteriae)",
+        "a. Clostridium difficile toxin A/B (m/c) and b. Salmonella typhi Vi antigen",
+        "a. Staphylococcus aureus heat-stable toxin (m/c) and b. Bacillus cereus emetic toxin"
+      ],
+      "ans": 1,
+      "exp": "Childhood HUS Cause on p101: Toxin mediated endothelial injury — a. Enterohemorrhagic E. coli : EHEC O157:H7 (Shiga like toxin) : m/c, and b. Shiga toxin (Shigella dysenteriae) — bracketed together as 90%. (Book p101)"
+    },
+    {
+      "id": "MED-C17-50",
+      "sec": "Hemolytic Uremic Syndrome: Childhood vs Adult",
+      "page": 101,
+      "fmt": "numeric",
+      "q": "What accounts for the remaining 10% of toxin-mediated endothelial injury in Childhood HUS on p101?",
+      "opts": [
+        "c. Exotoxin A : 10% (Pseudomonas aeruginosa)",
+        "c. Lecithinase : 10% (Clostridium perfringens)",
+        "c. Listeriolysin O : 10% (Listeria monocytogenes)",
+        "c. Neuraminidases : 10% (Streptococcus pneumoniae)"
+      ],
+      "ans": 3,
+      "exp": "Childhood HUS Cause on p101: c. Neuraminidases : 10% (Streptococcus pneumoniae). (Book p101)"
+    },
+    {
+      "id": "MED-C17-51",
+      "sec": "Hemolytic Uremic Syndrome: Childhood vs Adult",
+      "page": 101,
+      "fmt": "recall",
+      "q": "How is the microscopic 'Endothelial injury' in Childhood HUS described on p101?",
+      "opts": [
+        "Linear IgG deposition along the glomerular basement membrane",
+        "Transmural fibrinoid necrosis with eosinophilic granulomas",
+        "Swelling and detachment of the endothelial cell from the basement membrane",
+        "Subepithelial humps of C3 without endothelial swelling"
+      ],
+      "ans": 2,
+      "exp": "Childhood HUS Cause on p101: • Endothelial injury : Swelling & detachment of endothelial cell from basement membrane. (Book p101)"
+    },
+    {
+      "id": "MED-C17-52",
+      "sec": "Hemolytic Uremic Syndrome: Childhood vs Adult",
+      "page": 101,
+      "fmt": "numeric",
+      "q": "In Childhood HUS on p101, what percentage of infected patients develop HUS, and in what percentage does it resolve?",
+      "opts": [
+        "80–90% develop HUS; resolves in 25%",
+        "50–60% develop HUS; resolves in 10%",
+        "100% develop HUS; resolves in 5%",
+        "Only 3–9% develop HUS; resolves in 95%"
+      ],
+      "ans": 3,
+      "exp": "Childhood HUS Cause bullets on p101: • Only 3–9% develop HUS. • Resolves in 95%. (Book p101)"
+    },
+    {
+      "id": "MED-C17-53",
+      "sec": "Hemolytic Uremic Syndrome: Childhood vs Adult",
+      "page": 101,
+      "fmt": "recall",
+      "q": "Under Adult HUS causes on p101, familial/inherited disease involves activation of the alternate complement pathway via which three mutations (and which one is most common)?",
+      "opts": [
+        "a. Complement factor H (CFH) mutation (m/c cause of adult HUS), b. Complement factor B (CFB) mutation, and c. Membrane cofactor P (MCP) mutation",
+        "a. Phosphatidylinositol glycan class A (PIGA) mutation (m/c cause of adult HUS), b. CD55 (DAF) mutation, and c. CD59 (MIRL) mutation",
+        "a. ADAMTS-13 metalloprotease mutation (m/c cause of adult HUS), b. Factor V Leiden R506Q mutation, and c. Prothrombin G20210A mutation",
+        "a. Classic C1 esterase inhibitor (C1-INH) mutation (m/c cause of adult HUS), b. Complement C2 deficiency, and c. Complement C4 deficiency"
+      ],
+      "ans": 0,
+      "exp": "Adult HUS Cause on p101 — Familial/inherited: Activation of alternate complement pathway: a. Complement factor H (CFH) mutation: m/c cause of adult HUS; b. Complement factor B (CFB) mutation; c. Membrane cofactor P (MCP) mutation. (Book p101)"
+    },
+    {
+      "id": "MED-C17-54",
+      "sec": "Hemolytic Uremic Syndrome: Childhood vs Adult",
+      "page": 101,
+      "fmt": "recall",
+      "q": "Under 'Sporadic (Rare)' causes of Adult HUS on p101, which seven drugs are listed under item a?",
+      "opts": [
+        "Dapsone, primaquine, hydroxyurea, cytarabine, 6-mercaptopurine, aspirin and warfarin",
+        "Mitomycin-C, gemcitabine, cisplatin, ticlopidine, clopidogrel, tacrolimus and cyclosporine",
+        "Methyldopa, procainamide, penicillin, cephalosporins, lenalidomide, quinidine and rifampicin",
+        "Chloramphenicol, isoniazid, pyrazinamide, methotrexate, phenytoin, triamterene and sulfasalazine"
+      ],
+      "ans": 1,
+      "exp": "Adult HUS Sporadic (Rare) causes on p101: a. Drugs : Mitomycin-C, Gemcitabine, Cisplatin, Ticlopidine, Clopidogrel, Tacrolimus, Cyclosporine. (Book p101)"
+    },
+    {
+      "id": "MED-C17-55",
+      "sec": "Hemolytic Uremic Syndrome: Childhood vs Adult",
+      "page": 101,
+      "fmt": "recall",
+      "q": "Besides drugs (item a), which four clinical states (items b–e) are listed under 'Sporadic (Rare)' causes of Adult HUS on p101?",
+      "opts": [
+        "b. Pregnancy, c. HELLP, d. Post bone marrow transplantation, and e. HIV",
+        "b. Hypothyroidism, c. Scurvy, d. COPD, and e. Alcoholism",
+        "b. Celiac disease, c. Tropical sprue, d. Crohn's disease, and e. Blind loop syndrome",
+        "b. Tertiary syphilis, c. Mycoplasma pneumoniae, d. EBV, and e. Malaria"
+      ],
+      "ans": 0,
+      "exp": "Adult HUS Sporadic (Rare) causes on p101: b. Pregnancy, c. HELLP, d. Post bone marrow transplantation, e. HIV. (Book p101)"
+    },
+    {
+      "id": "MED-C17-56",
+      "sec": "Hemolytic Uremic Syndrome: Childhood vs Adult",
+      "page": 101,
+      "fmt": "match",
+      "q": "Match the HUS category or mutation in the Prognosis row on p101 to its printed outcome — 1) Childhood HUS (<5 yrs) 2) Adult HUS with CFB mutation 3) Adult HUS with MCP mutation … A) Good prognosis (childhood) B) Good prognosis (adult mutation) C) Worst prognosis",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 3,
+      "exp": "Prognosis row on p101: Childhood HUS = Good; Adult HUS: • CFB mutation : Worst, • MCP mutation : Good. (Book p101)"
+    },
+    {
+      "id": "MED-C17-57",
+      "sec": "Hemolytic Uremic Syndrome: Childhood vs Adult",
+      "page": 101,
+      "fmt": "fillup",
+      "q": "Under Investigations for Childhood HUS on p101, stool culture on ____ medium identifies EHEC as non-fermenters.",
+      "opts": [
+        "Buffered charcoal yeast extract (BCYE)",
+        "Bordet–Gengou",
+        "Sorbitol MacConkey",
+        "Thiosulfate–citrate–bile salts–sucrose (TCBS)"
+      ],
+      "ans": 2,
+      "exp": "Investigations on p101: Culture : Sorbitol MacConkey → EHEC (Non-fermenters). (Book p101)"
+    },
+    {
+      "id": "MED-C17-58",
+      "sec": "Hemolytic Uremic Syndrome: Childhood vs Adult",
+      "page": 101,
+      "fmt": "recall",
+      "q": "Which six blood investigation findings are listed for Childhood HUS on p101?",
+      "opts": [
+        "Uniform microspherocytes in PS, ↓ LDH, strongly +ve Direct Coombs test (3+/4+), ↑ direct conjugated bilirubin, ↑ haptoglobin levels, and prolonged PT/APTT",
+        "Fragmented RBCs in PS (schistocytes), ↑↑ LDH (d/t intravascular hemolysis), –ve Coombs test, ↑ indirect bilirubin (d/t hemolysis), ↓ haptoglobin levels, and normal PT/APTT",
+        "Ring sideroblasts and Pappenheimer bodies in PS, ↓ LDH, –ve Coombs test, ↓ serum ferritin, ↑ total iron-binding capacity (TIBC), and prolonged PT",
+        "Target cells and Heinz bodies in PS, normal LDH, +ve Indirect Coombs test, normal serum bilirubin, normal haptoglobin levels, and isolated prolonged aPTT"
+      ],
+      "ans": 1,
+      "exp": "Blood investigations on p101: • Fragmented RBCs in PS (Schistocytes), • ↑↑ LDH (D/t intravascular hemolysis), • -ve Coombs test, • ↑ indirect bilirubin (D/t hemolysis), • ↓ haptoglobin levels, • Normal PT/APTT. (Book p101)"
+    },
+    {
+      "id": "MED-C17-59",
+      "sec": "Hemolytic Uremic Syndrome: Childhood vs Adult",
+      "page": 101,
+      "fmt": "management",
+      "q": "What are the three points under 'Supportive Rx' for Childhood HUS (<5 yrs) in the bottom-left cell of p101?",
+      "opts": [
+        "Prophylactic platelet transfusions, fresh frozen plasma infusions, and oral metronidazole for 14 days",
+        "Hypertonic saline fluid restriction, high-residue fiber diet, and immediate intravenous ciprofloxacin therapy",
+        "Isotonic saline volume expansion, bowel rest, and antibiotics are avoided (as they ↑ risk of HUS)",
+        "Urgent bilateral nephrectomy, high-dose intravenous methylprednisolone, and oral cyclophosphamide"
+      ],
+      "ans": 2,
+      "exp": "Childhood HUS Mx on p101 — Supportive Rx: • Isotonic saline volume expansion, • Bowel rest, • Antibiotics are avoided (↑ risk of HUS). (Book p101)"
+    },
+    {
+      "id": "MED-C17-60",
+      "sec": "Hemolytic Uremic Syndrome: Childhood vs Adult",
+      "page": 101,
+      "fmt": "management",
+      "q": "What are the management points listed for Adult HUS in the bottom-right cell of p101?",
+      "opts": [
+        "Plasmapheresis within 24 hrs; Transplantation (high recurrence) + Rituximab (anti-CD20) / Eculizumab (anti-C5)",
+        "Isotonic saline volume expansion and bowel rest alone, with plasmapheresis and anti-C5 therapy strictly contraindicated",
+        "Allogeneic bone marrow transplantation + intramuscular hydroxocobalamin and high-dose oral folic acid supplementation",
+        "Emergency splenectomy within 24 hrs + oral hydroxyurea and prophylactic cholecystectomy at the same sitting"
+      ],
+      "ans": 0,
+      "exp": "Adult HUS Mx on p101: • Plasmapheresis within 24 hrs. • Transplantation (High recurrence) + Rituximab (anti CD20) / Eculizumab (anti C5). (Book p101)"
+    },
+    {
+      "id": "MED-C17-61",
+      "sec": "Thrombotic Thrombocytopenic Purpura & Fragmentation Types",
+      "page": 102,
+      "fmt": "numeric",
+      "q": "Under Causes of Thrombotic Thrombocytopenic Purpura (TTP) on p102, what percentage is due to autoantibodies (IgG) against ADAMTS-13, which two drugs are listed under idiopathic/acquired causes, and what percentage is congenital?",
+      "opts": [
+        "Autoantibodies (IgG) against ADAMTS-13: 5%; Drugs: warfarin and dabigatran; Congenital: 95%",
+        "Autoantibodies (IgG) against ADAMTS-13: 95%; Drugs: ticlopidine and clopidogrel; Congenital: 5%",
+        "Autoantibodies (IgM) against ADAMTS-13: 50%; Drugs: aspirin and heparin; Congenital: 50%",
+        "Autoantibodies (IgA) against ADAMTS-13: 75%; Drugs: methyldopa and penicillin; Congenital: 25%"
+      ],
+      "ans": 1,
+      "exp": "TTP Causes on p102: • Idiopathic/acquired: – Autoantibodies (IgG) against ADAMTS-13 (95%), – Drugs: Ticlopidine, clopidogrel. • Congenital (5%). (Book p102)"
+    },
+    {
+      "id": "MED-C17-62",
+      "sec": "Thrombotic Thrombocytopenic Purpura & Fragmentation Types",
+      "page": 102,
+      "fmt": "recall",
+      "q": "Under Pathophysiology of TTP on p102, what is the normal physiological role of ADAMTS-13?",
+      "opts": [
+        "ADAMTS-13 → activates plasminogen → fibrinolysis",
+        "ADAMTS-13 → cleaves vWF → hemostasis",
+        "ADAMTS-13 → anchors CD55 and CD59 → complement inhibition",
+        "ADAMTS-13 → polymerizes fibrinogen → clot retraction"
+      ],
+      "ans": 1,
+      "exp": "Physiology on p102: ADAMTS-13 → Cleaves vWF → Hemostasis. (Book p102)"
+    },
+    {
+      "id": "MED-C17-63",
+      "sec": "Thrombotic Thrombocytopenic Purpura & Fragmentation Types",
+      "page": 102,
+      "fmt": "recall",
+      "q": "In the TTP Pathogenesis flowchart on p102, what is the cascade triggered by IgG autoantibodies against ADAMTS-13?",
+      "opts": [
+        "IgG autoantibodies against ADAMTS-13 → Fc-mediated splenic phagocytosis → Spherocytosis and splenomegaly",
+        "IgG autoantibodies against ADAMTS-13 → Failure to cleave vWF → Accumulates in circulation → branches into MAHA and Thrombosis",
+        "IgG autoantibodies against ADAMTS-13 → Alternate complement activation → Isolated renal cortical necrosis",
+        "IgG autoantibodies against ADAMTS-13 → Excessive cleavage of vWF → Depletion of vWF → Mucosal bleeding"
+      ],
+      "ans": 1,
+      "exp": "Pathogenesis on p102: IgG autoantibodies against ADAMTS-13 → Failure to cleave vWF → Accumulates in circulation → MAHA and Thrombosis. (Book p102)"
+    },
+    {
+      "id": "MED-C17-64",
+      "sec": "Thrombotic Thrombocytopenic Purpura & Fragmentation Types",
+      "page": 102,
+      "fmt": "recall",
+      "q": "In the TTP pathogenesis flowchart on p102, Thrombosis leads to Ischemia affecting which three organ systems (and which one is marked 'Predominately')?",
+      "opts": [
+        "CNS manifestations (predominately), GIT manifestations and CVS manifestations",
+        "Splenic manifestations (predominately), endocrine manifestations and bone marrow manifestations",
+        "Musculoskeletal manifestations (predominately), cutaneous manifestations and ocular manifestations",
+        "Renal manifestations (predominately), pulmonary manifestations and hepatic manifestations"
+      ],
+      "ans": 0,
+      "exp": "In the p102 flowchart: Thrombosis → Ischemia → CNS manifestations (Predominately), GIT manifestations, CVS manifestations. (Book p102)"
+    },
+    {
+      "id": "MED-C17-65",
+      "sec": "Thrombotic Thrombocytopenic Purpura & Fragmentation Types",
+      "page": 102,
+      "fmt": "management",
+      "q": "What are the two bullets listed under Management of TTP on p102?",
+      "opts": [
+        "1) Isotonic saline + bowel rest; 2) Monitor stool Shiga toxin titers",
+        "1) Allogeneic stem cell transplant + ravulizumab; 2) Monitor CD55/CD59 levels",
+        "1) Platelet transfusion + emergency splenectomy; 2) Monitor serum ferritin levels",
+        "1) Plasmapheresis + steroid + rituximab; 2) Monitor ADAMTS-13 levels"
+      ],
+      "ans": 3,
+      "exp": "Management of TTP on p102: • Plasmapheresis + steroid + rituximab. • Monitor ADAMTS-13 levels. (Book p102)"
+    },
+    {
+      "id": "MED-C17-66",
+      "sec": "Thrombotic Thrombocytopenic Purpura & Fragmentation Types",
+      "page": 102,
+      "fmt": "recall",
+      "q": "In the 'Types of Fragmentation Hemolysis' table at the bottom of p102, what are the Pathogenesis and Platelet count for Row 1 ('MAHA/march hemolysis')?",
+      "opts": [
+        "Pathogenesis: Kasabach–Merritt syndrome; Platelet: High",
+        "Pathogenesis: PNH; Platelet: Normal",
+        "Pathogenesis: Prosthetic valves; Platelet: Normal",
+        "Pathogenesis: HUS; Platelet: Low"
+      ],
+      "ans": 3,
+      "exp": "Row 1 of Fragmentation Hemolysis table on p102: Type: MAHA/march hemolysis → Pathogenesis: HUS → Platelet: Low. (Book p102)"
+    },
+    {
+      "id": "MED-C17-67",
+      "sec": "Thrombotic Thrombocytopenic Purpura & Fragmentation Types",
+      "page": 102,
+      "fmt": "recall",
+      "q": "In the 'Types of Fragmentation Hemolysis' table on p102, what are the Pathogenesis and Platelet count for Row 2 ('Cardiac')?",
+      "opts": [
+        "Pathogenesis: HUS microangiopathic hemolysis; Platelet: Low",
+        "Pathogenesis: Cavernous hemangioma + 2° DIC; Platelet: High",
+        "Pathogenesis: Prosthetic valves related macroangiopathic hemolysis; Platelet: Normal",
+        "Pathogenesis: Infective endocarditis autoimmune lysis; Platelet: Low"
+      ],
+      "ans": 2,
+      "exp": "Row 2 of Fragmentation Hemolysis table on p102: Type: Cardiac → Pathogenesis: Prosthetic valves related macroangiopathic hemolysis → Platelet: Normal. (Book p102)"
+    },
+    {
+      "id": "MED-C17-68",
+      "sec": "Thrombotic Thrombocytopenic Purpura & Fragmentation Types",
+      "page": 102,
+      "fmt": "recall",
+      "q": "In the 'Types of Fragmentation Hemolysis' table on p102, what are the Pathogenesis and Platelet count for Row 3 ('Consumption')?",
+      "opts": [
+        "Pathogenesis: Prosthetic valves related macroangiopathic hemolysis; Platelet: Normal",
+        "Pathogenesis: Kasabach–Merritt syndrome (cavernous hemangioma + 2° DIC); Platelet: Low",
+        "Pathogenesis: Evans syndrome (warm AIHA + CVID); Platelet: Normal",
+        "Pathogenesis: Heyde syndrome (aortic stenosis + acquired vWD); Platelet: High"
+      ],
+      "ans": 1,
+      "exp": "Row 3 of Fragmentation Hemolysis table on p102: Type: Consumption → Pathogenesis: Kasabach Merritt syndrome : Cavernous hemangioma + 2° DIC → Platelet: Low. (Book p102)"
+    },
+    {
+      "id": "MED-C17-69",
+      "sec": "Thrombotic Thrombocytopenic Purpura & Fragmentation Types",
+      "page": 102,
+      "fmt": "match",
+      "q": "Match each Type of Fragmentation Hemolysis in the bottom table on p102 to its Pathogenesis and Platelet count — 1) MAHA / march hemolysis 2) Cardiac 3) Consumption … A) Prosthetic valves related macroangiopathic hemolysis; Platelet: Normal B) Kasabach–Merritt syndrome (cavernous hemangioma + 2° DIC); Platelet: Low C) HUS; Platelet: Low",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 3,
+      "exp": "Table at bottom of p102: MAHA/march hemolysis → Pathogenesis: HUS, Platelet: Low; Cardiac → Pathogenesis: Prosthetic valves related macroangiopathic hemolysis, Platelet: Normal; Consumption → Pathogenesis: Kasabach Merritt syndrome (Cavernous hemangioma + 2° DIC), Platelet: Low. (Book p102)"
+    },
+    {
+      "id": "MED-C17-70",
+      "sec": "Thrombotic Thrombocytopenic Purpura & Fragmentation Types",
+      "page": 102,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — in the 'Types of Fragmentation Hemolysis' table on p102, Cardiac (prosthetic valve-related macroangiopathic) hemolysis has a NORMAL platelet count, whereas MAHA/march hemolysis (HUS) and Consumption (Kasabach–Merritt syndrome) have a LOW platelet count.",
+      "opts": [
+        "False — Kasabach–Merritt syndrome is characterized by extreme thrombocytosis",
+        "True — platelet count is Normal in all three types of fragmentation hemolysis",
+        "True — platelet count is Normal in cardiac prosthetic-valve hemolysis and Low in HUS and Kasabach–Merritt syndrome",
+        "False — cardiac prosthetic-valve hemolysis causes severe thrombocytopenia while HUS has normal platelets"
+      ],
+      "ans": 2,
+      "exp": "The p102 table explicitly contrasts Platelet: Low in MAHA/march hemolysis (HUS) and Consumption (Kasabach–Merritt syndrome: cavernous hemangioma + 2° DIC) with Platelet: Normal in Cardiac (prosthetic valves related macroangiopathic hemolysis). (Book p102)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U17-1",
+      "ch": 17,
+      "n": 1,
+      "title": "Overview & PNH Physiology",
+      "sec": "Overview & Paroxysmal Nocturnal Hemoglobinuria Physiology",
+      "guide": "Non-immune hemolysis comprises infections (malaria, Babesia, Oroya fever, C. perfringens), drugs/toxins (dapsone, primaquine), PNH and fragmentation hemolysis.\nPNH causes chronic intravascular hemolysis with acute exacerbations and affects all 3 blood lineages due to an acquired X-linked PIGA gene mutation.\nPIGA codes for GPI anchor protein (anchoring CD55/DAF and CD59/MIRL to prevent complement attack), neutrophil alkaline phosphatase, and UPAR; PNH is the sole acquired intracorpuscular hemolytic anemia.",
+      "qs": [
+        "MED-C17-01",
+        "MED-C17-02",
+        "MED-C17-03",
+        "MED-C17-04",
+        "MED-C17-05",
+        "MED-C17-06",
+        "MED-C17-07",
+        "MED-C17-08",
+        "MED-C17-09",
+        "MED-C17-10",
+        "MED-C17-11",
+        "MED-C17-12",
+        "MED-C17-13"
+      ]
+    },
+    {
+      "id": "MED-U17-2",
+      "ch": 17,
+      "n": 2,
+      "title": "PNH: Pathogenesis & Clinical Features",
+      "sec": "PNH: Pathogenesis & Clinical Presentation",
+      "guide": "PIGA mutation leads to CD55/CD59-deficient PNH III RBC lysis, ↓ neutrophil alkaline phosphatase (seen in CML and PNH), and thrombosis from defective UPAR and NO scavenging.\nSleep-induced acidotic pH triggers nocturnal hemoglobinuria/hemosiderinuria with high-colored morning urine.\nHepatic vein thrombosis (m/c) causes Budd–Chiari syndrome (also caused by PCRV); pancytopenia (hypercellular marrow m/c) and the 25/10 aplastic anemia rule (plus rare AML progression) are classic.",
+      "qs": [
+        "MED-C17-14",
+        "MED-C17-15",
+        "MED-C17-16",
+        "MED-C17-17",
+        "MED-C17-18",
+        "MED-C17-19",
+        "MED-C17-20",
+        "MED-C17-21",
+        "MED-C17-22",
+        "MED-C17-23",
+        "MED-C17-24",
+        "MED-C17-25"
+      ]
+    },
+    {
+      "id": "MED-U17-3",
+      "ch": 17,
+      "n": 3,
+      "title": "PNH: Investigations & Treatment",
+      "sec": "PNH: Investigations & Treatment",
+      "guide": "Flow cytometry is the investigation of choice (detects PNH III RBC percentage; >50% is significant); Coombs test is negative and Ham's test is not used.\nCentrifuged urine supernatant is clear in hematuria (RBCs) and high-colored in Hb/myoglobinuria; after resting 3–6 hours, myoglobin clears (T₁/₂ 3–6 h) while Hb stays dark.\nBone marrow involvement is treated with allogeneic HSCT; hemoglobinuria/thrombosis is treated with anti-C5 antibodies (ravulizumab > eculizumab) plus meningococcal vaccination.",
+      "qs": [
+        "MED-C17-26",
+        "MED-C17-27",
+        "MED-C17-28",
+        "MED-C17-29",
+        "MED-C17-30",
+        "MED-C17-31",
+        "MED-C17-32",
+        "MED-C17-33"
+      ]
+    },
+    {
+      "id": "MED-U17-4",
+      "ch": 17,
+      "n": 4,
+      "title": "Fragmentation: MAHA, TMA & HUS vs TTP",
+      "sec": "Fragmentation Hemolysis: MAHA, TMA & HUS vs TTP",
+      "guide": "Fragmentation hemolysis combines MAHA (small-vessel endothelial injury → large vWF multimers → Gp Ib-IX & Gp VI platelet plug → thrombocytopenia + RBC fragmentation) and TMA.\nTMA is small-vessel renal disease caused by HUS (most important), catastrophic APS, diffuse scleroderma, HELLP and malignant hypertension.\nHUS targets renal capillaries causing a triad (MAHA, thrombocytopenia, renal failure); TTP targets brain/GIT vessels causing lacunar stroke and a pentad (adding fever and neurological signs; renal failure is rare).",
+      "qs": [
+        "MED-C17-34",
+        "MED-C17-35",
+        "MED-C17-36",
+        "MED-C17-37",
+        "MED-C17-38",
+        "MED-C17-39",
+        "MED-C17-40",
+        "MED-C17-41",
+        "MED-C17-42",
+        "MED-C17-43",
+        "MED-C17-44",
+        "MED-C17-45"
+      ]
+    },
+    {
+      "id": "MED-U17-5",
+      "ch": 17,
+      "n": 5,
+      "title": "HUS: Childhood (D⁺) vs Adult (D⁻)",
+      "sec": "Hemolytic Uremic Syndrome: Childhood vs Adult",
+      "guide": "Childhood HUS (<5 yr, D⁺, benign, good prognosis) follows bloody diarrhea: 90% from EHEC O157:H7 (m/c, non-fermenter on Sorbitol MacConkey) or Shigella dysenteriae, and 10% from S. pneumoniae neuraminidase.\nChildhood HUS blood work shows schistocytes, ↑↑ LDH, –ve Coombs, ↑ indirect bilirubin, ↓ haptoglobin and normal PT/APTT; Rx is supportive (saline, bowel rest; avoid antibiotics).\nAdult HUS (D⁻/atypical, leads to ESRD) stems from alternate complement mutations (CFH m/c, CFB worst prognosis, MCP good prognosis) or sporadic causes; Rx is plasmapheresis within 24 h and rituximab/eculizumab.",
+      "qs": [
+        "MED-C17-46",
+        "MED-C17-47",
+        "MED-C17-48",
+        "MED-C17-49",
+        "MED-C17-50",
+        "MED-C17-51",
+        "MED-C17-52",
+        "MED-C17-53",
+        "MED-C17-54",
+        "MED-C17-55",
+        "MED-C17-56",
+        "MED-C17-57",
+        "MED-C17-58",
+        "MED-C17-59",
+        "MED-C17-60"
+      ]
+    },
+    {
+      "id": "MED-U17-6",
+      "ch": 17,
+      "n": 6,
+      "title": "TTP & Types of Fragmentation Hemolysis",
+      "sec": "Thrombotic Thrombocytopenic Purpura & Fragmentation Types",
+      "guide": "TTP is 95% acquired (IgG autoantibodies against ADAMTS-13, or ticlopidine/clopidogrel) and 5% congenital.\nFailure to cleave vWF causes vWF accumulation, MAHA and microvascular thrombosis/ischemia (predominantly CNS, plus GIT/CVS); Rx is plasmapheresis + steroid + rituximab while monitoring ADAMTS-13.\nFragmentation hemolysis types: MAHA/march hemolysis (HUS, low platelets), Cardiac (prosthetic valve macroangiopathic, normal platelets) and Consumption (Kasabach–Merritt cavernous hemangioma + 2° DIC, low platelets).",
+      "qs": [
+        "MED-C17-61",
+        "MED-C17-62",
+        "MED-C17-63",
+        "MED-C17-64",
+        "MED-C17-65",
+        "MED-C17-66",
+        "MED-C17-67",
+        "MED-C17-68",
+        "MED-C17-69",
+        "MED-C17-70"
+      ]
+    }
+  ]
+}

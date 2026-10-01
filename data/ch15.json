@@ -1,0 +1,743 @@
+{
+  "chapter": 15,
+  "title": "Approach to Hemolysis",
+  "pageRange": "89-91",
+  "questions": [
+    {
+      "id": "MED-C15-01",
+      "sec": "Classification of Hemolytic Anemia",
+      "page": 89,
+      "fmt": "numeric",
+      "q": "At the opening of Chapter 15 (p89), hyperproliferative anemia is defined by a Reticulocyte Production Index (RPI) of:",
+      "opts": [
+        "> 2.5",
+        "< 1.0",
+        "> 5.0",
+        "< 2.5"
+      ],
+      "ans": 0,
+      "exp": "Classification on p89 begins with: Hyperproliferative anemia (RPI > 2.5) : 3 classifications. (Book p89)"
+    },
+    {
+      "id": "MED-C15-02",
+      "sec": "Classification of Hemolytic Anemia",
+      "page": 89,
+      "fmt": "recall",
+      "q": "What are the three axes of classification for hyperproliferative (hemolytic) anemia listed at the top of p89?",
+      "opts": [
+        "1. Warm vs cold, 2. Autoimmune vs alloimmune, and 3. Coombs-positive vs Coombs-negative",
+        "1. Inherited vs acquired, 2. Intracorpuscular vs extracorpuscular, and 3. Intravascular vs extravascular",
+        "1. Single-lineage vs trilineage, 2. Iron-deficient vs iron-replete, and 3. Hepcidin-high vs hepcidin-low",
+        "1. Microcytic vs macrocytic, 2. Megaloblastic vs normoblastic, and 3. Acute vs chronic"
+      ],
+      "ans": 1,
+      "exp": "The three classifications listed on p89 are: 1. Inherited vs acquired, 2. Intracorpuscular vs extracorpuscular, 3. Intravascular vs extravascular. (Book p89)"
+    },
+    {
+      "id": "MED-C15-03",
+      "sec": "Classification of Hemolytic Anemia",
+      "page": 89,
+      "fmt": "recall",
+      "q": "In the p89 master flowchart, Anemia first divides into Hypoproliferative anemia and Hyperproliferative anemia using which RPI cutoffs?",
+      "opts": [
+        "RPI < 2.5 for hypoproliferative anemia; RPI > 2.5 (reticulocytosis) for hyperproliferative anemia",
+        "RPI < 1.5 for hypoproliferative anemia; RPI > 1.5 for hyperproliferative anemia",
+        "RPI > 2.5 for hypoproliferative anemia; RPI < 2.5 for hyperproliferative anemia",
+        "RPI < 0.5 for hypoproliferative anemia; RPI > 5.0 for hyperproliferative anemia"
+      ],
+      "ans": 0,
+      "exp": "Anemia branches into RPI < 2.5 (Hypoproliferative anemia) and RPI > 2.5 (Reticulocytosis → Hyperproliferative anemia). (Book p89)"
+    },
+    {
+      "id": "MED-C15-04",
+      "sec": "Classification of Hemolytic Anemia",
+      "page": 89,
+      "fmt": "recall",
+      "q": "Under Hypoproliferative anemia (RPI < 2.5) on the p89 chart, which three conditions are listed under 'Low-normal MCV'?",
+      "opts": [
+        "1. Sickle cell anemia, 2. Thalassemia, and 3. Hereditary spherocytosis",
+        "1. Iron deficiency anemia, 2. Anemia of chronic disease, and 3. Sideroblastic anemia",
+        "1. Vitamin B12 deficiency, 2. Folate deficiency, and 3. Orotic aciduria",
+        "1. Aplastic anemia, 2. Myelodysplastic syndrome, and 3. Pure red cell aplasia"
+      ],
+      "ans": 1,
+      "exp": "Under Low-normal MCV on p89: 1. Iron deficiency anemia, 2. Anemia of chronic disease, 3. Sideroblastic anemia. (Book p89)"
+    },
+    {
+      "id": "MED-C15-05",
+      "sec": "Classification of Hemolytic Anemia",
+      "page": 89,
+      "fmt": "recall",
+      "q": "Under Hypoproliferative anemia (RPI < 2.5) on p89, which five causes are listed under 'Elevated MCV — Megaloblastic anemia'?",
+      "opts": [
+        "1. Liver disease, 2. Scurvy, 3. Hypothyroidism, 4. Alcoholism, and 5. COPD",
+        "1. Warm AIHA, 2. Cold AIHA, 3. PCH, 4. HDN, and 5. Transfusion reaction",
+        "1. G6PD deficiency, 2. Pyruvate kinase deficiency, 3. 5' nucleotidase deficiency, 4. PNH, and 5. Sepsis",
+        "1. Vitamin B12 deficiency, 2. Folate deficiency, 3. Orotic aciduria, 4. Thiamine deficiency, and 5. Drugs inhibiting DNA synthesis"
+      ],
+      "ans": 3,
+      "exp": "Under Elevated MCV (Megaloblastic anemia) on p89: 1. Vitamin B12 deficiency, 2. Folate deficiency, 3. Orotic aciduria, 4. Thiamine deficiency, 5. Drugs inhibiting DNA synthesis. (Book p89)"
+    },
+    {
+      "id": "MED-C15-06",
+      "sec": "Classification of Hemolytic Anemia",
+      "page": 89,
+      "fmt": "recall",
+      "q": "Under Hyperproliferative anemia (RPI > 2.5), how do the 'Inherited' and 'Acquired' branches subdivide in the p89 chart?",
+      "opts": [
+        "Inherited: Warm vs Cold; Acquired: Megaloblastic vs Normoblastic",
+        "Inherited: Immune vs Non-immune; Acquired: Hemoglobinopathies vs Enzymopathies",
+        "Inherited: Intracorpuscular vs Extracorpuscular; Acquired: Immune vs Non-immune",
+        "Inherited: Acute vs Chronic; Acquired: Sideroblastic vs Nonsideroblastic"
+      ],
+      "ans": 2,
+      "exp": "In the p89 chart, Inherited divides into Intracorpuscular and Extracorpuscular; Acquired divides into Immune and Non-immune. (Book p89)"
+    },
+    {
+      "id": "MED-C15-07",
+      "sec": "Classification of Hemolytic Anemia",
+      "page": 89,
+      "fmt": "recall",
+      "q": "Under Inherited → Intracorpuscular defects on p89, what are the three main subcategories?",
+      "opts": [
+        "1. IRIDA, 2. DMT-1 mutation, and 3. Atransferrinemia",
+        "1. Fragmentation hemolysis, 2. PNH, and 3. Sepsis",
+        "1. Autoimmune, 2. Alloimmune, and 3. Drug-induced",
+        "1. Hemoglobinopathies, 2. Membrane defects, and 3. Enzymopathies"
+      ],
+      "ans": 3,
+      "exp": "Inherited Intracorpuscular defects on p89 list: 1. Hemoglobinopathies, 2. Membrane defects, 3. Enzymopathies. (Book p89)"
+    },
+    {
+      "id": "MED-C15-08",
+      "sec": "Classification of Hemolytic Anemia",
+      "page": 89,
+      "fmt": "recall",
+      "q": "Which two disorders are listed under '1. Hemoglobinopathies' in the Inherited Intracorpuscular column on p89?",
+      "opts": [
+        "Paroxysmal nocturnal hemoglobinuria and atypical HUS",
+        "Sickle cell anemia and thalassemia",
+        "Hereditary spherocytosis and elliptocytosis",
+        "G6PD deficiency and pyruvate kinase deficiency"
+      ],
+      "ans": 1,
+      "exp": "1. Hemoglobinopathies: • Sickle cell anemia, • Thalassemia. (Book p89)"
+    },
+    {
+      "id": "MED-C15-09",
+      "sec": "Classification of Hemolytic Anemia",
+      "page": 89,
+      "fmt": "recall",
+      "q": "How is category '2. Membrane defects' described in the Inherited Intracorpuscular column on p89?",
+      "opts": [
+        "Stomatocytosis and xerocytosis only",
+        "Paroxysmal nocturnal hemoglobinuria (PIGA mutation)",
+        "Hereditary spherocytosis and its variants (elliptocytosis)",
+        "Acanthocytosis and abetalipoproteinemia"
+      ],
+      "ans": 2,
+      "exp": "2. Membrane defects: Hereditary spherocytosis and its variants (Elliptocytosis). (Book p89)"
+    },
+    {
+      "id": "MED-C15-10",
+      "sec": "Classification of Hemolytic Anemia",
+      "page": 89,
+      "fmt": "recall",
+      "q": "Which three enzyme deficiencies are listed under '3. Enzymopathies' in the Inherited Intracorpuscular column on p89?",
+      "opts": [
+        "ALA synthase deficiency, ferrochelatase deficiency and heme oxygenase deficiency",
+        "Myeloperoxidase deficiency, catalase deficiency and superoxide dismutase deficiency",
+        "G6PD deficiency, pyruvate kinase deficiency and 5' nucleotidase deficiency",
+        "Pyruvate dehydrogenase deficiency, transketolase deficiency and lactase deficiency"
+      ],
+      "ans": 2,
+      "exp": "3. Enzymopathies: • G6PD deficiency, • Pyruvate kinase deficiency, • 5' nucleotidase deficiency. (Book p89)"
+    },
+    {
+      "id": "MED-C15-11",
+      "sec": "Classification of Hemolytic Anemia",
+      "page": 89,
+      "fmt": "fillup",
+      "q": "In the p89 flowchart, the sole condition listed under Inherited → Extracorpuscular hemolysis is ____, which affects adults.",
+      "opts": [
+        "Paroxysmal nocturnal hemoglobinuria",
+        "Paroxysmal cold hemoglobinuria",
+        "Autoimmune hemolytic anemia",
+        "Atypical (Familial) HUS"
+      ],
+      "ans": 3,
+      "exp": "Under Inherited → Extracorpuscular: Atypical (Familial) HUS : Affects adults. (Book p89)"
+    },
+    {
+      "id": "MED-C15-12",
+      "sec": "Classification of Hemolytic Anemia",
+      "page": 89,
+      "fmt": "recall",
+      "q": "Under Acquired → Immune hemolytic anemia on p89, what are the three main numbered categories?",
+      "opts": [
+        "1. Hemoglobinopathies, 2. Membrane defects, and 3. Enzymopathies",
+        "1. Autoimmune cause (AIHA), 2. Alloimmune causes, and 3. Drug induced",
+        "1. Intravascular, 2. Extravascular, and 3. Combined",
+        "1. Fragmentation hemolysis, 2. PNH, and 3. Sepsis"
+      ],
+      "ans": 1,
+      "exp": "Under Acquired → Immune: 1. Autoimmune cause : AIHA, 2. Alloimmune causes, 3. Drug induced. (Book p89)"
+    },
+    {
+      "id": "MED-C15-13",
+      "sec": "Classification of Hemolytic Anemia",
+      "page": 89,
+      "fmt": "recall",
+      "q": "Which three entities are listed under '1. Autoimmune cause : AIHA' on p89?",
+      "opts": [
+        "Warm Ab AIHA, Cold Ab AIHA and paroxysmal cold hemoglobinuria",
+        "Hereditary spherocytosis, elliptocytosis and Southeast Asian ovalocytosis",
+        "HUS, TTP and disseminated intravascular coagulation",
+        "Hemolytic disease of newborn, hemolytic transfusion reaction and drug-induced AIHA"
+      ],
+      "ans": 0,
+      "exp": "1. Autoimmune cause : AIHA → • Warm Ab AIHA, • Cold Ab AIHA, • Paroxysmal cold hemoglobinuria. (Book p89)"
+    },
+    {
+      "id": "MED-C15-14",
+      "sec": "Classification of Hemolytic Anemia",
+      "page": 89,
+      "fmt": "recall",
+      "q": "Which two conditions are listed under '2. Alloimmune causes' on p89?",
+      "opts": [
+        "Atypical HUS and thrombotic thrombocytopenic purpura",
+        "Warm Ab AIHA and Cold Ab AIHA",
+        "Paroxysmal nocturnal hemoglobinuria and paroxysmal cold hemoglobinuria",
+        "Hemolytic disease of newborn (HDN) and hemolytic transfusion reaction"
+      ],
+      "ans": 3,
+      "exp": "2. Alloimmune causes: • Hemolytic disease of newborn (HDN), • Hemolytic transfusion reaction. (Book p89)"
+    },
+    {
+      "id": "MED-C15-15",
+      "sec": "Classification of Hemolytic Anemia",
+      "page": 89,
+      "fmt": "recall",
+      "q": "Which four causes are listed under Acquired → Non-immune hemolytic anemia on p89, and which one is explicitly annotated '(Intracorpuscular)'?",
+      "opts": [
+        "1. Hypersplenism, 2. Liver cirrhosis (Intracorpuscular), 3. Scurvy, and 4. Hypothyroidism",
+        "1. Sickle cell anemia, 2. Thalassemia, 3. G6PD deficiency (Intracorpuscular), and 4. Lead",
+        "1. Fragmentation hemolysis (HUS/TTP syndrome), 2. PNH (Intracorpuscular), 3. Sepsis, and 4. Toxins & drugs",
+        "1. Warm AIHA, 2. Cold AIHA (Intracorpuscular), 3. HDN, and 4. Transfusion reaction"
+      ],
+      "ans": 2,
+      "exp": "Under Acquired → Non-immune on p89: 1. Fragmentation hemolysis HUS/TTP Syndrome, 2. PNH (Intracorpuscular), 3. Sepsis, 4. Toxins & drugs. (Book p89)"
+    },
+    {
+      "id": "MED-C15-16",
+      "sec": "Abbreviations & Intravascular Hemolysis",
+      "page": 90,
+      "fmt": "recall",
+      "q": "At the top of p90, what are the printed expansions for RPI, AIHA, and HUS/TTP?",
+      "opts": [
+        "RPI: Reticulocyte production index; AIHA: Autoimmune hemolytic anemia; HUS/TTP: Hemolytic uremic syndrome / Thrombotic thrombocytopenic purpura",
+        "RPI: Reticulocyte maturation index; AIHA: Acute intravascular hemolytic anemia; HUS/TTP: Hemorrhagic uremic syndrome / Transient thrombocytopenia",
+        "RPI: Red cell proliferation index; AIHA: Alloimmune hemolytic aplasia; HUS/TTP: Hepatic uremic syndrome / Thrombotic thrombocytosis purpura",
+        "RPI: Red cell production interval; AIHA: Autoimmune hypoplastic anemia; HUS/TTP: Hemolytic urinary syndrome / Thrombotic thrombocytopenic polycythemia"
+      ],
+      "ans": 0,
+      "exp": "Abbreviations on p90: RPI = Reticulocyte production index; AIHA = Autoimmune hemolytic anemia; HUS/TTP = Hemolytic uremic syndrome/Thrombotic thrombocytopenic purpura. (Book p90)"
+    },
+    {
+      "id": "MED-C15-17",
+      "sec": "Abbreviations & Intravascular Hemolysis",
+      "page": 90,
+      "fmt": "fillup",
+      "q": "In the abbreviations list on p90, Paroxysmal nocturnal hemoglobinuria (PNH) is specifically noted as being caused by a ____ gene mutation.",
+      "opts": [
+        "JAK2",
+        "PIGA",
+        "HFE",
+        "MYD88"
+      ],
+      "ans": 1,
+      "exp": "PNH : Paroxysmal nocturnal hemoglobinuria (PIGA gene mutation). (Book p90)"
+    },
+    {
+      "id": "MED-C15-18",
+      "sec": "Abbreviations & Intravascular Hemolysis",
+      "page": 90,
+      "fmt": "match",
+      "q": "Match each abbreviation at the top of p90 to its printed expansion — 1) RPI 2) AIHA 3) HUS/TTP 4) PNH … A) Autoimmune hemolytic anemia B) Paroxysmal nocturnal hemoglobinuria (PIGA gene mutation) C) Reticulocyte production index D) Hemolytic uremic syndrome / Thrombotic thrombocytopenic purpura",
+      "opts": [
+        "1-C, 2-D, 3-A, 4-B",
+        "1-A, 2-C, 3-B, 4-D",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-C, 2-A, 3-D, 4-B"
+      ],
+      "ans": 3,
+      "exp": "Abbreviations on p90: RPI = Reticulocyte production index; AIHA = Autoimmune hemolytic anemia; HUS/TTP = Hemolytic uremic syndrome/Thrombotic thrombocytopenic purpura; PNH = Paroxysmal nocturnal hemoglobinuria (PIGA gene mutation). (Book p90)"
+    },
+    {
+      "id": "MED-C15-19",
+      "sec": "Abbreviations & Intravascular Hemolysis",
+      "page": 90,
+      "fmt": "fillup",
+      "q": "Under 'Intravascular vs Extravascular Hemolysis' on p90, the anatomical site of intravascular hemolysis is ____.",
+      "opts": [
+        "Spleen",
+        "Blood vessels",
+        "Hepatic sinusoids",
+        "Bone marrow"
+      ],
+      "ans": 1,
+      "exp": "Intravascular hemolysis — Site : Blood vessels. (Book p90)"
+    },
+    {
+      "id": "MED-C15-20",
+      "sec": "Abbreviations & Intravascular Hemolysis",
+      "page": 90,
+      "fmt": "recall",
+      "q": "In the Intravascular hemolysis flowchart on p90, what are the four immediate features branching directly from 'Hemolysis'?",
+      "opts": [
+        "↑ LDH, Hemoglobinemia (↑ Hb levels), Reticulocytosis and ↑ MCV",
+        "↓ LDH, Moderate splenomegaly, Reticulocytopenia and ↓ MCV",
+        "Pancytopenia, Ring sideroblasts, ↓ MCV and ↑ TIBC",
+        "↑ Ferritin, ↑ Tissue iron, Conjugated hyperbilirubinemia and ↑ Haptoglobin"
+      ],
+      "ans": 0,
+      "exp": "Under Intravascular hemolysis Features: Hemolysis → ↑ LDH, Hemoglobinemia (↑ Hb levels), Reticulocytosis, ↑ MCV. (Book p90)"
+    },
+    {
+      "id": "MED-C15-21",
+      "sec": "Abbreviations & Intravascular Hemolysis",
+      "page": 90,
+      "fmt": "recall",
+      "q": "In the intravascular hemolysis flowchart on p90, what happens when Haptoglobin binds with markedly increased free hemoglobin (↑↑ Hb)?",
+      "opts": [
+        "Decreased serum haptoglobin (↓ S. haptoglobin), which is the most sensitive and specific test for hemolysis",
+        "Conversion of haptoglobin into hemosiderin inside renal glomeruli",
+        "Precipitation of haptoglobin as Heinz bodies on peripheral smear",
+        "Increased serum haptoglobin (↑ S. haptoglobin), which rules out intravascular hemolysis"
+      ],
+      "ans": 0,
+      "exp": "Haptoglobin binds with ↑↑ Hb → ↓ S. haptoglobin (most sensitive and specific test for hemolysis). (Book p90)"
+    },
+    {
+      "id": "MED-C15-22",
+      "sec": "Abbreviations & Intravascular Hemolysis",
+      "page": 90,
+      "fmt": "recall",
+      "q": "Under the 'In urine' branch of intravascular hemolysis on p90, which urinary finding occurs in acute cases and produces dark urine?",
+      "opts": [
+        "Urobilinogenuria",
+        "Hemoglobinuria",
+        "Hemosiderinuria",
+        "Porphyrinuria"
+      ],
+      "ans": 1,
+      "exp": "In urine → Hemoglobinuria : • Acute cases, • Dark urine. (Book p90)"
+    },
+    {
+      "id": "MED-C15-23",
+      "sec": "Abbreviations & Intravascular Hemolysis",
+      "page": 90,
+      "fmt": "fillup",
+      "q": "Under the 'In urine' branch of intravascular hemolysis on p90, chronic cases are characterized by ____.",
+      "opts": [
+        "Hemosiderinuria",
+        "Bilirubinuria",
+        "Hemoglobinuria",
+        "Myoglobinuria"
+      ],
+      "ans": 0,
+      "exp": "In urine → Hemosiderinuria : Chronic cases. (Book p90)"
+    },
+    {
+      "id": "MED-C15-24",
+      "sec": "Abbreviations & Intravascular Hemolysis",
+      "page": 90,
+      "fmt": "match",
+      "q": "Match each finding of intravascular hemolysis on p90 to its clinical timing or mechanism — 1) Hemoglobinuria (with dark urine) 2) Hemosiderinuria 3) Decreased serum haptoglobin … A) Chronic intravascular hemolysis cases B) Acute intravascular hemolysis cases C) Binding of free hemoglobin dimers released into plasma",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 2,
+      "exp": "In intravascular hemolysis (p90): free Hb binds haptoglobin (↓ haptoglobin); in urine, Hemoglobinuria → Acute cases, Dark urine; Hemosiderinuria → Chronic cases. (Book p90)"
+    },
+    {
+      "id": "MED-C15-25",
+      "sec": "Abbreviations & Intravascular Hemolysis",
+      "page": 90,
+      "fmt": "recall",
+      "q": "What is the serum bilirubin abnormality shown on the right branch of Hemoglobinemia in intravascular hemolysis (p90)?",
+      "opts": [
+        "Severe conjugated (direct) hyperbilirubinemia",
+        "Mild unconjugated hyperbilirubinemia",
+        "Markedly elevated delta-bilirubin with acholic stools",
+        "Complete absence of serum bilirubin"
+      ],
+      "ans": 1,
+      "exp": "Under Hemoglobinemia on p90, the S. bilirubin branch leads to: mild unconjugated hyperbilirubinemia. (Book p90)"
+    },
+    {
+      "id": "MED-C15-26",
+      "sec": "Abbreviations & Intravascular Hemolysis",
+      "page": 90,
+      "fmt": "recall",
+      "q": "In the Causes of Intravascular Hemolysis table on p90, which column is marked 'm/c' (most common), and which four causes does it list?",
+      "opts": [
+        "Acute onset (m/c): mismatched blood transfusion, sepsis, toxins and G6PD deficiency",
+        "Chronic onset (m/c): PNH, MAHA and paroxysmal cold hemoglobinuria",
+        "Chronic onset (m/c): iron deficiency, anemia of chronic disease, lead and alcoholism",
+        "Acute onset (m/c): warm AIHA, hereditary spherocytosis, thalassemia and sickle cell trait"
+      ],
+      "ans": 0,
+      "exp": "Causes table on p90 — Acute onset (m/c): • Mismatched blood transfusion, • Sepsis, • Toxins, • G6PD deficiency. (Book p90)"
+    },
+    {
+      "id": "MED-C15-27",
+      "sec": "Abbreviations & Intravascular Hemolysis",
+      "page": 90,
+      "fmt": "recall",
+      "q": "In the 'Chronic/acute on chronic onset' column of intravascular hemolysis on p90, how is MAHA expanded and explained?",
+      "opts": [
+        "Microangiopathic hemolytic anemia: fragmentation hemolysis / HUS",
+        "Membrane-associated hereditary anemia: spherocytosis / elliptocytosis",
+        "Myeloid-associated hemolytic anemia: ring sideroblasts / MDS",
+        "Macroangiopathic hemolytic aplasia: autoimmune splenomegaly / ITP"
+      ],
+      "ans": 0,
+      "exp": "Chronic/acute on chronic onset column on p90 lists: PNH, MAHA (microangiopathic hemolytic anemia : Fragmentation hemolysis/HUS), and Paroxysmal cold hemoglobinuria. (Book p90)"
+    },
+    {
+      "id": "MED-C15-28",
+      "sec": "Abbreviations & Intravascular Hemolysis",
+      "page": 90,
+      "fmt": "match",
+      "q": "Match each cause of intravascular hemolysis on p90 to its onset category and mechanism — 1) Mismatched blood transfusion, sepsis, toxins and G6PD deficiency 2) PNH (PIGA mutation) 3) MAHA (fragmentation hemolysis / HUS) and paroxysmal cold hemoglobinuria … A) Acute onset intravascular hemolysis (m/c) B) Chronic / acute-on-chronic mechanical or Donath-Landsteiner hemolysis C) Chronic / acute-on-chronic GPI-anchor complement-mediated hemolysis",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 3,
+      "exp": "Table on p90 separates Acute onset (m/c) (mismatched blood transfusion, sepsis, toxins, G6PD deficiency) from Chronic/acute on chronic onset (PNH, MAHA/fragmentation hemolysis/HUS, paroxysmal cold hemoglobinuria). (Book p90)"
+    },
+    {
+      "id": "MED-C15-29",
+      "sec": "Extravascular Hemolysis, Summary Table & Rules",
+      "page": 91,
+      "fmt": "fillup",
+      "q": "At the top of p91, the anatomical site of extravascular hemolysis is the ____.",
+      "opts": [
+        "Thymus",
+        "Blood vessels",
+        "Spleen",
+        "Renal proximal tubule"
+      ],
+      "ans": 2,
+      "exp": "Extravascular hemolysis — Site : Spleen. (Book p91)"
+    },
+    {
+      "id": "MED-C15-30",
+      "sec": "Extravascular Hemolysis, Summary Table & Rules",
+      "page": 91,
+      "fmt": "recall",
+      "q": "In the Extravascular hemolysis flowchart on p91, what are the four immediate features branching from 'Hemolysis'?",
+      "opts": [
+        "Hemoglobinuria, Hemosiderinuria, Reticulocytopenia and ↓ MCV",
+        "Moderate splenomegaly, Hemoglobin released, Reticulocytosis and ↑ MCV",
+        "Absent spleen, Plasma Hb ++, ↓ Ferritin and Normal MCV",
+        "Pancytopenia, ↓ LDH, ↑ Haptoglobin and Microcytosis"
+      ],
+      "ans": 1,
+      "exp": "Extravascular hemolysis Features: Hemolysis → Moderate splenomegaly, Hemoglobin released, Reticulocytosis, ↑ MCV. (Book p91)"
+    },
+    {
+      "id": "MED-C15-31",
+      "sec": "Extravascular Hemolysis, Summary Table & Rules",
+      "page": 91,
+      "fmt": "recall",
+      "q": "When hemoglobin is released during extravascular hemolysis on p91, it splits into Heme and Globin. What happens to the Globin moiety?",
+      "opts": [
+        "Excreted unchanged in the urine as hemosiderin",
+        "Goes to the amino acid pool",
+        "Stored inside macrophages as ferritin",
+        "Converted by biliverdin reductase into stercobilinogen"
+      ],
+      "ans": 1,
+      "exp": "In the p91 flowchart: Globin → Goes to amino acid pool. (Book p91)"
+    },
+    {
+      "id": "MED-C15-32",
+      "sec": "Extravascular Hemolysis, Summary Table & Rules",
+      "page": 91,
+      "fmt": "recall",
+      "q": "In the extravascular hemolysis flowchart on p91, Heme splits into Iron and Protoporphyrin. What is the fate of the Iron branch?",
+      "opts": [
+        "Iron → ↑ Iron stores → ↑ S. ferritin",
+        "Iron → Binds haptoglobin in plasma",
+        "Iron → ↓ Iron stores → ↓ S. ferritin",
+        "Iron → Excreted in urine as hemosiderinuria"
+      ],
+      "ans": 0,
+      "exp": "Heme → Iron → ↑ Iron stores → ↑ S. ferritin. (Book p91)"
+    },
+    {
+      "id": "MED-C15-33",
+      "sec": "Extravascular Hemolysis, Summary Table & Rules",
+      "page": 91,
+      "fmt": "fillup",
+      "q": "In the extravascular hemolysis pathway on p91, Protoporphyrin is converted into Biliverdin by the enzyme ____.",
+      "opts": [
+        "Ferrochelatase",
+        "Biliverdin reductase",
+        "Heme oxygenase",
+        "ALA synthase"
+      ],
+      "ans": 2,
+      "exp": "Protoporphyrin --(Heme oxygenase)--> Biliverdin. (Book p91)"
+    },
+    {
+      "id": "MED-C15-34",
+      "sec": "Extravascular Hemolysis, Summary Table & Rules",
+      "page": 91,
+      "fmt": "fillup",
+      "q": "In the extravascular hemolysis pathway on p91, Biliverdin is converted into Bilirubin by the enzyme ____.",
+      "opts": [
+        "UDP-glucuronosyltransferase",
+        "Biliverdin reductase",
+        "Heme oxygenase",
+        "Pyruvate kinase"
+      ],
+      "ans": 1,
+      "exp": "Biliverdin --(Biliverdin reductase)--> Bilirubin. (Book p91)"
+    },
+    {
+      "id": "MED-C15-35",
+      "sec": "Extravascular Hemolysis, Summary Table & Rules",
+      "page": 91,
+      "fmt": "recall",
+      "q": "In extravascular hemolysis on p91, Bilirubin production leads to unconjugated hyperbilirubinemia with which two downstream excretory findings?",
+      "opts": [
+        "↑ Urobilinogen in urine and ↑ Stercobilinogen in feces",
+        "↓ Urobilinogen in urine and ↓ Stercobilinogen in feces",
+        "↑ Conjugated bilirubin in urine and clay-colored acholic feces",
+        "↑ Hemoglobinuria and ↑ Hemosiderinuria"
+      ],
+      "ans": 0,
+      "exp": "Bilirubin → Unconjugated hyperbilirubinemia: • ↑ Urobilinogen in urine, • ↑ Stercobilinogen in feces. (Book p91)"
+    },
+    {
+      "id": "MED-C15-36",
+      "sec": "Extravascular Hemolysis, Summary Table & Rules",
+      "page": 91,
+      "fmt": "recall",
+      "q": "In the 'Summary of findings' table on p91, what are the entries for Plasma Hb, Urine Hb, and Urine hemosiderin in Intravascular vs Extravascular hemolysis?",
+      "opts": [
+        "Both Intravascular and Extravascular hemolysis: ++ for all three",
+        "Intravascular hemolysis: – for all three; Extravascular hemolysis: ++ for all three",
+        "Intravascular hemolysis: ++ for all three; Extravascular hemolysis: – for all three",
+        "Intravascular hemolysis: ++ for Plasma Hb only; Extravascular hemolysis: ++ for Urine Hb and hemosiderin"
+      ],
+      "ans": 2,
+      "exp": "Summary table on p91: Plasma Hb, Urine Hb, and Urine hemosiderin are ++ in Intravascular hemolysis and – in Extravascular hemolysis. (Book p91)"
+    },
+    {
+      "id": "MED-C15-37",
+      "sec": "Extravascular Hemolysis, Summary Table & Rules",
+      "page": 91,
+      "fmt": "recall",
+      "q": "In the 'Summary of findings' table on p91, what are the entries for Tissue iron and S. ferritin in Intravascular vs Extravascular hemolysis?",
+      "opts": [
+        "Both Intravascular and Extravascular hemolysis: – for both",
+        "Intravascular hemolysis: ++ for both; Extravascular hemolysis: – for both",
+        "Intravascular hemolysis: ++ for Tissue iron and – for S. ferritin",
+        "Intravascular hemolysis: – for both; Extravascular hemolysis: ++ for both"
+      ],
+      "ans": 3,
+      "exp": "Summary table on p91: Tissue iron and S. ferritin are – in Intravascular hemolysis and ++ in Extravascular hemolysis. (Book p91)"
+    },
+    {
+      "id": "MED-C15-38",
+      "sec": "Extravascular Hemolysis, Summary Table & Rules",
+      "page": 91,
+      "fmt": "recall",
+      "q": "In the 'Summary of findings' table on p91, how do LDH and S. haptoglobin compare between Intravascular and Extravascular hemolysis?",
+      "opts": [
+        "LDH is normal in intravascular vs ↑↑ in extravascular; S. haptoglobin is ↑↑ in both",
+        "LDH is ↑ in intravascular vs ↑↑↑ in extravascular; S. haptoglobin is ↓ in intravascular vs ↓↓↓ in extravascular",
+        "LDH is ↑↑↑ in intravascular vs ↑↑ in extravascular; S. haptoglobin is ↓↓↓ in intravascular vs ↓↓ in extravascular",
+        "LDH and S. haptoglobin are both ↑↑↑ in intravascular and ↓↓ in extravascular"
+      ],
+      "ans": 2,
+      "exp": "Summary table on p91: LDH is ↑↑↑ in Intravascular vs ↑↑ in Extravascular; S. haptoglobin is ↓↓↓ in Intravascular vs ↓↓ in Extravascular. (Book p91)"
+    },
+    {
+      "id": "MED-C15-39",
+      "sec": "Extravascular Hemolysis, Summary Table & Rules",
+      "page": 91,
+      "fmt": "recall",
+      "q": "In the 'Summary of findings' table on p91, how do S. bilirubin and Splenomegaly compare between Intravascular and Extravascular hemolysis?",
+      "opts": [
+        "S. bilirubin is – in intravascular vs ↑↑ in extravascular; Splenomegaly is ↑↑ in both",
+        "Both S. bilirubin and Splenomegaly are ↑↑↑ in intravascular and – in extravascular",
+        "S. bilirubin is ↑↑ in intravascular vs ↑ in extravascular; Splenomegaly is ↑↑ in intravascular vs – in extravascular",
+        "S. bilirubin is ↑ in intravascular vs ↑↑ in extravascular; Splenomegaly is – in intravascular vs ↑↑ in extravascular"
+      ],
+      "ans": 3,
+      "exp": "Summary table on p91: S. bilirubin is ↑ in Intravascular vs ↑↑ in Extravascular; Splenomegaly is – in Intravascular vs ↑↑ in Extravascular. (Book p91)"
+    },
+    {
+      "id": "MED-C15-40",
+      "sec": "Extravascular Hemolysis, Summary Table & Rules",
+      "page": 91,
+      "fmt": "match",
+      "q": "Match each parameter in the p91 Summary of findings table to its comparison between Intravascular (IV) and Extravascular (EV) hemolysis — 1) LDH 2) S. haptoglobin 3) S. bilirubin 4) Splenomegaly … A) IV: ↓↓↓; EV: ↓↓ B) IV: –; EV: ↑↑ C) IV: ↑↑↑; EV: ↑↑ D) IV: ↑; EV: ↑↑",
+      "opts": [
+        "1-C, 2-A, 3-D, 4-B",
+        "1-D, 2-A, 3-C, 4-B",
+        "1-C, 2-B, 3-D, 4-A",
+        "1-A, 2-C, 3-B, 4-D"
+      ],
+      "ans": 0,
+      "exp": "Summary of findings on p91: LDH is ↑↑↑ in IV vs ↑↑ in EV; S. haptoglobin is ↓↓↓ in IV vs ↓↓ in EV; S. bilirubin is ↑ in IV vs ↑↑ in EV; Splenomegaly is – in IV vs ↑↑ in EV. (Book p91)"
+    },
+    {
+      "id": "MED-C15-41",
+      "sec": "Extravascular Hemolysis, Summary Table & Rules",
+      "page": 91,
+      "fmt": "recall",
+      "q": "According to Note 1 at the bottom of p91, all inherited causes of hemolytic anemia have an intracorpuscular defect EXCEPT:",
+      "opts": [
+        "Atypical HUS",
+        "G6PD deficiency",
+        "Hereditary spherocytosis",
+        "Paroxysmal nocturnal hemoglobinuria (PNH)"
+      ],
+      "ans": 0,
+      "exp": "Note 1 on p91: All inherited causes have: • Intracorpuscular defect, except atypical HUS. (Book p91)"
+    },
+    {
+      "id": "MED-C15-42",
+      "sec": "Extravascular Hemolysis, Summary Table & Rules",
+      "page": 91,
+      "fmt": "recall",
+      "q": "According to Note 1 at the bottom of p91, all inherited causes of hemolytic anemia have extravascular hemolysis EXCEPT:",
+      "opts": [
+        "Hereditary elliptocytosis",
+        "G6PD deficiency (acute form: intravascular hemolysis)",
+        "Thalassemia trait",
+        "Pyruvate kinase deficiency"
+      ],
+      "ans": 1,
+      "exp": "Note 1 on p91: All inherited causes have: • Extra vascular hemolysis, except G6PD (Acute form : Intravascular hemolysis). (Book p91)"
+    },
+    {
+      "id": "MED-C15-43",
+      "sec": "Extravascular Hemolysis, Summary Table & Rules",
+      "page": 91,
+      "fmt": "recall",
+      "q": "According to Note 2 at the bottom of p91, all acquired causes of hemolytic anemia have an extracorpuscular defect EXCEPT:",
+      "opts": [
+        "Atypical HUS",
+        "Cold antibody AIHA",
+        "Paroxysmal nocturnal hemoglobinuria (PNH)",
+        "Warm antibody AIHA"
+      ],
+      "ans": 2,
+      "exp": "Note 2 on p91: All acquired causes have: • Extracorpuscular defect, except PNH. (Book p91)"
+    },
+    {
+      "id": "MED-C15-44",
+      "sec": "Extravascular Hemolysis, Summary Table & Rules",
+      "page": 91,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — according to Note 2 on p91, all acquired hemolytic anemias cause intravascular hemolysis EXCEPT warm and cold antibody AIHA (which cause extravascular hemolysis), whereas paroxysmal cold hemoglobinuria causes intravascular hemolysis.",
+      "opts": [
+        "True — both warm AIHA and paroxysmal cold hemoglobinuria cause purely extravascular hemolysis",
+        "False — cold AIHA and warm AIHA cause exclusively intravascular hemolysis",
+        "False — all acquired hemolytic anemias cause extravascular hemolysis except warm AIHA",
+        "True — warm and cold AIHA cause extravascular hemolysis, while paroxysmal cold hemoglobinuria causes intravascular hemolysis"
+      ],
+      "ans": 3,
+      "exp": "Note 2 on p91: All acquired causes have intravascular hemolysis, except warm and cold Ab AIHA: (a) Warm and cold AIHA: Extravascular hemolysis; (b) Paroxysmal cold hemoglobinuria: Intravascular hemolysis. (Book p91)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U15-1",
+      "ch": 15,
+      "n": 1,
+      "title": "Classification of Hemolytic Anemia",
+      "sec": "Classification of Hemolytic Anemia",
+      "guide": "Hyperproliferative anemia (RPI >2.5, reticulocytosis) is classified as inherited vs acquired, intracorpuscular vs extracorpuscular, and intravascular vs extravascular.\nInherited intracorpuscular causes include hemoglobinopathies (sickle cell, thalassemia), membrane defects (HS, elliptocytosis) and enzymopathies (G6PD, PK, 5'-nucleotidase); inherited extracorpuscular is atypical (familial) HUS.\nAcquired causes split into immune (AIHA: warm, cold, PCH; alloimmune: HDN, transfusion reaction; drug-induced) and non-immune (HUS/TTP fragmentation, intracorpuscular PNH, sepsis, toxins/drugs).",
+      "qs": [
+        "MED-C15-01",
+        "MED-C15-02",
+        "MED-C15-03",
+        "MED-C15-04",
+        "MED-C15-05",
+        "MED-C15-06",
+        "MED-C15-07",
+        "MED-C15-08",
+        "MED-C15-09",
+        "MED-C15-10",
+        "MED-C15-11",
+        "MED-C15-12",
+        "MED-C15-13",
+        "MED-C15-14",
+        "MED-C15-15"
+      ]
+    },
+    {
+      "id": "MED-U15-2",
+      "ch": 15,
+      "n": 2,
+      "title": "Abbreviations & Intravascular Hemolysis",
+      "sec": "Abbreviations & Intravascular Hemolysis",
+      "guide": "PNH results from a PIGA gene mutation; intravascular hemolysis occurs inside blood vessels with ↑ LDH, hemoglobinemia, reticulocytosis and ↑ MCV.\nFree Hb binds haptoglobin, making ↓ serum haptoglobin the most sensitive and specific test for hemolysis; urine shows hemoglobinuria (acute, dark urine) or hemosiderinuria (chronic).\nAcute onset (m/c) causes are mismatched transfusion, sepsis, toxins and G6PD deficiency; chronic/acute-on-chronic causes are PNH, MAHA/HUS and PCH.",
+      "qs": [
+        "MED-C15-16",
+        "MED-C15-17",
+        "MED-C15-18",
+        "MED-C15-19",
+        "MED-C15-20",
+        "MED-C15-21",
+        "MED-C15-22",
+        "MED-C15-23",
+        "MED-C15-24",
+        "MED-C15-25",
+        "MED-C15-26",
+        "MED-C15-27",
+        "MED-C15-28"
+      ]
+    },
+    {
+      "id": "MED-U15-3",
+      "ch": 15,
+      "n": 3,
+      "title": "Extravascular Hemolysis & General Rules",
+      "sec": "Extravascular Hemolysis, Summary Table & Rules",
+      "guide": "Extravascular hemolysis occurs in the spleen with moderate splenomegaly; globin returns to the amino acid pool, iron raises stores/ferritin, and protoporphyrin becomes unconjugated bilirubin (↑ urine urobilinogen, ↑ fecal stercobilinogen).\nThe summary table contrasts intravascular (plasma/urine Hb ++, urine hemosiderin ++, LDH ↑↑↑, haptoglobin ↓↓↓) with extravascular (tissue iron/ferritin ++, bilirubin ↑↑, splenomegaly ↑↑).\nInherited causes are intracorpuscular (except atypical HUS) and extravascular (except acute G6PD); acquired causes are extracorpuscular (except PNH) and intravascular (except warm/cold AIHA; PCH is intravascular).",
+      "qs": [
+        "MED-C15-29",
+        "MED-C15-30",
+        "MED-C15-31",
+        "MED-C15-32",
+        "MED-C15-33",
+        "MED-C15-34",
+        "MED-C15-35",
+        "MED-C15-36",
+        "MED-C15-37",
+        "MED-C15-38",
+        "MED-C15-39",
+        "MED-C15-40",
+        "MED-C15-41",
+        "MED-C15-42",
+        "MED-C15-43",
+        "MED-C15-44"
+      ]
+    }
+  ]
+}

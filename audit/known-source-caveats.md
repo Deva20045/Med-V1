@@ -1,4 +1,4 @@
-# Source caveats and transcription decisions — Book p46–76
+# Source caveats and transcription decisions — Book p46–106
 
 This companion follows the scanned *PULSE Medicine Vol 1*, Marrow Edition 8, page by page. Questions that reproduce a source statement are labelled as such; they are not independent clinical recommendations. The standalone app carries a matching study-only disclaimer.
 
@@ -17,6 +17,12 @@ This companion follows the scanned *PULSE Medicine Vol 1*, Marrow Edition 8, pag
 | 71 | The source note says ceruloplasmin converts Fe³⁺ → Fe²⁺ in the brain. | Asked explicitly as a source transcription and flagged in the explanation. Ceruloplasmin's ferroxidase activity is generally described as converting Fe²⁺ to Fe³⁺. [PubMed study](https://pubmed.ncbi.nlm.nih.gov/12952974/) |
 | 73 | CKD appears under the source's “increased demand” category for iron deficiency. | Kept as the page's classification, not generalized into a clinical aetiology rule. |
 | 76 | The scan prints “iron sucrose 200 mg × thrice daily.” | Transcribed only to document the page; the explanation explicitly says it is not a current prescribing instruction and must be checked against a trusted clinical reference. |
+| 87 | In the Pernicious Anemia pathogenesis cascade, the scan prints “Hyperchlorhydria” alongside achlorhydria and gastrin elevation. | Flagged explicitly in the question and explanation as a printed slip for compensatory **hypergastrinemia** secondary to achlorhydria. |
+| 88 | The Vitamin B12 replacement schedule prints “1000 µg once a month for lifelong (Every 6–12 months)”. | Both the monthly maintenance wording and the parenthetical “(Every 6–12 months)” note are cited as printed. |
+| 103 | Under “Markers of cholestasis”, the scan prints “5' nucleotidase deficiency” alongside alkaline phosphatase and gamma-glutamyl transferase. | Tested as the enzyme **5'-nucleotidase** with the exact printed wording noted in the explanation. |
+| 104 | Under the Osmotic fragility test principle, the scan prints “(N) : Rupture of RBC in ≥ 0.7% saline” and “HS : Rupture at 0.3% → Fragile RBCs”. | Explicitly labelled as the printed text on p104 alongside the test's low sensitivity/specificity and “not used” status. |
+| 105 | Under G6PD precipitating drugs, high-dose aspirin is printed as “>3g/dl”. | Preserved as printed alongside “> 3 g/day” clarification in the option and explanation. |
+| 106 | In the triangle diagram at the bottom of p106 under Blood loss, the third vertex is printed as “DIC (Hypercoagulability)” with Hypothermia and Acidosis. | Cited as printed (“DIC (printed with Hypercoagulability)”) in the question and explanation. |
 
 ## General use note
 
