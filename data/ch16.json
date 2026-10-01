@@ -1,0 +1,1051 @@
+{
+  "chapter": 16,
+  "title": "Immune Mediated Hemolytic Anemia",
+  "pageRange": "92-96",
+  "questions": [
+    {
+      "id": "MED-C16-01",
+      "sec": "Classification of Immune Hemolysis & Coombs Test",
+      "page": 92,
+      "fmt": "recall",
+      "q": "At the top of p92, acquired hemolytic anemia first divides into:",
+      "opts": [
+        "Hemoglobinopathies and enzymopathies",
+        "Immune hemolytic and non-immune hemolytic",
+        "Sideroblastic and thalassemic",
+        "Megaloblastic and normoblastic"
+      ],
+      "ans": 1,
+      "exp": "The opening p92 flowchart divides Acquired hemolytic anemia into Immune hemolytic and Non-immune hemolytic. (Book p92)"
+    },
+    {
+      "id": "MED-C16-02",
+      "sec": "Classification of Immune Hemolysis & Coombs Test",
+      "page": 92,
+      "fmt": "recall",
+      "q": "In the p92 classification chart, 'Immune hemolytic' anemia branches into which three categories?",
+      "opts": [
+        "Autoimmune, alloimmune and drug induced",
+        "Warm, cold and mechanical",
+        "Intracorpuscular, membrane-defective and enzymopathic",
+        "Fragmentation, PNH and sepsis"
+      ],
+      "ans": 0,
+      "exp": "Immune hemolytic branches into Autoimmune, Alloimmune, and Drug induced. (Book p92)"
+    },
+    {
+      "id": "MED-C16-03",
+      "sec": "Classification of Immune Hemolysis & Coombs Test",
+      "page": 92,
+      "fmt": "recall",
+      "q": "Under the 'Autoimmune' branch on p92, what immunoglobulin class mediates Warm antibody AIHA, Cold antibody AIHA, and Paroxysmal cold hemoglobinuria (PCH) respectively?",
+      "opts": [
+        "Warm antibody: IgG; Cold antibody: IgM; Paroxysmal cold hemoglobinuria (PCH): IgG",
+        "Warm antibody: IgA; Cold antibody: IgG; Paroxysmal cold hemoglobinuria (PCH): IgE",
+        "Warm antibody: IgM; Cold antibody: IgG; Paroxysmal cold hemoglobinuria (PCH): IgA",
+        "Warm antibody: IgG; Cold antibody: IgM; Paroxysmal cold hemoglobinuria (PCH): IgM"
+      ],
+      "ans": 0,
+      "exp": "Autoimmune on p92: Warm antibody : IgG; Cold antibody : IgM; Paroxysmal cold hemoglobinuria (PCH) : IgG. (Book p92)"
+    },
+    {
+      "id": "MED-C16-04",
+      "sec": "Classification of Immune Hemolysis & Coombs Test",
+      "page": 92,
+      "fmt": "match",
+      "q": "Match each immune hemolytic condition on p92 to its printed antibody class — 1) Warm antibody AIHA 2) Cold antibody AIHA 3) Paroxysmal cold hemoglobinuria (PCH) and Hemolytic disease of newborn … A) IgM B) IgG (warm autoantibody) C) IgG (PCH / HDN)",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 0,
+      "exp": "On p92: Warm antibody = IgG; Cold antibody = IgM; PCH = IgG; Hemolytic disease of newborn = IgG. (Book p92)"
+    },
+    {
+      "id": "MED-C16-05",
+      "sec": "Classification of Immune Hemolysis & Coombs Test",
+      "page": 92,
+      "fmt": "recall",
+      "q": "Under the 'Alloimmune' branch on p92, which two conditions are listed, and which immunoglobulin is noted beside Hemolytic disease of the newborn?",
+      "opts": [
+        "Atypical HUS and thrombotic thrombocytopenic purpura",
+        "Warm antibody AIHA (IgG) and cold antibody AIHA (IgM)",
+        "Paroxysmal cold hemoglobinuria (IgG) and drug-induced hemolysis",
+        "Hemolytic disease of newborn (IgG) and hemolytic transfusion reaction"
+      ],
+      "ans": 3,
+      "exp": "Alloimmune on p92 lists: Hemolytic disease of newborn : IgG, and Hemolytic transfusion reaction. (Book p92)"
+    },
+    {
+      "id": "MED-C16-06",
+      "sec": "Classification of Immune Hemolysis & Coombs Test",
+      "page": 92,
+      "fmt": "fillup",
+      "q": "According to the note on p92, the IgG antibody of paroxysmal cold hemoglobinuria (PCH) is called the ____ antibody.",
+      "opts": [
+        "Anti-intrinsic factor",
+        "Donath Landsteiner",
+        "Paul–Bunnell",
+        "Forssman"
+      ],
+      "ans": 1,
+      "exp": "Note on p92: IgG antibody of PCH : Donath Landsteiner antibody. (Book p92)"
+    },
+    {
+      "id": "MED-C16-07",
+      "sec": "Classification of Immune Hemolysis & Coombs Test",
+      "page": 92,
+      "fmt": "recall",
+      "q": "Under Autoimmune Hemolytic Anemia (AIHA) on p92, rapidly progressive anemia points to hemolytic anemia (suggestive of an acquired cause) and occurs at which site type?",
+      "opts": [
+        "Purely intravascular",
+        "Renal glomerular capillaries",
+        "Extravascular",
+        "Intramedullary only"
+      ],
+      "ans": 2,
+      "exp": "Autoimmune Hemolytic Anemia (AIHA) on p92: Rapidly progressive anemia → Hemolytic anemia (Suggestive of acquired); Extravascular. (Book p92)"
+    },
+    {
+      "id": "MED-C16-08",
+      "sec": "Classification of Immune Hemolysis & Coombs Test",
+      "page": 92,
+      "fmt": "recall",
+      "q": "What is the primary diagnostic purpose of the Coombs test stated on p92?",
+      "opts": [
+        "Measures osmotic fragility of spectrin-deficient erythrocytes",
+        "Differentiates megaloblastic and normoblastic macrocytosis",
+        "Quantifies bone marrow iron stores in microcytic anemia",
+        "Differentiates immune and non-immune anemia"
+      ],
+      "ans": 3,
+      "exp": "Coombs test: Differentiates immune & non immune anemia. (Book p92)"
+    },
+    {
+      "id": "MED-C16-09",
+      "sec": "Classification of Immune Hemolysis & Coombs Test",
+      "page": 92,
+      "fmt": "recall",
+      "q": "In the Coombs test flowchart on p92, what is the alternate name (AKA) for the Direct Coombs test, and what does it detect?",
+      "opts": [
+        "Direct antiglobulin test (DAT); detects antibodies on the surface of the RBC",
+        "Indirect antiglobulin test (IAT); detects free antibodies in plasma",
+        "Donath–Landsteiner test; detects complement C5b-9 in urine",
+        "Ham acid hemolysis test; detects GPI-anchor deficiency on leukocytes"
+      ],
+      "ans": 0,
+      "exp": "Direct coombs test → AKA Direct antiglobulin test (DAT): Antibodies on the surface of RBC. (Book p92)"
+    },
+    {
+      "id": "MED-C16-10",
+      "sec": "Classification of Immune Hemolysis & Coombs Test",
+      "page": 92,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — on p92, the Indirect Coombs test detects antibodies in circulation and is noted as not reliable due to the doubtful significance of the antibodies.",
+      "opts": [
+        "True — Indirect Coombs test detects antibodies bound to the RBC surface and is the gold standard for AIHA",
+        "False — Indirect Coombs test is more reliable than Direct Coombs test for diagnosing warm AIHA",
+        "False — Indirect Coombs test detects only C3d bound to splenic macrophages",
+        "True — Indirect Coombs test detects circulating antibodies and is noted as not reliable due to their doubtful significance"
+      ],
+      "ans": 3,
+      "exp": "Indirect coombs test: Antibodies in circulation (Not reliable d/t doubtful significance of the antibodies). (Book p92)"
+    },
+    {
+      "id": "MED-C16-11",
+      "sec": "Classification of Immune Hemolysis & Coombs Test",
+      "page": 92,
+      "fmt": "recall",
+      "q": "In the Direct Coombs test procedure on p92, patient RBCs coated with antibodies are mixed with which reagent to detect antibodies on the RBC surface?",
+      "opts": [
+        "Acidified serum with sucrose",
+        "Potassium ferrocyanide reagent",
+        "Monoclonal anti-P antigen IgM",
+        "Polyvalent anti-human immunoglobulin"
+      ],
+      "ans": 3,
+      "exp": "RBCs coated with antibodies + Polyvalent anti human immunoglobulin (Detects antibodies on the RBC surface). (Book p92)"
+    },
+    {
+      "id": "MED-C16-12",
+      "sec": "Classification of Immune Hemolysis & Coombs Test",
+      "page": 92,
+      "fmt": "recall",
+      "q": "In the Direct Coombs test flowchart on p92, what happens when the polyvalent reagent reacts with antibody (agglutination) versus when it does not react?",
+      "opts": [
+        "Reacts (agglutination) → Non-immune hemolytic anemia; Does not react → Immune hemolytic anemia",
+        "Reacts (agglutination) → Sideroblastic anemia; Does not react → Thalassemia trait",
+        "Reacts (hemolysis) → Coombs test negative; Does not react → Coombs test positive (3+, 4+)",
+        "Reacts (agglutination) → Coombs test positive (3+, 4+) → Immune hemolytic anemia; Does not react → Coombs test negative → Non-immune hemolytic anemia"
+      ],
+      "ans": 3,
+      "exp": "Left branch: Reacts with antibody (Agglutination) → Coomb's test positive (3+, 4+) → Immune hemolytic anemia. Right branch: Does not react with antibody → Coomb's test negative → Non immune hemolytic anemia. (Book p92)"
+    },
+    {
+      "id": "MED-C16-13",
+      "sec": "Classification of Immune Hemolysis & Coombs Test",
+      "page": 92,
+      "fmt": "recall",
+      "q": "Once Immune hemolytic anemia is confirmed by a positive polyvalent Direct Coombs test (3+, 4+), what reagent is added next at the bottom of p92?",
+      "opts": [
+        "Supravital brilliant cresyl blue dye",
+        "Polyvalent anti-rabbit complement (Anti-C1q, anti-C9)",
+        "Monovalent antihuman immunoglobulin (Anti-IgG, anti-C3d)",
+        "Osmotic saline gradient (0.9% to 0.1%)"
+      ],
+      "ans": 2,
+      "exp": "Below Immune hemolytic anemia on p92: Add monovalent antihuman immunoglobin (Anti IgG, anti C3d). (Book p92)"
+    },
+    {
+      "id": "MED-C16-14",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "page": 93,
+      "fmt": "recall",
+      "q": "At the top of p93, when monovalent antihuman immunoglobulin shows 'Anti-IgG +ve, Anti-C3d ±', which two possibilities are indicated?",
+      "opts": [
+        "Hereditary spherocytosis, or G6PD deficiency",
+        "Paroxysmal nocturnal hemoglobinuria, or Atypical HUS",
+        "Cold antibody AIHA, or Paroxysmal cold hemoglobinuria",
+        "Warm antibody AIHA, or Drug-induced (when negative)"
+      ],
+      "ans": 3,
+      "exp": "Under Anti IgG +ve / Anti C3d ± on p93: Warm antibody AIHA, and -ve → Drug induced. (Book p93)"
+    },
+    {
+      "id": "MED-C16-15",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "page": 93,
+      "fmt": "recall",
+      "q": "At the top of p93, when monovalent antihuman immunoglobulin shows 'Anti-IgG –ve, Anti-C3d +ve', what are the three downstream diagnostic branches?",
+      "opts": [
+        "1) Warm antibody AIHA, 2) Evans syndrome, and 3) Hemolytic disease of the newborn",
+        "1) Cold antibody AIHA, 2) Donath–Landsteiner (DL) test +ve → PCH, and 3) Drug-induced AIHA (Ab +ve, DL –ve)",
+        "1) Thalassemia trait, 2) Sideroblastic anemia, and 3) Anemia of chronic disease",
+        "1) HUS/TTP, 2) Sepsis, and 3) Mismatched blood transfusion"
+      ],
+      "ans": 1,
+      "exp": "Under Anti IgG -ve / Anti C3d +ve on p93: Cold antibody AIHA; Donath Landsteiner (DL) test +ve → PCH; Drug induced AIHA (• Ab +ve, • DL -ve). (Book p93)"
+    },
+    {
+      "id": "MED-C16-16",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "page": 93,
+      "fmt": "fillup",
+      "q": "According to the note on p93, a history of ____ can cause a false-positive Coombs test.",
+      "opts": [
+        "Oral iron therapy",
+        "Multiple blood transfusions",
+        "Recent splenectomy",
+        "High-dose vitamin C"
+      ],
+      "ans": 1,
+      "exp": "Note on p93: Multiple blood transfusions → False positive coomb's test. (Book p93)"
+    },
+    {
+      "id": "MED-C16-17",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "page": 93,
+      "fmt": "recall",
+      "q": "Under 'Warm & Cold Hemolytic Anemia (AIHA)' on p93, what is the sex preponderance, and which type of AIHA is marked most common (m/c)?",
+      "opts": [
+        "Equal sex incidence (F = M); Paroxysmal cold hemoglobinuria is most common (m/c)",
+        "Male > Female (M > F); Drug-induced AIHA is most common (m/c)",
+        "Male > Female (M > F); Cold autoimmune hemolytic anemia is most common (m/c)",
+        "Female > Male (F > M); Warm autoimmune hemolytic anemia is most common (m/c)"
+      ],
+      "ans": 3,
+      "exp": "On p93 above the table: F > M, and the left column header reads 'Warm autoimmune hemolytic anemia (m/c)'. (Book p93)"
+    },
+    {
+      "id": "MED-C16-18",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "page": 93,
+      "fmt": "recall",
+      "q": "In the p93 comparison table, which immunoglobulin class mediates Warm AIHA versus Cold AIHA?",
+      "opts": [
+        "Warm AIHA: IgA; Cold AIHA: IgE",
+        "Warm AIHA: IgM; Cold AIHA: IgG",
+        "Warm AIHA: IgG; Cold AIHA: IgA",
+        "Warm AIHA: IgG; Cold AIHA: IgM"
+      ],
+      "ans": 3,
+      "exp": "Immunoglobin row on p93: Warm AIHA = IgG; Cold AIHA = IgM. (Book p93)"
+    },
+    {
+      "id": "MED-C16-19",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "page": 93,
+      "fmt": "numeric",
+      "q": "In the p93 comparison table, what are the reaction temperatures listed for Warm AIHA versus Cold AIHA?",
+      "opts": [
+        "Warm AIHA: 0–4 °C; Cold AIHA: 37 °C",
+        "Warm AIHA: 40 °C; Cold AIHA: 15–25 °C",
+        "Warm AIHA: 37 °C; Cold AIHA: 0–4 °C",
+        "Warm AIHA: 25 °C; Cold AIHA: –20 °C"
+      ],
+      "ans": 2,
+      "exp": "Temperature row on p93: Warm AIHA = 37 °C; Cold AIHA = 0–4 °C. (Book p93)"
+    },
+    {
+      "id": "MED-C16-20",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "page": 93,
+      "fmt": "recall",
+      "q": "In the Incidence row of the p93 table, how are the clinical courses of Warm AIHA and Cold AIHA contrasted?",
+      "opts": [
+        "Warm AIHA: Chronic indolent (years); Cold AIHA: Hyperacute fulminant (hours)",
+        "Warm AIHA: Rapidly progressive subacute (1–2 months); Cold AIHA: Chronic indolent",
+        "Warm AIHA: Congenital lifelong; Cold AIHA: Acute post-transfusion only",
+        "Warm AIHA: Self-limiting (days); Cold AIHA: Rapidly progressive subacute (1–2 months)"
+      ],
+      "ans": 1,
+      "exp": "Incidence row on p93: Warm AIHA = Rapidly progressive subacute (1–2 months); Cold AIHA = Chronic indolent. (Book p93)"
+    },
+    {
+      "id": "MED-C16-21",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "page": 93,
+      "fmt": "match",
+      "q": "Match each feature in the p93 comparison table to Warm AIHA and Cold AIHA — 1) Immunoglobulin class 2) Optimal reaction temperature 3) Clinical incidence/course … A) Warm: 37 °C; Cold: 0–4 °C B) Warm: Rapidly progressive subacute (1–2 months); Cold: Chronic indolent C) Warm: IgG; Cold: IgM",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 1,
+      "exp": "Table on p93: Immunoglobin — Warm IgG vs Cold IgM; Temperature — Warm 37°C vs Cold 0–4°C; Incidence — Warm rapidly progressive subacute (1–2 months) vs Cold chronic indolent. (Book p93)"
+    },
+    {
+      "id": "MED-C16-22",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "page": 93,
+      "fmt": "numeric",
+      "q": "In the Etiology row for Warm AIHA on p93, what percentage of cases are idiopathic?",
+      "opts": [
+        "50%",
+        "25%",
+        "90%",
+        "10%"
+      ],
+      "ans": 0,
+      "exp": "Warm AIHA Etiology: • Idiopathic : 50 %. (Book p93)"
+    },
+    {
+      "id": "MED-C16-23",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "page": 93,
+      "fmt": "recall",
+      "q": "Under secondary causes of Warm AIHA on p93, what three disorders are grouped together in item 1?",
+      "opts": [
+        "Multiple myeloma, Mycoplasma and parvovirus B19",
+        "Waldenström's macroglobulinemia, EBV and CMV",
+        "Hodgkin lymphoma, hepatitis B and syphilis",
+        "SLE, CLL and HIV"
+      ],
+      "ans": 3,
+      "exp": "Warm AIHA Secondary causes: 1. SLE, CLL, HIV. (Book p93)"
+    },
+    {
+      "id": "MED-C16-24",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "page": 93,
+      "fmt": "recall",
+      "q": "Which four autoimmune diseases are listed under item '2. Auto immune' in the secondary causes of Warm AIHA on p93?",
+      "opts": [
+        "Rheumatoid arthritis, polyarteritis nodosa, inflammatory bowel disease and scleroderma",
+        "Ankylosing spondylitis, reactive arthritis, gout and Sjögren's syndrome",
+        "Addison's disease, Type 1 diabetes mellitus, vitiligo and Graves' disease",
+        "Myasthenia gravis, multiple sclerosis, Goodpasture syndrome and pemphigus"
+      ],
+      "ans": 0,
+      "exp": "Warm AIHA Secondary causes — 2. Autoimmune: Rheumatoid arthritis, Polyarteritis nodosa, Inflammatory bowel disease, Scleroderma. (Book p93)"
+    },
+    {
+      "id": "MED-C16-25",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "page": 93,
+      "fmt": "recall",
+      "q": "Under item '3. Drugs' in the Warm AIHA etiology column on p93, which antibiotic class is listed as 'drug dependent'?",
+      "opts": [
+        "Tetracyclines",
+        "Cephalosporins",
+        "Fluoroquinolones",
+        "Macrolides"
+      ],
+      "ans": 1,
+      "exp": "Warm AIHA Drugs: – Cephalosporins (drug dependent). (Book p93)"
+    },
+    {
+      "id": "MED-C16-26",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "page": 93,
+      "fmt": "recall",
+      "q": "Under item '3. Drugs' in the Warm AIHA etiology column on p93, how is α-methyldopa characterized and what is its clinical consequence?",
+      "opts": [
+        "Hapten-adsorbing → requires high-dose intravenous administration",
+        "Drug-dependent → hemolysis ceases within hours of stopping the drug",
+        "Complement-fixing IgM → active only at 0–4 °C in extremities",
+        "Drug-independent → features persist even after stopping the drug"
+      ],
+      "ans": 3,
+      "exp": "Warm AIHA Drugs: – α-methyl dopa (drug independent) → Features even after stopping drug. (Book p93)"
+    },
+    {
+      "id": "MED-C16-27",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "page": 93,
+      "fmt": "fillup",
+      "q": "In the Cold AIHA etiology column on p93, the idiopathic form is called ____.",
+      "opts": [
+        "Paroxysmal cold hemoglobinuria",
+        "Marchiafava–Micheli syndrome",
+        "Evans syndrome",
+        "Cold agglutinin disease"
+      ],
+      "ans": 3,
+      "exp": "Cold AIHA Etiology: • Idiopathic : Cold agglutinin disease. (Book p93)"
+    },
+    {
+      "id": "MED-C16-28",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "page": 93,
+      "fmt": "recall",
+      "q": "What is secondary cause #1 of Cold AIHA on p93, and what molecular mutation is specified?",
+      "opts": [
+        "Multiple myeloma: monoclonal IgA gammopathy with t(11;14) translocation",
+        "Polycythemia vera: clonal erythrocytosis with JAK2 V617F mutation",
+        "Waldenström's macroglobulinemia: monoclonal IgM gammopathies with MYD88 mutation",
+        "Chronic lymphocytic leukemia: monoclonal IgG gammopathy with TP53 deletion"
+      ],
+      "ans": 2,
+      "exp": "Cold AIHA Secondary causes: 1. Waldenstrom's macroglobulinemia : monoclonal IgM gammopathies with myd 88 mutation. (Book p93)"
+    },
+    {
+      "id": "MED-C16-29",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "page": 93,
+      "fmt": "recall",
+      "q": "Under secondary causes of Cold AIHA on p93, besides Waldenström's macroglobulinemia (#1) and lymphoma (#2), which four infections are listed under #3?",
+      "opts": [
+        "HIV, hepatitis C, tertiary syphilis and parvovirus B19",
+        "Malaria, babesiosis, Bartonella and Clostridium perfringens",
+        "Tuberculosis, brucellosis, typhoid and visceral leishmaniasis",
+        "Infectious mononucleosis, EBV, cytomegalovirus and Mycoplasma pneumoniae"
+      ],
+      "ans": 3,
+      "exp": "Cold AIHA Secondary causes: 2. Lymphoma; 3. Infections: – Infectious mononucleosis, – EBV, – Cytomegalovirus, – Mycoplasma pneumonia. (Book p93)"
+    },
+    {
+      "id": "MED-C16-30",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "page": 93,
+      "fmt": "fillup",
+      "q": "Under secondary causes of Cold AIHA on p93, item '4. Drugs' specifically lists ____.",
+      "opts": [
+        "Quinidine",
+        "Lenalidomide",
+        "Cephalosporins",
+        "α-methyldopa"
+      ],
+      "ans": 1,
+      "exp": "Cold AIHA Secondary causes: 4. Drugs : Lenalidomide. (Book p93)"
+    },
+    {
+      "id": "MED-C16-31",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "page": 93,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — which of the following is listed under secondary causes of Cold AIHA rather than Warm AIHA on p93?",
+      "opts": [
+        "Systemic lupus erythematosus (SLE)",
+        "Polyarteritis nodosa",
+        "Mycoplasma pneumoniae",
+        "Scleroderma"
+      ],
+      "ans": 2,
+      "exp": "SLE, polyarteritis nodosa, and scleroderma are secondary causes of Warm AIHA on p93, whereas Mycoplasma pneumoniae is a secondary infectious cause of Cold AIHA. (Book p93)"
+    },
+    {
+      "id": "MED-C16-32",
+      "sec": "Warm vs Cold AIHA: Pathogenesis, Clinical Features & Smear",
+      "page": 94,
+      "fmt": "recall",
+      "q": "In the Pathogenesis row on p94, what is the exact sequence of events in Warm autoimmune hemolytic anemia?",
+      "opts": [
+        "ADAMTS13 deficiency → Ultra-large vWF multimers shear RBCs → Microangiopathic hemolysis",
+        "Polyclonal IgG binds P-antigen at 4°C → Complement MAC lysis at 37°C → Intravascular hemolysis",
+        "Splenic macrophage has receptor for Fc portion of RBC → Pan-agglutination → Extravascular hemolysis",
+        "RBC agglutination in extremities with IgM → Recognized by Kupffer cells → Intravascular hemolysis"
+      ],
+      "ans": 2,
+      "exp": "Warm AIHA Pathogenesis on p94: Splenic macrophage has receptor for Fc portion of RBC → Pan agglutination → Extravascular hemolysis. (Book p94)"
+    },
+    {
+      "id": "MED-C16-33",
+      "sec": "Warm vs Cold AIHA: Pathogenesis, Clinical Features & Smear",
+      "page": 94,
+      "fmt": "recall",
+      "q": "In the Pathogenesis row on p94, where does IgM-mediated RBC agglutination occur in Cold autoimmune hemolytic anemia, and which cells recognize the coated RBCs?",
+      "opts": [
+        "RBC agglutination occurs in the peripheral circulation/extremities with IgM; recognized by Kupffer cells",
+        "RBC agglutination occurs in the renal medulla with IgA; recognized by mesangial cells",
+        "RBC agglutination occurs in the bone marrow sinusoids; recognized by megakaryocytes",
+        "RBC agglutination occurs in the splenic cords at 37°C with IgG; recognized by red-pulp macrophages"
+      ],
+      "ans": 0,
+      "exp": "Cold AIHA Pathogenesis on p94: RBC agglutination in the peripheral circulation/extremities with IgM. Recognised by Kupffer cells. (Book p94)"
+    },
+    {
+      "id": "MED-C16-34",
+      "sec": "Warm vs Cold AIHA: Pathogenesis, Clinical Features & Smear",
+      "page": 94,
+      "fmt": "recall",
+      "q": "After Kupffer cell recognition in Cold AIHA on p94, what is the relative contribution of extravascular versus intravascular hemolysis?",
+      "opts": [
+        "Extravascular hemolysis (predominantly) and intravascular hemolysis (minimal)",
+        "Intravascular hemolysis (exclusively) with no extravascular hemolysis",
+        "Intramedullary hemolysis only with no peripheral RBC destruction",
+        "Equal 50:50 intravascular and splenic extravascular hemolysis"
+      ],
+      "ans": 0,
+      "exp": "Cold AIHA Pathogenesis on p94: Recognised by Kupffer cells → Extravascular hemolysis (predominantly). Intravascular hemolysis (minimal). (Book p94)"
+    },
+    {
+      "id": "MED-C16-35",
+      "sec": "Warm vs Cold AIHA: Pathogenesis, Clinical Features & Smear",
+      "page": 94,
+      "fmt": "match",
+      "q": "Match Warm AIHA, Cold AIHA, and Cold AIHA with MAC formation on p94 to their site or mode of RBC destruction — 1) Warm autoimmune hemolytic anemia 2) Cold autoimmune hemolytic anemia (extravascular) 3) Cold AIHA with C5–C9 membrane attack complex … A) Liver (Kupffer cells) B) Intravascular hemolysis C) Spleen (splenic macrophages)",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "RBC destruction site row on p94: Warm AIHA = Spleen; Cold AIHA = Liver (and intravascular hemolysis when C5–C9 MAC is activated). (Book p94)"
+    },
+    {
+      "id": "MED-C16-36",
+      "sec": "Warm vs Cold AIHA: Pathogenesis, Clinical Features & Smear",
+      "page": 94,
+      "fmt": "recall",
+      "q": "Which four clinical features bullets are listed for Warm autoimmune hemolytic anemia in the p94 table?",
+      "opts": [
+        "1) Anemia, spherocytosis, reticulocytosis; 2) Splenomegaly (moderate); 3) Jaundice; 4) Urobilinogen (+)",
+        "1) Pancytopenia; 2) Beefy-red glossitis; 3) Dorsal column loss; 4) Urine MMA (+)",
+        "1) Acrocyanosis; 2) Hepatomegaly; 3) Hemoglobinuria; 4) Hemosiderinuria",
+        "1) Koilonychia; 2) Pica; 3) Esophageal webs; 4) Absent marrow iron"
+      ],
+      "ans": 0,
+      "exp": "Clinical features of Warm AIHA on p94: • Anemia, spherocytosis, reticulocytosis, • Splenomegaly (moderate), • Jaundice, • Urobilinogen (+). (Book p94)"
+    },
+    {
+      "id": "MED-C16-37",
+      "sec": "Warm vs Cold AIHA: Pathogenesis, Clinical Features & Smear",
+      "page": 94,
+      "fmt": "fillup",
+      "q": "In the Clinical features row on p94, the characteristic clinical feature listed for Cold autoimmune hemolytic anemia is ____.",
+      "opts": [
+        "Koilonychia",
+        "Erythromelalgia",
+        "Acrocyanosis",
+        "Kayser–Fleischer rings"
+      ],
+      "ans": 2,
+      "exp": "Clinical features of Cold AIHA on p94: Acrocyanosis. (Book p94)"
+    },
+    {
+      "id": "MED-C16-38",
+      "sec": "Warm vs Cold AIHA: Pathogenesis, Clinical Features & Smear",
+      "page": 94,
+      "fmt": "recall",
+      "q": "In the Peripheral smear row on p94, which four cell types are labelled across the two photomicrographs under Warm AIHA?",
+      "opts": [
+        "Target cells, pencil cells, tear-drop cells and ring sideroblasts",
+        "Fragmented RBC, spherocyte (variable), nucleated RBC and polychromatic RBC (blue tinge)",
+        "Sickle cells, Howell-Jolly bodies, Cabot rings and bite cells",
+        "Macro-ovalocytes, hypersegmented neutrophils, acanthocytes and burr cells"
+      ],
+      "ans": 1,
+      "exp": "Peripheral smear images on p94 under Warm AIHA label: Fragmented RBC, Spherocyte (variable), Nucleated RBC, and Polychromatic RBC (blue tinge). (Book p94)"
+    },
+    {
+      "id": "MED-C16-39",
+      "sec": "Warm vs Cold AIHA: Pathogenesis, Clinical Features & Smear",
+      "page": 94,
+      "fmt": "recall",
+      "q": "What is labelled in the peripheral smear photomicrograph under Cold autoimmune hemolytic anemia on p94?",
+      "opts": [
+        "Uniform spherocytes",
+        "Agglutinated RBC",
+        "Ring sideroblasts",
+        "Rouleaux stacks with plasma cells"
+      ],
+      "ans": 1,
+      "exp": "The Cold AIHA peripheral smear image on p94 is labelled 'Agglutinated RBC'. (Book p94)"
+    },
+    {
+      "id": "MED-C16-40",
+      "sec": "Warm vs Cold AIHA: Treatment, Evans Syndrome & Spherocytes",
+      "page": 95,
+      "fmt": "fillup",
+      "q": "At the top of p95 under Warm AIHA peripheral smear, ____ are noted as 'AKA fragmented RBC / helmeted RBC'.",
+      "opts": [
+        "Drepanocytes",
+        "Codocytes",
+        "Schistocytes",
+        "Stomatocytes"
+      ],
+      "ans": 2,
+      "exp": "Top of p95: Schistocytes : AKA fragmented RBC / helmeted RBC. (Book p95)"
+    },
+    {
+      "id": "MED-C16-41",
+      "sec": "Warm vs Cold AIHA: Treatment, Evans Syndrome & Spherocytes",
+      "page": 95,
+      "fmt": "recall",
+      "q": "What do the two additional photomicrographs at the top of p95 under Warm AIHA illustrate?",
+      "opts": [
+        "Target cells, and Rouleaux formation",
+        "Spherocytes, and Reticulocytosis (supravital stain)",
+        "Heinz bodies, and Basophilic stippling",
+        "Ring sideroblasts (Prussian blue), and Megaloblasts"
+      ],
+      "ans": 1,
+      "exp": "The two photomicrographs at the top of p95 under Warm AIHA are captioned 'Spherocytes' and 'Reticulocytosis (supravital stain)'. (Book p95)"
+    },
+    {
+      "id": "MED-C16-42",
+      "sec": "Warm vs Cold AIHA: Treatment, Evans Syndrome & Spherocytes",
+      "page": 95,
+      "fmt": "numeric",
+      "q": "In the first-line treatment of Warm AIHA on p95, what is the exact steroid dose and duration?",
+      "opts": [
+        "500 mg single IV bolus only",
+        "0.1 mg/kg/day × 1 week (then stop abruptly)",
+        "1 mg/kg/day × 4 weeks (then taper steroid slowly)",
+        "10 mg/kg/day × 12 weeks"
+      ],
+      "ans": 2,
+      "exp": "Warm AIHA Treatment on p95: • Steroids : 1 mg/kg/day × 4 wks. + Rituximab : 100 mg/m² weekly × 4 doses. • Taper steroid slowly. (Book p95)"
+    },
+    {
+      "id": "MED-C16-43",
+      "sec": "Warm vs Cold AIHA: Treatment, Evans Syndrome & Spherocytes",
+      "page": 95,
+      "fmt": "numeric",
+      "q": "In the first-line treatment of Warm AIHA on p95, what is the exact Rituximab dose and schedule combined with steroids?",
+      "opts": [
+        "375 mg/m² daily × 10 doses",
+        "10 mg/m² monthly × 12 doses",
+        "1000 mg once every 6 months",
+        "100 mg/m² weekly × 4 doses"
+      ],
+      "ans": 3,
+      "exp": "Warm AIHA Treatment on p95: Steroids : 1 mg/kg/day × 4 wks. + Rituximab : 100 mg/m² weekly × 4 doses. (Book p95)"
+    },
+    {
+      "id": "MED-C16-44",
+      "sec": "Warm vs Cold AIHA: Treatment, Evans Syndrome & Spherocytes",
+      "page": 95,
+      "fmt": "management",
+      "q": "Which three medical agents and which surgical option (with its parenthetical note) are listed under 'Relapse' for Warm AIHA on p95?",
+      "opts": [
+        "Rituximab, cyclophosphamide, mycophenolate mofetil, and splenectomy (ideal but not preferred)",
+        "Lenalidomide, bortezomib, thalidomide, and hepatic irradiation",
+        "Azathioprine, cyclosporine, danazol, and bone marrow transplant (first choice)",
+        "Hydroxyurea, methotrexate, 6-mercaptopurine, and thymectomy (preferred)"
+      ],
+      "ans": 0,
+      "exp": "Warm AIHA Relapse on p95: • Rituximab, • Cyclophosphamide, • Mycophenolate mofetil, • Splenectomy (Ideal but not preferred). (Book p95)"
+    },
+    {
+      "id": "MED-C16-45",
+      "sec": "Warm vs Cold AIHA: Treatment, Evans Syndrome & Spherocytes",
+      "page": 95,
+      "fmt": "management",
+      "q": "What is the treatment listed for Cold autoimmune hemolytic anemia in the p95 table?",
+      "opts": [
+        "Oral α-methyldopa + warm blood transfusion only",
+        "High-dose corticosteroids (1 mg/kg/day) + urgent splenectomy",
+        "Rituximab (best prognosis)",
+        "Intramuscular hydroxycobalamin + folic acid"
+      ],
+      "ans": 2,
+      "exp": "Cold AIHA Treatment on p95: • Rituximab (Best prognosis). (Book p95)"
+    },
+    {
+      "id": "MED-C16-46",
+      "sec": "Warm vs Cold AIHA: Treatment, Evans Syndrome & Spherocytes",
+      "page": 95,
+      "fmt": "recall",
+      "q": "In the Note at the bottom of p95, what two hematologic components define Evans syndrome (item a)?",
+      "opts": [
+        "Paroxysmal nocturnal hemoglobinuria + aplastic anemia",
+        "Microangiopathic hemolytic anemia + thrombocytosis",
+        "Cold agglutinin disease + neutropenia",
+        "Warm autoimmune hemolytic anemia + thrombocytopenia"
+      ],
+      "ans": 3,
+      "exp": "Note on p95 — Evans syndrome: a. Warm autoimmune hemolytic anemia + thrombocytopenia. (Book p95)"
+    },
+    {
+      "id": "MED-C16-47",
+      "sec": "Warm vs Cold AIHA: Treatment, Evans Syndrome & Spherocytes",
+      "page": 95,
+      "fmt": "recall",
+      "q": "In the Note at the bottom of p95, Evans syndrome is associated with which immunodeficiency (item b)?",
+      "opts": [
+        "X-linked agammaglobulinemia (Bruton's)",
+        "Common variable immunodeficiency (CVID)",
+        "Severe combined immunodeficiency (SCID)",
+        "Chédiak–Higashi syndrome"
+      ],
+      "ans": 1,
+      "exp": "Note on p95 — Evans syndrome: b. Associated with common variable immunodeficiency (CVID). (Book p95)"
+    },
+    {
+      "id": "MED-C16-48",
+      "sec": "Warm vs Cold AIHA: Treatment, Evans Syndrome & Spherocytes",
+      "page": 95,
+      "fmt": "recall",
+      "q": "According to the Note on p95, which four conditions are listed under 'Spherocytes are seen in', and which one specifically has 'uniform spherocytes'?",
+      "opts": [
+        "a. Hereditary spherocytes (uniform spherocytes), b. G6PD deficiency, c. Transfusion reaction, and d. CuSO₄ poisoning",
+        "a. Thalassemia trait (uniform spherocytes), b. Iron deficiency, c. Lead poisoning, and d. Scurvy",
+        "a. Sickle cell anemia (uniform spherocytes), b. Pyruvate kinase deficiency, c. PNH, and d. Malaria",
+        "a. Pernicious anemia (uniform spherocytes), b. Folate deficiency, c. MDS, and d. Aplastic anemia"
+      ],
+      "ans": 0,
+      "exp": "Note on p95 — Spherocytes are seen in: a. Hereditary spherocytes (uniform spherocytes), b. G6PD deficiency, c. Transfusion reaction, d. CuSO4 poisoning. (Book p95)"
+    },
+    {
+      "id": "MED-C16-49",
+      "sec": "Warm vs Cold AIHA: Treatment, Evans Syndrome & Spherocytes",
+      "page": 95,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — which of the following is NOT listed under 'Spherocytes are seen in' at the bottom of p95?",
+      "opts": [
+        "Hereditary spherocytosis (uniform spherocytes)",
+        "CuSO₄ poisoning",
+        "G6PD deficiency",
+        "Lead poisoning"
+      ],
+      "ans": 3,
+      "exp": "The p95 note lists spherocytes in: a. Hereditary spherocytes (uniform spherocytes), b. G6PD deficiency, c. Transfusion reaction, and d. CuSO4 poisoning. Lead poisoning causes basophilic stippling and sideroblastic anemia. (Book p95)"
+    },
+    {
+      "id": "MED-C16-50",
+      "sec": "Warm vs Cold AIHA: Treatment, Evans Syndrome & Spherocytes",
+      "page": 95,
+      "fmt": "fillup",
+      "q": "The final bullet in the p95 Note states that ____ activation happens in cold agglutinin disease.",
+      "opts": [
+        "FcγR",
+        "C3b",
+        "ADAMTS13",
+        "IgE"
+      ],
+      "ans": 1,
+      "exp": "Bottom bullet on p95: • C3b activation happens in cold agglutinin disease. (Book p95)"
+    },
+    {
+      "id": "MED-C16-51",
+      "sec": "Paroxysmal Cold Hemoglobinuria & Drug-Induced Hemolysis",
+      "page": 96,
+      "fmt": "recall",
+      "q": "At the top of p96, Paroxysmal Cold Hemoglobinuria (PCH) presents with which type of hemolysis and Coombs test status?",
+      "opts": [
+        "Insidious intramedullary hemolysis; Coombs test –ve",
+        "Chronic extravascular hemolysis in the spleen; Coombs test –ve",
+        "Mechanical fragmentation hemolysis; Coombs test –ve",
+        "Acute intravascular hemolysis; Coombs test +ve"
+      ],
+      "ans": 3,
+      "exp": "Paroxysmal Cold Hemoglobinuria (PCH) on p96: Acute intravascular hemolysis; Coombs test +ve. (Book p96)"
+    },
+    {
+      "id": "MED-C16-52",
+      "sec": "Paroxysmal Cold Hemoglobinuria & Drug-Induced Hemolysis",
+      "page": 96,
+      "fmt": "recall",
+      "q": "What is the thermal biphasic pathogenesis of Paroxysmal Cold Hemoglobinuria (PCH) on p96?",
+      "opts": [
+        "Drug-dependent IgG → binds to spectrin at room temperature → marrow aplasia at 37°C",
+        "Polyclonal IgG antibodies → bind to P-antigen of RBC at 4°C → intravascular hemolysis at 37°C",
+        "Monoclonal IgM antibodies → bind to I/i antigen of RBC at 37°C → splenic sequestration at 4°C",
+        "Polyclonal IgA antibodies → bind to Rh-D antigen at 37°C → hepatic extravascular lysis at 0°C"
+      ],
+      "ans": 1,
+      "exp": "Pathogenesis of PCH on p96: Polyclonal IgG antibodies → Bind to P-antigen of RBC at 4°C → Intravascular hemolysis at 37°C. (Book p96)"
+    },
+    {
+      "id": "MED-C16-53",
+      "sec": "Paroxysmal Cold Hemoglobinuria & Drug-Induced Hemolysis",
+      "page": 96,
+      "fmt": "fillup",
+      "q": "The target RBC antigen in Paroxysmal Cold Hemoglobinuria (PCH) on p96 is the ____.",
+      "opts": [
+        "P-antigen",
+        "I-antigen",
+        "Duffy antigen",
+        "Kell antigen"
+      ],
+      "ans": 0,
+      "exp": "Antigen : P-antigen. (Book p96)"
+    },
+    {
+      "id": "MED-C16-54",
+      "sec": "Paroxysmal Cold Hemoglobinuria & Drug-Induced Hemolysis",
+      "page": 96,
+      "fmt": "recall",
+      "q": "What two items are listed under 'Investigation' for Paroxysmal Cold Hemoglobinuria (PCH) on p96?",
+      "opts": [
+        "1. Donath–Landsteiner test; 2. Peripheral smear (PS): features of warm & cold hemolysis",
+        "1. Acid elution (Kleihauer–Betke) test; 2. Sickling test with sodium metabisulfite",
+        "1. Osmotic fragility test; 2. Hb electrophoresis: elevated HbA₂",
+        "1. Flow cytometry for CD55/CD59; 2. Bone marrow Prussian blue stain"
+      ],
+      "ans": 0,
+      "exp": "Investigation on p96: 1. Donath Landsteiner test; 2. PS : Features of warm & cold hemolysis. (Book p96)"
+    },
+    {
+      "id": "MED-C16-55",
+      "sec": "Paroxysmal Cold Hemoglobinuria & Drug-Induced Hemolysis",
+      "page": 96,
+      "fmt": "fillup",
+      "q": "The classic infectious association listed for Paroxysmal Cold Hemoglobinuria (PCH) on p96 is ____.",
+      "opts": [
+        "Tertiary syphilis",
+        "Visceral leishmaniasis",
+        "Falciparum malaria",
+        "Mycoplasma pneumoniae"
+      ],
+      "ans": 0,
+      "exp": "PCH on p96 — Associations : Tertiary syphilis. (Book p96)"
+    },
+    {
+      "id": "MED-C16-56",
+      "sec": "Paroxysmal Cold Hemoglobinuria & Drug-Induced Hemolysis",
+      "page": 96,
+      "fmt": "management",
+      "q": "What is the treatment listed for Paroxysmal Cold Hemoglobinuria (PCH) on p96?",
+      "opts": [
+        "Conservative",
+        "Allogeneic hematopoietic stem cell transplant",
+        "Emergency splenectomy",
+        "High-dose cyclophosphamide + mycophenolate"
+      ],
+      "ans": 0,
+      "exp": "PCH on p96 — Treatment : Conservative. (Book p96)"
+    },
+    {
+      "id": "MED-C16-57",
+      "sec": "Paroxysmal Cold Hemoglobinuria & Drug-Induced Hemolysis",
+      "page": 96,
+      "fmt": "recall",
+      "q": "Under 'Drug Induced Hemolysis' on p96, what are the three main mechanisms listed?",
+      "opts": [
+        "1. Complement regulator deficiency, 2. Spectrin cross-linking, and 3. Ferroportin inhibition",
+        "1. Oxidative Heinz-body lysis, 2. Pyrimidine antagonism, and 3. ALA synthase inhibition",
+        "1. Folate antagonism, 2. DNA chain termination, and 3. CUBAM blockade",
+        "1. Autoantibody mediated, 2. Immune complex mediated, and 3. Adsorption"
+      ],
+      "ans": 3,
+      "exp": "Drug Induced Hemolysis on p96 lists three mechanisms: 1. Autoantibody mediated, 2. Immune complex mediated, 3. Adsorption. (Book p96)"
+    },
+    {
+      "id": "MED-C16-58",
+      "sec": "Paroxysmal Cold Hemoglobinuria & Drug-Induced Hemolysis",
+      "page": 96,
+      "fmt": "recall",
+      "q": "Under '1. Autoantibody mediated' drug-induced hemolysis on p96, which two drugs are bracketed as 'Drug independent', and which one is marked most common (m/c)?",
+      "opts": [
+        "Isoniazid (m/c) and lenalidomide",
+        "Quinidine (m/c) and rifampicin",
+        "Penicillin (m/c) and cephalosporins",
+        "Methyldopa (m/c) and procainamide"
+      ],
+      "ans": 3,
+      "exp": "1. Autoantibody mediated: • Methyldopa (m/c) and • Procainamide are bracketed together as 'Drug independent'. (Book p96)"
+    },
+    {
+      "id": "MED-C16-59",
+      "sec": "Paroxysmal Cold Hemoglobinuria & Drug-Induced Hemolysis",
+      "page": 96,
+      "fmt": "recall",
+      "q": "Besides methyldopa and procainamide, which three other drugs/classes are listed under '1. Autoantibody mediated' on p96, and what is noted for lenalidomide?",
+      "opts": [
+        "Quinidine, rifampicin, and isoniazid (which causes cold autoimmune hemolysis)",
+        "Penicillin, cephalosporins, and lenalidomide (which causes cold autoimmune hemolysis)",
+        "Chloramphenicol, pyrazinamide, and lead (which causes cold autoimmune hemolysis)",
+        "Cytarabine, hydroxyurea, and 6-mercaptopurine (which causes cold autoimmune hemolysis)"
+      ],
+      "ans": 1,
+      "exp": "1. Autoantibody mediated also lists: • Penicillin, • Cephalosporins, • Lenalidomide : Cold autoimmune hemolysis. (Book p96)"
+    },
+    {
+      "id": "MED-C16-60",
+      "sec": "Paroxysmal Cold Hemoglobinuria & Drug-Induced Hemolysis",
+      "page": 96,
+      "fmt": "recall",
+      "q": "Which three drugs are listed under '2. Immune complex mediated' drug-induced hemolysis on p96?",
+      "opts": [
+        "Methyldopa, procainamide and lenalidomide",
+        "Quinidine, rifampicin and isoniazid",
+        "Cytarabine, hydroxyurea and 6-mercaptopurine",
+        "Triamterene, pyrimethamine and sulfasalazine"
+      ],
+      "ans": 1,
+      "exp": "2. Immune complex mediated on p96: • Quinidine, • Rifampicin, • Isoniazid. (Book p96)"
+    },
+    {
+      "id": "MED-C16-61",
+      "sec": "Paroxysmal Cold Hemoglobinuria & Drug-Induced Hemolysis",
+      "page": 96,
+      "fmt": "recall",
+      "q": "Under '3. Adsorption' (hapten mechanism) at the bottom of p96, which drug regimen and hemolysis site are specified?",
+      "opts": [
+        "Low-dose methyldopa : Intravascular",
+        "High-dose penicillin : Extravascular",
+        "Oral lenalidomide : Intravascular",
+        "Intravenous quinidine : Intramedullary"
+      ],
+      "ans": 1,
+      "exp": "3. Adsorption on p96: High dose penicillin : Extravascular. (Book p96)"
+    },
+    {
+      "id": "MED-C16-62",
+      "sec": "Paroxysmal Cold Hemoglobinuria & Drug-Induced Hemolysis",
+      "page": 96,
+      "fmt": "match",
+      "q": "Match each mechanism of drug-induced hemolysis on p96 to its classic culprit drug(s) — 1) Autoantibody mediated (drug-independent) 2) Autoantibody mediated (cold autoimmune hemolysis) 3) Immune complex mediated 4) Adsorption (extravascular) … A) Quinidine, rifampicin and isoniazid B) High-dose penicillin C) Methyldopa (m/c) and procainamide D) Lenalidomide",
+      "opts": [
+        "1-D, 2-C, 3-B, 4-A",
+        "1-A, 2-D, 3-C, 4-B",
+        "1-C, 2-B, 3-A, 4-D",
+        "1-C, 2-D, 3-A, 4-B"
+      ],
+      "ans": 3,
+      "exp": "Drug Induced Hemolysis on p96: Autoantibody drug-independent = Methyldopa (m/c) & Procainamide; Cold autoimmune = Lenalidomide; Immune complex = Quinidine, Rifampicin, Isoniazid; Adsorption = High dose penicillin (Extravascular). (Book p96)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U16-1",
+      "ch": 16,
+      "n": 1,
+      "title": "Immune Classification & Coombs Test",
+      "sec": "Classification of Immune Hemolysis & Coombs Test",
+      "guide": "Immune hemolytic anemia divides into autoimmune (warm IgG, cold IgM, PCH IgG/Donath–Landsteiner), alloimmune (HDN IgG, transfusion reaction) and drug-induced.\nAIHA presents as rapidly progressive extravascular hemolytic anemia; the Coombs test differentiates immune from non-immune anemia.\nDirect Coombs (DAT) uses polyvalent anti-human Ig to detect RBC surface antibodies (3+/4+ agglutination), followed by monovalent anti-IgG and anti-C3d.",
+      "qs": [
+        "MED-C16-01",
+        "MED-C16-02",
+        "MED-C16-03",
+        "MED-C16-04",
+        "MED-C16-05",
+        "MED-C16-06",
+        "MED-C16-07",
+        "MED-C16-08",
+        "MED-C16-09",
+        "MED-C16-10",
+        "MED-C16-11",
+        "MED-C16-12",
+        "MED-C16-13"
+      ]
+    },
+    {
+      "id": "MED-U16-2",
+      "ch": 16,
+      "n": 2,
+      "title": "DAT Subtyping & Warm vs Cold Etiology",
+      "sec": "Monovalent DAT Subtyping & Warm vs Cold AIHA Etiology",
+      "guide": "Anti-IgG+ / C3d± indicates warm AIHA (or drug-induced if negative); Anti-IgG– / C3d+ indicates cold AIHA, PCH (DL test+) or drug-induced (Ab+, DL–); multiple transfusions cause false-positive Coombs.\nWarm AIHA (m/c, IgG, 37°C, subacute 1–2 mo) is 50% idiopathic or secondary to SLE/CLL/HIV, autoimmune diseases (RA, PAN, IBD, scleroderma) and drugs (cephalosporins, drug-independent α-methyldopa).\nCold AIHA (IgM, 0–4°C, chronic indolent) is idiopathic cold agglutinin disease or secondary to Waldenström's (MYD88), lymphoma, infections (IM, EBV, CMV, Mycoplasma) and lenalidomide.",
+      "qs": [
+        "MED-C16-14",
+        "MED-C16-15",
+        "MED-C16-16",
+        "MED-C16-17",
+        "MED-C16-18",
+        "MED-C16-19",
+        "MED-C16-20",
+        "MED-C16-21",
+        "MED-C16-22",
+        "MED-C16-23",
+        "MED-C16-24",
+        "MED-C16-25",
+        "MED-C16-26",
+        "MED-C16-27",
+        "MED-C16-28",
+        "MED-C16-29",
+        "MED-C16-30",
+        "MED-C16-31"
+      ]
+    },
+    {
+      "id": "MED-U16-3",
+      "ch": 16,
+      "n": 3,
+      "title": "Warm vs Cold: Pathogenesis & Smear",
+      "sec": "Warm vs Cold AIHA: Pathogenesis, Clinical Features & Smear",
+      "guide": "Warm AIHA: splenic macrophage Fc receptors mediate pan-agglutination and extravascular destruction in the spleen, causing anemia, spherocytosis, moderate splenomegaly, jaundice and urobilinogen (+).\nCold AIHA: IgM agglutinates RBCs in peripheral extremities (causing acrocyanosis) and Kupffer cells mediate predominantly extravascular destruction in the liver (minimal intravascular).\nWarm AIHA smear shows variable spherocytes, fragmented/nucleated/polychromatic RBCs; cold AIHA smear shows agglutinated RBCs.",
+      "qs": [
+        "MED-C16-32",
+        "MED-C16-33",
+        "MED-C16-34",
+        "MED-C16-35",
+        "MED-C16-36",
+        "MED-C16-37",
+        "MED-C16-38",
+        "MED-C16-39"
+      ]
+    },
+    {
+      "id": "MED-U16-4",
+      "ch": 16,
+      "n": 4,
+      "title": "AIHA Treatment, Evans & Spherocytes",
+      "sec": "Warm vs Cold AIHA: Treatment, Evans Syndrome & Spherocytes",
+      "guide": "Schistocytes are fragmented/helmeted RBCs; warm AIHA is treated with steroids (1 mg/kg/d × 4 wk) + rituximab (100 mg/m² weekly × 4) with slow taper, and rituximab/cyclophosphamide/MMF/splenectomy on relapse.\nCold AIHA is treated with rituximab (best prognosis); C3b activation occurs in cold agglutinin disease.\nEvans syndrome (warm AIHA + thrombocytopenia) associates with CVID; spherocytes also occur in hereditary spherocytosis (uniform), G6PD deficiency, transfusion reaction and CuSO₄ poisoning.",
+      "qs": [
+        "MED-C16-40",
+        "MED-C16-41",
+        "MED-C16-42",
+        "MED-C16-43",
+        "MED-C16-44",
+        "MED-C16-45",
+        "MED-C16-46",
+        "MED-C16-47",
+        "MED-C16-48",
+        "MED-C16-49",
+        "MED-C16-50"
+      ]
+    },
+    {
+      "id": "MED-U16-5",
+      "ch": 16,
+      "n": 5,
+      "title": "PCH & Drug-Induced Hemolysis",
+      "sec": "Paroxysmal Cold Hemoglobinuria & Drug-Induced Hemolysis",
+      "guide": "Paroxysmal cold hemoglobinuria (PCH) causes Coombs-positive acute intravascular hemolysis: polyclonal IgG binds RBC P-antigen at 4°C and lyses cells at 37°C (Donath–Landsteiner test, tertiary syphilis, conservative Rx).\nDrug-induced autoantibody hemolysis includes drug-independent methyldopa (m/c) and procainamide, penicillin, cephalosporins and cold-reacting lenalidomide.\nImmune-complex hemolysis is caused by quinidine, rifampicin and isoniazid; adsorption hemolysis is caused by high-dose penicillin (extravascular).",
+      "qs": [
+        "MED-C16-51",
+        "MED-C16-52",
+        "MED-C16-53",
+        "MED-C16-54",
+        "MED-C16-55",
+        "MED-C16-56",
+        "MED-C16-57",
+        "MED-C16-58",
+        "MED-C16-59",
+        "MED-C16-60",
+        "MED-C16-61",
+        "MED-C16-62"
+      ]
+    }
+  ]
+}

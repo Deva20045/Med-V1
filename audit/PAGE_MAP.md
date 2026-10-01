@@ -7,7 +7,7 @@
 
 Formula: 01.pdf Book p = PDF page -12; 02.pdf Book p = PDF page +117; 03.pdf Book p = PDF page +247
 
-Chapter 1: 01.pdf PDF13-17 = p1-5. The audited run p46–76 is 01.pdf PDF58–88.
+Chapter 1: 01.pdf PDF13-17 = p1-5. The audited run through Chapter 18 (p1–106) is 01.pdf PDF13–118.
 
 ## Chapter sheet coverage verified (01.pdf)
 
@@ -25,4 +25,10 @@ Chapter 1: 01.pdf PDF13-17 = p1-5. The audited run p46–76 is 01.pdf PDF58–88
 | 10 | Irritable Bowel Syndrome | 63–65 | PDF75–77 |
 | 11 | Clinical Approach to Anemia | 66–69 | PDF78–81 |
 | 12 | Iron Metabolism | 70–76 | PDF82–88 |
-| 13 (next) | Approach To Microcytic Hypochromic Anemia | 77 | PDF89 |
+| 13 | Approach To Microcytic Hypochromic Anemia | 77–81 | PDF89–93 |
+| 14 | Macrocytic Anemia | 82–88 | PDF94–100 |
+| 15 | Approach to Hemolysis | 89–91 | PDF101–103 |
+| 16 | Immune Mediated Hemolytic Anemia | 92–96 | PDF104–108 |
+| 17 | Non-Immune Mediated Hemolytic Anemia | 97–102 | PDF109–114 |
+| 18 | Hemolytic Anemia : Miscellaneous | 103–106 | PDF115–118 |
+| 19 (next) | Myeloproliferative Neoplasms : Part 1 | 107 | PDF119 |

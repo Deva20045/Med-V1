@@ -1,0 +1,1791 @@
+{
+  "chapter": 14,
+  "title": "Macrocytic Anemia",
+  "pageRange": "82-88",
+  "questions": [
+    {
+      "id": "MED-C14-01",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "numeric",
+      "q": "At the top of the p82 classification chart, macrocytic anemia is defined by a Mean Corpuscular Volume (MCV) threshold of:",
+      "opts": [
+        "> 100 fL",
+        "80–100 fL",
+        "< 80 fL",
+        "> 120 fL"
+      ],
+      "ans": 0,
+      "exp": "The p82 chart begins with MCV > 100 fL, dividing into megaloblastic and normoblastic changes. (Book p82)"
+    },
+    {
+      "id": "MED-C14-02",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "recall",
+      "q": "Under MCV > 100 fL, what are the two main morphological branches in the p82 chart?",
+      "opts": [
+        "Intravascular hemolysis and extravascular hemolysis",
+        "Microcytic hypochromic changes and dimorphic changes",
+        "Hypoproliferative aplasia and hyperproliferative erythrocytosis",
+        "Megaloblastic changes (megaloblastic anemia) and normoblastic changes"
+      ],
+      "ans": 3,
+      "exp": "MCV > 100 fL branches into Megaloblastic changes (megaloblastic anemia) and Normoblastic changes. (Book p82)"
+    },
+    {
+      "id": "MED-C14-03",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "recall",
+      "q": "What is the first defining cellular feature listed under megaloblastic changes on p82?",
+      "opts": [
+        "Sickle-shaped normoblasts",
+        "Small enucleated microcytes",
+        "Large nucleated erythroid precursors",
+        "Ring-shaped mitochondrial iron deposits"
+      ],
+      "ans": 2,
+      "exp": "Megaloblastic changes: first bullet is Large nucleated erythroid precursors. (Book p82)"
+    },
+    {
+      "id": "MED-C14-04",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "recall",
+      "q": "What is the second defining cellular feature of megaloblastic changes on p82 regarding the nucleus?",
+      "opts": [
+        "Nuclear maturation lags (no condensation of chromatin)",
+        "Premature extrusion of the nucleus at the proerythroblast stage",
+        "Cytoplasmic maturation lags behind hypercondensed pyknotic chromatin",
+        "Mitotic arrest in metaphase with fragmentation of the nuclear envelope"
+      ],
+      "ans": 0,
+      "exp": "Megaloblastic changes: second bullet is Nuclear maturation lags (No condensation of chromatin). (Book p82)"
+    },
+    {
+      "id": "MED-C14-05",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "recall",
+      "q": "Which two classic vitamin deficiencies head the list of causes of megaloblastic changes on p82?",
+      "opts": [
+        "Vitamin B12 deficiency and folate deficiency",
+        "Vitamin C deficiency and vitamin D deficiency",
+        "Vitamin A deficiency and vitamin E deficiency",
+        "Pyridoxine deficiency and riboflavin deficiency"
+      ],
+      "ans": 0,
+      "exp": "Causes of megaloblastic changes start with Vit B12 deficiency and Folate deficiency. (Book p82)"
+    },
+    {
+      "id": "MED-C14-06",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "recall",
+      "q": "Which three drugs inhibiting DNA synthesis are specifically listed under causes of megaloblastic anemia on p82?",
+      "opts": [
+        "Cytarabine, hydroxyurea and 6-mercaptopurine",
+        "Chloramphenicol, isoniazid and pyrazinamide",
+        "Cisplatin, bleomycin and etoposide",
+        "Cyclophosphamide, vincristine and doxorubicin"
+      ],
+      "ans": 0,
+      "exp": "Drugs inhibiting DNA synthesis listed on p82 are cytarabine, hydroxyurea, and 6-mercaptopurine. (Book p82)"
+    },
+    {
+      "id": "MED-C14-07",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "fillup",
+      "q": "Besides Vitamin B12 and folate deficiency, which other B-vitamin deficiency is listed as a cause of megaloblastic anemia on p82? ____ deficiency.",
+      "opts": [
+        "Biotin",
+        "Thiamine",
+        "Pantothenic acid",
+        "Niacin"
+      ],
+      "ans": 1,
+      "exp": "Thiamine deficiency is listed as the fourth cause of megaloblastic anemia on p82. (Book p82)"
+    },
+    {
+      "id": "MED-C14-08",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "fillup",
+      "q": "The inherited metabolic disorder of pyrimidine metabolism listed as the fifth cause of megaloblastic anemia on p82 is ____.",
+      "opts": [
+        "Homocystinuria",
+        "Orotic aciduria",
+        "Alkaptonuria",
+        "Maple syrup urine disease"
+      ],
+      "ans": 1,
+      "exp": "Orotic aciduria (Pyrimidine metabolism) is the fifth listed cause of megaloblastic anemia on p82. (Book p82)"
+    },
+    {
+      "id": "MED-C14-09",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "recall",
+      "q": "Under normoblastic macrocytic changes on p82, bone marrow failure syndromes are subdivided into which two entities?",
+      "opts": [
+        "Paroxysmal nocturnal hemoglobinuria and Fanconi anemia",
+        "Myelodysplastic syndrome (MDS, macro-ovalocytes) and aplastic anemia",
+        "Myelofibrosis and polycythemia vera",
+        "Pure red cell aplasia and sideroblastic anemia"
+      ],
+      "ans": 1,
+      "exp": "Under Normoblastic changes, bone marrow failure syndromes branch into MDS (macro-ovalocytes) and Aplastic anemia. (Book p82)"
+    },
+    {
+      "id": "MED-C14-10",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "recall",
+      "q": "Which hepatic and nutritional conditions follow bone marrow failure syndromes under normoblastic macrocytic causes on p82?",
+      "opts": [
+        "Liver disease and scurvy",
+        "Celiac disease and pellagra",
+        "Tropical sprue and beriberi",
+        "Whipple's disease and rickets"
+      ],
+      "ans": 0,
+      "exp": "Normoblastic causes list: Bone marrow failure syndromes, Liver disease, Scurvy. (Book p82)"
+    },
+    {
+      "id": "MED-C14-11",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "recall",
+      "q": "Which endocrine and substance-related conditions are listed next under normoblastic macrocytic causes on p82?",
+      "opts": [
+        "Acromegaly and salicylate toxicity",
+        "Hypothyroidism and alcoholism",
+        "Cushing's syndrome and tobacco smoking",
+        "Hyperthyroidism and opioid use"
+      ],
+      "ans": 1,
+      "exp": "Normoblastic causes list continues with Hypothyroidism and Alcoholism. (Book p82)"
+    },
+    {
+      "id": "MED-C14-12",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "recall",
+      "q": "Why does brisk reticulocytosis produce normoblastic macrocytosis according to the p82 list?",
+      "opts": [
+        "Reticulocytes retain uncondensed nuclear chromatin",
+        "Reticulocytes accumulate excess membrane cholesterol from the liver",
+        "Reticulocytes are polychromatic big RBCs",
+        "Reticulocytes fuse in the splenic cords after acute hemorrhage"
+      ],
+      "ans": 2,
+      "exp": "The normoblastic list notes: Brisk reticulocytosis (Polychromatic big RBCs). (Book p82)"
+    },
+    {
+      "id": "MED-C14-13",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "recall",
+      "q": "Which two final conditions complete the list of normoblastic macrocytic causes on p82?",
+      "opts": [
+        "Chronic renal failure and asthma",
+        "Splenectomy and bronchiectasis",
+        "Lead poisoning and pulmonary embolism",
+        "Post bleeding and COPD"
+      ],
+      "ans": 3,
+      "exp": "The final two items under normoblastic changes on p82 are Post bleeding and COPD. (Book p82)"
+    },
+    {
+      "id": "MED-C14-14",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — which of the following is classified under megaloblastic changes rather than normoblastic changes on p82?",
+      "opts": [
+        "COPD",
+        "Scurvy",
+        "Hypothyroidism",
+        "Orotic aciduria"
+      ],
+      "ans": 3,
+      "exp": "Normoblastic causes on p82 are bone marrow failure syndromes (MDS, aplastic anemia), liver disease, scurvy, hypothyroidism, alcoholism, brisk reticulocytosis, post bleeding, and COPD; orotic aciduria is under megaloblastic changes. (Book p82)"
+    },
+    {
+      "id": "MED-C14-15",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "recall",
+      "q": "The peripheral blood smear image on p82 illustrates which red-cell morphology seen in liver disease?",
+      "opts": [
+        "Target cells",
+        "Helmet cells (schistocytes)",
+        "Tear-drop cells (dacrocytes)",
+        "Pencil cells"
+      ],
+      "ans": 0,
+      "exp": "The smear image on p82 is captioned 'Target cells in liver disease'. (Book p82)"
+    },
+    {
+      "id": "MED-C14-16",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "recall",
+      "q": "According to the p82 note, thiamine acts as a cofactor for which two enzyme systems involved in DNA synthesis?",
+      "opts": [
+        "ALA synthase and ferrochelatase",
+        "Methionine synthase and methylmalonyl-CoA mutase",
+        "Dihydrofolate reductase and thymidylate synthase",
+        "Pyruvate dehydrogenase and transketolase–transaldolase"
+      ],
+      "ans": 3,
+      "exp": "Note on p82: Thiamine acts as a co-factor for Pyruvate dehydrogenase and Transketolase–transaldolase → DNA synthesis. (Book p82)"
+    },
+    {
+      "id": "MED-C14-17",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "recall",
+      "q": "What are the three morphological changes in the smear of MDS listed on p82, and which one is marked most common (m/c)?",
+      "opts": [
+        "Microcytic hypochromic (most common), spherocytic and targetoid",
+        "Macrocytic (macro-ovalocytes, most common), megaloblastic and sideroblastic",
+        "Normocytic normochromic (most common), sickle-shaped and acanthocytic",
+        "Sideroblastic (most common), schistocytic and elliptocytic"
+      ],
+      "ans": 1,
+      "exp": "Morphological changes in smear of MDS: Macrocytic (macro-ovalocytes) : m/c, Megaloblastic, and Sideroblastic. (Book p82)"
+    },
+    {
+      "id": "MED-C14-18",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "numeric",
+      "q": "In the bottom comparison table on p82, what are the body stores of Vitamin B12 and Folic Acid respectively?",
+      "opts": [
+        "Vit B12: 3–7 µg; Folic Acid: 50 µg",
+        "Vit B12: 2–5 mg; Folic Acid: 5–10 mg",
+        "Vit B12: 5–10 mg; Folic Acid: 2–5 mg",
+        "Vit B12: 50–100 mg; Folic Acid: 500 mg"
+      ],
+      "ans": 1,
+      "exp": "Table on p82: Body stores — Vit B12: 2–5 mg; Folic Acid: 5–10 mg. (Book p82)"
+    },
+    {
+      "id": "MED-C14-19",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "numeric",
+      "q": "In the p82 comparison table, what is the Recommended Daily Allowance (RDA) of Vitamin B12 and Folic Acid respectively?",
+      "opts": [
+        "Vit B12: 3–7 µg/day; Folic Acid: 50 µg/day",
+        "Vit B12: 2–5 mg/day; Folic Acid: 5–10 mg/day",
+        "Vit B12: 1000 µg/day; Folic Acid: 400 mg/day",
+        "Vit B12: 50 µg/day; Folic Acid: 3–7 µg/day"
+      ],
+      "ans": 0,
+      "exp": "Table on p82: RDA — Vit B12: 3–7 µg/day; Folic Acid: 50 µg/day. (Book p82)"
+    },
+    {
+      "id": "MED-C14-20",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "numeric",
+      "q": "In the p82 comparison table, what is the time taken for depletion of Vitamin B12 versus Folic Acid?",
+      "opts": [
+        "Vit B12: 10–15 years; Folic Acid: 6–12 months",
+        "Vit B12: 2–5 months; Folic Acid: 1–2 years",
+        "Vit B12: Few weeks; Folic Acid: 2–5 years",
+        "Vit B12: 2–5 years; Folic Acid: Few weeks"
+      ],
+      "ans": 3,
+      "exp": "Table on p82: Time taken for depletion — Vit B12: 2–5 years; Folic Acid: Few weeks. (Book p82)"
+    },
+    {
+      "id": "MED-C14-21",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "match",
+      "q": "Match each parameter in the p82 comparison table to the printed values for Vitamin B12 and Folic Acid — 1) Body stores 2) Recommended Daily Allowance (RDA) 3) Time taken for depletion … A) Vit B12: 3–7 µg/day; Folic acid: 50 µg/day B) Vit B12: 2–5 years; Folic acid: Few weeks C) Vit B12: 2–5 mg; Folic acid: 5–10 mg",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 2,
+      "exp": "Table on p82: Body stores — Vit B12 2–5 mg, Folic acid 5–10 mg; RDA — Vit B12 3–7 µg/day, Folic acid 50 µg/day; Time taken for depletion — Vit B12 2–5 years, Folic acid few weeks. (Book p82)"
+    },
+    {
+      "id": "MED-C14-22",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "page": 82,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — according to the boxed note on p82, Vitamin B12 stores take more than 3 years to deplete, making deficiency less common even in vegetarians.",
+      "opts": [
+        "True — because the RDA of Vitamin B12 (50 µg/day) is lower than its 5–10 mg body store",
+        "True — Vit B12 stores take >3 years to deplete, so deficiency is less common even in vegetarians",
+        "False — Vitamin B12 stores deplete within a few weeks in strict vegetarians",
+        "False — Folic acid stores take >3 years to deplete, whereas B12 depletes in weeks"
+      ],
+      "ans": 1,
+      "exp": "Boxed note on p82: Vit B12 stores take >3 years to deplete → Deficiency is less common, even in vegetarians. (Book p82)"
+    },
+    {
+      "id": "MED-C14-23",
+      "sec": "Vitamin B12 Sources & Absorption Pathway",
+      "page": 83,
+      "fmt": "recall",
+      "q": "At the top of p83, what are the two major causes of Vitamin B12 deficiency?",
+      "opts": [
+        "Drug-induced inhibition and acute blood loss",
+        "Renal tubular loss and hepatic failure",
+        "Nutritional and increased physiological demand",
+        "Autoimmune and GI pathology"
+      ],
+      "ans": 3,
+      "exp": "Top of p83: Vitamin B-12 major causes of deficiency → Autoimmune and GI pathology. (Book p83)"
+    },
+    {
+      "id": "MED-C14-24",
+      "sec": "Vitamin B12 Sources & Absorption Pathway",
+      "page": 83,
+      "fmt": "fillup",
+      "q": "According to the note at the top of p83, the major cause of Folic acid (FA) deficiency is ____.",
+      "opts": [
+        "Terminal ileal resection",
+        "Nutritional",
+        "Achlorhydria",
+        "Autoimmune"
+      ],
+      "ans": 1,
+      "exp": "Note on p83: major cause of Folic acid (FA) deficiency → Nutritional. (Book p83)"
+    },
+    {
+      "id": "MED-C14-25",
+      "sec": "Vitamin B12 Sources & Absorption Pathway",
+      "page": 83,
+      "fmt": "recall",
+      "q": "In the Absorption of Vit-B12 flowchart on p83, what is the most common (m/c) dietary source of Vitamin B12?",
+      "opts": [
+        "Green leafy vegetables",
+        "Animal origin",
+        "Citrus fruits and legumes",
+        "Whole grains and tubers"
+      ],
+      "ans": 1,
+      "exp": "Vitamin B12 in diet : m/c animal origin. (Book p83)"
+    },
+    {
+      "id": "MED-C14-26",
+      "sec": "Vitamin B12 Sources & Absorption Pathway",
+      "page": 83,
+      "fmt": "recall",
+      "q": "Which two active cobalamin forms are listed for dietary Vitamin B12 on p83?",
+      "opts": [
+        "Tetrahydrofolate and dihydrofolate",
+        "Monoglutamate and polyglutamate",
+        "Adenosylcobalamin and methylcobalamin",
+        "Cyanocobalamin and hydroxocobalamin"
+      ],
+      "ans": 2,
+      "exp": "Vitamin B12 in diet : m/c animal origin → Adenosylcobalamine and Methylcobalamine. (Book p83)"
+    },
+    {
+      "id": "MED-C14-27",
+      "sec": "Vitamin B12 Sources & Absorption Pathway",
+      "page": 83,
+      "fmt": "fillup",
+      "q": "In the stomach, dietary Vitamin B12 combines with ____ (present in saliva) to form a complex.",
+      "opts": [
+        "Cubilin-amnionless (CUBAM)",
+        "R-factor / Haptocorrin",
+        "Intrinsic factor (IF)",
+        "Transcobalamin-2 (TC-2)"
+      ],
+      "ans": 1,
+      "exp": "Stomach: Combines with R-factor/Haptocorrin (present in saliva) to form a complex. (Book p83)"
+    },
+    {
+      "id": "MED-C14-28",
+      "sec": "Vitamin B12 Sources & Absorption Pathway",
+      "page": 83,
+      "fmt": "recall",
+      "q": "Where do pancreatic enzymes split the Vitamin B12–R-factor complex according to the p83 pathway?",
+      "opts": [
+        "Terminal ileum",
+        "Gastric fundus and body",
+        "Duodenum (Parts 2 and 3)",
+        "Distal jejunum"
+      ],
+      "ans": 2,
+      "exp": "Duodenum (Parts 2 & 3): Pancreatic enzymes split the complex. (Book p83)"
+    },
+    {
+      "id": "MED-C14-29",
+      "sec": "Vitamin B12 Sources & Absorption Pathway",
+      "page": 83,
+      "fmt": "recall",
+      "q": "After pancreatic enzymes split the R-factor complex in the duodenum, Vitamin B12 combines with:",
+      "opts": [
+        "Secretin released by duodenal S cells",
+        "Transcobalamin-1 secreted by granulocytes",
+        "Intrinsic Factor (IF) secreted by parietal cells",
+        "Pepsinogen secreted by chief cells"
+      ],
+      "ans": 2,
+      "exp": "Vit B12 combines with Intrinsic Factor (IF) secreted by parietal cells. (Book p83)"
+    },
+    {
+      "id": "MED-C14-30",
+      "sec": "Vitamin B12 Sources & Absorption Pathway",
+      "page": 83,
+      "fmt": "recall",
+      "q": "In the ileum, the IF–B12 complex binds to which specific receptor complex before being released into circulation?",
+      "opts": [
+        "DMT-1 (divalent metal transporter-1) receptors",
+        "ASBT (apical sodium-dependent bile acid transporter)",
+        "CUBAM receptors (cubilin–amnionless complex)",
+        "Heme carrier protein-1 (HCP-1) receptors"
+      ],
+      "ans": 2,
+      "exp": "Ileum: IF–B12 complex + CUBAM receptors (Cubilin amnionless complex) → Released into circulation. (Book p83)"
+    },
+    {
+      "id": "MED-C14-31",
+      "sec": "Vitamin B12 Sources & Absorption Pathway",
+      "page": 83,
+      "fmt": "fillup",
+      "q": "Once released into circulation, Vitamin B12 binds with Transcobalamin-2 (TC-2) to form ____.",
+      "opts": [
+        "Haptocorrin",
+        "Hemosiderin",
+        "Holotranscobalamin",
+        "Apotranscobalamin"
+      ],
+      "ans": 2,
+      "exp": "Circulation: Binds with Transcobalamin-2 (TC-2) to form holotranscobalamin. (Book p83)"
+    },
+    {
+      "id": "MED-C14-32",
+      "sec": "Vitamin B12 Sources & Absorption Pathway",
+      "page": 83,
+      "fmt": "recall",
+      "q": "What is the destination and function of holotranscobalamin at the bottom of the p83 absorption flowchart?",
+      "opts": [
+        "Reaches duodenum for ferroportin upregulation",
+        "Reaches bone marrow for hemoglobin synthesis and RBC maturation",
+        "Reaches renal cortex for erythropoietin transcription",
+        "Reaches spleen for macrophage iron recycling"
+      ],
+      "ans": 1,
+      "exp": "Holotranscobalamin reaches bone marrow → Bone marrow: Hemoglobin synthesis & RBC maturation. (Book p83)"
+    },
+    {
+      "id": "MED-C14-33",
+      "sec": "Vitamin B12 Sources & Absorption Pathway",
+      "page": 83,
+      "fmt": "recall",
+      "q": "In the bottom note on p83, parietal cells located in the body, neck, and isthmus of the stomach secrete which two substances?",
+      "opts": [
+        "Mucin and somatostatin",
+        "Pepsinogen and gastrin",
+        "HCl and Intrinsic factor (IF)",
+        "Histamine and R-factor"
+      ],
+      "ans": 2,
+      "exp": "Note on p83: Stomach — Body, neck, isthmus : Parietal cells secrete HCl and Intrinsic factor (IF). (Book p83)"
+    },
+    {
+      "id": "MED-C14-34",
+      "sec": "Vitamin B12 Sources & Absorption Pathway",
+      "page": 83,
+      "fmt": "recall",
+      "q": "In the bottom note on p83, which cells are located at the base of the gastric gland and what do they secrete?",
+      "opts": [
+        "Mucous neck cells secrete bicarbonate",
+        "G cells secrete gastrin",
+        "Chief cells secrete pepsinogen",
+        "Parietal cells secrete intrinsic factor"
+      ],
+      "ans": 2,
+      "exp": "Note on p83: Base : Chief cells secrete pepsinogen. (Book p83)"
+    },
+    {
+      "id": "MED-C14-35",
+      "sec": "Vitamin B12 Sources & Absorption Pathway",
+      "page": 83,
+      "fmt": "match",
+      "q": "Match each component of the gastric cobalamin phase and p83 bottom note to its cell type or function — 1) Salivary R-binder 2) Body, neck and isthmus of gastric gland 3) Base of gastric gland … A) Chief cells secreting pepsinogen B) Binds free cobalamin released from food by HCl and pepsin C) Parietal cells secreting HCl and Intrinsic Factor (IF)",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 2,
+      "exp": "On p83: salivary R-binder binds free cobalamin in the stomach; Note at bottom of p83: Body, neck, isthmus — Parietal cells secrete HCl and Intrinsic factor (IF); Base — Chief cells secrete pepsinogen. (Book p83)"
+    },
+    {
+      "id": "MED-C14-36",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "recall",
+      "q": "Under autoimmune causes of Vitamin B12 deficiency on p84, which condition is identified as the 'most important cause'?",
+      "opts": [
+        "Pernicious anemia",
+        "Celiac disease",
+        "Autoimmune pancreatitis",
+        "Primary biliary cholangitis"
+      ],
+      "ans": 0,
+      "exp": "1. Autoimmune: Pernicious anemia — most important cause. (Book p84)"
+    },
+    {
+      "id": "MED-C14-37",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "recall",
+      "q": "In pernicious anemia on p84, antibodies are produced against which two targets?",
+      "opts": [
+        "Enterochromaffin-like (ECL) cells and haptocorrin",
+        "Chief cells and pepsinogen",
+        "G cells and gastrin receptors",
+        "Parietal cells and Intrinsic Factor (IF)"
+      ],
+      "ans": 3,
+      "exp": "Pernicious anemia: Antibodies produced against parietal cells and IF. (Book p84)"
+    },
+    {
+      "id": "MED-C14-38",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "recall",
+      "q": "According to the side note on p84, which three substances are absorbed ONLY at the ileum?",
+      "opts": [
+        "Vitamin B12, folate and thiamine",
+        "Vitamin B12, bile acids and magnesium",
+        "Bile acids, copper and zinc",
+        "Iron, calcium and folate"
+      ],
+      "ans": 1,
+      "exp": "Note on p84: Substances absorbed only at ileum: Vit B12, Bile acids, Magnesium. (Book p84)"
+    },
+    {
+      "id": "MED-C14-39",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "recall",
+      "q": "Which three ileal diseases are listed under cause #2 of Vitamin B12 deficiency on p84?",
+      "opts": [
+        "Crohn's disease, tropical sprue and tuberculosis (TB)",
+        "Short bowel syndrome, carcinoid tumor and lymphoma",
+        "Microscopic colitis, diversion colitis and Giardia",
+        "Ulcerative colitis, celiac disease and Whipple's disease"
+      ],
+      "ans": 0,
+      "exp": "2. Ileal disease: Crohn's disease, Tropical Sprue, TB. (Book p84)"
+    },
+    {
+      "id": "MED-C14-40",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "recall",
+      "q": "How does Small Intestinal Bacterial Overgrowth (SIBO, cause #3 on p84) lead to Vitamin B12 deficiency?",
+      "opts": [
+        "Bacteria in the stomach cleave intrinsic factor before it reaches the duodenum",
+        "Bacteria from the large bowel migrate to the small bowel and consume Vitamin B12",
+        "Bacteria in the jejunum secrete antibodies against CUBAM receptors",
+        "Bacteria in the colon oxidize transcobalamin-2 in portal blood"
+      ],
+      "ans": 1,
+      "exp": "3. SIBO: Bacteria from large bowel migrate to small bowel → consume Vit B12. (Book p84)"
+    },
+    {
+      "id": "MED-C14-41",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "recall",
+      "q": "Which three systemic disorders are given as examples of dysmotility causing SIBO on p84?",
+      "opts": [
+        "Scleroderma, diabetes mellitus (DM) and amyloidosis",
+        "Multiple sclerosis, myasthenia gravis and Guillain–Barré syndrome",
+        "Systemic lupus erythematosus, gout and ankylosing spondylitis",
+        "Hyperthyroidism, Addison's disease and pheochromocytoma"
+      ],
+      "ans": 0,
+      "exp": "SIBO causes — Dysmotility: E.g. in Scleroderma, DM, Amyloidosis. (Book p84)"
+    },
+    {
+      "id": "MED-C14-42",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "recall",
+      "q": "Besides dysmotility, which two additional causes of SIBO are listed on p84?",
+      "opts": [
+        "NSAIDs (cause mucosal erosions) and pyloric stenosis",
+        "PPIs (cause hypochlorhydria) and blind loop syndrome",
+        "Antacids and Meckel diverticulum",
+        "H2 blockers and Zenker diverticulum"
+      ],
+      "ans": 1,
+      "exp": "SIBO causes on p84: Dysmotility (Scleroderma, DM, Amyloidosis), PPIs (cause hypochlorhydria), and Blind loop syndrome. (Book p84)"
+    },
+    {
+      "id": "MED-C14-43",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "recall",
+      "q": "Which transport-protein defect is listed first under congenital causes (cause #4) of Vitamin B12 deficiency on p84?",
+      "opts": [
+        "Ceruloplasmin deficiency",
+        "Transcobalamin-1 deficiency",
+        "Transcobalamin-2 deficiency",
+        "Haptocorrin excess"
+      ],
+      "ans": 2,
+      "exp": "4. Congenital: first bullet is Transcobalamin-2 deficiency. (Book p84)"
+    },
+    {
+      "id": "MED-C14-44",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "recall",
+      "q": "Under congenital causes on p84, a CUBAM mutation causes which named syndrome and clinical triad/pair?",
+      "opts": [
+        "Hartnup disease (B12 deficiency + aminoaciduria)",
+        "Fanconi syndrome (B12 deficiency + glycosuria)",
+        "Imerslund–Gräsbeck syndrome (B12 deficiency + proteinuria)",
+        "Plummer–Vinson syndrome (B12 deficiency + esophageal webs)"
+      ],
+      "ans": 2,
+      "exp": "4. Congenital: CUBAM mutation causing Imerslund-Grasbeck syndrome (B12 deficiency + proteinuria). (Book p84)"
+    },
+    {
+      "id": "MED-C14-45",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "fillup",
+      "q": "Cause #5 of Vitamin B12 deficiency on p84 is fish tapeworm infection caused by ____.",
+      "opts": [
+        "Diphyllobothrium latum",
+        "Taenia solium",
+        "Echinococcus granulosus",
+        "Schistosoma haematobium"
+      ],
+      "ans": 0,
+      "exp": "5. Fish tapeworm (Diphyllobothrium latum) infection. (Book p84)"
+    },
+    {
+      "id": "MED-C14-46",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "recall",
+      "q": "According to the note below fish tapeworm on p84, what deficiency is caused by Ancylostoma (hookworm)?",
+      "opts": [
+        "Folic acid deficiency",
+        "Iron deficiency",
+        "Vitamin B12 deficiency",
+        "Copper deficiency"
+      ],
+      "ans": 1,
+      "exp": "Note on p84: Ancylostoma (Hookworm) : Causes iron deficiency. (Book p84)"
+    },
+    {
+      "id": "MED-C14-47",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "match",
+      "q": "Match each intestinal cause or helminth on p84 to its resulting hematological deficiency or mechanism — 1) Diphyllobothrium latum (fish tapeworm) 2) Ancylostoma (hookworm) 3) Terminal ileal resection or Crohn disease … A) Iron deficiency B) Loss of ileal IF–Cbl receptor absorption site C) Vitamin B12 deficiency",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "5. Fish tapeworm (Diphyllobothrium latum) infection causes Vit B12 deficiency; ileal disease/resection impairs ileal Cbl absorption; Note: Ancylostoma (Hookworm) causes iron deficiency. (Book p84)"
+    },
+    {
+      "id": "MED-C14-48",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "recall",
+      "q": "In the Transcobalamin (TC) types chart on p84, which cells produce TC-1?",
+      "opts": [
+        "Gastric parietal cells",
+        "Hepatocytes",
+        "Ileal enterocytes",
+        "Granulocytes"
+      ],
+      "ans": 3,
+      "exp": "TC-1: Produced by granulocytes. (Book p84)"
+    },
+    {
+      "id": "MED-C14-49",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "recall",
+      "q": "Why is TC-1 increased in myeloproliferative neoplasms (MPN), and what laboratory effect does this produce?",
+      "opts": [
+        "MPN causes megakaryocyte aplasia, leading to absent holotranscobalamin",
+        "MPN causes lysis of erythroblasts, leading to decreased Vitamin B12 binding capacity",
+        "MPN causes proliferation of mature granulocytes, leading to increased Vitamin B12 binding capacity",
+        "MPN causes hepatic fibrosis, leading to urinary loss of Vitamin B12"
+      ],
+      "ans": 2,
+      "exp": "↑ TC-1 in myeloproliferative neoplasms (MPN) (MPN → Proliferation of mature granulocytes) → Causes ↑ Vit-B12 binding capacity. (Book p84)"
+    },
+    {
+      "id": "MED-C14-50",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "recall",
+      "q": "Where is Transcobalamin-2 (TC-2) produced, and what is its role on p84?",
+      "opts": [
+        "Produced by salivary glands; protects B12 from gastric acid",
+        "Produced exclusively by mature granulocytes; stores B12 in bone marrow",
+        "Produced by renal tubular cells; reabsorbs B12 from glomerular filtrate",
+        "Produced in all tissues, especially liver; has an important role in transport"
+      ],
+      "ans": 3,
+      "exp": "TC-2: Produced in all tissues, especially liver; Important role in transport. (Book p84)"
+    },
+    {
+      "id": "MED-C14-51",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "recall",
+      "q": "How is the role of Transcobalamin-3 (TC-3) described in the p84 chart?",
+      "opts": [
+        "Has some role in transport",
+        "Primary receptor for ileal absorption",
+        "Inhibitor of intrinsic factor binding",
+        "Sole storage protein inside hepatocytes"
+      ],
+      "ans": 0,
+      "exp": "TC-3: Has some role in transport. (Book p84)"
+    },
+    {
+      "id": "MED-C14-52",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "match",
+      "q": "Match each Transcobalamin (TC) type on p84 to its source and clinical role — 1) TC-1 2) TC-2 3) TC-3 … A) Produced by granulocytes; increased in MPN, causing increased Vit-B12 binding capacity B) Has some role in transport C) Produced in all tissues (especially liver); important role in transport",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 3,
+      "exp": "TC-1 is produced by granulocytes and ↑ in MPN (→ ↑ Vit-B12 binding capacity); TC-2 is produced in all tissues, especially liver, with an important role in transport; TC-3 has some role in transport. (Book p84)"
+    },
+    {
+      "id": "MED-C14-53",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "fillup",
+      "q": "At the bottom of p84 under Functions, Vitamin B12 acts as a cofactor for Process 1: converting Homocysteine into ____.",
+      "opts": [
+        "Succinyl CoA",
+        "Methionine",
+        "Cystathionine",
+        "Tetrahydrofolate"
+      ],
+      "ans": 1,
+      "exp": "Functions: Co-factor for 2 processes — 1. Homocysteine --(Vit B12)--> Methionine. (Book p84)"
+    },
+    {
+      "id": "MED-C14-54",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "page": 84,
+      "fmt": "fillup",
+      "q": "At the bottom of p84 under Functions, Vitamin B12 acts as a cofactor for Process 2: converting Methylmalonyl CoA into ____.",
+      "opts": [
+        "Succinyl CoA",
+        "Propionyl CoA",
+        "Acetyl CoA",
+        "Malonyl CoA"
+      ],
+      "ans": 0,
+      "exp": "Functions: Co-factor for 2 processes — 2. Methylmalonyl CoA --(Vit B12)--> Succinyl CoA. (Book p84)"
+    },
+    {
+      "id": "MED-C14-55",
+      "sec": "Folic Acid Metabolism, Folate Trap & Deficiency Causes",
+      "page": 85,
+      "fmt": "fillup",
+      "q": "Under Metabolism of Folic Acid on p85, the site of absorption is the proximal small intestine, specifically the ____.",
+      "opts": [
+        "Jejunum and duodenum",
+        "Terminal ileum and cecum",
+        "Distal ileum and ascending colon",
+        "Stomach body and fundus"
+      ],
+      "ans": 0,
+      "exp": "Metabolism of Folic Acid: Site of absorption : Proximal small intestine (Jejunum & duodenum). (Book p85)"
+    },
+    {
+      "id": "MED-C14-56",
+      "sec": "Folic Acid Metabolism, Folate Trap & Deficiency Causes",
+      "page": 85,
+      "fmt": "recall",
+      "q": "In the intestinal lumen diagram on p85, what is the major form of folate in food?",
+      "opts": [
+        "Cyanocobalamin",
+        "Adenosylcobalamin",
+        "5-methyl THFA",
+        "Monoglutamate"
+      ],
+      "ans": 3,
+      "exp": "In intestinal lumen: Monoglutamate (major form in food). (Book p85)"
+    },
+    {
+      "id": "MED-C14-57",
+      "sec": "Folic Acid Metabolism, Folate Trap & Deficiency Causes",
+      "page": 85,
+      "fmt": "recall",
+      "q": "In the p85 folate metabolism diagram, monoglutamate is converted into which form that serves as the 'circulating & storage form'?",
+      "opts": [
+        "Holotranscobalamin",
+        "5-methyl THFA",
+        "Formiminoglutamate (FIGLU)",
+        "Dihydrofolate (DHFA)"
+      ],
+      "ans": 1,
+      "exp": "Monoglutamate (major form in food) → 5-methyl THFA (Circulating & storage form). (Book p85)"
+    },
+    {
+      "id": "MED-C14-58",
+      "sec": "Folic Acid Metabolism, Folate Trap & Deficiency Causes",
+      "page": 85,
+      "fmt": "recall",
+      "q": "In the p85 diagram, the conversion of 5-methyl THFA to active THFA is coupled to which Vitamin B12-dependent reaction?",
+      "opts": [
+        "Succinyl CoA + Glycine → ALA",
+        "Methylmalonyl CoA → Succinyl CoA",
+        "Pyruvate → Acetyl CoA",
+        "Homocysteine → Methionine"
+      ],
+      "ans": 3,
+      "exp": "The arrow from 5-methyl THFA to THFA is coupled with Homocysteine --(Vit B12)--> Methionine. (Book p85)"
+    },
+    {
+      "id": "MED-C14-59",
+      "sec": "Folic Acid Metabolism, Folate Trap & Deficiency Causes",
+      "page": 85,
+      "fmt": "recall",
+      "q": "What are the two functions of THFA shown at the right end of the p85 metabolism diagram?",
+      "opts": [
+        "Disulfide bond reduction and glutathione regeneration",
+        "1-carbon transfer and DNA synthesis",
+        "Myelin lipid methylation and odd-chain fatty acid synthesis",
+        "Heme iron oxidation and globin folding"
+      ],
+      "ans": 1,
+      "exp": "THFA : Function → 1-carbon transfer and DNA synthesis. (Book p85)"
+    },
+    {
+      "id": "MED-C14-60",
+      "sec": "Folic Acid Metabolism, Folate Trap & Deficiency Causes",
+      "page": 85,
+      "fmt": "recall",
+      "q": "In the p85 comparison table, what is the pattern of 5-methyl/THFA levels across Folate deficiency, Vit B12 deficiency, and combined Vit B12 + Folate deficiency?",
+      "opts": [
+        "Folate deficiency: Ⓝ; Vit B12 deficiency: ↑; Vit B12 + Folate deficiency: ↑",
+        "Folate deficiency: ↑; Vit B12 deficiency: ↓; Vit B12 + Folate deficiency: ↑",
+        "Folate deficiency: ↓; Vit B12 deficiency: ↑; Vit B12 + Folate deficiency: ↓",
+        "Folate deficiency: ↓; Vit B12 deficiency: ↓; Vit B12 + Folate deficiency: Ⓝ"
+      ],
+      "ans": 2,
+      "exp": "5-methyl/THFA levels row on p85: Folate deficiency ↓, Vit B12 deficiency ↑, Vit B12 + Folate deficiency ↓. (Book p85)"
+    },
+    {
+      "id": "MED-C14-61",
+      "sec": "Folic Acid Metabolism, Folate Trap & Deficiency Causes",
+      "page": 85,
+      "fmt": "recall",
+      "q": "In the p85 comparison table, what happens to Homocysteine levels across Folate deficiency, Vit B12 deficiency, and combined Vit B12 + Folate deficiency?",
+      "opts": [
+        "Increased (↑) in Vit B12 deficiency but normal (Ⓝ) in folate deficiency",
+        "Decreased (↓) in folate deficiency and increased (↑) in Vit B12 deficiency",
+        "Increased (↑) in all three conditions",
+        "Normal (Ⓝ) in isolated deficiencies and increased (↑) only in combined deficiency"
+      ],
+      "ans": 2,
+      "exp": "Homocysteine levels row on p85: Folate deficiency ↑, Vit B12 deficiency ↑, Vit B12 + Folate deficiency ↑. (Book p85)"
+    },
+    {
+      "id": "MED-C14-62",
+      "sec": "Folic Acid Metabolism, Folate Trap & Deficiency Causes",
+      "page": 85,
+      "fmt": "recall",
+      "q": "In the p85 comparison table, how do Methylmalonyl CoA levels distinguish Folate deficiency from Vit B12 deficiency (and combined deficiency)?",
+      "opts": [
+        "Increased (↑) in all three conditions equally",
+        "Increased (↑) in folate deficiency; normal (Ⓝ) in Vit B12 deficiency",
+        "Decreased (↓) in folate deficiency; normal (Ⓝ) in Vit B12 deficiency",
+        "Normal (Ⓝ) in folate deficiency; increased (↑) in Vit B12 deficiency and in combined Vit B12 + folate deficiency"
+      ],
+      "ans": 3,
+      "exp": "Methylmalonyl CoA levels row on p85: Folate deficiency Ⓝ, Vit B12 deficiency ↑, Vit B12 + Folate deficiency ↑. (Book p85)"
+    },
+    {
+      "id": "MED-C14-63",
+      "sec": "Folic Acid Metabolism, Folate Trap & Deficiency Causes",
+      "page": 85,
+      "fmt": "recall",
+      "q": "In the p85 comparison table, what is the Red cell folate level entry under Vit B12 deficiency?",
+      "opts": [
+        "Always normal (Ⓝ)",
+        "Completely absent (0)",
+        "Decreased or normal (↓ / Ⓝ)",
+        "Markedly increased (↑↑)"
+      ],
+      "ans": 2,
+      "exp": "Red cell folate levels row on p85 shows ↓ / Ⓝ under Vit B12 deficiency (and dashes under the other two columns). (Book p85)"
+    },
+    {
+      "id": "MED-C14-64",
+      "sec": "Folic Acid Metabolism, Folate Trap & Deficiency Causes",
+      "page": 85,
+      "fmt": "match",
+      "q": "Match each deficiency column in the p85 table to its metabolic profile — 1) Folate deficiency 2) Vitamin B12 deficiency 3) Combined Vit B12 + Folate deficiency … A) 5-methyl/THFA ↑, Homocysteine ↑, Methylmalonyl CoA ↑, Red cell folate ↓/Ⓝ B) 5-methyl/THFA ↓, Homocysteine ↑, Methylmalonyl CoA Ⓝ C) 5-methyl/THFA ↓, Homocysteine ↑, Methylmalonyl CoA ↑",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 0,
+      "exp": "p85 table: Folate deficiency has 5-methyl/THFA ↓, Homocysteine ↑, Methylmalonyl CoA Ⓝ; Vit B12 deficiency has 5-methyl/THFA ↑, Homocysteine ↑, Methylmalonyl CoA ↑, Red cell folate ↓/Ⓝ; Combined deficiency has 5-methyl/THFA ↓, Homocysteine ↑, Methylmalonyl CoA ↑. (Book p85)"
+    },
+    {
+      "id": "MED-C14-65",
+      "sec": "Folic Acid Metabolism, Folate Trap & Deficiency Causes",
+      "page": 85,
+      "fmt": "fillup",
+      "q": "In the p85 note, the 'Folate trap' is defined as Vitamin B12 deficiency leading to accumulation of ____.",
+      "opts": [
+        "Succinyl CoA",
+        "Monoglutamate",
+        "Methionine",
+        "5-methyl THFA"
+      ],
+      "ans": 3,
+      "exp": "Note on p85: Folate trap : Vit B12 deficiency → Accumulation of 5-methyl THFA. (Book p85)"
+    },
+    {
+      "id": "MED-C14-66",
+      "sec": "Folic Acid Metabolism, Folate Trap & Deficiency Causes",
+      "page": 85,
+      "fmt": "recall",
+      "q": "In the 'Causes of Deficiency (Based on mechanism)' chart for folic acid on p85, what is labelled as the 'major cause' under ↓ Intake?",
+      "opts": [
+        "Nutritional",
+        "Fish tapeworm infection",
+        "Blind loop syndrome",
+        "Autoimmune gastritis"
+      ],
+      "ans": 0,
+      "exp": "↓ Intake (major cause) → Nutritional. (Book p85)"
+    },
+    {
+      "id": "MED-C14-67",
+      "sec": "Folic Acid Metabolism, Folate Trap & Deficiency Causes",
+      "page": 85,
+      "fmt": "recall",
+      "q": "Under the '↓ absorption' branch of folic acid deficiency on p85, which intestinal disorder is specifically listed?",
+      "opts": [
+        "Hirschsprung disease",
+        "Ulcerative proctitis",
+        "Diverticulosis",
+        "Celiac disease"
+      ],
+      "ans": 3,
+      "exp": "↓ absorption → Celiac disease. (Book p85)"
+    },
+    {
+      "id": "MED-C14-68",
+      "sec": "Folic Acid Metabolism, Folate Trap & Deficiency Causes",
+      "page": 85,
+      "fmt": "recall",
+      "q": "Which three conditions are listed under the '↑ demand' branch of folic acid deficiency on p85?",
+      "opts": [
+        "COPD, polycythemia vera and hemochromatosis",
+        "Pregnancy, growth and hemolysis (compensatory erythropoiesis)",
+        "Hypothyroidism, aplastic anemia and chronic kidney disease",
+        "Cirrhosis, nephrotic syndrome and heart failure"
+      ],
+      "ans": 1,
+      "exp": "↑ demand → Pregnancy, Growth, Hemolysis (Compensatory erythropoiesis). (Book p85)"
+    },
+    {
+      "id": "MED-C14-69",
+      "sec": "Folic Acid Metabolism, Folate Trap & Deficiency Causes",
+      "page": 85,
+      "fmt": "recall",
+      "q": "Which six drugs or drug classes are listed under the 'Drugs' branch of folic acid deficiency on p85?",
+      "opts": [
+        "Chloramphenicol, isoniazid, pyrazinamide, rifampicin, ethambutol and levofloxacin",
+        "Warfarin, heparin, aspirin, clopidogrel, dabigatran and rivaroxaban",
+        "Azathioprine, mycophenolate, cyclosporine, tacrolimus, sirolimus and prednisolone",
+        "Folate antagonists (methotrexate), sulfasalazine, PPIs, pyrimethamine, triamterene and phenytoin"
+      ],
+      "ans": 3,
+      "exp": "Drugs causing folate deficiency on p85: Folate antagonists (methotrexate), Sulfasalazine, PPIs, Pyrimethamine, Triamterene, and Phenytoin. (Book p85)"
+    },
+    {
+      "id": "MED-C14-70",
+      "sec": "Folic Acid Metabolism, Folate Trap & Deficiency Causes",
+      "page": 85,
+      "fmt": "match",
+      "q": "Match each mechanism of folic acid deficiency on p85 to its printed etiology — 1) Decreased intake (major cause) 2) Decreased absorption 3) Increased demand … A) Celiac disease B) Pregnancy, growth and hemolysis (compensatory erythropoiesis) C) Nutritional",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 3,
+      "exp": "Causes of folate deficiency based on mechanism: ↓ Intake (major cause) → Nutritional; ↓ Absorption → Celiac disease; ↑ Demand → Pregnancy, Growth, Hemolysis (compensatory erythropoiesis). (Book p85)"
+    },
+    {
+      "id": "MED-C14-71",
+      "sec": "Diagnosis of Megaloblastic Anemia & Bone Marrow",
+      "page": 86,
+      "fmt": "numeric",
+      "q": "Under Diagnosis of Megaloblastic Anemia on p86, what serum Vitamin B12 threshold indicates 'Normal levels'?",
+      "opts": [
+        "100–200 pg",
+        "200–300 pg",
+        "< 200 pg",
+        "> 300 pg"
+      ],
+      "ans": 3,
+      "exp": "1. Serum Vit B12 levels: > 300 pg → Normal levels. (Book p86)"
+    },
+    {
+      "id": "MED-C14-72",
+      "sec": "Diagnosis of Megaloblastic Anemia & Bone Marrow",
+      "page": 86,
+      "fmt": "numeric",
+      "q": "What serum Vitamin B12 threshold on p86 directly diagnoses 'Vit B12 deficiency'?",
+      "opts": [
+        "200–300 pg",
+        "< 200 pg",
+        "> 500 pg",
+        "> 300 pg"
+      ],
+      "ans": 1,
+      "exp": "1. Serum Vit B12 levels: < 200 pg → Vit B12 deficiency. (Book p86)"
+    },
+    {
+      "id": "MED-C14-73",
+      "sec": "Diagnosis of Megaloblastic Anemia & Bone Marrow",
+      "page": 86,
+      "fmt": "recall",
+      "q": "When serum Vitamin B12 is borderline (200–300 pg), which three analytes does the p86 flowchart direct you to determine, and what is their printed change in Vit B12 deficiency?",
+      "opts": [
+        "Serum ferritin, TIBC and transferrin saturation — all decreased in Vit B12 deficiency",
+        "Reticulocyte count, red cell folate and holotranscobalamin — all increased in Vit B12 deficiency",
+        "Methylmalonyl CoA, serum folate and homocysteine — all increased in Vit B12 deficiency (as printed)",
+        "Urine urobilinogen, serum haptoglobin and LDH — all normal in Vit B12 deficiency"
+      ],
+      "ans": 2,
+      "exp": "Under 200–300 pg: Determine levels of Methylmalonyl CoA, Serum folate, Homocysteine → All increased in Vit B12 deficiency. (Book p86)"
+    },
+    {
+      "id": "MED-C14-74",
+      "sec": "Diagnosis of Megaloblastic Anemia & Bone Marrow",
+      "page": 86,
+      "fmt": "match",
+      "q": "Match the serum Vitamin B12 level on p86 to its diagnostic interpretation — 1) > 300 pg 2) 200 – 300 pg 3) < 200 pg … A) Vitamin B12 deficiency B) Normal levels C) Borderline: determine methylmalonyl CoA, serum folate and homocysteine",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 1,
+      "exp": "1. Serum Vit B12 levels: >300 pg = Normal levels; 200–300 pg = Determine levels of methylmalonyl CoA, serum folate, homocysteine; <200 pg = Vit B12 deficiency. (Book p86)"
+    },
+    {
+      "id": "MED-C14-75",
+      "sec": "Diagnosis of Megaloblastic Anemia & Bone Marrow",
+      "page": 86,
+      "fmt": "recall",
+      "q": "According to item 2 of Diagnosis of Megaloblastic Anemia on p86, in which body fluid is methylmalonyl CoA (MMA) measured?",
+      "opts": [
+        "In cerebrospinal fluid",
+        "In synovial fluid",
+        "In urine",
+        "In saliva"
+      ],
+      "ans": 2,
+      "exp": "2. Methylmalonyl CoA (MMA) : In urine. (Book p86)"
+    },
+    {
+      "id": "MED-C14-76",
+      "sec": "Diagnosis of Megaloblastic Anemia & Bone Marrow",
+      "page": 86,
+      "fmt": "recall",
+      "q": "According to item 3 on p86, which antibody is positive (+) in pernicious anemia?",
+      "opts": [
+        "Anti-mitochondrial antibody",
+        "Anti-centromere antibody",
+        "Anti-parietal cell antibody",
+        "Anti-tissue transglutaminase antibody"
+      ],
+      "ans": 2,
+      "exp": "3. Anti-parietal cell antibody : (+) in pernicious anemia. (Book p86)"
+    },
+    {
+      "id": "MED-C14-77",
+      "sec": "Diagnosis of Megaloblastic Anemia & Bone Marrow",
+      "page": 86,
+      "fmt": "numeric",
+      "q": "On the peripheral blood smear (item 4 on p86), hypersegmented neutrophils are labelled the 'earliest change' and defined as having how many lobes?",
+      "opts": [
+        "≥ 8 lobes",
+        "< 2 lobes",
+        "≥ 5 lobes",
+        "2–3 lobes"
+      ],
+      "ans": 2,
+      "exp": "Peripheral blood smear shows megaloblasts and hypersegmented neutrophils with ≥ 5 lobes (earliest change). (Book p86)"
+    },
+    {
+      "id": "MED-C14-78",
+      "sec": "Diagnosis of Megaloblastic Anemia & Bone Marrow",
+      "page": 86,
+      "fmt": "recall",
+      "q": "According to the boxed note on p86, what are neutrophils with fewer than 2 lobes (< 2 lobes) called, and in what condition are they seen?",
+      "opts": [
+        "Basket cells, seen in chronic lymphocytic leukemia",
+        "Alder–Reilly neutrophils, seen in mucopolysaccharidosis",
+        "Dohle-body neutrophils, seen in bacterial sepsis",
+        "Pseudo-Pelger–Huët cells, seen in myelodysplastic syndrome (MDS)"
+      ],
+      "ans": 3,
+      "exp": "Boxed note on p86: Neutrophils with < 2 lobes: Pseudo-Pelger-Huet cells, seen in MDS. (Book p86)"
+    },
+    {
+      "id": "MED-C14-79",
+      "sec": "Diagnosis of Megaloblastic Anemia & Bone Marrow",
+      "page": 86,
+      "fmt": "recall",
+      "q": "Which three peripheral blood smear inclusions are illustrated in order under 'Features of dyserythropoiesis' on p86?",
+      "opts": [
+        "1. Heinz bodies, 2. Pappenheimer bodies, and 3. Schuffner's dots",
+        "1. Cabot ring, 2. Basophilic stippling, and 3. Howell–Jolly bodies",
+        "1. Russell bodies, 2. Dutcher bodies, and 3. Negri bodies",
+        "1. Auer rods, 2. Dohle bodies, and 3. Birbeck granules"
+      ],
+      "ans": 1,
+      "exp": "Features of dyserythropoiesis on p86: 1. Cabot ring, 2. Basophilic stippling, 3. Howell-Jolly bodies. (Book p86)"
+    },
+    {
+      "id": "MED-C14-80",
+      "sec": "Diagnosis of Megaloblastic Anemia & Bone Marrow",
+      "page": 86,
+      "fmt": "fillup",
+      "q": "Because megaloblastic anemia involves ineffective erythropoiesis, the reticulocyte count on peripheral smear (p86) shows ____.",
+      "opts": [
+        "Thrombocytosis",
+        "Reticulocytopenia",
+        "Brisk reticulocytosis",
+        "Leukemoid reaction"
+      ],
+      "ans": 1,
+      "exp": "Peripheral blood smear bullet on p86: Reticulocytopenia. (Book p86)"
+    },
+    {
+      "id": "MED-C14-81",
+      "sec": "Diagnosis of Megaloblastic Anemia & Bone Marrow",
+      "page": 86,
+      "fmt": "numeric",
+      "q": "Pancytopenia due to trilineage involvement occurs in what percentage of megaloblastic anemia cases on p86?",
+      "opts": [
+        "80–90%",
+        "15–20%",
+        "1–5%",
+        "50–60%"
+      ],
+      "ans": 1,
+      "exp": "The p86 smear section lists: Pancytopenia d/t trilineage involvement in 15–20%. (Book p86)"
+    },
+    {
+      "id": "MED-C14-82",
+      "sec": "Diagnosis of Megaloblastic Anemia & Bone Marrow",
+      "page": 86,
+      "fmt": "recall",
+      "q": "Which four conditions are listed in the bottom note on p86 under 'Other causes of pancytopenia'?",
+      "opts": [
+        "Hairy-cell leukemia, leukemia, myelodysplastic syndromes (MDS) and aplastic anemia",
+        "Infectious mononucleosis, idiopathic thrombocytopenic purpura, hemophilia A and von Willebrand disease",
+        "Iron deficiency anemia, thalassemia trait, polycythemia vera and essential thrombocythemia",
+        "Hereditary spherocytosis, G6PD deficiency, autoimmune hemolytic anemia and sickle cell trait"
+      ],
+      "ans": 0,
+      "exp": "Note on p86 — Other causes of pancytopenia: Hairy-cell leukemia, Leukemia, Myelodysplastic syndromes (MDS), and Aplastic anemia. (Book p86)"
+    },
+    {
+      "id": "MED-C14-83",
+      "sec": "Diagnosis of Megaloblastic Anemia & Bone Marrow",
+      "page": 87,
+      "fmt": "recall",
+      "q": "According to item 5 at the top of p87, when is a bone marrow smear performed in megaloblastic anemia?",
+      "opts": [
+        "Done in pancytopenia",
+        "Done only after 10 weeks of hydroxycobalamin therapy",
+        "Done in every asymptomatic patient with MCV 101 fL",
+        "Done only when serum Vitamin B12 exceeds 300 pg"
+      ],
+      "ans": 0,
+      "exp": "5. Bone marrow smear : Done in pancytopenia. (Book p87)"
+    },
+    {
+      "id": "MED-C14-84",
+      "sec": "Diagnosis of Megaloblastic Anemia & Bone Marrow",
+      "page": 87,
+      "fmt": "recall",
+      "q": "What are the bone marrow smear findings listed in item 5 on p87, and how do they affect the Myeloid : Erythroid (M:E) ratio?",
+      "opts": [
+        "Dyserythropoiesis and erythroid hyperplasia, leading to a decreased (↓) Myeloid : Erythroid ratio",
+        "Fat replacement of all marrow elements with an unchanged Myeloid : Erythroid ratio",
+        "Myeloid hyperplasia and erythroid aplasia, leading to an increased (↑) Myeloid : Erythroid ratio",
+        "Megakaryocytic hyperplasia and fibrosis, leading to an inverted 10:1 Myeloid : Erythroid ratio"
+      ],
+      "ans": 0,
+      "exp": "Bone marrow smear findings: Dyserythropoiesis; Erythroid hyperplasia → ↓ Myeloid : Erythroid ratio. (Book p87)"
+    },
+    {
+      "id": "MED-C14-85",
+      "sec": "Diagnosis of Megaloblastic Anemia & Bone Marrow",
+      "page": 87,
+      "fmt": "recall",
+      "q": "Which two cellular abnormalities are specifically listed beneath the 'Bone marrow aspirate' photomicrograph on p87?",
+      "opts": [
+        "Reed–Sternberg cells and smudge cells",
+        "Ring sideroblasts and micromegakaryocytes",
+        "Megaloblasts and giant metamyelocytes",
+        "Flame cells and Mott cells"
+      ],
+      "ans": 2,
+      "exp": "The p87 bone marrow aspirate caption lists: • Megaloblasts, • Giant metamyelocytes (alongside the Erythroid hyperplasia image). (Book p87)"
+    },
+    {
+      "id": "MED-C14-86",
+      "sec": "Pernicious Anemia: Pathogenesis & Clinical Features",
+      "page": 87,
+      "fmt": "recall",
+      "q": "Under Pernicious Anemia Pathogenesis on p87, which autoimmune antibody is labelled 'Sensitive' and which is labelled 'Specific'?",
+      "opts": [
+        "Sensitive: Anti-haptocorrin antibody; Specific: Anti-transcobalamin antibody",
+        "Sensitive: Anti-smooth muscle antibody; Specific: Anti-gastrin antibody",
+        "Sensitive: Anti-parietal cell antibody; Specific: Anti-intrinsic factor antibody",
+        "Sensitive: Anti-intrinsic factor antibody; Specific: Anti-parietal cell antibody"
+      ],
+      "ans": 2,
+      "exp": "Pernicious anemia pathogenesis on p87: Autoimmune antibodies → Sensitive: Anti-parietal cell antibody; Specific for: Anti-intrinsic factor antibody. (Book p87)"
+    },
+    {
+      "id": "MED-C14-87",
+      "sec": "Pernicious Anemia: Pathogenesis & Clinical Features",
+      "page": 87,
+      "fmt": "match",
+      "q": "Match each autoimmune feature in pernicious anemia (p87) to its diagnostic characteristic — 1) Anti-parietal cell antibody 2) Anti-intrinsic factor antibody 3) Type A gastritis … A) Specific autoantibody for pernicious anemia B) Sensitive autoantibody for pernicious anemia C) Autoimmune gastritis targeting the gastric body and fundus",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 2,
+      "exp": "Pernicious anemia pathogenesis on p87: Type A autoimmune gastritis affects the gastric body/fundus; Sensitive: Anti-parietal cell antibody; Specific for: Anti-intrinsic factor antibody. (Book p87)"
+    },
+    {
+      "id": "MED-C14-88",
+      "sec": "Pernicious Anemia: Pathogenesis & Clinical Features",
+      "page": 87,
+      "fmt": "recall",
+      "q": "In the pernicious anemia pathogenesis diagram on p87, autoimmune antibodies lead to Vitamin B12 deficiency on one branch and, on the other branch, to hypergastrinemia with which three clinical features?",
+      "opts": [
+        "Constipation, dysphagia and hematemesis",
+        "Steatorrhea, tenesmus and rectal prolapse",
+        "Abdominal pain, ulcerations and diarrhoea (osmotic/secretory)",
+        "Jaundice, ascites and splenomegaly"
+      ],
+      "ans": 2,
+      "exp": "The p87 diagram prints: Antibodies → Vit B12 deficiency and 'Hyperchlorhydria' [printed source text; pathophysiologically parietal cell loss causes achlorhydria/hypochlorhydria] → Hypergastrinemia : c/f → Abdominal pain, Ulcerations, Diarrhoea (Osmotic/secretory). (Book p87)"
+    },
+    {
+      "id": "MED-C14-89",
+      "sec": "Pernicious Anemia: Pathogenesis & Clinical Features",
+      "page": 87,
+      "fmt": "recall",
+      "q": "Which three autoimmune diseases are listed as associations of pernicious anemia on p87?",
+      "opts": [
+        "Graves' disease, myasthenia gravis and systemic sclerosis",
+        "Goodpasture syndrome, pemphigus vulgaris and polymyositis",
+        "Addison's disease, Type 1 diabetes mellitus and vitiligo",
+        "Rheumatoid arthritis, ankylosing spondylitis and psoriasis"
+      ],
+      "ans": 2,
+      "exp": "Autoimmune association on p87: Addison's, Type 1 DM, Vitiligo. (Book p87)"
+    },
+    {
+      "id": "MED-C14-90",
+      "sec": "Pernicious Anemia: Pathogenesis & Clinical Features",
+      "page": 87,
+      "fmt": "recall",
+      "q": "What is the anatomical distribution of gastric involvement noted in pernicious anemia on p87?",
+      "opts": [
+        "Diffuse pangastritis involving fundus, body and pylorus equally",
+        "Body sparing with isolated antral involvement",
+        "Antral sparing with body involvement",
+        "Isolated cardia and gastroesophageal junction involvement"
+      ],
+      "ans": 2,
+      "exp": "The p87 pathogenesis section states: Antral sparing with body involvement. (Book p87)"
+    },
+    {
+      "id": "MED-C14-91",
+      "sec": "Pernicious Anemia: Pathogenesis & Clinical Features",
+      "page": 87,
+      "fmt": "recall",
+      "q": "What is the typical patient demographic and initial symptom status listed under clinical features of pernicious anemia on p87?",
+      "opts": [
+        "Adolescent male; acute febrile crisis",
+        "Middle-aged to elderly female; often asymptomatic",
+        "Infant under 1 year; severe failure to thrive",
+        "Young adult male; acute hematemesis"
+      ],
+      "ans": 1,
+      "exp": "Clinical features on p87: Middle-aged to elderly female; Often asymptomatic. (Book p87)"
+    },
+    {
+      "id": "MED-C14-92",
+      "sec": "Pernicious Anemia: Pathogenesis & Clinical Features",
+      "page": 87,
+      "fmt": "recall",
+      "q": "Why does pallor in pernicious anemia have a yellowish tinge (lemon-yellow tint) according to p87?",
+      "opts": [
+        "Due to obstructive choledocholithiasis",
+        "Due to hemolytic jaundice (from intramedullary hemolysis / ineffective erythropoiesis)",
+        "Due to hepatic cirrhosis and conjugated hyperbilirubinemia",
+        "Due to dietary carotene accumulation"
+      ],
+      "ans": 1,
+      "exp": "Pallor : With yellowish tinge (D/t hemolytic jaundice). (Book p87)"
+    },
+    {
+      "id": "MED-C14-93",
+      "sec": "Pernicious Anemia: Pathogenesis & Clinical Features",
+      "page": 87,
+      "fmt": "recall",
+      "q": "Which three skin and mucosal changes are listed for pernicious anemia at the bottom of p87?",
+      "opts": [
+        "Erythema nodosum, pyoderma gangrenosum, and aphthous ulcers",
+        "Angular cheilitis, atrophic glossitis with beefy-red tongue, and hyperpigmentation",
+        "Koilonychia, esophageal webs, and alopecia areata",
+        "Malar rash, discoid plaques, and livedo reticularis"
+      ],
+      "ans": 1,
+      "exp": "Skin & mucosal changes on p87: Angular cheilitis, Atrophic glossitis with beefy-red tongue, and Hyperpigmentation. (Book p87)"
+    },
+    {
+      "id": "MED-C14-94",
+      "sec": "Pernicious Anemia: CNS/GI Features, Workup & Treatment",
+      "page": 88,
+      "fmt": "recall",
+      "q": "In subacute combined degeneration (SCD) of the spinal cord on p88, which spinal cord columns and tracts are involved?",
+      "opts": [
+        "Substantia gelatinosa and Lissauer's tract only",
+        "Anterior horn motor neurons and anterior spinocerebellar tracts only",
+        "Central canal ependyma and vestibulospinal tracts only",
+        "Posterior (dorsal column) and lateral (lateral corticospinal and spinothalamic tract) columns"
+      ],
+      "ans": 3,
+      "exp": "CNS features (Spinal cord involvement): D/t posterior (Dorsal column) and lateral (Lateral corticospinal & spinothalamic tract) column involvement. (Book p88)"
+    },
+    {
+      "id": "MED-C14-95",
+      "sec": "Pernicious Anemia: CNS/GI Features, Workup & Treatment",
+      "page": 88,
+      "fmt": "recall",
+      "q": "How is peripheral neuropathy clinically manifested in the CNS features list on p88?",
+      "opts": [
+        "Resting pill-rolling tremor and cogwheel rigidity",
+        "Isolated wrist drop and foot drop without sensory loss",
+        "Paraesthesia of hands and feet",
+        "Bulbar palsy and dysphagia"
+      ],
+      "ans": 2,
+      "exp": "Peripheral neuropathy (Paraesthesia of hands & feet). (Book p88)"
+    },
+    {
+      "id": "MED-C14-96",
+      "sec": "Pernicious Anemia: CNS/GI Features, Workup & Treatment",
+      "page": 88,
+      "fmt": "recall",
+      "q": "Which two structures are affected in the 'Late changes' of CNS involvement on p88?",
+      "opts": [
+        "Cerebellum and oculomotor nerve",
+        "Cortex and optic nerve",
+        "Basal ganglia and facial nerve",
+        "Hypothalamus and vagus nerve"
+      ],
+      "ans": 1,
+      "exp": "Late changes : Involves Cortex and Optic nerve. (Book p88)"
+    },
+    {
+      "id": "MED-C14-97",
+      "sec": "Pernicious Anemia: CNS/GI Features, Workup & Treatment",
+      "page": 88,
+      "fmt": "recall",
+      "q": "Under GI symptoms on p88, pernicious anemia increases the risk of gastric cancer (M > F). Which neoplasm is marked most common (m/c), and which is marked rare?",
+      "opts": [
+        "Gastrointestinal stromal tumor (most common) and gastric carcinoid type 3 (rare)",
+        "Gastric adenocarcinoma (most common) and gastric MALT lymphoma (rare)",
+        "Squamous cell carcinoma (most common) and leiomyosarcoma (rare)",
+        "Gastric carcinoid type 1 (most common) and gastric adenocarcinoma (rare)"
+      ],
+      "ans": 3,
+      "exp": "GI symptoms: ↑ risk of cancer (M>F) → Gastric carcinoid type 1 (m/c) and Gastric adenocarcinoma (Rare). (Book p88)"
+    },
+    {
+      "id": "MED-C14-98",
+      "sec": "Pernicious Anemia: CNS/GI Features, Workup & Treatment",
+      "page": 88,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — according to the boxed note on p88, folic acid deficiency can cause a less severe peripheral neuropathy, but spinal cord involvement is absent.",
+      "opts": [
+        "False — folic acid deficiency never causes any peripheral neuropathy",
+        "True — both spinal cord involvement and optic neuropathy are more severe in folate deficiency",
+        "False — folic acid deficiency causes isolated posterior column degeneration without neuropathy",
+        "True — in folic acid deficiency, peripheral neuropathy is (+) (less severe) and spinal cord involvement is (–)"
+      ],
+      "ans": 3,
+      "exp": "Boxed note on p88: In folic acid deficiency: Peripheral neuropathy (+) (Less severe); Spinal cord involvement (–). (Book p88)"
+    },
+    {
+      "id": "MED-C14-99",
+      "sec": "Pernicious Anemia: CNS/GI Features, Workup & Treatment",
+      "page": 88,
+      "fmt": "recall",
+      "q": "What do the two sagittal spinal MRI images on p88 illustrate?",
+      "opts": [
+        "Syringomyelia before and after shunting",
+        "Subacute combined degeneration (SCD) before treatment and after treatment",
+        "Cervical spondylotic myelopathy before and after decompression",
+        "Transverse myelitis before and after plasmapheresis"
+      ],
+      "ans": 1,
+      "exp": "The two spinal MRI images on p88 are captioned 'Subacute combined degeneration (SCD) — Before treatment / After treatment'. (Book p88)"
+    },
+    {
+      "id": "MED-C14-100",
+      "sec": "Pernicious Anemia: CNS/GI Features, Workup & Treatment",
+      "page": 88,
+      "fmt": "recall",
+      "q": "Which four findings are listed under Peripheral Blood Smear in the investigations of pernicious anemia on p88?",
+      "opts": [
+        "Dimorphic RBCs, ring sideroblasts, basophilia, and pseudo-Pelger-Huet neutrophils",
+        "Microcytic hypochromic RBCs, thrombocytosis, leukocytosis with left shift, and target cells",
+        "Oval macrocytosis with elevated MCV, dyserythropoiesis, leukopenia (in 15–20%) with hypersegmented neutrophils, and thrombocytopenia",
+        "Spherocytosis, reticulocytosis, normoblastic erythroid precursors, and Howell-Jolly bodies only"
+      ],
+      "ans": 2,
+      "exp": "Peripheral Blood Smear on p88: Oval macrocytosis with elevated MCV, Dyserythropoiesis, Leukopenia (in 15–20%) with hypersegmented neutrophils, and Thrombocytopenia. (Book p88)"
+    },
+    {
+      "id": "MED-C14-101",
+      "sec": "Pernicious Anemia: CNS/GI Features, Workup & Treatment",
+      "page": 88,
+      "fmt": "recall",
+      "q": "Under Investigations on p88, what are the bone marrow morphology and specific serological test listed for pernicious anemia?",
+      "opts": [
+        "Bone marrow: Normoblastic; Serology: Anti-smooth muscle antibody",
+        "Bone marrow: Ring sideroblasts; Serology: Anti-endomysial antibody",
+        "Bone marrow: Megaloblastic; Serology: Anti-IF antibody",
+        "Bone marrow: Hypocellular aplastic; Serology: Direct Coombs test"
+      ],
+      "ans": 2,
+      "exp": "Bone marrow : Megaloblastic. Serology : Anti-IF antibody. (Book p88)"
+    },
+    {
+      "id": "MED-C14-102",
+      "sec": "Pernicious Anemia: CNS/GI Features, Workup & Treatment",
+      "page": 88,
+      "fmt": "recall",
+      "q": "Under Investigations on p88, what is the pattern of serum gastrin levels and serum Vitamin B12 levels in pernicious anemia?",
+      "opts": [
+        "Serum gastrin levels: Decreased (↓); Serum Vit B12 levels: Increased (↑)",
+        "Both serum gastrin and serum Vit B12 levels are decreased (↓)",
+        "Serum gastrin levels: Increased (↑); Serum Vit B12 levels: Markedly decreased (↓↓)",
+        "Both serum gastrin and serum Vit B12 levels are increased (↑)"
+      ],
+      "ans": 2,
+      "exp": "Serum gastrin levels : ↑; Serum Vit B12 levels : ↓↓. (Book p88)"
+    },
+    {
+      "id": "MED-C14-103",
+      "sec": "Pernicious Anemia: CNS/GI Features, Workup & Treatment",
+      "page": 88,
+      "fmt": "match",
+      "q": "Match each investigation in pernicious anemia (p88) to its characteristic result — 1) Bone marrow 2) Serology 3) Serum gastrin levels 4) Serum Vit B12 levels … A) Markedly decreased (↓↓) B) Megaloblastic C) Anti-IF antibody D) Increased (↑)",
+      "opts": [
+        "1-B, 2-C, 3-D, 4-A",
+        "1-A, 2-C, 3-D, 4-B",
+        "1-C, 2-B, 3-A, 4-D",
+        "1-B, 2-D, 3-C, 4-A"
+      ],
+      "ans": 0,
+      "exp": "Investigations on p88: Bone marrow: Megaloblastic; Serology: Anti-IF antibody; Serum gastrin levels: ↑; Serum Vit B12 levels: ↓↓. (Book p88)"
+    },
+    {
+      "id": "MED-C14-104",
+      "sec": "Pernicious Anemia: CNS/GI Features, Workup & Treatment",
+      "page": 88,
+      "fmt": "fillup",
+      "q": "Under Treatment of pernicious anemia on p88, lifelong Vitamin B12 supplementation is given using ____.",
+      "opts": [
+        "Pyridoxal phosphate",
+        "Folinic acid",
+        "Hydroxycobalamin",
+        "Ferrous carboxymaltose"
+      ],
+      "ans": 2,
+      "exp": "Treatment: Lifelong Vit B12 supplementation (Hydroxycobalamin). (Book p88)"
+    },
+    {
+      "id": "MED-C14-105",
+      "sec": "Pernicious Anemia: CNS/GI Features, Workup & Treatment",
+      "page": 88,
+      "fmt": "management",
+      "q": "What is the exact 3-step dosing regimen for Hydroxycobalamin printed under Treatment on p88?",
+      "opts": [
+        "100 µg OD for 1 month → 100 µg monthly for 6 months → discontinue once MCV normalizes",
+        "2000 µg single IV infusion → repeat once every 5 years",
+        "1000 µg OD for 1 week → 1000 µg weekly for 1 month → 1000 µg once a month lifelong (every 6–12 months as printed)",
+        "500 µg BD for 2 weeks → 500 µg daily for 3 months → oral maintenance only"
+      ],
+      "ans": 2,
+      "exp": "Regimen on p88: 1000 µg OD for 1 week → 1000 µg weekly for 1 month → 1000 µg once a month lifelong every 6–12 months. (Book p88)"
+    },
+    {
+      "id": "MED-C14-106",
+      "sec": "Pernicious Anemia: CNS/GI Features, Workup & Treatment",
+      "page": 88,
+      "fmt": "numeric",
+      "q": "Under Response to treatment on p88, when does the reticulocyte count begin to rise and when does it reach its maximum?",
+      "opts": [
+        "Rises by Day 10–14; maximum by 4 weeks",
+        "Rises by Day 5–7; maximum by 10–14 days",
+        "Rises within 12 hours; maximum by Day 2",
+        "Rises by Day 2–3; maximum by 6–8 days"
+      ],
+      "ans": 3,
+      "exp": "Response to treatment: Reticulocyte count → ↑ by Day 2–3, maximum by 6–8 days. (Book p88)"
+    },
+    {
+      "id": "MED-C14-107",
+      "sec": "Pernicious Anemia: CNS/GI Features, Workup & Treatment",
+      "page": 88,
+      "fmt": "numeric",
+      "q": "Under Response to treatment on p88, how long does it take for MCV to normalize, and what is the overall prognosis?",
+      "opts": [
+        "MCV normal in 10 weeks; prognosis is good with treatment",
+        "MCV normal in 6 months; prognosis is poor if leukopenia was present",
+        "MCV normal in 2 weeks; prognosis is guarded despite treatment",
+        "MCV normal in 3 days; prognosis depends on splenectomy"
+      ],
+      "ans": 0,
+      "exp": "Response to treatment on p88: MCV : Normal in 10 weeks; Prognosis : Good with treatment. (Book p88)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U14-1",
+      "ch": 14,
+      "n": 1,
+      "title": "Types, Causes & B12 vs Folate Stores",
+      "sec": "Types, Causes & B12 vs Folate Stores",
+      "guide": "Macrocytic anemia (MCV >100 fL) divides into megaloblastic (lagging nuclear maturation) and normoblastic causes.\nMegaloblastic causes include B12/folate/thiamine deficiency, DNA-synthesis inhibitors (cytarabine, hydroxyurea, 6-MP) and orotic aciduria.\nB12 stores (2–5 mg; RDA 3–7 µg/d) last 2–5 years (>3 yr in vegetarians); folate stores (5–10 mg; RDA 50 µg/d) deplete in a few weeks.",
+      "qs": [
+        "MED-C14-01",
+        "MED-C14-02",
+        "MED-C14-03",
+        "MED-C14-04",
+        "MED-C14-05",
+        "MED-C14-06",
+        "MED-C14-07",
+        "MED-C14-08",
+        "MED-C14-09",
+        "MED-C14-10",
+        "MED-C14-11",
+        "MED-C14-12",
+        "MED-C14-13",
+        "MED-C14-14",
+        "MED-C14-15",
+        "MED-C14-16",
+        "MED-C14-17",
+        "MED-C14-18",
+        "MED-C14-19",
+        "MED-C14-20",
+        "MED-C14-21",
+        "MED-C14-22"
+      ]
+    },
+    {
+      "id": "MED-U14-2",
+      "ch": 14,
+      "n": 2,
+      "title": "Vitamin B12 Sources & Absorption",
+      "sec": "Vitamin B12 Sources & Absorption Pathway",
+      "guide": "Dietary B12 (animal origin: adenosyl- and methylcobalamin) binds salivary R-factor/haptocorrin in the stomach.\nPancreatic enzymes split the complex in duodenum (parts 2 & 3) so B12 binds parietal-cell Intrinsic Factor (IF).\nIleal CUBAM receptors absorb IF-B12; plasma TC-2 forms holotranscobalamin for marrow RBC maturation.",
+      "qs": [
+        "MED-C14-23",
+        "MED-C14-24",
+        "MED-C14-25",
+        "MED-C14-26",
+        "MED-C14-27",
+        "MED-C14-28",
+        "MED-C14-29",
+        "MED-C14-30",
+        "MED-C14-31",
+        "MED-C14-32",
+        "MED-C14-33",
+        "MED-C14-34",
+        "MED-C14-35"
+      ]
+    },
+    {
+      "id": "MED-U14-3",
+      "ch": 14,
+      "n": 3,
+      "title": "B12 Deficiency, Transcobalamins & Roles",
+      "sec": "Causes of B12 Deficiency, Transcobalamins & Functions",
+      "guide": "Causes: Pernicious anemia (most important), ileal disease (Crohn's, tropical sprue, TB), SIBO, TC-2/CUBAM defects (Imerslund–Gräsbeck), and D. latum.\nOnly B12, bile acids and Mg are absorbed solely in the ileum; TC-1 (from granulocytes) rises in MPN, while TC-2 mediates transport.\nB12 is a cofactor for Homocysteine → Methionine and Methylmalonyl CoA → Succinyl CoA.",
+      "qs": [
+        "MED-C14-36",
+        "MED-C14-37",
+        "MED-C14-38",
+        "MED-C14-39",
+        "MED-C14-40",
+        "MED-C14-41",
+        "MED-C14-42",
+        "MED-C14-43",
+        "MED-C14-44",
+        "MED-C14-45",
+        "MED-C14-46",
+        "MED-C14-47",
+        "MED-C14-48",
+        "MED-C14-49",
+        "MED-C14-50",
+        "MED-C14-51",
+        "MED-C14-52",
+        "MED-C14-53",
+        "MED-C14-54"
+      ]
+    },
+    {
+      "id": "MED-U14-4",
+      "ch": 14,
+      "n": 4,
+      "title": "Folate Metabolism, Trap & Causes",
+      "sec": "Folic Acid Metabolism, Folate Trap & Deficiency Causes",
+      "guide": "Folate is absorbed in proximal small bowel (jejunum/duodenum); dietary monoglutamate becomes circulating/storage 5-methyl THFA → THFA.\nB12 deficiency causes the 'folate trap' (5-methyl THFA accumulation) and raises both homocysteine and methylmalonyl CoA (MMA is normal in pure folate deficiency).\nFolate deficiency stems from ↓ intake (nutritional, major cause), celiac disease, ↑ demand (pregnancy, growth, hemolysis) and drugs (MTX, sulfasalazine, PPIs, pyrimethamine, triamterene, phenytoin).",
+      "qs": [
+        "MED-C14-55",
+        "MED-C14-56",
+        "MED-C14-57",
+        "MED-C14-58",
+        "MED-C14-59",
+        "MED-C14-60",
+        "MED-C14-61",
+        "MED-C14-62",
+        "MED-C14-63",
+        "MED-C14-64",
+        "MED-C14-65",
+        "MED-C14-66",
+        "MED-C14-67",
+        "MED-C14-68",
+        "MED-C14-69",
+        "MED-C14-70"
+      ]
+    },
+    {
+      "id": "MED-U14-5",
+      "ch": 14,
+      "n": 5,
+      "title": "Diagnosis of Megaloblastic Anemia",
+      "sec": "Diagnosis of Megaloblastic Anemia & Bone Marrow",
+      "guide": "Serum B12 >300 pg is normal, <200 pg is deficient, and 200–300 pg prompts MMA, folate and homocysteine testing.\nSmear shows megaloblasts, hypersegmented neutrophils (≥5 lobes, earliest change; <2 lobes = pseudo-Pelger–Huët in MDS), Cabot rings, basophilic stippling and Howell–Jolly bodies.\nPancytopenia occurs in 15–20% and warrants bone marrow smear (dyserythropoiesis, erythroid hyperplasia, ↓ M:E ratio, giant metamyelocytes).",
+      "qs": [
+        "MED-C14-71",
+        "MED-C14-72",
+        "MED-C14-73",
+        "MED-C14-74",
+        "MED-C14-75",
+        "MED-C14-76",
+        "MED-C14-77",
+        "MED-C14-78",
+        "MED-C14-79",
+        "MED-C14-80",
+        "MED-C14-81",
+        "MED-C14-82",
+        "MED-C14-83",
+        "MED-C14-84",
+        "MED-C14-85"
+      ]
+    },
+    {
+      "id": "MED-U14-6",
+      "ch": 14,
+      "n": 6,
+      "title": "Pernicious Anemia: Pathogenesis & Signs",
+      "sec": "Pernicious Anemia: Pathogenesis & Clinical Features",
+      "guide": "Anti-parietal cell antibody is sensitive; anti-intrinsic factor antibody is specific; body involvement with antral sparing is classic.\nAssociated with Addison's disease, Type 1 DM and vitiligo; affects middle-aged to elderly females who are often asymptomatic.\nClinical features include lemon-yellow pallor (hemolytic jaundice), angular cheilitis, beefy-red atrophic glossitis and hyperpigmentation.",
+      "qs": [
+        "MED-C14-86",
+        "MED-C14-87",
+        "MED-C14-88",
+        "MED-C14-89",
+        "MED-C14-90",
+        "MED-C14-91",
+        "MED-C14-92",
+        "MED-C14-93"
+      ]
+    },
+    {
+      "id": "MED-U14-7",
+      "ch": 14,
+      "n": 7,
+      "title": "Pernicious Anemia: CNS, Workup & Rx",
+      "sec": "Pernicious Anemia: CNS/GI Features, Workup & Treatment",
+      "guide": "SCD involves dorsal and lateral columns plus peripheral neuropathy and late cortical/optic changes (folate deficiency spares the spinal cord).\nIncreases risk of gastric carcinoid type 1 (m/c) and gastric adenocarcinoma (rare); workup shows oval macrocytosis, anti-IF Ab, ↑ gastrin and ↓↓ B12.\nHydroxycobalamin (1000 µg OD × 1 wk → weekly × 1 mo → monthly lifelong) raises reticulocytes by day 2–3 (peak day 6–8) and normalizes MCV in 10 weeks.",
+      "qs": [
+        "MED-C14-94",
+        "MED-C14-95",
+        "MED-C14-96",
+        "MED-C14-97",
+        "MED-C14-98",
+        "MED-C14-99",
+        "MED-C14-100",
+        "MED-C14-101",
+        "MED-C14-102",
+        "MED-C14-103",
+        "MED-C14-104",
+        "MED-C14-105",
+        "MED-C14-106",
+        "MED-C14-107"
+      ]
+    }
+  ]
+}
