@@ -8,3 +8,15 @@
 Formula: 01.pdf Book p = PDF page -12; 02.pdf Book p = PDF page +117; 03.pdf Book p = PDF page +247
 
 Chapter 1: 01.pdf PDF13-17 = p1-5; Next chapter p6 at PDF18.
+
+## Chapter sheet coverage verified (01.pdf)
+
+| Ch | Title | Book pages | 01.pdf sheets |
+|---:|---|---|---|
+| 1 | Diarrhea | 1-5 | PDF13-17 |
+| 2 | Physiology of GIT Absorption and Selective Malabsorption | 6-13 | PDF18-25 |
+| 3 | Clinical Features And Tests For Malabsorption | 14-17 | PDF26-29 |
+| 4 | Global Malabsorption | 18-29 | PDF30-41 |
+| 5 | Inflammatory Bowel Disease : Part 1 | 30-36 | PDF42-48 |
+| 6 | Inflammatory Bowel Disease : Part 2 | 37-45 | PDF49-57 |
+| 7 | Infectious Diarrhoea (next) | 46 | PDF58 |

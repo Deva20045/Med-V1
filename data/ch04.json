@@ -1,0 +1,3335 @@
+{
+  "chapter": 4,
+  "title": "Global Malabsorption",
+  "pageRange": "18-29",
+  "questions": [
+    {
+      "id": "MED-C4-01",
+      "sec": "Global Malabsorption: Overview",
+      "page": 18,
+      "fmt": "recall",
+      "q": "Global malabsorption means defective absorption of:",
+      "opts": [
+        "Carbohydrate, fat and protein",
+        "Fat only",
+        "Carbohydrate only",
+        "Vitamin B12 only"
+      ],
+      "ans": 0,
+      "exp": "Global malabsorption: defective absorption of a. carbohydrate, b. fat, c. protein. (Book p18)"
+    },
+    {
+      "id": "MED-C4-02",
+      "sec": "Global Malabsorption: Overview",
+      "page": 18,
+      "fmt": "recall",
+      "q": "Among the nutrients in global malabsorption, fat is described as:",
+      "opts": [
+        "Most sensitive & specific, and the most energy dense nutrient",
+        "Least sensitive but most specific",
+        "The least energy dense nutrient",
+        "Only a marker of pancreatic disease"
+      ],
+      "ans": 0,
+      "exp": "b. Fat: most sensitive & specific, most energy dense nutrient. (Book p18)"
+    },
+    {
+      "id": "MED-C4-03",
+      "sec": "Global Malabsorption: Overview",
+      "page": 18,
+      "fmt": "recall",
+      "q": "Global malabsorption results from:",
+      "opts": [
+        "Small intestinal mucosal dysfunction",
+        "Gastric acid hypersecretion",
+        "Colonic mucosal inflammation",
+        "Biliary obstruction alone"
+      ],
+      "ans": 0,
+      "exp": "Global malabsorption: small intestinal mucosal dysfunction. (Book p18)"
+    },
+    {
+      "id": "MED-C4-04",
+      "sec": "Global Malabsorption: Overview",
+      "page": 18,
+      "fmt": "recall",
+      "q": "The three causes of global malabsorption listed are:",
+      "opts": [
+        "Celiac disease, Whipple's disease and tropical sprue",
+        "Chronic pancreatitis, SIBO and cirrhosis",
+        "Cystinuria, Hartnup disease and enterokinase deficiency",
+        "Crohn's disease, tuberculosis and amyloidosis"
+      ],
+      "ans": 0,
+      "exp": "Causes: a. celiac disease, b. Whipple's disease, c. tropical sprue. (Book p18)"
+    },
+    {
+      "id": "MED-C4-05",
+      "sec": "Global Malabsorption: Overview",
+      "page": 18,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one is not a listed cause of global malabsorption:",
+      "opts": [
+        "Chronic pancreatitis",
+        "Celiac disease",
+        "Whipple's disease",
+        "Tropical sprue"
+      ],
+      "ans": 0,
+      "exp": "Global malabsorption causes: celiac disease, Whipple's disease, tropical sprue. Chronic pancreatitis is a luminal defect. (Book p18)"
+    },
+    {
+      "id": "MED-C4-06",
+      "sec": "Celiac Disease: Features & Iceberg Phenomenon",
+      "page": 18,
+      "fmt": "recall",
+      "q": "Celiac disease is also known as:",
+      "opts": [
+        "Celiac sprue / gluten sensitive enteropathy / non-tropical sprue",
+        "Tropical sprue",
+        "Blind loop syndrome",
+        "Microscopic colitis"
+      ],
+      "ans": 0,
+      "exp": "Features: AKA celiac sprue / gluten sensitive enteropathy / non-tropical sprue. (Book p18)"
+    },
+    {
+      "id": "MED-C4-07",
+      "sec": "Celiac Disease: Features & Iceberg Phenomenon",
+      "page": 18,
+      "fmt": "numeric",
+      "q": "In the iceberg phenomenon, what proportion present with classical features?",
+      "opts": [
+        "50%",
+        "90%",
+        "10%",
+        "80%"
+      ],
+      "ans": 0,
+      "exp": "Iceberg phenomenon: only 50% present with classical features. (Book p18)"
+    },
+    {
+      "id": "MED-C4-08",
+      "sec": "Celiac Disease: Features & Iceberg Phenomenon",
+      "page": 18,
+      "fmt": "recall",
+      "q": "The iceberg phenomenon is attributed to:",
+      "opts": [
+        "Physician unawareness, so cases are missed",
+        "Patient denial of symptoms",
+        "A very low prevalence of the disease",
+        "Lack of a diagnostic test"
+      ],
+      "ans": 0,
+      "exp": "Iceberg phenomenon: only 50% present with classical features; due to physician unawareness — diagnosis missed. (Book p18)"
+    },
+    {
+      "id": "MED-C4-09",
+      "sec": "Celiac Disease: Features & Iceberg Phenomenon",
+      "page": 18,
+      "fmt": "recall",
+      "q": "The most important predisposition to celiac disease is:",
+      "opts": [
+        "HLA DQ2 / DQ8",
+        "HLA DRB1*13",
+        "HLA B27",
+        "HLA DR4"
+      ],
+      "ans": 0,
+      "exp": "HLA DQ2 / DQ8: most important predisposition. (Book p18)"
+    },
+    {
+      "id": "MED-C4-10",
+      "sec": "Celiac Disease: Features & Iceberg Phenomenon",
+      "page": 18,
+      "fmt": "recall",
+      "q": "Celiac disease is described as a ____ small intestinal disease.",
+      "opts": [
+        "Proximal",
+        "Distal",
+        "Pan-intestinal with distal predominance",
+        "Colonic"
+      ],
+      "ans": 0,
+      "exp": "Celiac disease is a proximal small intestinal disease. (Book p18)"
+    },
+    {
+      "id": "MED-C4-11",
+      "sec": "Celiac Disease: Features & Iceberg Phenomenon",
+      "page": 18,
+      "fmt": "fillup",
+      "q": "In the celiac iceberg image, EMA stands for ____ antibody.",
+      "opts": [
+        "endomysial",
+        "epidermal",
+        "eosinophilic",
+        "enterocyte"
+      ],
+      "ans": 0,
+      "exp": "Image key: EMA — endomysial antibody; Ig — immunoglobulin; tTG — tissue transglutaminase. (Book p18)"
+    },
+    {
+      "id": "MED-C4-12",
+      "sec": "Celiac Disease: Features & Iceberg Phenomenon",
+      "page": 18,
+      "fmt": "fillup",
+      "q": "In the celiac iceberg image, tTG stands for tissue ____.",
+      "opts": [
+        "transglutaminase",
+        "transpeptidase",
+        "transferrin",
+        "trypsinogen"
+      ],
+      "ans": 0,
+      "exp": "Image key: tTG — tissue transglutaminase. (Book p18)"
+    },
+    {
+      "id": "MED-C4-13",
+      "sec": "Celiac Disease: Types",
+      "page": 18,
+      "fmt": "match",
+      "q": "Match the celiac type to the printed definition — 1) Classical 2) Atypical 3) Silent 4) Latent … A) Asymptomatic, serology positive B) 50% of cases present with symptoms of malabsorption C) Asymptomatic, antibodies negative D) Presents with symptoms other than malabsorption",
+      "opts": [
+        "1-B, 2-D, 3-A, 4-C",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-A, 3-D, 4-C"
+      ],
+      "ans": 0,
+      "exp": "Classical: 50% of cases present with symptoms of malabsorption; atypical: symptoms other than malabsorption; silent: asymptomatic with positive serology; latent: asymptomatic with negative antibodies. (Book p18)"
+    },
+    {
+      "id": "MED-C4-14",
+      "sec": "Celiac Disease: Types",
+      "page": 18,
+      "fmt": "recall",
+      "q": "Classical celiac disease is defined as:",
+      "opts": [
+        "50% of cases presenting with symptoms of malabsorption",
+        "Asymptomatic disease with positive serology",
+        "Disease with negative antibodies",
+        "Disease confined to the skin"
+      ],
+      "ans": 0,
+      "exp": "Classical celiac disease: 50% of cases present with symptoms of malabsorption. (Book p18)"
+    },
+    {
+      "id": "MED-C4-15",
+      "sec": "Celiac Disease: Types",
+      "page": 18,
+      "fmt": "recall",
+      "q": "Atypical celiac disease presents with:",
+      "opts": [
+        "Symptoms other than malabsorption",
+        "Classical steatorrhea",
+        "No symptoms at all",
+        "Only cutaneous disease"
+      ],
+      "ans": 0,
+      "exp": "Atypical celiac disease: presents with symptoms other than malabsorption. (Book p18)"
+    },
+    {
+      "id": "MED-C4-16",
+      "sec": "Celiac Disease: Types",
+      "page": 18,
+      "fmt": "recall",
+      "q": "Silent celiac disease is:",
+      "opts": [
+        "Asymptomatic with positive serology",
+        "Asymptomatic with negative antibodies",
+        "Symptomatic with negative serology",
+        "Symptomatic with normal mucosa"
+      ],
+      "ans": 0,
+      "exp": "Silent celiac disease: asymptomatic, serology positive. (Book p18)"
+    },
+    {
+      "id": "MED-C4-17",
+      "sec": "Celiac Disease: Types",
+      "page": 18,
+      "fmt": "recall",
+      "q": "Latent celiac disease is:",
+      "opts": [
+        "Asymptomatic with negative antibodies but presence of HLA susceptibility",
+        "Asymptomatic with positive serology",
+        "Symptomatic with villous atrophy",
+        "Refractory disease despite gluten withdrawal"
+      ],
+      "ans": 0,
+      "exp": "Latent celiac disease: asymptomatic; antibodies negative; presence of HLA susceptibility. (Book p18)"
+    },
+    {
+      "id": "MED-C4-18",
+      "sec": "Celiac Disease: Types",
+      "page": 18,
+      "fmt": "match",
+      "q": "Match the celiac spectrum label to the printed triad item — 1) Silent celiac 2) Latent celiac … A) Genetic susceptibility HLA-DQ2 or -DQ8 B) Intestinal mucosal abnormality with IgA EMA or tTG antibody positive",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Silent celiac: intestinal mucosal abnormality with IgA EMA or tTG antibody positive; latent celiac: genetic susceptibility HLA-DQ2 or -DQ8 in a healthy individual. (Book p18)"
+    },
+    {
+      "id": "MED-C4-19",
+      "sec": "Celiac Pathophysiology & Disease Progression",
+      "page": 19,
+      "fmt": "recall",
+      "q": "The pathophysiology flow chart begins with:",
+      "opts": [
+        "HLA DQ2 or HLA DQ8 susceptibility",
+        "Consumption of gluten containing foods",
+        "Deamidation by tissue transglutaminase",
+        "Activation of T cells"
+      ],
+      "ans": 0,
+      "exp": "Pathophysiology: HLA DQ2 or HLA DQ8 susceptibility → consumption of gluten containing foods (wheat, barley, rye, oats). (Book p19)"
+    },
+    {
+      "id": "MED-C4-20",
+      "sec": "Celiac Pathophysiology & Disease Progression",
+      "page": 19,
+      "fmt": "recall",
+      "q": "The gluten containing foods listed are:",
+      "opts": [
+        "Wheat, barley, rye and oats",
+        "Rice, corn, maize and potato",
+        "Soybean, millet and buckwheat",
+        "Maize, rice and tapioca"
+      ],
+      "ans": 0,
+      "exp": "Consumption of gluten containing foods (wheat, barley, rye, oats). (Book p19)"
+    },
+    {
+      "id": "MED-C4-21",
+      "sec": "Celiac Pathophysiology & Disease Progression",
+      "page": 19,
+      "fmt": "recall",
+      "q": "The most toxic protein fraction of gluten is the:",
+      "opts": [
+        "Prolamine",
+        "Albumin",
+        "Globulin",
+        "Glutenin"
+      ],
+      "ans": 0,
+      "exp": "Proteins → prolamine (most toxic). (Book p19)"
+    },
+    {
+      "id": "MED-C4-22",
+      "sec": "Celiac Pathophysiology & Disease Progression",
+      "page": 19,
+      "fmt": "recall",
+      "q": "The chief antigen of gluten is:",
+      "opts": [
+        "Gliadin",
+        "Glutenin",
+        "Albumin",
+        "Secalin"
+      ],
+      "ans": 0,
+      "exp": "Prolamine → gliadin (chief antigen of gluten). (Book p19)"
+    },
+    {
+      "id": "MED-C4-23",
+      "sec": "Celiac Pathophysiology & Disease Progression",
+      "page": 19,
+      "fmt": "fillup",
+      "q": "Gliadin with glutamine is modified by ____ in the intestinal epithelium.",
+      "opts": [
+        "Tissue transglutaminase",
+        "Pancreatic elastase",
+        "Enterokinase",
+        "Brush border lactase"
+      ],
+      "ans": 0,
+      "exp": "Gliadin + glutamine → tissue transglutaminase → deamidation in the intestinal epithelium. (Book p19)"
+    },
+    {
+      "id": "MED-C4-24",
+      "sec": "Celiac Pathophysiology & Disease Progression",
+      "page": 19,
+      "fmt": "recall",
+      "q": "Tissue transglutaminase acts on gliadin-bound glutamine by:",
+      "opts": [
+        "Deamidation",
+        "Phosphorylation",
+        "Glycosylation",
+        "Decarboxylation"
+      ],
+      "ans": 0,
+      "exp": "Tissue transglutaminase causes deamidation in the intestinal epithelium. (Book p19)"
+    },
+    {
+      "id": "MED-C4-25",
+      "sec": "Celiac Pathophysiology & Disease Progression",
+      "page": 19,
+      "fmt": "match",
+      "q": "Order the printed pathway — 1) Prolamine 2) Gliadin + glutamine 3) Tissue transglutaminase 4) Deamidated glutamine dipeptide 5) Activates T cells … A) Activates T cells B) Prolamine C) Deamidated glutamine dipeptide D) Gliadin + glutamine E) Tissue transglutaminase",
+      "opts": [
+        "1-B, 2-D, 3-E, 4-C, 5-A",
+        "1-A, 2-B, 3-C, 4-D, 5-E",
+        "1-E, 2-D, 3-C, 4-B, 5-A",
+        "1-B, 2-C, 3-D, 4-E, 5-A"
+      ],
+      "ans": 0,
+      "exp": "Prolamine (most toxic) → gliadin (chief antigen) with glutamine → tissue transglutaminase → deamidated glutamine dipeptide → activates T cells → celiac disease. (Book p19)"
+    },
+    {
+      "id": "MED-C4-26",
+      "sec": "Celiac Pathophysiology & Disease Progression",
+      "page": 19,
+      "fmt": "recall",
+      "q": "Polymeric IgA, which forms a dimer in this pathway, is produced from:",
+      "opts": [
+        "MALT",
+        "Bone marrow",
+        "Thymus",
+        "Spleen"
+      ],
+      "ans": 0,
+      "exp": "Polymeric IgA (produced from MALT) forms a dimer. (Book p19)"
+    },
+    {
+      "id": "MED-C4-27",
+      "sec": "Celiac Pathophysiology & Disease Progression",
+      "page": 19,
+      "fmt": "recall",
+      "q": "Monomeric IgA is produced in the:",
+      "opts": [
+        "Bone marrow",
+        "MALT",
+        "Liver",
+        "Peyer's patches"
+      ],
+      "ans": 0,
+      "exp": "Note: monomeric IgA is produced in bone marrow. (Book p19)"
+    },
+    {
+      "id": "MED-C4-28",
+      "sec": "Celiac Pathophysiology & Disease Progression",
+      "page": 19,
+      "fmt": "recall",
+      "q": "Which features are NOT seen in celiac disease, and why?",
+      "opts": [
+        "Vitamin B12, magnesium and bile acid deficiency — they are reabsorbed from the distal small intestine",
+        "Steatorrhea — the distal ileum is normal",
+        "Iron deficiency anemia — iron is absorbed distally",
+        "Osteopenia — vitamin D is absorbed distally"
+      ],
+      "ans": 0,
+      "exp": "Note: vitamin B12, Mg2+ and bile acid are reabsorbed from the distal small intestine → features not seen in celiac disease. (Book p19)"
+    },
+    {
+      "id": "MED-C4-29",
+      "sec": "Celiac Pathophysiology & Disease Progression",
+      "page": 19,
+      "fmt": "numeric",
+      "q": "On a gluten-free diet, what proportion of patients revert to normalcy?",
+      "opts": [
+        "90%",
+        "10%",
+        "50%",
+        "75%"
+      ],
+      "ans": 0,
+      "exp": "Disease progression on a gluten-free diet: 90% revert to normalcy. (Book p19)"
+    },
+    {
+      "id": "MED-C4-30",
+      "sec": "Celiac Pathophysiology & Disease Progression",
+      "page": 19,
+      "fmt": "recall",
+      "q": "Among the 90% who respond, clinical reversion occurs in:",
+      "opts": [
+        "3 weeks",
+        "3 days",
+        "6 months",
+        "2 years"
+      ],
+      "ans": 0,
+      "exp": "Reverts to normalcy: clinically 3 weeks. (Book p19)"
+    },
+    {
+      "id": "MED-C4-31",
+      "sec": "Celiac Pathophysiology & Disease Progression",
+      "page": 19,
+      "fmt": "recall",
+      "q": "Among the 90% who respond, histological reversion occurs in:",
+      "opts": [
+        "6 months",
+        "3 weeks",
+        "1 week",
+        "5 years"
+      ],
+      "ans": 0,
+      "exp": "Reverts to normalcy: clinically 3 weeks, histologically 6 months. (Book p19)"
+    },
+    {
+      "id": "MED-C4-32",
+      "sec": "Celiac Pathophysiology & Disease Progression",
+      "page": 19,
+      "fmt": "numeric",
+      "q": "What proportion show no improvement on a gluten-free diet?",
+      "opts": [
+        "10%",
+        "90%",
+        "30%",
+        "50%"
+      ],
+      "ans": 0,
+      "exp": "10% show no improvement → refractory celiac disease. (Book p19)"
+    },
+    {
+      "id": "MED-C4-33",
+      "sec": "Celiac Pathophysiology & Disease Progression",
+      "page": 19,
+      "fmt": "recall",
+      "q": "Refractory celiac disease is treated with:",
+      "opts": [
+        "Steroids",
+        "Azathioprine",
+        "Co-trimoxazole",
+        "Rifaximin"
+      ],
+      "ans": 0,
+      "exp": "10% no improvement → refractory celiac disease → Rx: steroid. (Book p19)"
+    },
+    {
+      "id": "MED-C4-34",
+      "sec": "Celiac Clinical Features",
+      "page": 20,
+      "fmt": "recall",
+      "q": "Classical / typical celiac disease presents with:",
+      "opts": [
+        "Osmotic diarrhea, abdominal distension, foul smelling stool and weight loss",
+        "Short stature, fractures and ataxia",
+        "Asymptomatic disease with positive serology",
+        "Perianal fistulae and skip lesions"
+      ],
+      "ans": 0,
+      "exp": "Classical/typical celiac: osmotic diarrhea, abdominal distension, foul smelling stool, weight loss. (Book p20)"
+    },
+    {
+      "id": "MED-C4-35",
+      "sec": "Celiac Clinical Features",
+      "page": 20,
+      "fmt": "numeric",
+      "q": "What proportion of celiac patients have symptoms of IBS?",
+      "opts": [
+        "30%",
+        "3%",
+        "60%",
+        "90%"
+      ],
+      "ans": 0,
+      "exp": "Classical/typical celiac: symptoms of IBS (30%). (Book p20)"
+    },
+    {
+      "id": "MED-C4-36",
+      "sec": "Celiac Clinical Features",
+      "page": 20,
+      "fmt": "recall",
+      "q": "Atypical celiac in children presents with:",
+      "opts": [
+        "Short stature and failure to thrive",
+        "Perianal disease",
+        "Painless rectal bleeding",
+        "Obstructive jaundice"
+      ],
+      "ans": 0,
+      "exp": "Atypical celiac: short stature, failure to thrive in children. (Book p20)"
+    },
+    {
+      "id": "MED-C4-37",
+      "sec": "Celiac Clinical Features",
+      "page": 20,
+      "fmt": "recall",
+      "q": "Fracture and osteopenia in atypical celiac are attributed to:",
+      "opts": [
+        "↓ vitamin D and Ca2+ absorption",
+        "↓ vitamin E",
+        "↓ vitamin K",
+        "↓ vitamin A"
+      ],
+      "ans": 0,
+      "exp": "Atypical celiac: fracture, osteopenia — ↓ vitamin D, Ca2+ absorption. (Book p20)"
+    },
+    {
+      "id": "MED-C4-38",
+      "sec": "Celiac Clinical Features",
+      "page": 20,
+      "fmt": "recall",
+      "q": "Ataxia and peripheral neuropathy in atypical celiac are attributed to:",
+      "opts": [
+        "↓ vitamin E",
+        "↓ vitamin D",
+        "↓ vitamin K",
+        "↓ vitamin C"
+      ],
+      "ans": 0,
+      "exp": "Atypical celiac: ataxia, peripheral neuropathy — ↓ vitamin E. (Book p20)"
+    },
+    {
+      "id": "MED-C4-39",
+      "sec": "Celiac Clinical Features",
+      "page": 20,
+      "fmt": "recall",
+      "q": "Iron deficiency anemia is an atypical feature of celiac disease:",
+      "opts": [
+        "If it is not due to blood loss",
+        "Only when there is overt bleeding",
+        "Only in children",
+        "Never — it excludes celiac disease"
+      ],
+      "ans": 0,
+      "exp": "Atypical celiac: iron deficiency anemia (if not due to blood loss). (Book p20)"
+    },
+    {
+      "id": "MED-C4-40",
+      "sec": "Celiac Clinical Features",
+      "page": 20,
+      "fmt": "match",
+      "q": "Match the atypical feature to its printed mechanism — 1) Fracture, osteopenia 2) Ataxia, peripheral neuropathy 3) Iron deficiency anemia … A) Not due to blood loss B) ↓ vitamin D and Ca2+ absorption C) ↓ vitamin E",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Fracture/osteopenia = ↓ vitamin D and Ca2+; ataxia/neuropathy = ↓ vitamin E; iron deficiency anemia = when not due to blood loss. (Book p20)"
+    },
+    {
+      "id": "MED-C4-41",
+      "sec": "Celiac Clinical Features",
+      "page": 20,
+      "fmt": "recall",
+      "q": "Secondary hyperparathyroidism in celiac disease is due to:",
+      "opts": [
+        "↓ vitamin D and calcium",
+        "↓ vitamin K",
+        "↓ phosphate",
+        "↑ calcitonin"
+      ],
+      "ans": 0,
+      "exp": "Other features: secondary hyperparathyroidism — ↓ vitamin D, Ca2+. (Book p20)"
+    },
+    {
+      "id": "MED-C4-42",
+      "sec": "Celiac Clinical Features",
+      "page": 20,
+      "fmt": "recall",
+      "q": "Cerebral calcifications in celiac disease are seen with:",
+      "opts": [
+        "Secondary hyperparathyroidism",
+        "Vitamin E deficiency",
+        "Folate deficiency",
+        "Iron overload"
+      ],
+      "ans": 0,
+      "exp": "Other features: calcifications in the brain seen with secondary hyperparathyroidism. (Book p20)"
+    },
+    {
+      "id": "MED-C4-43",
+      "sec": "Celiac Clinical Features",
+      "page": 20,
+      "fmt": "recall",
+      "q": "Hyposplenism in celiac disease is identified by:",
+      "opts": [
+        "Presence of Howell-Jolly bodies",
+        "Absence of platelets",
+        "Low IgM",
+        "Splenomegaly on scan"
+      ],
+      "ans": 0,
+      "exp": "Other features: hyposplenism — presence of Howell-Jolly bodies. (Book p20)"
+    },
+    {
+      "id": "MED-C4-44",
+      "sec": "Celiac Clinical Features",
+      "page": 20,
+      "fmt": "recall",
+      "q": "Follicular hyperkeratosis in celiac disease reflects deficiency of:",
+      "opts": [
+        "Vitamin A",
+        "Vitamin E",
+        "Vitamin K",
+        "Vitamin C"
+      ],
+      "ans": 0,
+      "exp": "Other features: follicular hyperkeratosis — ↓ vitamin A. (Book p20)"
+    },
+    {
+      "id": "MED-C4-45",
+      "sec": "Celiac Clinical Features",
+      "page": 20,
+      "fmt": "recall",
+      "q": "Edema and ascites in celiac disease reflect:",
+      "opts": [
+        "Protein malabsorption",
+        "Fat malabsorption",
+        "Carbohydrate malabsorption",
+        "Bile acid loss"
+      ],
+      "ans": 0,
+      "exp": "Other features: edema and ascites — protein malabsorption. (Book p20)"
+    },
+    {
+      "id": "MED-C4-46",
+      "sec": "Celiac Clinical Features",
+      "page": 20,
+      "fmt": "recall",
+      "q": "Cryptogenic cirrhosis in celiac disease is suggested by:",
+      "opts": [
+        "Raised LFT",
+        "Low albumin alone",
+        "Raised amylase",
+        "Raised creatine kinase"
+      ],
+      "ans": 0,
+      "exp": "Other features: cryptogenic cirrhosis — raised LFT. (Book p20)"
+    },
+    {
+      "id": "MED-C4-47",
+      "sec": "Celiac Clinical Features",
+      "page": 20,
+      "fmt": "recall",
+      "q": "Amenorrhea, infertility and impotence are listed under:",
+      "opts": [
+        "Other features of celiac disease",
+        "Definite associations",
+        "Probable associations",
+        "Complications"
+      ],
+      "ans": 0,
+      "exp": "Other features of celiac disease: amenorrhea, infertility, impotence. (Book p20)"
+    },
+    {
+      "id": "MED-C4-48",
+      "sec": "Celiac Associations",
+      "page": 20,
+      "fmt": "recall",
+      "q": "The most important definite association of celiac disease is:",
+      "opts": [
+        "Dermatitis herpetiformis",
+        "Down syndrome",
+        "IgA nephropathy",
+        "Type I diabetes mellitus"
+      ],
+      "ans": 0,
+      "exp": "Definite associations: dermatitis herpetiformis (most important). (Book p20)"
+    },
+    {
+      "id": "MED-C4-49",
+      "sec": "Celiac Associations",
+      "page": 20,
+      "fmt": "recall",
+      "q": "The skin lesions of dermatitis herpetiformis are:",
+      "opts": [
+        "Papulovesicular lesions on the extensor aspect",
+        "Maculopapular lesions on the flexor aspect",
+        "Target lesions on the palms",
+        "Nodular lesions on the trunk"
+      ],
+      "ans": 0,
+      "exp": "Dermatitis herpetiformis features: papulovesicular lesions in extensor aspect. (Book p20)"
+    },
+    {
+      "id": "MED-C4-50",
+      "sec": "Celiac Associations",
+      "page": 20,
+      "fmt": "recall",
+      "q": "The immunofluorescence finding in dermatitis herpetiformis is:",
+      "opts": [
+        "Linear IgA deposits in the dermoepidermal junction",
+        "Granular IgG deposits in the dermoepidermal junction",
+        "IgM deposits in vessel walls",
+        "C3 deposits along the basement membrane"
+      ],
+      "ans": 0,
+      "exp": "Dermatitis herpetiformis: linear IgA deposits in dermoepidermal junction. (Book p20)"
+    },
+    {
+      "id": "MED-C4-51",
+      "sec": "Celiac Associations",
+      "page": 20,
+      "fmt": "recall",
+      "q": "Cryptogenic transaminitis / cirrhosis appears in the celiac association list as a:",
+      "opts": [
+        "Probable association",
+        "Definite association",
+        "Complication",
+        "Exclusion criterion"
+      ],
+      "ans": 0,
+      "exp": "Probable associations: cryptogenic transaminitis/cirrhosis, idiopathic short stature, refractory iron deficiency anemia, cerebellar ataxia. (Book p20)"
+    },
+    {
+      "id": "MED-C4-52",
+      "sec": "Celiac Associations",
+      "page": 20,
+      "fmt": "oddoneout",
+      "q": "All of the following are probable associations of celiac disease EXCEPT:",
+      "opts": [
+        "Lymphocytic colitis",
+        "Idiopathic short stature",
+        "Refractory iron deficiency anemia",
+        "Cerebellar ataxia"
+      ],
+      "ans": 0,
+      "exp": "Probable associations: cryptogenic transaminitis/cirrhosis, idiopathic short stature, refractory iron deficiency anemia, cerebellar ataxia. Lymphocytic colitis is a definite association. (Book p20)"
+    },
+    {
+      "id": "MED-C4-53",
+      "sec": "Celiac Associations",
+      "page": 20,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one is a probable, not definite, association of celiac disease:",
+      "opts": [
+        "Cerebellar ataxia",
+        "Type I diabetes mellitus",
+        "IgA deficiency",
+        "Bird-fancier lung"
+      ],
+      "ans": 0,
+      "exp": "Probable associations: cryptogenic transaminitis/cirrhosis, idiopathic short stature, refractory iron deficiency anemia, cerebellar ataxia. The others are definite. (Book p20)"
+    },
+    {
+      "id": "MED-C4-54",
+      "sec": "Celiac Associations",
+      "page": 20,
+      "fmt": "recall",
+      "q": "Hypersensitivity pneumonitis in the celiac association list is also called:",
+      "opts": [
+        "Bird-fancier lung",
+        "Farmer's lung",
+        "Bagassosis",
+        "Byssinosis"
+      ],
+      "ans": 0,
+      "exp": "Definite associations: hypersensitivity pneumonitis / bird-fancier lung. (Book p20)"
+    },
+    {
+      "id": "MED-C4-55",
+      "sec": "Celiac Diagnosis: Serology & Biopsy",
+      "page": 21,
+      "fmt": "recall",
+      "q": "The serological test described as most important for diagnosis and monitoring is:",
+      "opts": [
+        "Anti-TTG antibody (IgA)",
+        "Anti-endomysial antibody (IgA)",
+        "Anti-deamidated glutamine dipeptide (IgG)",
+        "Anti-gliadin antibody"
+      ],
+      "ans": 0,
+      "exp": "Serology: 1. anti-TTG antibody (IgA) — most important for diagnosis, monitoring. (Book p21)"
+    },
+    {
+      "id": "MED-C4-56",
+      "sec": "Celiac Diagnosis: Serology & Biopsy",
+      "page": 21,
+      "fmt": "numeric",
+      "q": "The specificity of anti-TTG antibody quoted in the book is:",
+      "opts": [
+        "98%",
+        "73%",
+        "99%",
+        "50%"
+      ],
+      "ans": 0,
+      "exp": "Anti-TTG antibody (IgA): high sensitivity, high specificity (98%). (Book p21)"
+    },
+    {
+      "id": "MED-C4-57",
+      "sec": "Celiac Diagnosis: Serology & Biopsy",
+      "page": 21,
+      "fmt": "recall",
+      "q": "Anti-endomysial antibody testing is performed by:",
+      "opts": [
+        "Indirect immunofluorescence",
+        "ELISA alone",
+        "Western blot",
+        "PCR"
+      ],
+      "ans": 0,
+      "exp": "2. Anti-endomysial antibody (IgA): done by indirect immunofluorescence. (Book p21)"
+    },
+    {
+      "id": "MED-C4-58",
+      "sec": "Celiac Diagnosis: Serology & Biopsy",
+      "page": 21,
+      "fmt": "numeric",
+      "q": "The sensitivity quoted for anti-endomysial antibody is:",
+      "opts": [
+        "99%",
+        "73%",
+        "98%",
+        "50%"
+      ],
+      "ans": 0,
+      "exp": "Anti-endomysial antibody (IgA): high sensitivity (99%). (Book p21)"
+    },
+    {
+      "id": "MED-C4-59",
+      "sec": "Celiac Diagnosis: Serology & Biopsy",
+      "page": 21,
+      "fmt": "numeric",
+      "q": "The specificity quoted for anti-endomysial antibody is:",
+      "opts": [
+        "73%",
+        "98%",
+        "99%",
+        "90%"
+      ],
+      "ans": 0,
+      "exp": "Anti-endomysial antibody (IgA): poor specificity (73%). (Book p21)"
+    },
+    {
+      "id": "MED-C4-60",
+      "sec": "Celiac Diagnosis: Serology & Biopsy",
+      "page": 21,
+      "fmt": "recall",
+      "q": "The disadvantages listed for anti-endomysial antibody are:",
+      "opts": [
+        "Subjective interpretation and cumbersome procedure",
+        "Requires radiation exposure",
+        "Needs a mucosal biopsy",
+        "Only detect IgG"
+      ],
+      "ans": 0,
+      "exp": "Anti-endomysial antibody — disadvantage: subjective interpretation and cumbersome procedure. (Book p21)"
+    },
+    {
+      "id": "MED-C4-61",
+      "sec": "Celiac Diagnosis: Serology & Biopsy",
+      "page": 21,
+      "fmt": "recall",
+      "q": "Anti-deamidated glutamine dipeptide antibody is of which isotype, and when is it used?",
+      "opts": [
+        "IgG — in patients with IgA deficiency",
+        "IgA — as the first line test",
+        "IgM — in children",
+        "IgE — in dermatitis herpetiformis"
+      ],
+      "ans": 0,
+      "exp": "3. Anti-deamidated glutamine dipeptide (IgG): done in patients with IgA deficiency. (Book p21)"
+    },
+    {
+      "id": "MED-C4-62",
+      "sec": "Celiac Diagnosis: Serology & Biopsy",
+      "page": 21,
+      "fmt": "recall",
+      "q": "The sensitivity and specificity of anti-deamidated glutamine dipeptide antibody are described as:",
+      "opts": [
+        "Low",
+        "High",
+        "Moderate and high",
+        "Not established"
+      ],
+      "ans": 0,
+      "exp": "Anti-deamidated glutamine dipeptide (IgG): low sensitivity, specificity. (Book p21)"
+    },
+    {
+      "id": "MED-C4-63",
+      "sec": "Celiac Diagnosis: Serology & Biopsy",
+      "page": 21,
+      "fmt": "recall",
+      "q": "Anti-gliadin antibody testing is described as:",
+      "opts": [
+        "Obsolete",
+        "Gold standard",
+        "Most specific",
+        "The preferred screening test"
+      ],
+      "ans": 0,
+      "exp": "4. Anti-gliadin: obsolete. (Book p21)"
+    },
+    {
+      "id": "MED-C4-64",
+      "sec": "Celiac Diagnosis: Serology & Biopsy",
+      "page": 21,
+      "fmt": "match",
+      "q": "Match the celiac serology to its printed isotype — 1) Anti-TTG 2) Anti-endomysial 3) Anti-deamidated glutamine dipeptide … A) IgG B) IgA C) IgA",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Anti-TTG — IgA; anti-endomysial — IgA; anti-deamidated glutamine dipeptide — IgG. (Book p21)"
+    },
+    {
+      "id": "MED-C4-65",
+      "sec": "Celiac Diagnosis: Serology & Biopsy",
+      "page": 21,
+      "fmt": "recall",
+      "q": "The biopsy note states that the findings of celiac disease are localised to the:",
+      "opts": [
+        "Mucosa",
+        "Submucosa",
+        "Muscularis propria",
+        "Serosa"
+      ],
+      "ans": 0,
+      "exp": "Biopsy: 1. findings localised to mucosa. (Book p21)"
+    },
+    {
+      "id": "MED-C4-66",
+      "sec": "Celiac Diagnosis: Serology & Biopsy",
+      "page": 21,
+      "fmt": "recall",
+      "q": "The two principal mucosal biopsy findings listed are:",
+      "opts": [
+        "Total villous atrophy and crypt hyperplasia",
+        "Transmural inflammation and granulomas",
+        "Pyloric metaplasia and fibrosis",
+        "Crypt abscesses and fissures"
+      ],
+      "ans": 0,
+      "exp": "Biopsy: 2. total villous atrophy, 3. crypt hyperplasia. (Book p21)"
+    },
+    {
+      "id": "MED-C4-67",
+      "sec": "Celiac Diagnosis: Serology & Biopsy",
+      "page": 21,
+      "fmt": "recall",
+      "q": "Mucosal thickness in celiac biopsy is:",
+      "opts": [
+        "Normal",
+        "Increased",
+        "Decreased",
+        "Replaced by fibrosis"
+      ],
+      "ans": 0,
+      "exp": "Biopsy: 4. normal mucosal thickness. (Book p21)"
+    },
+    {
+      "id": "MED-C4-68",
+      "sec": "Celiac Diagnosis: Serology & Biopsy",
+      "page": 21,
+      "fmt": "recall",
+      "q": "Lymphocyte infiltrates in celiac biopsy are seen in the:",
+      "opts": [
+        "Lamina propria",
+        "Muscularis mucosa",
+        "Submucosa",
+        "Myenteric plexus"
+      ],
+      "ans": 0,
+      "exp": "Biopsy: 5. lymphocyte infiltrates in lamina propria. (Book p21)"
+    },
+    {
+      "id": "MED-C4-69",
+      "sec": "Celiac Diagnosis: Serology & Biopsy",
+      "page": 21,
+      "fmt": "recall",
+      "q": "The biopsy finding described as non-specific is:",
+      "opts": [
+        "Vascular degeneration of surface epithelium",
+        "Total villous atrophy",
+        "Crypt hyperplasia",
+        "Lymphocyte infiltrates"
+      ],
+      "ans": 0,
+      "exp": "Biopsy: 6. vascular degeneration of surface epithelium (non-specific). (Book p21)"
+    },
+    {
+      "id": "MED-C4-70",
+      "sec": "Celiac Diagnosis: Serology & Biopsy",
+      "page": 21,
+      "fmt": "fillup",
+      "q": "The grading system shown next to the celiac biopsy image is the ____ score.",
+      "opts": [
+        "Marsh",
+        "Mayo",
+        "Truelove & Witts",
+        "Child-Pugh"
+      ],
+      "ans": 0,
+      "exp": "Biopsy image: celiac disease during reversibility with the Marsh score. (Book p21)"
+    },
+    {
+      "id": "MED-C4-71",
+      "sec": "Celiac Interpretation, Complications & Treatment",
+      "page": 22,
+      "fmt": "match",
+      "q": "Interpret the serology and biopsy combinations as printed — 1) Both positive 2) Both negative 3) Serology positive, biopsy negative 4) Serology negative, biopsy positive … A) Repeat biopsy B) Celiac disease C) Not celiac disease; biopsy findings non-specific D) Not celiac disease; if features suggestive, test HLA DQ2/DQ8",
+      "opts": [
+        "1-B, 2-D, 3-A, 4-C",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-A, 3-D, 4-C"
+      ],
+      "ans": 0,
+      "exp": "Both +ve → celiac disease; both −ve → not celiac disease (if features suggestive → HLA DQ2/DQ8); serology +ve/biopsy −ve → repeat biopsy; serology −ve/biopsy +ve → not celiac disease, biopsy findings non-specific. (Book p22)"
+    },
+    {
+      "id": "MED-C4-72",
+      "sec": "Celiac Interpretation, Complications & Treatment",
+      "page": 22,
+      "fmt": "recall",
+      "q": "When both serology and biopsy are negative but features still suggest celiac disease, the book advises:",
+      "opts": [
+        "HLA DQ2 / DQ8 testing",
+        "Immediate gluten-free diet",
+        "Repeat biopsy after gluten challenge",
+        "No further testing"
+      ],
+      "ans": 0,
+      "exp": "Both −ve → not celiac disease; if features suggestive of celiac disease → HLA DQ2/DQ8. (Book p22)"
+    },
+    {
+      "id": "MED-C4-73",
+      "sec": "Celiac Interpretation, Complications & Treatment",
+      "page": 22,
+      "fmt": "recall",
+      "q": "Serology negative but biopsy positive is interpreted as:",
+      "opts": [
+        "Not celiac disease — the biopsy findings are non-specific",
+        "Celiac disease",
+        "Refractory celiac disease",
+        "Latent celiac disease"
+      ],
+      "ans": 0,
+      "exp": "Serology −ve, biopsy +ve → not celiac disease; biopsy findings are non-specific. (Book p22)"
+    },
+    {
+      "id": "MED-C4-74",
+      "sec": "Celiac Interpretation, Complications & Treatment",
+      "page": 22,
+      "fmt": "recall",
+      "q": "The examples given of non-specific biopsy findings with negative serology are:",
+      "opts": [
+        "Tropical sprue and cow's milk intolerance",
+        "Crohn's disease and tuberculosis",
+        "SIBO and chronic pancreatitis",
+        "Amyloidosis and lymphoma"
+      ],
+      "ans": 0,
+      "exp": "Non-specific biopsy findings e.g.: tropical sprue, cow's milk intolerance. (Book p22)"
+    },
+    {
+      "id": "MED-C4-75",
+      "sec": "Celiac Interpretation, Complications & Treatment",
+      "page": 22,
+      "fmt": "recall",
+      "q": "Complications of celiac disease are seen in:",
+      "opts": [
+        "Refractory celiac disease",
+        "Silent celiac disease",
+        "Latent celiac disease",
+        "Dermatitis herpetiformis"
+      ],
+      "ans": 0,
+      "exp": "Complications: seen in refractory celiac disease. (Book p22)"
+    },
+    {
+      "id": "MED-C4-76",
+      "sec": "Celiac Interpretation, Complications & Treatment",
+      "page": 22,
+      "fmt": "recall",
+      "q": "The most common malignancy complicating celiac disease is:",
+      "opts": [
+        "Enteropathy associated T-cell lymphoma",
+        "Small intestinal adenocarcinoma",
+        "Esophageal squamous cell carcinoma",
+        "Cholangiocarcinoma"
+      ],
+      "ans": 0,
+      "exp": "It is a premalignant condition: enteropathy associated T-cell lymphoma (m/c). (Book p22)"
+    },
+    {
+      "id": "MED-C4-77",
+      "sec": "Celiac Interpretation, Complications & Treatment",
+      "page": 22,
+      "fmt": "recall",
+      "q": "Besides lymphoma, the premalignant complications listed are:",
+      "opts": [
+        "Small intestinal adenocarcinoma and esophageal squamous cell carcinoma",
+        "Gastric adenocarcinoma and colorectal carcinoma",
+        "Hepatocellular carcinoma and cholangiocarcinoma",
+        "Pancreatic adenocarcinoma and carcinoid"
+      ],
+      "ans": 0,
+      "exp": "Premalignant: enteropathy associated T-cell lymphoma (m/c), small intestinal adenocarcinoma, esophageal squamous cell carcinoma. (Book p22)"
+    },
+    {
+      "id": "MED-C4-78",
+      "sec": "Celiac Interpretation, Complications & Treatment",
+      "page": 22,
+      "fmt": "recall",
+      "q": "The diet advised in celiac treatment is based on:",
+      "opts": [
+        "Rice, corn, maize, potato and soybean",
+        "Wheat, barley, rye and oats",
+        "Milk and cheese",
+        "Red meat and eggs"
+      ],
+      "ans": 0,
+      "exp": "Treatment — diet: rice, corn, maize, potato, soybean based. (Book p22)"
+    },
+    {
+      "id": "MED-C4-79",
+      "sec": "Celiac Interpretation, Complications & Treatment",
+      "page": 22,
+      "fmt": "recall",
+      "q": "The dietary restriction in celiac disease is of:",
+      "opts": [
+        "Wheat, barley, rye and oats",
+        "Rice and maize",
+        "Potato and soybean",
+        "Milk and cheese"
+      ],
+      "ans": 0,
+      "exp": "Treatment — diet: restriction of wheat, barley, rye, oats. (Book p22)"
+    },
+    {
+      "id": "MED-C4-80",
+      "sec": "Celiac Interpretation, Complications & Treatment",
+      "page": 22,
+      "fmt": "scenario",
+      "q": "A patient with biopsy-proven celiac disease has persistent villous atrophy after 12 months of strict gluten withdrawal. The book's next step is:",
+      "opts": [
+        "Steroids for refractory celiac disease",
+        "Co-trimoxazole",
+        "Total parenteral nutrition",
+        "Procto-colectomy"
+      ],
+      "ans": 0,
+      "exp": "10% show no improvement → refractory celiac disease → Rx: steroid. (Book p22)"
+    },
+    {
+      "id": "MED-C4-81",
+      "sec": "Whipple's Disease: Presentation",
+      "page": 22,
+      "fmt": "recall",
+      "q": "Whipple's disease is described as:",
+      "opts": [
+        "Chronic multisystem involvement of joints, GIT, CNS and CVS",
+        "An isolated large bowel diarrhea",
+        "A purely cutaneous disorder",
+        "A disease of the biliary tree"
+      ],
+      "ans": 0,
+      "exp": "Whipple's disease — presentation: chronic multisystem involvement (joints, GIT, CNS, CVS). (Book p22)"
+    },
+    {
+      "id": "MED-C4-82",
+      "sec": "Whipple's Disease: Presentation",
+      "page": 22,
+      "fmt": "recall",
+      "q": "The demographic described for Whipple's disease is:",
+      "opts": [
+        "M > F, 50-60 years",
+        "F > M, 20-30 years",
+        "Equal sex ratio, 5-15 years",
+        "F > M, 70-80 years"
+      ],
+      "ans": 0,
+      "exp": "Presentation: M > F, 50-60 yrs. (Book p22)"
+    },
+    {
+      "id": "MED-C4-83",
+      "sec": "Whipple's Disease: Presentation",
+      "page": 22,
+      "fmt": "recall",
+      "q": "The intestinal involvement in Whipple's disease is:",
+      "opts": [
+        "Pan-intestinal, proximal more than distal",
+        "Confined to the rectum",
+        "Confined to the distal ileum",
+        "Confined to the colon"
+      ],
+      "ans": 0,
+      "exp": "Presentation: pan-intestinal — proximal > distal. (Book p22)"
+    },
+    {
+      "id": "MED-C4-84",
+      "sec": "Whipple's Disease: Presentation",
+      "page": 22,
+      "fmt": "recall",
+      "q": "The organism causing Whipple's disease is:",
+      "opts": [
+        "Tropheryma whipplei — a gram positive actinobacterium",
+        "Mycobacterium avium complex",
+        "Actinomyces israelii",
+        "Nocardia asteroides"
+      ],
+      "ans": 0,
+      "exp": "Tropheryma whipplei: gram +ve actinobacterium. (Book p22)"
+    },
+    {
+      "id": "MED-C4-85",
+      "sec": "Whipple's Disease: Presentation",
+      "page": 22,
+      "fmt": "recall",
+      "q": "Tropheryma whipplei cannot be cultured because of its:",
+      "opts": [
+        "Slow doubling time",
+        "Obligate intracellular location",
+        "Requirement for microaerophilic conditions",
+        "Inability to grow on any known medium"
+      ],
+      "ans": 0,
+      "exp": "Tropheryma whipplei: gram +ve actinobacterium that cannot be cultured d/t slow doubling time. (Book p22)"
+    },
+    {
+      "id": "MED-C4-86",
+      "sec": "Whipple's Disease: Presentation",
+      "page": 22,
+      "fmt": "recall",
+      "q": "Diagnosis of Whipple's disease is by:",
+      "opts": [
+        "Biopsy",
+        "Serology",
+        "Stool culture",
+        "Barium study"
+      ],
+      "ans": 0,
+      "exp": "Whipple's disease — Dx: biopsy. (Book p22)"
+    },
+    {
+      "id": "MED-C4-87",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "numeric",
+      "q": "Joint symptoms are the first symptom in what proportion of Whipple's disease?",
+      "opts": [
+        ">80%",
+        "40%",
+        "10%",
+        "50%"
+      ],
+      "ans": 0,
+      "exp": "Joints: first symptom in >80% cases. (Book p23)"
+    },
+    {
+      "id": "MED-C4-88",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "recall",
+      "q": "The joints predominantly involved in Whipple's disease are:",
+      "opts": [
+        "Large joints, especially the knee",
+        "Small joints of the hand",
+        "Sacroiliac joints",
+        "Temporomandibular joints"
+      ],
+      "ans": 0,
+      "exp": "Joints: predominance — large joints (knee). (Book p23)"
+    },
+    {
+      "id": "MED-C4-89",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "recall",
+      "q": "The joint pattern in Whipple's disease is:",
+      "opts": [
+        "Migratory arthralgia more than arthritis",
+        "Symmetrical destructive arthritis",
+        "Ankylosing spondylitis like axial disease",
+        "Monoarthritis of the hip"
+      ],
+      "ans": 0,
+      "exp": "Joints: pattern — migratory arthralgia > arthritis. (Book p23)"
+    },
+    {
+      "id": "MED-C4-90",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "recall",
+      "q": "Gastrointestinal features appear:",
+      "opts": [
+        "2-3 years after the joint features",
+        "Simultaneously with joint features",
+        "Before the joint features",
+        "Only in the terminal phase"
+      ],
+      "ans": 0,
+      "exp": "GIT: 2-3 yrs after joint features. (Book p23)"
+    },
+    {
+      "id": "MED-C4-91",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "recall",
+      "q": "The most consistent gastrointestinal feature of Whipple's disease is:",
+      "opts": [
+        "Diarrhea",
+        "Constipation",
+        "Haematemesis",
+        "Jaundice"
+      ],
+      "ans": 0,
+      "exp": "GIT: diarrhea (most consistent). (Book p23)"
+    },
+    {
+      "id": "MED-C4-92",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "recall",
+      "q": "Besides diarrhea and weight loss, the GIT column lists:",
+      "opts": [
+        "Abdominal pain with mesenteric lymphadenopathy",
+        "Perianal fistulae",
+        "Toxic megacolon",
+        "Painless rectal bleeding"
+      ],
+      "ans": 0,
+      "exp": "GIT: diarrhea (most consistent), weight loss, abdominal pain + mesenteric lymphadenopathy. (Book p23)"
+    },
+    {
+      "id": "MED-C4-93",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "numeric",
+      "q": "Neurological involvement occurs in what proportion of Whipple's disease?",
+      "opts": [
+        "40%",
+        "4%",
+        "80%",
+        "10%"
+      ],
+      "ans": 0,
+      "exp": "Neuro Whipple's (40%). (Book p23)"
+    },
+    {
+      "id": "MED-C4-94",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "recall",
+      "q": "The most common neurological manifestation of Whipple's disease is:",
+      "opts": [
+        "Rapidly progressive dementia",
+        "Oculomasticatory myorhythmia",
+        "Supranuclear ophthalmoplegia",
+        "Peripheral neuropathy"
+      ],
+      "ans": 0,
+      "exp": "Neuro Whipple's: m/c neurological manifestation — rapidly progressive dementia. (Book p23)"
+    },
+    {
+      "id": "MED-C4-95",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "recall",
+      "q": "The most specific neurological manifestation of Whipple's disease is:",
+      "opts": [
+        "Oculomasticatory myorhythmia, then oculofacial myorhythmia",
+        "Rapidly progressive dementia",
+        "Cerebellar ataxia",
+        "Generalised seizures"
+      ],
+      "ans": 0,
+      "exp": "Neuro Whipple's: m/c specific manifestation — oculomasticatory myorhythmia > oculofacial myorhythmia. (Book p23)"
+    },
+    {
+      "id": "MED-C4-96",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "recall",
+      "q": "Oculomasticatory myorhythmia consists of:",
+      "opts": [
+        "Pendular nystagmus and masticatory arrhythmias",
+        "Ptosis and diplopia",
+        "Hemifacial spasm and dysphagia",
+        "Opsoclonus and myoclonus"
+      ],
+      "ans": 0,
+      "exp": "Oculomasticatory myorhythmia: pendular nystagmus + masticatory arrhythmias. (Book p23)"
+    },
+    {
+      "id": "MED-C4-97",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "recall",
+      "q": "Oculomasticatory myorhythmia is associated with:",
+      "opts": [
+        "Supranuclear ophthalmoplegia",
+        "Internuclear ophthalmoplegia",
+        "Optic neuritis",
+        "Horner syndrome"
+      ],
+      "ans": 0,
+      "exp": "Oculomasticatory myorhythmia is associated with supranuclear ophthalmoplegia. (Book p23)"
+    },
+    {
+      "id": "MED-C4-98",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "recall",
+      "q": "Relapse with CNS manifestations in Whipple's disease indicates:",
+      "opts": [
+        "Bad prognosis",
+        "Good prognosis",
+        "Need for surgery",
+        "Coeliac disease"
+      ],
+      "ans": 0,
+      "exp": "Relapse associated with CNS manifestations: bad prognosis. (Book p23)"
+    },
+    {
+      "id": "MED-C4-99",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "recall",
+      "q": "The CVS lesion of Whipple's disease is:",
+      "opts": [
+        "Culture negative endocarditis, mitral valve more than myocarditis more than pericarditis",
+        "Culture positive aortic valve endocarditis",
+        "Constrictive pericarditis",
+        "Dilated cardiomyopathy"
+      ],
+      "ans": 0,
+      "exp": "CVS: culture negative endocarditis — mitral valve > myocarditis > pericarditis. (Book p23)"
+    },
+    {
+      "id": "MED-C4-100",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "recall",
+      "q": "Culture negative endocarditis in Whipple's disease is caused by which group?",
+      "opts": [
+        "HACEK group",
+        "Viridans streptococci",
+        "Enterococci",
+        "Staphylococcus aureus"
+      ],
+      "ans": 0,
+      "exp": "Culture negative endocarditis: HACEK group. (Book p23)"
+    },
+    {
+      "id": "MED-C4-101",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "match",
+      "q": "Match the HACEK organisms as printed — 1) H 2) A 3) C 4) E 5) K … A) Aggregatibacter actinomycetemcomitans B) Haemophilus C) Kingella D) Cardiobacter E) Eikenella",
+      "opts": [
+        "1-B, 2-A, 3-D, 4-E, 5-C",
+        "1-A, 2-B, 3-C, 4-D, 5-E",
+        "1-E, 2-D, 3-C, 4-B, 5-A",
+        "1-B, 2-E, 3-A, 4-C, 5-D"
+      ],
+      "ans": 0,
+      "exp": "HACEK: Haemophilus, Aggregatibacter actinomycetemcomitans, Cardiobacter, Eikenella, Kingella. (Book p23)"
+    },
+    {
+      "id": "MED-C4-102",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "recall",
+      "q": "The tetrad illustrated for Whipple's disease consists of:",
+      "opts": [
+        "Joint symptoms, diarrhea, weight loss, and abdominal pain with mesenteric lymphadenopathy",
+        "Dementia, ophthalmoplegia, myorhythmia and ataxia",
+        "Fever, rash, arthritis and serositis",
+        "Steatorrhea, anemia, osteopenia and dermatitis"
+      ],
+      "ans": 0,
+      "exp": "Whipple's tetrad: joint symptoms, diarrhea, weight loss, abdominal pain + mesenteric lymphadenopathy. (Book p23)"
+    },
+    {
+      "id": "MED-C4-103",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "recall",
+      "q": "Upper GI endoscopy with biopsy is described as diagnostic in what proportion?",
+      "opts": [
+        "100%",
+        "50%",
+        "90%",
+        "73%"
+      ],
+      "ans": 0,
+      "exp": "Diagnosis: upper GI endoscopy — biopsy: 100%. (Book p23)"
+    },
+    {
+      "id": "MED-C4-104",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "recall",
+      "q": "The PCR test in Whipple's disease identifies:",
+      "opts": [
+        "Tropheryma whipplei",
+        "Mycobacterium tuberculosis",
+        "HLA DQ2",
+        "Tropheryma DNA in blood only"
+      ],
+      "ans": 0,
+      "exp": "Diagnosis: PCR — identification of Tropheryma whipplei. (Book p23)"
+    },
+    {
+      "id": "MED-C4-105",
+      "sec": "Whipple's Disease: Clinical Features",
+      "page": 23,
+      "fmt": "match",
+      "q": "Match the differential of Whipple's disease to the system — 1) Joint symptoms 2) GIT symptoms … A) TB B) Spondyloarthritis",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Differential diagnosis: joint symptoms — spondyloarthritis; GIT symptoms — TB. (Book p23)"
+    },
+    {
+      "id": "MED-C4-106",
+      "sec": "Whipple's Disease: Diagnosis & Treatment",
+      "page": 24,
+      "fmt": "recall",
+      "q": "The best induction regimen for Whipple's disease is:",
+      "opts": [
+        "IV ceftriaxone 2 g for 14 days",
+        "Oral co-trimoxazole for 6 months",
+        "IV meropenem for 3 days",
+        "Oral rifaximin for 7 days"
+      ],
+      "ans": 0,
+      "exp": "Treatment — induction: IV ceftriaxone 2 g × 14 days: best regimen. (Book p24)"
+    },
+    {
+      "id": "MED-C4-107",
+      "sec": "Whipple's Disease: Diagnosis & Treatment",
+      "page": 24,
+      "fmt": "recall",
+      "q": "Alternatives listed for induction in Whipple's disease are:",
+      "opts": [
+        "Meropenem, and penicillin plus streptomycin",
+        "Rifaximin and neomycin",
+        "Co-trimoxazole and metronidazole",
+        "Tetracycline and folic acid"
+      ],
+      "ans": 0,
+      "exp": "Induction: IV ceftriaxone 2 g × 14 days (best), meropenem, penicillin + streptomycin. (Book p24)"
+    },
+    {
+      "id": "MED-C4-108",
+      "sec": "Whipple's Disease: Diagnosis & Treatment",
+      "page": 24,
+      "fmt": "recall",
+      "q": "Maintenance therapy in Whipple's disease is with:",
+      "opts": [
+        "Co-trimoxazole",
+        "Ceftriaxone",
+        "Rifaximin",
+        "Doxycycline"
+      ],
+      "ans": 0,
+      "exp": "Maintenance: co-trimoxazole (DOC). (Book p24)"
+    },
+    {
+      "id": "MED-C4-109",
+      "sec": "Whipple's Disease: Diagnosis & Treatment",
+      "page": 24,
+      "fmt": "recall",
+      "q": "The stated advantages of co-trimoxazole maintenance are:",
+      "opts": [
+        "Prevents relapse and has good CNS penetration",
+        "Sterilises the gut and corrects folate deficiency",
+        "Is cheap and once weekly",
+        "Avoids the need for induction"
+      ],
+      "ans": 0,
+      "exp": "Maintenance: co-trimoxazole — prevent relapse, good CNS penetration. (Book p24)"
+    },
+    {
+      "id": "MED-C4-110",
+      "sec": "Whipple's Disease: Diagnosis & Treatment",
+      "page": 24,
+      "fmt": "recall",
+      "q": "The diagnostic biopsy in Whipple's disease shows:",
+      "opts": [
+        "PAS positive foamy macrophages in epithelium, lamina propria and submucosa",
+        "Non-caseating granulomas",
+        "Total villous atrophy with crypt hyperplasia",
+        "Vacuolation of enterocytes"
+      ],
+      "ans": 0,
+      "exp": "Biopsy: PAS +ve foamy macrophages seen in epithelium, lamina propria, submucosa; macrophages contain the organism. (Book p24)"
+    },
+    {
+      "id": "MED-C4-111",
+      "sec": "Whipple's Disease: Diagnosis & Treatment",
+      "page": 24,
+      "fmt": "recall",
+      "q": "The villi in the Whipple's biopsy image are described as:",
+      "opts": [
+        "Enlarged",
+        "Atrophic",
+        "Absent",
+        "Bridge-forming"
+      ],
+      "ans": 0,
+      "exp": "Biopsy image: PAS +ve foamy macrophages with enlarged villi. (Book p24)"
+    },
+    {
+      "id": "MED-C4-112",
+      "sec": "Tropical Sprue: Pathogenesis",
+      "page": 24,
+      "fmt": "recall",
+      "q": "Tropical sprue is the most common cause of malabsorption in:",
+      "opts": [
+        "India, Bangladesh and Pakistan",
+        "North America and Western Europe",
+        "Sub-Saharan Africa",
+        "Australia"
+      ],
+      "ans": 0,
+      "exp": "Tropical sprue: m/c cause of malabsorption in India, Bangladesh, Pakistan. (Book p24)"
+    },
+    {
+      "id": "MED-C4-113",
+      "sec": "Tropical Sprue: Pathogenesis",
+      "page": 24,
+      "fmt": "recall",
+      "q": "Histologically, tropical sprue resembles:",
+      "opts": [
+        "Celiac disease",
+        "Whipple's disease",
+        "Crohn's disease",
+        "Microscopic colitis"
+      ],
+      "ans": 0,
+      "exp": "Tropical sprue: histological features similar to celiac disease. (Book p24)"
+    },
+    {
+      "id": "MED-C4-114",
+      "sec": "Tropical Sprue: Pathogenesis",
+      "page": 24,
+      "fmt": "recall",
+      "q": "The initiating event in the printed pathogenesis of tropical sprue is:",
+      "opts": [
+        "Infective diarrhea",
+        "Gluten ingestion",
+        "Autoimmune villous atrophy",
+        "Bile acid malabsorption"
+      ],
+      "ans": 0,
+      "exp": "Pathogenesis: infective diarrhea → presence of toxigenic coliform in intestine. (Book p24)"
+    },
+    {
+      "id": "MED-C4-115",
+      "sec": "Tropical Sprue: Pathogenesis",
+      "page": 24,
+      "fmt": "recall",
+      "q": "The toxigenic coliforms implicated in tropical sprue are:",
+      "opts": [
+        "E. coli and Klebsiella",
+        "Salmonella and Shigella",
+        "Campylobacter and Vibrio",
+        "Bacteroides and Clostridium"
+      ],
+      "ans": 0,
+      "exp": "Presence of toxigenic coliform in intestine (E. coli, Klebsiella). (Book p24)"
+    },
+    {
+      "id": "MED-C4-116",
+      "sec": "Tropical Sprue: Pathogenesis",
+      "page": 24,
+      "fmt": "recall",
+      "q": "The major fermentation product implicated in tropical sprue is:",
+      "opts": [
+        "Ethanol",
+        "Lactate",
+        "Methane",
+        "Short chain fatty acids"
+      ],
+      "ans": 0,
+      "exp": "Fermentation products (major product: ethanol). (Book p24)"
+    },
+    {
+      "id": "MED-C4-117",
+      "sec": "Tropical Sprue: Pathogenesis",
+      "page": 24,
+      "fmt": "recall",
+      "q": "Structural damage to the small intestine in tropical sprue impairs absorption of:",
+      "opts": [
+        "Folic acid",
+        "Vitamin K",
+        "Vitamin A",
+        "Iron"
+      ],
+      "ans": 0,
+      "exp": "Structural damage to small intestine → impairs absorption of folic acid. (Book p24)"
+    },
+    {
+      "id": "MED-C4-118",
+      "sec": "Tropical Sprue: Pathogenesis",
+      "page": 24,
+      "fmt": "recall",
+      "q": "The interval after which pan-intestinal involvement develops is:",
+      "opts": [
+        "2-3 weeks",
+        "2-3 days",
+        "2-3 months",
+        "2-3 years"
+      ],
+      "ans": 0,
+      "exp": "Impaired folic acid absorption → 2-3 weeks → pan-intestinal involvement. (Book p24)"
+    },
+    {
+      "id": "MED-C4-119",
+      "sec": "Tropical Sprue: Pathogenesis",
+      "page": 24,
+      "fmt": "recall",
+      "q": "Pan-intestinal involvement causes defective absorption of:",
+      "opts": [
+        "Vitamin B12, bile acid and Mg2+",
+        "Iron only",
+        "Vitamin K only",
+        "Vitamin C and folate"
+      ],
+      "ans": 0,
+      "exp": "Pan-intestinal involvement → defective B12, bile acid, Mg2+ absorption. (Book p24)"
+    },
+    {
+      "id": "MED-C4-120",
+      "sec": "Tropical Sprue: Features, Investigations & Treatment",
+      "page": 25,
+      "fmt": "recall",
+      "q": "The diarrhea of tropical sprue is described as:",
+      "opts": [
+        "Chronic small bowel diarrhea that is watery and voluminous",
+        "Large bowel diarrhea with blood and mucus",
+        "Factitious diarrhea with normal stool osmolality",
+        "Nocturnal secretory diarrhea only"
+      ],
+      "ans": 0,
+      "exp": "Clinical features: chronic small bowel diarrhea (watery, voluminous). (Book p25)"
+    },
+    {
+      "id": "MED-C4-121",
+      "sec": "Tropical Sprue: Features, Investigations & Treatment",
+      "page": 25,
+      "fmt": "recall",
+      "q": "The most prominent deficiency in tropical sprue is:",
+      "opts": [
+        "Folic acid deficiency",
+        "Vitamin B12 deficiency",
+        "Vitamin K deficiency",
+        "Iron deficiency"
+      ],
+      "ans": 0,
+      "exp": "Clinical features: folic acid deficiency (most prominent). (Book p25)"
+    },
+    {
+      "id": "MED-C4-122",
+      "sec": "Tropical Sprue: Features, Investigations & Treatment",
+      "page": 25,
+      "fmt": "recall",
+      "q": "Hyperpigmentation in tropical sprue is attributed to:",
+      "opts": [
+        "Vitamin B12 deficiency",
+        "Folic acid deficiency",
+        "Iron overload",
+        "ACTH excess"
+      ],
+      "ans": 0,
+      "exp": "Clinical features: hyperpigmentation — d/t B12 deficiency. (Book p25)"
+    },
+    {
+      "id": "MED-C4-123",
+      "sec": "Tropical Sprue: Features, Investigations & Treatment",
+      "page": 25,
+      "fmt": "recall",
+      "q": "Biopsy in tropical sprue shows:",
+      "opts": [
+        "Features of celiac disease",
+        "Non-caseating granulomas",
+        "PAS positive macrophages",
+        "Normal mucosa"
+      ],
+      "ans": 0,
+      "exp": "Investigations: biopsy — features of celiac disease. (Book p25)"
+    },
+    {
+      "id": "MED-C4-124",
+      "sec": "Tropical Sprue: Features, Investigations & Treatment",
+      "page": 25,
+      "fmt": "recall",
+      "q": "Serology in tropical sprue is:",
+      "opts": [
+        "Negative",
+        "Positive for anti-TTG",
+        "Positive for anti-endomysial",
+        "Positive for ASCA"
+      ],
+      "ans": 0,
+      "exp": "Investigations: serology — negative. (Book p25)"
+    },
+    {
+      "id": "MED-C4-125",
+      "sec": "Tropical Sprue: Features, Investigations & Treatment",
+      "page": 25,
+      "fmt": "recall",
+      "q": "Stool examination in tropical sprue is performed for:",
+      "opts": [
+        "Ova, cyst and trophozoite to rule out giardiasis",
+        "Occult blood",
+        "Fecal elastase",
+        "Reducing substances"
+      ],
+      "ans": 0,
+      "exp": "Investigations: stool examination for ova, cyst, trophozoite (to rule out giardiasis). (Book p25)"
+    },
+    {
+      "id": "MED-C4-126",
+      "sec": "Tropical Sprue: Features, Investigations & Treatment",
+      "page": 25,
+      "fmt": "recall",
+      "q": "The treatment of tropical sprue is:",
+      "opts": [
+        "Folic acid 5 mg daily plus tetracycline 250 mg QID for 3-6 months",
+        "Gluten-free diet alone",
+        "Co-trimoxazole for 14 days",
+        "Medium chain triglyceride diet alone"
+      ],
+      "ans": 0,
+      "exp": "Treatment: folic acid 5 mg daily + tetracycline 250 mg QID for 3-6 months. (Book p25)"
+    },
+    {
+      "id": "MED-C4-127",
+      "sec": "Tropical Sprue: Features, Investigations & Treatment",
+      "page": 25,
+      "fmt": "numeric",
+      "q": "The dose of folic acid used in tropical sprue is:",
+      "opts": [
+        "5 mg daily",
+        "50 mg daily",
+        "0.5 mg daily",
+        "500 mg daily"
+      ],
+      "ans": 0,
+      "exp": "Treatment: folic acid 5 mg daily. (Book p25)"
+    },
+    {
+      "id": "MED-C4-128",
+      "sec": "Tropical Sprue: Features, Investigations & Treatment",
+      "page": 25,
+      "fmt": "numeric",
+      "q": "The dose and frequency of tetracycline used in tropical sprue is:",
+      "opts": [
+        "250 mg QID",
+        "250 mg BD",
+        "500 mg TID",
+        "1 g once weekly"
+      ],
+      "ans": 0,
+      "exp": "Treatment: tetracycline 250 mg QID. (Book p25)"
+    },
+    {
+      "id": "MED-C4-129",
+      "sec": "Tropical Sprue: Features, Investigations & Treatment",
+      "page": 25,
+      "fmt": "recall",
+      "q": "The duration of tropical sprue treatment is:",
+      "opts": [
+        "3-6 months",
+        "7-10 days",
+        "14 days",
+        "Lifelong"
+      ],
+      "ans": 0,
+      "exp": "Treatment: folic acid + tetracycline for 3-6 months. (Book p25)"
+    },
+    {
+      "id": "MED-C4-130",
+      "sec": "Tropical Sprue: Features, Investigations & Treatment",
+      "page": 25,
+      "fmt": "numeric",
+      "q": "Relapse occurs in what proportion of treated tropical sprue?",
+      "opts": [
+        "20%",
+        "2%",
+        "50%",
+        "90%"
+      ],
+      "ans": 0,
+      "exp": "Note: relapse in 20% of cases. (Book p25)"
+    },
+    {
+      "id": "MED-C4-131",
+      "sec": "Tropical Sprue: Features, Investigations & Treatment",
+      "page": 25,
+      "fmt": "recall",
+      "q": "In SIBO the organism uses vitamin B12 and therefore:",
+      "opts": [
+        "Synthesises folic acid",
+        "Destroys folate",
+        "Blocks folate absorption",
+        "Converts folate to B12"
+      ],
+      "ans": 0,
+      "exp": "Note: in SIBO the organism uses B12 → synthesises folic acid. (Book p25)"
+    },
+    {
+      "id": "MED-C4-132",
+      "sec": "Bile Acid Diarrhea & Fatty Acid Diarrhea",
+      "page": 25,
+      "fmt": "recall",
+      "q": "Bile acid diarrhea is also known as:",
+      "opts": [
+        "Cholorrhea",
+        "Steatorrhea",
+        "Lientery",
+        "Melena"
+      ],
+      "ans": 0,
+      "exp": "Bile acid diarrhea: AKA cholorrhea. (Book p25)"
+    },
+    {
+      "id": "MED-C4-133",
+      "sec": "Bile Acid Diarrhea & Fatty Acid Diarrhea",
+      "page": 25,
+      "fmt": "recall",
+      "q": "Bile acid diarrhea is seen in:",
+      "opts": [
+        "Tropical sprue",
+        "Celiac disease",
+        "Whipple's disease",
+        "Cystinuria"
+      ],
+      "ans": 0,
+      "exp": "Bile acid diarrhea: seen in tropical sprue. (Book p25)"
+    },
+    {
+      "id": "MED-C4-134",
+      "sec": "Bile Acid Diarrhea & Fatty Acid Diarrhea",
+      "page": 25,
+      "fmt": "recall",
+      "q": "Bile acid diarrhea is due to defective:",
+      "opts": [
+        "FGF-19",
+        "GLP-1",
+        "Peptide YY",
+        "Gastrin"
+      ],
+      "ans": 0,
+      "exp": "Bile acid diarrhea: due to defective FGF-19. (Book p25)"
+    },
+    {
+      "id": "MED-C4-135",
+      "sec": "Bile Acid Diarrhea & Fatty Acid Diarrhea",
+      "page": 25,
+      "fmt": "recall",
+      "q": "Defective FGF-19 leads to:",
+      "opts": [
+        "↓ bile acid released in the ileum",
+        "↑ bile acid synthesis in the colon",
+        "Bile duct destruction",
+        "Loss of the ileocecal valve"
+      ],
+      "ans": 0,
+      "exp": "Pathology: defective FGF-19 → ↓ bile acid released in the ileum. (Book p25)"
+    },
+    {
+      "id": "MED-C4-136",
+      "sec": "Bile Acid Diarrhea & Fatty Acid Diarrhea",
+      "page": 26,
+      "fmt": "recall",
+      "q": "In limited ileal disease, FGF-19 is present in limited quantity so the liver:",
+      "opts": [
+        "Produces excess bile acid as compensation",
+        "Stops producing bile acid",
+        "Produces lithocholic acid only",
+        "Excretes bile acid into urine"
+      ],
+      "ans": 0,
+      "exp": "Limited ileal disease: FGF-19 +ve in limited quantity → liver produces excess bile acid (compensatory). (Book p26)"
+    },
+    {
+      "id": "MED-C4-137",
+      "sec": "Bile Acid Diarrhea & Fatty Acid Diarrhea",
+      "page": 26,
+      "fmt": "recall",
+      "q": "In bile acid diarrhea, bile acid in the intestinal lumen removes:",
+      "opts": [
+        "Na+, Cl− and K+ from the intestinal epithelium",
+        "Calcium and oxalate from the lumen",
+        "Bicarbonate from the pancreas",
+        "Folate from the diet"
+      ],
+      "ans": 0,
+      "exp": "Bile acid removes Na+, Cl−, K+ from intestinal epithelium → bile acid diarrhea. (Book p26)"
+    },
+    {
+      "id": "MED-C4-138",
+      "sec": "Bile Acid Diarrhea & Fatty Acid Diarrhea",
+      "page": 26,
+      "fmt": "recall",
+      "q": "The statement made about bile acid diarrhea is that there is:",
+      "opts": [
+        "No steatorrhea or malabsorption",
+        "Severe steatorrhea",
+        "Massive protein loss",
+        "Frank rectal bleeding"
+      ],
+      "ans": 0,
+      "exp": "Bile acid diarrhea: no steatorrhea / malabsorption. (Book p26)"
+    },
+    {
+      "id": "MED-C4-139",
+      "sec": "Bile Acid Diarrhea & Fatty Acid Diarrhea",
+      "page": 26,
+      "fmt": "recall",
+      "q": "Fatty acid diarrhea occurs with:",
+      "opts": [
+        "Severe ileal disease",
+        "Limited ileal disease",
+        "Gastric resection",
+        "Coeliac disease"
+      ],
+      "ans": 0,
+      "exp": "Fatty acid diarrhea: severe ileal disease. (Book p26)"
+    },
+    {
+      "id": "MED-C4-140",
+      "sec": "Bile Acid Diarrhea & Fatty Acid Diarrhea",
+      "page": 26,
+      "fmt": "match",
+      "q": "Order the printed fatty acid diarrhea pathway — 1) Severe ileal disease 2) Impaired reabsorption of bile acid 3) No compensatory release 4) Malabsorption 5) Fatty acid in colon … A) Malabsorption B) Severe ileal disease C) Fatty acid in colon D) No compensatory release E) Impaired reabsorption of bile acid",
+      "opts": [
+        "1-B, 2-E, 3-D, 4-A, 5-C",
+        "1-A, 2-B, 3-C, 4-D, 5-E",
+        "1-E, 2-D, 3-C, 4-B, 5-A",
+        "1-B, 2-D, 3-E, 4-C, 5-A"
+      ],
+      "ans": 0,
+      "exp": "Severe ileal disease → impaired reabsorption of bile acid → no compensatory release → malabsorption → fatty acid in colon. (Book p26)"
+    },
+    {
+      "id": "MED-C4-141",
+      "sec": "Bile Acid Diarrhea & Fatty Acid Diarrhea",
+      "page": 26,
+      "fmt": "numeric",
+      "q": "The steatorrhea of fatty acid diarrhea is quantified in the book as:",
+      "opts": [
+        "> 20 g",
+        "> 7 g",
+        "> 50 g",
+        "> 100 g"
+      ],
+      "ans": 0,
+      "exp": "Fatty acid diarrhea: fatty acid in colon → steatorrhea (> 20 g). (Book p26)"
+    },
+    {
+      "id": "MED-C4-142",
+      "sec": "Bile Acid Diarrhea & Fatty Acid Diarrhea",
+      "page": 26,
+      "fmt": "match",
+      "q": "Match the treatment response as printed — 1) Bile acid diarrhea 2) Fatty acid diarrhea … A) Responds to low-fat diet B) Responds to cholestyramine",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Response to cholestyramine: yes in bile acid diarrhea, no in fatty acid diarrhea; response to low-fat diet: no in bile acid diarrhea, yes in fatty acid diarrhea. (Book p26)"
+    },
+    {
+      "id": "MED-C4-143",
+      "sec": "Bile Acid Diarrhea & Fatty Acid Diarrhea",
+      "page": 26,
+      "fmt": "scenario",
+      "q": "A patient with ileal disease has watery diarrhea without steatorrhea. Cholestyramine abolishes the diarrhea. This fits:",
+      "opts": [
+        "Bile acid diarrhea",
+        "Fatty acid diarrhea",
+        "Factitious diarrhea",
+        "Osmotic diarrhea from lactase deficiency"
+      ],
+      "ans": 0,
+      "exp": "Bile acid diarrhea: no steatorrhea and responds to cholestyramine. (Book p26)"
+    },
+    {
+      "id": "MED-C4-144",
+      "sec": "Short Bowel Syndrome: Definition & Etiology",
+      "page": 26,
+      "fmt": "numeric",
+      "q": "Short bowel syndrome is defined as a small intestinal length below:",
+      "opts": [
+        "200 cm",
+        "100 cm",
+        "400 cm",
+        "50 cm"
+      ],
+      "ans": 0,
+      "exp": "Length of small intestine: short bowel syndrome < 200 cm. (Book p26)"
+    },
+    {
+      "id": "MED-C4-145",
+      "sec": "Short Bowel Syndrome: Definition & Etiology",
+      "page": 26,
+      "fmt": "numeric",
+      "q": "Very severe short bowel syndrome is defined as a length below:",
+      "opts": [
+        "100 cm",
+        "200 cm",
+        "50 cm",
+        "150 cm"
+      ],
+      "ans": 0,
+      "exp": "Very severe short bowel syndrome: < 100 cm. (Book p26)"
+    },
+    {
+      "id": "MED-C4-146",
+      "sec": "Short Bowel Syndrome: Definition & Etiology",
+      "page": 26,
+      "fmt": "recall",
+      "q": "The most common cause of short bowel syndrome in adults is:",
+      "opts": [
+        "Mesenteric vascular disease (ischemia of bowel with resection), more than Crohn's disease",
+        "Crohn's disease, more than mesenteric vascular disease",
+        "Trauma",
+        "Radiation enteritis"
+      ],
+      "ans": 0,
+      "exp": "Etiology (m/c) — adult: mesenteric vascular disease (ischemia of bowel → resection) > Crohn's disease. (Book p26)"
+    },
+    {
+      "id": "MED-C4-147",
+      "sec": "Short Bowel Syndrome: Definition & Etiology",
+      "page": 26,
+      "fmt": "recall",
+      "q": "The most common cause of short bowel syndrome in children is:",
+      "opts": [
+        "Necrotising enterocolitis",
+        "Intussusception",
+        "Meckel's diverticulum",
+        "Hirschsprung disease"
+      ],
+      "ans": 0,
+      "exp": "Etiology (m/c) — child: necrotising enterocolitis. (Book p26)"
+    },
+    {
+      "id": "MED-C4-148",
+      "sec": "Short Bowel Syndrome: Clinical Presentation",
+      "page": 27,
+      "fmt": "recall",
+      "q": "In normal physiology, oxalate and calcium form an ____ that is excreted.",
+      "opts": [
+        "insoluble complex",
+        "absorbable complex",
+        "osmotic agent",
+        "bile salt"
+      ],
+      "ans": 0,
+      "exp": "Normal physiology: oxalate + Ca2+ → insoluble → excreted. (Book p27)"
+    },
+    {
+      "id": "MED-C4-149",
+      "sec": "Short Bowel Syndrome: Clinical Presentation",
+      "page": 27,
+      "fmt": "recall",
+      "q": "When the proximal small intestine is absent, unabsorbed long chain fatty acids bind calcium so that:",
+      "opts": [
+        "Free oxalate enters the blood and produces oxalate stones",
+        "Oxalate is excreted normally",
+        "Calcium oxalate precipitates in the gut",
+        "Oxalate is converted to citrate"
+      ],
+      "ans": 0,
+      "exp": "Absent proximal small intestine: unabsorbed LCFA bind Ca2+ → free oxalate → into blood → oxalate stones in urine. (Book p27)"
+    },
+    {
+      "id": "MED-C4-150",
+      "sec": "Short Bowel Syndrome: Clinical Presentation",
+      "page": 27,
+      "fmt": "match",
+      "q": "Order the printed hyperoxaluria pathway — 1) Unabsorbed LCFA 2) Free oxalate 3) Into blood 4) Oxalate stones in urine … A) Into blood B) Unabsorbed LCFA C) Oxalate stones in urine D) Free oxalate",
+      "opts": [
+        "1-B, 2-D, 3-A, 4-C",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-A, 3-D, 4-C"
+      ],
+      "ans": 0,
+      "exp": "Unabsorbed long chain fatty acids → free oxalate → into blood → oxalate stones in urine. (Book p27)"
+    },
+    {
+      "id": "MED-C4-151",
+      "sec": "Short Bowel Syndrome: Clinical Presentation",
+      "page": 27,
+      "fmt": "recall",
+      "q": "Cholesterol gallstones in short bowel syndrome are attributed to:",
+      "opts": [
+        "Absent ileum, so bile acids and vitamin B12 are not absorbed, causing supersaturation",
+        "Excess cholesterol synthesis",
+        "Haemolysis",
+        "Chronic cholecystitis"
+      ],
+      "ans": 0,
+      "exp": "Cholesterol gallstones: absent ileum → bile acids, vitamin B12 not absorbed → supersaturation. (Book p27)"
+    },
+    {
+      "id": "MED-C4-152",
+      "sec": "Short Bowel Syndrome: Clinical Presentation",
+      "page": 27,
+      "fmt": "recall",
+      "q": "Physiologically the colon forms which lactate isomer, and which organism is the normal flora named?",
+      "opts": [
+        "L-lactate, with Bacteroides fragilis",
+        "D-lactate, with Lactobacillus",
+        "L-lactate, with Lactobacillus",
+        "D-lactate, with Bacteroides fragilis"
+      ],
+      "ans": 0,
+      "exp": "D-lactic acidosis — physiological: L-lactate formed; flora of colon: Bacteroides fragilis. (Book p27)"
+    },
+    {
+      "id": "MED-C4-153",
+      "sec": "Short Bowel Syndrome: Clinical Presentation",
+      "page": 27,
+      "fmt": "recall",
+      "q": "D-lactic acidosis follows excessive fermentation by:",
+      "opts": [
+        "Gram positive anaerobes",
+        "Gram negative aerobes",
+        "Fungi",
+        "Mycobacteria"
+      ],
+      "ans": 0,
+      "exp": "Excessive fermentation by gram positive anaerobes → ↓ pH in the colonic lumen. (Book p27)"
+    },
+    {
+      "id": "MED-C4-154",
+      "sec": "Short Bowel Syndrome: Clinical Presentation",
+      "page": 27,
+      "fmt": "recall",
+      "q": "The bacterial overgrowth producing D-lactate is attributed to:",
+      "opts": [
+        "Lactobacillus and Bifidobacterium",
+        "Bacteroides fragilis",
+        "E. coli and Klebsiella",
+        "Pseudomonas"
+      ],
+      "ans": 0,
+      "exp": "Bacterial overgrowth (Lactobacillus, Bifidobacterium) → D-lactate (not metabolised). (Book p27)"
+    },
+    {
+      "id": "MED-C4-155",
+      "sec": "Short Bowel Syndrome: Clinical Presentation",
+      "page": 27,
+      "fmt": "recall",
+      "q": "D-lactate is absorbed into blood and produces:",
+      "opts": [
+        "D-lactic acidosis with CNS manifestations",
+        "Metabolic alkalosis",
+        "Lactic acidosis that is easily metabolised",
+        "Hyperchloraemic acidosis without symptoms"
+      ],
+      "ans": 0,
+      "exp": "D-lactate (not metabolised) → absorbed into blood → D-lactic acidosis → CNS manifestations. (Book p27)"
+    },
+    {
+      "id": "MED-C4-156",
+      "sec": "Short Bowel Syndrome: Clinical Presentation",
+      "page": 27,
+      "fmt": "recall",
+      "q": "Hypergastrinemia in short bowel syndrome arises because:",
+      "opts": [
+        "Absent small bowel reduces intestinal hormones, leaving gastrin uninhibited",
+        "A gastrinoma develops",
+        "H. pylori infection supervenes",
+        "Renal failure reduces gastrin clearance"
+      ],
+      "ans": 0,
+      "exp": "Hypergastrinemia: absent small bowel → ↓ intestinal hormones → gastrin uninhibited. (Book p27)"
+    },
+    {
+      "id": "MED-C4-157",
+      "sec": "Short Bowel Syndrome: Clinical Presentation",
+      "page": 27,
+      "fmt": "recall",
+      "q": "Hypomagnesemia in short bowel syndrome is due to:",
+      "opts": [
+        "No Mg2+ absorption from the ileum",
+        "Renal magnesium wasting",
+        "Poor dietary intake",
+        "Vitamin D deficiency"
+      ],
+      "ans": 0,
+      "exp": "Hypomagnesemia: no Mg2+ absorption from ileum. (Book p27)"
+    },
+    {
+      "id": "MED-C4-158",
+      "sec": "Short Bowel Syndrome: Clinical Presentation",
+      "page": 27,
+      "fmt": "recall",
+      "q": "Defective ileal break produces:",
+      "opts": [
+        "↑ gastric emptying",
+        "↓ gastric emptying",
+        "Pyloric stenosis",
+        "Gastroparesis"
+      ],
+      "ans": 0,
+      "exp": "6. ↑ gastric emptying: defective ileal break. (Book p27)"
+    },
+    {
+      "id": "MED-C4-159",
+      "sec": "Short Bowel Syndrome: Clinical Presentation",
+      "page": 27,
+      "fmt": "recall",
+      "q": "The physiology of the ileal break is mediated by:",
+      "opts": [
+        "GLP-1, GLP-2 and peptide YY, which reduce motility and slow gastric emptying",
+        "Gastrin and histamine",
+        "Motilin and ghrelin",
+        "Secretin and CCK"
+      ],
+      "ans": 0,
+      "exp": "Physiology: GLP-1, GLP-2, peptide YY → ↓ motility → ↓ gastric emptying (ileal break). (Book p27)"
+    },
+    {
+      "id": "MED-C4-160",
+      "sec": "Short Bowel Syndrome: Clinical Presentation",
+      "page": 27,
+      "fmt": "fillup",
+      "q": "The ileal break is triggered when unabsorbed ____ enters the ileum.",
+      "opts": [
+        "fat",
+        "carbohydrate",
+        "protein",
+        "bile acid"
+      ],
+      "ans": 0,
+      "exp": "Ileal break: ↑ unabsorbed fat enters ileum. (Book p27)"
+    },
+    {
+      "id": "MED-C4-161",
+      "sec": "Short Bowel Syndrome: Deficiencies & Management",
+      "page": 28,
+      "fmt": "recall",
+      "q": "Iron deficiency in short bowel syndrome occurs with absence of:",
+      "opts": [
+        "Duodenum more than jejunum",
+        "Ileum more than colon",
+        "Colon more than stomach",
+        "Jejunum more than duodenum"
+      ],
+      "ans": 0,
+      "exp": "Deficiencies: Fe — in absent duodenum > jejunum. (Book p28)"
+    },
+    {
+      "id": "MED-C4-162",
+      "sec": "Short Bowel Syndrome: Deficiencies & Management",
+      "page": 28,
+      "fmt": "recall",
+      "q": "Calcium, folate and vitamins A, D and E deficiency occur with absence of the:",
+      "opts": [
+        "Jejunum",
+        "Ileum",
+        "Colon",
+        "Stomach"
+      ],
+      "ans": 0,
+      "exp": "Deficiencies: Ca2+, folate, vitamin A, D, E — in absent jejunum. (Book p28)"
+    },
+    {
+      "id": "MED-C4-163",
+      "sec": "Short Bowel Syndrome: Deficiencies & Management",
+      "page": 28,
+      "fmt": "recall",
+      "q": "Vitamin K deficiency is rare in short bowel syndrome because:",
+      "opts": [
+        "It is synthesised by bacteria that migrate when the ileocecal valve is absent",
+        "It is absorbed in the stomach",
+        "It has large body stores",
+        "It is given routinely in parenteral nutrition"
+      ],
+      "ans": 0,
+      "exp": "Vitamin K: rare d/t synthesis (absent ileocecal valve → migration of bacteria). (Book p28)"
+    },
+    {
+      "id": "MED-C4-164",
+      "sec": "Short Bowel Syndrome: Deficiencies & Management",
+      "page": 28,
+      "fmt": "recall",
+      "q": "SIBO in short bowel syndrome is attributed to:",
+      "opts": [
+        "Loss of the ileocecal valve",
+        "Loss of the pylorus",
+        "Loss of the colon",
+        "Loss of the gallbladder"
+      ],
+      "ans": 0,
+      "exp": "SIBO: d/t loss of ileocecal valve. (Book p28)"
+    },
+    {
+      "id": "MED-C4-165",
+      "sec": "Short Bowel Syndrome: Deficiencies & Management",
+      "page": 28,
+      "fmt": "recall",
+      "q": "In the diet column, medium chain fatty acids are recommended because:",
+      "opts": [
+        "Lipolysis is not required for their absorption",
+        "They are the most energy dense",
+        "They supply essential fatty acids",
+        "They stimulate the ileal break"
+      ],
+      "ans": 0,
+      "exp": "Diet: medium chain fatty acids (lipolysis not required for its absorption). (Book p28)"
+    },
+    {
+      "id": "MED-C4-166",
+      "sec": "Short Bowel Syndrome: Deficiencies & Management",
+      "page": 28,
+      "fmt": "recall",
+      "q": "Complex carbohydrates are useful in short bowel syndrome because they are:",
+      "opts": [
+        "Absorbed in the colon as short chain fatty acids",
+        "Absorbed without digestion in the duodenum",
+        "Converted to glucose by bacteria in the stomach",
+        "The only source of essential fatty acids"
+      ],
+      "ans": 0,
+      "exp": "Diet: complex carbohydrates (absorbed in colon as short chain fatty acids). (Book p28)"
+    },
+    {
+      "id": "MED-C4-167",
+      "sec": "Short Bowel Syndrome: Deficiencies & Management",
+      "page": 28,
+      "fmt": "recall",
+      "q": "When the colon is absent, the management column advises:",
+      "opts": [
+        "Total parenteral nutrition",
+        "High residue diet",
+        "Oral rehydration alone",
+        "Medium chain triglycerides alone"
+      ],
+      "ans": 0,
+      "exp": "Diet table: colon absent → total parenteral nutrition. (Book p28)"
+    },
+    {
+      "id": "MED-C4-168",
+      "sec": "Short Bowel Syndrome: Deficiencies & Management",
+      "page": 28,
+      "fmt": "recall",
+      "q": "The medical therapy listed for short bowel syndrome is:",
+      "opts": [
+        "Teduglutide — an oral GLP-2 analogue",
+        "Octreotide — a somatostatin analogue",
+        "Loperamide",
+        "Cholestyramine"
+      ],
+      "ans": 0,
+      "exp": "Medical: teduglutide (oral GLP-2 analogue). (Book p28)"
+    },
+    {
+      "id": "MED-C4-169",
+      "sec": "SIBO: Physiology, Pathology & Etiology",
+      "page": 28,
+      "fmt": "recall",
+      "q": "SIBO is also known as:",
+      "opts": [
+        "Blind loop syndrome or stagnant bowel syndrome",
+        "Short bowel syndrome",
+        "Dumping syndrome",
+        "Irritable bowel syndrome"
+      ],
+      "ans": 0,
+      "exp": "SIBO: AKA blind loop syndrome, stagnant bowel syndrome. (Book p28)"
+    },
+    {
+      "id": "MED-C4-170",
+      "sec": "SIBO: Physiology, Pathology & Etiology",
+      "page": 28,
+      "fmt": "match",
+      "q": "Match the region to its printed normal bacterial content — 1) Proximal small intestine 2) Ileum 3) Colon … A) Anaerobes B) No bacteria C) Enterobacteriaceae",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Physiology: proximal small intestine — no bacteria; ileum — Enterobacteriaceae; colon — anaerobes. (Book p28)"
+    },
+    {
+      "id": "MED-C4-171",
+      "sec": "SIBO: Physiology, Pathology & Etiology",
+      "page": 28,
+      "fmt": "recall",
+      "q": "The organisms causing bacterial overgrowth in SIBO are:",
+      "opts": [
+        "Non-toxigenic anaerobes such as Bacteroides fragilis, Enterobacteriaceae and Pseudomonas",
+        "Toxigenic aerobes such as E. coli and Klebsiella",
+        "Fungi and mycobacteria",
+        "Viruses and spirochaetes"
+      ],
+      "ans": 0,
+      "exp": "Pathology: non-toxigenic anaerobes (Bacteroides fragilis, Enterobacteriaceae, Pseudomonas). (Book p28)"
+    },
+    {
+      "id": "MED-C4-172",
+      "sec": "SIBO: Physiology, Pathology & Etiology",
+      "page": 28,
+      "fmt": "recall",
+      "q": "In SIBO the overgrowth occurs in the:",
+      "opts": [
+        "Proximal small intestine",
+        "Colon",
+        "Stomach",
+        "Terminal ileum only"
+      ],
+      "ans": 0,
+      "exp": "Pathology: bacterial overgrowth in the proximal small intestine. (Book p28)"
+    },
+    {
+      "id": "MED-C4-173",
+      "sec": "SIBO: Physiology, Pathology & Etiology",
+      "page": 28,
+      "fmt": "recall",
+      "q": "The anatomical defects listed as causes of SIBO are:",
+      "opts": [
+        "Fistula and ileocecal valve removal",
+        "Stricture and diverticulum",
+        "Volvulus and adhesions",
+        "Hernia and intussusception"
+      ],
+      "ans": 0,
+      "exp": "Etiology: 1. anatomical defect — fistula, ileocecal valve removal. (Book p28)"
+    },
+    {
+      "id": "MED-C4-174",
+      "sec": "SIBO: Physiology, Pathology & Etiology",
+      "page": 28,
+      "fmt": "recall",
+      "q": "Irritable bowel syndrome predisposes to SIBO through:",
+      "opts": [
+        "A defective migratory motor complex",
+        "Excess acid secretion",
+        "Bile acid malabsorption",
+        "Loss of the ileocecal valve"
+      ],
+      "ans": 0,
+      "exp": "Functional and motility disorders: irritable bowel syndrome — defective migratory motor complex. (Book p28)"
+    },
+    {
+      "id": "MED-C4-175",
+      "sec": "SIBO: Physiology, Pathology & Etiology",
+      "page": 28,
+      "fmt": "recall",
+      "q": "The motility disorders listed under SIBO etiology are:",
+      "opts": [
+        "IBS, scleroderma, diabetes mellitus and amyloidosis",
+        "IBS, achalasia, gastroparesis and Hirschsprung disease",
+        "Scleroderma, myasthenia and polymyositis",
+        "Diabetes mellitus, hypothyroidism and Addison disease"
+      ],
+      "ans": 0,
+      "exp": "Functional and motility disorders: irritable bowel syndrome (IBS), scleroderma, diabetes mellitus, amyloidosis. (Book p28)"
+    },
+    {
+      "id": "MED-C4-176",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "recall",
+      "q": "The immunodeficiency states listed under SIBO etiology are:",
+      "opts": [
+        "Common variable immune deficiency and IgA deficiency",
+        "Bruton agammaglobulinaemia and SCID",
+        "HIV and AIDS alone",
+        "Neutropenia and asplenia"
+      ],
+      "ans": 0,
+      "exp": "4. Immunodeficiency: common variable immune deficiency (CVID), IgA deficiency. (Book p29)"
+    },
+    {
+      "id": "MED-C4-177",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "recall",
+      "q": "The multifactorial cause listed under SIBO etiology is:",
+      "opts": [
+        "HIV",
+        "Diabetes mellitus",
+        "Scleroderma",
+        "Amyloidosis"
+      ],
+      "ans": 0,
+      "exp": "5. Multifactorial: HIV. (Book p29)"
+    },
+    {
+      "id": "MED-C4-178",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "recall",
+      "q": "Luminal bacteria in SIBO harm the host by:",
+      "opts": [
+        "Competing for host nutrients and consuming B12, proteins and vitamins",
+        "Producing a toxigenic diarrheal toxin",
+        "Destroying the brush border directly",
+        "Blocking bile acid synthesis"
+      ],
+      "ans": 0,
+      "exp": "Bacteria in lumen → compete for host nutrients → consume B12, proteins, vitamins. (Book p29)"
+    },
+    {
+      "id": "MED-C4-179",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "recall",
+      "q": "The most common symptom of SIBO is:",
+      "opts": [
+        "Bloating and belching",
+        "Steatorrhea",
+        "Haematochezia",
+        "Fever"
+      ],
+      "ans": 0,
+      "exp": "Bloating, belching: m/c symptom. (Book p29)"
+    },
+    {
+      "id": "MED-C4-180",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "recall",
+      "q": "Bloating and belching in SIBO are attributed to:",
+      "opts": [
+        "Unabsorbed carbohydrates",
+        "Bile acid malabsorption",
+        "Protein malabsorption",
+        "Fat malabsorption"
+      ],
+      "ans": 0,
+      "exp": "Bloating, belching: d/t unabsorbed carbohydrates. (Book p29)"
+    },
+    {
+      "id": "MED-C4-181",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "recall",
+      "q": "The clinical features listed for SIBO are:",
+      "opts": [
+        "Vitamin B12 deficiency, macrocytic anemia, steatorrhea and unexplained diarrhea",
+        "Iron deficiency, microcytic anemia and constipation",
+        "Vitamin K deficiency, bleeding and bruising",
+        "Vitamin A deficiency and night blindness"
+      ],
+      "ans": 0,
+      "exp": "Clinical presentation: deficiency of vitamin B12, macrocytic anemia, steatorrhea, unexplained diarrhea. (Book p29)"
+    },
+    {
+      "id": "MED-C4-182",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "recall",
+      "q": "Occult malabsorption in SIBO means some cases present with:",
+      "opts": [
+        "Only weight loss",
+        "Only fever",
+        "Only steatorrhea",
+        "Only anemia"
+      ],
+      "ans": 0,
+      "exp": "Occult malabsorption: some cases present with only weight loss. (Book p29)"
+    },
+    {
+      "id": "MED-C4-183",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "match",
+      "q": "Compare SIBO with tropical sprue as printed — 1) Organisms in the small intestine 2) Vitamin B12 deficiency 3) Folate deficiency … A) Tropical sprue: prominent B) SIBO: non-toxigenic anaerobes / tropical sprue: toxigenic aerobes C) SIBO: prominent",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Organisms in SI — SIBO: non-toxigenic anaerobes, tropical sprue: toxigenic aerobes; vitamin B12 deficiency is prominent in SIBO; folate deficiency is prominent in tropical sprue. (Book p29)"
+    },
+    {
+      "id": "MED-C4-184",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "recall",
+      "q": "The gold standard investigation for SIBO is:",
+      "opts": [
+        "Jejunal fluid aspirate",
+        "Lactulose hydrogen breath test",
+        "Urinary indican",
+        "Serum folate"
+      ],
+      "ans": 0,
+      "exp": "1. Jejunal fluid aspirate: >10^3 CFU/mL (gold standard). (Book p29)"
+    },
+    {
+      "id": "MED-C4-185",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "numeric",
+      "q": "The diagnostic colony count on jejunal fluid aspirate is:",
+      "opts": [
+        ">10^3 CFU/mL",
+        ">10^5 CFU/mL",
+        ">10^1 CFU/mL",
+        ">10^7 CFU/mL"
+      ],
+      "ans": 0,
+      "exp": "Jejunal fluid aspirate: >10^3 CFU/mL (gold standard). (Book p29)"
+    },
+    {
+      "id": "MED-C4-186",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "recall",
+      "q": "The preferred test for SIBO is:",
+      "opts": [
+        "Lactulose hydrogen breath test, because it is easy to perform",
+        "Jejunal fluid aspirate",
+        "Urinary indican levels",
+        "Serum vitamin B12"
+      ],
+      "ans": 0,
+      "exp": "2. Lactulose hydrogen breath test: easy to perform (preferred). (Book p29)"
+    },
+    {
+      "id": "MED-C4-187",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "recall",
+      "q": "Urinary indican levels for SIBO are described as:",
+      "opts": [
+        "Obsolete",
+        "Gold standard",
+        "Preferred",
+        "The most specific"
+      ],
+      "ans": 0,
+      "exp": "3. Urinary indican levels: obsolete. (Book p29)"
+    },
+    {
+      "id": "MED-C4-188",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "recall",
+      "q": "Serum vitamin B12 in SIBO is:",
+      "opts": [
+        "Decreased",
+        "Increased",
+        "Normal",
+        "Undetectable"
+      ],
+      "ans": 0,
+      "exp": "4. Serum vitamin B12: decreased. (Book p29)"
+    },
+    {
+      "id": "MED-C4-189",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "recall",
+      "q": "Serum folate and vitamin K in SIBO are:",
+      "opts": [
+        "Increased",
+        "Decreased",
+        "Normal",
+        "Undetectable"
+      ],
+      "ans": 0,
+      "exp": "5. S. folate and vitamin K: increased. (Book p29)"
+    },
+    {
+      "id": "MED-C4-190",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "recall",
+      "q": "The duration of antibiotic therapy for SIBO is:",
+      "opts": [
+        "7-10 days",
+        "3-6 months",
+        "A single dose",
+        "14-21 days"
+      ],
+      "ans": 0,
+      "exp": "Management: antibiotics 7-10 days. (Book p29)"
+    },
+    {
+      "id": "MED-C4-191",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "recall",
+      "q": "The drug of choice for SIBO is:",
+      "opts": [
+        "Rifaximin 550 mg BD",
+        "Neomycin 500 mg BD",
+        "Metronidazole 250 mg TID",
+        "Amoxicillin-clavulanic acid 500 mg TID"
+      ],
+      "ans": 0,
+      "exp": "Tab rifaximin 550 mg BD (DOC). (Book p29)"
+    },
+    {
+      "id": "MED-C4-192",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "numeric",
+      "q": "The dose of rifaximin used in SIBO is:",
+      "opts": [
+        "550 mg BD",
+        "550 mg OD",
+        "250 mg TID",
+        "500 mg TID"
+      ],
+      "ans": 0,
+      "exp": "Tab rifaximin 550 mg BD (DOC). (Book p29)"
+    },
+    {
+      "id": "MED-C4-193",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "recall",
+      "q": "The combination regimen listed for SIBO is:",
+      "opts": [
+        "Rifaximin 550 mg plus neomycin 500 mg BD",
+        "Rifaximin plus metronidazole",
+        "Amoxicillin-clavulanic acid plus neomycin",
+        "Tetracycline plus metronidazole"
+      ],
+      "ans": 0,
+      "exp": "Tab rifaximin 550 mg + tab neomycin 500 mg BD. (Book p29)"
+    },
+    {
+      "id": "MED-C4-194",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "match",
+      "q": "Match the persistence/recurrence regimen to its printed dose — 1) Amoxicillin-clavulanic acid 2) Tetracycline 3) Metronidazole … A) 250 mg QID B) 500 mg TID C) 250 mg TID",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 0,
+      "exp": "On persistence/recurrence: amoxicillin-clavulanic acid 500 mg TID, tetracycline 250 mg QID, metronidazole 250 mg TID. (Book p29)"
+    },
+    {
+      "id": "MED-C4-195",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "recall",
+      "q": "The class of antibiotics the book says to avoid in SIBO is:",
+      "opts": [
+        "Macrolides",
+        "Nitroimidazoles",
+        "Tetracyclines",
+        "Aminoglycosides"
+      ],
+      "ans": 0,
+      "exp": "Avoid macrolides. (Book p29)"
+    },
+    {
+      "id": "MED-C4-196",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "page": 29,
+      "fmt": "scenario",
+      "q": "A patient with prior ileocecal valve resection has macrocytic anemia, steatorrhea and bloating. Serum B12 is low and folate is high. The book's diagnosis is:",
+      "opts": [
+        "SIBO",
+        "Tropical sprue",
+        "Coeliac disease",
+        "Pernicious anemia"
+      ],
+      "ans": 0,
+      "exp": "SIBO: organisms use B12 and synthesise folate — low B12, high folate, macrocytic anemia and steatorrhea. (Book p29)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U4-1",
+      "ch": 4,
+      "n": 1,
+      "title": "Global Malabsorption: Overview",
+      "sec": "Global Malabsorption: Overview",
+      "guide": "Defective absorption of carbohydrate, fat and protein from small intestinal mucosal dysfunction.\nFat is the most sensitive, most specific and most energy dense nutrient.\nThree causes: celiac disease, Whipple's disease, tropical sprue.",
+      "qs": [
+        "MED-C4-01",
+        "MED-C4-02",
+        "MED-C4-03",
+        "MED-C4-04",
+        "MED-C4-05"
+      ]
+    },
+    {
+      "id": "MED-U4-2",
+      "ch": 4,
+      "n": 2,
+      "title": "Celiac Disease: Features & Iceberg Phenomenon",
+      "sec": "Celiac Disease: Features & Iceberg Phenomenon",
+      "guide": "AKA celiac sprue / gluten sensitive enteropathy / non-tropical sprue.\nIceberg phenomenon: only 50% present classically, missed through physician unawareness.\nHLA DQ2/DQ8 is the most important predisposition; the disease is proximal small intestinal.",
+      "qs": [
+        "MED-C4-06",
+        "MED-C4-07",
+        "MED-C4-08",
+        "MED-C4-09",
+        "MED-C4-10",
+        "MED-C4-11",
+        "MED-C4-12"
+      ]
+    },
+    {
+      "id": "MED-U4-3",
+      "ch": 4,
+      "n": 3,
+      "title": "Celiac Disease: Types",
+      "sec": "Celiac Disease: Types",
+      "guide": "Classical: 50% present with symptoms of malabsorption.\nAtypical: symptoms other than malabsorption; silent: asymptomatic, serology positive.\nLatent: asymptomatic, antibodies negative, HLA susceptibility present.",
+      "qs": [
+        "MED-C4-13",
+        "MED-C4-14",
+        "MED-C4-15",
+        "MED-C4-16",
+        "MED-C4-17",
+        "MED-C4-18"
+      ]
+    },
+    {
+      "id": "MED-U4-4",
+      "ch": 4,
+      "n": 4,
+      "title": "Celiac Pathophysiology & Disease Progression",
+      "sec": "Celiac Pathophysiology & Disease Progression",
+      "guide": "HLA DQ2/DQ8 → gluten (wheat, barley, rye, oats) → prolamine (most toxic) → gliadin (chief antigen).\nTissue transglutaminase deamidates gliadin-bound glutamine → activates T cells.\nGluten-free diet: 90% revert (clinically 3 weeks, histologically 6 months); 10% refractory → steroids.",
+      "qs": [
+        "MED-C4-19",
+        "MED-C4-20",
+        "MED-C4-21",
+        "MED-C4-22",
+        "MED-C4-23",
+        "MED-C4-24",
+        "MED-C4-25",
+        "MED-C4-26",
+        "MED-C4-27",
+        "MED-C4-28",
+        "MED-C4-29",
+        "MED-C4-30",
+        "MED-C4-31",
+        "MED-C4-32",
+        "MED-C4-33"
+      ]
+    },
+    {
+      "id": "MED-U4-5",
+      "ch": 4,
+      "n": 5,
+      "title": "Celiac Clinical Features",
+      "sec": "Celiac Clinical Features",
+      "guide": "Classical: osmotic diarrhea, distension, foul smelling stool, weight loss; IBS symptoms in 30%.\nAtypical: short stature, fracture/osteopenia, ataxia/neuropathy, iron deficiency anemia not due to blood loss.\nOther: secondary hyperparathyroidism, cerebral calcification, hyposplenism with Howell-Jolly bodies, follicular hyperkeratosis, edema/ascites, cryptogenic cirrhosis.",
+      "qs": [
+        "MED-C4-34",
+        "MED-C4-35",
+        "MED-C4-36",
+        "MED-C4-37",
+        "MED-C4-38",
+        "MED-C4-39",
+        "MED-C4-40",
+        "MED-C4-41",
+        "MED-C4-42",
+        "MED-C4-43",
+        "MED-C4-44",
+        "MED-C4-45",
+        "MED-C4-46",
+        "MED-C4-47"
+      ]
+    },
+    {
+      "id": "MED-U4-6",
+      "ch": 4,
+      "n": 6,
+      "title": "Celiac Associations",
+      "sec": "Celiac Associations",
+      "guide": "Definite: dermatitis herpetiformis (most important), Down syndrome, type I DM, IgA nephropathy, IgA deficiency, bird-fancier lung, lymphocytic colitis, cerebral calcification with epilepsy.\nDermatitis herpetiformis: papulovesicular extensor lesions with linear IgA at the dermoepidermal junction.\nProbable: cryptogenic transaminitis, idiopathic short stature, refractory iron deficiency anemia, cerebellar ataxia.",
+      "qs": [
+        "MED-C4-48",
+        "MED-C4-49",
+        "MED-C4-50",
+        "MED-C4-51",
+        "MED-C4-52",
+        "MED-C4-53",
+        "MED-C4-54"
+      ]
+    },
+    {
+      "id": "MED-U4-7",
+      "ch": 4,
+      "n": 7,
+      "title": "Celiac Diagnosis: Serology & Biopsy",
+      "sec": "Celiac Diagnosis: Serology & Biopsy",
+      "guide": "Anti-TTG IgA: most important for diagnosis and monitoring; specificity 98%.\nAnti-endomysial IgA: indirect immunofluorescence, sensitivity 99%, specificity 73%, subjective and cumbersome.\nAnti-deamidated gliadin peptide IgG for IgA deficiency; anti-gliadin obsolete. Biopsy: mucosal total villous atrophy, crypt hyperplasia, normal thickness, lamina propria lymphocytes, Marsh score.",
+      "qs": [
+        "MED-C4-55",
+        "MED-C4-56",
+        "MED-C4-57",
+        "MED-C4-58",
+        "MED-C4-59",
+        "MED-C4-60",
+        "MED-C4-61",
+        "MED-C4-62",
+        "MED-C4-63",
+        "MED-C4-64",
+        "MED-C4-65",
+        "MED-C4-66",
+        "MED-C4-67",
+        "MED-C4-68",
+        "MED-C4-69",
+        "MED-C4-70"
+      ]
+    },
+    {
+      "id": "MED-U4-8",
+      "ch": 4,
+      "n": 8,
+      "title": "Celiac Interpretation, Complications & Treatment",
+      "sec": "Celiac Interpretation, Complications & Treatment",
+      "guide": "Both positive = celiac; both negative = not celiac (test HLA DQ2/DQ8 if suggestive).\nSerology positive/biopsy negative: repeat biopsy; serology negative/biopsy positive: non-specific (tropical sprue, cow's milk intolerance).\nRefractory disease is premalignant: EATL, small intestinal adenocarcinoma, esophageal squamous cell carcinoma; diet is rice/corn/maize/potato/soybean with gluten restriction.",
+      "qs": [
+        "MED-C4-71",
+        "MED-C4-72",
+        "MED-C4-73",
+        "MED-C4-74",
+        "MED-C4-75",
+        "MED-C4-76",
+        "MED-C4-77",
+        "MED-C4-78",
+        "MED-C4-79",
+        "MED-C4-80"
+      ]
+    },
+    {
+      "id": "MED-U4-9",
+      "ch": 4,
+      "n": 9,
+      "title": "Whipple's Disease: Presentation",
+      "sec": "Whipple's Disease: Presentation",
+      "guide": "Chronic multisystem disease of joints, GIT, CNS and CVS; M > F, 50-60 years.\nPan-intestinal, proximal more than distal; Tropheryma whipplei is a gram positive actinobacterium that cannot be cultured because of slow doubling time.\nDiagnosis is by biopsy.",
+      "qs": [
+        "MED-C4-81",
+        "MED-C4-82",
+        "MED-C4-83",
+        "MED-C4-84",
+        "MED-C4-85",
+        "MED-C4-86"
+      ]
+    },
+    {
+      "id": "MED-U4-10",
+      "ch": 4,
+      "n": 10,
+      "title": "Whipple's Disease: Clinical Features",
+      "sec": "Whipple's Disease: Clinical Features",
+      "guide": "Joints first in >80%: large joints, migratory arthralgia > arthritis.\nGIT 2-3 years later: diarrhea (most consistent), weight loss, abdominal pain with mesenteric lymphadenopathy.\nNeuro 40%: rapidly progressive dementia (m/c) and oculomasticatory myorhythmia (m/c specific); CVS: culture negative endocarditis, mitral valve > myocarditis > pericarditis, HACEK group.",
+      "qs": [
+        "MED-C4-87",
+        "MED-C4-88",
+        "MED-C4-89",
+        "MED-C4-90",
+        "MED-C4-91",
+        "MED-C4-92",
+        "MED-C4-93",
+        "MED-C4-94",
+        "MED-C4-95",
+        "MED-C4-96",
+        "MED-C4-97",
+        "MED-C4-98",
+        "MED-C4-99",
+        "MED-C4-100",
+        "MED-C4-101",
+        "MED-C4-102",
+        "MED-C4-103",
+        "MED-C4-104",
+        "MED-C4-105"
+      ]
+    },
+    {
+      "id": "MED-U4-11",
+      "ch": 4,
+      "n": 11,
+      "title": "Whipple's Disease: Diagnosis & Treatment",
+      "sec": "Whipple's Disease: Diagnosis & Treatment",
+      "guide": "Upper GI endoscopy with biopsy is 100% diagnostic; PCR identifies Tropheryma whipplei.\nPAS positive foamy macrophages in epithelium, lamina propria and submucosa with enlarged villi.\nInduction IV ceftriaxone 2 g for 14 days (best); maintenance co-trimoxazole prevents relapse and penetrates the CNS.",
+      "qs": [
+        "MED-C4-106",
+        "MED-C4-107",
+        "MED-C4-108",
+        "MED-C4-109",
+        "MED-C4-110",
+        "MED-C4-111"
+      ]
+    },
+    {
+      "id": "MED-U4-12",
+      "ch": 4,
+      "n": 12,
+      "title": "Tropical Sprue: Pathogenesis",
+      "sec": "Tropical Sprue: Pathogenesis",
+      "guide": "Most common cause of malabsorption in India, Bangladesh and Pakistan.\nInfective diarrhea → toxigenic coliforms (E. coli, Klebsiella) → fermentation products, mainly ethanol.\nStructural damage impairs folic acid absorption → 2-3 weeks → pan-intestinal involvement with defective B12, bile acid and Mg2+ absorption.",
+      "qs": [
+        "MED-C4-112",
+        "MED-C4-113",
+        "MED-C4-114",
+        "MED-C4-115",
+        "MED-C4-116",
+        "MED-C4-117",
+        "MED-C4-118",
+        "MED-C4-119"
+      ]
+    },
+    {
+      "id": "MED-U4-13",
+      "ch": 4,
+      "n": 13,
+      "title": "Tropical Sprue: Features, Investigations & Treatment",
+      "sec": "Tropical Sprue: Features, Investigations & Treatment",
+      "guide": "Chronic watery voluminous small bowel diarrhea, steatorrhea, weight loss, prominent folic acid deficiency, hyperpigmentation from B12 deficiency.\nBiopsy resembles celiac disease but serology is negative; stool examined for ova, cyst and trophozoite to rule out giardiasis.\nFolic acid 5 mg daily plus tetracycline 250 mg QID for 3-6 months; relapse in 20%.",
+      "qs": [
+        "MED-C4-120",
+        "MED-C4-121",
+        "MED-C4-122",
+        "MED-C4-123",
+        "MED-C4-124",
+        "MED-C4-125",
+        "MED-C4-126",
+        "MED-C4-127",
+        "MED-C4-128",
+        "MED-C4-129",
+        "MED-C4-130",
+        "MED-C4-131"
+      ]
+    },
+    {
+      "id": "MED-U4-14",
+      "ch": 4,
+      "n": 14,
+      "title": "Bile Acid Diarrhea & Fatty Acid Diarrhea",
+      "sec": "Bile Acid Diarrhea & Fatty Acid Diarrhea",
+      "guide": "Bile acid diarrhea (cholorrhea) is seen in tropical sprue from defective FGF-19; limited ileal disease leaves compensatory excess hepatic bile acid removing Na+, Cl− and K+.\nFatty acid diarrhea needs severe ileal disease: no compensatory release → malabsorption → fatty acid in colon → steatorrhea >20 g.\nCholestyramine helps bile acid diarrhea; a low-fat diet helps fatty acid diarrhea.",
+      "qs": [
+        "MED-C4-132",
+        "MED-C4-133",
+        "MED-C4-134",
+        "MED-C4-135",
+        "MED-C4-136",
+        "MED-C4-137",
+        "MED-C4-138",
+        "MED-C4-139",
+        "MED-C4-140",
+        "MED-C4-141",
+        "MED-C4-142",
+        "MED-C4-143"
+      ]
+    },
+    {
+      "id": "MED-U4-15",
+      "ch": 4,
+      "n": 15,
+      "title": "Short Bowel Syndrome: Definition & Etiology",
+      "sec": "Short Bowel Syndrome: Definition & Etiology",
+      "guide": "Short bowel syndrome: < 200 cm; very severe: < 100 cm.\nAdult: mesenteric vascular disease (ischemia with resection) more than Crohn's disease.\nChild: necrotising enterocolitis.",
+      "qs": [
+        "MED-C4-144",
+        "MED-C4-145",
+        "MED-C4-146",
+        "MED-C4-147"
+      ]
+    },
+    {
+      "id": "MED-U4-16",
+      "ch": 4,
+      "n": 16,
+      "title": "Short Bowel Syndrome: Clinical Presentation",
+      "sec": "Short Bowel Syndrome: Clinical Presentation",
+      "guide": "Hyperoxaluria: unabsorbed LCFA bind calcium, free oxalate is absorbed and forms oxalate stones.\nAbsent ileum → cholesterol gallstones from supersaturation.\nD-lactic acidosis from gram positive anaerobes (Lactobacillus, Bifidobacterium) causing CNS features; hypergastrinemia; hypomagnesemia; defective ileal break with rapid gastric emptying.",
+      "qs": [
+        "MED-C4-148",
+        "MED-C4-149",
+        "MED-C4-150",
+        "MED-C4-151",
+        "MED-C4-152",
+        "MED-C4-153",
+        "MED-C4-154",
+        "MED-C4-155",
+        "MED-C4-156",
+        "MED-C4-157",
+        "MED-C4-158",
+        "MED-C4-159",
+        "MED-C4-160"
+      ]
+    },
+    {
+      "id": "MED-U4-17",
+      "ch": 4,
+      "n": 17,
+      "title": "Short Bowel Syndrome: Deficiencies & Management",
+      "sec": "Short Bowel Syndrome: Deficiencies & Management",
+      "guide": "Iron: absent duodenum > jejunum; Ca2+, folate, vitamins A, D, E: absent jejunum; vitamin K rarely because bacteria migrate when the ileocecal valve is lost.\nSIBO from loss of the ileocecal valve.\nDiet: medium chain fatty acids and complex carbohydrates; total parenteral nutrition when the colon is absent; teduglutide is an oral GLP-2 analogue.",
+      "qs": [
+        "MED-C4-161",
+        "MED-C4-162",
+        "MED-C4-163",
+        "MED-C4-164",
+        "MED-C4-165",
+        "MED-C4-166",
+        "MED-C4-167",
+        "MED-C4-168"
+      ]
+    },
+    {
+      "id": "MED-U4-18",
+      "ch": 4,
+      "n": 18,
+      "title": "SIBO: Physiology, Pathology & Etiology",
+      "sec": "SIBO: Physiology, Pathology & Etiology",
+      "guide": "AKA blind loop syndrome / stagnant bowel syndrome.\nProximal small intestine normally has no bacteria; ileum has Enterobacteriaceae; colon has anaerobes.\nOvergrowth of non-toxigenic anaerobes proximally; causes are anatomical defects, motility disorders (IBS, scleroderma, diabetes, amyloidosis), immunodeficiency and HIV.",
+      "qs": [
+        "MED-C4-169",
+        "MED-C4-170",
+        "MED-C4-171",
+        "MED-C4-172",
+        "MED-C4-173",
+        "MED-C4-174",
+        "MED-C4-175"
+      ]
+    },
+    {
+      "id": "MED-U4-19",
+      "ch": 4,
+      "n": 19,
+      "title": "SIBO: Presentation, Investigations & Management",
+      "sec": "SIBO: Presentation, Investigations & Management",
+      "guide": "Bacteria compete for nutrients and consume B12: bloating and belching are most common; B12 deficiency, macrocytic anemia, steatorrhea, unexplained diarrhea.\nJejunal aspirate >10^3 CFU/mL is gold standard; lactulose H2 breath test is preferred; indican is obsolete; B12 low, folate and vitamin K high.\nRifaximin 550 mg BD for 7-10 days; avoid macrolides.",
+      "qs": [
+        "MED-C4-176",
+        "MED-C4-177",
+        "MED-C4-178",
+        "MED-C4-179",
+        "MED-C4-180",
+        "MED-C4-181",
+        "MED-C4-182",
+        "MED-C4-183",
+        "MED-C4-184",
+        "MED-C4-185",
+        "MED-C4-186",
+        "MED-C4-187",
+        "MED-C4-188",
+        "MED-C4-189",
+        "MED-C4-190",
+        "MED-C4-191",
+        "MED-C4-192",
+        "MED-C4-193",
+        "MED-C4-194",
+        "MED-C4-195",
+        "MED-C4-196"
+      ]
+    }
+  ]
+}

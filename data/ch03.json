@@ -1,0 +1,1379 @@
+{
+  "chapter": 3,
+  "title": "Clinical Features And Tests For Malabsorption",
+  "pageRange": "14-17",
+  "questions": [
+    {
+      "id": "MED-C3-01",
+      "sec": "Steps for Evaluating Malabsorption",
+      "page": 14,
+      "fmt": "recall",
+      "q": "The first step in evaluating malabsorption is to:",
+      "opts": [
+        "Confirm the diagnosis",
+        "Confirm the aetiology",
+        "Start a gluten-free diet",
+        "Confirm global versus selective malabsorption"
+      ],
+      "ans": 0,
+      "exp": "Steps for evaluating malabsorption: 1. confirm the diagnosis (clinically / by investigations). (Book p14)"
+    },
+    {
+      "id": "MED-C3-02",
+      "sec": "Steps for Evaluating Malabsorption",
+      "page": 14,
+      "fmt": "match",
+      "q": "Order the printed steps — 1) Step 1 2) Step 2 3) Step 3 … A) Confirm global vs selective malabsorption B) Confirm the diagnosis C) Confirm the aetiology",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 0,
+      "exp": "1. Confirm the diagnosis, 2. confirm global vs selective malabsorption, 3. confirm the aetiology. (Book p14)"
+    },
+    {
+      "id": "MED-C3-03",
+      "sec": "Steps for Evaluating Malabsorption",
+      "page": 14,
+      "fmt": "recall",
+      "q": "The second step after confirming the diagnosis of malabsorption is to:",
+      "opts": [
+        "Confirm global versus selective malabsorption",
+        "Confirm the aetiology",
+        "Begin empirical antibiotics",
+        "Repeat the stool fat test"
+      ],
+      "ans": 0,
+      "exp": "2. Confirm global vs selective malabsorption. (Book p14)"
+    },
+    {
+      "id": "MED-C3-04",
+      "sec": "Steps for Evaluating Malabsorption",
+      "page": 14,
+      "fmt": "recall",
+      "q": "The final step in the book's evaluation sequence is to:",
+      "opts": [
+        "Confirm the aetiology",
+        "Confirm the diagnosis",
+        "Confirm global vs selective type",
+        "Discharge with dietary advice"
+      ],
+      "ans": 0,
+      "exp": "3. Confirm the aetiology. (Book p14)"
+    },
+    {
+      "id": "MED-C3-05",
+      "sec": "Steps for Evaluating Malabsorption",
+      "page": 14,
+      "fmt": "fillup",
+      "q": "The diagnosis of malabsorption is confirmed clinically and by ____.",
+      "opts": [
+        "investigations",
+        "therapeutic trial alone",
+        "radiology alone",
+        "serology alone"
+      ],
+      "ans": 0,
+      "exp": "Step 1: confirm the diagnosis — clinically and by investigations. (Book p14)"
+    },
+    {
+      "id": "MED-C3-06",
+      "sec": "Clinical Features: Gastrointestinal",
+      "page": 14,
+      "fmt": "recall",
+      "q": "In the clinical features table, the diarrhoea of malabsorption arises from which site?",
+      "opts": [
+        "Small intestine",
+        "Colon",
+        "Stomach",
+        "Oesophagus"
+      ],
+      "ans": 0,
+      "exp": "Clinical features — diarrhoea: site — small intestine. (Book p14)"
+    },
+    {
+      "id": "MED-C3-07",
+      "sec": "Clinical Features: Gastrointestinal",
+      "page": 14,
+      "fmt": "recall",
+      "q": "The duration of diarrhoea in the malabsorption table is:",
+      "opts": [
+        ">4 weeks",
+        "<2 weeks",
+        ">2 weeks but <4 weeks",
+        "<48 hours"
+      ],
+      "ans": 0,
+      "exp": "Clinical features — duration: >4 weeks. (Book p14)"
+    },
+    {
+      "id": "MED-C3-08",
+      "sec": "Clinical Features: Gastrointestinal",
+      "page": 14,
+      "fmt": "recall",
+      "q": "The stool osmotic gap in malabsorption is:",
+      "opts": [
+        "Increased",
+        "Decreased",
+        "Normal",
+        "Zero"
+      ],
+      "ans": 0,
+      "exp": "Clinical features: stool osmotic gap ↑. (Book p14)"
+    },
+    {
+      "id": "MED-C3-09",
+      "sec": "Clinical Features: Gastrointestinal",
+      "page": 14,
+      "fmt": "fillup",
+      "q": "The diarrhoea of malabsorption is described as ____ diarrhoea and is the most consistent symptom.",
+      "opts": [
+        "osmotic",
+        "secretory",
+        "factitious",
+        "inflammatory"
+      ],
+      "ans": 0,
+      "exp": "Osmotic diarrhoea: most consistent symptom. (Book p14)"
+    },
+    {
+      "id": "MED-C3-10",
+      "sec": "Clinical Features: Gastrointestinal",
+      "page": 14,
+      "fmt": "recall",
+      "q": "On fasting, the diarrhoea of malabsorption:",
+      "opts": [
+        "Improves",
+        "Worsens",
+        "Is unchanged",
+        "Becomes bloody"
+      ],
+      "ans": 0,
+      "exp": "Clinical features: improves on fasting. (Book p14)"
+    },
+    {
+      "id": "MED-C3-11",
+      "sec": "Clinical Features: Gastrointestinal",
+      "page": 14,
+      "fmt": "recall",
+      "q": "Gastrointestinal — fat malabsorption presents as:",
+      "opts": [
+        "Steatorrhea",
+        "Abdominal bloating and dyspeptic symptoms",
+        "Foul smelling stools, ascites and edema",
+        "Unexplained weight loss"
+      ],
+      "ans": 0,
+      "exp": "Gastrointestinal: fat malabsorption → steatorrhea. (Book p14)"
+    },
+    {
+      "id": "MED-C3-12",
+      "sec": "Clinical Features: Gastrointestinal",
+      "page": 14,
+      "fmt": "recall",
+      "q": "Gastrointestinal — carbohydrate malabsorption presents as:",
+      "opts": [
+        "Abdominal bloating and dyspeptic symptoms",
+        "Steatorrhea",
+        "Foul smelling stools, ascites and edema",
+        "Haematemesis"
+      ],
+      "ans": 0,
+      "exp": "Gastrointestinal: carbohydrate malabsorption → abdominal bloating and dyspeptic symptoms. (Book p14)"
+    },
+    {
+      "id": "MED-C3-13",
+      "sec": "Clinical Features: Gastrointestinal",
+      "page": 14,
+      "fmt": "recall",
+      "q": "Gastrointestinal — protein malabsorption presents as:",
+      "opts": [
+        "Foul smelling stools, ascites and edema",
+        "Steatorrhea",
+        "Abdominal bloating and dyspeptic symptoms",
+        "Painless rectal bleeding"
+      ],
+      "ans": 0,
+      "exp": "Gastrointestinal: protein malabsorption → foul smelling stools, ascites, edema. (Book p14)"
+    },
+    {
+      "id": "MED-C3-14",
+      "sec": "Clinical Features: Gastrointestinal",
+      "page": 14,
+      "fmt": "match",
+      "q": "Match the macronutrient malabsorbed to the printed gut feature — 1) Fat 2) Carbohydrate 3) Protein … A) Foul smelling stools, ascites, edema B) Steatorrhea C) Abdominal bloating and dyspeptic symptoms",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Fat → steatorrhea; carbohydrate → abdominal bloating and dyspeptic symptoms; protein → foul smelling stools, ascites, edema. (Book p14)"
+    },
+    {
+      "id": "MED-C3-15",
+      "sec": "Clinical Features: Gastrointestinal",
+      "page": 14,
+      "fmt": "recall",
+      "q": "The fourth gastrointestinal feature listed is:",
+      "opts": [
+        "Unexplained weight loss",
+        "Jaundice",
+        "Haematemesis",
+        "Constipation"
+      ],
+      "ans": 0,
+      "exp": "Gastrointestinal: unexplained weight loss. (Book p14)"
+    },
+    {
+      "id": "MED-C3-16",
+      "sec": "Clinical Features: Musculoskeletal & Cutaneous",
+      "page": 14,
+      "fmt": "recall",
+      "q": "Musculoskeletal features of malabsorption are attributed to:",
+      "opts": [
+        "Fat malabsorption due to impaired vitamin D and calcium absorption",
+        "Protein malabsorption with myopathy",
+        "Carbohydrate malabsorption with lactic acidosis",
+        "Vitamin K deficiency with haemarthrosis"
+      ],
+      "ans": 0,
+      "exp": "Musculoskeletal: fat malabsorption d/t impaired vitamin D and Ca2+ absorption. (Book p14)"
+    },
+    {
+      "id": "MED-C3-17",
+      "sec": "Clinical Features: Musculoskeletal & Cutaneous",
+      "page": 14,
+      "fmt": "recall",
+      "q": "The musculoskeletal features listed are:",
+      "opts": [
+        "Tetany, fracture and bone pain",
+        "Arthralgia, myalgia and stiffness",
+        "Clubbing and hypertrophic osteoarthropathy",
+        "Sacroiliitis and enthesitis"
+      ],
+      "ans": 0,
+      "exp": "Musculoskeletal: tetany, fracture, bone pain. (Book p14)"
+    },
+    {
+      "id": "MED-C3-18",
+      "sec": "Clinical Features: Musculoskeletal & Cutaneous",
+      "page": 14,
+      "fmt": "recall",
+      "q": "Cutaneous — hyperpigmentation is attributed to deficiency of:",
+      "opts": [
+        "Vitamin B3 / niacin",
+        "Vitamin C",
+        "Vitamin K",
+        "Zinc and essential fatty acids"
+      ],
+      "ans": 0,
+      "exp": "Cutaneous manifestations: vitamin B3 / niacin deficiency → hyperpigmentation. (Book p14)"
+    },
+    {
+      "id": "MED-C3-19",
+      "sec": "Clinical Features: Musculoskeletal & Cutaneous",
+      "page": 14,
+      "fmt": "recall",
+      "q": "Cutaneous — perifollicular hemorrhage and curly (spiral) hair indicate deficiency of:",
+      "opts": [
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin K",
+        "Vitamin B3"
+      ],
+      "ans": 0,
+      "exp": "Cutaneous: vitamin C deficiency → perifollicular hemorrhage, curly hair / spiral hair. (Book p14)"
+    },
+    {
+      "id": "MED-C3-20",
+      "sec": "Clinical Features: Musculoskeletal & Cutaneous",
+      "page": 14,
+      "fmt": "recall",
+      "q": "Cutaneous — bruisability and ecchymoses indicate deficiency of:",
+      "opts": [
+        "Vitamin K",
+        "Vitamin C",
+        "Vitamin A",
+        "Niacin"
+      ],
+      "ans": 0,
+      "exp": "Cutaneous: vitamin K deficiency → bruisability, ecchymoses. (Book p14)"
+    },
+    {
+      "id": "MED-C3-21",
+      "sec": "Clinical Features: Musculoskeletal & Cutaneous",
+      "page": 14,
+      "fmt": "recall",
+      "q": "Cutaneous — acrodermatitis is attributed to deficiency of:",
+      "opts": [
+        "Zinc and essential fatty acids",
+        "Vitamin A",
+        "Vitamin K",
+        "Vitamin C"
+      ],
+      "ans": 0,
+      "exp": "Cutaneous: Zn / essential fatty acid deficiency → acrodermatitis. (Book p14)"
+    },
+    {
+      "id": "MED-C3-22",
+      "sec": "Clinical Features: Musculoskeletal & Cutaneous",
+      "page": 14,
+      "fmt": "recall",
+      "q": "Cutaneous — follicular hyperkeratosis indicates deficiency of:",
+      "opts": [
+        "Vitamin A",
+        "Vitamin K",
+        "Niacin",
+        "Vitamin C"
+      ],
+      "ans": 0,
+      "exp": "Cutaneous: vitamin A deficiency → follicular hyperkeratosis. (Book p14)"
+    },
+    {
+      "id": "MED-C3-23",
+      "sec": "Clinical Features: Musculoskeletal & Cutaneous",
+      "page": 14,
+      "fmt": "match",
+      "q": "Match the cutaneous sign to the printed deficiency — 1) Hyperpigmentation 2) Perifollicular hemorrhage, curly hair 3) Bruisability, ecchymoses 4) Acrodermatitis … A) Vitamin K B) Niacin (B3) C) Zinc / essential fatty acids D) Vitamin C",
+      "opts": [
+        "1-B, 2-D, 3-A, 4-C",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-A, 3-D, 4-C"
+      ],
+      "ans": 0,
+      "exp": "Niacin → hyperpigmentation; vitamin C → perifollicular hemorrhage and curly hair; vitamin K → bruisability/ecchymoses; Zn and essential fatty acids → acrodermatitis. (Book p14)"
+    },
+    {
+      "id": "MED-C3-24",
+      "sec": "Clinical Features: Miscellaneous & Kidney Stones",
+      "page": 14,
+      "fmt": "recall",
+      "q": "Miscellaneous — coeliac disease in the table presents with:",
+      "opts": [
+        "Growth retardation",
+        "Peripheral neuropathy",
+        "Night blindness",
+        "Bruisability"
+      ],
+      "ans": 0,
+      "exp": "Miscellaneous: coeliac disease → growth retardation. (Book p14)"
+    },
+    {
+      "id": "MED-C3-25",
+      "sec": "Clinical Features: Miscellaneous & Kidney Stones",
+      "page": 14,
+      "fmt": "recall",
+      "q": "Anaemia due to intestinal malabsorption — distal pathology produces:",
+      "opts": [
+        "Vitamin B12 deficiency",
+        "Folate deficiency",
+        "Iron deficiency",
+        "Pyridoxine deficiency"
+      ],
+      "ans": 0,
+      "exp": "Anaemia (d/t intestinal malabsorption): distal pathology → vitamin B12 deficiency. (Book p14)"
+    },
+    {
+      "id": "MED-C3-26",
+      "sec": "Clinical Features: Miscellaneous & Kidney Stones",
+      "page": 14,
+      "fmt": "recall",
+      "q": "Anaemia due to intestinal malabsorption — proximal pathology produces:",
+      "opts": [
+        "Folate / iron deficiency",
+        "Vitamin B12 deficiency",
+        "Vitamin E deficiency",
+        "Copper deficiency"
+      ],
+      "ans": 0,
+      "exp": "Anaemia: proximal pathology → folate / iron deficiency. (Book p14)"
+    },
+    {
+      "id": "MED-C3-27",
+      "sec": "Clinical Features: Miscellaneous & Kidney Stones",
+      "page": 14,
+      "fmt": "match",
+      "q": "Match the level of intestinal pathology to the printed anaemia — 1) Proximal 2) Distal … A) Vitamin B12 deficiency B) Folate / iron deficiency",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Proximal pathology → folate / iron deficiency; distal pathology → vitamin B12 deficiency. (Book p14)"
+    },
+    {
+      "id": "MED-C3-28",
+      "sec": "Clinical Features: Miscellaneous & Kidney Stones",
+      "page": 14,
+      "fmt": "recall",
+      "q": "Peripheral neuropathy and ataxia in the miscellaneous column are attributed to:",
+      "opts": [
+        "Vitamin B12 / E deficiency",
+        "Vitamin A deficiency",
+        "Folate deficiency",
+        "Vitamin K deficiency"
+      ],
+      "ans": 0,
+      "exp": "Miscellaneous: vitamin B12 / E deficiency → peripheral neuropathy, ataxia. (Book p14)"
+    },
+    {
+      "id": "MED-C3-29",
+      "sec": "Clinical Features: Miscellaneous & Kidney Stones",
+      "page": 14,
+      "fmt": "recall",
+      "q": "Glossitis, cheliosis and stomatitis are attributed to:",
+      "opts": [
+        "Vitamin B12 deficiency",
+        "Vitamin A deficiency",
+        "Niacin deficiency",
+        "Vitamin C deficiency"
+      ],
+      "ans": 0,
+      "exp": "Miscellaneous: vitamin B12 deficiency → glossitis, cheliosis, stomatitis. (Book p14)"
+    },
+    {
+      "id": "MED-C3-30",
+      "sec": "Clinical Features: Miscellaneous & Kidney Stones",
+      "page": 14,
+      "fmt": "recall",
+      "q": "Night blindness and xerophthalmia are attributed to:",
+      "opts": [
+        "Vitamin A deficiency",
+        "Vitamin B12 deficiency",
+        "Vitamin K deficiency",
+        "Niacin deficiency"
+      ],
+      "ans": 0,
+      "exp": "Miscellaneous: vitamin A deficiency → night blindness, xerophthalmia. (Book p14)"
+    },
+    {
+      "id": "MED-C3-31",
+      "sec": "Clinical Features: Miscellaneous & Kidney Stones",
+      "page": 14,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one of these is not a listed miscellaneous feature of malabsorption:",
+      "opts": [
+        "Arthralgia",
+        "Growth retardation",
+        "Peripheral neuropathy, ataxia",
+        "Night blindness, xerophthalmia"
+      ],
+      "ans": 0,
+      "exp": "Miscellaneous lists growth retardation, anaemia, peripheral neuropathy/ataxia, glossitis-cheliosis-stomatitis and night blindness. Arthralgia is not listed. (Book p14)"
+    },
+    {
+      "id": "MED-C3-32",
+      "sec": "Clinical Features: Miscellaneous & Kidney Stones",
+      "page": 15,
+      "fmt": "recall",
+      "q": "In normal physiology, fatty acid binds calcium to form an ____ that is excreted.",
+      "opts": [
+        "insoluble complex",
+        "osmotic load",
+        "free oxalate",
+        "bile salt"
+      ],
+      "ans": 0,
+      "exp": "Normal physiology: fatty acid + Ca2+ → insoluble → excreted. (Book p15)"
+    },
+    {
+      "id": "MED-C3-33",
+      "sec": "Clinical Features: Miscellaneous & Kidney Stones",
+      "page": 15,
+      "fmt": "recall",
+      "q": "In malabsorption, unbound oxalate in the gut is:",
+      "opts": [
+        "Absorbed in the colon producing oxaluria",
+        "Excreted unchanged in the stool",
+        "Converted to citrate",
+        "Metabolised by colonic bacteria to lactate"
+      ],
+      "ans": 0,
+      "exp": "In malabsorption: free oxalate in gut → oxalate absorbed in colon → oxaluria. (Book p15)"
+    },
+    {
+      "id": "MED-C3-34",
+      "sec": "Clinical Features: Miscellaneous & Kidney Stones",
+      "page": 15,
+      "fmt": "match",
+      "q": "Order the printed kidney stone pathway — 1) Free oxalate in gut 2) Oxalate absorbed in colon 3) Oxaluria 4) Ca2+ oxalate stones … A) Oxaluria B) Free oxalate in gut C) Ca2+ oxalate stones D) Oxalate absorbed in colon",
+      "opts": [
+        "1-B, 2-D, 3-A, 4-C",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-C, 2-D, 3-B, 4-A",
+        "1-B, 2-A, 3-D, 4-C"
+      ],
+      "ans": 0,
+      "exp": "Free oxalate in gut → oxalate absorbed in colon → oxaluria → Ca2+ oxalate stones. (Book p15)"
+    },
+    {
+      "id": "MED-C3-35",
+      "sec": "Clinical Features: Miscellaneous & Kidney Stones",
+      "page": 15,
+      "fmt": "recall",
+      "q": "The kidney stones of malabsorption are composed of:",
+      "opts": [
+        "Calcium oxalate",
+        "Uric acid",
+        "Struvite",
+        "Cystine"
+      ],
+      "ans": 0,
+      "exp": "Malabsorption → Ca2+ oxalate stones in urine. (Book p15)"
+    },
+    {
+      "id": "MED-C3-36",
+      "sec": "Clinical Features: Miscellaneous & Kidney Stones",
+      "page": 15,
+      "fmt": "oddoneout",
+      "q": "All of the following are listed as NOT seen in malabsorption EXCEPT:",
+      "opts": [
+        "Steatorrhea",
+        "Abdominal pain",
+        "Constipation",
+        "Fever"
+      ],
+      "ans": 0,
+      "exp": "Note: symptoms not seen in malabsorption — abdominal pain, constipation, fever. Steatorrhea is a feature. (Book p15)"
+    },
+    {
+      "id": "MED-C3-37",
+      "sec": "Clinical Features: Miscellaneous & Kidney Stones",
+      "page": 15,
+      "fmt": "recall",
+      "q": "The note lists symptoms that are not seen in malabsorption as:",
+      "opts": [
+        "Abdominal pain, constipation and fever",
+        "Steatorrhea, weight loss and edema",
+        "Bloating, belching and flatus",
+        "Glossitis, cheliosis and stomatitis"
+      ],
+      "ans": 0,
+      "exp": "Note: symptoms not seen in malabsorption — abdominal pain, constipation, fever. (Book p15)"
+    },
+    {
+      "id": "MED-C3-38",
+      "sec": "Clinical Features: Miscellaneous & Kidney Stones",
+      "page": 15,
+      "fmt": "match",
+      "q": "Match the differential of malabsorption to the printed similarity — 1) TB 2) Nephrotic syndrome … A) Protein loss B) Weight loss, long standing diarrhoea, edema/ascites",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Differentials of malabsorption (similar symptoms): TB — weight loss, long standing diarrhoea, edema/ascites; nephrotic syndrome — protein loss. (Book p15)"
+    },
+    {
+      "id": "MED-C3-39",
+      "sec": "Clinical Features: Miscellaneous & Kidney Stones",
+      "page": 15,
+      "fmt": "scenario",
+      "q": "A patient has chronic diarrhoea, weight loss and ascites. Before calling it malabsorption the book asks you to exclude:",
+      "opts": [
+        "Tuberculosis",
+        "Coeliac disease",
+        "Tropical sprue",
+        "Cystinuria"
+      ],
+      "ans": 0,
+      "exp": "Differentials of malabsorption with similar symptoms: TB — weight loss, long standing diarrhoea, edema/ascites. (Book p15)"
+    },
+    {
+      "id": "MED-C3-40",
+      "sec": "Fat Malabsorption Tests",
+      "page": 15,
+      "fmt": "recall",
+      "q": "The qualitative test for fat malabsorption listed is:",
+      "opts": [
+        "Sudan III",
+        "Sudan IV",
+        "Oil red O",
+        "Acid steatocrit"
+      ],
+      "ans": 0,
+      "exp": "Fat malabsorption: qualitative test — Sudan III. (Book p15)"
+    },
+    {
+      "id": "MED-C3-41",
+      "sec": "Fat Malabsorption Tests",
+      "page": 15,
+      "fmt": "recall",
+      "q": "The quantitative test for fat malabsorption is:",
+      "opts": [
+        "Fecal fat excretion",
+        "Lactose hydrogen breath test",
+        "D-xylose test",
+        "Schilling test"
+      ],
+      "ans": 0,
+      "exp": "Quantitative test (gold standard): fecal fat excretion >7 g/day. (Book p15)"
+    },
+    {
+      "id": "MED-C3-42",
+      "sec": "Fat Malabsorption Tests",
+      "page": 15,
+      "fmt": "numeric",
+      "q": "The quantitative fecal fat test is abnormal above:",
+      "opts": [
+        ">7 g/day",
+        ">3 g/day",
+        ">14 g/day",
+        ">21 g/day"
+      ],
+      "ans": 0,
+      "exp": "Quantitative test (gold standard): fecal fat excretion >7 g/day. (Book p15)"
+    },
+    {
+      "id": "MED-C3-43",
+      "sec": "Fat Malabsorption Tests",
+      "page": 15,
+      "fmt": "recall",
+      "q": "The book calls the fecal fat excretion test:",
+      "opts": [
+        "The gold standard investigation for malabsorption",
+        "An obsolete screening test",
+        "A test of pancreatic function only",
+        "A test of colonic transit"
+      ],
+      "ans": 0,
+      "exp": "Note: fecal fat excretion test is the gold standard investigation for malabsorption. (Book p15)"
+    },
+    {
+      "id": "MED-C3-44",
+      "sec": "Fat Malabsorption Tests",
+      "page": 15,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — Sudan III is listed as the qualitative stool fat test in this chapter's investigations.",
+      "opts": [
+        "True — qualitative test: Sudan III",
+        "False — Sudan black is used",
+        "False — Oil red O is the only listed stain",
+        "True — but it is the gold standard"
+      ],
+      "ans": 0,
+      "exp": "Fat malabsorption: qualitative test — Sudan III; quantitative test (gold standard) — fecal fat excretion >7 g/day. (Book p15)"
+    },
+    {
+      "id": "MED-C3-45",
+      "sec": "D-Xylose Test",
+      "page": 15,
+      "fmt": "recall",
+      "q": "The D-xylose test is described as:",
+      "opts": [
+        "The best and most specific test for carbohydrate malabsorption",
+        "The gold standard for fat malabsorption",
+        "A test of pancreatic exocrine function",
+        "An obsolete test of bile acid absorption"
+      ],
+      "ans": 0,
+      "exp": "Carbohydrate malabsorption: 1. D-xylose test — best and most specific test. (Book p15)"
+    },
+    {
+      "id": "MED-C3-46",
+      "sec": "D-Xylose Test",
+      "page": 15,
+      "fmt": "recall",
+      "q": "D-xylose is composed of:",
+      "opts": [
+        "A pentose monosaccharide",
+        "A disaccharide of glucose and galactose",
+        "A hexose polysaccharide",
+        "An amino sugar"
+      ],
+      "ans": 0,
+      "exp": "Composition of D-xylose: pentose monosaccharide. (Book p15)"
+    },
+    {
+      "id": "MED-C3-47",
+      "sec": "D-Xylose Test",
+      "page": 15,
+      "fmt": "recall",
+      "q": "The D-xylose test is used to assess:",
+      "opts": [
+        "Intact small intestinal mucosa",
+        "Pancreatic lipase output",
+        "Ileal bile acid transport",
+        "Gastric acid secretion"
+      ],
+      "ans": 0,
+      "exp": "Used to assess intact small intestinal mucosa (D-xylose absorbed here). (Book p15)"
+    },
+    {
+      "id": "MED-C3-48",
+      "sec": "D-Xylose Test",
+      "page": 15,
+      "fmt": "numeric",
+      "q": "The dose of D-xylose given orally after fasting is:",
+      "opts": [
+        "25 g",
+        "2.5 g",
+        "50 g",
+        "100 g"
+      ],
+      "ans": 0,
+      "exp": "Procedure: 25 g of D-xylose given orally after fasting (early morning). (Book p15)"
+    },
+    {
+      "id": "MED-C3-49",
+      "sec": "D-Xylose Test",
+      "page": 15,
+      "fmt": "recall",
+      "q": "After the oral dose, urine is collected for how long?",
+      "opts": [
+        "4-6 hours",
+        "30 minutes",
+        "24 hours",
+        "72 hours"
+      ],
+      "ans": 0,
+      "exp": "Collect urine sample (entire volume passed) after 4-6 hours and check D-xylose levels. (Book p15)"
+    },
+    {
+      "id": "MED-C3-50",
+      "sec": "D-Xylose Test",
+      "page": 15,
+      "fmt": "numeric",
+      "q": "A normal D-xylose excretion result is:",
+      "opts": [
+        "≥4.5 g",
+        "≥45 g",
+        "<4.5 g",
+        "≥7 g"
+      ],
+      "ans": 0,
+      "exp": "Interpretation: normal ≥4.5 g. (Book p15)"
+    },
+    {
+      "id": "MED-C3-51",
+      "sec": "D-Xylose Test",
+      "page": 15,
+      "fmt": "numeric",
+      "q": "A positive (abnormal) D-xylose test is reported below:",
+      "opts": [
+        "<4.5 g",
+        "<7 g",
+        ">4.5 g",
+        "<25 g"
+      ],
+      "ans": 0,
+      "exp": "<4.5 g (positive) → small intestinal mucosal pathology. (Book p15)"
+    },
+    {
+      "id": "MED-C3-52",
+      "sec": "D-Xylose Test",
+      "page": 15,
+      "fmt": "fillup",
+      "q": "A positive D-xylose test indicates ____ pathology.",
+      "opts": [
+        "small intestinal mucosal",
+        "pancreatic",
+        "ileal bile acid",
+        "gastric"
+      ],
+      "ans": 0,
+      "exp": "<4.5 g (positive) → small intestinal mucosal pathology. (Book p15)"
+    },
+    {
+      "id": "MED-C3-53",
+      "sec": "False Positives & Hydrogen Breath Tests",
+      "page": 16,
+      "fmt": "match",
+      "q": "Match the clinical scenario to the printed reason for a false positive D-xylose — 1) Renal failure 2) Rapid intestinal transit 3) SIBO 4) Ascites … A) Reduced absorption B) Defective excretion C) Organisms utilise D-xylose → reduced absorption D) Reduced absorption",
+      "opts": [
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-B, 2-C, 3-D, 4-A"
+      ],
+      "ans": 0,
+      "exp": "Renal failure → defective excretion; rapid intestinal transit (hyperthyroidism, vomiting) → reduced absorption; SIBO → organisms utilise D-xylose → reduced absorption; ascites → reduced absorption. (Book p16)"
+    },
+    {
+      "id": "MED-C3-54",
+      "sec": "False Positives & Hydrogen Breath Tests",
+      "page": 16,
+      "fmt": "recall",
+      "q": "Renal failure causes a false positive D-xylose test because of:",
+      "opts": [
+        "Defective excretion",
+        "Reduced absorption",
+        "Bacterial consumption of D-xylose",
+        "Enhanced renal reabsorption"
+      ],
+      "ans": 0,
+      "exp": "Renal failure: defective excretion → false positive. (Book p16)"
+    },
+    {
+      "id": "MED-C3-55",
+      "sec": "False Positives & Hydrogen Breath Tests",
+      "page": 16,
+      "fmt": "recall",
+      "q": "Rapid intestinal transit causing a false positive D-xylose is listed with:",
+      "opts": [
+        "Hyperthyroidism and vomiting",
+        "Hypothyroidism and constipation",
+        "Diabetes and gastroparesis",
+        "Coeliac disease and sprue"
+      ],
+      "ans": 0,
+      "exp": "Rapid intestinal transit (hyperthyroidism, vomiting) → reduced absorption → false positive. (Book p16)"
+    },
+    {
+      "id": "MED-C3-56",
+      "sec": "False Positives & Hydrogen Breath Tests",
+      "page": 16,
+      "fmt": "recall",
+      "q": "SIBO produces a false positive D-xylose test because:",
+      "opts": [
+        "Organisms utilise D-xylose, so absorption is reduced",
+        "Organisms synthesise D-xylose",
+        "Bacteria block renal excretion",
+        "Bacteria damage the ileal mucosa"
+      ],
+      "ans": 0,
+      "exp": "SIBO: organisms utilise D-xylose → reduced absorption → false positive. (Book p16)"
+    },
+    {
+      "id": "MED-C3-57",
+      "sec": "False Positives & Hydrogen Breath Tests",
+      "page": 16,
+      "fmt": "recall",
+      "q": "The lactose tolerance test is described as:",
+      "opts": [
+        "Obsolete",
+        "The gold standard",
+        "The preferred screening test",
+        "The most specific test"
+      ],
+      "ans": 0,
+      "exp": "2. Lactose tolerance test: obsolete. (Book p16)"
+    },
+    {
+      "id": "MED-C3-58",
+      "sec": "False Positives & Hydrogen Breath Tests",
+      "page": 16,
+      "fmt": "recall",
+      "q": "The lactose hydrogen breath test is done for:",
+      "opts": [
+        "Lactase deficiency",
+        "Pancreatic insufficiency",
+        "Bile acid diarrhea",
+        "SIBO"
+      ],
+      "ans": 0,
+      "exp": "3. Lactose H2 breath test: done for lactase deficiency. (Book p16)"
+    },
+    {
+      "id": "MED-C3-59",
+      "sec": "False Positives & Hydrogen Breath Tests",
+      "page": 16,
+      "fmt": "match",
+      "q": "Order the printed principle of the lactose H2 breath test — 1) Deficiency of lactase 2) Accumulation of lactose in large intestine 3) Bacterial action on lactose 4) H2 production … A) H2 production B) Deficiency of lactase C) Bacterial action on lactose D) Accumulation of lactose in large intestine",
+      "opts": [
+        "1-B, 2-D, 3-C, 4-A",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-B, 2-C, 3-D, 4-A"
+      ],
+      "ans": 0,
+      "exp": "Deficiency of lactase → accumulation of lactose in large intestine → bacterial action on lactose → H2 production. (Book p16)"
+    },
+    {
+      "id": "MED-C3-60",
+      "sec": "False Positives & Hydrogen Breath Tests",
+      "page": 16,
+      "fmt": "numeric",
+      "q": "Diagnosis on the lactose hydrogen breath test is a rise in breath H2 of:",
+      "opts": [
+        "> 20 ppm",
+        "> 90 ppm",
+        "> 4.5 ppm",
+        "> 7 ppm"
+      ],
+      "ans": 0,
+      "exp": "Diagnosis: ↑ in breath H2 > 20 ppm. (Book p16)"
+    },
+    {
+      "id": "MED-C3-61",
+      "sec": "False Positives & Hydrogen Breath Tests",
+      "page": 16,
+      "fmt": "recall",
+      "q": "The lactulose H2 breath test is used to detect:",
+      "opts": [
+        "Bacterial overgrowth of the small intestine",
+        "Lactase deficiency",
+        "Fat malabsorption",
+        "Vitamin B12 malabsorption"
+      ],
+      "ans": 0,
+      "exp": "4. Lactulose H2 breath test: H2 produced within 90 minutes (early peaking) = SIBO. (Book p16)"
+    },
+    {
+      "id": "MED-C3-62",
+      "sec": "False Positives & Hydrogen Breath Tests",
+      "page": 16,
+      "fmt": "numeric",
+      "q": "On the lactulose H2 breath test, an early peak of H2 within what time indicates SIBO?",
+      "opts": [
+        "Within 90 minutes",
+        "Within 30 minutes",
+        "After 120 minutes",
+        "After 4-6 hours"
+      ],
+      "ans": 0,
+      "exp": "H2 produced within 90 minutes (early peaking) → SIBO. (Book p16)"
+    },
+    {
+      "id": "MED-C3-63",
+      "sec": "False Positives & Hydrogen Breath Tests",
+      "page": 16,
+      "fmt": "recall",
+      "q": "On the lactulose H2 breath test, H2 appearing after 90 minutes indicates:",
+      "opts": [
+        "Normal physiology",
+        "SIBO",
+        "Coeliac disease",
+        "Pancreatic insufficiency"
+      ],
+      "ans": 0,
+      "exp": ">90 minutes = normal physiology. (Book p16)"
+    },
+    {
+      "id": "MED-C3-64",
+      "sec": "Obsolete Tests & Biopsy Diagnoses",
+      "page": 16,
+      "fmt": "match",
+      "q": "Match the obsolete test to the printed malabsorption it was used for — 1) Acid steatocrit test 2) C-14 triolein breath test 3) C-13 egg white breath test … A) Protein malabsorption B) Fat malabsorption C) Fat malabsorption",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Obsolete tests: acid steatocrit test and C-14 triolein breath test for fat malabsorption; C-13 egg white breath test (phenol and p-cresol in urine) for protein malabsorption. (Book p16)"
+    },
+    {
+      "id": "MED-C3-65",
+      "sec": "Obsolete Tests & Biopsy Diagnoses",
+      "page": 16,
+      "fmt": "recall",
+      "q": "The acid steatocrit test was an obsolete test for:",
+      "opts": [
+        "Fat malabsorption",
+        "Protein malabsorption",
+        "Carbohydrate malabsorption",
+        "Bile acid malabsorption"
+      ],
+      "ans": 0,
+      "exp": "Obsolete tests for malabsorption: acid steatocrit test — fat malabsorption. (Book p16)"
+    },
+    {
+      "id": "MED-C3-66",
+      "sec": "Obsolete Tests & Biopsy Diagnoses",
+      "page": 16,
+      "fmt": "recall",
+      "q": "The C-14 triolein breath test was an obsolete test for:",
+      "opts": [
+        "Fat malabsorption",
+        "Protein malabsorption",
+        "Vitamin B12 malabsorption",
+        "Carbohydrate malabsorption"
+      ],
+      "ans": 0,
+      "exp": "Obsolete: C-14 triolein breath test — fat malabsorption. (Book p16)"
+    },
+    {
+      "id": "MED-C3-67",
+      "sec": "Obsolete Tests & Biopsy Diagnoses",
+      "page": 16,
+      "fmt": "recall",
+      "q": "The C-13 egg white breath test detects protein malabsorption by measuring:",
+      "opts": [
+        "Phenol and p-cresol in urine",
+        "Urea in breath",
+        "Ammonia in stool",
+        "Indican in serum"
+      ],
+      "ans": 0,
+      "exp": "C-13 egg white breath test (phenol and p-cresol in urine) — protein malabsorption. (Book p16)"
+    },
+    {
+      "id": "MED-C3-68",
+      "sec": "Obsolete Tests & Biopsy Diagnoses",
+      "page": 16,
+      "fmt": "recall",
+      "q": "Stool elastase and chymotrypsin are noted as tests for:",
+      "opts": [
+        "Pancreatic insufficiency",
+        "Primary intestinal lymphangiectasia",
+        "Small intestinal mucosal damage",
+        "Bile acid diarrhea"
+      ],
+      "ans": 0,
+      "exp": "Note: stool elastase, chymotrypsin — pancreatic insufficiency. (Book p16)"
+    },
+    {
+      "id": "MED-C3-69",
+      "sec": "Obsolete Tests & Biopsy Diagnoses",
+      "page": 16,
+      "fmt": "recall",
+      "q": "Fecal α-1 antitrypsin is the noted test for:",
+      "opts": [
+        "Primary intestinal lymphangiectasia",
+        "Pancreatic insufficiency",
+        "Coeliac disease",
+        "SIBO"
+      ],
+      "ans": 0,
+      "exp": "Note: fecal α-1 antitrypsin — primary intestinal lymphangiectasia. (Book p16)"
+    },
+    {
+      "id": "MED-C3-70",
+      "sec": "Obsolete Tests & Biopsy Diagnoses",
+      "page": 16,
+      "fmt": "recall",
+      "q": "NIRA (near infrared reflectance analysis) is described as:",
+      "opts": [
+        "A newer test for malabsorption",
+        "An obsolete test for fat malabsorption",
+        "A test of pancreatic function",
+        "A test of ileal bile acid transport"
+      ],
+      "ans": 0,
+      "exp": "Note: NIRA (near infrared reflectance analysis) — newer test for malabsorption. (Book p16)"
+    },
+    {
+      "id": "MED-C3-71",
+      "sec": "Obsolete Tests & Biopsy Diagnoses",
+      "page": 16,
+      "fmt": "recall",
+      "q": "The diseases the book says are diagnosed on biopsy are:",
+      "opts": [
+        "Whipple's disease, agammaglobulinaemia and abetalipoproteinaemia",
+        "Coeliac disease, tropical sprue and SIBO",
+        "Crohn's disease and ulcerative colitis",
+        "Cystinuria and Hartnup disease"
+      ],
+      "ans": 0,
+      "exp": "Diseases diagnosed on biopsy: 1. Whipple's disease, 2. agammaglobulinaemia, 3. abetalipoproteinaemia. (Book p16)"
+    },
+    {
+      "id": "MED-C3-72",
+      "sec": "Schilling Test",
+      "page": 17,
+      "fmt": "recall",
+      "q": "Phase I of the Schilling test begins with unlabelled vitamin B12 given:",
+      "opts": [
+        "1000 μg intramuscularly to saturate stores",
+        "1 μg orally",
+        "1000 μg orally",
+        "1 μg intramuscularly"
+      ],
+      "ans": 0,
+      "exp": "Phase I: 1000 μg of unlabelled vitamin B12 I.M. to saturate stores. (Book p17)"
+    },
+    {
+      "id": "MED-C3-73",
+      "sec": "Schilling Test",
+      "page": 17,
+      "fmt": "numeric",
+      "q": "The dose of oral radiolabelled vitamin B12 in the Schilling test is:",
+      "opts": [
+        "1 μg",
+        "10 μg",
+        "100 μg",
+        "1000 μg"
+      ],
+      "ans": 0,
+      "exp": "Give 1 μg of oral radiolabelled vitamin B12. (Book p17)"
+    },
+    {
+      "id": "MED-C3-74",
+      "sec": "Schilling Test",
+      "page": 17,
+      "fmt": "recall",
+      "q": "After the doses, the Schilling test measures vitamin B12 in:",
+      "opts": [
+        "Urine",
+        "Serum",
+        "Stool",
+        "Breath"
+      ],
+      "ans": 0,
+      "exp": "Check vitamin B12 level in urine. (Book p17)"
+    },
+    {
+      "id": "MED-C3-75",
+      "sec": "Schilling Test",
+      "page": 17,
+      "fmt": "numeric",
+      "q": "A urinary vitamin B12 excretion below what value is a positive Schilling test?",
+      "opts": [
+        "<7%",
+        "<1%",
+        "<10%",
+        "<4.5%"
+      ],
+      "ans": 0,
+      "exp": "<7% = positive test (malabsorption aetiology). (Book p17)"
+    },
+    {
+      "id": "MED-C3-76",
+      "sec": "Schilling Test",
+      "page": 17,
+      "fmt": "recall",
+      "q": "Urinary vitamin B12 excretion of 7-10% in the Schilling test is:",
+      "opts": [
+        "Normal",
+        "Positive for malabsorption",
+        "Diagnostic of ileal disease",
+        "Diagnostic of pernicious anaemia"
+      ],
+      "ans": 0,
+      "exp": "7-10% = normal. (Book p17)"
+    },
+    {
+      "id": "MED-C3-77",
+      "sec": "Schilling Test",
+      "page": 17,
+      "fmt": "match",
+      "q": "Match phase II of the Schilling test to the diagnosis when urine B12 rises above 10% — 1) Intrinsic factor 2) Pancreatic enzymes 3) Antibiotics … A) Chronic pancreatitis B) SIBO C) Pernicious anaemia",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Phase II: administer intrinsic factor / pancreatic enzymes / antibiotics; if urine B12 >10% → pernicious anaemia (IF), chronic pancreatitis, SIBO respectively. (Book p17)"
+    },
+    {
+      "id": "MED-C3-78",
+      "sec": "Schilling Test",
+      "page": 17,
+      "fmt": "recall",
+      "q": "After phase I and II, persistent urine B12 below 7% indicates:",
+      "opts": [
+        "Ileal disease",
+        "Pernicious anaemia",
+        "Chronic pancreatitis",
+        "SIBO"
+      ],
+      "ans": 0,
+      "exp": "After phase I and II, if urine B12 <7% = ileal disease. (Book p17)"
+    },
+    {
+      "id": "MED-C3-79",
+      "sec": "Schilling Test",
+      "page": 17,
+      "fmt": "scenario",
+      "q": "A patient's Schilling test corrects after oral intrinsic factor is added in phase II. The book's diagnosis is:",
+      "opts": [
+        "Pernicious anaemia",
+        "Chronic pancreatitis",
+        "SIBO",
+        "Ileal resection"
+      ],
+      "ans": 0,
+      "exp": "Phase II: intrinsic factor → urine B12 >10% → pernicious anaemia (IF). (Book p17)"
+    },
+    {
+      "id": "MED-C3-80",
+      "sec": "Schilling Test",
+      "page": 17,
+      "fmt": "scenario",
+      "q": "A patient's Schilling test corrects after antibiotics in phase II. The book's diagnosis is:",
+      "opts": [
+        "SIBO",
+        "Pernicious anaemia",
+        "Chronic pancreatitis",
+        "Ileal disease"
+      ],
+      "ans": 0,
+      "exp": "Phase II: antibiotics → urine B12 >10% → SIBO. (Book p17)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U3-1",
+      "ch": 3,
+      "n": 1,
+      "title": "Steps for Evaluating Malabsorption",
+      "sec": "Steps for Evaluating Malabsorption",
+      "guide": "Confirm the diagnosis (clinically and by investigations).\nThen confirm global versus selective malabsorption.\nFinally confirm the aetiology.",
+      "qs": [
+        "MED-C3-01",
+        "MED-C3-02",
+        "MED-C3-03",
+        "MED-C3-04",
+        "MED-C3-05"
+      ]
+    },
+    {
+      "id": "MED-U3-2",
+      "ch": 3,
+      "n": 2,
+      "title": "Clinical Features: Gastrointestinal",
+      "sec": "Clinical Features: Gastrointestinal",
+      "guide": "Small intestinal, >4 weeks, osmotic, improves on fasting — the most consistent symptom.\nFat → steatorrhea; carbohydrate → bloating and dyspepsia.\nProtein → foul smelling stools, ascites, edema; plus unexplained weight loss.",
+      "qs": [
+        "MED-C3-06",
+        "MED-C3-07",
+        "MED-C3-08",
+        "MED-C3-09",
+        "MED-C3-10",
+        "MED-C3-11",
+        "MED-C3-12",
+        "MED-C3-13",
+        "MED-C3-14",
+        "MED-C3-15"
+      ]
+    },
+    {
+      "id": "MED-U3-3",
+      "ch": 3,
+      "n": 3,
+      "title": "Clinical Features: Musculoskeletal & Cutaneous",
+      "sec": "Clinical Features: Musculoskeletal & Cutaneous",
+      "guide": "Musculoskeletal: fat malabsorption with impaired vitamin D and Ca2+ → tetany, fracture, bone pain.\nNiacin → hyperpigmentation; vitamin C → perifollicular hemorrhage and curly hair.\nVitamin K → bruisability; Zn/EFA → acrodermatitis; vitamin A → follicular hyperkeratosis.",
+      "qs": [
+        "MED-C3-16",
+        "MED-C3-17",
+        "MED-C3-18",
+        "MED-C3-19",
+        "MED-C3-20",
+        "MED-C3-21",
+        "MED-C3-22",
+        "MED-C3-23"
+      ]
+    },
+    {
+      "id": "MED-U3-4",
+      "ch": 3,
+      "n": 4,
+      "title": "Clinical Features: Miscellaneous & Kidney Stones",
+      "sec": "Clinical Features: Miscellaneous & Kidney Stones",
+      "guide": "Coeliac → growth retardation; proximal disease → folate/iron deficiency; distal → B12 deficiency.\nB12/E → neuropathy and ataxia; B12 → glossitis, cheliosis, stomatitis; vitamin A → night blindness.\nFree oxalate is absorbed in the colon → oxaluria → Ca2+ oxalate stones; pain, constipation and fever are NOT features.",
+      "qs": [
+        "MED-C3-24",
+        "MED-C3-25",
+        "MED-C3-26",
+        "MED-C3-27",
+        "MED-C3-28",
+        "MED-C3-29",
+        "MED-C3-30",
+        "MED-C3-31",
+        "MED-C3-32",
+        "MED-C3-33",
+        "MED-C3-34",
+        "MED-C3-35",
+        "MED-C3-36",
+        "MED-C3-37",
+        "MED-C3-38",
+        "MED-C3-39"
+      ]
+    },
+    {
+      "id": "MED-U3-5",
+      "ch": 3,
+      "n": 5,
+      "title": "Fat Malabsorption Tests",
+      "sec": "Fat Malabsorption Tests",
+      "guide": "Qualitative: Sudan III.\nQuantitative (gold standard): fecal fat excretion >7 g/day.\nThe fecal fat excretion test is the gold standard investigation for malabsorption.",
+      "qs": [
+        "MED-C3-40",
+        "MED-C3-41",
+        "MED-C3-42",
+        "MED-C3-43",
+        "MED-C3-44"
+      ]
+    },
+    {
+      "id": "MED-U3-6",
+      "ch": 3,
+      "n": 6,
+      "title": "D-Xylose Test",
+      "sec": "D-Xylose Test",
+      "guide": "Best and most specific test; D-xylose is a pentose monosaccharide.\nIt assesses intact small intestinal mucosa.\n25 g orally after fasting; urine collected over 4-6 hours; normal ≥4.5 g, <4.5 g positive.",
+      "qs": [
+        "MED-C3-45",
+        "MED-C3-46",
+        "MED-C3-47",
+        "MED-C3-48",
+        "MED-C3-49",
+        "MED-C3-50",
+        "MED-C3-51",
+        "MED-C3-52"
+      ]
+    },
+    {
+      "id": "MED-U3-7",
+      "ch": 3,
+      "n": 7,
+      "title": "False Positives & Hydrogen Breath Tests",
+      "sec": "False Positives & Hydrogen Breath Tests",
+      "guide": "False positives: renal failure (defective excretion), rapid transit (hyperthyroidism, vomiting), SIBO (organisms utilise D-xylose), ascites.\nLactose H2 breath test: for lactase deficiency, positive >20 ppm.\nLactulose H2 breath test: H2 within 90 minutes = SIBO; after 90 minutes = normal.",
+      "qs": [
+        "MED-C3-53",
+        "MED-C3-54",
+        "MED-C3-55",
+        "MED-C3-56",
+        "MED-C3-57",
+        "MED-C3-58",
+        "MED-C3-59",
+        "MED-C3-60",
+        "MED-C3-61",
+        "MED-C3-62",
+        "MED-C3-63"
+      ]
+    },
+    {
+      "id": "MED-U3-8",
+      "ch": 3,
+      "n": 8,
+      "title": "Obsolete Tests & Biopsy Diagnoses",
+      "sec": "Obsolete Tests & Biopsy Diagnoses",
+      "guide": "Obsolete: acid steatocrit and C-14 triolein breath test (fat); C-13 egg white breath test (protein).\nStool elastase/chymotrypsin → pancreatic insufficiency; fecal α-1 antitrypsin → lymphangiectasia; NIRA is newer.\nBiopsy diagnoses: Whipple's disease, agammaglobulinaemia, abetalipoproteinaemia.",
+      "qs": [
+        "MED-C3-64",
+        "MED-C3-65",
+        "MED-C3-66",
+        "MED-C3-67",
+        "MED-C3-68",
+        "MED-C3-69",
+        "MED-C3-70",
+        "MED-C3-71"
+      ]
+    },
+    {
+      "id": "MED-U3-9",
+      "ch": 3,
+      "n": 9,
+      "title": "Schilling Test",
+      "sec": "Schilling Test",
+      "guide": "Phase I: 1000 μg unlabelled B12 IM to saturate stores, then 1 μg oral radiolabelled B12, then urine B12.\n<7% positive, 7-10% normal.\nPhase II: intrinsic factor → pernicious anaemia; pancreatic enzymes → chronic pancreatitis; antibiotics → SIBO; still <7% = ileal disease.",
+      "qs": [
+        "MED-C3-72",
+        "MED-C3-73",
+        "MED-C3-74",
+        "MED-C3-75",
+        "MED-C3-76",
+        "MED-C3-77",
+        "MED-C3-78",
+        "MED-C3-79",
+        "MED-C3-80"
+      ]
+    }
+  ]
+}

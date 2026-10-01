@@ -1,0 +1,2559 @@
+{
+  "chapter": 2,
+  "title": "Physiology of GIT Absorption and Selective Malabsorption",
+  "pageRange": "6-13",
+  "questions": [
+    {
+      "id": "MED-C2-01",
+      "sec": "Basics of Absorption & Stages",
+      "page": 6,
+      "fmt": "recall",
+      "q": "The book lists the stages of absorption, in order, as:",
+      "opts": [
+        "1. Luminal, 2. Mucosal, 3. Post mucosal",
+        "1. Mucosal, 2. Luminal, 3. Post mucosal",
+        "1. Luminal, 2. Post mucosal, 3. Mucosal",
+        "1. Gastric, 2. Luminal, 3. Mucosal"
+      ],
+      "ans": 0,
+      "exp": "Stages of absorption: 1. Luminal, 2. Mucosal, 3. Post mucosal. (Book p6)"
+    },
+    {
+      "id": "MED-C2-02",
+      "sec": "Basics of Absorption & Stages",
+      "page": 6,
+      "fmt": "match",
+      "q": "Match the numbered stage of absorption to its descriptor — 1) Stage 1 2) Stage 2 3) Stage 3 … A) Mucosal B) Post mucosal C) Luminal",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Stage 1 = Luminal (enzymes mediated), Stage 2 = Mucosal (small intestinal enterocyte), Stage 3 = Post mucosal (into blood). (Book p6)"
+    },
+    {
+      "id": "MED-C2-03",
+      "sec": "Basics of Absorption & Stages",
+      "page": 6,
+      "fmt": "recall",
+      "q": "The luminal stage of absorption is described as:",
+      "opts": [
+        "Enzymes mediated",
+        "Carrier mediated only",
+        "Lymphatic transport",
+        "Passive paracellular diffusion"
+      ],
+      "ans": 0,
+      "exp": "1. Luminal: Enzymes mediated. (Book p6)"
+    },
+    {
+      "id": "MED-C2-04",
+      "sec": "Basics of Absorption & Stages",
+      "page": 6,
+      "fmt": "fillup",
+      "q": "In the mucosal stage the villi ____ contains enzymes.",
+      "opts": [
+        "brush border",
+        "crypt base",
+        "lamina propria",
+        "serosa"
+      ],
+      "ans": 0,
+      "exp": "Mucosal: small intestinal mucosal — enterocyte; villi brush border contains enzymes. (Book p6)"
+    },
+    {
+      "id": "MED-C2-05",
+      "sec": "Basics of Absorption & Stages",
+      "page": 6,
+      "fmt": "recall",
+      "q": "The cell type named for the mucosal stage of absorption is the:",
+      "opts": [
+        "Enterocyte",
+        "Goblet cell",
+        "Paneth cell",
+        "Parietal cell"
+      ],
+      "ans": 0,
+      "exp": "2. Mucosal: small intestinal mucosal — Enterocyte, with brush border enzymes. (Book p6)"
+    },
+    {
+      "id": "MED-C2-06",
+      "sec": "Basics of Absorption & Stages",
+      "page": 6,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — the book defines the post mucosal stage as movement from the mucosal epithelial cell into blood.",
+      "opts": [
+        "True — mucosal epithelial cell → into blood",
+        "False — post mucosal is transport into lymph",
+        "False — post mucosal is the luminal enzyme step",
+        "True — but only for short chain fatty acids"
+      ],
+      "ans": 0,
+      "exp": "3. Post mucosal: mucosal epithelial cell → into blood. (Book p6)"
+    },
+    {
+      "id": "MED-C2-07",
+      "sec": "Basics of Absorption & Stages",
+      "page": 6,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one of these is not a printed stage of absorption:",
+      "opts": [
+        "Post absorptive",
+        "Luminal",
+        "Mucosal",
+        "Post mucosal"
+      ],
+      "ans": 0,
+      "exp": "The three printed stages are Luminal, Mucosal and Post mucosal; 'post absorptive' is not listed. (Book p6)"
+    },
+    {
+      "id": "MED-C2-08",
+      "sec": "Basics of Absorption & Stages",
+      "page": 6,
+      "fmt": "scenario",
+      "q": "A toxin selectively destroys the brush-border enzymes of the small intestinal enterocyte. Which stage of absorption is blocked?",
+      "opts": [
+        "Mucosal",
+        "Luminal",
+        "Post mucosal",
+        "Colonic salvage"
+      ],
+      "ans": 0,
+      "exp": "Brush border enzymes belong to the enterocyte — i.e. the mucosal stage. (Book p6)"
+    },
+    {
+      "id": "MED-C2-09",
+      "sec": "Basics of Absorption & Stages",
+      "page": 6,
+      "fmt": "numeric",
+      "q": "How many stages of absorption does the book list?",
+      "opts": [
+        "Three",
+        "Two",
+        "Four",
+        "Five"
+      ],
+      "ans": 0,
+      "exp": "Three stages: Luminal, Mucosal, Post mucosal. (Book p6)"
+    },
+    {
+      "id": "MED-C2-10",
+      "sec": "Anatomy of the Small Intestine",
+      "page": 6,
+      "fmt": "recall",
+      "q": "The proximal two-thirds of the small intestine is described as the site of:",
+      "opts": [
+        "Maximum absorption (Jejunum > Duodenum)",
+        "Bile acid and vitamin B12 absorption",
+        "Water absorption only",
+        "Vitamin K synthesis"
+      ],
+      "ans": 0,
+      "exp": "Proximal (2/3): maximum absorption (Jejunum > Duodenum). (Book p6)"
+    },
+    {
+      "id": "MED-C2-11",
+      "sec": "Anatomy of the Small Intestine",
+      "page": 6,
+      "fmt": "fillup",
+      "q": "Proximal (2/3) of the small intestine shows maximum absorption (____ > Duodenum).",
+      "opts": [
+        "Jejunum",
+        "Ileum",
+        "Caecum",
+        "Pylorus"
+      ],
+      "ans": 0,
+      "exp": "Proximal (2/3): maximum absorption (Jejunum > Duodenum). (Book p6)"
+    },
+    {
+      "id": "MED-C2-12",
+      "sec": "Anatomy of the Small Intestine",
+      "page": 6,
+      "fmt": "recall",
+      "q": "The distal one-third of the small intestine (ileum) absorbs:",
+      "opts": [
+        "Bile acid, vitamin B12 and Mg2+",
+        "Iron and folate only",
+        "Glucose and galactose",
+        "Vitamin K and biotin"
+      ],
+      "ans": 0,
+      "exp": "Distal (1/3): absorption of bile acid, Vit B12, Mg2+ (ileum). (Book p6)"
+    },
+    {
+      "id": "MED-C2-13",
+      "sec": "Anatomy of the Small Intestine",
+      "page": 6,
+      "fmt": "oddoneout",
+      "q": "All of the following are absorbed in the distal one-third (ileum) EXCEPT:",
+      "opts": [
+        "Iron",
+        "Bile acid",
+        "Vitamin B12",
+        "Magnesium"
+      ],
+      "ans": 0,
+      "exp": "Distal (1/3) absorbs bile acid, Vit B12 and Mg2+; iron is absorbed proximally (duodenum > jejunum). (Book p6)"
+    },
+    {
+      "id": "MED-C2-14",
+      "sec": "Anatomy of the Small Intestine",
+      "page": 6,
+      "fmt": "match",
+      "q": "Match the small intestinal segment to its printed role — 1) Proximal 2/3 2) Distal 1/3 … A) Bile acid, Vit B12, Mg2+ (ileum) B) Maximum absorption (jejunum > duodenum)",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Proximal 2/3 = maximum absorption (jejunum > duodenum); distal 1/3 = bile acid, Vit B12, Mg2+ (ileum). (Book p6)"
+    },
+    {
+      "id": "MED-C2-15",
+      "sec": "Anatomy of the Small Intestine",
+      "page": 6,
+      "fmt": "numeric",
+      "q": "What fraction of the small intestine is described as the proximal segment of maximum absorption?",
+      "opts": [
+        "2/3",
+        "1/3",
+        "1/2",
+        "3/4"
+      ],
+      "ans": 0,
+      "exp": "Proximal (2/3): maximum absorption (Jejunum > Duodenum). (Book p6)"
+    },
+    {
+      "id": "MED-C2-16",
+      "sec": "Histology: Mucosa",
+      "page": 6,
+      "fmt": "recall",
+      "q": "The specific feature of the small intestinal mucosa named by the book is:",
+      "opts": [
+        "Villi",
+        "Haustrations",
+        "Plicae semilunares",
+        "Crypt abscesses"
+      ],
+      "ans": 0,
+      "exp": "Enterocyte: villi (specific feature). (Book p6)"
+    },
+    {
+      "id": "MED-C2-17",
+      "sec": "Histology: Mucosa",
+      "page": 6,
+      "fmt": "fillup",
+      "q": "Villi are surrounded by crypts of ____.",
+      "opts": [
+        "Lieberkühn",
+        "Luschka",
+        "Brunner",
+        "Kerckring"
+      ],
+      "ans": 0,
+      "exp": "Villi (specific feature) are surrounded by crypts of Lieberkühn. (Book p6)"
+    },
+    {
+      "id": "MED-C2-18",
+      "sec": "Histology: Mucosa",
+      "page": 6,
+      "fmt": "recall",
+      "q": "The villi contain a:",
+      "opts": [
+        "Brush border",
+        "Muscular sleeve",
+        "Lymph node",
+        "Serous acinus"
+      ],
+      "ans": 0,
+      "exp": "Enterocyte villi contain the brush border. (Book p6)"
+    },
+    {
+      "id": "MED-C2-19",
+      "sec": "Histology: Mucosa",
+      "page": 6,
+      "fmt": "recall",
+      "q": "Paneth cells are located:",
+      "opts": [
+        "At the base of the crypts",
+        "At the villus tip",
+        "In the lamina propria",
+        "In the muscularis mucosa"
+      ],
+      "ans": 0,
+      "exp": "Crypts: Paneth cells (at base). (Book p6)"
+    },
+    {
+      "id": "MED-C2-20",
+      "sec": "Histology: Mucosa",
+      "page": 6,
+      "fmt": "recall",
+      "q": "Paneth cells produce immunological substances, namely:",
+      "opts": [
+        "Alpha defensins, lysozymes, phospholipase A2",
+        "Mucus and trefoil peptides",
+        "Gastrin and cholecystokinin",
+        "Secretin and GIP"
+      ],
+      "ans": 0,
+      "exp": "Paneth cells (at base) produce immunological substances: alpha defensins, lysozymes, phospholipase A2. (Book p6)"
+    },
+    {
+      "id": "MED-C2-21",
+      "sec": "Histology: Mucosa",
+      "page": 6,
+      "fmt": "oddoneout",
+      "q": "All of the following are listed Paneth-cell products EXCEPT:",
+      "opts": [
+        "Mucus",
+        "Alpha defensins",
+        "Lysozymes",
+        "Phospholipase A2"
+      ],
+      "ans": 0,
+      "exp": "Paneth cells produce alpha defensins, lysozymes and phospholipase A2; mucus comes from goblet cells. (Book p6)"
+    },
+    {
+      "id": "MED-C2-22",
+      "sec": "Histology: Mucosa",
+      "page": 6,
+      "fmt": "recall",
+      "q": "Besides Paneth cells, the crypts contain:",
+      "opts": [
+        "Enteroendocrine cells and goblet cells",
+        "Chief cells and parietal cells",
+        "Kupffer cells and Ito cells",
+        "Podocytes and mesangial cells"
+      ],
+      "ans": 0,
+      "exp": "Crypts: Paneth cells (at base), enteroendocrine cells, goblet cells. (Book p6)"
+    },
+    {
+      "id": "MED-C2-23",
+      "sec": "Histology: Mucosa",
+      "page": 6,
+      "fmt": "numeric",
+      "q": "Small intestinal epithelium shows continuous renewal every:",
+      "opts": [
+        "48-72 hrs",
+        "12-24 hrs",
+        "7-10 days",
+        "21 days"
+      ],
+      "ans": 0,
+      "exp": "Continuous renewal: every 48-72 hrs. (Book p6)"
+    },
+    {
+      "id": "MED-C2-24",
+      "sec": "Histology: Mucosa",
+      "page": 6,
+      "fmt": "recall",
+      "q": "The lamina propria of the small intestinal mucosa contains:",
+      "opts": [
+        "Glands and blood vessels",
+        "Paneth cells only",
+        "Smooth muscle bundles only",
+        "Serous glands only"
+      ],
+      "ans": 0,
+      "exp": "b. Lamina propria: glands, blood vessels. (Book p6)"
+    },
+    {
+      "id": "MED-C2-25",
+      "sec": "Histology: Mucosa",
+      "page": 6,
+      "fmt": "recall",
+      "q": "The muscularis mucosa of the small intestine is described as having:",
+      "opts": [
+        "Tight attachment",
+        "Loose areolar plane",
+        "No attachment",
+        "A serosal covering"
+      ],
+      "ans": 0,
+      "exp": "c. Muscularis mucosa: tight attachment. (Book p6)"
+    },
+    {
+      "id": "MED-C2-26",
+      "sec": "Histology: Mucosa",
+      "page": 6,
+      "fmt": "match",
+      "q": "Match the mucosal compartment to its printed content — 1) Lamina propria 2) Muscularis mucosa 3) Crypt … A) Paneth cells at base B) Glands, blood vessels C) Tight attachment",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Lamina propria = glands, blood vessels; muscularis mucosa = tight attachment; crypts contain Paneth cells at the base. (Book p6)"
+    },
+    {
+      "id": "MED-C2-27",
+      "sec": "Histology: Mucosa",
+      "page": 6,
+      "fmt": "recall",
+      "q": "Plica circularis is defined in the note as:",
+      "opts": [
+        "Visible mucosal folds on the luminal surface of the small intestine",
+        "The pacemaker cell network of the gut",
+        "Lymphoid aggregates of the ileum",
+        "The smooth muscle coat of the colon"
+      ],
+      "ans": 0,
+      "exp": "Note: plica circularis — visible mucosal folds on the luminal surface of the small intestine. (Book p6)"
+    },
+    {
+      "id": "MED-C2-28",
+      "sec": "Histology: Mucosa",
+      "page": 6,
+      "fmt": "recall",
+      "q": "Interstitial cells of Cajal in the small intestine are:",
+      "opts": [
+        "Pacemaker cells",
+        "Mucus secreting cells",
+        "Paneth-like immune cells",
+        "Enteroendocrine cells"
+      ],
+      "ans": 0,
+      "exp": "Interstitial cells of Cajal: pacemaker cells of the small intestine — basal electrical rhythm. (Book p6)"
+    },
+    {
+      "id": "MED-C2-29",
+      "sec": "Histology: Mucosa",
+      "page": 6,
+      "fmt": "fillup",
+      "q": "Interstitial cells of Cajal generate the ____ of the small intestine.",
+      "opts": [
+        "basal electrical rhythm",
+        "migrating motor complex",
+        "slow wave of the stomach",
+        "rectoanal inhibitory reflex"
+      ],
+      "ans": 0,
+      "exp": "Interstitial cells of Cajal: pacemaker cells of the small intestine → basal electrical rhythm. (Book p6)"
+    },
+    {
+      "id": "MED-C2-30",
+      "sec": "Small Intestine Layers & Peyer's Patches",
+      "page": 7,
+      "fmt": "recall",
+      "q": "Peyer's patches are located in the:",
+      "opts": [
+        "Submucosa of the ileum",
+        "Mucosa of the duodenum",
+        "Muscularis propria of the jejunum",
+        "Serosa of the colon"
+      ],
+      "ans": 0,
+      "exp": "2. Submucosa: Peyer's patches (in ileum). (Book p7)"
+    },
+    {
+      "id": "MED-C2-31",
+      "sec": "Small Intestine Layers & Peyer's Patches",
+      "page": 7,
+      "fmt": "recall",
+      "q": "Peyer's patches are described as:",
+      "opts": [
+        "Macroscopic lymphoid aggregates",
+        "Microscopic lymphoid follicles",
+        "Collections of Paneth cells",
+        "Ectopic gastric mucosa"
+      ],
+      "ans": 0,
+      "exp": "Peyer's patches (in ileum): macroscopic lymphoid aggregates. (Book p7)"
+    },
+    {
+      "id": "MED-C2-32",
+      "sec": "Small Intestine Layers & Peyer's Patches",
+      "page": 7,
+      "fmt": "scenario",
+      "q": "At ileocolonoscopy a surgeon notes hypertrophied Peyer's patches. The book links this hypertrophy to:",
+      "opts": [
+        "Typhoid",
+        "Tuberculosis",
+        "Amoebiasis",
+        "Coeliac disease"
+      ],
+      "ans": 0,
+      "exp": "Peyer's patches (in ileum): in typhoid — hypertrophy. (Book p7)"
+    },
+    {
+      "id": "MED-C2-33",
+      "sec": "Small Intestine Layers & Peyer's Patches",
+      "page": 7,
+      "fmt": "match",
+      "q": "Order the small intestinal layers as printed (innermost → outermost) — 1) Mucosa 2) Submucosa 3) Muscularis propria 4) Serosa … A) Serosa B) Mucosa C) Submucosa D) Muscularis propria",
+      "opts": [
+        "1-B, 2-C, 3-D, 4-A",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-D, 3-C, 4-A",
+        "1-C, 2-B, 3-D, 4-A"
+      ],
+      "ans": 0,
+      "exp": "Histology layers: 1. mucosa, 2. submucosa, 3. muscularis propria, 4. serosa. (Book p7)"
+    },
+    {
+      "id": "MED-C2-34",
+      "sec": "Small Intestine Layers & Peyer's Patches",
+      "page": 7,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one is not a printed layer of the small intestine:",
+      "opts": [
+        "Adventitia",
+        "Mucosa",
+        "Muscularis propria",
+        "Serosa"
+      ],
+      "ans": 0,
+      "exp": "The printed layers are mucosa, submucosa, muscularis propria and serosa; adventitia is not listed. (Book p7)"
+    },
+    {
+      "id": "MED-C2-35",
+      "sec": "Fat Absorption: Luminal Phase",
+      "page": 7,
+      "fmt": "recall",
+      "q": "The luminal phase of fat absorption requires:",
+      "opts": [
+        "Bile acids and pancreatic lipase",
+        "Gastric lipase alone",
+        "Colonic bacterial enzymes",
+        "Enterokinase alone"
+      ],
+      "ans": 0,
+      "exp": "Luminal phase mechanism: bile acids + pancreatic lipase act on triglyceride. (Book p7)"
+    },
+    {
+      "id": "MED-C2-36",
+      "sec": "Fat Absorption: Luminal Phase",
+      "page": 7,
+      "fmt": "fillup",
+      "q": "Pancreatic lipase acts on triglyceride (TGA) by the process of ____.",
+      "opts": [
+        "Lipolysis",
+        "Esterification",
+        "Deconjugation",
+        "Deamidation"
+      ],
+      "ans": 0,
+      "exp": "TGA → lipolysis (by pancreatic lipase) → fatty acids + glycerol. (Book p7)"
+    },
+    {
+      "id": "MED-C2-37",
+      "sec": "Fat Absorption: Luminal Phase",
+      "page": 7,
+      "fmt": "recall",
+      "q": "Lipolysis of triglyceride in the lumen yields:",
+      "opts": [
+        "Fatty acids + glycerol",
+        "Chylomicrons + bile salts",
+        "Monoglycerides + cholesterol",
+        "Amino acids + peptides"
+      ],
+      "ans": 0,
+      "exp": "Lipolysis of TGA gives fatty acids + glycerol. (Book p7)"
+    },
+    {
+      "id": "MED-C2-38",
+      "sec": "Fat Absorption: Luminal Phase",
+      "page": 7,
+      "fmt": "match",
+      "q": "Order the luminal fat steps as printed — 1) TGA 2) Lipolysis 3) Fatty acids + glycerol … A) Fatty acids + glycerol B) TGA C) Lipolysis",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Bile acids + pancreatic lipase act on TGA → lipolysis → fatty acids + glycerol. (Book p7)"
+    },
+    {
+      "id": "MED-C2-39",
+      "sec": "Fat Absorption: Luminal Phase",
+      "page": 7,
+      "fmt": "scenario",
+      "q": "A patient with chronic pancreatitis has steatorrhea. The book attributes this to loss of:",
+      "opts": [
+        "Pancreatic lipase with failed lipolysis",
+        "Bile acid synthesis",
+        "Chylomicron assembly",
+        "Lactase activity"
+      ],
+      "ans": 0,
+      "exp": "Defects in luminal absorption: 1. chronic pancreatitis → affects pancreatic lipase → lipolysis affected. (Book p7)"
+    },
+    {
+      "id": "MED-C2-40",
+      "sec": "Fat Absorption: Luminal Phase",
+      "page": 7,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — the book shows micelles entering enterocytes by passive diffusion in the luminal phase.",
+      "opts": [
+        "True — passive diffusion of micelles into enterocytes",
+        "False — uptake is active via SGLT1",
+        "False — micelles are excluded from enterocytes",
+        "True — but only for short chain fatty acids"
+      ],
+      "ans": 0,
+      "exp": "Micelle → passive diffusion into enterocytes. (Book p7)"
+    },
+    {
+      "id": "MED-C2-41",
+      "sec": "Bile Acid Physiology",
+      "page": 7,
+      "fmt": "numeric",
+      "q": "The bile acid body pool is:",
+      "opts": [
+        "4 g",
+        "40 g",
+        "0.4 g",
+        "400 g"
+      ],
+      "ans": 0,
+      "exp": "Bile acid physiology: body pool 4 g (maintained by enterohepatic circulation). (Book p7)"
+    },
+    {
+      "id": "MED-C2-42",
+      "sec": "Bile Acid Physiology",
+      "page": 7,
+      "fmt": "fillup",
+      "q": "The bile acid body pool is maintained by the ____ circulation.",
+      "opts": [
+        "enterohepatic",
+        "enteroenteric",
+        "portosystemic",
+        "lymphatic"
+      ],
+      "ans": 0,
+      "exp": "Body pool: 4 g (maintained by enterohepatic circulation). (Book p7)"
+    },
+    {
+      "id": "MED-C2-43",
+      "sec": "Bile Acid Physiology",
+      "page": 7,
+      "fmt": "recall",
+      "q": "The rate-limiting enzyme of bile acid synthesis is:",
+      "opts": [
+        "7α-hydroxylase",
+        "HMG-CoA reductase",
+        "Cholesterol esterase",
+        "Lecithin-cholesterol acyltransferase"
+      ],
+      "ans": 0,
+      "exp": "Synthesis: 7α-hydroxylase is the rate limiting step. (Book p7)"
+    },
+    {
+      "id": "MED-C2-44",
+      "sec": "Bile Acid Physiology",
+      "page": 7,
+      "fmt": "recall",
+      "q": "The primary bile acids formed by synthesis are:",
+      "opts": [
+        "Cholic acid and chenodeoxycholic acid",
+        "Deoxycholic acid and lithocholic acid",
+        "Ursodeoxycholic acid and lithocholic acid",
+        "Taurocholic acid and glycocholic acid"
+      ],
+      "ans": 0,
+      "exp": "Synthesis produces cholic acid and chenodeoxycholic acid. (Book p7)"
+    },
+    {
+      "id": "MED-C2-45",
+      "sec": "Bile Acid Physiology",
+      "page": 7,
+      "fmt": "recall",
+      "q": "Bile acids are conjugated with:",
+      "opts": [
+        "Glycine/taurine",
+        "Sulphate/glucuronide",
+        "Cholesterol/phospholipid",
+        "Fatty acids/glycerol"
+      ],
+      "ans": 0,
+      "exp": "Conjugation with glycine/taurine. (Book p7)"
+    },
+    {
+      "id": "MED-C2-46",
+      "sec": "Bile Acid Physiology",
+      "page": 7,
+      "fmt": "recall",
+      "q": "After conjugation, bile acids are termed:",
+      "opts": [
+        "Bile salts",
+        "Bile pigments",
+        "Micelles",
+        "Chylomicrons"
+      ],
+      "ans": 0,
+      "exp": "Conjugation (glycine/taurine) → bile salts. (Book p7)"
+    },
+    {
+      "id": "MED-C2-47",
+      "sec": "Bile Acid Physiology",
+      "page": 7,
+      "fmt": "recall",
+      "q": "Bacterial deconjugation in the colon produces:",
+      "opts": [
+        "Deoxycholic acid and lithocholic acid",
+        "Cholic acid and chenodeoxycholic acid",
+        "Glycocholic acid and taurocholic acid",
+        "Ursodeoxycholic acid and cholic acid"
+      ],
+      "ans": 0,
+      "exp": "Colon: bacterial deconjugation → deoxycholic acid, lithocholic acid. (Book p7)"
+    },
+    {
+      "id": "MED-C2-48",
+      "sec": "Bile Acid Physiology",
+      "page": 7,
+      "fmt": "match",
+      "q": "Match the enterohepatic step to its printed product — 1) Synthesis (rate limiting) 2) Conjugation 3) Colonic bacterial deconjugation … A) Glycine/taurine → bile salts B) 7α-hydroxylase → cholic & chenodeoxycholic acid C) Deoxycholic & lithocholic acid",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Synthesis (7α-hydroxylase, rate limiting) → cholic/chenodeoxycholic acid; conjugation with glycine/taurine → bile salts; colonic bacterial deconjugation → deoxycholic and lithocholic acid. (Book p7)"
+    },
+    {
+      "id": "MED-C2-49",
+      "sec": "Bile Acid Physiology",
+      "page": 7,
+      "fmt": "recall",
+      "q": "Reabsorbed bile acids return to the liver through the:",
+      "opts": [
+        "Portal circulation",
+        "Thoracic duct",
+        "Inferior vena cava",
+        "Lymphatic lacteals"
+      ],
+      "ans": 0,
+      "exp": "Bile salts are reabsorbed and returned via the portal circulation to the liver. (Book p7)"
+    },
+    {
+      "id": "MED-C2-50",
+      "sec": "Bile Acid Physiology",
+      "page": 7,
+      "fmt": "scenario",
+      "q": "After ileal resection a patient develops bile-acid diarrhea. The enterohepatic step lost is:",
+      "opts": [
+        "Reabsorption",
+        "Synthesis",
+        "Conjugation",
+        "Hepatic secretion"
+      ],
+      "ans": 0,
+      "exp": "Ileal disease removes the reabsorption limb of the enterohepatic circulation. (Book p7)"
+    },
+    {
+      "id": "MED-C2-51",
+      "sec": "Defects in Luminal & Mucosal Phase",
+      "page": 8,
+      "fmt": "recall",
+      "q": "Chronic pancreatitis causes a luminal defect by affecting:",
+      "opts": [
+        "Pancreatic lipase, so lipolysis is affected",
+        "Bile acid conjugation",
+        "Chylomicron esterification",
+        "Disaccharidase activity"
+      ],
+      "ans": 0,
+      "exp": "1. Chronic pancreatitis → affects pancreatic lipase → lipolysis affected. (Book p8)"
+    },
+    {
+      "id": "MED-C2-52",
+      "sec": "Defects in Luminal & Mucosal Phase",
+      "page": 8,
+      "fmt": "recall",
+      "q": "The book's 'bile acid defect' may be a defect in:",
+      "opts": [
+        "Secretion, synthesis or reabsorption",
+        "Esterification only",
+        "Micelle diffusion only",
+        "Lymphatic transport only"
+      ],
+      "ans": 0,
+      "exp": "2. Bile acid defect: defect in secretion / synthesis / reabsorption. (Book p8)"
+    },
+    {
+      "id": "MED-C2-53",
+      "sec": "Defects in Luminal & Mucosal Phase",
+      "page": 8,
+      "fmt": "match",
+      "q": "Match the bile acid defect to the printed cause — 1) Destruction of bile ducts 2) Ileal dysfunction 3) Early deconjugation in the small intestine … A) TB/Crohn's B) Cirrhosis, primary biliary cholangitis, primary sclerosing cholangitis C) SIBO",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Secretion/synthesis defects: cirrhosis, primary biliary cholangitis, primary sclerosing cholangitis (destruction of bile ducts); reabsorption defects: TB/Crohn's (ileal dysfunction) and SIBO (early deconjugation). (Book p8)"
+    },
+    {
+      "id": "MED-C2-54",
+      "sec": "Defects in Luminal & Mucosal Phase",
+      "page": 8,
+      "fmt": "recall",
+      "q": "Early deconjugation of bile acids in the small intestine is listed under:",
+      "opts": [
+        "Small intestinal bacterial overgrowth (SIBO)",
+        "Chronic pancreatitis",
+        "Coeliac disease",
+        "Tropical sprue"
+      ],
+      "ans": 0,
+      "exp": "Defect in reabsorption: small intestinal bacterial overgrowth (SIBO) — early deconjugation in the small intestine. (Book p8)"
+    },
+    {
+      "id": "MED-C2-55",
+      "sec": "Defects in Luminal & Mucosal Phase",
+      "page": 8,
+      "fmt": "recall",
+      "q": "The mucosal phase of absorption is impaired in:",
+      "opts": [
+        "Coeliac disease, Whipple disease and tropical sprue",
+        "Chronic pancreatitis and SIBO",
+        "Abetalipoproteinaemia and lymphangiectasia",
+        "Cystinuria and Hartnup disease"
+      ],
+      "ans": 0,
+      "exp": "Mucosal phase — aetiology: coeliac disease, Whipple disease, tropical sprue. (Book p8)"
+    },
+    {
+      "id": "MED-C2-56",
+      "sec": "Defects in Luminal & Mucosal Phase",
+      "page": 8,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one of these is not a mucosal phase aetiology in the book:",
+      "opts": [
+        "Chronic pancreatitis",
+        "Coeliac disease",
+        "Whipple disease",
+        "Tropical sprue"
+      ],
+      "ans": 0,
+      "exp": "Mucosal phase: coeliac disease, Whipple disease, tropical sprue. Chronic pancreatitis is a luminal defect. (Book p8)"
+    },
+    {
+      "id": "MED-C2-57",
+      "sec": "Defects in Luminal & Mucosal Phase",
+      "page": 8,
+      "fmt": "scenario",
+      "q": "A patient with a duodenal biopsy showing villous atrophy has a defect the book places in which phase?",
+      "opts": [
+        "Mucosal",
+        "Luminal",
+        "Post mucosal",
+        "Colonic"
+      ],
+      "ans": 0,
+      "exp": "Coeliac disease is listed under the mucosal phase of absorption. (Book p8)"
+    },
+    {
+      "id": "MED-C2-58",
+      "sec": "Defects in Luminal & Mucosal Phase",
+      "page": 8,
+      "fmt": "recall",
+      "q": "Tuberculosis and Crohn's disease produce a bile acid defect by causing:",
+      "opts": [
+        "Ileal dysfunction",
+        "Bile duct destruction",
+        "Early deconjugation",
+        "Pancreatic lipase failure"
+      ],
+      "ans": 0,
+      "exp": "Defect in reabsorption: TB/Crohn's — ileal dysfunction. (Book p8)"
+    },
+    {
+      "id": "MED-C2-59",
+      "sec": "Post-Mucosal Phase & Types of Fatty Acids",
+      "page": 8,
+      "fmt": "recall",
+      "q": "In the post-mucosal phase, long chain fatty acids and glycerol undergo:",
+      "opts": [
+        "Esterification",
+        "Lipolysis",
+        "Deconjugation",
+        "Deamination"
+      ],
+      "ans": 0,
+      "exp": "Post mucosal: long chain fatty acids + glycerol → esterification → chylomicrons. (Book p8)"
+    },
+    {
+      "id": "MED-C2-60",
+      "sec": "Post-Mucosal Phase & Types of Fatty Acids",
+      "page": 8,
+      "fmt": "recall",
+      "q": "Esterification of long chain fatty acids with glycerol forms:",
+      "opts": [
+        "Chylomicrons",
+        "Micelles",
+        "Bile salts",
+        "VLDL alone"
+      ],
+      "ans": 0,
+      "exp": "LCFA + glycerol → esterification → chylomicrons. (Book p8)"
+    },
+    {
+      "id": "MED-C2-61",
+      "sec": "Post-Mucosal Phase & Types of Fatty Acids",
+      "page": 8,
+      "fmt": "recall",
+      "q": "Chylomicrons leave the enterocyte by transport via:",
+      "opts": [
+        "Intestinal lymphatics",
+        "Portal venules",
+        "Bile canaliculi",
+        "Submucosal veins"
+      ],
+      "ans": 0,
+      "exp": "Chylomicrons → transport via intestinal lymphatics. (Book p8)"
+    },
+    {
+      "id": "MED-C2-62",
+      "sec": "Post-Mucosal Phase & Types of Fatty Acids",
+      "page": 8,
+      "fmt": "match",
+      "q": "Order the post-mucosal steps — 1) LCFA + glycerol 2) Esterification 3) Chylomicrons 4) Transport via intestinal lymphatics … A) Chylomicrons B) LCFA + glycerol C) Intestinal lymphatics D) Esterification",
+      "opts": [
+        "1-B, 2-D, 3-A, 4-C",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-A, 3-D, 4-C"
+      ],
+      "ans": 0,
+      "exp": "LCFA + glycerol → esterification → chylomicrons → transport via intestinal lymphatics. (Book p8)"
+    },
+    {
+      "id": "MED-C2-63",
+      "sec": "Post-Mucosal Phase & Types of Fatty Acids",
+      "page": 8,
+      "fmt": "recall",
+      "q": "The two post-mucosal absorption disorders listed are:",
+      "opts": [
+        "Abetalipoproteinaemia and intestinal lymphangiectasia",
+        "Coeliac disease and tropical sprue",
+        "Chronic pancreatitis and SIBO",
+        "Cystinuria and Hartnup disease"
+      ],
+      "ans": 0,
+      "exp": "Post mucosal: 1. abetalipoproteinaemia, 2. intestinal lymphangiectasia. (Book p8)"
+    },
+    {
+      "id": "MED-C2-64",
+      "sec": "Post-Mucosal Phase & Types of Fatty Acids",
+      "page": 8,
+      "fmt": "numeric",
+      "q": "Medium chain fatty acids have a carbon chain length of:",
+      "opts": [
+        "8-12",
+        "<8",
+        ">12",
+        ">20"
+      ],
+      "ans": 0,
+      "exp": "Types of fatty acids — carbon chain length: long chain >12, medium chain 8-12, short chain <8. (Book p8)"
+    },
+    {
+      "id": "MED-C2-65",
+      "sec": "Post-Mucosal Phase & Types of Fatty Acids",
+      "page": 8,
+      "fmt": "numeric",
+      "q": "Short chain fatty acids have a carbon chain length of:",
+      "opts": [
+        "<8",
+        "8-12",
+        ">12",
+        "12-16"
+      ],
+      "ans": 0,
+      "exp": "Short chain fatty acids: carbon chain length <8. (Book p8)"
+    },
+    {
+      "id": "MED-C2-66",
+      "sec": "Post-Mucosal Phase & Types of Fatty Acids",
+      "page": 8,
+      "fmt": "numeric",
+      "q": "Long chain fatty acids have a carbon chain length of:",
+      "opts": [
+        ">12",
+        "<8",
+        "8-12",
+        "exactly 10"
+      ],
+      "ans": 0,
+      "exp": "Long chain fatty acids: carbon chain length >12. (Book p8)"
+    },
+    {
+      "id": "MED-C2-67",
+      "sec": "Post-Mucosal Phase & Types of Fatty Acids",
+      "page": 8,
+      "fmt": "recall",
+      "q": "The primary absorption site of short chain fatty acids is the:",
+      "opts": [
+        "Colon",
+        "Duodenum",
+        "Jejunum",
+        "Ileum"
+      ],
+      "ans": 0,
+      "exp": "Short chain fatty acids: primary absorption site — colon. (Book p8)"
+    },
+    {
+      "id": "MED-C2-68",
+      "sec": "Post-Mucosal Phase & Types of Fatty Acids",
+      "page": 8,
+      "fmt": "recall",
+      "q": "Short chain fatty acids arise from:",
+      "opts": [
+        "Bacterial degradation of unabsorbed carbohydrates in the colon",
+        "Large quantities of dietary triglycerides",
+        "Coconut oil in the diet",
+        "Hepatic synthesis from acetyl-CoA"
+      ],
+      "ans": 0,
+      "exp": "Short chain fatty acids: origin — bacterial degradation of unabsorbed carbohydrates in the colon. (Book p8)"
+    },
+    {
+      "id": "MED-C2-69",
+      "sec": "Post-Mucosal Phase & Types of Fatty Acids",
+      "page": 8,
+      "fmt": "recall",
+      "q": "Medium chain fatty acids are present in small quantity in the diet as:",
+      "opts": [
+        "Coconut oil",
+        "Butter fat",
+        "Lard",
+        "Fish oil"
+      ],
+      "ans": 0,
+      "exp": "Medium chain: small quantity in diet (coconut oil). (Book p8)"
+    },
+    {
+      "id": "MED-C2-70",
+      "sec": "Post-Mucosal Phase & Types of Fatty Acids",
+      "page": 8,
+      "fmt": "recall",
+      "q": "Long chain fatty acids are present in the diet in large quantity as:",
+      "opts": [
+        "Triglycerides",
+        "Free glycerol",
+        "Cholesterol esters",
+        "Phospholipids"
+      ],
+      "ans": 0,
+      "exp": "Long chain: large quantity in diet as triglycerides. (Book p8)"
+    },
+    {
+      "id": "MED-C2-71",
+      "sec": "Post-Mucosal Phase & Types of Fatty Acids",
+      "page": 8,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — medium chain fatty acids require pancreatic lipolysis for absorption.",
+      "opts": [
+        "False — lipolysis not required",
+        "True — pancreatic lipase is essential",
+        "True — but only in children",
+        "False — they require bile acid conjugation instead"
+      ],
+      "ans": 0,
+      "exp": "Require pancreatic lipolysis: long chain — yes; medium chain — no; short chain — no. (Book p8)"
+    },
+    {
+      "id": "MED-C2-72",
+      "sec": "Post-Mucosal Phase & Types of Fatty Acids",
+      "page": 8,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — short chain fatty acids require micelle formation for absorption.",
+      "opts": [
+        "False — not required",
+        "True — micelles are essential",
+        "True — but only above 8 carbons",
+        "False — they require chylomicrons instead"
+      ],
+      "ans": 0,
+      "exp": "Require micelle formation: long chain — yes; medium chain — no; short chain — no. (Book p8)"
+    },
+    {
+      "id": "MED-C2-73",
+      "sec": "Post-Mucosal Phase & Types of Fatty Acids",
+      "page": 8,
+      "fmt": "recall",
+      "q": "Which fatty acid type is present in stool in substantial amount?",
+      "opts": [
+        "Short chain",
+        "Long chain",
+        "Medium chain",
+        "None of them"
+      ],
+      "ans": 0,
+      "exp": "Present in stool: long chain — minimal, medium chain — no, short chain — substantial. (Book p8)"
+    },
+    {
+      "id": "MED-C2-74",
+      "sec": "Post-Mucosal Phase & Types of Fatty Acids",
+      "page": 8,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — only one fatty acid class requires BOTH pancreatic lipolysis and micelle formation:",
+      "opts": [
+        "Long chain",
+        "Medium chain",
+        "Short chain",
+        "Both medium and short chain"
+      ],
+      "ans": 0,
+      "exp": "Only long chain fatty acids require pancreatic lipolysis and micelle formation; medium and short chain require neither. (Book p8)"
+    },
+    {
+      "id": "MED-C2-75",
+      "sec": "Carbohydrate Absorption Mechanism",
+      "page": 9,
+      "fmt": "recall",
+      "q": "Disaccharides are split into monosaccharides by:",
+      "opts": [
+        "Disaccharidases of the small intestinal brush border epithelium",
+        "Pancreatic amylase in the lumen",
+        "Colonic bacterial glycosidases",
+        "Salivary amylase in the mouth"
+      ],
+      "ans": 0,
+      "exp": "Mechanism of carbohydrate absorption: disaccharides → small intestinal brush border epithelium (disaccharidases) → monosaccharides. (Book p9)"
+    },
+    {
+      "id": "MED-C2-76",
+      "sec": "Carbohydrate Absorption Mechanism",
+      "page": 9,
+      "fmt": "recall",
+      "q": "The disaccharidases listed in the book are:",
+      "opts": [
+        "Lactase, maltase, sucrase, trehalase",
+        "Amylase, lipase, trypsin, elastase",
+        "Enterokinase, pepsin, rennin, gelatinase",
+        "Galactokinase, fructokinase, glucokinase, hexokinase"
+      ],
+      "ans": 0,
+      "exp": "Disaccharidases: lactase, maltase, sucrase, trehalase. (Book p9)"
+    },
+    {
+      "id": "MED-C2-77",
+      "sec": "Carbohydrate Absorption Mechanism",
+      "page": 9,
+      "fmt": "fillup",
+      "q": "Lactose is split by ____ into glucose + galactose.",
+      "opts": [
+        "Lactase",
+        "Sucrase",
+        "Maltase",
+        "Trehalase"
+      ],
+      "ans": 0,
+      "exp": "Lactose —(lactase)→ glucose + galactose. (Book p9)"
+    },
+    {
+      "id": "MED-C2-78",
+      "sec": "Carbohydrate Absorption Mechanism",
+      "page": 9,
+      "fmt": "fillup",
+      "q": "Sucrose is split by sucrase into glucose + ____.",
+      "opts": [
+        "Fructose",
+        "Galactose",
+        "Maltose",
+        "Trehalose"
+      ],
+      "ans": 0,
+      "exp": "Sucrose —(sucrase)→ glucose + fructose. (Book p9)"
+    },
+    {
+      "id": "MED-C2-79",
+      "sec": "Carbohydrate Absorption Mechanism",
+      "page": 9,
+      "fmt": "match",
+      "q": "Match the disaccharide to its printed monosaccharide pair — 1) Lactose 2) Sucrose … A) Glucose + fructose B) Glucose + galactose",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Lactose → glucose + galactose (lactase); sucrose → glucose + fructose (sucrase). (Book p9)"
+    },
+    {
+      "id": "MED-C2-80",
+      "sec": "Carbohydrate Absorption Mechanism",
+      "page": 9,
+      "fmt": "recall",
+      "q": "In the gut, glucose and galactose are absorbed through:",
+      "opts": [
+        "Na+ glucose cotransporter 1 (SGLT1)",
+        "GLUT5",
+        "GLUT2",
+        "GLUT4"
+      ],
+      "ans": 0,
+      "exp": "Receptors for absorption in the gut: SGLT1 (sodium glucose cotransporter 1) carries glucose and galactose. (Book p9)"
+    },
+    {
+      "id": "MED-C2-81",
+      "sec": "Carbohydrate Absorption Mechanism",
+      "page": 9,
+      "fmt": "recall",
+      "q": "Fructose is absorbed in the gut through:",
+      "opts": [
+        "GLUT5",
+        "SGLT1",
+        "GLUT2",
+        "GLUT1"
+      ],
+      "ans": 0,
+      "exp": "In the gut: fructose uses the facilitated transporter GLUT5. (Book p9)"
+    },
+    {
+      "id": "MED-C2-82",
+      "sec": "Carbohydrate Absorption Mechanism",
+      "page": 9,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — the book labels SGLT1-mediated uptake of galactose and glucose as active transport.",
+      "opts": [
+        "True — active transport via SGLT1",
+        "False — SGLT1 is facilitated diffusion",
+        "False — galactose uses GLUT5",
+        "True — but only for fructose"
+      ],
+      "ans": 0,
+      "exp": "In the gut: SGLT1 — active transport of galactose and glucose. (Book p9)"
+    },
+    {
+      "id": "MED-C2-83",
+      "sec": "Carbohydrate Absorption Mechanism",
+      "page": 9,
+      "fmt": "fillup",
+      "q": "In the liver, galactose is phosphorylated by ____ to galactose-1-phosphate.",
+      "opts": [
+        "Galactokinase",
+        "Fructokinase",
+        "Glucokinase",
+        "Hexokinase"
+      ],
+      "ans": 0,
+      "exp": "In the liver: galactose + ATP —(galactokinase)→ galactose-1-phosphate + ADP. (Book p9)"
+    },
+    {
+      "id": "MED-C2-84",
+      "sec": "Carbohydrate Absorption Mechanism",
+      "page": 9,
+      "fmt": "fillup",
+      "q": "In the liver, fructose + ATP is converted by ____ into fructose-1-phosphate + ADP.",
+      "opts": [
+        "Fructose-1-phosphate",
+        "Glucose-6-phosphate",
+        "Galactose-1-phosphate",
+        "Fructose-6-phosphate"
+      ],
+      "ans": 0,
+      "exp": "In the liver: fructose + ATP —(fructokinase)→ fructose-1-phosphate + ADP. (Book p9)"
+    },
+    {
+      "id": "MED-C2-85",
+      "sec": "Carbohydrate Absorption Mechanism",
+      "page": 9,
+      "fmt": "fillup",
+      "q": "In the liver, glucose + ATP is phosphorylated by ____ to glucose-6-phosphate + ADP.",
+      "opts": [
+        "Glucose-6-phosphate",
+        "Glucose-1-phosphate",
+        "Fructose-6-phosphate",
+        "Galactose-1-phosphate"
+      ],
+      "ans": 0,
+      "exp": "In the liver: glucose + ATP —(glucokinase)→ glucose-6-phosphate + ADP. (Book p9)"
+    },
+    {
+      "id": "MED-C2-86",
+      "sec": "Carbohydrate Absorption Mechanism",
+      "page": 9,
+      "fmt": "recall",
+      "q": "In the liver, monosaccharides enter the hepatocyte through:",
+      "opts": [
+        "GLUT2",
+        "SGLT1",
+        "GLUT5",
+        "GLUT4"
+      ],
+      "ans": 0,
+      "exp": "In the liver: glucose transporter (GLUT2) brings monosaccharides into the hepatocyte. (Book p9)"
+    },
+    {
+      "id": "MED-C2-87",
+      "sec": "Carbohydrate Absorption Mechanism",
+      "page": 9,
+      "fmt": "scenario",
+      "q": "An infant has severe diarrhea from birth with glucose and galactose malabsorption but normal fructose handling. The book names this:",
+      "opts": [
+        "Familial glucose-galactose malabsorption syndrome (SGLT-1 defect)",
+        "Lactase deficiency",
+        "Cystinuria",
+        "Abetalipoproteinaemia"
+      ],
+      "ans": 0,
+      "exp": "Note: SGLT-1 defect → familial glucose-galactose malabsorption syndrome. (Book p9)"
+    },
+    {
+      "id": "MED-C2-88",
+      "sec": "Carbohydrate Absorption Mechanism",
+      "page": 9,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one is not a brush-border disaccharidase listed in the book:",
+      "opts": [
+        "Galactokinase",
+        "Lactase",
+        "Maltase",
+        "Trehalase"
+      ],
+      "ans": 0,
+      "exp": "Disaccharidases: lactase, maltase, sucrase, trehalase. Galactokinase is a liver enzyme. (Book p9)"
+    },
+    {
+      "id": "MED-C2-89",
+      "sec": "Defects in Carbohydrate Absorption",
+      "page": 9,
+      "fmt": "recall",
+      "q": "Congenital defects of carbohydrate absorption are described as:",
+      "opts": [
+        "Autosomal recessive",
+        "Autosomal dominant",
+        "X-linked recessive",
+        "Mitochondrial"
+      ],
+      "ans": 0,
+      "exp": "Defects in carbohydrate absorption — congenital: autosomal recessive. (Book p9)"
+    },
+    {
+      "id": "MED-C2-90",
+      "sec": "Defects in Carbohydrate Absorption",
+      "page": 9,
+      "fmt": "match",
+      "q": "Match the pattern of carbohydrate malabsorption to the printed example — 1) Selective 2) Global … A) Small intestinal mucosal defect (coeliac, Whipple's, tropical sprue) B) Lactase deficiency (primary/secondary)",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Selective = lactase deficiency (primary/secondary); global = small intestinal mucosal defect (coeliac disease, Whipple's disease, tropical sprue). (Book p9)"
+    },
+    {
+      "id": "MED-C2-91",
+      "sec": "Defects in Carbohydrate Absorption",
+      "page": 9,
+      "fmt": "oddoneout",
+      "q": "All of the following cause global carbohydrate malabsorption EXCEPT:",
+      "opts": [
+        "Lactase deficiency",
+        "Coeliac disease",
+        "Whipple's disease",
+        "Tropical sprue"
+      ],
+      "ans": 0,
+      "exp": "Global (small intestinal mucosal defect): coeliac disease, Whipple's disease, tropical sprue. Lactase deficiency is selective. (Book p9)"
+    },
+    {
+      "id": "MED-C2-92",
+      "sec": "Defects in Carbohydrate Absorption",
+      "page": 10,
+      "fmt": "recall",
+      "q": "The most common (m/c) acquired lactase deficiency is:",
+      "opts": [
+        "Primary — genetic defect (allele persistence)",
+        "Secondary — post infective",
+        "Secondary — due to coeliac disease",
+        "Congenital — absent enzyme from birth"
+      ],
+      "ans": 0,
+      "exp": "Acquired: ↓ enzyme activity — primary (m/c): genetic defect (allele persistence). (Book p10)"
+    },
+    {
+      "id": "MED-C2-93",
+      "sec": "Defects in Carbohydrate Absorption",
+      "page": 10,
+      "fmt": "recall",
+      "q": "Secondary lactase deficiency is listed with:",
+      "opts": [
+        "Infections and irritable bowel syndrome",
+        "Coeliac disease and tropical sprue",
+        "Chronic pancreatitis",
+        "Cystinuria"
+      ],
+      "ans": 0,
+      "exp": "Lactase deficiency, secondary: infections, irritable bowel syndrome (IBS). (Book p10)"
+    },
+    {
+      "id": "MED-C2-94",
+      "sec": "Protein Absorption & Selective Defects",
+      "page": 10,
+      "fmt": "fillup",
+      "q": "Trypsinogen is converted to ____, which activates chymotrypsin and elastase.",
+      "opts": [
+        "Trypsin",
+        "Chymotrypsinogen",
+        "Enterokinase",
+        "Proelastase"
+      ],
+      "ans": 0,
+      "exp": "Mechanism of protein absorption: trypsinogen → trypsin → activates chymotrypsin and elastase. (Book p10)"
+    },
+    {
+      "id": "MED-C2-95",
+      "sec": "Protein Absorption & Selective Defects",
+      "page": 10,
+      "fmt": "recall",
+      "q": "Trypsin activates:",
+      "opts": [
+        "Chymotrypsin and elastase",
+        "Pepsinogen and gastricsin",
+        "Enterokinase and enteropeptidase",
+        "Amylase and lipase"
+      ],
+      "ans": 0,
+      "exp": "Trypsinogen → trypsin → activate chymotrypsin and elastase. (Book p10)"
+    },
+    {
+      "id": "MED-C2-96",
+      "sec": "Protein Absorption & Selective Defects",
+      "page": 10,
+      "fmt": "recall",
+      "q": "Enterokinase deficiency is listed as a cause of:",
+      "opts": [
+        "Selective protein malabsorption",
+        "Global protein malabsorption",
+        "Carbohydrate malabsorption",
+        "Fat malabsorption"
+      ],
+      "ans": 0,
+      "exp": "Defects in protein absorption — selective malabsorption: enterokinase deficiency. (Book p10)"
+    },
+    {
+      "id": "MED-C2-97",
+      "sec": "Protein Absorption & Selective Defects",
+      "page": 10,
+      "fmt": "recall",
+      "q": "Neutral amino acid transport defect produces:",
+      "opts": [
+        "Hartnup's disease",
+        "Cystinuria",
+        "Pellagra of dietary origin",
+        "Maple syrup urine disease"
+      ],
+      "ans": 0,
+      "exp": "Neutral amino acid transport defect → Hartnup's disease. (Book p10)"
+    },
+    {
+      "id": "MED-C2-98",
+      "sec": "Protein Absorption & Selective Defects",
+      "page": 10,
+      "fmt": "recall",
+      "q": "Hartnup's disease presents as pellagra with:",
+      "opts": [
+        "Diarrhoea, dermatitis, dementia",
+        "Diarrhoea, dermatitis, diabetes",
+        "Dermatitis, deafness, dementia",
+        "Diarrhoea, dysphagia, dementia"
+      ],
+      "ans": 0,
+      "exp": "Hartnup's disease: presents as pellagra — diarrhoea, dermatitis, dementia. (Book p10)"
+    },
+    {
+      "id": "MED-C2-99",
+      "sec": "Protein Absorption & Selective Defects",
+      "page": 10,
+      "fmt": "recall",
+      "q": "Dibasic amino acid transport defect causes:",
+      "opts": [
+        "Cystinuria",
+        "Hartnup's disease",
+        "Enterokinase deficiency",
+        "Fanconi syndrome"
+      ],
+      "ans": 0,
+      "exp": "Dibasic amino acid transport defect → cystinuria. (Book p10)"
+    },
+    {
+      "id": "MED-C2-100",
+      "sec": "Protein Absorption & Selective Defects",
+      "page": 10,
+      "fmt": "fillup",
+      "q": "Cystinuria causes excretion of COLA — cystine, ornithine, lysine and ____.",
+      "opts": [
+        "Arginine",
+        "Alanine",
+        "Asparagine",
+        "Aspartate"
+      ],
+      "ans": 0,
+      "exp": "Cystinuria → excretion of COLA (cystine, ornithine, lysine, arginine). (Book p10)"
+    },
+    {
+      "id": "MED-C2-101",
+      "sec": "Protein Absorption & Selective Defects",
+      "page": 10,
+      "fmt": "match",
+      "q": "Match the selective protein defect to its printed consequence — 1) Hartnup's disease 2) Cystinuria … A) Excretion of COLA B) Pellagra: diarrhoea, dermatitis, dementia",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Hartnup's disease → pellagra (diarrhoea, dermatitis, dementia); cystinuria → excretion of COLA. (Book p10)"
+    },
+    {
+      "id": "MED-C2-102",
+      "sec": "Protein Absorption & Selective Defects",
+      "page": 10,
+      "fmt": "oddoneout",
+      "q": "All of the following are in the COLA group excreted in cystinuria EXCEPT:",
+      "opts": [
+        "Histidine",
+        "Cystine",
+        "Ornithine",
+        "Lysine"
+      ],
+      "ans": 0,
+      "exp": "COLA = cystine, ornithine, lysine, arginine; histidine is not included. (Book p10)"
+    },
+    {
+      "id": "MED-C2-103",
+      "sec": "Lactose Intolerance: Physiology to Pathogenesis",
+      "page": 10,
+      "fmt": "recall",
+      "q": "The dietary sources of lactose named in the book are:",
+      "opts": [
+        "Milk and cheese",
+        "Wheat and barley",
+        "Rice and maize",
+        "Soybean and potato"
+      ],
+      "ans": 0,
+      "exp": "Physiology: lactose (dietary — milk, cheese) → lactase (brush border) → glucose + galactose. (Book p10)"
+    },
+    {
+      "id": "MED-C2-104",
+      "sec": "Lactose Intolerance: Physiology to Pathogenesis",
+      "page": 10,
+      "fmt": "fillup",
+      "q": "Lactase is a ____ enzyme that splits lactose into glucose and galactose.",
+      "opts": [
+        "brush border",
+        "pancreatic",
+        "lysosomal",
+        "biliary"
+      ],
+      "ans": 0,
+      "exp": "Lactase is a brush border enzyme: lactose → glucose + galactose. (Book p10)"
+    },
+    {
+      "id": "MED-C2-105",
+      "sec": "Lactose Intolerance: Physiology to Pathogenesis",
+      "page": 10,
+      "fmt": "recall",
+      "q": "Congenital lactase deficiency is:",
+      "opts": [
+        "Autosomal recessive with absent enzyme from birth",
+        "Autosomal dominant with reduced enzyme",
+        "X-linked recessive",
+        "Due to allele persistence"
+      ],
+      "ans": 0,
+      "exp": "Congenital: autosomal recessive (absent enzyme from birth). (Book p10)"
+    },
+    {
+      "id": "MED-C2-106",
+      "sec": "Lactose Intolerance: Physiology to Pathogenesis",
+      "page": 10,
+      "fmt": "recall",
+      "q": "Acquired lactase deficiency is characterised by:",
+      "opts": [
+        "↓ enzyme activity",
+        "Absent enzyme from birth",
+        "Excess enzyme activity",
+        "Antibody mediated enzyme destruction"
+      ],
+      "ans": 0,
+      "exp": "Acquired: ↓ enzyme activity. (Book p10)"
+    },
+    {
+      "id": "MED-C2-107",
+      "sec": "Lactose Intolerance: Physiology to Pathogenesis",
+      "page": 10,
+      "fmt": "recall",
+      "q": "Primary acquired lactase deficiency (m/c) is due to:",
+      "opts": [
+        "A genetic defect — allele persistence",
+        "Rotavirus infection",
+        "Coeliac disease",
+        "Bacterial overgrowth"
+      ],
+      "ans": 0,
+      "exp": "Primary (m/c): genetic defect (allele persistence). (Book p10)"
+    },
+    {
+      "id": "MED-C2-108",
+      "sec": "Lactose Intolerance: Physiology to Pathogenesis",
+      "page": 10,
+      "fmt": "recall",
+      "q": "Secondary lactase deficiency is listed with:",
+      "opts": [
+        "Infections and irritable bowel syndrome",
+        "Coeliac disease and Whipple's disease",
+        "Tropical sprue and SIBO",
+        "Chronic pancreatitis and cirrhosis"
+      ],
+      "ans": 0,
+      "exp": "Secondary: infections, irritable bowel syndrome (IBS). (Book p10)"
+    },
+    {
+      "id": "MED-C2-109",
+      "sec": "Lactose Intolerance: Physiology to Pathogenesis",
+      "page": 11,
+      "fmt": "match",
+      "q": "Order the pathogenesis as printed — 1) Undigested carbohydrate 2) ↑ unabsorbed carbohydrates in colon 3) Fermented by colonic bacteria 4) ↑ acid and gases … A) ↑ acid and gases B) Undigested carbohydrate C) Fermentation by colonic bacteria D) ↑ unabsorbed carbohydrates in colon",
+      "opts": [
+        "1-B, 2-D, 3-C, 4-A",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-C, 2-D, 3-B, 4-A",
+        "1-B, 2-C, 3-D, 4-A"
+      ],
+      "ans": 0,
+      "exp": "Pathogenesis: undigested carbohydrate → ↑ unabsorbed carbohydrates in colon → fermented by colonic bacteria → ↑ acid and gases (H2, methane, CO2). (Book p11)"
+    },
+    {
+      "id": "MED-C2-110",
+      "sec": "Lactose Intolerance: Physiology to Pathogenesis",
+      "page": 11,
+      "fmt": "recall",
+      "q": "The colonic bacteria listed as fermenting unabsorbed carbohydrate are:",
+      "opts": [
+        "Bacteroides fragilis, bifidobacteria, lactobacillus",
+        "E. coli, Klebsiella, Enterobacter",
+        "Clostridium difficile, Salmonella, Shigella",
+        "Pseudomonas, Proteus,Providencia"
+      ],
+      "ans": 0,
+      "exp": "Fermented by colonic bacteria: Bacteroides fragilis, bifidobacteria, lactobacillus. (Book p11)"
+    },
+    {
+      "id": "MED-C2-111",
+      "sec": "Lactose Intolerance: Physiology to Pathogenesis",
+      "page": 11,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one organism is not listed among the colonic fermenters of lactose intolerance:",
+      "opts": [
+        "E. coli",
+        "Bacteroides fragilis",
+        "Bifidobacteria",
+        "Lactobacillus"
+      ],
+      "ans": 0,
+      "exp": "Listed colonic fermenters: Bacteroides fragilis, bifidobacteria, lactobacillus. E. coli is not listed. (Book p11)"
+    },
+    {
+      "id": "MED-C2-112",
+      "sec": "Lactose Intolerance: Physiology to Pathogenesis",
+      "page": 11,
+      "fmt": "recall",
+      "q": "The gases produced by colonic fermentation are listed as:",
+      "opts": [
+        "H2, methane and CO2",
+        "H2S, ammonia and NO",
+        "O2, N2 and CO",
+        "CO, ammonia and H2S"
+      ],
+      "ans": 0,
+      "exp": "↑ acid and gases (H2, methane, CO2). (Book p11)"
+    },
+    {
+      "id": "MED-C2-113",
+      "sec": "Lactose Intolerance: Physiology to Pathogenesis",
+      "page": 11,
+      "fmt": "numeric",
+      "q": "Symptoms of lactose intolerance appear at what interval after a meal?",
+      "opts": [
+        "90 min post prandial",
+        "Immediately with the first bite",
+        "6-8 hours later",
+        "24 hours later"
+      ],
+      "ans": 0,
+      "exp": "Clinical presentation: 90 min post prandial — abdominal distension, bloating, cramps. (Book p11)"
+    },
+    {
+      "id": "MED-C2-114",
+      "sec": "Lactose Intolerance: Physiology to Pathogenesis",
+      "page": 11,
+      "fmt": "recall",
+      "q": "The 90-minute post-prandial symptoms described are:",
+      "opts": [
+        "Abdominal distension, bloating and cramps",
+        "Haematochezia and tenesmus",
+        "Jaundice and pruritus",
+        "Haematuria and flank pain"
+      ],
+      "ans": 0,
+      "exp": "90 min post prandial: abdominal distension, bloating, cramps. (Book p11)"
+    },
+    {
+      "id": "MED-C2-115",
+      "sec": "Lactose Intolerance: Physiology to Pathogenesis",
+      "page": 11,
+      "fmt": "recall",
+      "q": "Diaper dermatitis in children with lactose intolerance is attributed to:",
+      "opts": [
+        "Acidic pH of the stool",
+        "Alkaline pH of the stool",
+        "Bile salt irritation",
+        "Secondary fungal infection"
+      ],
+      "ans": 0,
+      "exp": "Diaper dermatitis: in children due to acidic pH. (Book p11)"
+    },
+    {
+      "id": "MED-C2-116",
+      "sec": "Lactose Intolerance: Physiology to Pathogenesis",
+      "page": 11,
+      "fmt": "recall",
+      "q": "Besides diaper dermatitis, children with lactose intolerance are described with:",
+      "opts": [
+        "Severe watery diarrhea, failure to thrive and irritability",
+        "Constipation and megacolon",
+        "Painless rectal bleeding",
+        "Recurrent intussusception"
+      ],
+      "ans": 0,
+      "exp": "In children: severe watery diarrhea, failure to thrive, irritability. (Book p11)"
+    },
+    {
+      "id": "MED-C2-117",
+      "sec": "Lactose Intolerance: Presentation & Investigations",
+      "page": 11,
+      "fmt": "recall",
+      "q": "Stool pH in lactose intolerance is:",
+      "opts": [
+        "Acidic",
+        "Alkaline",
+        "Neutral",
+        "Unchanged from serum"
+      ],
+      "ans": 0,
+      "exp": "Investigations: 1. stool pH — acidic. (Book p11)"
+    },
+    {
+      "id": "MED-C2-118",
+      "sec": "Lactose Intolerance: Presentation & Investigations",
+      "page": 11,
+      "fmt": "fillup",
+      "q": "Principle of the lactose hydrogen breath test: excess lactose in colon is fermented by bacteria to methane + H2, which is absorbed and tested on the ____.",
+      "opts": [
+        "breath",
+        "urine",
+        "serum",
+        "stool"
+      ],
+      "ans": 0,
+      "exp": "Excess lactose in colon → fermented by bacteria → methane + H2 → absorbed → tested on breath. (Book p11)"
+    },
+    {
+      "id": "MED-C2-119",
+      "sec": "Lactose Intolerance: Presentation & Investigations",
+      "page": 11,
+      "fmt": "numeric",
+      "q": "A positive lactose hydrogen breath test is defined as a rise in breath H2 of:",
+      "opts": [
+        "> 20 ppm",
+        "> 5 ppm",
+        "> 50 ppm",
+        "> 90 ppm"
+      ],
+      "ans": 0,
+      "exp": "Positive test: H2 > 20 ppm. (Book p11)"
+    },
+    {
+      "id": "MED-C2-120",
+      "sec": "Lactose Intolerance: Presentation & Investigations",
+      "page": 11,
+      "fmt": "recall",
+      "q": "The lactose-glucose blood test is described as:",
+      "opts": [
+        "Obsolete",
+        "Gold standard",
+        "The preferred screening test",
+        "The most specific test"
+      ],
+      "ans": 0,
+      "exp": "3. Lactose-glucose blood test: obsolete. (Book p11)"
+    },
+    {
+      "id": "MED-C2-121",
+      "sec": "Lactose Intolerance: Presentation & Investigations",
+      "page": 11,
+      "fmt": "recall",
+      "q": "Management of lactose intolerance in the book is:",
+      "opts": [
+        "Dietary management and calcium supplementation",
+        "Lifelong antibiotics",
+        "Pancreatic enzyme replacement",
+        "Bile acid sequestrants"
+      ],
+      "ans": 0,
+      "exp": "Management: dietary management, Ca2+ supplementation. (Book p11)"
+    },
+    {
+      "id": "MED-C2-122",
+      "sec": "Lactose Intolerance: Presentation & Investigations",
+      "page": 11,
+      "fmt": "oddoneout",
+      "q": "All of the following are listed investigations for lactose intolerance EXCEPT:",
+      "opts": [
+        "D-xylose test",
+        "Stool pH",
+        "Lactose hydrogen breath test",
+        "Lactose-glucose blood test"
+      ],
+      "ans": 0,
+      "exp": "Investigations listed: stool pH, lactose hydrogen breath test, lactose-glucose blood test (obsolete). D-xylose is a test of mucosal integrity. (Book p11)"
+    },
+    {
+      "id": "MED-C2-123",
+      "sec": "Lactose Intolerance: Presentation & Investigations",
+      "page": 11,
+      "fmt": "scenario",
+      "q": "A toddler develops abdominal distension and severe watery diarrhea 90 minutes after milk feeds, with acidic perianal dermatitis. The book's diagnosis is:",
+      "opts": [
+        "Lactose intolerance (lactase deficiency)",
+        "Coeliac disease",
+        "Abetalipoproteinaemia",
+        "Intestinal lymphangiectasia"
+      ],
+      "ans": 0,
+      "exp": "Lactose intolerance: 90 min post prandial distension, severe watery diarrhea, diaper dermatitis from acidic pH. (Book p11)"
+    },
+    {
+      "id": "MED-C2-124",
+      "sec": "Lactose Intolerance: Presentation & Investigations",
+      "page": 11,
+      "fmt": "management",
+      "q": "A child with confirmed lactose intolerance and poor weight gain should be managed by:",
+      "opts": [
+        "Dietary lactose restriction with calcium supplementation",
+        "Oral corticosteroids",
+        "Medium chain triglyceride diet",
+        "Colectomy"
+      ],
+      "ans": 0,
+      "exp": "Management: dietary management plus Ca2+ supplementation. (Book p11)"
+    },
+    {
+      "id": "MED-C2-125",
+      "sec": "Lactose Intolerance: Presentation & Investigations",
+      "page": 11,
+      "fmt": "recall",
+      "q": "The note lists the protein malabsorption mimics as:",
+      "opts": [
+        "Hartnup's disease (similar to pellagra) and cystinuria (COLA excretion)",
+        "Coeliac disease and tropical sprue",
+        "Kwashiorkor and marasmus",
+        "Amyloidosis and lymphoma"
+      ],
+      "ans": 0,
+      "exp": "Note: protein malabsorption — Hartnup's disease: similar to pellagra; cystinuria: excretion of COLA. (Book p11)"
+    },
+    {
+      "id": "MED-C2-126",
+      "sec": "Abetalipoproteinemia",
+      "page": 12,
+      "fmt": "recall",
+      "q": "Abetalipoproteinaemia is also known as:",
+      "opts": [
+        "Neuroacanthocytosis",
+        "Bassen-Kornzweig variant of Wilson disease",
+        "Tangier disease",
+        "Familial acanthocytosis nigricans"
+      ],
+      "ans": 0,
+      "exp": "Abetalipoproteinaemia — AKA neuroacanthocytosis. (Book p12)"
+    },
+    {
+      "id": "MED-C2-127",
+      "sec": "Abetalipoproteinemia",
+      "page": 12,
+      "fmt": "recall",
+      "q": "Inheritance of abetalipoproteinaemia is:",
+      "opts": [
+        "Autosomal recessive",
+        "Autosomal dominant",
+        "X-linked recessive",
+        "Sporadic"
+      ],
+      "ans": 0,
+      "exp": "Etiopathogenesis: autosomal recessive. (Book p12)"
+    },
+    {
+      "id": "MED-C2-128",
+      "sec": "Abetalipoproteinemia",
+      "page": 12,
+      "fmt": "fillup",
+      "q": "In abetalipoproteinaemia, apoB48 defect causes defective ____, so no chylomicron formation.",
+      "opts": [
+        "Esterification",
+        "Lipolysis",
+        "Conjugation",
+        "Deconjugation"
+      ],
+      "ans": 0,
+      "exp": "apoB48 → defective esterification → no chylomicron formation. (Book p12)"
+    },
+    {
+      "id": "MED-C2-129",
+      "sec": "Abetalipoproteinemia",
+      "page": 12,
+      "fmt": "recall",
+      "q": "Peripheral smear in abetalipoproteinaemia shows:",
+      "opts": [
+        "Acanthocytes",
+        "Spherocytes",
+        "Target cells",
+        "Schistocytes"
+      ],
+      "ans": 0,
+      "exp": "Investigations: 1. peripheral smear — acanthocytes. (Book p12)"
+    },
+    {
+      "id": "MED-C2-130",
+      "sec": "Abetalipoproteinemia",
+      "page": 12,
+      "fmt": "match",
+      "q": "Match the components of the printed triad — 1) Neurological 2) Retinopathy 3) GI … A) Steatorrhea B) Ataxia (vitamin E deficiency) C) Retinitis pigmentosa (night blindness)",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Clinical presentation: triad of neurological — ataxia (vitamin E deficiency), retinopathy — retinitis pigmentosa (night blindness), GI — steatorrhea. (Book p12)"
+    },
+    {
+      "id": "MED-C2-131",
+      "sec": "Abetalipoproteinemia",
+      "page": 12,
+      "fmt": "recall",
+      "q": "The investigation described as 100% diagnostic for abetalipoproteinaemia is:",
+      "opts": [
+        "Post prandial endoscopic biopsy",
+        "Peripheral smear",
+        "Fecal fat estimation",
+        "Serum lipoprotein electrophoresis"
+      ],
+      "ans": 0,
+      "exp": "2. Post prandial endoscopic biopsy: 100% diagnostic. (Book p12)"
+    },
+    {
+      "id": "MED-C2-132",
+      "sec": "Abetalipoproteinemia",
+      "page": 12,
+      "fmt": "recall",
+      "q": "The endoscopic biopsy in abetalipoproteinaemia shows:",
+      "opts": [
+        "Vacuolation in enterocytes",
+        "Villous atrophy with crypt hyperplasia",
+        "Non-caseating granulomas",
+        "PAS-positive foamy macrophages"
+      ],
+      "ans": 0,
+      "exp": "Post prandial endoscopic biopsy: 100% diagnostic; vacuolation in enterocytes. (Book p12)"
+    },
+    {
+      "id": "MED-C2-133",
+      "sec": "Abetalipoproteinemia",
+      "page": 12,
+      "fmt": "match",
+      "q": "Match the step in the vitamin E deficiency pathway — 1) ↓ chylomicron formation 2) Fat malabsorption 3) ↓ vitamin E absorption … A) ↓ vitamin E absorption (fat soluble) B) ↓ chylomicron formation C) Fat malabsorption",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Pathogenesis: ↓ chylomicron formation → fat malabsorption → ↓ vitamin E absorption (fat soluble). (Book p12)"
+    },
+    {
+      "id": "MED-C2-134",
+      "sec": "Abetalipoproteinemia",
+      "page": 12,
+      "fmt": "recall",
+      "q": "The other limb of vitamin E deficiency in abetalipoproteinaemia is:",
+      "opts": [
+        "↓ VLDL formation → ↓ secretion of vitamin E by the liver into blood",
+        "↑ biliary excretion of vitamin E",
+        "Renal loss of vitamin E",
+        "Bacterial consumption of vitamin E"
+      ],
+      "ans": 0,
+      "exp": "↓ VLDL formation → ↓ secretion of vitamin E by the liver into blood. (Book p12)"
+    },
+    {
+      "id": "MED-C2-135",
+      "sec": "Abetalipoproteinemia",
+      "page": 12,
+      "fmt": "recall",
+      "q": "Conditions the book says are diagnosed on biopsy are:",
+      "opts": [
+        "Whipple's disease, abetalipoproteinaemia and agammaglobulinaemia",
+        "Coeliac disease, tropical sprue and SIBO",
+        "Cystinuria, Hartnup disease and enterokinase deficiency",
+        "Chronic pancreatitis, cirrhosis and SIBO"
+      ],
+      "ans": 0,
+      "exp": "Note: conditions diagnosed with biopsy — Whipple's disease, abetalipoproteinaemia, agammaglobulinaemia. (Book p12)"
+    },
+    {
+      "id": "MED-C2-136",
+      "sec": "Abetalipoproteinemia",
+      "page": 12,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE — hypolipidemia is listed as a clinical feature of abetalipoproteinaemia.",
+      "opts": [
+        "True — hypolipidemia is listed",
+        "False — lipids are markedly elevated",
+        "False — lipids are always normal",
+        "True — but only triglycerides are low"
+      ],
+      "ans": 0,
+      "exp": "Clinical presentation: hypolipidemia, then the triad of ataxia, retinitis pigmentosa and steatorrhea. (Book p12)"
+    },
+    {
+      "id": "MED-C2-137",
+      "sec": "Abetalipoproteinemia",
+      "page": 12,
+      "fmt": "scenario",
+      "q": "A child with steatorrhea, ataxia and night blindness has acanthocytes on smear. The ataxia is most pronounced because of:",
+      "opts": [
+        "Vitamin E deficiency",
+        "Vitamin B12 deficiency",
+        "Vitamin K deficiency",
+        "Folate deficiency"
+      ],
+      "ans": 0,
+      "exp": "Vitamin E deficiency in abetalipoproteinaemia: clinical features — ataxia (pronounced). (Book p12)"
+    },
+    {
+      "id": "MED-C2-138",
+      "sec": "Intestinal Lymphangiectasia",
+      "page": 13,
+      "fmt": "recall",
+      "q": "The physiology box for intestinal lymphangiectasia shows chylomicrons moving:",
+      "opts": [
+        "Across intestinal lymphatics into blood",
+        "Across the portal vein into bile",
+        "Into the colonic lumen for excretion",
+        "Into enterocytes from the blood"
+      ],
+      "ans": 0,
+      "exp": "Physiology: chylomicrons → across intestinal lymphatics → blood. (Book p13)"
+    },
+    {
+      "id": "MED-C2-139",
+      "sec": "Intestinal Lymphangiectasia",
+      "page": 13,
+      "fmt": "recall",
+      "q": "Secondary intestinal lymphangiectasia follows:",
+      "opts": [
+        "Lymph node obstruction → ↑ lymphatic pressure → exudation",
+        "Congenital absence of lacteals",
+        "Portal hypertension",
+        "Bile duct obstruction"
+      ],
+      "ans": 0,
+      "exp": "Secondary: lymph node obstruction → ↑ lymphatic pressure → exudation. (Book p13)"
+    },
+    {
+      "id": "MED-C2-140",
+      "sec": "Intestinal Lymphangiectasia",
+      "page": 13,
+      "fmt": "recall",
+      "q": "Secondary causes listed are:",
+      "opts": [
+        "Lymphoma and Crohn's disease",
+        "Coeliac disease and tropical sprue",
+        "Chronic pancreatitis and SIBO",
+        "Cystinuria and Hartnup disease"
+      ],
+      "ans": 0,
+      "exp": "Secondary: lymphoma, Crohn's disease. (Book p13)"
+    },
+    {
+      "id": "MED-C2-141",
+      "sec": "Intestinal Lymphangiectasia",
+      "page": 13,
+      "fmt": "recall",
+      "q": "Primary intestinal lymphangiectasia is described as:",
+      "opts": [
+        "Abnormally dilated lymphatic channels with ↑ pressure and exudation into the intestinal lumen",
+        "Obstruction of lymph nodes by metastases",
+        "Congenital absence of the thoracic duct",
+        "Lymphatic obliteration by fibrosis"
+      ],
+      "ans": 0,
+      "exp": "Primary: abnormally dilated lymphatic channel → ↑ pressure → exudation into intestinal lumen. (Book p13)"
+    },
+    {
+      "id": "MED-C2-142",
+      "sec": "Intestinal Lymphangiectasia",
+      "page": 13,
+      "fmt": "recall",
+      "q": "The most important cause of protein losing enteropathy, per the book, is:",
+      "opts": [
+        "Primary intestinal lymphangiectasia",
+        "Coeliac disease",
+        "Nephrotic syndrome",
+        "Cirrhosis"
+      ],
+      "ans": 0,
+      "exp": "1. Protein losing enteropathy — most important: primary intestinal lymphangiectasia. (Book p13)"
+    },
+    {
+      "id": "MED-C2-143",
+      "sec": "Intestinal Lymphangiectasia",
+      "page": 13,
+      "fmt": "recall",
+      "q": "Protein losing enteropathy produces:",
+      "opts": [
+        "Hypoalbuminaemia with hypogammaglobulinaemia",
+        "Hyperalbuminaemia with polyclonal gammopathy",
+        "Isolated hypergammaglobulinaemia",
+        "Isolated IgM elevation"
+      ],
+      "ans": 0,
+      "exp": "Protein losing enteropathy: hypoalbuminaemia with hypogammaglobulinaemia. (Book p13)"
+    },
+    {
+      "id": "MED-C2-144",
+      "sec": "Intestinal Lymphangiectasia",
+      "page": 13,
+      "fmt": "match",
+      "q": "Match the cause of edema to the printed mechanism — 1) Nephrotic syndrome 2) Liver disease 3) Protein losing enteropathy … A) ↓ albumin production B) Loss of albumin in urine C) Exudation into the intestinal lumen",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Nephrotic syndrome: loss of albumin in urine; liver disease: ↓ albumin production; protein losing enteropathy: exudation into the intestinal lumen. (Book p13)"
+    },
+    {
+      "id": "MED-C2-145",
+      "sec": "Intestinal Lymphangiectasia",
+      "page": 13,
+      "fmt": "recall",
+      "q": "The specific investigation for intestinal lymphangiectasia is:",
+      "opts": [
+        "Fecal α-1 antitrypsin — elevated",
+        "Fecal elastase",
+        "D-xylose test",
+        "Schilling test"
+      ],
+      "ans": 0,
+      "exp": "Investigation: fecal α-1 antitrypsin: elevated (specific test). (Book p13)"
+    },
+    {
+      "id": "MED-C2-146",
+      "sec": "Intestinal Lymphangiectasia",
+      "page": 13,
+      "fmt": "recall",
+      "q": "CT scan in intestinal lymphangiectasia shows:",
+      "opts": [
+        "Wall thickening of the small intestine",
+        "Dilatation of the bile ducts",
+        "Pancreatic calcification",
+        "Mesenteric lymph node calcification"
+      ],
+      "ans": 0,
+      "exp": "CT scan: wall thickening of small intestine. (Book p13)"
+    },
+    {
+      "id": "MED-C2-147",
+      "sec": "Intestinal Lymphangiectasia",
+      "page": 13,
+      "fmt": "recall",
+      "q": "The endoscopic investigation listed for intestinal lymphangiectasia is:",
+      "opts": [
+        "Video capsule endoscopy",
+        "Colonoscopy with ileal intubation only",
+        "Endoscopic ultrasound",
+        "Enteroscopy with submucosal dissection"
+      ],
+      "ans": 0,
+      "exp": "Investigation: video capsule endoscopy. (Book p13)"
+    },
+    {
+      "id": "MED-C2-148",
+      "sec": "Intestinal Lymphangiectasia",
+      "page": 13,
+      "fmt": "recall",
+      "q": "Management of intestinal lymphangiectasia is:",
+      "opts": [
+        "Medium chain triglyceride diet",
+        "Gluten-free diet",
+        "High long chain fat diet",
+        "Total parenteral nutrition alone"
+      ],
+      "ans": 0,
+      "exp": "Management: medium chain triglyceride diet. (Book p13)"
+    },
+    {
+      "id": "MED-C2-149",
+      "sec": "Intestinal Lymphangiectasia",
+      "page": 13,
+      "fmt": "oddoneout",
+      "q": "All of the following are listed features of intestinal lymphangiectasia EXCEPT:",
+      "opts": [
+        "Hyperalbuminaemia",
+        "Edema",
+        "Ascites",
+        "Diarrhea"
+      ],
+      "ans": 0,
+      "exp": "Features: protein losing enteropathy with hypoalbuminaemia, edema, ascites, diarrhea. Hyperalbuminaemia is not listed. (Book p13)"
+    },
+    {
+      "id": "MED-C2-150",
+      "sec": "Intestinal Lymphangiectasia",
+      "page": 13,
+      "fmt": "recall",
+      "q": "On endoscopy, intestinal lymphangiectasia appears as:",
+      "opts": [
+        "Diffuse white lesions with dilated lymphatics",
+        "Deep serpiginous ulcers",
+        "Cobblestone mucosa",
+        "Pseudomembranous plaques"
+      ],
+      "ans": 0,
+      "exp": "Endoscopy image: diffuse white lesions — lymphangiectasia on endoscopy with dilated lymphatics. (Book p13)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U2-1",
+      "ch": 2,
+      "n": 1,
+      "title": "Basics of Absorption & Stages",
+      "sec": "Basics of Absorption & Stages",
+      "guide": "Three stages in order: Luminal → Mucosal → Post mucosal.\nLuminal is enzymes mediated; mucosal is the enterocyte brush border.\nPost mucosal is movement from the mucosal epithelial cell into blood.",
+      "qs": [
+        "MED-C2-01",
+        "MED-C2-02",
+        "MED-C2-03",
+        "MED-C2-04",
+        "MED-C2-05",
+        "MED-C2-06",
+        "MED-C2-07",
+        "MED-C2-08",
+        "MED-C2-09"
+      ]
+    },
+    {
+      "id": "MED-U2-2",
+      "ch": 2,
+      "n": 2,
+      "title": "Anatomy of the Small Intestine",
+      "sec": "Anatomy of the Small Intestine",
+      "guide": "Proximal 2/3 = maximum absorption (jejunum > duodenum).\nDistal 1/3 = bile acid, vitamin B12 and Mg2+ (ileum).\nFix the segment before learning each nutrient.",
+      "qs": [
+        "MED-C2-10",
+        "MED-C2-11",
+        "MED-C2-12",
+        "MED-C2-13",
+        "MED-C2-14",
+        "MED-C2-15"
+      ]
+    },
+    {
+      "id": "MED-U2-3",
+      "ch": 2,
+      "n": 3,
+      "title": "Histology: Mucosa",
+      "sec": "Histology: Mucosa",
+      "guide": "Villi are the specific feature and are surrounded by crypts of Lieberkühn.\nPaneth cells sit at the crypt base and make alpha defensins, lysozymes, phospholipase A2.\nRenewal every 48-72 hrs; interstitial cells of Cajal are pacemaker cells.",
+      "qs": [
+        "MED-C2-16",
+        "MED-C2-17",
+        "MED-C2-18",
+        "MED-C2-19",
+        "MED-C2-20",
+        "MED-C2-21",
+        "MED-C2-22",
+        "MED-C2-23",
+        "MED-C2-24",
+        "MED-C2-25",
+        "MED-C2-26",
+        "MED-C2-27",
+        "MED-C2-28",
+        "MED-C2-29"
+      ]
+    },
+    {
+      "id": "MED-U2-4",
+      "ch": 2,
+      "n": 4,
+      "title": "Small Intestine Layers & Peyer's Patches",
+      "sec": "Small Intestine Layers & Peyer's Patches",
+      "guide": "Layers: mucosa, submucosa, muscularis propria, serosa.\nPeyer's patches are macroscopic lymphoid aggregates of the ileal submucosa.\nIn typhoid they hypertrophy.",
+      "qs": [
+        "MED-C2-30",
+        "MED-C2-31",
+        "MED-C2-32",
+        "MED-C2-33",
+        "MED-C2-34"
+      ]
+    },
+    {
+      "id": "MED-U2-5",
+      "ch": 2,
+      "n": 5,
+      "title": "Fat Absorption: Luminal Phase",
+      "sec": "Fat Absorption: Luminal Phase",
+      "guide": "Bile acids + pancreatic lipase act on triglyceride → lipolysis → fatty acids + glycerol.\nMicelles then pass into enterocytes by passive diffusion.\nChronic pancreatitis removes the lipase step.",
+      "qs": [
+        "MED-C2-35",
+        "MED-C2-36",
+        "MED-C2-37",
+        "MED-C2-38",
+        "MED-C2-39",
+        "MED-C2-40"
+      ]
+    },
+    {
+      "id": "MED-U2-6",
+      "ch": 2,
+      "n": 6,
+      "title": "Bile Acid Physiology",
+      "sec": "Bile Acid Physiology",
+      "guide": "Body pool 4 g, maintained by enterohepatic circulation.\nSynthesis (7α-hydroxylase, rate limiting) → cholic and chenodeoxycholic acid → conjugation with glycine/taurine → bile salts.\nColonic bacterial deconjugation gives deoxycholic and lithocholic acid.",
+      "qs": [
+        "MED-C2-41",
+        "MED-C2-42",
+        "MED-C2-43",
+        "MED-C2-44",
+        "MED-C2-45",
+        "MED-C2-46",
+        "MED-C2-47",
+        "MED-C2-48",
+        "MED-C2-49",
+        "MED-C2-50"
+      ]
+    },
+    {
+      "id": "MED-U2-7",
+      "ch": 2,
+      "n": 7,
+      "title": "Defects in Luminal & Mucosal Phase",
+      "sec": "Defects in Luminal & Mucosal Phase",
+      "guide": "Luminal: chronic pancreatitis (lipase) and bile acid defect (secretion/synthesis/reabsorption).\nBile duct destruction in cirrhosis, PBC, PSC; ileal dysfunction in TB/Crohn's; early deconjugation in SIBO.\nMucosal: coeliac disease, Whipple disease, tropical sprue.",
+      "qs": [
+        "MED-C2-51",
+        "MED-C2-52",
+        "MED-C2-53",
+        "MED-C2-54",
+        "MED-C2-55",
+        "MED-C2-56",
+        "MED-C2-57",
+        "MED-C2-58"
+      ]
+    },
+    {
+      "id": "MED-U2-8",
+      "ch": 2,
+      "n": 8,
+      "title": "Post-Mucosal Phase & Types of Fatty Acids",
+      "sec": "Post-Mucosal Phase & Types of Fatty Acids",
+      "guide": "LCFA + glycerol → esterification → chylomicrons → intestinal lymphatics.\nDisorders: abetalipoproteinaemia and intestinal lymphangiectasia.\nChain length >12 / 8-12 / <8; only long chain needs lipolysis and micelles; short chain is colonic and substantial in stool.",
+      "qs": [
+        "MED-C2-59",
+        "MED-C2-60",
+        "MED-C2-61",
+        "MED-C2-62",
+        "MED-C2-63",
+        "MED-C2-64",
+        "MED-C2-65",
+        "MED-C2-66",
+        "MED-C2-67",
+        "MED-C2-68",
+        "MED-C2-69",
+        "MED-C2-70",
+        "MED-C2-71",
+        "MED-C2-72",
+        "MED-C2-73",
+        "MED-C2-74"
+      ]
+    },
+    {
+      "id": "MED-U2-9",
+      "ch": 2,
+      "n": 9,
+      "title": "Carbohydrate Absorption Mechanism",
+      "sec": "Carbohydrate Absorption Mechanism",
+      "guide": "Disaccharidases on the brush border: lactase, maltase, sucrase, trehalase.\nGut: SGLT1 (active) for glucose/galactose, GLUT5 for fructose.\nLiver: GLUT2 entry then galactokinase, fructokinase, glucokinase.",
+      "qs": [
+        "MED-C2-75",
+        "MED-C2-76",
+        "MED-C2-77",
+        "MED-C2-78",
+        "MED-C2-79",
+        "MED-C2-80",
+        "MED-C2-81",
+        "MED-C2-82",
+        "MED-C2-83",
+        "MED-C2-84",
+        "MED-C2-85",
+        "MED-C2-86",
+        "MED-C2-87",
+        "MED-C2-88"
+      ]
+    },
+    {
+      "id": "MED-U2-10",
+      "ch": 2,
+      "n": 10,
+      "title": "Defects in Carbohydrate Absorption",
+      "sec": "Defects in Carbohydrate Absorption",
+      "guide": "Congenital forms are autosomal recessive.\nSelective = lactase deficiency; global = small intestinal mucosal defect (coeliac, Whipple's, tropical sprue).\nPrimary (m/c) lactase deficiency is allele persistence; secondary follows infections and IBS.",
+      "qs": [
+        "MED-C2-89",
+        "MED-C2-90",
+        "MED-C2-91",
+        "MED-C2-92",
+        "MED-C2-93"
+      ]
+    },
+    {
+      "id": "MED-U2-11",
+      "ch": 2,
+      "n": 11,
+      "title": "Protein Absorption & Selective Defects",
+      "sec": "Protein Absorption & Selective Defects",
+      "guide": "Trypsinogen → trypsin → activates chymotrypsin and elastase.\nSelective defects: enterokinase deficiency, Hartnup's disease (pellagra), cystinuria (COLA).\nCOLA = cystine, ornithine, lysine, arginine.",
+      "qs": [
+        "MED-C2-94",
+        "MED-C2-95",
+        "MED-C2-96",
+        "MED-C2-97",
+        "MED-C2-98",
+        "MED-C2-99",
+        "MED-C2-100",
+        "MED-C2-101",
+        "MED-C2-102"
+      ]
+    },
+    {
+      "id": "MED-U2-12",
+      "ch": 2,
+      "n": 12,
+      "title": "Lactose Intolerance: Physiology to Pathogenesis",
+      "sec": "Lactose Intolerance: Physiology to Pathogenesis",
+      "guide": "Lactose (milk, cheese) → lactase (brush border) → glucose + galactose.\nCongenital autosomal recessive versus acquired ↓ activity (primary allele persistence, secondary infections/IBS).\nUnabsorbed carbohydrate is fermented to acid and H2, methane, CO2.",
+      "qs": [
+        "MED-C2-103",
+        "MED-C2-104",
+        "MED-C2-105",
+        "MED-C2-106",
+        "MED-C2-107",
+        "MED-C2-108",
+        "MED-C2-109",
+        "MED-C2-110",
+        "MED-C2-111",
+        "MED-C2-112",
+        "MED-C2-113",
+        "MED-C2-114",
+        "MED-C2-115",
+        "MED-C2-116"
+      ]
+    },
+    {
+      "id": "MED-U2-13",
+      "ch": 2,
+      "n": 13,
+      "title": "Lactose Intolerance: Presentation & Investigations",
+      "sec": "Lactose Intolerance: Presentation & Investigations",
+      "guide": "90 min post prandial distension, bloating, cramps; acidic diaper dermatitis in children.\nStool pH acidic; lactose hydrogen breath test positive at H2 > 20 ppm.\nLactose-glucose blood test is obsolete; treat with diet and calcium.",
+      "qs": [
+        "MED-C2-117",
+        "MED-C2-118",
+        "MED-C2-119",
+        "MED-C2-120",
+        "MED-C2-121",
+        "MED-C2-122",
+        "MED-C2-123",
+        "MED-C2-124",
+        "MED-C2-125"
+      ]
+    },
+    {
+      "id": "MED-U2-14",
+      "ch": 2,
+      "n": 14,
+      "title": "Abetalipoproteinemia",
+      "sec": "Abetalipoproteinemia",
+      "guide": "AKA neuroacanthocytosis; autosomal recessive; apoB48 → defective esterification → no chylomicrons.\nTriad: ataxia (vitamin E), retinitis pigmentosa, steatorrhea; smear shows acanthocytes.\nPost prandial endoscopic biopsy is 100% diagnostic with enterocyte vacuolation.",
+      "qs": [
+        "MED-C2-126",
+        "MED-C2-127",
+        "MED-C2-128",
+        "MED-C2-129",
+        "MED-C2-130",
+        "MED-C2-131",
+        "MED-C2-132",
+        "MED-C2-133",
+        "MED-C2-134",
+        "MED-C2-135",
+        "MED-C2-136",
+        "MED-C2-137"
+      ]
+    },
+    {
+      "id": "MED-U2-15",
+      "ch": 2,
+      "n": 15,
+      "title": "Intestinal Lymphangiectasia",
+      "sec": "Intestinal Lymphangiectasia",
+      "guide": "Chylomicrons cross intestinal lymphatics into blood.\nPrimary = dilated channels; secondary = lymphoma or Crohn's with lymphatic obstruction.\nProtein losing enteropathy with fecal α-1 antitrypsin elevated; treat with medium chain triglyceride diet.",
+      "qs": [
+        "MED-C2-138",
+        "MED-C2-139",
+        "MED-C2-140",
+        "MED-C2-141",
+        "MED-C2-142",
+        "MED-C2-143",
+        "MED-C2-144",
+        "MED-C2-145",
+        "MED-C2-146",
+        "MED-C2-147",
+        "MED-C2-148",
+        "MED-C2-149",
+        "MED-C2-150"
+      ]
+    }
+  ]
+}
