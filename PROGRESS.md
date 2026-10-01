@@ -1,12 +1,12 @@
 # PULSE Medicine Vol 1 — Progress
 
-Updated **2026-10-01** (Chapters 7–12 completed in the working release; source review now reaches Book p76). Standalone offline quiz based on *PULSE Medicine Vol 1*, printed Book p1–375 (Marrow Edition 8).
+Updated **2026-10-01** (Chapters 7–12 released and deployed; source review now reaches Book p76). Standalone offline quiz based on *PULSE Medicine Vol 1*, printed Book p1–375 (Marrow Edition 8).
 
 - Repository: `Deva20045/Med-V1`
 - Session branch: `arena/01a0f5f4-med-v1`
 - Published URL: https://deva20045.github.io/Med-V1/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 12 built chapters / 61 · 1,297 questions / 114 units.** Chapters 1–12 are embedded by `build_content.py`; the published URL updates when the release is merged/deployed. Source coverage is complete through Book p76.
+- **Build status: 12 live chapters / 61 · 1,297 questions / 114 units.** Chapters 1–12 are embedded by `build_content.py`; the GitHub Pages deployment for this release succeeded. Source coverage is complete through Book p76.
 
 ## This release — Chapters 7 to 12 (Book p46–76)
 
@@ -80,7 +80,7 @@ Body-iron pools, dietary heme/non-heme absorption, transport/export and marrow u
 2. `audit/coverage.json` holds **1,297 inventoried points** across Chapters 1–12; every ledger point resolves to exactly one question in question order and on the matching book page.
 3. Four-option sets are unique and shuffled in the app. Matching items use exact bijections; true/false items have balanced True/False choices; numeric questions use plausible distractors; scenarios retain their clinical context. New Chapters 7–12 avoid fill-up patterns and reserve matching format for one true match item.
 4. IDs are sequential `MED-C<N>-<seq>`; the question array is strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, every unit guide is 2–4 lines, and every explanation ends with its exact `(Book pX)` citation matching the question page.
-5. Chapters 1–12 are embedded in the standalone app with live flags set; **12/61 roadmap chapters are built**. The public URL reflects the new chapters after the release is merged/deployed. See [audit/known-source-caveats.md](audit/known-source-caveats.md) for transcription and medical-source caveats.
+5. Chapters 1–12 are embedded in the standalone app with live flags set; **12/61 roadmap chapters are live**. The published URL was verified after deployment. See [audit/known-source-caveats.md](audit/known-source-caveats.md) for transcription and medical-source caveats.
 
 ## Verified PDF → printed-page map
 
@@ -263,12 +263,12 @@ node tests/app_parsers.cjs
 | 4 | Global Malabsorption | 18 | **Live** |
 | 5 | Inflammatory Bowel Disease : Part 1 | 30 | **Live** |
 | 6 | Inflammatory Bowel Disease : Part 2 | 37 | **Live** |
-| 7 | Infectious Diarrhoea | 46 | **Built** |
-| 8 | Stomach | 52 | **Built** |
-| 9 | Gastrinoma | 60 | **Built** |
-| 10 | Irritable Bowel Syndrome | 63 | **Built** |
-| 11 | Clinical Approach to Anemia | 66 | **Built** |
-| 12 | Iron Metabolism | 70 | **Built** |
+| 7 | Infectious Diarrhoea | 46 | **Live** |
+| 8 | Stomach | 52 | **Live** |
+| 9 | Gastrinoma | 60 | **Live** |
+| 10 | Irritable Bowel Syndrome | 63 | **Live** |
+| 11 | Clinical Approach to Anemia | 66 | **Live** |
+| 12 | Iron Metabolism | 70 | **Live** |
 | 13 | Approach To Microcytic Hypochromic Anemia | 77 | Soon |
 | 14 | Macrocytic Anemia | 82 | Soon |
 | 15 | Approach to Hemolysis | 89 | Soon |
