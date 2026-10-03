@@ -9,8 +9,9 @@ Formula: 01.pdf Book p = PDF page -12; 02.pdf Book p = PDF page +117; 03.pdf Boo
 
 Chapter 1: 01.pdf PDF13-17 = p1-5. The audited run through Chapter 18 (p1–106) is 01.pdf PDF13–118.
 The audited run through Chapter 21 (p1–125) continues 01.pdf PDF119–129 (p107–117) and 02.pdf PDF1–8 (p118–125).
+The audited run through Chapter 23 (p1–139) continues 02.pdf PDF9–22 (p126–139).
 
-## Chapter sheet coverage verified (01.pdf)
+## Chapter sheet coverage verified (01.pdf & 02.pdf)
 
 | Ch | Title | Book pages | 01.pdf sheets |
 |---:|---|---|---|
@@ -35,7 +36,9 @@ The audited run through Chapter 21 (p1–125) continues 01.pdf PDF119–129 (p10
 | 19 | Myeloproliferative Neoplasms : Part 1 | 107–115 | 01.pdf PDF119–127 |
 | 20 | Myeloproliferative Neoplasms : Part 2 | 116–120 | 01.pdf PDF128–129 + 02.pdf PDF1–3 |
 | 21 | Bone Marrow Failure Syndromes | 121–125 | 02.pdf PDF4–8 |
-| 22 (next) | Acute Leukemia | 126 | 02.pdf PDF9 |
+| 22 | Acute Leukemia | 126–135 | 02.pdf PDF9–18 |
+| 23 | Acute Myeloid Leukemia V/S Acute Lymphoblastic Leukemia | 136–139 | 02.pdf PDF19–22 |
+| 24 (next) | World of Lymphomas | 140 | 02.pdf PDF23 |
 
 Note (Ch 20): the Contents pages print 118, but the scanned heading "MYELOPROLIFERATIVE NEOPLASMS : PART 2"
 and the CML pathophysiology that follows it begin on Book p116; the scan is ground truth and the app

@@ -1,0 +1,1405 @@
+{
+  "chapter": 22,
+  "title": "Acute Leukemia",
+  "pageRange": "126-135",
+  "questions": [
+    {
+      "id": "MED-C22-01",
+      "sec": "Epidemiology of Acute Leukemia, Myeloid Precursor Lineages & AML Pathogenesis",
+      "page": 126,
+      "fmt": "numeric",
+      "q": "In the opening acute leukemia distribution diagram, what are the relative proportions of acute myeloid leukemia (AML) and acute lymphoblastic leukemia (ALL) in adults?",
+      "opts": [
+        "80% AML and 20% ALL",
+        "90% ALL and 10% AML",
+        "50% AML and 50% ALL",
+        "60% ALL and 40% AML"
+      ],
+      "ans": 0,
+      "exp": "Under 'Leukemia in → Adults', the flowchart shows 80% AML and 20% ALL. (Book p126)"
+    },
+    {
+      "id": "MED-C22-02",
+      "sec": "Epidemiology of Acute Leukemia, Myeloid Precursor Lineages & AML Pathogenesis",
+      "page": 126,
+      "fmt": "numeric",
+      "q": "What are the relative proportions of ALL and AML in children and adolescents in the opening diagram on page 126?",
+      "opts": [
+        "80% AML and 20% ALL",
+        "70% ALL and 30% AML",
+        "75% AML and 25% ALL",
+        "90% ALL and 10% AML"
+      ],
+      "ans": 3,
+      "exp": "Under 'Leukemia in → Children/adolescents', the flowchart shows 90% ALL and 10% AML. (Book p126)"
+    },
+    {
+      "id": "MED-C22-03",
+      "sec": "Epidemiology of Acute Leukemia, Myeloid Precursor Lineages & AML Pathogenesis",
+      "page": 126,
+      "fmt": "recall",
+      "q": "In the myeloid differentiation diagram on page 126, the myeloid precursor stem cell branches directly into which four terminal pathways?",
+      "opts": [
+        "Lymphoblast → B-cell, Monoblast → T-cell, Erythroblast, and Megakaryocyte",
+        "Myeloblast → Granulocyte, Monoblast → Monocyte, RBC, and Platelets",
+        "Promyelocyte → Basophil, Myelocyte → Eosinophil, Reticulocyte, and NK cell",
+        "Myeloblast → Lymphocyte, Monoblast → Macrophage, Plasma cell, and Platelets"
+      ],
+      "ans": 1,
+      "exp": "The myeloid precursor stem cell diagram shows four branches: Myeloblast → Granulocyte, Monoblast → Monocyte, RBC, and Platelets. (Book p126)"
+    },
+    {
+      "id": "MED-C22-04",
+      "sec": "Epidemiology of Acute Leukemia, Myeloid Precursor Lineages & AML Pathogenesis",
+      "page": 126,
+      "fmt": "fillup",
+      "q": "Under AML pathogenesis on page 126, step 1 is clonal proliferation of 'myeloid precursors', in which the most common (m/c) precursor is the ______.",
+      "opts": [
+        "monoblast",
+        "megakaryoblast",
+        "myeloblast",
+        "promyelocyte"
+      ],
+      "ans": 2,
+      "exp": "Under '1. Clonal proliferation of myeloid precursors', myeloblast is labelled '(m/c)' and gives rise to myeloblastic leukemia (70–80% of leukemias). (Book p126)"
+    },
+    {
+      "id": "MED-C22-05",
+      "sec": "Epidemiology of Acute Leukemia, Myeloid Precursor Lineages & AML Pathogenesis",
+      "page": 126,
+      "fmt": "numeric",
+      "q": "Myeloblastic leukemia arising from clonal proliferation of myeloblasts accounts for what percentage of acute myeloid leukemias on page 126?",
+      "opts": [
+        "70–80% of leukemias",
+        "90–95% of leukemias",
+        "40–50% of leukemias",
+        "20–30% of leukemias"
+      ],
+      "ans": 0,
+      "exp": "The first branch under clonal proliferation of myeloid precursors shows: Myeloblast (m/c) → Myeloblastic leukemia (70–80% of leukemias). (Book p126)"
+    },
+    {
+      "id": "MED-C22-06",
+      "sec": "Epidemiology of Acute Leukemia, Myeloid Precursor Lineages & AML Pathogenesis",
+      "page": 126,
+      "fmt": "match",
+      "q": "Match each myeloid precursor with the specific leukemia subtype it produces in the AML pathogenesis flowchart — 1) Myeloblast 2) Monoblast 3) RBC precursor 4) Platelet precursor … A) Erythro-leukemia B) Megakaryocytic leukemia C) Myeloblastic leukemia D) Monoblastic/myelomonocytic leukemia",
+      "opts": [
+        "1-C, 2-A, 3-D, 4-B",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 1,
+      "exp": "In step 1 of AML pathogenesis: Myeloblast (m/c) → Myeloblastic leukemia (70–80% of leukemias); Monoblast → Monoblastic/myelomonocytic leukemia; RBC precursor → Erythro-leukemia; Platelet precursor → Megakaryocytic leukemia. (Book p126)"
+    },
+    {
+      "id": "MED-C22-07",
+      "sec": "Epidemiology of Acute Leukemia, Myeloid Precursor Lineages & AML Pathogenesis",
+      "page": 126,
+      "fmt": "recall",
+      "q": "In step 2 of AML pathogenesis ('Complete arrest of differentiation'), what immediate marrow event occurs and what are its two downstream branches?",
+      "opts": [
+        "Fibroblasts deposit type III reticulin fibers throughout the marrow, branching into dry tap on aspiration and extramedullary hematopoiesis",
+        "Dysplastic normoblasts undergo intramedullary apoptosis, branching into ringed sideroblasts and secondary parenchymal hemosiderosis",
+        "Myeloblast takes over the marrow, branching into high turnover and leakage out into blood when marrow is completely replaced",
+        "Mature granulocytes accumulate in the splenic red pulp, branching into portal hypertension and hypersplenism with pancytopenia"
+      ],
+      "ans": 2,
+      "exp": "Under '2. Complete arrest of differentiation', myeloblast takes over the marrow and branches into (left) 'High turnover' and (right) 'Leaks out into blood when marrow is completely replaced'. (Book p126)"
+    },
+    {
+      "id": "MED-C22-08",
+      "sec": "Epidemiology of Acute Leukemia, Myeloid Precursor Lineages & AML Pathogenesis",
+      "page": 126,
+      "fmt": "numeric",
+      "q": "In the left branch of AML pathogenesis on page 126, high turnover of marrow myeloblasts leads to a short history of what duration before acute presentation?",
+      "opts": [
+        "2–4 years",
+        "1–2 weeks",
+        "6–12 months",
+        "2–3 months"
+      ],
+      "ans": 3,
+      "exp": "The left branch reads: High turnover → Short history (2–3 months) → Acute presentation and pancytopenia manifesting as bleeding. (Book p126)"
+    },
+    {
+      "id": "MED-C22-09",
+      "sec": "Epidemiology of Acute Leukemia, Myeloid Precursor Lineages & AML Pathogenesis",
+      "page": 126,
+      "fmt": "recall",
+      "q": "What two clinical characteristics are listed under 'Short history (2–3 months)' in the AML pathogenesis flowchart on page 126?",
+      "opts": [
+        "Insidious presentation with massive splenomegaly, hepatomegaly, and generalized painless cervical and axillary lymphadenopathy",
+        "Chronic asymptomatic leukocytosis with hyperviscosity syndrome, retinal hemorrhages, priapism, and acute gouty arthritis",
+        "Early sanctuary-site relapse involving the central nervous system and testes accompanied by anterior mediastinal widening",
+        "Acute presentation with no involvement of CNS/testes/organ (spleen/liver/lymph nodes), and pancytopenia manifesting as bleeding"
+      ],
+      "ans": 3,
+      "exp": "Under 'Short history (2–3 months)', the two bullets are: (1) Acute presentation: No involvement of CNS/testes/organ (Spleen/liver/lymph nodes); and (2) Pancytopenia manifesting as bleeding. (Book p126)"
+    },
+    {
+      "id": "MED-C22-10",
+      "sec": "Epidemiology of Acute Leukemia, Myeloid Precursor Lineages & AML Pathogenesis",
+      "page": 126,
+      "fmt": "recall",
+      "q": "In the right branch of AML pathogenesis on page 126, trace the exact sequence that follows when myeloblasts leak out into the blood after the marrow is completely replaced:",
+      "opts": [
+        "Blood blasts → markedly elevated (↑↑) counts (poor prognosis) → CNS involvement (late stages)",
+        "Circulating normoblasts → hyperviscosity microvascular thrombosis → early testicular infiltration",
+        "Monoclonal paraproteinemia → peripheral smear rouleaux formation → acute myeloma cast nephropathy",
+        "Peripheral basophilia → histamine-induced aquagenic pruritus → post-polycythemic myelofibrotic burn-out"
+      ],
+      "ans": 0,
+      "exp": "The right branch reads: Leaks out into blood when marrow is completely replaced → Blood blasts → ↑↑ counts (Poor prognosis) → CNS involvement (late stages). (Book p126)"
+    },
+    {
+      "id": "MED-C22-11",
+      "sec": "Epidemiology of Acute Leukemia, Myeloid Precursor Lineages & AML Pathogenesis",
+      "page": 126,
+      "fmt": "truefalse",
+      "q": "Which of the following statements regarding the AML pathogenesis diagram on page 126 is TRUE?",
+      "opts": [
+        "False — Complete arrest of differentiation with marrow replacement causes pancytopenia that manifests clinically as mucocutaneous bleeding",
+        "True — Typical acute presentation of AML features prominent early involvement of the spleen, liver, lymph nodes, CNS, and testes at diagnosis",
+        "True — CNS involvement in AML occurs only in late stages after marrow replacement causes blood blasts and markedly elevated (↑↑) counts",
+        "False — Myeloblastic leukemia arising from the myeloblast precursor is the most common subtype and accounts for 70–80% of leukemias"
+      ],
+      "ans": 2,
+      "exp": "On page 126, acute presentation has no involvement of CNS/testes/organs (spleen/liver/lymph nodes), whereas CNS involvement appears in late stages down the 'Blood blasts → ↑↑ counts (Poor prognosis)' arm. (Book p126)"
+    },
+    {
+      "id": "MED-C22-12",
+      "sec": "Hyperviscosity Note, 5-Point Hematological Diagnosis, AML Definition, Survival & Hereditary Risk Factors",
+      "page": 127,
+      "fmt": "recall",
+      "q": "According to the top Note on page 127, how does hyperviscosity differ between acute myeloid leukemia (AML) and chronic myeloid leukemia (CML)?",
+      "opts": [
+        "Hyperviscosity is absent in both AML and CML unless platelets exceed 15 lakhs",
+        "Hyperviscosity is absent in AML and present in CML",
+        "Hyperviscosity is present in AML and absent in CML",
+        "Hyperviscosity is present in both AML and CML at presentation"
+      ],
+      "ans": 1,
+      "exp": "The Note at the top of page 127 shows: Hyperviscosity → Absent in AML; Present in CML. (Book p127)"
+    },
+    {
+      "id": "MED-C22-13",
+      "sec": "Hyperviscosity Note, 5-Point Hematological Diagnosis, AML Definition, Survival & Hereditary Risk Factors",
+      "page": 127,
+      "fmt": "match",
+      "q": "Match the first four components of the '5 point diagnosis of a hematological disorder' table on page 127 with what each evaluates — 1) Morphology 2) Cytology/Cytochemistry 3) Immunophenotyping using Flow cytometry 4) Cytogenetics … A) Myeloperoxidase/Sudan black B) CD markers C) Recurrent genetic abnormalities D) Of bone marrow/blood cells",
+      "opts": [
+        "1-A, 2-D, 3-C, 4-B",
+        "1-D, 2-B, 3-A, 4-C",
+        "1-C, 2-A, 3-B, 4-D",
+        "1-D, 2-A, 3-B, 4-C"
+      ],
+      "ans": 3,
+      "exp": "The 5-point diagnosis table lists: 1. Morphology — Of bone marrow/blood cells; 2. Cytology/Cytochemistry — Myeloperoxidase/Sudan black; 3. Immunophenotyping using Flow cytometry — CD markers; 4. Cytogenetics — Recurrent genetic abnormalities; 5. Molecular genetics — Inversion/deletion. (Book p127)"
+    },
+    {
+      "id": "MED-C22-14",
+      "sec": "Hyperviscosity Note, 5-Point Hematological Diagnosis, AML Definition, Survival & Hereditary Risk Factors",
+      "page": 127,
+      "fmt": "fillup",
+      "q": "In the 5-point diagnosis table on page 127, point 5 pairs ______ with 'Inversion/deletion'.",
+      "opts": [
+        "molecular genetics",
+        "serum protein electrophoresis",
+        "bone marrow trephine reticulin grading",
+        "fluorescent spot screening"
+      ],
+      "ans": 0,
+      "exp": "Row 5 of the '5 point diagnosis of a hematological disorder' table reads: '5. Molecular genetics | Inversion/deletion'. (Book p127)"
+    },
+    {
+      "id": "MED-C22-15",
+      "sec": "Hyperviscosity Note, 5-Point Hematological Diagnosis, AML Definition, Survival & Hereditary Risk Factors",
+      "page": 127,
+      "fmt": "recall",
+      "q": "How does the DEFINITION section on page 127 define a generalised neoplastic leucocyte disorder and leukemia specifically?",
+      "opts": [
+        "Clonal proliferation of terminally differentiated plasma cells producing monoclonal paraprotein in peripheral blood and renal tubules; Leukemia is trilineage marrow dysplasia without immature blast proliferation",
+        "Generalised neoplastic (clonal) proliferation of immature leucocytes with/without involvement of peripheral blood and non-hematopoietic tissues; Leukemia is clonal proliferation of cells of WBC lineage in marrow/blood",
+        "Polyclonal reactive hyperplasia of mature segmented granulocytes confined strictly to non-hematopoietic tissues and lymph nodes; Leukemia is neoplastic proliferation of erythroid precursors restricted to splenic cords",
+        "Localized neoplastic proliferation of mature B and T lymphocytes restricted to peripheral lymph nodes and thymus without bone marrow involvement; Leukemia is reactive leukemoid proliferation secondary to sepsis"
+      ],
+      "ans": 1,
+      "exp": "Under DEFINITION on page 127: (1) Generalised neoplastic (Clonal) proliferation of immature leucocytes with/without involvement of peripheral blood and non-hematopoietic tissues; (2) Leukemia: Clonal proliferation of cells of WBC lineage in marrow/blood. (Book p127)"
+    },
+    {
+      "id": "MED-C22-16",
+      "sec": "Hyperviscosity Note, 5-Point Hematological Diagnosis, AML Definition, Survival & Hereditary Risk Factors",
+      "page": 127,
+      "fmt": "numeric",
+      "q": "Under DEFINITION on page 127, what are the most common cell involved, the median age at diagnosis, and the gender predominance in acute leukemia?",
+      "opts": [
+        "M/c cell involved: Promyelocyte (promyelocytic leukemia); Median age: 25 years (restricted to young adults); Gender predominance: F > M (all acute leukemias)",
+        "M/c cell involved: Monoblast (monoblastic leukemia); Median age: 13 years (never seen above 50 years of age); Gender predominance: F = M in all subtypes",
+        "M/c cell involved: Myeloblast (myeloblastic leukemia); Median age: 65 years (seen in all ages); Gender predominance: M > F (all acute leukemias)",
+        "M/c cell involved: Megakaryoblast (megakaryocytic leukemia); Median age: 40 years (bimodal peak); Gender predominance: F > M in AML and M > F in ALL"
+      ],
+      "ans": 2,
+      "exp": "Page 127 lists: M/c cell involved: Myeloblast (myeloblastic leukemia); Median age: 65 years, but seen in all ages; Gender predominance: M > F (All acute leukemias). (Book p127)"
+    },
+    {
+      "id": "MED-C22-17",
+      "sec": "Hyperviscosity Note, 5-Point Hematological Diagnosis, AML Definition, Survival & Hereditary Risk Factors",
+      "page": 127,
+      "fmt": "numeric",
+      "q": "What are the age-based 5-year survival rates of AML listed on page 127?",
+      "opts": [
+        "> 75 yrs: 40–45%; > 50 yrs: 70–75% without transplant",
+        "> 75 yrs: Almost NIL; > 50 yrs: ~20% with transplant",
+        "> 75 yrs: ~50% with transplant; > 50 yrs: 85–90% with chemotherapy alone",
+        "> 75 yrs: ~20% with hydroxyurea; > 50 yrs: 90–95% with ATRA"
+      ],
+      "ans": 1,
+      "exp": "Under '5 year survival rates of AML : Based on age', the two branches state: '> 75yrs : Almost NIL' and '> 50yrs : ~20% with transplant'. (Book p127)"
+    },
+    {
+      "id": "MED-C22-18",
+      "sec": "Hyperviscosity Note, 5-Point Hematological Diagnosis, AML Definition, Survival & Hereditary Risk Factors",
+      "page": 127,
+      "fmt": "recall",
+      "q": "In the middle Note on page 127, how are chronic hematological disorders and lymphoma contrasted with acute leukemia?",
+      "opts": [
+        "Chronic hematological disorders lack peripheral blood involvement; Lymphoma is proliferation of megakaryocytes in the spleen",
+        "Chronic hematological disorders involve >20% blasts; Lymphoma is proliferation restricted to red bone marrow",
+        "Chronic hematological disorders have complete arrest of differentiation; Lymphoma is proliferation of myeloid stem cells in blood",
+        "Chronic hematological disorders involve mature cells; Lymphoma is proliferation in the lymph node"
+      ],
+      "ans": 3,
+      "exp": "The middle Note on page 127 states: 'Chronic hematological disorders : Mature cells' and 'Lymphoma : Proliferation in lymph node'. (Book p127)"
+    },
+    {
+      "id": "MED-C22-19",
+      "sec": "Hyperviscosity Note, 5-Point Hematological Diagnosis, AML Definition, Survival & Hereditary Risk Factors",
+      "page": 127,
+      "fmt": "recall",
+      "q": "Under 'Risk Factors of AML → 1. Hereditary conditions' on page 127, which two syndromes are listed under 'Defective DNA repair'?",
+      "opts": [
+        "Bloom syndrome and Ataxia-telangiectasia",
+        "Noonan syndrome and Kostmann syndrome",
+        "Down syndrome and Turner syndrome",
+        "Diamond-Blackfan syndrome and Fanconi's anemia"
+      ],
+      "ans": 0,
+      "exp": "Under '1. Hereditary conditions → Defective DNA repair' on page 127, the two sub-bullets are Bloom syndrome and Ataxia-telangiectasia. (Book p127)"
+    },
+    {
+      "id": "MED-C22-20",
+      "sec": "Hyperviscosity Note, 5-Point Hematological Diagnosis, AML Definition, Survival & Hereditary Risk Factors",
+      "page": 127,
+      "fmt": "fillup",
+      "q": "On page 127, the inherited cause for pure red cell aplasia listed under hereditary conditions is ______.",
+      "opts": [
+        "Kostmann syndrome",
+        "Shwachman-Diamond syndrome",
+        "Diamond-Blackfan syndrome",
+        "Dyskeratosis congenita"
+      ],
+      "ans": 2,
+      "exp": "Bullet 2 under Hereditary conditions on page 127 reads: '• Inherited cause for pure red cell aplasia : Diamond-Blackfan syndrome.' (Book p127)"
+    },
+    {
+      "id": "MED-C22-21",
+      "sec": "Hyperviscosity Note, 5-Point Hematological Diagnosis, AML Definition, Survival & Hereditary Risk Factors",
+      "page": 127,
+      "fmt": "oddoneout",
+      "q": "All of the following are listed at the bottom of page 127 under 'Inherited causes of aplastic anemia (Risk for AML)' EXCEPT:",
+      "opts": [
+        "Diamond-Blackfan syndrome",
+        "Fanconi's anemia",
+        "Shwachman-Diamond syndrome",
+        "Dyskeratosis congenita"
+      ],
+      "ans": 0,
+      "exp": "The three disorders listed under 'Inherited causes of aplastic anemia (Risk for AML)' are Fanconi's anemia, Dyskeratosis congenita, and Shwachman-Diamond syndrome; Diamond-Blackfan syndrome is listed separately as the inherited cause for pure red cell aplasia. (Book p127)"
+    },
+    {
+      "id": "MED-C22-22",
+      "sec": "AML Risk Factors: Germline/Syndromic Predisposition, Down Syndrome, Environmental & Hematological Diseases",
+      "page": 128,
+      "fmt": "recall",
+      "q": "At the top of page 128, how is germline susceptibility to AML characterized, and which two specific germline gene mutations are listed?",
+      "opts": [
+        "Autosomal dominant inheritance in >50% of cases; Germline BCR-ABL and Germline JAK2 V617F mutations",
+        "Maternal mitochondrial inheritance; Germline SF3B1 mutation and Germline CALR mutation",
+        "Very minimal familial inheritance; Germline CEBPA mutation and Germline GATA2 mutation",
+        "X-linked recessive inheritance; Germline PIGA mutation and Germline ANK-1 mutation"
+      ],
+      "ans": 2,
+      "exp": "The top bullet on page 128 reads: 'Germline susceptibility (very minimal familial inheritance): – Germline CEBPA mutation; – Germline GATA2 mutation.' (Book p128)"
+    },
+    {
+      "id": "MED-C22-23",
+      "sec": "AML Risk Factors: Germline/Syndromic Predisposition, Down Syndrome, Environmental & Hematological Diseases",
+      "page": 128,
+      "fmt": "fillup",
+      "q": "Among the hereditary conditions predisposing to AML on page 128, Kostmann syndrome is defined as ______, followed by Noonan syndrome.",
+      "opts": [
+        "congenital amegakaryocytic thrombocytopenia",
+        "hereditary mucocutaneous telangiectasia",
+        "pancreatic exocrine lipomatosis",
+        "congenital agranulocytosis"
+      ],
+      "ans": 3,
+      "exp": "Page 128 prints: '• Kostmann syndrome : Congenital agranulocytosis' and '• Noonan syndrome'. (Book p128)"
+    },
+    {
+      "id": "MED-C22-24",
+      "sec": "AML Risk Factors: Germline/Syndromic Predisposition, Down Syndrome, Environmental & Hematological Diseases",
+      "page": 128,
+      "fmt": "recall",
+      "q": "Under 'Down syndrome → a. Transient abnormal myelopoiesis' on page 128, what are its frequency, clinical course, and underlying genetic mutation?",
+      "opts": [
+        "Seen at 4 years of age with isolated erythroid hyperplasia that requires lifelong hydroxyurea; due to FLT3-ITD mutation",
+        "Most common (m/c) hematological abnormality in Down syndrome; seen at birth and resolves spontaneously in 2–3 months; due to GATA-1 mutation",
+        "Rarest hematological abnormality in Down syndrome; presents after 10 years of age and progresses universally to myelofibrosis; due to JAK2 mutation",
+        "Seen at puberty with persistent pancytopenia requiring immediate allogeneic transplant; due to CEBPA mutation"
+      ],
+      "ans": 1,
+      "exp": "Under Down syndrome → a. Transient abnormal myelopoiesis: '– m/c hematological abnormality. – Seen at birth and resolves spontaneously in 2–3 months. – D/t GATA-1 mutation.' (Book p128)"
+    },
+    {
+      "id": "MED-C22-25",
+      "sec": "AML Risk Factors: Germline/Syndromic Predisposition, Down Syndrome, Environmental & Hematological Diseases",
+      "page": 128,
+      "fmt": "recall",
+      "q": "Under 'Down syndrome → b. AML' on page 128, what are the incidence, age of onset, FAB subtype, and prognosis?",
+      "opts": [
+        "Occurs in 50%, in middle adulthood (>40 years), erythroid (M6) subtype, and has the same poor prognosis as therapy-related AML",
+        "Occurs in 80%, after 15 years of age, promyelocytic (M3) subtype, and carries a worse prognosis than in a normal child",
+        "Occurs in 20%, within 4 years of age, megakaryocytic (M7) subtype, and carries a better prognosis than in a normal child",
+        "Occurs in 5%, in early infancy (<3 months), monoblastic (M5) subtype, and is universally fatal without bone marrow transplant"
+      ],
+      "ans": 2,
+      "exp": "Under Down syndrome → b. AML: '– In 20%. – Within 4 years of age. – Megakaryocytic (M7) subtype. – Better prognosis than in a normal child.' (Book p128)"
+    },
+    {
+      "id": "MED-C22-26",
+      "sec": "AML Risk Factors: Germline/Syndromic Predisposition, Down Syndrome, Environmental & Hematological Diseases",
+      "page": 128,
+      "fmt": "oddoneout",
+      "q": "All of the following are listed under '2. Environmental factors' for AML on page 128 EXCEPT:",
+      "opts": [
+        "Drug-induced (alkylating agents and topoisomerase II inhibitors)",
+        "Radiation and benzene exposure",
+        "Smoking",
+        "Epstein-Barr virus (EBV) infection"
+      ],
+      "ans": 3,
+      "exp": "Under '2. Environmental factors', page 128 lists: Radiation, Benzene, Smoking, and Drug-induced (alkylating agents and topoisomerase II inhibitors : etoposide). (Book p128)"
+    },
+    {
+      "id": "MED-C22-27",
+      "sec": "AML Risk Factors: Germline/Syndromic Predisposition, Down Syndrome, Environmental & Hematological Diseases",
+      "page": 128,
+      "fmt": "numeric",
+      "q": "Under 'Drug-induced' AML risk factors on page 128, compare the latency periods after therapy for alkylating agents versus topoisomerase II inhibitors (such as etoposide):",
+      "opts": [
+        "Alkylating agents: after 10–15 years of therapy; Topoisomerase II inhibitors (etoposide): within 2–4 weeks of therapy",
+        "Alkylating agents: after 5–6 years of therapy; Topoisomerase II inhibitors (etoposide): after 1–3 years of therapy",
+        "Alkylating agents: after 1–3 years of therapy; Topoisomerase II inhibitors (etoposide): after 5–6 years of therapy",
+        "Alkylating agents: after 1–3 months of therapy; Topoisomerase II inhibitors (etoposide): after 15–20 years of therapy"
+      ],
+      "ans": 1,
+      "exp": "Under Drug-induced on page 128: '– Alkylating agents (After 5–6 years of therapy)' and '– Topoisomerase II inhibitors (After 1–3 years of therapy) : Etoposide.' (Book p128)"
+    },
+    {
+      "id": "MED-C22-28",
+      "sec": "AML Risk Factors: Germline/Syndromic Predisposition, Down Syndrome, Environmental & Hematological Diseases",
+      "page": 128,
+      "fmt": "fillup",
+      "q": "The prototype topoisomerase II inhibitor listed on page 128 that causes therapy-related AML after 1–3 years of therapy is ______.",
+      "opts": [
+        "etoposide",
+        "chlorambucil",
+        "cyclophosphamide",
+        "busulfan"
+      ],
+      "ans": 0,
+      "exp": "Under Drug-induced on page 128: '– Topoisomerase II inhibitors (After 1–3 years of therapy) : Etoposide.' (Book p128)"
+    },
+    {
+      "id": "MED-C22-29",
+      "sec": "AML Risk Factors: Germline/Syndromic Predisposition, Down Syndrome, Environmental & Hematological Diseases",
+      "page": 128,
+      "fmt": "recall",
+      "q": "Under '3. Hematological diseases' predisposing to AML on page 128, which four myeloproliferative neoplasms (MPNs) are listed in order beside the downward 'Risk of AML' arrow, and which other hematological conditions follow?",
+      "opts": [
+        "MPNs: Waldenström macroglobulinemia, Smoldering myeloma, Cold agglutinin disease, and Pure red cell aplasia; followed by Glucose-6-phosphate dehydrogenase deficiency and Pyruvate kinase deficiency",
+        "MPNs: Polycythemia vera, Primary myelofibrosis, Essential thrombocythemia, and Chronic myeloid leukemia; followed by PNH, Aplastic anemia (Eosinophilic fasciitis), Myeloma, and MDS",
+        "MPNs: Chronic lymphocytic leukemia, Hairy cell leukemia, Systemic mastocytosis, and Follicular lymphoma; followed by Idiopathic thrombocytopenic purpura, TTP, and Hemolytic uremic syndrome",
+        "MPNs: Essential thrombocythemia, Chronic eosinophilic leukemia, Burkitt lymphoma, and Hodgkin disease; followed by Hereditary spherocytosis, Warm AIHA, and Paroxysmal cold hemoglobinuria"
+      ],
+      "ans": 1,
+      "exp": "Under 3. Hematological diseases on page 128: Myeloproliferative Neoplasms (MPNs) lists Polycythemia vera, Primary myelofibrosis, Essential thrombocythemia, and Chronic myeloid leukemia beside the downward 'Risk of AML' arrow, followed by PNH, Aplastic anemia (Eosinophilic fasciitis), Myeloma, and 25% cases of MDS. (Book p128)"
+    },
+    {
+      "id": "MED-C22-30",
+      "sec": "AML Risk Factors: Germline/Syndromic Predisposition, Down Syndrome, Environmental & Hematological Diseases",
+      "page": 128,
+      "fmt": "numeric",
+      "q": "How does page 128 depict the progression of myelodysplastic syndrome (MDS) to AML, and what does the bottom Note state about MPNs?",
+      "opts": [
+        "5% cases of MDS (5–9% blast cells) progress to AML (30% blast cells); Note: MPNs transform exclusively into precursor B-cell ALL",
+        "50% cases of MDS (>20% blast cells) progress to AML (>40% blast cells); Note: MPNs only transform into non-Hodgkin lymphoma",
+        "25% cases of MDS (10–19% blast cells) progress to AML (20% blast cells); Note: MPNs can transform into one another/AML",
+        "80% cases of MDS (1–4% blast cells) progress to AML (50% blast cells); Note: MPNs never transform into one another or acute leukemia"
+      ],
+      "ans": 2,
+      "exp": "Page 128 prints: '25% cases of MDS (10–19% blast cells) —Progress to→ AML (20% blast cells)' and 'Note : MPNs can transform into one another/AML.' (Book p128)"
+    },
+    {
+      "id": "MED-C22-31",
+      "sec": "Classification of AML: FAB Subtypes, WHO (2016) & WHO-5 (2023) Categories, and Recurrent Genetic Abnormalities",
+      "page": 129,
+      "fmt": "match",
+      "q": "Match the FAB classification subtypes M2 through M5 on page 129 with their corresponding cell type — 1) M2 2) M3 3) M4 4) M5 … A) Promyelocyte B) Myelomonocyte C) Monocyte D) Myeloblast",
+      "opts": [
+        "1-D, 2-A, 3-B, 4-C",
+        "1-A, 2-D, 3-C, 4-B",
+        "1-D, 2-B, 3-A, 4-C",
+        "1-B, 2-A, 3-D, 4-C"
+      ],
+      "ans": 0,
+      "exp": "Under 'FAB classification (Does not give prognosis)' on page 129: M2 : Myeloblast; M3 : Promyelocyte; M4 : Myelomonocyte; M5 : Monocyte; M6 : Erythroid; M7 : Megakaryocyte. (Book p129)"
+    },
+    {
+      "id": "MED-C22-32",
+      "sec": "Classification of AML: FAB Subtypes, WHO (2016) & WHO-5 (2023) Categories, and Recurrent Genetic Abnormalities",
+      "page": 129,
+      "fmt": "recall",
+      "q": "In the FAB classification list on page 129, which cell types correspond to M6 and M7, and what key limitation is stated in the heading?",
+      "opts": [
+        "M6 : Basophilic and M7 : Eosinophilic; the FAB classification 'Predicts MRD relapse risk'",
+        "M6 : Promyelocyte and M7 : Monocyte; the FAB classification 'Requires cytogenetics for staging'",
+        "M6 : Lymphoblastic and M7 : Plasma cell; the FAB classification 'Replaces WHO-5 classification'",
+        "M6 : Erythroid and M7 : Megakaryocyte; the FAB classification 'Does not give prognosis'"
+      ],
+      "ans": 3,
+      "exp": "The heading reads 'FAB classification (Does not give prognosis) :' and concludes with '• M6 : Erythroid' and '• M7 : Megakaryocyte'. (Book p129)"
+    },
+    {
+      "id": "MED-C22-33",
+      "sec": "Classification of AML: FAB Subtypes, WHO (2016) & WHO-5 (2023) Categories, and Recurrent Genetic Abnormalities",
+      "page": 129,
+      "fmt": "recall",
+      "q": "Under 'WHO classification (2016)' on page 129, which five categories are listed and which two are bracketed together as having 'Poor prognosis'?",
+      "opts": [
+        "AML with t(8;21) translocation, AML with inversion 16 (M4 Eo), AML with t(15;17) promyelocytic arrest, Hypocellular MDS-overlap AML, and Leukemia cutis; t(8;21) and inversion 16 are bracketed together as having 'Poor prognosis'",
+        "Precursor B-lymphoblastic leukemia, Precursor T-lymphoblastic leukemia, Burkitt-type L3 leukemia, Chronic myeloid leukemia in blast crisis, and Myeloid sarcoma; M2 and M4 subtypes are bracketed together as having 'Poor prognosis'",
+        "AML with FAB M0–M1 undifferentiated blasts, AML with isolated NPM1, AML with biallelic CEBPA, Acute promyelocytic leukemia (M3), and Chloroma; AML with NPM1 and AML with CEBPA are bracketed together as having 'Poor prognosis'",
+        "AML with recurrent genetic abnormalities (Blasts ≥ 20%), AML – MDS related, AML – therapy related (M6), AML – not otherwise specified (M2, M3, M4), and Myeloid sarcoma; AML – MDS related and AML – therapy related (M6) have 'Poor prognosis'"
+      ],
+      "ans": 3,
+      "exp": "Under WHO classification (2016), page 129 lists the five bullets and places a right-hand brace across 'AML – MDS related' and 'AML – therapy related (M6)' labelled 'Poor prognosis'. (Book p129)"
+    },
+    {
+      "id": "MED-C22-34",
+      "sec": "Classification of AML: FAB Subtypes, WHO (2016) & WHO-5 (2023) Categories, and Recurrent Genetic Abnormalities",
+      "page": 129,
+      "fmt": "recall",
+      "q": "Under 'Recurrent genetic abnormalities' on page 129, what rule applies to marrow blast percentage, and what two notes are given under t(15; 17) / t(PML; RARα)?",
+      "opts": [
+        "Does not require percentage of blasts cells in marrow for diagnosis (Blasts ≥ 20% not required); t(15; 17) / t(PML; RARα) is now known as Acute Promyelocytic Leukemia (APML) and involves arrest of differentiation of promyelocytes",
+        "Requires ≥ 30% circulating blasts in peripheral blood smear for diagnosis (Blasts ≥ 30% mandatory); t(15; 17) / t(PML; RARα) is now known as Chronic Myelomonocytic Leukemia and involves arrest of differentiation of megakaryocytes",
+        "Requires ≥ 50% blasts on bone marrow trephine core biopsy for diagnosis (Blasts ≥ 50% mandatory); t(15; 17) / t(PML; RARα) is now known as Extramedullary Myeloid Sarcoma and involves clonal proliferation of mature neutrophils",
+        "Does not require cytogenetic or molecular testing if marrow blasts exceed 10% on aspirate; t(15; 17) / t(PML; RARα) is now known as Acute Erythroleukemia (FAB M6) and involves complete arrest of orthochromatic normoblasts"
+      ],
+      "ans": 0,
+      "exp": "Under 'Recurrent genetic abnormalities', page 129 states 'Does not require percentage of blasts cells in marrow for diagnosis', and under '1. With good prognosis : (Blasts ≥ 20% not required)' lists t(15; 17) / t(PML; RARα): Now known as Acute Promyelocytic Leukemia (APML); Arrest of differentiation of promyelocytes. (Book p129)"
+    },
+    {
+      "id": "MED-C22-35",
+      "sec": "Classification of AML: FAB Subtypes, WHO (2016) & WHO-5 (2023) Categories, and Recurrent Genetic Abnormalities",
+      "page": 129,
+      "fmt": "recall",
+      "q": "Besides t(15; 17), which other translocations and gene mutations are listed under '1. With good prognosis : (Blasts ≥ 20% not required)' on page 129, and what does the Note define?",
+      "opts": [
+        "Deletion 5q, Monosomy 7 / deletion 7q involving paediatric myelodysplasia, and somatic mutations in JAK2 V617F and CALR; Note: RARα → Reticulocyte Adhesion Receptor-α",
+        "t(8; 21) / t(RUNX1; RUNX1) [as printed], t(16; 16) / Inversion 16 involving CBFβ (core-binding factor β), and mutations in Nucleophosmin (NPM)-1 and CEBPA; Note: RARα → Retinoic Acid Receptor-α",
+        "t(11; 14), t(14; 18) involving BCL-2 anti-apoptotic overexpression, and point mutations in TP53, ASXL1, and RUNX1; Note: RARα → Retinoblastoma Associated Receptor-α",
+        "t(9; 22) / t(BCR; ABL), t(4; 11) / t(KMT2A; AFF1) involving mixed-lineage leukemia factor, and mutations in FLT3-ITD and c-Kit; Note: RARα → Ribosomal Activating Receptor-α"
+      ],
+      "ans": 1,
+      "exp": "Under '1. With good prognosis' on page 129: t(15; 17) / t(PML; RARα), t(8; 21) / t(RUNX1; RUNX1) [printed thus on p129; p132 prints RUNX1-RUNX1T1], t(16; 16) / Inversion 16 involving CBFβ (core-binding factor β), and Mutations: Nucleophosmin (NPM) - 1 and CEBPA, followed by 'Note : RARα → Retinoic Acid Receptor-α.' (Book p129)"
+    },
+    {
+      "id": "MED-C22-36",
+      "sec": "Classification of AML: FAB Subtypes, WHO (2016) & WHO-5 (2023) Categories, and Recurrent Genetic Abnormalities",
+      "page": 129,
+      "fmt": "recall",
+      "q": "Under 'Recurrent genetic abnormalities' on page 129, which abnormalities are listed with 'bad prognosis' and 'very bad prognosis' (including the exact printed expansion of FLT3-ITD)?",
+      "opts": [
+        "With bad prognosis: t(16; 16) / Inversion 16 involving CBFβ; With very bad prognosis: CEBPA biallelic transcription factor mutation",
+        "With bad prognosis: t(12; 21) translocation; With very bad prognosis: NOTCH-1 and HOX 11 activating gene mutations in precursor cells",
+        "With bad prognosis: t(BCR; ABL) / t(9; 22); With very bad prognosis: FLT3-ITD (printed as 'Inverse tandem duplication of Fms-like tyrosine kinase')",
+        "With bad prognosis: t(15; 17) / t(PML; RARα); With very bad prognosis: NPM1 (nucleophosmin-1 mutation producing cup-shaped blasts)"
+      ],
+      "ans": 2,
+      "exp": "Page 129 prints: '1. With bad prognosis : t(BCR; ABL) / t(9; 22)' and '2. With very bad prognosis : FLT3-ITD (Inverse tandem duplication of Fms-like tyrosine kinase)' [standard expansion: internal tandem duplication]. (Book p129)"
+    },
+    {
+      "id": "MED-C22-37",
+      "sec": "Classification of AML: FAB Subtypes, WHO (2016) & WHO-5 (2023) Categories, and Recurrent Genetic Abnormalities",
+      "page": 129,
+      "fmt": "recall",
+      "q": "In the 'WHO-5 classification (2023)' at the bottom of page 129, what are the four numbered categories, which two exceptions under category 1 still require blasts ≥ 20%, and what is stated in the boxed note on ICC classification?",
+      "opts": [
+        "Categories: 1. AML with recurrent genetic abnormalities (Blasts ≥ 20% not required except in CEBPA and t(BCR, ABL)), 2. AML–MDS, 3. AML–therapy related, 4. AML defined by differentiation (FAB classification); Boxed note: 'ICC classification : Not used now'",
+        "Categories: 1. AML M0–M7 morphological subtypes (Blasts ≥ 20% required in t(15;17) and t(8;21)), 2. Precursor ALL L1–L3, 3. Chronic myeloid leukemia, 4. Hypocellular myelodysplasia; Boxed note: 'ICC classification : Gold standard in adults'",
+        "Categories: 1. Precursor lymphoid neoplasms (Blasts ≥ 20% not required except in NPM1 and inv(16)), 2. Mature B-cell neoplasms, 3. Classic Hodgkin lymphoma, 4. Histiocytic and dendritic neoplasms; Boxed note: 'ICC classification : Replaces WHO-5'",
+        "Categories: 1. AML with isolated FLT3-ITD mutation only (Blasts ≥ 20% not required except in M3 and M4 Eo), 2. Extramedullary chloroma, 3. Sweet syndrome, 4. Monoblastic leukemia cutis; Boxed note: 'ICC classification : Used only in pediatrics'"
+      ],
+      "ans": 0,
+      "exp": "At the bottom of page 129, WHO-5 classification (2023) lists the 4 categories, notes under category 1 'Blasts ≥ 20% not required except in → CEBPA, t(BCR, ABL)', and includes the boxed note 'ICC classification : Not used now.' (Book p129)"
+    },
+    {
+      "id": "MED-C22-38",
+      "sec": "Classification of AML: FAB Subtypes, WHO (2016) & WHO-5 (2023) Categories, and Recurrent Genetic Abnormalities",
+      "page": 129,
+      "fmt": "truefalse",
+      "q": "Which of the following statements regarding AML classification on page 129 is TRUE?",
+      "opts": [
+        "True — The FAB classification directly determines cytogenetic prognosis and replaces both the WHO (2016) and WHO-5 (2023) systems",
+        "False — t(16; 16) / Inversion 16 involves CBFβ (core-binding factor β) and is listed among recurrent abnormalities with a good prognosis",
+        "True — Under WHO-5 (2023), blasts ≥ 20% are not required for AML with recurrent genetic abnormalities except in CEBPA and t(BCR, ABL)",
+        "False — AML – MDS related and AML – therapy related (M6) are bracketed together as having a poor prognosis in the WHO (2016) classification"
+      ],
+      "ans": 2,
+      "exp": "Under WHO-5 (2023) on page 129, category 1 ('AML with recurrent genetic abnormalities') specifies 'Blasts ≥ 20% not required except in CEBPA and t(BCR, ABL)'. (Book p129)"
+    },
+    {
+      "id": "MED-C22-39",
+      "sec": "Clinical Features of AML: Presenting Pancytopenia, Infections Note & Myeloid Sarcoma (Chloroma)",
+      "page": 130,
+      "fmt": "recall",
+      "q": "Under 'Clinical Features of AML → PRESENTING FEATURES' on page 130, what is the most common (m/c) complication of pancytopenia, why does it occur, and what five bleeding manifestations (a–e) are listed?",
+      "opts": [
+        "M/c complication is overwhelming fungal sepsis due to severe agranulocytosis: a. Invasive aspergillosis, b. Mucormycosis, c. Candidemia, d. Pneumocystis pneumonia, e. Cryptococcosis",
+        "M/c complication is abnormal bleeding due to prominent thrombocytopenia: a. Bruising, b. Petechiae, c. Epistaxis, d. Gingival bleeds, e. Excess menstrual bleeding",
+        "M/c complication is spontaneous splenic rupture due to massive splenomegaly: a. Kehr left shoulder pain, b. Peritonism, c. Hemoperitoneum, d. Refractory ascites, e. Hypovolemic shock",
+        "M/c complication is deep vein thrombosis due to rebound thrombocytosis: a. Budd-Chiari syndrome, b. Portal vein thrombosis, c. Stroke in young, d. Priapism, e. Erythromelalgia"
+      ],
+      "ans": 1,
+      "exp": "Under PRESENTING FEATURES on page 130: Acute presentation (3 month history); Pancytopenia → m/c complication: Abnormal bleeding d/t prominent thrombocytopenia (a. Bruising, b. Petechiae, c. Epistaxis, d. Gingival bleeds, e. Excess menstrual bleeding). (Book p130)"
+    },
+    {
+      "id": "MED-C22-40",
+      "sec": "Clinical Features of AML: Presenting Pancytopenia, Infections Note & Myeloid Sarcoma (Chloroma)",
+      "page": 130,
+      "fmt": "recall",
+      "q": "In the PRESENTING FEATURES section on page 130, what symptoms are listed for anemia and what is stated about the Absolute Neutrophil Count (ANC) and infection severity?",
+      "opts": [
+        "Anemia causes high-output cardiac failure and jaundice; ANC is >50,000/μL → therefore sterile neutrophilic dermatosis occurs in 90%",
+        "Anemia causes spoon-shaped nails and esophageal webs; ANC is <100/μL → therefore disseminated mycobacterial infection is universal",
+        "Anemia is asymptomatic until Hb < 4 g/dL; Absolute Neutrophil Count (ANC) is zero → therefore fulminant necrotizing fasciitis is the presenting sign",
+        "Anemia causes pallor, fatigue, weakness, and palpitation; Absolute Neutrophil Count (ANC) is normal → therefore only minor infection/pustules occur"
+      ],
+      "ans": 3,
+      "exp": "Page 130 prints: '– Anemia : Pallor, fatigue, weakness, palpitation' and '• Absolute Neutrophil Count (ANC) : Normal → ∴ Only minor infection/pustules.' (Book p130)"
+    },
+    {
+      "id": "MED-C22-41",
+      "sec": "Clinical Features of AML: Presenting Pancytopenia, Infections Note & Myeloid Sarcoma (Chloroma)",
+      "page": 130,
+      "fmt": "truefalse",
+      "q": "Which of the following statements from the PRESENTING FEATURES list of AML on page 130 is TRUE?",
+      "opts": [
+        "True — Bone pains are the most common presenting symptom in adult AML (>80% of cases) and are exceedingly rare in pediatric ALL",
+        "True — There is no fever (no cytokine production)/lymphadenopathy and no hepatosplenomegaly, while life-threatening hemorrhage occurs in acute promyelocytic leukemia",
+        "False — Bone pains are rare in acute myeloid leukemia (AML) and are noted as most common (m/c) in acute lymphoblastic leukemia (ALL)",
+        "False — Meningeal, cardiac, and urogenital involvement are listed as rare clinical manifestations in patients with acute myeloid leukemia"
+      ],
+      "ans": 1,
+      "exp": "Page 130 lists: '• No fever (No cytokine production)/lymphadenopathy. • No hepatosplenomegaly. • Bone pains (Rare, m/c in ALL). • Life-threatening hemorrhage (In acute promyelocytic leukemia). • Meningeal, cardiac, urogenital involvement : Rare.' (Book p130)"
+    },
+    {
+      "id": "MED-C22-42",
+      "sec": "Clinical Features of AML: Presenting Pancytopenia, Infections Note & Myeloid Sarcoma (Chloroma)",
+      "page": 130,
+      "fmt": "recall",
+      "q": "According to the middle Note on page 130, 'Complex infections' are characteristically seen in which two hematological conditions and due to what cellular deficits?",
+      "opts": [
+        "Chronic myeloid leukemia (myelocyte bulge) and Pure red cell aplasia (reticulocytopenia)",
+        "Polycythemia rubra vera (basophilia) and Essential thrombocythemia (megakaryocytosis)",
+        "Aplastic anemia (profound neutropenia) and Hairy cell leukemia (neutropenia, monocytopenia)",
+        "Warm autoimmune hemolytic anemia (spherocytosis) and Hereditary elliptocytosis (spectrin defect)"
+      ],
+      "ans": 2,
+      "exp": "The Note on page 130 reads: 'Complex infections in : • Aplastic anemia (Profound neutropenia). • Hairy cell leukemia (Neutropenia, monocytopenia).' (Book p130)"
+    },
+    {
+      "id": "MED-C22-43",
+      "sec": "Clinical Features of AML: Presenting Pancytopenia, Infections Note & Myeloid Sarcoma (Chloroma)",
+      "page": 130,
+      "fmt": "recall",
+      "q": "Under 'OTHER MANIFESTATIONS → Myeloid sarcoma/ Chloroma' on page 130, what are its pathogenesis, frequency, most common site (shown in the clinical photograph), relationship to bone marrow involvement, and associated translocation?",
+      "opts": [
+        "Due to extramedullary blast proliferation; uncommon; m/c site is the orbit; can occur independent of bone marrow involvement; associated with t(8; 21); also seen in children",
+        "Due to monoclonal IgM paraprotein deposition; common in elderly males; m/c site is the renal cortex; never occurs without marrow replacement; associated with isolated del(5q)",
+        "Due to intramedullary reticulin fibrosis; occurs in 80% of adults; m/c site is the anterior mediastinal thymus; requires >50% bone marrow blasts; associated with t(9; 22)",
+        "Due to reactive dermal neutrophil infiltration; triggered by G-CSF therapy; m/c site is the anterior chest wall; resolves with steroids alone; associated with t(15; 17)"
+      ],
+      "ans": 0,
+      "exp": "Under Myeloid sarcoma/ Chloroma on page 130: '• D/t extramedullary blast proliferation. • Uncommon. • M/c site : Orbit [with photograph captioned Chloroma]. • Can occur independent of bone marrow involvement. • Associated translocation : t(8; 21). • Also seen in children.' (Book p130)"
+    },
+    {
+      "id": "MED-C22-44",
+      "sec": "Clinical Features of AML: Presenting Pancytopenia, Infections Note & Myeloid Sarcoma (Chloroma)",
+      "page": 130,
+      "fmt": "fillup",
+      "q": "Myeloid sarcoma (chloroma), an uncommon extramedullary blast proliferation whose most common site is the ______, is characteristically associated with translocation t(8; 21).",
+      "opts": [
+        "testis",
+        "pericardium",
+        "thymus",
+        "orbit"
+      ],
+      "ans": 3,
+      "exp": "Under Myeloid sarcoma/ Chloroma on page 130: '• M/c site : Orbit' and '• Associated translocation : t(8; 21).' (Book p130)"
+    },
+    {
+      "id": "MED-C22-45",
+      "sec": "Clinical Features of AML: Presenting Pancytopenia, Infections Note & Myeloid Sarcoma (Chloroma)",
+      "page": 130,
+      "fmt": "match",
+      "q": "At the bottom of page 130, infiltration by the most common causative cells — myeloblast/monoblast (M4/M5) — produces five clinical manifestations. Match each target or presentation — 1) Gingiva infiltration 2) Liver infiltration 3) Spleen infiltration 4) Oral/perianal focal infiltrations … A) Hepatomegaly B) Splenomegaly C) Dental abscess and proctitis D) Gum hypertrophy/gingivitis",
+      "opts": [
+        "1-A, 2-D, 3-C, 4-B",
+        "1-D, 2-A, 3-B, 4-C",
+        "1-D, 2-B, 3-A, 4-C",
+        "1-C, 2-A, 3-B, 4-D"
+      ],
+      "ans": 1,
+      "exp": "The bottom diagram on page 130 shows: m/c causative cells : Myeloblast/monoblast (M4/M5) → Infiltrate → Gingiva (Gum hypertrophy/gingivitis), Liver (Hepatomegaly), Spleen (Splenomegaly), Dental abscess, and Proctitis. (Book p130)"
+    },
+    {
+      "id": "MED-C22-46",
+      "sec": "Skin Involvement (Leukemia Cutis vs Sweet Syndrome), Blood Picture & Myeloblast vs Promyelocyte Morphology",
+      "page": 131,
+      "fmt": "recall",
+      "q": "In the 'Skin involvement' table on page 131, what are the clinical features, characteristic site, underlying cause, and treatment of Leukemia cutis?",
+      "opts": [
+        "Non-tender, violaceous nodular skin lesions on the extensor surface of forearms; caused by monoblastic lineage (M4/M5) AML; treated with chemotherapy",
+        "Reticular hyperpigmentation with oral leukoplakia and dystrophic nails on the extremities; caused by DKC1 telomere defect; treated with androgen therapy",
+        "Tender, erythematous violaceous plaques accompanied by fever on the face and neck; caused by G-CSF therapy or PMF; treated with systemic corticosteroids",
+        "Pruritic urticarial papules and wheals triggered by warm water contact on the trunk; caused by JAK2 V617F mutation; treated with therapeutic phlebotomy"
+      ],
+      "ans": 0,
+      "exp": "The Leukemia cutis column of the Skin involvement table on page 131 reads: Features — Non tender, violaceous nodular skin lesions; Site — Extensor surface of forearms; Causes — Monoblastic lineage (M4/M5) AML; Rx — Chemotherapy. (Book p131)"
+    },
+    {
+      "id": "MED-C22-47",
+      "sec": "Skin Involvement (Leukemia Cutis vs Sweet Syndrome), Blood Picture & Myeloblast vs Promyelocyte Morphology",
+      "page": 131,
+      "fmt": "match",
+      "q": "In the 'Skin involvement' table on page 131, match each row comparing Leukemia cutis and Sweet syndrome — 1) Leukemia cutis: Features & Site 2) Leukemia cutis: Causes & Rx 3) Sweet syndrome: Features & Site 4) Sweet syndrome: Causes & Rx … A) Monoblastic lineage (M4/M5) AML; Rx: Chemotherapy B) Tender, erythematous, violaceous papules/plaques (neutrophilic infiltration of dermis) + Fever; Site: Face, neck C) Non-tender, violaceous nodular skin lesions; Site: Extensor surface of forearms D) AML, following G-CSF therapy, PMF; Rx: Steroids",
+      "opts": [
+        "1-A, 2-C, 3-D, 4-B",
+        "1-B, 2-D, 3-C, 4-A",
+        "1-C, 2-A, 3-B, 4-D",
+        "1-C, 2-D, 3-B, 4-A"
+      ],
+      "ans": 2,
+      "exp": "The Skin involvement table on page 131 contrasts Leukemia cutis (non-tender, violaceous nodular skin lesions; extensor surface of forearms; monoblastic lineage M4/M5 AML; Rx chemotherapy) with Sweet syndrome (tender, erythematous, violaceous papules/plaques with neutrophilic infiltration of dermis + fever; face, neck; causes: AML, following G-CSF therapy, PMF; Rx steroids). (Book p131)"
+    },
+    {
+      "id": "MED-C22-48",
+      "sec": "Skin Involvement (Leukemia Cutis vs Sweet Syndrome), Blood Picture & Myeloblast vs Promyelocyte Morphology",
+      "page": 131,
+      "fmt": "scenario",
+      "q": "An AML patient receiving G-CSF therapy develops fever and tender, erythematous-to-violaceous papules and plaques over the face and neck. Biopsy reveals dense neutrophilic infiltration of the dermis without leukemic blasts. What is the diagnosis and treatment of choice?",
+      "opts": [
+        "Eosinophilic fasciitis; treated with equine ATG and cyclosporine",
+        "Chloroma (myeloid sarcoma); treated with local orbital radiation",
+        "Leukemia cutis; treated with induction chemotherapy",
+        "Sweet syndrome; treated with steroids"
+      ],
+      "ans": 3,
+      "exp": "In the page 131 table, tender erythematous/violaceous papules/plaques (neutrophilic infiltration of dermis) + fever on the face and neck occurring in AML, following G-CSF therapy, or in PMF is Sweet syndrome, treated with steroids. (Book p131)"
+    },
+    {
+      "id": "MED-C22-49",
+      "sec": "Skin Involvement (Leukemia Cutis vs Sweet Syndrome), Blood Picture & Myeloblast vs Promyelocyte Morphology",
+      "page": 131,
+      "fmt": "numeric",
+      "q": "Under 'Evaluation → Blood picture' on page 131, what three peripheral blood findings and numerical thresholds are printed?",
+      "opts": [
+        "Microcytic hypochromic anemia; Platelets ↑↑ : > 4.5 lac cells; Total WBC count : > 1 lac cells",
+        "Macrocytic megaloblastic anemia; Platelets : < 10,000 cells; Total WBC count : > 50,000 cells",
+        "Normocytic anemia with spherocytes; Platelets normal; Total WBC count : 11,000–20,000 cells",
+        "Normocytic normochromic anemia; Platelets ↓↓ : < 1 lac cells; Total WBC count : < 4000 cells"
+      ],
+      "ans": 3,
+      "exp": "Under Evaluation → Blood picture on page 131: '• Normocytic normochromic anemia. • Platelets ↓↓ : < 1 lac cells. • Total WBC count : < 4000 cells.' (Book p131)"
+    },
+    {
+      "id": "MED-C22-50",
+      "sec": "Skin Involvement (Leukemia Cutis vs Sweet Syndrome), Blood Picture & Myeloblast vs Promyelocyte Morphology",
+      "page": 131,
+      "fmt": "match",
+      "q": "In the '1. MORPHOLOGY' table on page 131 comparing Myeloblast and Promyelocyte, match each morphological feature — 1) Myeloblast: Cell & Cytoplasm 2) Myeloblast: Nucleoli & Auer rods 3) Promyelocyte: Cell & Cytoplasm 4) Promyelocyte: Nucleoli & Auer rods … A) 1–4, prominent nucleoli; Auer rods ⊕ (M3 > M2) B) Larger cell; more visible granules in cytoplasm C) Absent nucleoli; clustering of Auer rods (faggot cells) D) Large – uniform blast cell with high nuclear:cytoplasm ratio; pale blue scanty cytoplasm + granules",
+      "opts": [
+        "1-D, 2-A, 3-B, 4-C",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-A, 2-D, 3-C, 4-B",
+        "1-B, 2-C, 3-D, 4-A"
+      ],
+      "ans": 0,
+      "exp": "In the 1. MORPHOLOGY table on page 131: Myeloblast has a large uniform blast cell with high N:C ratio, pale blue scanty cytoplasm + granules, 1–4 prominent nucleoli, and Auer rods ⊕ (M3 > M2); Promyelocyte is a larger cell with more visible granules, absent nucleoli, and clustering of Auer rods (faggot cells). (Book p131)"
+    },
+    {
+      "id": "MED-C22-51",
+      "sec": "Skin Involvement (Leukemia Cutis vs Sweet Syndrome), Blood Picture & Myeloblast vs Promyelocyte Morphology",
+      "page": 131,
+      "fmt": "fillup",
+      "q": "In the morphology table on page 131, promyelocytes lack nucleoli and display a clustering of Auer rods known as ______.",
+      "opts": [
+        "pawn-ball cells",
+        "faggot cells",
+        "cup-shape blasts",
+        "smudge cells"
+      ],
+      "ans": 1,
+      "exp": "Under Promyelocyte in the Auer rods row on page 131, the table prints: 'Clustering of auer rods (faggot cells)'. (Book p131)"
+    },
+    {
+      "id": "MED-C22-52",
+      "sec": "Skin Involvement (Leukemia Cutis vs Sweet Syndrome), Blood Picture & Myeloblast vs Promyelocyte Morphology",
+      "page": 131,
+      "fmt": "recall",
+      "q": "In the 'Misc' row and bottom photomicrographs of the '1. MORPHOLOGY' section on page 131, what chromatin pattern is listed for a myeloblast and what association is listed for a promyelocyte?",
+      "opts": [
+        "Myeloblast — Chromatin: Coarse, clumped clock-face nuclear chromatin; Promyelocyte — M7/Megakaryocytic leukemia (with platelet budding on smear)",
+        "Myeloblast — Chromatin: Hypersegmented multilobated nuclear chromatin; Promyelocyte — M6/Erythroleukemia (with PAS-positive normoblasts on smear)",
+        "Myeloblast — Chromatin: Fine, dispersed; Promyelocyte — M3/Promyelocytic leukemia (illustrated in the bottom Myeloblast and Promyelocyte smear images)",
+        "Myeloblast — Chromatin: Condensed heterochromatin with absent nucleoli; Promyelocyte — M5/Monoblastic leukemia (with folded cerebriform nuclei)"
+      ],
+      "ans": 2,
+      "exp": "The 'Misc' row of the 1. MORPHOLOGY table on page 131 lists 'Chromatin : Fine, dispersed' under Myeloblast and 'M3/Promyelocytic leukemia' under Promyelocyte, above the captioned Myeloblast and Promyelocyte photomicrographs. (Book p131)"
+    },
+    {
+      "id": "MED-C22-53",
+      "sec": "AML Cytology Stains, Immunophenotyping CD Markers, Cytogenetics, Molecular Mutations & European Risk Stratification",
+      "page": 132,
+      "fmt": "match",
+      "q": "In the '2. CYTOLOGY' table at the top left of page 132, match each cytochemical stain with its positivity in AML — 1) MPO (myeloperoxidase) 2) Sudan black 3) NSE (non-specific esterase) 4) PAS (periodic acid–Schiff) … A) M4, M5, M7 B) M6, M7 C) + (positive in AML myeloblasts) D) + (positive lipid/granule stain in AML)",
+      "opts": [
+        "1-C, 2-D, 3-A, 4-B",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-D, 3-A, 4-C",
+        "1-C, 2-A, 3-D, 4-B"
+      ],
+      "ans": 0,
+      "exp": "The 2. CYTOLOGY table on page 132 prints: MPO : +; Sudan black : +; NSE : M4, M5, M7; PAS : M6, M7. (Book p132)"
+    },
+    {
+      "id": "MED-C22-54",
+      "sec": "AML Cytology Stains, Immunophenotyping CD Markers, Cytogenetics, Molecular Mutations & European Risk Stratification",
+      "page": 132,
+      "fmt": "match",
+      "q": "In the '3. IMMUNOPHENOTYPING' table on page 132, match the first four leukemia types with their exact CD marker profile — 1) Myeloblast 2) Promyelocyte 3) Myelomonoblast 4) Monoblast … A) CD13, CD33 B) CD11b, CD13, CD33, CD14, HLA-DR C) CD11b, CD13, CD33, CD11c, HLA-DR D) CD11b, CD13, CD33, CD117, HLA-DR",
+      "opts": [
+        "1-C, 2-A, 3-B, 4-D",
+        "1-D, 2-A, 3-B, 4-C",
+        "1-A, 2-D, 3-C, 4-B",
+        "1-D, 2-B, 3-A, 4-C"
+      ],
+      "ans": 1,
+      "exp": "The 3. IMMUNOPHENOTYPING table lists: Myeloblast — CD11b, CD13, CD33, CD117, HLA-DR; Promyelocyte — CD13, CD33; Myelomonoblast — CD11b, CD13, CD33, CD14, HLA-DR; Monoblast — CD11b, CD13, CD33, CD11c, HLA-DR. (Book p132)"
+    },
+    {
+      "id": "MED-C22-55",
+      "sec": "AML Cytology Stains, Immunophenotyping CD Markers, Cytogenetics, Molecular Mutations & European Risk Stratification",
+      "page": 132,
+      "fmt": "recall",
+      "q": "In the '3. IMMUNOPHENOTYPING' table on page 132, which specific surface markers identify Erythroid leukemia and Megakaryocytic (M7) leukemia?",
+      "opts": [
+        "Erythroid leukemia: CD19, CD20, PAX-5; Megakaryocytic (M7): CD3, CD56, TdT",
+        "Erythroid leukemia: CD14, CD11c, MPO; Megakaryocytic (M7): CD117, HLA-DR",
+        "Erythroid leukemia: Glycophorin, spectrin; Megakaryocytic (M7): CD41, CD61",
+        "Erythroid leukemia: CD55, CD59, FLAER; Megakaryocytic (M7): CD5, CD23, IgM"
+      ],
+      "ans": 2,
+      "exp": "The bottom two rows of the 3. IMMUNOPHENOTYPING table on page 132 read: 'Erythroid leukemia | Glycophorin, spectrin' and 'Megakaryocytic (M7) | CD41, CD61'. (Book p132)"
+    },
+    {
+      "id": "MED-C22-56",
+      "sec": "AML Cytology Stains, Immunophenotyping CD Markers, Cytogenetics, Molecular Mutations & European Risk Stratification",
+      "page": 132,
+      "fmt": "recall",
+      "q": "Under '4. CYTOGENETICS & 5. MOLECULAR GENETICS → a. Recurrent genetic abnormalities' on page 132, what seven features are listed for t(8 ; 21)?",
+      "opts": [
+        "Rarest genetic abnormality; PML–RARα fusion translocation; seen in >75 yrs; associated with Sweet syndrome; M3 lineage; CD3 (+) T-cell marker; bad prognosis",
+        "Core-binding factor β inversion; seen in elderly females; associated with gingival hypertrophy; M5 monoblastic lineage; CD14 (+) monocyte marker; bad prognosis",
+        "BCR–ABL1 reciprocal translocation; seen only in infants <1 yr; associated with anterior thymic mass; M7 lineage; CD41 (+) platelet marker; very bad prognosis",
+        "M/c genetic abnormality; RUNX₁–RUNX₁T₁ translocation; seen in children; associated with Chloroma; M2 lineage; CD19 (+) (B-lymphoid marker); good prognosis"
+      ],
+      "ans": 3,
+      "exp": "Under t(8 ; 21) on page 132: • M/c genetic abnormality. • RUNX₁–RUNX₁T₁ translocation. • In children. • Associated with Chloroma. • M2 lineage. • CD19 (+) (B-lymphoid marker). • Good prognosis. (Book p132)"
+    },
+    {
+      "id": "MED-C22-57",
+      "sec": "AML Cytology Stains, Immunophenotyping CD Markers, Cytogenetics, Molecular Mutations & European Risk Stratification",
+      "page": 132,
+      "fmt": "recall",
+      "q": "Which B-lymphoid surface marker is aberrantly expressed (+) in AML with t(8 ; 21) (RUNX₁–RUNX₁T₁ translocation) according to page 132?",
+      "opts": [
+        "CD19 (+)",
+        "Surface IgM (+)",
+        "CD10 / CALLA (+)",
+        "CD20 (+)"
+      ],
+      "ans": 0,
+      "exp": "Under t(8 ; 21) on page 132, bullet 6 states: '• CD19 (+) (B-lymphoid marker).' (Book p132)"
+    },
+    {
+      "id": "MED-C22-58",
+      "sec": "AML Cytology Stains, Immunophenotyping CD Markers, Cytogenetics, Molecular Mutations & European Risk Stratification",
+      "page": 132,
+      "fmt": "recall",
+      "q": "Under 'a. Recurrent genetic abnormalities' on page 132, what features are listed for t(16 ; 16) (Inversion 16) and for t(9 ; 22)?",
+      "opts": [
+        "t(16 ; 16) (Inversion 16): Faggot cells with fulminant DIC, promyelocytic leukemia (FAB M3), complete organ sparing, poor prognosis; t(9 ; 22): Intermediate risk in AML stratification",
+        "t(16 ; 16) (Inversion 16): Prominent basophilic stippling, megakaryocytic leukemia (FAB M7), isolated orbital chloroma, bad prognosis; t(9 ; 22): Good prognosis in both ALL and AML",
+        "t(16 ; 16) (Inversion 16): Cup-shaped nuclear blasts, pure erythroleukemia (FAB M6), absence of organ infiltration, bad prognosis; t(9 ; 22): Favourable good prognosis in adult AML",
+        "t(16 ; 16) (Inversion 16): Abnormal eosinophils (hence k/a AML M4 Eo), myelomonocytic leukemia, shows organ infiltration, good prognosis; t(9 ; 22): Bad prognosis (except in CML)"
+      ],
+      "ans": 3,
+      "exp": "Page 132 lists under t(16 ; 16) (Inversion 16): '• Abnormal eosinophils, hence k/a AML M4 Eo. • Myelomonocytic leukemia. • Shows organ infiltration. • Good prognosis.' Below it: 't(9 ; 22) : Bad prognosis (Except in CML).' (Book p132)"
+    },
+    {
+      "id": "MED-C22-59",
+      "sec": "AML Cytology Stains, Immunophenotyping CD Markers, Cytogenetics, Molecular Mutations & European Risk Stratification",
+      "page": 132,
+      "fmt": "match",
+      "q": "Under 'b. Mutations' on page 132, match each gene mutation with its printed clinical and morphologic features — 1) c-Kit mutation 2) NPM₁ (Nucleophosmin-1) mutation 3) CEBPA mutation 4) FLT₃–ITD mutation … A) Cup-shape blasts; good prognosis; m/c gene mutated B) Good prognosis; requires >20% blasts to make a diagnosis C) Bad prognosis D) In t(8;21) or t(16,16); bad prognosis",
+      "opts": [
+        "1-D, 2-B, 3-A, 4-C",
+        "1-A, 2-D, 3-C, 4-B",
+        "1-D, 2-A, 3-B, 4-C",
+        "1-C, 2-A, 3-B, 4-D"
+      ],
+      "ans": 2,
+      "exp": "Under 'b. Mutations' on page 132: c-Kit mutation — In t(8; 21) or t(16, 16), bad prognosis; NPM₁ (Nucleophosmin-1) mutation — Cup-shape blasts, good prognosis, m/c gene mutated; CEBPA mutation — Good prognosis, requires >20% blasts to make a diagnosis; FLT₃–ITD mutation — Bad prognosis. (Book p132)"
+    },
+    {
+      "id": "MED-C22-60",
+      "sec": "AML Cytology Stains, Immunophenotyping CD Markers, Cytogenetics, Molecular Mutations & European Risk Stratification",
+      "page": 132,
+      "fmt": "fillup",
+      "q": "On page 132, the most common gene mutated in AML is ______, which produces characteristic cup-shape blasts and carries a good prognosis.",
+      "opts": [
+        "FLT₃–ITD (Fms-like TK)",
+        "NPM₁ (Nucleophosmin-1)",
+        "GATA-1 (erythroid TF)",
+        "c-Kit (CD117 receptor)"
+      ],
+      "ans": 1,
+      "exp": "Under 'NPM₁ (Nucleophosmin-1) mutation' on page 132: '• Cup-shape blasts. • Good prognosis. • M/c gene mutated.' (Book p132)"
+    },
+    {
+      "id": "MED-C22-61",
+      "sec": "AML Cytology Stains, Immunophenotyping CD Markers, Cytogenetics, Molecular Mutations & European Risk Stratification",
+      "page": 132,
+      "fmt": "recall",
+      "q": "Under 'Prognosis → European risk stratification of leukemia' at the bottom of page 132, how are Favourable, Intermediate, and Unfavourable groups defined?",
+      "opts": [
+        "Favourable: FLT3–ITD and c-Kit activating mutations; Intermediate: t(9 ; 22) Philadelphia translocation and complex karyotype; Unfavourable: Normal cytogenetics without mutations",
+        "Favourable: No cytogenetic abnormalities (normal karyotype); Intermediate: t(8 ; 21) and t(16 ; 16) core-binding factor leukemias; Unfavourable: Isolated NPM₁ and CEBPA mutations",
+        "Favourable: Monosomy 7 and del(5q) MDS-related AML; Intermediate: All balanced chromosomal translocations; Unfavourable: NPM₁ mutation without concomitant FLT3–ITD mutation",
+        "Favourable: t(8 ; 21), t(16 ; 16), NPM₁ mutation without FLT3–ITD mutation, CEBPA mutation; Intermediate: No cytogenetic abnormalities; Unfavourable: All other mutations"
+      ],
+      "ans": 3,
+      "exp": "The European risk stratification diagram at the bottom of page 132 branches into: Favourable — t(8 ; 21), t(16 ; 16), NPM₁ mutation without FLT3–ITD mutation, CEBPA mutation; Intermediate — No cytogenetic abnormalities; Unfavourable — All other mutations. (Book p132)"
+    },
+    {
+      "id": "MED-C22-62",
+      "sec": "Bad Prognostic Factors, Treatment Risk Groups, 7+3 Induction Regimen, Post-Induction Care & Targeted Agents",
+      "page": 133,
+      "fmt": "oddoneout",
+      "q": "All of the following are listed under 'Bad prognostic factors' at the top of page 133 EXCEPT:",
+      "opts": [
+        "Anemia, leucopenia, thrombocytopenia for >1 month before diagnosis",
+        "Isolated NPM₁ mutation in a patient < 60 years of age",
+        "Therapy-associated AML, MDS-associated AML, and chromosomal translocations",
+        "Age (Elderly) and high presenting leucocyte count"
+      ],
+      "ans": 1,
+      "exp": "The six bullets under 'Bad prognostic factors' at the top of page 133 are: Age (Elderly); High presenting leucocyte count; Anemia, leucopenia, thrombocytopenia for >1 month before diagnosis; Therapy-associated AML; MDS-associated AML; Chromosomal translocations. (Book p133)"
+    },
+    {
+      "id": "MED-C22-63",
+      "sec": "Bad Prognostic Factors, Treatment Risk Groups, 7+3 Induction Regimen, Post-Induction Care & Targeted Agents",
+      "page": 133,
+      "fmt": "numeric",
+      "q": "Under 'Bad prognostic factors' on page 133, pre-existing cytopenias (anemia, leucopenia, thrombocytopenia) carry a bad prognosis when present for more than what duration before AML diagnosis?",
+      "opts": [
+        "> 1 month before diagnosis",
+        "> 5 years before diagnosis",
+        "> 24 hours before diagnosis",
+        "> 10 years before diagnosis"
+      ],
+      "ans": 0,
+      "exp": "Bullet 3 under Bad prognostic factors on page 133 reads: '• Anemia, leucopenia, thrombocytopenia for >1 month before diagnosis.' (Book p133)"
+    },
+    {
+      "id": "MED-C22-64",
+      "sec": "Bad Prognostic Factors, Treatment Risk Groups, 7+3 Induction Regimen, Post-Induction Care & Targeted Agents",
+      "page": 133,
+      "fmt": "recall",
+      "q": "Under 'Treatment' on page 133, how are patients stratified into Standard risk versus High risk?",
+      "opts": [
+        "Standard risk: t(9 ; 22) and MDS-associated AML; High risk: NPM₁ mutation without concomitant FLT3–ITD",
+        "Standard risk: WBC >1,00,000/μL with CNS involvement; High risk: age <60 years with isolated CEBPA mutation",
+        "Standard risk: t(8 ; 21), t(16 ; 16), age <60 years, NPM₁ mutation, CEBPA mutation; High risk: All other cases",
+        "Standard risk: age >75 years, FLT3–ITD mutation, therapy-associated AML; High risk: t(8 ; 21) and t(16 ; 16)"
+      ],
+      "ans": 2,
+      "exp": "Under Treatment on page 133, 'Risk' branches into: 'Standard : t(8 ; 21), t(16 ; 16), age <60 years, NPM₁ mutation, CEBPA mutation' and 'High : All other cases.' (Book p133)"
+    },
+    {
+      "id": "MED-C22-65",
+      "sec": "Bad Prognostic Factors, Treatment Risk Groups, 7+3 Induction Regimen, Post-Induction Care & Targeted Agents",
+      "page": 133,
+      "fmt": "management",
+      "q": "In the 'Induction phase' of AML treatment on page 133, what is the '7 + 3 regimen (2 cycles)' and what cardiac precaution is required?",
+      "opts": [
+        "Daunorubicin: 7 days oral administration at high dose + Cytarabine: intrathecal bolus for 3 days (with spirometry before administration for pulmonary fibrosis)",
+        "Cytarabine: 7 days continuous infusion at low dose + Daunorubicin: I.V for 3 days at low dose (with ECHO before administration due to cardiotoxicity)",
+        "Vincristine: 7 days continuous intravenous infusion + Prednisolone: 3 days I.V bolus (with percutaneous renal biopsy before administration for cast nephropathy)",
+        "Azacitidine: 7 days subcutaneous injection + Venetoclax: 3 days oral pulse therapy (with electroencephalography before administration for cerebellar neurotoxicity)"
+      ],
+      "ans": 1,
+      "exp": "Under Induction phase on page 133, the '7 + 3 regimen (2 cycles)' consists of Cytarabine (7 days continuous infusion at low dose) and Daunorubicin (I.V for 3 days at low dose; ECHO before administration d/t cardiotoxicity). (Book p133)"
+    },
+    {
+      "id": "MED-C22-66",
+      "sec": "Bad Prognostic Factors, Treatment Risk Groups, 7+3 Induction Regimen, Post-Induction Care & Targeted Agents",
+      "page": 133,
+      "fmt": "recall",
+      "q": "Under 'Following treatment' on page 133, how long does the bone marrow take to develop new cells after 7+3 induction, what complication sequence occurs during that window, and what are the earliest clinical signs prompting antibiotics?",
+      "opts": [
+        "Marrow takes 6–8 weeks to recover hematopoiesis → spontaneous hypercalcemic crisis and nephrolithiasis → acute obstructive uropathy; intravenous antibiotics must be withheld until blood cultures turn positive at day 7",
+        "Marrow takes 24–48 hours to regenerate mature cells → rebound extreme thrombocytosis → acute portal and hepatic vein thrombosis; systemic anticoagulation must be started when platelets exceed 10 lakhs/μL",
+        "Marrow takes 6 months to develop new cells → chronic graft-versus-host disease affecting skin and liver → secondary biliary cirrhosis; empirical corticosteroids must be started only after jaundice develops",
+        "Marrow takes 10–14 days to develop new cells → high susceptibility to infection (from catheters, gut flora) → high risk of mortality; antibiotics must be started at the first sign of infection (tachycardia/tremors/fasciculations)"
+      ],
+      "ans": 3,
+      "exp": "Under 'Following treatment' on page 133: '• Marrow takes 10–14 days to develop new cells → High susceptibility to infection (From catheters, gut flora) → High risk of mortality. • Antibiotics to be started at the first sign of infection (tachycardia/tremors/fasciculations).' (Book p133)"
+    },
+    {
+      "id": "MED-C22-67",
+      "sec": "Bad Prognostic Factors, Treatment Risk Groups, 7+3 Induction Regimen, Post-Induction Care & Targeted Agents",
+      "page": 133,
+      "fmt": "fillup",
+      "q": "At the bottom left of page 133, ______ is an oral FLT3–ITD inhibitor that is added to AML therapy if FLT3–ITD is positive (+).",
+      "opts": [
+        "gemtuzumab-ozogamicin",
+        "blinatumomab",
+        "midostaurin",
+        "ivosidenib"
+      ],
+      "ans": 2,
+      "exp": "At the bottom left of page 133: 'Midostaurin : • Oral FLT3–ITD inhibitor. • Added if FLT3–ITD (+).' (Book p133)"
+    },
+    {
+      "id": "MED-C22-68",
+      "sec": "Bad Prognostic Factors, Treatment Risk Groups, 7+3 Induction Regimen, Post-Induction Care & Targeted Agents",
+      "page": 133,
+      "fmt": "recall",
+      "q": "At the bottom right of page 133, what is the molecular target and mechanism of action of oral venetoclax?",
+      "opts": [
+        "BCL-2 inhibitor that promotes apoptosis",
+        "Isocitrate dehydrogenase (IDH) inhibitor that blocks oncometabolite synthesis",
+        "Core-binding factor β stabilizer that restores myeloid differentiation",
+        "Anti-CD33 antibody-drug conjugate that delivers calicheamicin to myeloblasts"
+      ],
+      "ans": 0,
+      "exp": "At the bottom right of page 133: 'Oral venetoclax : • BCL-2 inhibitor. • Promotes apoptosis.' (Book p133)"
+    },
+    {
+      "id": "MED-C22-69",
+      "sec": "Post-Induction Bone Marrow & MRD Evaluation, Consolidation Phase, Regimens in Unfit/Elderly, New Drugs & APML Intro",
+      "page": 134,
+      "fmt": "numeric",
+      "q": "In the 'Evaluation after 2 cycles of induction phase' flowchart on page 134, how does the 'Percentage of blast cells' arm classify patients with <5% versus >5% marrow blasts?",
+      "opts": [
+        "<20% blasts → Hematological remission without relapse risk; >20% blasts → Standard high-dose cytarabine",
+        "<1% blasts → Refractory AML requiring palliative care; >10% blasts → Oral methotrexate maintenance therapy",
+        "<5% blasts → Complete permanent cure with zero relapse risk; >5% blasts → Indolent chronic phase AML",
+        "<5% blasts → Hematological remission → Risk of relapse (+); >5% blasts → Refractory AML → Inevitable death"
+      ],
+      "ans": 3,
+      "exp": "In the left arm of 'Bone marrow evaluation' after 2 cycles of induction on page 134: Percentage of blast cells → '<5% → Hematological remission → Risk of relapse (+)' versus '>5% → Refractory AML → Inevitable death'. (Book p134)"
+    },
+    {
+      "id": "MED-C22-70",
+      "sec": "Post-Induction Bone Marrow & MRD Evaluation, Consolidation Phase, Regimens in Unfit/Elderly, New Drugs & APML Intro",
+      "page": 134,
+      "fmt": "numeric",
+      "q": "In the right arm of 'Bone marrow evaluation' on page 134, what does MRD (Minimal Residual Disease) predict, and how do the <0.01% and >0.01% marrow blast cutoffs guide outcome?",
+      "opts": [
+        "MRD predicts coagulopathy severity: <1% blasts in peripheral blood → MRD (–) → Maintenance ATRA; >1% → MRD (+) → Splenectomy",
+        "MRD predicts risk of relapse: <0.01% blasts in marrow → MRD (–) → Consolidation phase; >0.01% → MRD (+) → Bad prognosis",
+        "MRD predicts anthracycline cardiotoxicity: <5% blasts in marrow → MRD (–) → Observation; >5% → MRD (+) → Good prognosis",
+        "MRD predicts G-CSF responsiveness: <0.5% blasts in marrow → MRD (–) → Stop therapy; >0.5% → MRD (+) → Standard-risk group"
+      ],
+      "ans": 1,
+      "exp": "In the right arm on page 134: 'MRD (Minimal Residual Disease) / Predicts risk of relapse' branches into '<0.01% blasts in marrow → MRD (–) → Consolidation phase' and '>0.01% → MRD (+) → Bad prognosis'. (Book p134)"
+    },
+    {
+      "id": "MED-C22-71",
+      "sec": "Post-Induction Bone Marrow & MRD Evaluation, Consolidation Phase, Regimens in Unfit/Elderly, New Drugs & APML Intro",
+      "page": 134,
+      "fmt": "management",
+      "q": "Under 'Consolidation phase' on page 134, what are the two consolidation options and their specific indications?",
+      "opts": [
+        "1. Allogenic Hematopoietic Stem Cell Transplantation (AHSCT) — Indications: MRD (–); 2. High dose Cytarabine — Indications: Standard risk with MRD (–) (transplant not mandatory)",
+        "1. Autologous peripheral stem cell transplantation — Indications: Refractory AML (>5% blasts); 2. Low-dose vincristine infusion — Indications: High-risk disease with persistent MRD (+)",
+        "1. Equine anti-thymocyte globulin (ATG) + cyclosporine — Indications: MRD (+); 2. Oral methotrexate + 6-mercaptopurine for 3 years — Indications: Standard-risk AML with MRD (–)",
+        "1. Therapeutic splenectomy with splenic irradiation — Indications: Standard risk with MRD (+); 2. Oral hydroxyurea maintenance — Indications: All standard-risk patients <60 years"
+      ],
+      "ans": 0,
+      "exp": "Under Consolidation phase on page 134: '1. Allogenic Hematopoietic Stem cell Transplantation (AHSCT) : Indications : MRD (–).' and '2. High dose Cytarabine : • Indications : Standard risk with MRD (–). • Transplant not mandatory.' (Book p134)"
+    },
+    {
+      "id": "MED-C22-72",
+      "sec": "Post-Induction Bone Marrow & MRD Evaluation, Consolidation Phase, Regimens in Unfit/Elderly, New Drugs & APML Intro",
+      "page": 134,
+      "fmt": "management",
+      "q": "According to page 134, what treatment combination is recommended in AML patients unfit for the 7+3 regimen (such as elderly patients)?",
+      "opts": [
+        "High-dose cytarabine continuous infusion + Idarubicin + Oral Midostaurin",
+        "All-trans retinoic acid (ATRA) + Arsenic trioxide + Intravenous Dexamethasone",
+        "Hypomethylating agents (Azacitidine or Decitabine) + Venetoclax (BCL-2 inhibitor)",
+        "Steroids + Vincristine + Daunorubicin + Cyclophosphamide (BFM-19 protocol)"
+      ],
+      "ans": 2,
+      "exp": "Page 134 prints: 'In patients unfit for 7+3 regime (Elderly) : Hypomethylating agents (Azacitidine / Decitabine) + Venetoclax (BCL-2 inhibitor).' (Book p134)"
+    },
+    {
+      "id": "MED-C22-73",
+      "sec": "Post-Induction Bone Marrow & MRD Evaluation, Consolidation Phase, Regimens in Unfit/Elderly, New Drugs & APML Intro",
+      "page": 134,
+      "fmt": "recall",
+      "q": "Under 'New drugs in AML' on page 134, what are the molecular targets of Gemtuzumab–Ozogamicin and Ivosidenib?",
+      "opts": [
+        "Gemtuzumab–Ozogamicin: Anti-CD33; Ivosidenib: Isocitrate dehydrogenase (IDH) inhibitor",
+        "Gemtuzumab–Ozogamicin: Anti-CD20; Ivosidenib: FLT3–ITD tyrosine kinase inhibitor",
+        "Gemtuzumab–Ozogamicin: Anti-C5 complement inhibitor; Ivosidenib: Thrombopoietin (TPO) receptor agonist",
+        "Gemtuzumab–Ozogamicin: Bispecific Anti-CD19/CD3 engager; Ivosidenib: BCL-2 inhibitor"
+      ],
+      "ans": 0,
+      "exp": "Under 'New drugs in AML' on page 134: '• Gemtuzumab–Ozogamicin : Anti-CD33. • Ivosidenib : Isocitrate dehydrogenase inhibitor.' (Book p134)"
+    },
+    {
+      "id": "MED-C22-74",
+      "sec": "Post-Induction Bone Marrow & MRD Evaluation, Consolidation Phase, Regimens in Unfit/Elderly, New Drugs & APML Intro",
+      "page": 134,
+      "fmt": "recall",
+      "q": "Under 'Acute Promyelocytic Leukemia (AML M3)' at the bottom of page 134, what are the classic clinical presentation, cytogenetics, prognosis, and smear image caption?",
+      "opts": [
+        "Presentation: Elderly patient with generalized lymphadenopathy & hepatosplenomegaly; Cytogenetics: t(8 ; 21); Prognosis: Poor despite treatment; Smear caption: Cup-shape myeloblasts",
+        "Presentation: Young patient with bleeding & pancytopenia; Cytogenetics: t(15 ; 17) / t(PML ; RARα); Prognosis: Good with treatment; Smear caption: Hypergranular myeloblasts (as printed)",
+        "Presentation: Adolescent boy with anterior mediastinal mass & pleural effusion; Cytogenetics: t(9 ; 22) BCR-ABL; Prognosis: Very bad; Smear caption: Large precursor lymphoblasts",
+        "Presentation: Young child with bilateral orbital chloroma & leukocytosis; Cytogenetics: Inversion 16 (CBFβ); Prognosis: Intermediate risk; Smear caption: Hypogranular monoblasts"
+      ],
+      "ans": 1,
+      "exp": "At the bottom of page 134 under Acute Promyelocytic Leukemia (AML M3): 'Presentation : Young patient with bleeding & pancytopenia. Cytogenetics : t(15 ; 17) / t(PML ; RARα). Prognosis : Good with treatment.' The two smear panels on the right are captioned 'Hypergranular myeloblasts'. (Book p134)"
+    },
+    {
+      "id": "MED-C22-75",
+      "sec": "APML (AML M3): DIC Pathogenesis, Hypergranular vs Hypogranular Types, Sanz Criteria & Differentiation Syndrome",
+      "page": 135,
+      "fmt": "recall",
+      "q": "Trace the exact pathogenesis cascade of coagulopathy in Acute Promyelocytic Leukemia (AML M3) at the top of page 135:",
+      "opts": [
+        "Deficiency of ADAMTS-13 metalloprotease → Ultra-large vWF multimers → Platelet microthrombi → Microangiopathic hemolytic anemia → Bilateral renal cortical necrosis",
+        "Circulating lupus anticoagulant antibodies → Inhibition of protein C and antithrombin III → Recurrent deep vein thrombosis → Massive saddle pulmonary thromboembolism",
+        "Acquired loss of GPI-anchored CD55 and CD59 → Complement-mediated intravascular hemolysis → Free hemoglobin scavenges nitric oxide → Budd-Chiari hepatic vein thrombosis",
+        "Granules in promyelocytes → Contain thromboplastin → Activates extrinsic cascade → DIC → Early mortality due to severe hemorrhage (medical emergency)"
+      ],
+      "ans": 3,
+      "exp": "The Pathogenesis flowchart at the top of page 135 reads: Granules in promyelocytes → Contain thromboplastin → Activates extrinsic cascade → DIC → Early mortality due to severe hemorrhage (medical emergency). (Book p135)"
+    },
+    {
+      "id": "MED-C22-76",
+      "sec": "APML (AML M3): DIC Pathogenesis, Hypergranular vs Hypogranular Types, Sanz Criteria & Differentiation Syndrome",
+      "page": 135,
+      "fmt": "match",
+      "q": "In the 'Types' table of APML on page 135, match each characteristic comparing Hypergranular and Hypogranular variants — 1) Incidence & WBC count (Hypergranular vs Hypogranular) 2) Faggot cells (Hypergranular vs Hypogranular) 3) Granules (Hypergranular vs Hypogranular) 4) Nucleus (bilobed) shape (Hypergranular vs Hypogranular) … A) Dark, large vs Few B) Dumbbell shaped vs Butterfly shaped C) 2/3 with Low WBC count vs 1/3 with High WBC count D) Present (+) vs Absent (–)",
+      "opts": [
+        "1-A, 2-B, 3-C, 4-D",
+        "1-C, 2-A, 3-D, 4-B",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-D, 2-C, 3-B, 4-A"
+      ],
+      "ans": 2,
+      "exp": "In the APML 'Types' table on page 135: Hypergranular vs Hypogranular — Incidence: 2/3 vs 1/3; WBC count: Low vs High; Faggot cells: + vs –; Granules: Dark, large vs Few; Nucleus (bilobed): Dumbbell shaped vs Butterfly shaped. (Book p135)"
+    },
+    {
+      "id": "MED-C22-77",
+      "sec": "APML (AML M3): DIC Pathogenesis, Hypergranular vs Hypogranular Types, Sanz Criteria & Differentiation Syndrome",
+      "page": 135,
+      "fmt": "fillup",
+      "q": "In the APML types table on page 135, the bilobed nucleus is dumbbell-shaped in the hypergranular variant and ______-shaped in the hypogranular variant.",
+      "opts": [
+        "clock-face",
+        "ring",
+        "cup",
+        "butterfly"
+      ],
+      "ans": 3,
+      "exp": "Row 5 of the Types table on page 135 prints: 'Nucleus (bilobed) | Dumbell shaped (Hypergranular) | Butterfly shaped (Hypogranular)'. (Book p135)"
+    },
+    {
+      "id": "MED-C22-78",
+      "sec": "APML (AML M3): DIC Pathogenesis, Hypergranular vs Hypogranular Types, Sanz Criteria & Differentiation Syndrome",
+      "page": 135,
+      "fmt": "recall",
+      "q": "What three key points are highlighted under 'Note:' in the middle of page 135 regarding AML M3 (APML)?",
+      "opts": [
+        "Cells are abundant in peripheral blood but absent in bone marrow; ATRA must be withheld until cytogenetics confirms t(15;17); ↓ expression of tissue factor",
+        "Cells are abundant in marrow but few in blood; ATRA (All-trans retinoic acid) must be started early if AML M3 is suspected; ↑ expression of TF (tissue factor)",
+        "Cells lack myeloperoxidase and Sudan black cytochemical staining; emergency splenectomy is mandatory at diagnosis; ↓ expression of thromboplastin",
+        "Cells selectively infiltrate the anterior mediastinum and testes; oral hydroxyurea is the sole first-line drug; ↑ expression of factor VIII inhibitor"
+      ],
+      "ans": 1,
+      "exp": "The middle Note on page 135 lists: '• Cells abundant in marrow but few in blood. • ATRA (All-trans retinoic acid) : Start early if AML M3 suspected. • ↑ expression of TF (tissue factor).' (Book p135)"
+    },
+    {
+      "id": "MED-C22-79",
+      "sec": "APML (AML M3): DIC Pathogenesis, Hypergranular vs Hypogranular Types, Sanz Criteria & Differentiation Syndrome",
+      "page": 135,
+      "fmt": "numeric",
+      "q": "In the 'Sans criteria for risk' (Sanz criteria, as printed) table on page 135, how are Low risk and High risk APML defined by WBC count and platelets, and how is each treated?",
+      "opts": [
+        "Low risk: WBC <10,000 and Platelets >40,000 → Rx: ATRA + Arsenic trioxide (Good prognosis); High risk: WBC >10,000 and Platelets <40,000 → Rx: ATRA + Arsenic trioxide + Idarubicin",
+        "Low risk: WBC <4,000 and Platelets >1,50,000 → Rx: Imatinib 400 mg/day; High risk: WBC >2,00,000 and Platelets <20,000 → Rx: Daunorubicin + Vincristine + Prednisolone (BFM-19)",
+        "Low risk: WBC <50,000 and Platelets >1,00,000 → Rx: 7+3 cytarabine/daunorubicin regimen; High risk: WBC >50,000 and Platelets <1,00,000 → Rx: Upfront allogeneic stem cell transplant",
+        "Low risk: WBC >10,000 and Platelets <40,000 → Rx: ATRA monotherapy for 2 years; High risk: WBC <10,000 and Platelets >40,000 → Rx: Hypomethylating agent (Azacitidine) + Venetoclax"
+      ],
+      "ans": 0,
+      "exp": "Under 'Sans criteria for risk :' on page 135: Low risk has WBC <10,000, Platelets >40,000, Treatment: ATRA + Arsenic trioxide, Prognosis: Good; High risk has WBC >10,000, Platelets <40,000, Treatment: ATRA + Arsenic trioxide + Idarubicin. (Book p135)"
+    },
+    {
+      "id": "MED-C22-80",
+      "sec": "APML (AML M3): DIC Pathogenesis, Hypergranular vs Hypogranular Types, Sanz Criteria & Differentiation Syndrome",
+      "page": 135,
+      "fmt": "scenario",
+      "q": "Ten days after starting ATRA-based induction therapy for acute promyelocytic leukemia (AML M3), a patient develops a rapid increase in leucocyte count, fever, peripheral edema, pleural effusion, weight gain, and lung infiltrates causing dyspnea. What is the underlying pathology and treatment of choice?",
+      "opts": [
+        "Catheter-related Gram-negative septic shock — caused by post-induction marrow aplasia at day 10–14; treated with immediate leukapheresis and Granulocyte-CSF infusion",
+        "Refractory APML secondary blast crisis — caused by clonal acquisition of FLT3-ITD mutation during therapy; treated with oral midostaurin and emergency allogeneic transplant",
+        "APML differentiation syndrome — caused by adhesion of differentiated cells to vascular epithelium and cytokine release; treated with steroids (I.V Dexamethasone)",
+        "Daunorubicin-induced acute dilated cardiomyopathy — caused by anthracycline iron-mediated free-radical myocardial injury; treated with dexrazoxane and intravenous digoxin"
+      ],
+      "ans": 2,
+      "exp": "At the bottom of page 135 under 'APML differentiation syndrome': • Rapid increase in count after therapy. • 10 days post therapy: Fever, edema, pleural effusion, weight gain; Lung infiltrates (Causing dyspnea). • Pathology: Adhesion of differentiated cells to vascular epithelium, cytokine release. • Rx: Steroids (I.V Dexamethasone). (Book p135)"
+    },
+    {
+      "id": "MED-C22-81",
+      "sec": "APML (AML M3): DIC Pathogenesis, Hypergranular vs Hypogranular Types, Sanz Criteria & Differentiation Syndrome",
+      "page": 135,
+      "fmt": "truefalse",
+      "q": "Which of the following statements regarding Acute Promyelocytic Leukemia (AML M3) on page 135 is TRUE?",
+      "opts": [
+        "True — Hypogranular APML accounts for 2/3 of cases, presents with a low WBC count, and displays abundant faggot cells (+) with dark, large cytoplasmic granules",
+        "False — APML differentiation syndrome characteristically develops ~10 days post therapy with fever, edema, pleural effusion, weight gain, and dyspnea, and is treated with I.V dexamethasone",
+        "True — Hypergranular APML accounts for 2/3 of cases, presents with a low WBC count, and shows faggot cells (+) with dark, large granules and a dumbbell-shaped bilobed nucleus",
+        "False — High-risk APML defined by Sans criteria (WBC >10,000 and platelets <40,000) is treated by adding idarubicin to ATRA and arsenic trioxide"
+      ],
+      "ans": 2,
+      "exp": "On page 135, hypergranular APML accounts for 2/3 of cases (low WBC count, faggot cells +, dark large granules, dumbbell-shaped bilobed nucleus), whereas hypogranular APML accounts for 1/3 (high WBC count, faggot cells –, few granules, butterfly-shaped bilobed nucleus). (Book p135)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U22-1",
+      "ch": 22,
+      "n": 1,
+      "title": "Epidemiology of Acute Leukemia, Myeloid Precursor Lineages & AML Pathogenesis",
+      "sec": "Epidemiology of Acute Leukemia, Myeloid Precursor Lineages & AML Pathogenesis",
+      "guide": "Leukemia distribution: Adults → 80% AML, 20% ALL; Children/adolescents → 90% ALL, 10% AML; Myeloid precursor stem cell → Myeloblast (granulocyte), Monoblast (monocyte), RBC, Platelets.\nAML pathogenesis: (1) Clonal proliferation of myeloid precursors — Myeloblast (m/c) → myeloblastic leukemia (70–80%), Monoblast → monoblastic/myelomonocytic leukemia, RBC precursor → erythro-leukemia, Platelet precursor → megakaryocytic leukemia.\n(2) Complete arrest of differentiation (myeloblast takes over marrow): high turnover → short history (2–3 months), acute presentation without CNS/testes/organ (spleen/liver/lymph nodes) involvement, pancytopenia manifesting as bleeding; marrow replacement → blood blasts → ↑↑ counts (poor prognosis) → late CNS involvement.",
+      "qs": [
+        "MED-C22-01",
+        "MED-C22-02",
+        "MED-C22-03",
+        "MED-C22-04",
+        "MED-C22-05",
+        "MED-C22-06",
+        "MED-C22-07",
+        "MED-C22-08",
+        "MED-C22-09",
+        "MED-C22-10",
+        "MED-C22-11"
+      ]
+    },
+    {
+      "id": "MED-U22-2",
+      "ch": 22,
+      "n": 2,
+      "title": "Hyperviscosity Note, 5-Point Hematological Diagnosis, AML Definition, Survival & Hereditary Risk Factors",
+      "sec": "Hyperviscosity Note, 5-Point Hematological Diagnosis, AML Definition, Survival & Hereditary Risk Factors",
+      "guide": "Hyperviscosity: absent in AML, present in CML. 5-point diagnosis: 1. Morphology (bone marrow/blood cells), 2. Cytology/Cytochemistry (MPO/Sudan black), 3. Immunophenotyping by flow cytometry (CD markers), 4. Cytogenetics (recurrent genetic abnormalities), 5. Molecular genetics (inversion/deletion).\nDefinition: generalised neoplastic (clonal) proliferation of immature leucocytes ± blood/non-hematopoietic tissues; Leukemia = clonal WBC-lineage proliferation in marrow/blood; m/c cell = myeloblast; median age 65 yrs (seen in all ages); M > F.\n5-year survival: >75 yrs almost NIL, >50 yrs ~20% with transplant. Notes: chronic disorders = mature cells; lymphoma = lymph node proliferation. Hereditary risk factors: defective DNA repair (Bloom, ataxia-telangiectasia), Diamond-Blackfan (inherited PRCA), inherited aplastic anemia (Fanconi, dyskeratosis congenita, Shwachman-Diamond).",
+      "qs": [
+        "MED-C22-12",
+        "MED-C22-13",
+        "MED-C22-14",
+        "MED-C22-15",
+        "MED-C22-16",
+        "MED-C22-17",
+        "MED-C22-18",
+        "MED-C22-19",
+        "MED-C22-20",
+        "MED-C22-21"
+      ]
+    },
+    {
+      "id": "MED-U22-3",
+      "ch": 22,
+      "n": 3,
+      "title": "AML Risk Factors: Germline/Syndromic Predisposition, Down Syndrome, Environmental & Hematological Diseases",
+      "sec": "AML Risk Factors: Germline/Syndromic Predisposition, Down Syndrome, Environmental & Hematological Diseases",
+      "guide": "Hereditary continued: germline susceptibility (very minimal familial inheritance: germline CEBPA, germline GATA2), Kostmann syndrome (congenital agranulocytosis), Noonan syndrome.\nDown syndrome: (a) Transient abnormal myelopoiesis — m/c hematological abnormality, seen at birth, resolves spontaneously in 2–3 months, d/t GATA-1 mutation; (b) AML — in 20%, within 4 years of age, megakaryocytic (M7) subtype, better prognosis than in a normal child.\nEnvironmental: radiation, benzene, smoking, drug-induced (alkylating agents after 5–6 yrs; topoisomerase II inhibitors after 1–3 yrs: etoposide). Hematological: MPNs (PCV, PMF, ET, CML), PNH, aplastic anemia (eosinophilic fasciitis), myeloma, 25% of MDS (10–19% blasts) → AML (20% blasts).",
+      "qs": [
+        "MED-C22-22",
+        "MED-C22-23",
+        "MED-C22-24",
+        "MED-C22-25",
+        "MED-C22-26",
+        "MED-C22-27",
+        "MED-C22-28",
+        "MED-C22-29",
+        "MED-C22-30"
+      ]
+    },
+    {
+      "id": "MED-U22-4",
+      "ch": 22,
+      "n": 4,
+      "title": "Classification of AML: FAB Subtypes, WHO (2016) & WHO-5 (2023) Categories, and Recurrent Genetic Abnormalities",
+      "sec": "Classification of AML: FAB Subtypes, WHO (2016) & WHO-5 (2023) Categories, and Recurrent Genetic Abnormalities",
+      "guide": "FAB classification (does not give prognosis): M2 myeloblast, M3 promyelocyte, M4 myelomonocyte, M5 monocyte, M6 erythroid, M7 megakaryocyte.\nWHO (2016): AML with recurrent genetic abnormalities (blasts ≥20%), AML–MDS related & AML–therapy related (M6) [both poor prognosis], AML–NOS (M2, M3, M4), myeloid sarcoma. Recurrent genetic abnormalities (blasts ≥20% not required): good prognosis = t(15;17)/t(PML;RARα) [APML], t(8;21)/t(RUNX1;RUNX1 as printed), t(16;16)/inv(16) [CBFβ], NPM-1, CEBPA; bad = t(BCR;ABL)/t(9;22); very bad = FLT3-ITD.\nWHO-5 (2023): 1. AML with recurrent genetic abnormalities (blasts ≥20% not required except CEBPA and t(BCR,ABL)), 2. AML–MDS, 3. AML–therapy related, 4. AML defined by differentiation (FAB). ICC classification: not used now.",
+      "qs": [
+        "MED-C22-31",
+        "MED-C22-32",
+        "MED-C22-33",
+        "MED-C22-34",
+        "MED-C22-35",
+        "MED-C22-36",
+        "MED-C22-37",
+        "MED-C22-38"
+      ]
+    },
+    {
+      "id": "MED-U22-5",
+      "ch": 22,
+      "n": 5,
+      "title": "Clinical Features of AML: Presenting Pancytopenia, Infections Note & Myeloid Sarcoma (Chloroma)",
+      "sec": "Clinical Features of AML: Presenting Pancytopenia, Infections Note & Myeloid Sarcoma (Chloroma)",
+      "guide": "Presenting features: acute presentation (3-month history); pancytopenia → m/c complication is abnormal bleeding d/t prominent thrombocytopenia (bruising, petechiae, epistaxis, gingival bleeds, excess menstrual bleeding) and anemia (pallor, fatigue, weakness, palpitation).\nANC is normal → only minor infection/pustules; no fever (no cytokine production)/lymphadenopathy; no hepatosplenomegaly; bone pains rare (m/c in ALL); life-threatening hemorrhage in APML; meningeal/cardiac/urogenital rare. Note: complex infections in aplastic anemia (profound neutropenia) and hairy cell leukemia (neutropenia, monocytopenia).\nMyeloid sarcoma/Chloroma: d/t extramedullary blast proliferation, uncommon, m/c site orbit, can occur independent of marrow involvement, associated with t(8;21), also in children; m/c cells myeloblast/monoblast (M4/M5) infiltrate gingiva (gum hypertrophy/gingivitis), liver, spleen, dental abscess, proctitis.",
+      "qs": [
+        "MED-C22-39",
+        "MED-C22-40",
+        "MED-C22-41",
+        "MED-C22-42",
+        "MED-C22-43",
+        "MED-C22-44",
+        "MED-C22-45"
+      ]
+    },
+    {
+      "id": "MED-U22-6",
+      "ch": 22,
+      "n": 6,
+      "title": "Skin Involvement (Leukemia Cutis vs Sweet Syndrome), Blood Picture & Myeloblast vs Promyelocyte Morphology",
+      "sec": "Skin Involvement (Leukemia Cutis vs Sweet Syndrome), Blood Picture & Myeloblast vs Promyelocyte Morphology",
+      "guide": "Skin involvement: Leukemia cutis (non-tender violaceous nodular lesions on extensor forearms; M4/M5 AML; Rx chemotherapy) vs Sweet syndrome (tender erythematous/violaceous papules/plaques with dermal neutrophilic infiltration + fever on face, neck; AML, post G-CSF, PMF; Rx steroids).\nBlood picture: normocytic normochromic anemia, platelets ↓↓ (<1 lac cells), total WBC count <4000 cells.\nMorphology: Myeloblast (large uniform blast, high N:C ratio, pale blue scanty cytoplasm + granules, 1–4 prominent nucleoli, Auer rods ⊕ M3 > M2, fine dispersed chromatin) vs Promyelocyte (larger cell, more visible granules, nucleoli absent, clustering of Auer rods = faggot cells, M3/promyelocytic leukemia).",
+      "qs": [
+        "MED-C22-46",
+        "MED-C22-47",
+        "MED-C22-48",
+        "MED-C22-49",
+        "MED-C22-50",
+        "MED-C22-51",
+        "MED-C22-52"
+      ]
+    },
+    {
+      "id": "MED-U22-7",
+      "ch": 22,
+      "n": 7,
+      "title": "AML Cytology Stains, Immunophenotyping CD Markers, Cytogenetics, Molecular Mutations & European Risk Stratification",
+      "sec": "AML Cytology Stains, Immunophenotyping CD Markers, Cytogenetics, Molecular Mutations & European Risk Stratification",
+      "guide": "Cytology: MPO (+), Sudan black (+), NSE (M4, M5, M7), PAS (M6, M7). Immunophenotyping: Myeloblast (CD11b, CD13, CD33, CD117, HLA-DR), Promyelocyte (CD13, CD33), Myelomonoblast (+CD14), Monoblast (+CD11c), Erythroid (glycophorin, spectrin), Megakaryocytic M7 (CD41, CD61).\nCytogenetics & mutations: t(8;21) RUNX1–RUNX1T1 (m/c, children, chloroma, M2, CD19+, good prognosis); t(16;16)/inv(16) (abnormal eosinophils = AML M4 Eo, organ infiltration, good prognosis); t(9;22) bad prognosis (except CML); c-Kit (in t(8;21)/t(16;16), bad prognosis); NPM1 (cup-shape blasts, good prognosis, m/c gene mutated); CEBPA (good prognosis, requires >20% blasts); FLT3-ITD (bad prognosis).\nEuropean risk stratification: Favourable = t(8;21), t(16;16), NPM1 without FLT3-ITD, CEBPA; Intermediate = no cytogenetic abnormalities; Unfavourable = all other mutations.",
+      "qs": [
+        "MED-C22-53",
+        "MED-C22-54",
+        "MED-C22-55",
+        "MED-C22-56",
+        "MED-C22-57",
+        "MED-C22-58",
+        "MED-C22-59",
+        "MED-C22-60",
+        "MED-C22-61"
+      ]
+    },
+    {
+      "id": "MED-U22-8",
+      "ch": 22,
+      "n": 8,
+      "title": "Bad Prognostic Factors, Treatment Risk Groups, 7+3 Induction Regimen, Post-Induction Care & Targeted Agents",
+      "sec": "Bad Prognostic Factors, Treatment Risk Groups, 7+3 Induction Regimen, Post-Induction Care & Targeted Agents",
+      "guide": "Bad prognostic factors: elderly age, high presenting WBC count, cytopenias (anemia, leucopenia, thrombocytopenia) >1 month before diagnosis, therapy-associated AML, MDS-associated AML, chromosomal translocations.\nTreatment risk groups: Standard = t(8;21), t(16;16), age <60 yrs, NPM1, CEBPA; High = all other cases. Induction (7+3 regimen, 2 cycles): Cytarabine 7 days continuous low-dose infusion + Daunorubicin I.V 3 days low dose (ECHO prior d/t cardiotoxicity).\nPost-treatment: marrow takes 10–14 days to regenerate → high infection risk (catheters, gut flora) → mortality; start antibiotics at first sign (tachycardia/tremors/fasciculations). Targeted: Midostaurin (oral FLT3-ITD inhibitor if FLT3-ITD+), Oral venetoclax (BCL-2 inhibitor, promotes apoptosis).",
+      "qs": [
+        "MED-C22-62",
+        "MED-C22-63",
+        "MED-C22-64",
+        "MED-C22-65",
+        "MED-C22-66",
+        "MED-C22-67",
+        "MED-C22-68"
+      ]
+    },
+    {
+      "id": "MED-U22-9",
+      "ch": 22,
+      "n": 9,
+      "title": "Post-Induction Bone Marrow & MRD Evaluation, Consolidation Phase, Regimens in Unfit/Elderly, New Drugs & APML Intro",
+      "sec": "Post-Induction Bone Marrow & MRD Evaluation, Consolidation Phase, Regimens in Unfit/Elderly, New Drugs & APML Intro",
+      "guide": "Evaluation after 2 induction cycles: Blast % (<5% → hematological remission, risk of relapse +; >5% → refractory AML, inevitable death) and MRD (<0.01% blasts in marrow → MRD– → consolidation; >0.01% → MRD+ → bad prognosis).\nConsolidation: 1. Allogenic HSCT (indication: MRD–); 2. High-dose cytarabine (indication: standard risk with MRD–; transplant not mandatory). Unfit/elderly for 7+3: hypomethylating agents (azacitidine, decitabine) + venetoclax (BCL-2 inhibitor).\nNew drugs: Gemtuzumab–Ozogamicin (anti-CD33), Ivosidenib (IDH inhibitor). APML (AML M3) intro: young patient with bleeding & pancytopenia, t(15;17)/t(PML;RARα), good prognosis with treatment, smear shows hypergranular myeloblasts (as printed).",
+      "qs": [
+        "MED-C22-69",
+        "MED-C22-70",
+        "MED-C22-71",
+        "MED-C22-72",
+        "MED-C22-73",
+        "MED-C22-74"
+      ]
+    },
+    {
+      "id": "MED-U22-10",
+      "ch": 22,
+      "n": 10,
+      "title": "APML (AML M3): DIC Pathogenesis, Hypergranular vs Hypogranular Types, Sanz Criteria & Differentiation Syndrome",
+      "sec": "APML (AML M3): DIC Pathogenesis, Hypergranular vs Hypogranular Types, Sanz Criteria & Differentiation Syndrome",
+      "guide": "Pathogenesis: promyelocyte granules contain thromboplastin → activates extrinsic cascade → DIC → early mortality from severe hemorrhage (medical emergency). Note: cells abundant in marrow but few in blood; start ATRA early if suspected; ↑ TF expression.\nTypes: Hypergranular (2/3, low WBC, faggot cells +, dark large granules, dumbbell-shaped bilobed nucleus) vs Hypogranular (1/3, high WBC, faggot cells –, few granules, butterfly-shaped bilobed nucleus).\nSans (Sanz) risk criteria: Low risk (WBC <10,000, platelets >40,000 → ATRA + arsenic trioxide, good prognosis) vs High risk (WBC >10,000, platelets <40,000 → ATRA + arsenic trioxide + idarubicin). APML differentiation syndrome (10 days post therapy): rapid count rise, fever, edema, pleural effusion, weight gain, lung infiltrates/dyspnea d/t cell adhesion to vascular epithelium & cytokine release; Rx I.V dexamethasone.",
+      "qs": [
+        "MED-C22-75",
+        "MED-C22-76",
+        "MED-C22-77",
+        "MED-C22-78",
+        "MED-C22-79",
+        "MED-C22-80",
+        "MED-C22-81"
+      ]
+    }
+  ]
+}
