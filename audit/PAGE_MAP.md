@@ -8,6 +8,7 @@
 Formula: 01.pdf Book p = PDF page -12; 02.pdf Book p = PDF page +117; 03.pdf Book p = PDF page +247
 
 Chapter 1: 01.pdf PDF13-17 = p1-5. The audited run through Chapter 18 (p1–106) is 01.pdf PDF13–118.
+The audited run through Chapter 21 (p1–125) continues 01.pdf PDF119–129 (p107–117) and 02.pdf PDF1–8 (p118–125).
 
 ## Chapter sheet coverage verified (01.pdf)
 
@@ -31,4 +32,11 @@ Chapter 1: 01.pdf PDF13-17 = p1-5. The audited run through Chapter 18 (p1–106)
 | 16 | Immune Mediated Hemolytic Anemia | 92–96 | PDF104–108 |
 | 17 | Non-Immune Mediated Hemolytic Anemia | 97–102 | PDF109–114 |
 | 18 | Hemolytic Anemia : Miscellaneous | 103–106 | PDF115–118 |
-| 19 (next) | Myeloproliferative Neoplasms : Part 1 | 107 | PDF119 |
+| 19 | Myeloproliferative Neoplasms : Part 1 | 107–115 | 01.pdf PDF119–127 |
+| 20 | Myeloproliferative Neoplasms : Part 2 | 116–120 | 01.pdf PDF128–129 + 02.pdf PDF1–3 |
+| 21 | Bone Marrow Failure Syndromes | 121–125 | 02.pdf PDF4–8 |
+| 22 (next) | Acute Leukemia | 126 | 02.pdf PDF9 |
+
+Note (Ch 20): the Contents pages print 118, but the scanned heading "MYELOPROLIFERATIVE NEOPLASMS : PART 2"
+and the CML pathophysiology that follows it begin on Book p116; the scan is ground truth and the app
+roadmap starts Chapter 20 at 116.

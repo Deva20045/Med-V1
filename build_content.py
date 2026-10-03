@@ -38,7 +38,10 @@ CHAPTERS = [
     (17, "Non-Immune Mediated Hemolytic Anemia", 97),
     (18, "Hemolytic Anemia : Miscellaneous", 103),
     (19, "Myeloproliferative Neoplasms : Part 1", 107),
-    (20, "Myeloproliferative Neoplasms : Part 2", 118),
+    # Contents pages print 118, but the scanned chapter heading
+    # "MYELOPROLIFERATIVE NEOPLASMS : PART 2" (and the CML pathophysiology
+    # that follows it) starts on Book p116; the scan is ground truth.
+    (20, "Myeloproliferative Neoplasms : Part 2", 116),
     (21, "Bone Marrow Failure Syndromes", 121),
     (22, "Acute Leukemia", 126),
     (23, "Acute Myeloid Leukemia V/S Acute Lymphoblastic Leukemia", 136),

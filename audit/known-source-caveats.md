@@ -1,4 +1,4 @@
-# Source caveats and transcription decisions — Book p46–106
+# Source caveats and transcription decisions — Book p46–125
 
 This companion follows the scanned *PULSE Medicine Vol 1*, Marrow Edition 8, page by page. Questions that reproduce a source statement are labelled as such; they are not independent clinical recommendations. The standalone app carries a matching study-only disclaimer.
 
@@ -23,6 +23,17 @@ This companion follows the scanned *PULSE Medicine Vol 1*, Marrow Edition 8, pag
 | 104 | Under the Osmotic fragility test principle, the scan prints “(N) : Rupture of RBC in ≥ 0.7% saline” and “HS : Rupture at 0.3% → Fragile RBCs”. | Explicitly labelled as the printed text on p104 alongside the test's low sensitivity/specificity and “not used” status. |
 | 105 | Under G6PD precipitating drugs, high-dose aspirin is printed as “>3g/dl”. | Preserved as printed alongside “> 3 g/day” clarification in the option and explanation. |
 | 106 | In the triangle diagram at the bottom of p106 under Blood loss, the third vertex is printed as “DIC (Hypercoagulability)” with Hypothermia and Acidosis. | Cited as printed (“DIC (printed with Hypercoagulability)”) in the question and explanation. |
+| 108 | The polycythemia screening table is handwritten: Hb (gm%) ≥16.5 / PCV 49 for males and ≥16 / 48 for females. | Verified visually at 30x render; OCR garbles the “≥” glyphs. Tested exactly as verified. |
+| 109 | The EPO row label of the primary-versus-secondary table is handwritten “EPO (mIU/mL)”; values: EPO normal-to-low (PCRV) vs increased (secondary), TC/PLC increased (PCRV) vs normal (secondary). | Encoded as a bijective match with combined TC/PLC entries; tested as printed. |
+| 115 | ET high-risk criterion prints platelets “>1.5 × 10⁶” (handwritten exponent). | Kept as printed with the exponent noted; not reinterpreted to conventional units. |
+| 116 | The translocation is described as “Balanced reciprocal (pair) translocation” (scan prints the parenthetical partly garbled). | Tested as “balanced reciprocal (pair) translocation”; the 100% (myeloid > B > T) and 95% (Ph) figures kept distinct. |
+| 117 | “If WBC > 2 lakh → symptoms of hyperviscosity” and “High dose ionizing radiation (6–8 years)” are handwritten. | Verified visually; tested as printed. |
+| 120 | TKI doses/side effects are handwritten (imatinib 400 mg / 600–800 mg; bosutinib 500 mg/day colitis; nilotinib 300 mg BD peripheral vascular disease + pancreatitis; dasatinib 100 mg/day effusions + pulmonary hypertension; ponatinib 45 mg/day; asciminib “–”). | Verified by visual reading of the table; reproduced as source study, not prescribing guidance. |
+| 121 | Under the Aplastic Anemia heading the scan prints “Pancytopenia with hypercellular marrow.” | Printed slip: the same page’s flowchart places aplastic anemia under the hypocellular arm and p123 prints “hypocellular bone marrow with fat cells.” A question flags the slip and asks the correct (hypocellular) assignment. |
+| 121 | Bimodal ages handwritten as inherited <20 yrs / acquired >60 yrs; “bad prognosis” appears as a bare bullet. | Verified visually; both kept as printed. |
+| 123 | Severe aplastic anemia thresholds are handwritten: Hb <9 g/dl, reticulocyte <30.0 × 10⁹/L, ANC <0.5 × 10⁹/L, platelet <30.0 × 10⁹/L. | Verified visually at 24x render; they differ from commonly quoted Camitta-style values but are tested exactly as printed. |
+| 124 | MDS “Progresses to AML (25%)” and India age “40–60 yrs (D/t 5q deletion)” are handwritten. | Verified visually; tested as printed. |
+| 125 | Prognostic tiers print poor = 7q deletion/monosomy 7 (paediatric MDS), good = 5q/20q deletion, best = 11q deletion. | Kept as printed; “11q” read from the handwritten “llq”. |
 
 ## General use note
 

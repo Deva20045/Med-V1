@@ -1,0 +1,891 @@
+{
+  "chapter": 21,
+  "title": "Bone Marrow Failure Syndromes",
+  "pageRange": "121-125",
+  "questions": [
+    {
+      "id": "MED-C21-01",
+      "sec": "Approach to Pancytopenia: Marrow Cellularity Flowchart & Aplastic Anemia Overview",
+      "page": 121,
+      "fmt": "recall",
+      "q": "Which four diseases head the Bone Marrow Failure Syndromes chapter on page 121?",
+      "opts": [
+        "Aplastic anemia, myelodysplastic syndrome/neoplasia (MDS), pure red cell aplasia, and myelophthisis (secondary myelofibrosis)",
+        "Aplastic anemia, CML, PNH and hairy cell leukemia",
+        "MDS, PMF, ET and PCRV",
+        "Pure red cell aplasia, thymoma, PRCA of childhood and Diamond-Blackfan anemia"
+      ],
+      "ans": 0,
+      "exp": "The diseases list prints aplastic anemia, myelodysplastic syndrome/neoplasia (MDS), pure red cell aplasia, and myelophthisis (secondary myelofibrosis). (Book p121)"
+    },
+    {
+      "id": "MED-C21-02",
+      "sec": "Approach to Pancytopenia: Marrow Cellularity Flowchart & Aplastic Anemia Overview",
+      "page": 121,
+      "fmt": "fillup",
+      "q": "Myelophthisis on page 121 is also labelled secondary ______.",
+      "opts": [
+        "myelofibrosis",
+        "osteosclerosis",
+        "hematopoiesis",
+        "marrow infiltration by lymphoma"
+      ],
+      "ans": 0,
+      "exp": "The diseases list prints myelophthisis (secondary myelofibrosis). (Book p121)"
+    },
+    {
+      "id": "MED-C21-03",
+      "sec": "Approach to Pancytopenia: Marrow Cellularity Flowchart & Aplastic Anemia Overview",
+      "page": 121,
+      "fmt": "recall",
+      "q": "In the page 121 approach-to-pancytopenia flowchart, what is the first step and its branching variable?",
+      "opts": [
+        "Bone marrow aspiration + biopsy, branching on cellularity of marrow (hypercellular versus hypocellular)",
+        "Flow cytometry first, branching on CD55/CD59",
+        "Serum B12/folate first, branching on reticulocyte count",
+        "Peripheral smear first, branching on MCV"
+      ],
+      "ans": 0,
+      "exp": "The flowchart runs bone marrow aspiration + biopsy → cellularity of marrow → hypercellular marrow versus hypocellular marrow arms. (Book p121)"
+    },
+    {
+      "id": "MED-C21-04",
+      "sec": "Approach to Pancytopenia: Marrow Cellularity Flowchart & Aplastic Anemia Overview",
+      "page": 121,
+      "fmt": "match",
+      "q": "Match each hypercellular-marrow cause on page 121 with its printed note — 1) Acute leukemia 2) Hairy cell leukemia 3) Megaloblastic anemia 4) Paroxysmal nocturnal hemoglobinuria … A) Unless proven otherwise (in adults AML 80%, ALL 20%) B) Good prognosis; pancytopenia + massive splenomegaly C) Good prognosis D) Listed as item 6 of the hypercellular arm",
+      "opts": [
+        "1-C, 2-B, 3-A, 4-D",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-A, 2-C, 3-B, 4-D",
+        "1-B, 2-A, 3-C, 4-D"
+      ],
+      "ans": 1,
+      "exp": "The hypercellular arm prints acute leukemia (unless proven otherwise; adults AML 80%, ALL 20%), MDS, PMF, hairy cell leukemia (good prognosis; pancytopenia + massive splenomegaly), megaloblastic anemia (good prognosis), PNH and systemic causes. (Book p121)"
+    },
+    {
+      "id": "MED-C21-05",
+      "sec": "Approach to Pancytopenia: Marrow Cellularity Flowchart & Aplastic Anemia Overview",
+      "page": 121,
+      "fmt": "recall",
+      "q": "Which systemic causes of a hypercellular marrow does page 121 list under item 7?",
+      "opts": [
+        "SLE, HIV, EBV, CMV and toxoplasmosis",
+        "SLE, HIV, typhoid, malaria and histoplasmosis",
+        "SLE, HIV, TB, brucellosis, leishmaniasis and sarcoidosis",
+        "Rheumatoid arthritis, Sjögren's, TB and brucellosis"
+      ],
+      "ans": 2,
+      "exp": "Item 7 prints systemic : SLE, HIV, TB, brucellosis, leishmaniasis, sarcoidosis. (Book p121)"
+    },
+    {
+      "id": "MED-C21-06",
+      "sec": "Approach to Pancytopenia: Marrow Cellularity Flowchart & Aplastic Anemia Overview",
+      "page": 121,
+      "fmt": "recall",
+      "q": "List the causes printed under the hypocellular marrow arm with pancytopenia (+) on page 121.",
+      "opts": [
+        "Aplastic anemia, 80% of MDS cases, hairy cell leukemia and PNH",
+        "Acute leukemia, MDS, PMF and megaloblastic anemia",
+        "Aplastic anemia, 20% of MDS cases, aleukemic leukemia, copper deficiency and lymphoma",
+        "Q fever, Legionella, anorexia and TB"
+      ],
+      "ans": 2,
+      "exp": "The + pancytopenia branch lists aplastic anemia, 20% of MDS cases, aleukemic leukemia, copper deficiency and lymphoma. (Book p121)"
+    },
+    {
+      "id": "MED-C21-07",
+      "sec": "Approach to Pancytopenia: Marrow Cellularity Flowchart & Aplastic Anemia Overview",
+      "page": 121,
+      "fmt": "recall",
+      "q": "Which causes sit under the hypocellular marrow arm with ± pancytopenia on page 121?",
+      "opts": [
+        "Copper deficiency, lymphoma, aplastic anemia and MDS",
+        "Hepatitis viruses, EBV, CMV and parvovirus",
+        "Q fever, Legionella, anorexia and TB",
+        "SLE, HIV, brucellosis and sarcoidosis"
+      ],
+      "ans": 2,
+      "exp": "The ± pancytopenia branch prints Q fever, Legionella, anorexia and TB. (Book p121)"
+    },
+    {
+      "id": "MED-C21-08",
+      "sec": "Approach to Pancytopenia: Marrow Cellularity Flowchart & Aplastic Anemia Overview",
+      "page": 121,
+      "fmt": "recall",
+      "q": "What two one-liners does page 121 print for PMF and hairy cell leukemia in the pancytopenia approach?",
+      "opts": [
+        "PMF : pancytopenia + lymphadenopathy; hairy cell : pancytopenia + skin lesions",
+        "PMF : leukoerythroblastosis + thrombocytosis; hairy cell : monocytopenia only",
+        "PMF : pancytopenia + osteosclerosis; hairy cell : pancytopenia + hepatomegaly",
+        "PMF : pancytopenia + fibrosis; hairy cell leukemia : pancytopenia + massive splenomegaly"
+      ],
+      "ans": 3,
+      "exp": "The footer prints PMF : Pancytopenia + Fibrosis and hairy cell leukemia : Pancytopenia + massive splenomegaly. (Book p121)"
+    },
+    {
+      "id": "MED-C21-09",
+      "sec": "Approach to Pancytopenia: Marrow Cellularity Flowchart & Aplastic Anemia Overview",
+      "page": 121,
+      "fmt": "recall",
+      "q": "Page 121 prints 'Pancytopenia with hypercellular marrow' under the aplastic anemia heading. How does the rest of the book define the aplastic anemia marrow?",
+      "opts": [
+        "Normocellular marrow with dysplasia",
+        "Hypocellular marrow — the same page's flowchart sends aplastic anemia down the hypocellular arm, and page 123 prints 'hypocellular bone marrow with fat cells'; the p121 line is a printed slip",
+        "Hypercellular marrow with fibrosis as printed",
+        "Hypercellular marrow packed with blasts"
+      ],
+      "ans": 1,
+      "exp": "The p121 bullet prints 'hypercellular' as a slip; the flowchart on the same page places aplastic anemia under hypocellular marrow (+ pancytopenia), and p123 confirms a hypocellular bone marrow with fat cells. (Book p121)"
+    },
+    {
+      "id": "MED-C21-10",
+      "sec": "Approach to Pancytopenia: Marrow Cellularity Flowchart & Aplastic Anemia Overview",
+      "page": 121,
+      "fmt": "recall",
+      "q": "What bimodal age distribution does page 121 give for aplastic anemia?",
+      "opts": [
+        "Inherited < 10 years, acquired > 40 years",
+        "Inherited < 20 years, acquired > 60 years",
+        "Inherited < 30 years, acquired > 70 years",
+        "Inherited < 20 years, acquired 20–40 years"
+      ],
+      "ans": 1,
+      "exp": "The line prints bimodal age distribution (inherited < 20 yrs, acquired > 60 yrs), verified visually from the scan. (Book p121)"
+    },
+    {
+      "id": "MED-C21-11",
+      "sec": "Approach to Pancytopenia: Marrow Cellularity Flowchart & Aplastic Anemia Overview",
+      "page": 121,
+      "fmt": "recall",
+      "q": "Which cause and infection labels, and which prognosis note, does page 121 print for aplastic anemia?",
+      "opts": [
+        "m/c cause : idiopathic (bad prognosis); m/c infection : EBV; good prognosis note",
+        "m/c cause : radiation; m/c infection : hepatitis B; variable prognosis",
+        "m/c cause : drug dependent (good prognosis); m/c infection : non-A, non-B hepatitis; and a 'bad prognosis' note as printed",
+        "m/c cause : drug dependent (bad prognosis); m/c infection : HIV; good prognosis note"
+      ],
+      "ans": 2,
+      "exp": "The bullets print m/c cause drug dependent (good prognosis), m/c infection non-A, non-B hepatitis, and a bare 'bad prognosis' line as printed (attached to the idiopathic setting in teaching). (Book p121)"
+    },
+    {
+      "id": "MED-C21-12",
+      "sec": "Approach to Pancytopenia: Marrow Cellularity Flowchart & Aplastic Anemia Overview",
+      "page": 121,
+      "fmt": "oddoneout",
+      "q": "The page 121 hypercellular-marrow arm lists several causes. Pick the ODD ONE OUT — the one NOT in that arm:",
+      "opts": [
+        "Megaloblastic anemia",
+        "Primary myelofibrosis",
+        "Paroxysmal nocturnal hemoglobinuria",
+        "Aplastic anemia"
+      ],
+      "ans": 3,
+      "exp": "Aplastic anemia sits under the hypocellular (+ pancytopenia) arm; megaloblastic anemia, PNH and PMF are hypercellular-arm items. (Book p121)"
+    },
+    {
+      "id": "MED-C21-13",
+      "sec": "Inherited vs Acquired Aplastic Anemia: Fanconi, Dyskeratosis Congenita, Shwachman-Diamond",
+      "page": 122,
+      "fmt": "match",
+      "q": "Match each inherited aplastic anemia with its printed defect on page 122 — 1) Fanconi's anemia 2) Dyskeratosis congenita 3) Shwachman-Diamond syndrome … A) Autosomal recessive; FANCA > FANCB, FANCC; complex DNA-repair defect B) DKC mutation; telomere repair defect C) Ribosomopathy",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "The classification prints Fanconi's anemia (autosomal recessive, FANCA > FANCB/FANCC, complex repair defect), dyskeratosis congenita (DKC mutation, telomere repair) and Shwachman-Diamond syndrome (ribosomopathy). (Book p122)"
+    },
+    {
+      "id": "MED-C21-14",
+      "sec": "Inherited vs Acquired Aplastic Anemia: Fanconi, Dyskeratosis Congenita, Shwachman-Diamond",
+      "page": 122,
+      "fmt": "recall",
+      "q": "Which features of Fanconi's anemia are printed on page 122?",
+      "opts": [
+        "Tall stature, hypopigmented macules, gonadal hypertrophy, ↑ risk of CML",
+        "Normal stature, reticular pigmentation, dystrophic nails, oral leukoplakia",
+        "Short stature, café au lait macules, renal agenesis only, ↑ risk of lymphoma",
+        "Short stature, café au lait macules, gonadal dysgenesis, ↑ risk of AML and SCC (head & neck), and esophageal atresia"
+      ],
+      "ans": 3,
+      "exp": "The Fanconi features list prints short stature, café au lait macules, gonadal dysgenesis, ↑ risk of AML & SCC (head neck), and esophageal atresia. (Book p122)"
+    },
+    {
+      "id": "MED-C21-15",
+      "sec": "Inherited vs Acquired Aplastic Anemia: Fanconi, Dyskeratosis Congenita, Shwachman-Diamond",
+      "page": 122,
+      "fmt": "match",
+      "q": "Match the Fanconi image panels on page 122 with what each shows — 1) Panel A 2) Panel B 3) Panel C … A) Facial photograph with café au lait pigmentation B) Hand photograph with thumb/radial ray anomaly C) Chromosome breakage figure",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 3,
+      "exp": "The printed Fanconi panel shows A the facies with pigmentation, B the hand with a radial-ray/thumb anomaly and C the chromosome breakage karyotype figure. (Book p122)"
+    },
+    {
+      "id": "MED-C21-16",
+      "sec": "Inherited vs Acquired Aplastic Anemia: Fanconi, Dyskeratosis Congenita, Shwachman-Diamond",
+      "page": 122,
+      "fmt": "recall",
+      "q": "Which two dyskeratosis congenita photographs carry printed captions on page 122, and what do they show?",
+      "opts": [
+        "Nail pitting and alopecia",
+        "Oral leukoplakia and palmoplantar keratosis",
+        "Reticular skin pigmentation and dystrophic nails",
+        "Café au lait macules and absent radii"
+      ],
+      "ans": 2,
+      "exp": "The captioned DC photographs are 'Reticular skin pigmentation' and 'Dystrophic nails'. (Book p122)"
+    },
+    {
+      "id": "MED-C21-17",
+      "sec": "Inherited vs Acquired Aplastic Anemia: Fanconi, Dyskeratosis Congenita, Shwachman-Diamond",
+      "page": 122,
+      "fmt": "recall",
+      "q": "Which two features define Shwachman-Diamond syndrome on page 122?",
+      "opts": [
+        "Exocrine insufficiency and cortical bone sclerosis",
+        "Pancreatic exocrine insufficiency and metaphyseal dysplasia",
+        "Intestinal lymphangiectasia and metaphyseal chondrodysplasia",
+        "Pancreatic endocrine failure and epiphyseal dysplasia"
+      ],
+      "ans": 1,
+      "exp": "The syndrome (a ribosomopathy) prints pancreatic exocrine insufficiency and metaphyseal dysplasia. (Book p122)"
+    },
+    {
+      "id": "MED-C21-18",
+      "sec": "Inherited vs Acquired Aplastic Anemia: Fanconi, Dyskeratosis Congenita, Shwachman-Diamond",
+      "page": 122,
+      "fmt": "recall",
+      "q": "List the acquired aplastic anemia causes printed on page 122, naming the most common.",
+      "opts": [
+        "Idiopathic (m/c), drugs, toxins (benzene), virus (HIV), others (hypothyroidism)",
+        "Idiopathic (m/c), drugs, toxins (benzene), virus (non-A, B, C hepatitis virus), others (PNH), and autoimmune eosinophilic fasciitis (scleroderma mimic)",
+        "Drugs (m/c), idiopathic, toxins (arsenic), virus (hepatitis B), others (PNH)",
+        "Idiopathic (m/c), radiation, toxins (lead), virus (EBV), others (SLE)"
+      ],
+      "ans": 1,
+      "exp": "Causes print idiopathic (m/c), drugs, toxins : benzene, virus : non-A, B, C hepatitis virus, others : PNH, and autoimmune : eosinophilic fasciitis (scleroderma mimic). (Book p122)"
+    },
+    {
+      "id": "MED-C21-19",
+      "sec": "Inherited vs Acquired Aplastic Anemia: Fanconi, Dyskeratosis Congenita, Shwachman-Diamond",
+      "page": 122,
+      "fmt": "oddoneout",
+      "q": "Page 122 lists inherited aplastic anemias. Pick the ODD ONE OUT — the syndrome NOT on that printed list:",
+      "opts": [
+        "Fanconi's anemia",
+        "Dyskeratosis congenita",
+        "Shwachman-Diamond syndrome",
+        "Diamond-Blackfan anemia"
+      ],
+      "ans": 3,
+      "exp": "The inherited column prints Fanconi's anemia, dyskeratosis congenita and Shwachman-Diamond syndrome; Diamond-Blackfan anemia is not listed there. (Book p122)"
+    },
+    {
+      "id": "MED-C21-20",
+      "sec": "Inherited vs Acquired Aplastic Anemia: Fanconi, Dyskeratosis Congenita, Shwachman-Diamond",
+      "page": 122,
+      "fmt": "truefalse",
+      "q": "Judge the page 122 classification statements as printed.",
+      "opts": [
+        "True — Fanconi's anemia is autosomal recessive with FANCA mutations outnumbering FANCB/FANCC",
+        "False — Shwachman-Diamond syndrome is described as a ribosomopathy",
+        "True — Eosinophilic fasciitis, a scleroderma mimic, is listed among autoimmune acquired causes",
+        "False — Dyskeratosis congenita is linked to a DKC mutation with defective telomere repair"
+      ],
+      "ans": 0,
+      "exp": "All printed facts hold, so the 'False' framings contradict page 122. (Book p122)"
+    },
+    {
+      "id": "MED-C21-21",
+      "sec": "Inherited vs Acquired Aplastic Anemia: Fanconi, Dyskeratosis Congenita, Shwachman-Diamond",
+      "page": 122,
+      "fmt": "recall",
+      "q": "Which malignancies does page 122 say are increased in Fanconi's anemia?",
+      "opts": [
+        "AML and esophageal adenocarcinoma",
+        "CML and adenocarcinoma of the stomach",
+        "ALL and hepatoblastoma",
+        "AML and squamous cell carcinoma of the head & neck"
+      ],
+      "ans": 3,
+      "exp": "The line prints ↑ risk of AML & SCC (head neck); esophageal atresia is a separate feature bullet. (Book p122)"
+    },
+    {
+      "id": "MED-C21-22",
+      "sec": "Drugs Causing Aplastic Anemia, Presentation, Severity Criteria & Treatment",
+      "page": 123,
+      "fmt": "match",
+      "q": "Match each drug with its printed aplastic-anemia category on page 123 — 1) Busulfan 2) Chloramphenicol 3) Gold 4) D-penicillamine … A) Anticancer drug — dose dependent, temporary myelosuppression B) Dose-independent antibiotic C) Dose-independent metal therapy D) Dose-independent chelating agent",
+      "opts": [
+        "1-A, 2-C, 3-B, 4-D",
+        "1-D, 2-B, 3-C, 4-A",
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-C, 4-D"
+      ],
+      "ans": 3,
+      "exp": "The dose-dependent column lists anticancer drugs (fluorouracil, mercaptopurine, doxorubicin, cyclophosphamide, busulfan) causing temporary myelosuppression; chloramphenicol, sulfonamides, gold, acetazolamide, PTU and D-penicillamine sit in the dose-independent column. (Book p123)"
+    },
+    {
+      "id": "MED-C21-23",
+      "sec": "Drugs Causing Aplastic Anemia, Presentation, Severity Criteria & Treatment",
+      "page": 123,
+      "fmt": "oddoneout",
+      "q": "Page 123's dose-dependent (anticancer) column causes temporary myelosuppression. Pick the ODD ONE OUT — the drug NOT in that column:",
+      "opts": [
+        "Fluorouracil",
+        "Cyclophosphamide",
+        "Chloramphenicol",
+        "Mercaptopurine"
+      ],
+      "ans": 2,
+      "exp": "Chloramphenicol is printed in the dose-independent column; fluorouracil, mercaptopurine, doxorubicin (Donorubicin as printed), cyclophosphamide and busulfan are the anticancer dose-dependent list. (Book p123)"
+    },
+    {
+      "id": "MED-C21-24",
+      "sec": "Drugs Causing Aplastic Anemia, Presentation, Severity Criteria & Treatment",
+      "page": 123,
+      "fmt": "recall",
+      "q": "What order of clinical presentation does page 123 print for aplastic anemia?",
+      "opts": [
+        "Anemia (m/c) > infection > bleeding",
+        "Bleeding (m/c) > anemia > infection",
+        "Infection (m/c) > bleeding > anemia",
+        "Bleeding (m/c) > infection > anemia"
+      ],
+      "ans": 1,
+      "exp": "Clinical presentation prints bleeding (m/c) > anemia > infection. (Book p123)"
+    },
+    {
+      "id": "MED-C21-25",
+      "sec": "Drugs Causing Aplastic Anemia, Presentation, Severity Criteria & Treatment",
+      "page": 123,
+      "fmt": "recall",
+      "q": "Which findings argue against a diagnosis of aplastic anemia per page 123?",
+      "opts": [
+        "Hepatomegaly, splenomegaly, lymphadenopathy and fever",
+        "Pallor, bruising and petechiae",
+        "Mucosal bleeding with a normal spleen",
+        "Pancytopenia with a hypocellular marrow"
+      ],
+      "ans": 0,
+      "exp": "The line prints 'Features against diagnosis of aplastic anemia : Hepatomegaly, splenomegaly, lymphadenopathy, fever'. (Book p123)"
+    },
+    {
+      "id": "MED-C21-26",
+      "sec": "Drugs Causing Aplastic Anemia, Presentation, Severity Criteria & Treatment",
+      "page": 123,
+      "fmt": "recall",
+      "q": "State all four severe-aplastic-anemia blood-count thresholds exactly as printed on page 123.",
+      "opts": [
+        "Hb <9 g/dL; reticulocyte <60.0 × 10⁹/L; ANC <0.5 × 10⁹/L; platelet <50.0 × 10⁹/L",
+        "Hb <7 g/dL; reticulocyte <20.0 × 10⁹/L; ANC <1.0 × 10⁹/L; platelet <20.0 × 10⁹/L",
+        "Hb <9 g/dL; reticulocyte <30.0 × 10⁹/L; absolute neutrophil count <0.5 × 10⁹/L; platelet <30.0 × 10⁹/L",
+        "Hb <10 g/dL; reticulocyte <30.0 × 10⁹/L; ANC <1.5 × 10⁹/L; platelet <30.0 × 10⁹/L"
+      ],
+      "ans": 2,
+      "exp": "The severe bracket prints Hb <9 g/dl, reticulocyte <30.0 × 10⁹/L, ANC <0.5 × 10⁹/L and platelet <30.0 × 10⁹/L (values verified visually as printed) → Rx : AHSCT. (Book p123)"
+    },
+    {
+      "id": "MED-C21-27",
+      "sec": "Drugs Causing Aplastic Anemia, Presentation, Severity Criteria & Treatment",
+      "page": 123,
+      "fmt": "recall",
+      "q": "What treatment does the severe bracket on page 123 point to?",
+      "opts": [
+        "Equine ATG alone",
+        "AHSCT (allogeneic hematopoietic stem cell transplant)",
+        "Cyclosporine alone",
+        "Eltrombopag monotherapy"
+      ],
+      "ans": 1,
+      "exp": "The brace of severe criteria points to 'Rx : AHSCT'. (Book p123)"
+    },
+    {
+      "id": "MED-C21-28",
+      "sec": "Drugs Causing Aplastic Anemia, Presentation, Severity Criteria & Treatment",
+      "page": 123,
+      "fmt": "recall",
+      "q": "Describe the bone marrow picture printed for aplastic anemia on page 123.",
+      "opts": [
+        "Hypocellular marrow with gelatinous transformation only",
+        "Hypercellular marrow with fibrosis",
+        "Normocellular marrow with increased megakaryocytes",
+        "Hypocellular bone marrow with fat cells"
+      ],
+      "ans": 3,
+      "exp": "The image caption prints 'Hypocellular bone marrow with fat cells'. (Book p123)"
+    },
+    {
+      "id": "MED-C21-29",
+      "sec": "Drugs Causing Aplastic Anemia, Presentation, Severity Criteria & Treatment",
+      "page": 123,
+      "fmt": "recall",
+      "q": "State the printed first-line immunosuppressive regimen for aplastic anemia with its time to action and success rate.",
+      "opts": [
+        "Methylprednisolone + cyclosporine; 6 months; 50%",
+        "Rabbit ATG + tacrolimus; 3 months; 70%",
+        "Equine ATG + cyclosporine; time to action 6 months; success rate 50%",
+        "Equine ATG + cyclosporine; 6 weeks; 90%"
+      ],
+      "ans": 2,
+      "exp": "Treatment prints equine ATG + cyclosporine with time to action 6 months and success rate 50%. (Book p123)"
+    },
+    {
+      "id": "MED-C21-30",
+      "sec": "Drugs Causing Aplastic Anemia, Presentation, Severity Criteria & Treatment",
+      "page": 123,
+      "fmt": "recall",
+      "q": "Which thrombopoietic analogue is listed in the page 123 treatment of aplastic anemia?",
+      "opts": [
+        "Luspatercept",
+        "Eltrombopag",
+        "Danazol",
+        "Romiplostim"
+      ],
+      "ans": 1,
+      "exp": "The last bullet prints eltrombopag : thrombopoietic analogue. (Book p123)"
+    },
+    {
+      "id": "MED-C21-31",
+      "sec": "Drugs Causing Aplastic Anemia, Presentation, Severity Criteria & Treatment",
+      "page": 123,
+      "fmt": "numeric",
+      "q": "What success rate does page 123 quote for equine ATG + cyclosporine in aplastic anemia?",
+      "opts": [
+        "90%",
+        "70%",
+        "30%",
+        "50%"
+      ],
+      "ans": 3,
+      "exp": "The line prints 'Success rate : 50%'. (Book p123)"
+    },
+    {
+      "id": "MED-C21-32",
+      "sec": "Drugs Causing Aplastic Anemia, Presentation, Severity Criteria & Treatment",
+      "page": 123,
+      "fmt": "truefalse",
+      "q": "Assess the page 123 statements as printed.",
+      "opts": [
+        "False — Severe disease (per the printed thresholds) is directed to AHSCT",
+        "False — The marrow in aplastic anemia is hypocellular with fat cells",
+        "True — Bleeding is the most common presentation of aplastic anemia, ahead of anemia and infection",
+        "True — Hepatomegaly, splenomegaly, lymphadenopathy and fever are features against the diagnosis"
+      ],
+      "ans": 2,
+      "exp": "All printed facts hold, so the 'False' framings contradict page 123. (Book p123)"
+    },
+    {
+      "id": "MED-C21-33",
+      "sec": "Pure Red Cell Aplasia & MDS Overview: Global Versus India Presentation",
+      "page": 124,
+      "fmt": "recall",
+      "q": "Which acquired causes of pure red cell aplasia does page 124 print?",
+      "opts": [
+        "Thymoma and SLE only",
+        "Thymoma and CLL",
+        "Hodgkin's disease and CLL",
+        "Thymoma and CML"
+      ],
+      "ans": 1,
+      "exp": "Causes print thymoma/CLL (acquired). (Book p124)"
+    },
+    {
+      "id": "MED-C21-34",
+      "sec": "Pure Red Cell Aplasia & MDS Overview: Global Versus India Presentation",
+      "page": 124,
+      "fmt": "recall",
+      "q": "How does page 124 describe transient aplastic crisis, its smear and its treatment?",
+      "opts": [
+        "Sudden thrombocytopenia; smear shows megakaryocyte nuclei; Rx : platelets",
+        "Gradual reticulocytopenia; smear shows spherocytes; Rx : steroids",
+        "Sudden reticulocytopenia; smear shows giant pronormoblasts; Rx : IVIG",
+        "Sudden leukopenia; smear shows giant myeloblasts; Rx : G-CSF"
+      ],
+      "ans": 2,
+      "exp": "Transient aplastic crisis prints sudden reticulocytopenia, smear giant pronormoblasts and Rx : IVIG. (Book p124)"
+    },
+    {
+      "id": "MED-C21-35",
+      "sec": "Pure Red Cell Aplasia & MDS Overview: Global Versus India Presentation",
+      "page": 124,
+      "fmt": "recall",
+      "q": "What is MDS also called on page 124, and which two lineage statements accompany it?",
+      "opts": [
+        "AKA myeloid neoplasm; dysplasia + ineffective erythropoiesis = AML; myeloblast proliferation = MDS",
+        "AKA preleukemia only; dysplasia + ineffective granulopoiesis = MDS; monoblast proliferation = CML",
+        "AKA myeloid failure; effective erythropoiesis with dysplasia = MDS; lymphoblast proliferation = ALL",
+        "AKA myeloid neoplasm; dysplasia + ineffective erythropoiesis = MDS, while myeloblast proliferation (immature myeloid cell) = acute myeloid leukemia"
+      ],
+      "ans": 3,
+      "exp": "Page 124 prints MDS AKA myeloid neoplasm; dysplasia + ineffective erythropoiesis : MDS; MDS + MPN overlap : chronic myelomonocytic leukemia; myeloblast proliferation (immature myeloid cell) : acute myeloid leukemia. (Book p124)"
+    },
+    {
+      "id": "MED-C21-36",
+      "sec": "Pure Red Cell Aplasia & MDS Overview: Global Versus India Presentation",
+      "page": 124,
+      "fmt": "recall",
+      "q": "Which overlap syndrome does page 124 name between MDS and MPN?",
+      "opts": [
+        "Chronic myelomonocytic leukemia",
+        "Juvenile myelomonocytic leukemia",
+        "Chronic myeloid leukemia",
+        "Atypical CML"
+      ],
+      "ans": 0,
+      "exp": "The line prints 'MDS + MPN overlap : Chronic myelomonocytic leukemia'. (Book p124)"
+    },
+    {
+      "id": "MED-C21-37",
+      "sec": "Pure Red Cell Aplasia & MDS Overview: Global Versus India Presentation",
+      "page": 124,
+      "fmt": "match",
+      "q": "Match the MDS presentation contrast printed on page 124 — 1) Global age 2) India age 3) Global sex/lineage 4) India sex/lineage … A) 70 years B) 40–60 years (D/t 5q deletion) C) M > F with single/multilineage disease D) Female predominance with RBC-lineage disease (lenalidomide good response)",
+      "opts": [
+        "1-C, 2-D, 3-A, 4-B",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-D, 4-C"
+      ],
+      "ans": 1,
+      "exp": "Presentation prints global 70 yrs, M > F, single/multilineage disease; India 40-60 yrs (D/t 5q deletion), female predominance, RBC lineage disease and lenalidomide (good response). (Book p124)"
+    },
+    {
+      "id": "MED-C21-38",
+      "sec": "Pure Red Cell Aplasia & MDS Overview: Global Versus India Presentation",
+      "page": 124,
+      "fmt": "numeric",
+      "q": "Why is MDS younger in India per page 124, and what is the printed age range?",
+      "opts": [
+        "40–60 years, due to monosomy 7",
+        "30–50 years, due to trisomy 8",
+        "50–70 years, due to 5q deletion",
+        "40–60 years, due to 5q deletion"
+      ],
+      "ans": 3,
+      "exp": "The India column prints 40-60 yrs (D/t 5q deletion). (Book p124)"
+    },
+    {
+      "id": "MED-C21-39",
+      "sec": "Pure Red Cell Aplasia & MDS Overview: Global Versus India Presentation",
+      "page": 124,
+      "fmt": "recall",
+      "q": "Summarize the marrow, transformation and symptom notes for MDS on page 124.",
+      "opts": [
+        "Pancytopenia with hypercellular (80%) or hypocellular (20%) marrow; progresses to AML (25%); no extramedullary hematopoiesis; m/c symptom fatigue",
+        "Pancytopenia with hypercellular (80%) marrow; progresses to CML (25%); no EMH; m/c symptom bleeding",
+        "Pancytopenia with hypocellular (80%) marrow; progresses to AML (50%); massive splenomegaly; m/c symptom fever",
+        "Isolated anemia with hypercellular marrow; no AML progression; EMH present; m/c symptom fatigue"
+      ],
+      "ans": 0,
+      "exp": "The bullets print pancytopenia hypercellular (80%)/hypocellular (20%), progresses to AML (25%), no extramedullary hematopoiesis, and m/c symptom fatigue. (Book p124)"
+    },
+    {
+      "id": "MED-C21-40",
+      "sec": "Pure Red Cell Aplasia & MDS Overview: Global Versus India Presentation",
+      "page": 124,
+      "fmt": "recall",
+      "q": "List the printed RBC-lineage blood parameters of MDS on page 124, including the stain used for ring sideroblasts.",
+      "opts": [
+        "Polycythemia with macrocytes; ring sideroblasts on PAS stain",
+        "Anemia, spherocytes and schistocytes; ring sideroblasts on H&E",
+        "Microcytic cells only, target cells and pencil cells; iron stain Prussian blue negative",
+        "Anemia (m/c presentation), ringed sideroblasts (SF3B1 mutation MDS), oval macrocytes (m/c), megaloblasts and nucleated RBCs, Howell-Jolly bodies, basophilic stippling and Cabot rings; ring sideroblasts shown in Perls staining"
+      ],
+      "ans": 3,
+      "exp": "The RBC list prints anemia (m/c), ringed sideroblasts (SF3B1 mutation MDS), oval macrocytes (m/c), megaloblasts/nucleated RBC, Howell-Jolly body/basophilic stippling/Cabot's ring, with the image 'Ring sideroblasts in Perls staining'. (Book p124)"
+    },
+    {
+      "id": "MED-C21-41",
+      "sec": "Pure Red Cell Aplasia & MDS Overview: Global Versus India Presentation",
+      "page": 124,
+      "fmt": "oddoneout",
+      "q": "Page 124 lists several red-cell inclusions/shapes for MDS. Pick the ODD ONE OUT — the one NOT printed there:",
+      "opts": [
+        "Howell-Jolly bodies",
+        "Cabot rings",
+        "Pencil (cigar) cells",
+        "Basophilic stippling"
+      ],
+      "ans": 2,
+      "exp": "The printed list is Howell-Jolly body, basophilic stippling and Cabot's ring (with oval macrocytes and megaloblasts); pencil cells belong to the microcytic-smear chapter, not this page. (Book p124)"
+    },
+    {
+      "id": "MED-C21-42",
+      "sec": "Pure Red Cell Aplasia & MDS Overview: Global Versus India Presentation",
+      "page": 124,
+      "fmt": "truefalse",
+      "q": "Judge the page 124 MDS statements as printed.",
+      "opts": [
+        "True — MDS shows no extramedullary hematopoiesis",
+        "False — MDS progresses to AML in 25% as printed",
+        "True — The most common MDS symptom is fatigue",
+        "False — Indian MDS shows female predominance with RBC-lineage disease responding to lenalidomide"
+      ],
+      "ans": 0,
+      "exp": "All printed facts hold, so the 'False' framings contradict page 124. (Book p124)"
+    },
+    {
+      "id": "MED-C21-43",
+      "sec": "MDS Blood Parameters, Prognostic Scoring & Treatment Flowchart",
+      "page": 125,
+      "fmt": "recall",
+      "q": "Which WBC findings does page 125 print for MDS?",
+      "opts": [
+        "Blast cells 5–19%, hypersegmented forms only, Auer rods",
+        "Blast cells ≥20%, hypo-segmented forms only, no toxic granules",
+        "Blast cells 5–19%, pseudo-Pelger-Huët (2 lobes), hypersegmented forms, toxic granules and Döhle bodies",
+        "No blasts, pseudo-Pelger-Huët (3 lobes), toxic granules only"
+      ],
+      "ans": 2,
+      "exp": "The WBC list prints blast cells 5-19%, pseudo Pelger-Huët (2 lobes), hypersegmented, toxic granules and Döhle bodies. (Book p125)"
+    },
+    {
+      "id": "MED-C21-44",
+      "sec": "MDS Blood Parameters, Prognostic Scoring & Treatment Flowchart",
+      "page": 125,
+      "fmt": "match",
+      "q": "Match each platelet/megakaryocyte image label on page 125 with its picture — 1) 'Pawn ball (multiple nuclear lobes) megakaryocyte' 2) 'Binucleate megakaryocyte' 3) 'Dysplastic megakaryocyte' … A) Megakaryocyte whose lobes resemble a pawn-ball arrangement B) Megakaryocyte with two nuclei C) Generic dysplastic megakaryocyte photograph",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 2,
+      "exp": "The three printed dysplastic platelet-lineage captions are pawn ball (multiple nuclear lobes) megakaryocyte, binucleate megakaryocyte and dysplastic megakaryocyte. (Book p125)"
+    },
+    {
+      "id": "MED-C21-45",
+      "sec": "MDS Blood Parameters, Prognostic Scoring & Treatment Flowchart",
+      "page": 125,
+      "fmt": "recall",
+      "q": "List the diagnostic features of MDS printed on page 125.",
+      "opts": [
+        "Pancytopenia with >10% dysplastic cells; hypocellular; normal cytogenetics; AML excluded by blasts >20%",
+        "Pancytopenia with >20% blasts; hypercellular; no cytogenetic abnormality; AML present",
+        "Pancytopenia with >10% dysplastic cells; hypocellular; cytogenetic abnormality; no AML; no other cause",
+        "Isolated thrombocytopenia with >10% dysplastic cells; hypercellular; cytogenetic abnormality; no AML"
+      ],
+      "ans": 2,
+      "exp": "Diagnostic features print pancytopenia >10% dysplastic cells, hypocellular, cytogenic abnormality, no AML and no other cause. (Book p125)"
+    },
+    {
+      "id": "MED-C21-46",
+      "sec": "MDS Blood Parameters, Prognostic Scoring & Treatment Flowchart",
+      "page": 125,
+      "fmt": "match",
+      "q": "Match the printed gene lesions with their prognostic tier on page 125 — 1) 7q deletion, monosomy 7 2) 5q deletion, 20q deletion 3) 11q deletion … A) Poor (seen in paediatric MDS) B) Good C) Best",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "The prognosis table prints poor for 7q deletion/monosomy 7 (seen in paediatric MDS), good for 5q deletion/20q deletion and best for 11q deletion. (Book p125)"
+    },
+    {
+      "id": "MED-C21-47",
+      "sec": "MDS Blood Parameters, Prognostic Scoring & Treatment Flowchart",
+      "page": 125,
+      "fmt": "recall",
+      "q": "Which scoring system is named on page 125 for MDS prognosis?",
+      "opts": [
+        "Revised International Prognostic Scoring System",
+        "Sokal index",
+        "Hasford prognostic scale",
+        "WHO classification score"
+      ],
+      "ans": 0,
+      "exp": "The heading prints 'Revised international prognostic scoring system'. (Book p125)"
+    },
+    {
+      "id": "MED-C21-48",
+      "sec": "MDS Blood Parameters, Prognostic Scoring & Treatment Flowchart",
+      "page": 125,
+      "fmt": "recall",
+      "q": "Walk the single-lineage arm of the page 125 MDS treatment flowchart.",
+      "opts": [
+        "Single lineage → 5q deletion: present → erythropoietin; absent → lenalidomide",
+        "Single lineage → 5q deletion: present → azacytidine; absent → transplant",
+        "Single lineage → trisomy 8: present → lenalidomide; absent → decitabine",
+        "Single lineage → 5q deletion: present → lenalidomide; absent → erythropoietin"
+      ],
+      "ans": 3,
+      "exp": "The flowchart prints single lineage → 5q deletion → present : lenalidomide, absent : erythropoietin. (Book p125)"
+    },
+    {
+      "id": "MED-C21-49",
+      "sec": "MDS Blood Parameters, Prognostic Scoring & Treatment Flowchart",
+      "page": 125,
+      "fmt": "recall",
+      "q": "Walk the trilineage arm of the page 125 MDS treatment flowchart and name the hypomethylating agents.",
+      "opts": [
+        "Trilineage → hypomethylating agent only; agents are azacytidine and cytarabine",
+        "Trilineage → bone marrow transplantation or hypomethylating agent; the agents are azacytidine and decitabine",
+        "Trilineage → lenalidomide or erythropoietin; agents are hydroxyurea and cytarabine",
+        "Trilineage → observation or splenectomy; agents are decitabine and cladribine"
+      ],
+      "ans": 1,
+      "exp": "The trilineage arm branches to bone marrow transplantation and hypomethylating agent, with azacytidine and decitabine listed under the latter. (Book p125)"
+    },
+    {
+      "id": "MED-C21-50",
+      "sec": "MDS Blood Parameters, Prognostic Scoring & Treatment Flowchart",
+      "page": 125,
+      "fmt": "recall",
+      "q": "What does the page 125 note at the top of the page qualify?",
+      "opts": [
+        "Other conditions (as printed) — the page opens with 'Note : Other conditions' continuing the discussion from page 124",
+        "The blast percentage required for AML",
+        "The definition of severe aplastic anemia",
+        "The drugs used in PRCA"
+      ],
+      "ans": 0,
+      "exp": "Page 125 opens with 'Note : Other conditions' as printed, bridging from the p124 MDS presentation. (Book p125)"
+    },
+    {
+      "id": "MED-C21-51",
+      "sec": "MDS Blood Parameters, Prognostic Scoring & Treatment Flowchart",
+      "page": 125,
+      "fmt": "truefalse",
+      "q": "Assess the page 125 statements as printed.",
+      "opts": [
+        "False — Lenalidomide is the printed single-lineage treatment when the 5q deletion is present",
+        "True — Monosomy 7/7q deletion carries a poor prognosis and is seen in paediatric MDS",
+        "False — Azacytidine and decitabine are the printed hypomethylating agents",
+        "True — Pseudo-Pelger-Huët cells in MDS are hypolobated (2 lobes)"
+      ],
+      "ans": 3,
+      "exp": "All printed facts hold, so the 'False' framings contradict page 125. (Book p125)"
+    },
+    {
+      "id": "MED-C21-52",
+      "sec": "MDS Blood Parameters, Prognostic Scoring & Treatment Flowchart",
+      "page": 125,
+      "fmt": "scenario",
+      "q": "An elderly MDS patient's cytogenetics returns an isolated 5q deletion with single-lineage disease. Per the page 125 flowchart and prognosis table, which treatment and prognostic tier apply?",
+      "opts": [
+        "Erythropoietin; poor prognosis tier",
+        "Bone marrow transplantation; poor prognosis tier",
+        "Azacytidine; best prognosis tier",
+        "Lenalidomide; good prognosis tier"
+      ],
+      "ans": 3,
+      "exp": "The single-lineage arm sends 5q-deletion-present disease to lenalidomide, and the prognosis table places 5q deletion in the good tier. (Book p125)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U21-1",
+      "ch": 21,
+      "n": 1,
+      "title": "Approach to Pancytopenia: Marrow Cellularity Flowchart & Aplastic Anemia Overview",
+      "sec": "Approach to Pancytopenia: Marrow Cellularity Flowchart & Aplastic Anemia Overview",
+      "guide": "Diseases: aplastic anemia, MDS, pure red cell aplasia, myelophthisis (secondary myelofibrosis); workup: bone marrow aspiration + biopsy → cellularity.\nHypercellular arm: acute leukemia (unless proven otherwise; adults AML 80%/ALL 20%), MDS, PMF, hairy cell leukemia (good prognosis), megaloblastic anemia (good prognosis), PNH, systemic (SLE, HIV, TB, brucellosis, leishmaniasis, sarcoidosis).\nHypocellular arm: + pancytopenia (aplastic anemia, 20% of MDS, aleukemic leukemia, copper deficiency, lymphoma); ± pancytopenia (Q fever, Legionella, anorexia, TB); PMF = pancytopenia + fibrosis; hairy cell = pancytopenia + massive splenomegaly.\nAplastic anemia intro: p121 prints 'hypercellular' as a slip (flowchart and p123 show hypocellular); bimodal (inherited <20 yrs, acquired >60 yrs); m/c cause drug dependent (good prognosis); m/c infection non-A, non-B hepatitis; 'bad prognosis' as printed.",
+      "qs": [
+        "MED-C21-01",
+        "MED-C21-02",
+        "MED-C21-03",
+        "MED-C21-04",
+        "MED-C21-05",
+        "MED-C21-06",
+        "MED-C21-07",
+        "MED-C21-08",
+        "MED-C21-09",
+        "MED-C21-10",
+        "MED-C21-11",
+        "MED-C21-12"
+      ]
+    },
+    {
+      "id": "MED-U21-2",
+      "ch": 21,
+      "n": 2,
+      "title": "Inherited vs Acquired Aplastic Anemia: Fanconi, Dyskeratosis Congenita, Shwachman-Diamond",
+      "sec": "Inherited vs Acquired Aplastic Anemia: Fanconi, Dyskeratosis Congenita, Shwachman-Diamond",
+      "guide": "Inherited: Fanconi (AR, FANCA > FANCB/FANCC, complex DNA-repair defect; short stature, café au lait macules, gonadal dysgenesis, ↑ AML & head-neck SCC, esophageal atresia; panels A facies, B hand/thumb anomaly, C chromosome breakage), dyskeratosis congenita (DKC mutation, telomere repair; captioned photos reticular skin pigmentation and dystrophic nails), Shwachman-Diamond (ribosomopathy; pancreatic exocrine insufficiency, metaphyseal dysplasia).\nAcquired: idiopathic (m/c), drugs, toxins (benzene), virus (non-A, B, C hepatitis), others (PNH), autoimmune eosinophilic fasciitis (scleroderma mimic).",
+      "qs": [
+        "MED-C21-13",
+        "MED-C21-14",
+        "MED-C21-15",
+        "MED-C21-16",
+        "MED-C21-17",
+        "MED-C21-18",
+        "MED-C21-19",
+        "MED-C21-20",
+        "MED-C21-21"
+      ]
+    },
+    {
+      "id": "MED-U21-3",
+      "ch": 21,
+      "n": 3,
+      "title": "Drugs Causing Aplastic Anemia, Presentation, Severity Criteria & Treatment",
+      "sec": "Drugs Causing Aplastic Anemia, Presentation, Severity Criteria & Treatment",
+      "guide": "Dose dependent (anticancer → temporary myelosuppression): fluorouracil, mercaptopurine, doxorubicin, cyclophosphamide, busulfan; dose independent: chloramphenicol, sulfonamides, gold, acetazolamide, PTU, D-penicillamine.\nPresentation bleeding (m/c) > anemia > infection; features against diagnosis: hepatomegaly, splenomegaly, lymphadenopathy, fever.\nSevere thresholds (as printed): Hb <9 g/dl, reticulocyte <30.0 × 10⁹/L, ANC <0.5 × 10⁹/L, platelet <30.0 × 10⁹/L → Rx AHSCT; marrow hypocellular with fat cells; treatment equine ATG + cyclosporine (6 months to act, 50% success), AHSCT, eltrombopag (TPO analogue).",
+      "qs": [
+        "MED-C21-22",
+        "MED-C21-23",
+        "MED-C21-24",
+        "MED-C21-25",
+        "MED-C21-26",
+        "MED-C21-27",
+        "MED-C21-28",
+        "MED-C21-29",
+        "MED-C21-30",
+        "MED-C21-31",
+        "MED-C21-32"
+      ]
+    },
+    {
+      "id": "MED-U21-4",
+      "ch": 21,
+      "n": 4,
+      "title": "Pure Red Cell Aplasia & MDS Overview: Global Versus India Presentation",
+      "sec": "Pure Red Cell Aplasia & MDS Overview: Global Versus India Presentation",
+      "guide": "PRCA: acquired thymoma/CLL; transient aplastic crisis = sudden reticulocytopenia, giant pronormoblasts on smear, Rx IVIG.\nMDS AKA myeloid neoplasm: dysplasia + ineffective erythropoiesis; MDS/MPN overlap = CMML; myeloblast proliferation = AML.\nGlobal 70 yrs, M > F, single/multilineage vs India 40–60 yrs (5q deletion), female predominance, RBC-lineage disease, lenalidomide good response; hypercellular 80%/hypocellular 20%; AML progression 25%; no EMH; fatigue m/c.\nRBC parameters: anemia (m/c), ringed sideroblasts (SF3B1), oval macrocytes (m/c), megaloblasts/nucleated RBCs, HJ bodies/basophilic stippling/Cabot rings; Perls staining image.",
+      "qs": [
+        "MED-C21-33",
+        "MED-C21-34",
+        "MED-C21-35",
+        "MED-C21-36",
+        "MED-C21-37",
+        "MED-C21-38",
+        "MED-C21-39",
+        "MED-C21-40",
+        "MED-C21-41",
+        "MED-C21-42"
+      ]
+    },
+    {
+      "id": "MED-U21-5",
+      "ch": 21,
+      "n": 5,
+      "title": "MDS Blood Parameters, Prognostic Scoring & Treatment Flowchart",
+      "sec": "MDS Blood Parameters, Prognostic Scoring & Treatment Flowchart",
+      "guide": "WBC: blasts 5–19%, pseudo-Pelger-Huët (2 lobes), hypersegmented, toxic granules, Döhle bodies; platelet images: pawn-ball multinucleated, binucleate and dysplastic megakaryocytes.\nDiagnostic features: pancytopenia with >10% dysplastic cells, hypocellular, cytogenetic abnormality, no AML, no other cause; R-IPSS named; prognosis poor = 7q deletion/monosomy 7 (paediatric), good = 5q/20q deletion, best = 11q deletion.\nTreatment: single lineage → 5q deletion present lenalidomide / absent erythropoietin; trilineage → bone marrow transplantation or hypomethylating agent (azacytidine, decitabine).",
+      "qs": [
+        "MED-C21-43",
+        "MED-C21-44",
+        "MED-C21-45",
+        "MED-C21-46",
+        "MED-C21-47",
+        "MED-C21-48",
+        "MED-C21-49",
+        "MED-C21-50",
+        "MED-C21-51",
+        "MED-C21-52"
+      ]
+    }
+  ]
+}

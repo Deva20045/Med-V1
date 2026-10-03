@@ -1,0 +1,1427 @@
+{
+  "chapter": 19,
+  "title": "Myeloproliferative Neoplasms : Part 1",
+  "pageRange": "107-115",
+  "questions": [
+    {
+      "id": "MED-C19-01",
+      "sec": "Overview: CMP Physiology, MPN Pathology and the Printed MPN List with Mutations",
+      "page": 107,
+      "fmt": "recall",
+      "q": "In the physiology diagram on page 107, the common myeloid progenitor (CMP) is shown giving rise to which terminal myeloid cells?",
+      "opts": [
+        "RBCs, platelets, T-lymphocytes and NK cells",
+        "Monocytes, eosinophils, basophils and B-lymphocytes",
+        "RBCs, platelets, monocytes, eosinophils and basophils",
+        "RBCs, platelets, monocytes and lymphocytes"
+      ],
+      "ans": 2,
+      "exp": "The page 107 physiology diagram runs from the common myeloid progenitor (CMP) to terminal myeloid cells listed as RBC, platelets, monocytes, eosinophils and basophils. (Book p107)"
+    },
+    {
+      "id": "MED-C19-02",
+      "sec": "Overview: CMP Physiology, MPN Pathology and the Printed MPN List with Mutations",
+      "page": 107,
+      "fmt": "recall",
+      "q": "How does page 107 define the pathology of myeloproliferative neoplasms?",
+      "opts": [
+        "Proliferation of (mature cells) of multiple lineages, with no dysplastic or immature cells seen",
+        "Ineffective proliferation of terminal myeloid cells ending in pancytopenia",
+        "Proliferation of a single immature cell lineage with marrow replacement",
+        "Proliferation of dysplastic blasts of multiple lineages"
+      ],
+      "ans": 0,
+      "exp": "Under PATHOLOGY, MPN is proliferation of (mature cells) of multiple lineages with no dysplastic or immature cells seen — contrasting with acute leukemia (single immature cell) and MDS (ineffective proliferation → pancytopenia). (Book p107)"
+    },
+    {
+      "id": "MED-C19-03",
+      "sec": "Overview: CMP Physiology, MPN Pathology and the Printed MPN List with Mutations",
+      "page": 107,
+      "fmt": "recall",
+      "q": "Which entity heads the printed MPN list on page 107 as the most common (m/c) member?",
+      "opts": [
+        "Essential thrombocytosis (ET)",
+        "Polycythemia rubra vera (PCRV)",
+        "Chronic myeloid leukemia (CML)",
+        "Primary myelofibrosis (PMF)"
+      ],
+      "ans": 1,
+      "exp": "Item 1 of the list is 'Polycythemia rubra vera (PCRV) : m/c'. (Book p107)"
+    },
+    {
+      "id": "MED-C19-04",
+      "sec": "Overview: CMP Physiology, MPN Pathology and the Printed MPN List with Mutations",
+      "page": 107,
+      "fmt": "match",
+      "q": "Match each myeloproliferative neoplasm with the molecular lesion printed beside it on page 107 — 1) Chronic myeloid leukemia (CML) 2) Chronic neutrophilic leukemia (CNL) 3) Chronic eosinophilic leukemia (CEL) 4) Primary myelofibrosis (PMF), additional lesion … A) BCR-ABL translocation t(9;22) B) CSF3R mutation C) PDGFRA mutation D) Deletion on chr 9p",
+      "opts": [
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-B, 3-C, 4-A",
+        "1-A, 2-C, 3-B, 4-D"
+      ],
+      "ans": 1,
+      "exp": "Page 107 pairs CML with BCR-ABL translocation t(9;22), CNL with CSF3R mutation, CEL with PDGFRA mutation, and adds 'Deletion on chr 9p' next to PMF within the JAK-2 bracket. (Book p107)"
+    },
+    {
+      "id": "MED-C19-05",
+      "sec": "Overview: CMP Physiology, MPN Pathology and the Printed MPN List with Mutations",
+      "page": 107,
+      "fmt": "recall",
+      "q": "The bracket on page 107 groups which three entities under the JAK-2 mutation?",
+      "opts": [
+        "PCRV, CML and JMML",
+        "PMF, ET and systemic mastocytosis",
+        "CML, CNL and CEL",
+        "Polycythemia rubra vera, primary myelofibrosis and essential thrombocytosis"
+      ],
+      "ans": 3,
+      "exp": "The JAK-2 mutation brace covers items 1–3: PCRV (m/c), primary myelofibrosis and essential thrombocytosis/thrombocythemia. (Book p107)"
+    },
+    {
+      "id": "MED-C19-06",
+      "sec": "Overview: CMP Physiology, MPN Pathology and the Printed MPN List with Mutations",
+      "page": 107,
+      "fmt": "oddoneout",
+      "q": "Page 107 lists the following under the BCR-ABL negative arm. Pick the ODD ONE OUT — the entity that is NOT in that group:",
+      "opts": [
+        "Chronic myeloid leukemia (CML)",
+        "Juvenile myelomonocytic leukemia (JMML)",
+        "Chronic neutrophilic leukemia (CNL)",
+        "MPN, not otherwise specified"
+      ],
+      "ans": 0,
+      "exp": "CML sits under the BCR-ABL translocation arm; the BCR-ABL negative arm lists CNL, CEL, JMML and MPN not otherwise specified. (Book p107)"
+    },
+    {
+      "id": "MED-C19-07",
+      "sec": "Overview: CMP Physiology, MPN Pathology and the Printed MPN List with Mutations",
+      "page": 107,
+      "fmt": "truefalse",
+      "q": "Which statements about the page 107 notes are TRUE as printed?",
+      "opts": [
+        "True — Primary myelofibrosis (myelophthisis) is listed as a cause of bone marrow excess",
+        "False — Chronic eosinophilic leukemia is paired with a CSF3R mutation",
+        "False — The JAK-2 bracket on page 107 covers CML, CNL and CEL",
+        "True — Systemic mastocytosis (mast cell disease) carries a c-kit mutation and is excluded from the MPN list"
+      ],
+      "ans": 3,
+      "exp": "The note states 1° myelofibrosis (myelophthisis) = bone marrow failure (not excess), and systemic mastocytosis (c-kit) is excluded from MPN; CEL carries PDGFRA (not CSF3R), and the JAK-2 bracket covers PCRV/PMF/ET (not the BCR-ABL group). (Book p107)"
+    },
+    {
+      "id": "MED-C19-08",
+      "sec": "Overview: CMP Physiology, MPN Pathology and the Printed MPN List with Mutations",
+      "page": 107,
+      "fmt": "fillup",
+      "q": "Item 8 of the page 107 MPN list reads 'MPN, ______'.",
+      "opts": [
+        "in accelerated transformation",
+        "not otherwise classified",
+        "unclassifiable with fibrosis",
+        "not otherwise specified"
+      ],
+      "ans": 3,
+      "exp": "The eighth printed item is 'MPN, not otherwise specified'. (Book p107)"
+    },
+    {
+      "id": "MED-C19-09",
+      "sec": "Clinical Features of MPN, Polycythemia Thresholds and Relative Polycythemia (Gaisböck's)",
+      "page": 108,
+      "fmt": "recall",
+      "q": "Page 108 lists extramedullary hematopoiesis in MPN at which sites, and which is the most common?",
+      "opts": [
+        "Skin (m/c), spleen, kidney etc.",
+        "Spleen (m/c), thymus, thyroid etc.",
+        "Spleen (m/c), skin, liver etc.",
+        "Liver (m/c), spleen, lymph nodes etc."
+      ],
+      "ans": 2,
+      "exp": "Extramedullary hematopoiesis is printed as spleen (m/c), skin, liver etc. (Book p108)"
+    },
+    {
+      "id": "MED-C19-10",
+      "sec": "Clinical Features of MPN, Polycythemia Thresholds and Relative Polycythemia (Gaisböck's)",
+      "page": 108,
+      "fmt": "match",
+      "q": "Match the printed grade of splenomegaly with its disease on page 108 — 1) Massive 2) Moderate 3) Mild … A) PCRV B) ET C) CML and PMF",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Page 108 prints massive splenomegaly with CML and PMF, moderate with PCRV, and mild with ET. (Book p108)"
+    },
+    {
+      "id": "MED-C19-11",
+      "sec": "Clinical Features of MPN, Polycythemia Thresholds and Relative Polycythemia (Gaisböck's)",
+      "page": 108,
+      "fmt": "numeric",
+      "q": "Classical B symptoms (fever, night sweats, weight loss) occur in what percentage of MPN patients as printed on page 108?",
+      "opts": [
+        "40%",
+        "10%",
+        "20%",
+        "50%"
+      ],
+      "ans": 2,
+      "exp": "The line reads 'Classical B symptoms : In 20% (Fever, night sweats, weight loss)'. (Book p108)"
+    },
+    {
+      "id": "MED-C19-12",
+      "sec": "Clinical Features of MPN, Polycythemia Thresholds and Relative Polycythemia (Gaisböck's)",
+      "page": 108,
+      "fmt": "recall",
+      "q": "According to the page 108 note, acute leukemia and MDS differ from MPN how?",
+      "opts": [
+        "Acute leukemia = proliferation of a single immature cell; MDS = ineffective proliferation of terminal myeloid cells → pancytopenia",
+        "Acute leukemia = proliferation of mature cells of multiple lineages; MDS = effective hyperproliferation",
+        "Acute leukemia = no dysplastic cells; MDS = mature multilineage proliferation",
+        "Acute leukemia = ineffective erythropoiesis; MDS = proliferation of a single immature cell"
+      ],
+      "ans": 0,
+      "exp": "The note contrasts MPN with acute leukemia (proliferation of single immature cell) and defines MDS as ineffective proliferation of terminal myeloid cells → pancytopenia; MPN symptoms arise from cytokines, hyperviscosity and classical B symptoms. (Book p108)"
+    },
+    {
+      "id": "MED-C19-13",
+      "sec": "Clinical Features of MPN, Polycythemia Thresholds and Relative Polycythemia (Gaisböck's)",
+      "page": 108,
+      "fmt": "truefalse",
+      "q": "Assess the page 108 statements as printed.",
+      "opts": [
+        "True — MPN can transform into each other or into AML",
+        "False — MPN symptoms are attributed to cytokines, hyperviscosity and classical B symptoms",
+        "True — The MDS/MPN overlap is included in the WHO 5th edition classification",
+        "False — Myelodysplastic syndrome causes pancytopenia through ineffective proliferation of terminal myeloid cells"
+      ],
+      "ans": 0,
+      "exp": "Page 108 states MPN can transform into each other or AML and that the MDS/MPN overlap is included in the WHO 5th edition classification; MDS does cause pancytopenia via ineffective proliferation and the symptom list is as printed, so those two 'False' framings are wrong. (Book p108)"
+    },
+    {
+      "id": "MED-C19-14",
+      "sec": "Clinical Features of MPN, Polycythemia Thresholds and Relative Polycythemia (Gaisböck's)",
+      "page": 108,
+      "fmt": "match",
+      "q": "Match the polycythemia screening threshold printed in the page 108 table — 1) Male, Hb (gm%) 2) Male, PCV 3) Female, Hb (gm%) 4) Female, PCV … A) ≥16.5 B) 49 C) ≥16 D) 48",
+      "opts": [
+        "1-A, 2-B, 3-D, 4-C",
+        "1-B, 2-A, 3-C, 4-D",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-A, 2-B, 3-C, 4-D"
+      ],
+      "ans": 3,
+      "exp": "The table prints Hb (gm%) ≥16.5 and PCV 49 for males and ≥16 and 48 for females. (Book p108)"
+    },
+    {
+      "id": "MED-C19-15",
+      "sec": "Clinical Features of MPN, Polycythemia Thresholds and Relative Polycythemia (Gaisböck's)",
+      "page": 108,
+      "fmt": "recall",
+      "q": "What are the two printed types of polycythemia on page 108?",
+      "opts": [
+        "Relative and absolute",
+        "Primary and secondary only",
+        "Stress and sporadic",
+        "Congenital and acquired"
+      ],
+      "ans": 0,
+      "exp": "'Types : Relative, absolute.' is printed; absolute polycythemia is then subdivided into primary (PCRV) and secondary on page 109. (Book p108)"
+    },
+    {
+      "id": "MED-C19-16",
+      "sec": "Clinical Features of MPN, Polycythemia Thresholds and Relative Polycythemia (Gaisböck's)",
+      "page": 108,
+      "fmt": "recall",
+      "q": "Relative polycythemia on page 108 is eponymously labelled as:",
+      "opts": [
+        "Chuvash polycythemia",
+        "Stress erythrocytosis of Osler",
+        "Gaisböck's syndrome",
+        "Hepatomaplus syndrome"
+      ],
+      "ans": 2,
+      "exp": "The heading reads RELATIVE POLYCYTHEMIA (GAISBÖCK'S SYNDROME). (Book p108)"
+    },
+    {
+      "id": "MED-C19-17",
+      "sec": "Clinical Features of MPN, Polycythemia Thresholds and Relative Polycythemia (Gaisböck's)",
+      "page": 108,
+      "fmt": "recall",
+      "q": "What etiopathogenesis is printed for relative polycythemia, and which post-infectious association is noted?",
+      "opts": [
+        "↓ plasma volume (dehydration) → ↑ Hb%; a post-viral association is listed",
+        "↓ EPO feedback from hepatoma → ↑ Hb%; post-viral association",
+        "↑ plasma volume (overhydration) → ↓ Hb%; no infectious link",
+        "↑ RBC mass from hypoxia → ↑ Hb%; post-bacterial association"
+      ],
+      "ans": 0,
+      "exp": "Etiopathogenesis is ↓ plasma volume (dehydration) → ↑ Hb%, with 'Post viral' listed beneath. (Book p108)"
+    },
+    {
+      "id": "MED-C19-18",
+      "sec": "Clinical Features of MPN, Polycythemia Thresholds and Relative Polycythemia (Gaisböck's)",
+      "page": 108,
+      "fmt": "oddoneout",
+      "q": "In relative polycythemia the page 108 investigations are printed as follows. Pick the ODD ONE OUT — the result NOT as printed:",
+      "opts": [
+        "Hb : decreased",
+        "Total count (TC) : normal",
+        "RBC mass : normal",
+        "Platelet count (PLC) : normal"
+      ],
+      "ans": 0,
+      "exp": "Page 108 prints RBC mass normal, ↑ Hb, TC normal and PLC normal — Hb is increased, not decreased. (Book p108)"
+    },
+    {
+      "id": "MED-C19-19",
+      "sec": "Clinical Features of MPN, Polycythemia Thresholds and Relative Polycythemia (Gaisböck's)",
+      "page": 108,
+      "fmt": "scenario",
+      "q": "A patient reviewed after a viral illness shows a raised Hb with a normal RBC mass, normal total count and normal platelet count. Which page 108 label fits best?",
+      "opts": [
+        "Primary polycythemia (PCRV)",
+        "Essential thrombocytosis",
+        "Secondary polycythemia from hypoxia",
+        "Relative polycythemia (Gaisböck's syndrome) from ↓ plasma volume"
+      ],
+      "ans": 3,
+      "exp": "Raised Hb with normal RBC mass/TC/PLC matches relative polycythemia (Gaisböck's), whose mechanism is ↓ plasma volume (dehydration) → ↑ Hb%, listed with a post-viral association. (Book p108)"
+    },
+    {
+      "id": "MED-C19-20",
+      "sec": "Absolute Polycythemia: Types, EPO/TC/PLC Table and Secondary Etiologies",
+      "page": 109,
+      "fmt": "recall",
+      "q": "Absolute polycythemia on page 109 is characterized by which RBC mass finding and which two types?",
+      "opts": [
+        "RBC mass increased; types primary (PCRV) and secondary",
+        "RBC mass normal; types relative and stress",
+        "RBC mass decreased; types primary and tertiary",
+        "RBC mass increased; types relative and absolute"
+      ],
+      "ans": 0,
+      "exp": "The management box opens with 'RBC mass : Increased' and 'Types : Primary (PCRV), Secondary'. (Book p109)"
+    },
+    {
+      "id": "MED-C19-21",
+      "sec": "Absolute Polycythemia: Types, EPO/TC/PLC Table and Secondary Etiologies",
+      "page": 109,
+      "fmt": "match",
+      "q": "Match the parameter with its printed value in the page 109 primary-versus-secondary table — 1) EPO in primary (PCRV) 2) EPO in secondary 3) TC and PLC together in primary 4) TC and PLC together in secondary … A) Normal to low B) Increased C) Both increased D) Both normal",
+      "opts": [
+        "1-B, 2-A, 3-C, 4-D",
+        "1-C, 2-B, 3-A, 4-D",
+        "1-A, 2-B, 3-D, 4-C",
+        "1-A, 2-B, 3-C, 4-D"
+      ],
+      "ans": 3,
+      "exp": "The table prints EPO normal to low in PCRV versus increased in secondary; TC and PLC are both increased in PCRV but both normal in secondary polycythemia. (Book p109)"
+    },
+    {
+      "id": "MED-C19-22",
+      "sec": "Absolute Polycythemia: Types, EPO/TC/PLC Table and Secondary Etiologies",
+      "page": 109,
+      "fmt": "recall",
+      "q": "Page 109 gives the EPO abbreviation and locates its production where?",
+      "opts": [
+        "Erythropoietin; juxtaglomerular apparatus only",
+        "Erythropoietin; adrenal medulla",
+        "Erythropoietin; cortex and outer medulla of kidney",
+        "Erythropoietin; hepatic sinusoids"
+      ],
+      "ans": 2,
+      "exp": "The footnote reads 'EPO : Erythropoietin' with production noted at the cortex ('and outer medulla of kidney' legible on the scan). (Book p109)"
+    },
+    {
+      "id": "MED-C19-23",
+      "sec": "Absolute Polycythemia: Types, EPO/TC/PLC Table and Secondary Etiologies",
+      "page": 109,
+      "fmt": "oddoneout",
+      "q": "Page 109 lists hypoxic causes of secondary polycythemia. Pick the ODD ONE OUT — the item NOT filed under hypoxia:",
+      "opts": [
+        "Hepatopulmonary syndrome",
+        "High altitude and CO intoxication",
+        "Renal artery stenosis",
+        "COPD and OSAS (Obstructive Sleep Apnea Syndrome)"
+      ],
+      "ans": 2,
+      "exp": "Hypoxia lists COPD, OSAS, high altitude, CO intoxication and hepatopulmonary syndrome; renal artery stenosis is a separate (item 2) renal cause. (Book p109)"
+    },
+    {
+      "id": "MED-C19-24",
+      "sec": "Absolute Polycythemia: Types, EPO/TC/PLC Table and Secondary Etiologies",
+      "page": 109,
+      "fmt": "recall",
+      "q": "Which paraneoplastic causes of secondary polycythemia are printed on page 109?",
+      "opts": [
+        "Cerebellar hemangioblastoma, pheochromocytoma, GIST and osteoblastoma",
+        "Renal carcinoma (hypernephroma), cerebellar hemangioblastoma, meningioma, pheochromocytoma, hepatoma and uterine fibroids",
+        "Renal carcinoma, pituitary adenoma, meningioma and thymoma",
+        "Hepatoma, Wilms tumour, adrenal adenoma and cholangiocarcinoma"
+      ],
+      "ans": 1,
+      "exp": "The paraneoplastic list is renal carcinoma (hypernephroma), cerebellar hemangioblastoma (a/w von Hippel-Lindau syndrome), meningioma, pheochromocytoma, hepatoma and uterine fibroids. (Book p109)"
+    },
+    {
+      "id": "MED-C19-25",
+      "sec": "Absolute Polycythemia: Types, EPO/TC/PLC Table and Secondary Etiologies",
+      "page": 109,
+      "fmt": "recall",
+      "q": "Cerebellar hemangioblastoma on page 109 is associated with which syndrome?",
+      "opts": [
+        "Neurofibromatosis type 1",
+        "Tuberous sclerosis",
+        "Von Hippel-Lindau syndrome",
+        "Li-Fraumeni syndrome"
+      ],
+      "ans": 2,
+      "exp": "The parenthetical reads '(a/w von Hippel-Lindau syndrome)'. (Book p109)"
+    },
+    {
+      "id": "MED-C19-26",
+      "sec": "Absolute Polycythemia: Types, EPO/TC/PLC Table and Secondary Etiologies",
+      "page": 109,
+      "fmt": "recall",
+      "q": "What does page 109 state about pallor in pheochromocytoma?",
+      "opts": [
+        "Presence of pallor in pheochromocytoma indicates malignancy",
+        "Pallor excludes catecholamine excess",
+        "Pallor is due to coexisting iron deficiency",
+        "Pallor indicates benign behaviour"
+      ],
+      "ans": 0,
+      "exp": "The note reads 'Presence of pallor in pheochromocytoma indicates malignancy' (as printed). (Book p109)"
+    },
+    {
+      "id": "MED-C19-27",
+      "sec": "Absolute Polycythemia: Types, EPO/TC/PLC Table and Secondary Etiologies",
+      "page": 109,
+      "fmt": "fillup",
+      "q": "On page 109, uterine fibroids and hepatoma appear under the ______ causes of secondary polycythemia.",
+      "opts": [
+        "idiopathic",
+        "hypoxic",
+        "renal",
+        "paraneoplastic"
+      ],
+      "ans": 3,
+      "exp": "Both sit under '3. Paraneoplastic' in the secondary polycythemia etiology list. (Book p109)"
+    },
+    {
+      "id": "MED-C19-28",
+      "sec": "Absolute Polycythemia: Types, EPO/TC/PLC Table and Secondary Etiologies",
+      "page": 109,
+      "fmt": "recall",
+      "q": "Which clinical features of secondary polycythemia are printed on page 109, and in which group are they seen?",
+      "opts": [
+        "Headache, dizziness and hypertension; seen in paraneoplastic patients",
+        "Headache, dizziness and hypotension; seen in all secondary patients",
+        "Aquagenic pruritus, erythromelalgia and gout; seen in hypoxic patients",
+        "Bleeding, thrombosis and splenomegaly; seen in PCRV only"
+      ],
+      "ans": 0,
+      "exp": "Clinical features are printed as headache, dizziness and hypertension, 'Seen in paraneoplastic patients'. (Book p109)"
+    },
+    {
+      "id": "MED-C19-29",
+      "sec": "Absolute Polycythemia: Types, EPO/TC/PLC Table and Secondary Etiologies",
+      "page": 109,
+      "fmt": "truefalse",
+      "q": "Judge the page 109 table statements as printed.",
+      "opts": [
+        "True — In primary polycythemia (PCRV) the EPO level is normal to low",
+        "False — Hepatopulmonary syndrome is listed among hypoxic causes of secondary polycythemia",
+        "True — In secondary polycythemia the EPO level is increased while TC and PLC remain normal",
+        "False — CO intoxication is printed as a hypoxic cause of secondary polycythemia"
+      ],
+      "ans": 2,
+      "exp": "The table prints EPO normal-to-low in PCRV and increased in secondary (with TC/PLC normal in secondary); hepatopulmonary syndrome and CO intoxication both sit under hypoxia, so the two 'False' framings contradict the page. (Book p109)"
+    },
+    {
+      "id": "MED-C19-30",
+      "sec": "Polycythemia Rubra Vera: JAK2 Mutations and Clinical Features",
+      "page": 110,
+      "fmt": "recall",
+      "q": "Page 110 gives the epidemiology of primary polycythemia (PCRV) as:",
+      "opts": [
+        "m/c MPN; age >70 years; male > female",
+        "Rare MPN; age 20–30 years; male > female",
+        "Second commonest MPN; age 50–60 years; male = female",
+        "m/c MPN; age 50–60 years; female > male"
+      ],
+      "ans": 3,
+      "exp": "The printed bullets are m/c MPN, age 50-60 years, gender female > male. (Book p110)"
+    },
+    {
+      "id": "MED-C19-31",
+      "sec": "Polycythemia Rubra Vera: JAK2 Mutations and Clinical Features",
+      "page": 110,
+      "fmt": "numeric",
+      "q": "The JAK-2 mutation is seen in what percentage of PCRV patients on page 110?",
+      "opts": [
+        "95%",
+        "100%",
+        "50%",
+        "75%"
+      ],
+      "ans": 1,
+      "exp": "The line reads 'JAK-2 mutation (Seen in 100% patients)'. (Book p110)"
+    },
+    {
+      "id": "MED-C19-32",
+      "sec": "Polycythemia Rubra Vera: JAK2 Mutations and Clinical Features",
+      "page": 110,
+      "fmt": "match",
+      "q": "Match the JAK-2 detail printed on page 110 — 1) Overall JAK-2 frequency in PCRV 2) Exon 14 mutation 3) Exon 12 mutation … A) 100% B) 95% (V617F) C) 5%",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 2,
+      "exp": "Page 110 prints JAK-2 in 100% of patients, exon 14 mutation (95%) as V617F, and exon 12 mutation (5%). (Book p110)"
+    },
+    {
+      "id": "MED-C19-33",
+      "sec": "Polycythemia Rubra Vera: JAK2 Mutations and Clinical Features",
+      "page": 110,
+      "fmt": "recall",
+      "q": "How does page 110 order thrombosis in PCRV, and which examples are printed for each compartment?",
+      "opts": [
+        "Venous > arterial; venous = stroke in young; arterial = Budd-Chiari and DVT",
+        "Arterial > venous; arterial = stroke in young; venous = Budd-Chiari syndrome and DVT; microvascular = erythromelalgia",
+        "Arterial = venous; both limited to cerebral vessels",
+        "Arterial > venous; arterial = myocardial infarction only; venous = portal vein thrombosis only"
+      ],
+      "ans": 1,
+      "exp": "Thrombosis is printed arterial > venous with arterial stroke in young, venous Budd-Chiari syndrome/deep vein thrombosis, and microvascular erythromelalgia. (Book p110)"
+    },
+    {
+      "id": "MED-C19-34",
+      "sec": "Polycythemia Rubra Vera: JAK2 Mutations and Clinical Features",
+      "page": 110,
+      "fmt": "oddoneout",
+      "q": "Page 110 assigns thrombosis examples to compartments. Pick the ODD ONE OUT — the pairing NOT as printed:",
+      "opts": [
+        "Budd-Chiari syndrome listed as a venous event",
+        "Deep vein thrombosis listed as a venous event",
+        "Stroke in young listed as a venous event",
+        "Erythromelalgia listed as a microvascular event"
+      ],
+      "ans": 2,
+      "exp": "Stroke in young is printed under arterial thrombosis; Budd-Chiari and DVT are venous and erythromelalgia microvascular. (Book p110)"
+    },
+    {
+      "id": "MED-C19-35",
+      "sec": "Polycythemia Rubra Vera: JAK2 Mutations and Clinical Features",
+      "page": 110,
+      "fmt": "recall",
+      "q": "Which page 110 mechanism explains aquagenic pruritus (pruritus after bath) in PCRV?",
+      "opts": [
+        "Eosinophilia with major basic protein release",
+        "Thrombocytosis with acquired von Willebrand disease",
+        "Neutrophilia with toxic granulation",
+        "Basophilia (mast cell → histamine)"
+      ],
+      "ans": 3,
+      "exp": "Basophilia (mast cell → histamine) is printed as the cause of aquagenic pruritus (pruritus after bath). (Book p110)"
+    },
+    {
+      "id": "MED-C19-36",
+      "sec": "Polycythemia Rubra Vera: JAK2 Mutations and Clinical Features",
+      "page": 110,
+      "fmt": "recall",
+      "q": "Mature granulocytes in PCRV raise which transport protein and therefore which capacity, per page 110?",
+      "opts": [
+        "↑ transferrin → ↑ iron binding capacity",
+        "↑ transcobalamin-I → ↑ vitamin B12 binding capacity",
+        "↑ haptoglobin → ↑ hemoglobin binding capacity",
+        "↑ transcobalamin-II → ↓ vitamin B12 binding capacity"
+      ],
+      "ans": 1,
+      "exp": "The line reads 'mature granulocytes : ↑ transcobalamin-I → ↑ vit B12 binding capacity'. (Book p110)"
+    },
+    {
+      "id": "MED-C19-37",
+      "sec": "Polycythemia Rubra Vera: JAK2 Mutations and Clinical Features",
+      "page": 110,
+      "fmt": "recall",
+      "q": "Why does bleeding (epistaxis) occur in PCRV thrombocytosis according to page 110?",
+      "opts": [
+        "↑ dysfunctional platelets causing acquired von Willebrand disease",
+        "Vitamin K deficiency from hepatomegaly",
+        "Fibrinogen consumption in microthrombi",
+        "Platelet consumption in splenic sinusoids"
+      ],
+      "ans": 0,
+      "exp": "Thrombocytosis (↑ dysfunctional platelets) is linked to bleeding (epistaxis) via acquired von Willebrand disease. (Book p110)"
+    },
+    {
+      "id": "MED-C19-38",
+      "sec": "Polycythemia Rubra Vera: JAK2 Mutations and Clinical Features",
+      "page": 110,
+      "fmt": "fillup",
+      "q": "Erythromelalgia is described on page 110 as burning pain of hands and feet due to ______ thrombosis.",
+      "opts": [
+        "microvascular",
+        "arterial",
+        "venous",
+        "lymphatic"
+      ],
+      "ans": 0,
+      "exp": "Item 4 prints erythromelalgia (burning pain of hand and feet) 'D/t microvascular thrombosis'. (Book p110)"
+    },
+    {
+      "id": "MED-C19-39",
+      "sec": "Polycythemia Rubra Vera: JAK2 Mutations and Clinical Features",
+      "page": 110,
+      "fmt": "recall",
+      "q": "Hyperuricemia in PCRV is attributed on page 110 to:",
+      "opts": [
+        "Renal tubular urate retention",
+        "Increased turnover of cells",
+        "Xanthine oxidase induction by JAK-2",
+        "Purine-free diet deficiency"
+      ],
+      "ans": 1,
+      "exp": "Item 6 prints 'Hyperuricemia : D/t ↑ turnover of cells'. (Book p110)"
+    },
+    {
+      "id": "MED-C19-40",
+      "sec": "Polycythemia Rubra Vera: JAK2 Mutations and Clinical Features",
+      "page": 110,
+      "fmt": "truefalse",
+      "q": "Assess the page 110 investigation findings as printed.",
+      "opts": [
+        "False — The peripheral smear shows microcytosis with erythrocytosis",
+        "False — Vitamin B12 binding capacity is increased",
+        "True — Leukocyte alkaline phosphatase (LAP) from mature neutrophils is high",
+        "True — ESR is low because of ↓ rouleaux formation"
+      ],
+      "ans": 3,
+      "exp": "Page 110 prints RBC increased with ↓ MCV/normal MCH, ESR low (↓ rouleaux), PS microcytosis with erythrocytosis, LAP high and ↑ vit B12 binding capacity — so the two 'False' framings contradict the printed lines. (Book p110)"
+    },
+    {
+      "id": "MED-C19-41",
+      "sec": "PCRV Investigations, Diagnostic Criteria and Management; Primary Myelofibrosis Etiology",
+      "page": 111,
+      "fmt": "recall",
+      "q": "What mechanism does the page 111 note give for the low ESR in PCRV?",
+      "opts": [
+        "↓ MCV (to conserve MCH) → no rouleaux formation",
+        "Hyperviscosity preventing sedimentation outright",
+        "↑ fibrinogen → enhanced rouleaux",
+        "↑ plasma volume diluting globulins"
+      ],
+      "ans": 0,
+      "exp": "The note reads '↓ MCV (To conserve MCH) → No rouleaux formation'. (Book p111)"
+    },
+    {
+      "id": "MED-C19-42",
+      "sec": "PCRV Investigations, Diagnostic Criteria and Management; Primary Myelofibrosis Etiology",
+      "page": 111,
+      "fmt": "oddoneout",
+      "q": "The page 111 note lists causes of microcytosis. Pick the ODD ONE OUT — the one NOT on that printed list:",
+      "opts": [
+        "Thalassemia",
+        "Hypoxia",
+        "PCRV",
+        "Iron deficiency anemia"
+      ],
+      "ans": 3,
+      "exp": "The printed microcytosis list is hypoxia, thalassemia and PCRV; iron deficiency anemia is not listed there. (Book p111)"
+    },
+    {
+      "id": "MED-C19-43",
+      "sec": "PCRV Investigations, Diagnostic Criteria and Management; Primary Myelofibrosis Etiology",
+      "page": 111,
+      "fmt": "match",
+      "q": "Match transcobalamin facts from the page 111 diagram — 1) Site of production 2) Role … A) Neutrophils B) For transport : liver, etc.",
+      "opts": [
+        "1-B, 2-B",
+        "1-A, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-A"
+      ],
+      "ans": 2,
+      "exp": "The small diagram prints transcobalamin produced by neutrophils and used for transport (liver, etc.). (Book p111)"
+    },
+    {
+      "id": "MED-C19-44",
+      "sec": "PCRV Investigations, Diagnostic Criteria and Management; Primary Myelofibrosis Etiology",
+      "page": 111,
+      "fmt": "numeric",
+      "q": "State the haemoglobin major criterion for PCRV on page 111 for men and women respectively.",
+      "opts": [
+        ">17.5 g/dL in men and >17 g/dL in women",
+        ">15.5 g/dL in men and >14.5 g/dL in women",
+        ">16.0 g/dL in men and >15.0 g/dL in women",
+        ">16.5 g/dL in men and >16 g/dL in women"
+      ],
+      "ans": 3,
+      "exp": "Major criterion 1 prints Hb >16.5 g/dL in men and >16 g/dL in women. (Book p111)"
+    },
+    {
+      "id": "MED-C19-45",
+      "sec": "PCRV Investigations, Diagnostic Criteria and Management; Primary Myelofibrosis Etiology",
+      "page": 111,
+      "fmt": "recall",
+      "q": "List the remaining major criteria and the minor criterion for PCRV as printed on page 111.",
+      "opts": [
+        "Major: splenomegaly and LAP score; minor: raised serum EPO",
+        "Major: thrombocytosis and hyperuricemia; minor: raised serum EPO",
+        "Major: bone marrow hypercellularity and JAK-2 mutation; minor: subnormal serum erythropoietin level",
+        "Major: Ph chromosome and basophilia; minor: normal serum EPO"
+      ],
+      "ans": 2,
+      "exp": "Major criteria 2–3 are bone marrow hypercellularity and JAK-2 mutation; the minor criterion is a subnormal serum erythropoietin level. (Book p111)"
+    },
+    {
+      "id": "MED-C19-46",
+      "sec": "PCRV Investigations, Diagnostic Criteria and Management; Primary Myelofibrosis Etiology",
+      "page": 111,
+      "fmt": "management",
+      "q": "A 45-year-old PCRV patient without prior thrombosis is stratified low risk on page 111. What treatment is printed?",
+      "opts": [
+        "Phlebotomy + aspirin 75 mg + ruxolitinib 10 mg BD",
+        "Immediate allogeneic stem cell transplant",
+        "Phlebotomy weekly (maintain Hb 13–14 g/dL) + aspirin",
+        "Hydroxyurea 0.5–2 g/day alone"
+      ],
+      "ans": 2,
+      "exp": "The low-risk arm (<60 years) is phlebotomy weekly (maintain Hb 13-14 g/dL) + aspirin. (Book p111)"
+    },
+    {
+      "id": "MED-C19-47",
+      "sec": "PCRV Investigations, Diagnostic Criteria and Management; Primary Myelofibrosis Etiology",
+      "page": 111,
+      "fmt": "management",
+      "q": "A 65-year-old PCRV patient with a history of thrombosis is stratified high risk on page 111. Which regimen is printed?",
+      "opts": [
+        "Aspirin 75 mg alone with observation",
+        "Weekly phlebotomy alone maintaining Hb 13–14 g/dL",
+        "Ruxolitinib without phlebotomy or aspirin",
+        "Phlebotomy + aspirin 75 mg + JAK inhibitor ruxolitinib 10 mg BD (or) hydroxyurea 0.5–2 g/day"
+      ],
+      "ans": 3,
+      "exp": "The high-risk arm (>60 yrs, h/o thrombosis) prints phlebotomy + aspirin 75 mg + JAK inhibitor ruxolitinib 10 mg BD (or) hydroxyurea 0.5-2 g/day. (Book p111)"
+    },
+    {
+      "id": "MED-C19-48",
+      "sec": "PCRV Investigations, Diagnostic Criteria and Management; Primary Myelofibrosis Etiology",
+      "page": 111,
+      "fmt": "match",
+      "q": "Match the PMF mutation with its printed frequency on page 111 — 1) JAK-2 2) Calreticulin (CALR) 3) MPL gene 4) Triple negative PMF … A) 50% B) 30–40% C) 10–20% D) Absence of the above mutations (poor prognosis)",
+      "opts": [
+        "1-C, 2-B, 3-A, 4-D",
+        "1-A, 2-C, 3-B, 4-D",
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-C, 4-D"
+      ],
+      "ans": 3,
+      "exp": "PMF etiology prints JAK-2 50%, CALR 30–40%, MPL 10–20%, and triple negative PMF as absence of the above mutations with poor prognosis. (Book p111)"
+    },
+    {
+      "id": "MED-C19-49",
+      "sec": "PCRV Investigations, Diagnostic Criteria and Management; Primary Myelofibrosis Etiology",
+      "page": 111,
+      "fmt": "recall",
+      "q": "The MPL gene mutated in PMF codes for which molecule, per page 111?",
+      "opts": [
+        "Interleukin-3",
+        "Erythropoietin",
+        "Granulocyte colony-stimulating factor",
+        "Thrombopoietin (its receptor pathway)"
+      ],
+      "ans": 3,
+      "exp": "The parenthetical reads 'mPL gene mutation (Codes for thrombopoietin)'. (Book p111)"
+    },
+    {
+      "id": "MED-C19-50",
+      "sec": "PCRV Investigations, Diagnostic Criteria and Management; Primary Myelofibrosis Etiology",
+      "page": 111,
+      "fmt": "recall",
+      "q": "Besides the mutation list, which cytogenetic lesion is printed at the foot of the PMF etiology on page 111?",
+      "opts": [
+        "Monosomy 7",
+        "Isochromosome 17",
+        "Deletion 13q",
+        "Deletion 20q"
+      ],
+      "ans": 2,
+      "exp": "The last etiology line prints 'Deletion 13q'. (Book p111)"
+    },
+    {
+      "id": "MED-C19-51",
+      "sec": "Primary Myelofibrosis: Pathogenesis and Clinical Features",
+      "page": 112,
+      "fmt": "recall",
+      "q": "In the page 112 pathogenesis of PMF, dysplastic megakaryocytes lack which receptor?",
+      "opts": [
+        "Fcγ receptors",
+        "CXCR4 receptors",
+        "TPO (MPL) receptors",
+        "CD55/CD59 GPI anchors"
+      ],
+      "ans": 1,
+      "exp": "The diagram labels dysplastic megakaryocytes as '(Lack CXCR4 receptors)' alongside myeloproliferation (hypercellular marrow). (Book p112)"
+    },
+    {
+      "id": "MED-C19-52",
+      "sec": "Primary Myelofibrosis: Pathogenesis and Clinical Features",
+      "page": 112,
+      "fmt": "recall",
+      "q": "Which two growth factors drive marrow fibrosis on page 112, and which is called the most potent pathogenic fibrogenic cytokine?",
+      "opts": [
+        "PDGF (most potent) and IL-6; ↑ type-II collagen",
+        "VEGF (most potent) and FGF; ↑ type-I collagen",
+        "TGF-β (most potent) and PDGF (platelet derived growth factor); fibrosis shows ↑ type-III collagen",
+        "TGF-α (most potent) and EGF; ↑ type-IV collagen"
+      ],
+      "ans": 2,
+      "exp": "The pathway prints TGF-β (most potent pathogenic fibrogenic cytokine) and PDGF causing marrow fibrosis (↑ in type-III collagen). (Book p112)"
+    },
+    {
+      "id": "MED-C19-53",
+      "sec": "Primary Myelofibrosis: Pathogenesis and Clinical Features",
+      "page": 112,
+      "fmt": "recall",
+      "q": "What peripheral smear consequence follows the release of premature cells in PMF on page 112?",
+      "opts": [
+        "Isolated thrombocytosis without nucleated red cells",
+        "Rouleaux formation with normal counts",
+        "Leukoerythroblastosis in peripheral smear, with pancytopenia",
+        "Pure erythroid predominance without immature cells"
+      ],
+      "ans": 2,
+      "exp": "The diagram shows release of premature cells → pancytopenia and leukoerythroblastosis in peripheral smear. (Book p112)"
+    },
+    {
+      "id": "MED-C19-54",
+      "sec": "Primary Myelofibrosis: Pathogenesis and Clinical Features",
+      "page": 112,
+      "fmt": "recall",
+      "q": "Summarize the demographic and presentation notes for PMF on page 112.",
+      "opts": [
+        "Most cases present in proliferative stage; age <40 years; female > male",
+        "Most cases present acutely with blast crisis; male = female",
+        "Most cases present in fibrotic stage; age >60 years; male > female",
+        "Most cases present in fibrotic stage; age >60 years; male = female"
+      ],
+      "ans": 3,
+      "exp": "The clinical features print most cases presenting in the fibrotic stage, age >60 years, gender male = female. (Book p112)"
+    },
+    {
+      "id": "MED-C19-55",
+      "sec": "Primary Myelofibrosis: Pathogenesis and Clinical Features",
+      "page": 112,
+      "fmt": "recall",
+      "q": "How does page 112 rank thrombosis risk across the MPNs?",
+      "opts": [
+        "PCRV > ET > PMF",
+        "PMF > ET > PCRV",
+        "ET > PCRV > PMF",
+        "PCRV > PMF > ET"
+      ],
+      "ans": 0,
+      "exp": "The line reads 'Thrombosis (↑ risk in PCRV > ET > PMF)'. (Book p112)"
+    },
+    {
+      "id": "MED-C19-56",
+      "sec": "Primary Myelofibrosis: Pathogenesis and Clinical Features",
+      "page": 112,
+      "fmt": "recall",
+      "q": "Which symptom is labelled the most common in PMF pancytopenia on page 112?",
+      "opts": [
+        "Bone pain from osteosclerosis",
+        "Fatigue from anemia",
+        "Pruritus from basophilia",
+        "Bleeding from thrombocytopenia"
+      ],
+      "ans": 1,
+      "exp": "Under pancytopenia, anemia : fatigue is printed as the m/c symptom, with bleeding listed next. (Book p112)"
+    },
+    {
+      "id": "MED-C19-57",
+      "sec": "Primary Myelofibrosis: Pathogenesis and Clinical Features",
+      "page": 112,
+      "fmt": "recall",
+      "q": "When does gout appear in PMF according to page 112?",
+      "opts": [
+        "After hydroxyurea therapy",
+        "During the fibrotic stage",
+        "During the proliferation stage",
+        "Only after splenectomy"
+      ],
+      "ans": 2,
+      "exp": "The bullet reads 'Gout : During proliferation stage'. (Book p112)"
+    },
+    {
+      "id": "MED-C19-58",
+      "sec": "Primary Myelofibrosis: Pathogenesis and Clinical Features",
+      "page": 112,
+      "fmt": "match",
+      "q": "Match the extramedullary hematopoiesis manifestation printed on page 112 with its detail — 1) Massive splenomegaly 2) Osteosclerosis 3) Hepatomegaly 4) Skin … A) 75% of cases B) Bony involvement C) Portal hypertension D) Febrile neutrophilic dermatosis (Sweet syndrome)",
+      "opts": [
+        "1-B, 2-A, 3-D, 4-C",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-C, 2-B, 3-A, 4-D",
+        "1-A, 2-D, 3-C, 4-B"
+      ],
+      "ans": 1,
+      "exp": "Page 112 prints massive splenomegaly (75%), osteosclerosis, hepatomegaly (portal hypertension) and skin involvement as febrile neutrophilic dermatosis (Sweet syndrome). (Book p112)"
+    },
+    {
+      "id": "MED-C19-59",
+      "sec": "Primary Myelofibrosis: Pathogenesis and Clinical Features",
+      "page": 112,
+      "fmt": "recall",
+      "q": "What does the page 112 note say about febrile neutrophilic dermatosis (Sweet syndrome)?",
+      "opts": [
+        "It is characteristic of CML chronic phase",
+        "It is specific for PMF among all MPNs",
+        "It indicates benign disease",
+        "It is characteristic of AML"
+      ],
+      "ans": 3,
+      "exp": "The note reads 'Febrile neutrophilic dermatosis is characteristic of AML'. (Book p112)"
+    },
+    {
+      "id": "MED-C19-60",
+      "sec": "Primary Myelofibrosis: Pathogenesis and Clinical Features",
+      "page": 112,
+      "fmt": "match",
+      "q": "Match each cutaneous image caption on page 112 to what it shows — 1) 'Annular lesions (A,B,D)' 2) 'Erythematous lesions on lower limb' 3) 'Erythematous papules and plaques' … A) Ring-shaped lesions labelled in panels A, B and D B) Reddish lesions photographed on the leg C) Raised red papules/plaques photograph",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 2,
+      "exp": "The three printed cutaneous-manifestation captions are annular lesions (A,B,D), erythematous lesions on lower limb, and erythematous papules and plaques. (Book p112)"
+    },
+    {
+      "id": "MED-C19-61",
+      "sec": "Primary Myelofibrosis: Investigations and Management",
+      "page": 113,
+      "fmt": "recall",
+      "q": "Which two peripheral smear findings open the PMF investigations on page 113?",
+      "opts": [
+        "Spherocytes with polychromasia, and dwarf megakaryocytes",
+        "Rouleaux with cryoglobulins, and giant platelets",
+        "Schistocytes with helmet cells, and staghorn megakaryocytes",
+        "Anisopoikilocytosis with teardrop red cells/dacryocytes, and cloud-like megakaryocytes"
+      ],
+      "ans": 3,
+      "exp": "Peripheral smear prints anisopoikilocytosis with teardrop red cells/dacryocyte and thrombocytosis with cloud-like megakaryocytes. (Book p113)"
+    },
+    {
+      "id": "MED-C19-62",
+      "sec": "Primary Myelofibrosis: Investigations and Management",
+      "page": 113,
+      "fmt": "recall",
+      "q": "Which serum peptide is increased in PMF on page 113, mirroring the fibrosis marker?",
+      "opts": [
+        "Serum type-I procollagen peptide",
+        "Serum beta-2 microglobulin",
+        "Serum type-III procollagen peptide",
+        "Serum alkaline phosphatase only"
+      ],
+      "ans": 2,
+      "exp": "The investigations list 'Serum type-III procollagen peptide : Increased' (matching the ↑ type-III collagen fibrosis on p112). (Book p113)"
+    },
+    {
+      "id": "MED-C19-63",
+      "sec": "Primary Myelofibrosis: Investigations and Management",
+      "page": 113,
+      "fmt": "recall",
+      "q": "What does page 113 state about the bone marrow aspirate and biopsy in PMF?",
+      "opts": [
+        "Aspirate : markedly hypercellular wet tap; biopsy : only fat replacement",
+        "Aspirate : dry tap; biopsy : hypocellular marrow without fibrosis",
+        "Aspirate : hemodilute tap; biopsy : granulomas with caseation",
+        "Aspirate : dry tap; biopsy : silver impregnation shows reticulin fibrosis ± collagen fibrosis, with fibrosis and hypercellular marrow"
+      ],
+      "ans": 3,
+      "exp": "Bone marrow aspirate is a dry tap; biopsy shows silver impregnation reticulin fibrosis ± collagen fibrosis and fibrosis with hypercellular marrow. (Book p113)"
+    },
+    {
+      "id": "MED-C19-64",
+      "sec": "Primary Myelofibrosis: Investigations and Management",
+      "page": 113,
+      "fmt": "match",
+      "q": "Match each page 113 image caption with its picture — 1) 'Peripheral smear with tear drop cells' 2) 'Marrow cavity replaced by fibrous tissue' 3) 'Peripheral smear with nucleated RBC's and blast cells' … A) Smear photograph dominated by dacryocytes B) Biopsy view showing fibrous replacement C) Smear showing nucleated red cells and blasts",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 3,
+      "exp": "The three captions run exactly as listed: teardrop smear, marrow cavity replaced by fibrous tissue, and smear with nucleated RBCs and blast cells. (Book p113)"
+    },
+    {
+      "id": "MED-C19-65",
+      "sec": "Primary Myelofibrosis: Investigations and Management",
+      "page": 113,
+      "fmt": "recall",
+      "q": "What does the page 113 note highlight about megakaryocytes?",
+      "opts": [
+        "Megakaryocytes appear in the peripheral smear",
+        "Megakaryocytes are seen only in lymph nodes",
+        "Megakaryocytes are absent in the marrow",
+        "Peripheral megakaryocytes exclude PMF"
+      ],
+      "ans": 0,
+      "exp": "The note reads 'megakaryocytes in peripheral smear'. (Book p113)"
+    },
+    {
+      "id": "MED-C19-66",
+      "sec": "Primary Myelofibrosis: Investigations and Management",
+      "page": 113,
+      "fmt": "match",
+      "q": "Match the printed megakaryocyte descriptor with its disease on page 113 (and neighbouring pages) — 1) Staghorn 2) Giant 3) Cloud-like 4) Dwarf … A) ET B) ITP C) PMF D) CML",
+      "opts": [
+        "1-A, 2-B, 3-D, 4-C",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-A, 3-C, 4-D"
+      ],
+      "ans": 2,
+      "exp": "Page 113 prints staghorn : ET and giant : ITP, adds cloud-like megakaryocytes for PMF in the smear list, and dwarf megakaryocytes for CML appear on p118–119. (Book p113)"
+    },
+    {
+      "id": "MED-C19-67",
+      "sec": "Primary Myelofibrosis: Investigations and Management",
+      "page": 113,
+      "fmt": "numeric",
+      "q": "What median survival does page 113 quote for PMF?",
+      "opts": [
+        "5 years",
+        "2 years",
+        "10 years",
+        "15 years"
+      ],
+      "ans": 0,
+      "exp": "The management section opens with 'median survival of 5 years'. (Book p113)"
+    },
+    {
+      "id": "MED-C19-68",
+      "sec": "Primary Myelofibrosis: Investigations and Management",
+      "page": 113,
+      "fmt": "recall",
+      "q": "State the printed medical and definitive treatments of PMF with the transplant limitations on page 113.",
+      "opts": [
+        "Medical : oral ruxolitinib (in JAK-2 mutation) and lenalidomide; definitive : allogeneic hematopoietic stem cell transplant (AHSCT), limited by needing a complete match and ↑ infection risk",
+        "Medical : hydroxyurea first line; definitive : splenectomy",
+        "Medical : interferon; definitive : no curative option listed",
+        "Medical : eltrombopag; definitive : autologous stem cell transplant"
+      ],
+      "ans": 0,
+      "exp": "Medical treatment is oral ruxolitinib in JAK-2 mutation plus lenalidomide; definitive treatment is AHSCT with limitations complete match required and ↑ risk of infection. (Book p113)"
+    },
+    {
+      "id": "MED-C19-69",
+      "sec": "Primary Myelofibrosis: Investigations and Management",
+      "page": 113,
+      "fmt": "truefalse",
+      "q": "Judge the page 113 PMF statements as printed.",
+      "opts": [
+        "False — Allogeneic HSCT is listed as the definitive treatment of PMF",
+        "True — Silver impregnation of the biopsy demonstrates reticulin fibrosis ± collagen fibrosis",
+        "False — Leukoerythroblastosis with teardrop cells is part of the PMF peripheral smear picture",
+        "True — The bone marrow aspirate in PMF is a dry tap"
+      ],
+      "ans": 3,
+      "exp": "All four printed facts hold (dry tap, silver impregnation reticulin ± collagen fibrosis, teardrop leukoerythroblastosis, AHSCT definitive), so the 'False' framings contradict page 113. (Book p113)"
+    },
+    {
+      "id": "MED-C19-70",
+      "sec": "Essential Thrombocytosis: Etiology, Clinical Features, Investigations and Complications",
+      "page": 114,
+      "fmt": "recall",
+      "q": "How does page 114 characterize essential thrombocytosis overall?",
+      "opts": [
+        "Benign disease with good prognosis",
+        "Aggressive disease with poor prognosis",
+        "Self-limiting reactive phenomenon",
+        "Premalignant disease invariably transforming to AML"
+      ],
+      "ans": 0,
+      "exp": "The opening line prints 'Benign disease : Good prognosis'. (Book p114)"
+    },
+    {
+      "id": "MED-C19-71",
+      "sec": "Essential Thrombocytosis: Etiology, Clinical Features, Investigations and Complications",
+      "page": 114,
+      "fmt": "match",
+      "q": "Match the ET mutation with its printed frequency on page 114 — 1) JAK-2 2) CALR 3) MPL … A) 50–60% B) 30–40% C) 10–20%",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 2,
+      "exp": "ET etiology prints JAK-2 mutation (50-60%), CALR mutation (30-40%) and MPL mutation (10-20%). (Book p114)"
+    },
+    {
+      "id": "MED-C19-72",
+      "sec": "Essential Thrombocytosis: Etiology, Clinical Features, Investigations and Complications",
+      "page": 114,
+      "fmt": "recall",
+      "q": "Which clinical features of ET are printed on page 114?",
+      "opts": [
+        "Mild splenomegaly; bleeding > thrombosis; male = female",
+        "Mild splenomegaly; thrombosis (D/t hyperplasia) > bleeding (D/t dysplastic cells); female > male",
+        "No splenomegaly; thrombosis only; female > male",
+        "Massive splenomegaly; bleeding > thrombosis; male > female"
+      ],
+      "ans": 1,
+      "exp": "Clinical features print mild splenomegaly, thrombosis (D/t hyperplasia) > bleeding (D/t dysplastic cells), and gender female > male. (Book p114)"
+    },
+    {
+      "id": "MED-C19-73",
+      "sec": "Essential Thrombocytosis: Etiology, Clinical Features, Investigations and Complications",
+      "page": 114,
+      "fmt": "numeric",
+      "q": "What platelet count threshold defines ET on page 114?",
+      "opts": [
+        ">10 lakhs",
+        ">4.5 lakhs",
+        ">2.5 lakhs",
+        ">6.5 lakhs"
+      ],
+      "ans": 1,
+      "exp": "Investigations print PLC : >4.5 lakhs with RBC and WBC normal. (Book p114)"
+    },
+    {
+      "id": "MED-C19-74",
+      "sec": "Essential Thrombocytosis: Etiology, Clinical Features, Investigations and Complications",
+      "page": 114,
+      "fmt": "recall",
+      "q": "How are the megakaryocytes described in the ET bone marrow biopsy on page 114?",
+      "opts": [
+        "Clusters of immature blastic megakaryocytes",
+        "Hyperplasia with monolobated micromegakaryocytes",
+        "Hyperplasia (few dysplastic) with staghorn cells — giant cells having mature cytoplasm and hyperlobulated nuclei",
+        "Hypoplasia with dwarf megakaryocytes"
+      ],
+      "ans": 2,
+      "exp": "The biopsy prints megakaryocyte hyperplasia (few dysplastic) and staghorn cells defined as giant cells with mature cytoplasm, hyperlobulated nuclei. (Book p114)"
+    },
+    {
+      "id": "MED-C19-75",
+      "sec": "Essential Thrombocytosis: Etiology, Clinical Features, Investigations and Complications",
+      "page": 114,
+      "fmt": "match",
+      "q": "Match the page 114 image captions with their photographs — 1) 'Bone marrow biopsy with ↑ megakaryocyte' 2) 'Hyperlobulated nuclei of megakaryocyte' 3) 'Megakaryocyte in bone marrow of aspirate' … A) Biopsy field crowded with megakaryocytes B) High-power view of a hyperlobulated nucleus C) Aspirate film showing a megakaryocyte",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 0,
+      "exp": "The three captions print exactly as listed on page 114. (Book p114)"
+    },
+    {
+      "id": "MED-C19-76",
+      "sec": "Essential Thrombocytosis: Etiology, Clinical Features, Investigations and Complications",
+      "page": 114,
+      "fmt": "recall",
+      "q": "What does page 114 say about the risk of conversion of ET to myelofibrosis and to AML?",
+      "opts": [
+        "Highest risk of conversion to myelofibrosis; AML order ET > PMF > PCRV",
+        "Least risk of AML but highest risk of myelofibrosis",
+        "No risk of myelofibrosis; AML order PMF > PCRV > ET",
+        "Least risk of conversion to myelofibrosis; AML conversion order PCRV > PMF > ET"
+      ],
+      "ans": 3,
+      "exp": "Complications print least risk of conversion to myelofibrosis and AML (PCRV > PMF > ET). (Book p114)"
+    },
+    {
+      "id": "MED-C19-77",
+      "sec": "Essential Thrombocytosis: Etiology, Clinical Features, Investigations and Complications",
+      "page": 114,
+      "fmt": "truefalse",
+      "q": "Assess the page 114 ET statements as printed.",
+      "opts": [
+        "False — Staghorn cells in ET are giant cells with mature cytoplasm and hyperlobulated nuclei",
+        "True — Thrombosis outweighs bleeding in ET because hyperplasia drives clotting while dysplastic cells cause lesser bleeding",
+        "False — ET carries the least risk of conversion to myelofibrosis among the MPNs",
+        "True — In ET the RBC and WBC counts are normal while the platelet count exceeds 4.5 lakhs"
+      ],
+      "ans": 3,
+      "exp": "All printed facts hold (normal RBC/WBC with PLC >4.5 lakhs, thrombosis > bleeding, staghorn definition, least myelofibrosis conversion), so the 'False' framings contradict page 114. (Book p114)"
+    },
+    {
+      "id": "MED-C19-78",
+      "sec": "Essential Thrombocytosis: Evaluation and Risk-Stratified Management",
+      "page": 115,
+      "fmt": "recall",
+      "q": "Why is ET called a diagnosis by exclusion on page 115, and which two exclusions are printed?",
+      "opts": [
+        "Rule out reactive thrombocytosis (normal RBC and WBC; response to inflammation) and rule out other MPN/MDS (JAK-2 mutation, calreticulin, MPL)",
+        "Rule out iron deficiency and sepsis only",
+        "Rule out ITP and TTP via staghorn cells",
+        "Rule out CML by LAP score alone"
+      ],
+      "ans": 0,
+      "exp": "Evaluation prints diagnosis by exclusion: rule out reactive thrombocytosis (normal RBC and WBC, response to inflammation) and rule out other MPN/MDS using JAK-2 mutation, calreticulin, MPL. (Book p115)"
+    },
+    {
+      "id": "MED-C19-79",
+      "sec": "Essential Thrombocytosis: Evaluation and Risk-Stratified Management",
+      "page": 115,
+      "fmt": "fillup",
+      "q": "Reactive thrombocytosis on page 115 is described as a response to ______, with normal RBC and WBC.",
+      "opts": [
+        "inflammation",
+        "splenectomy",
+        "hemorrhage",
+        "malignancy"
+      ],
+      "ans": 0,
+      "exp": "The exclusion box prints '(Response to inflammation)' beside reactive thrombocytosis. (Book p115)"
+    },
+    {
+      "id": "MED-C19-80",
+      "sec": "Essential Thrombocytosis: Evaluation and Risk-Stratified Management",
+      "page": 115,
+      "fmt": "management",
+      "q": "A 40-year-old ET patient without thrombosis is low risk per page 115. What is printed?",
+      "opts": [
+        "Interferon first line",
+        "Aspirin 75 mg/day",
+        "Anagrelide monotherapy",
+        "Aspirin + hydroxyurea immediately"
+      ],
+      "ans": 1,
+      "exp": "The low-risk arm (<60 yrs) is aspirin 75 mg/day. (Book p115)"
+    },
+    {
+      "id": "MED-C19-81",
+      "sec": "Essential Thrombocytosis: Evaluation and Risk-Stratified Management",
+      "page": 115,
+      "fmt": "management",
+      "q": "A 65-year-old ET patient with prior thrombosis and platelets above 1.5 × 10⁶ is high risk per page 115. Which cytoreductive hierarchy is printed alongside aspirin?",
+      "opts": [
+        "Hydroxyurea > interferon > anagrelide",
+        "Anagrelide > interferon > hydroxyurea",
+        "Ruxolitinib > hydroxyurea > interferon",
+        "Interferon > hydroxyurea > anagrelide"
+      ],
+      "ans": 0,
+      "exp": "The high-risk arm (>60 yrs, h/o thrombosis, platelets >1.5 × 10⁶) prints aspirin plus hydroxyurea > interferon > anagrelide. (Book p115)"
+    },
+    {
+      "id": "MED-C19-82",
+      "sec": "Essential Thrombocytosis: Evaluation and Risk-Stratified Management",
+      "page": 115,
+      "fmt": "numeric",
+      "q": "State the three printed high-risk criteria for ET on page 115.",
+      "opts": [
+        ">50 years, history of bleeding, platelets >1.0 × 10⁶",
+        ">60 years, history of thrombosis, and platelets >1.5 × 10⁶",
+        ">60 years, splenomegaly, platelets >4.5 lakhs",
+        ">70 years, history of thrombosis, platelets >2.5 × 10⁶"
+      ],
+      "ans": 1,
+      "exp": "High risk prints >60 yrs, h/o thrombosis, platelets >1.5 × 10⁶ (as printed). (Book p115)"
+    },
+    {
+      "id": "MED-C19-83",
+      "sec": "Essential Thrombocytosis: Evaluation and Risk-Stratified Management",
+      "page": 115,
+      "fmt": "truefalse",
+      "q": "Judge the page 115 ET evaluation statements as printed.",
+      "opts": [
+        "True — JAK-2, calreticulin and MPL testing helps rule out other MPN/MDS",
+        "False — In high-risk ET the printed cytoreductive preference is hydroxyurea over interferon over anagrelide",
+        "True — Reactive thrombocytosis is excluded by noting normal RBC and WBC counts",
+        "False — Low-risk ET (<60 yrs) is managed with aspirin 75 mg/day"
+      ],
+      "ans": 2,
+      "exp": "Both exclusions and both treatment arms are exactly as printed on page 115, so the 'False' framings contradict the page. (Book p115)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U19-1",
+      "ch": 19,
+      "n": 1,
+      "title": "Overview: CMP Physiology, MPN Pathology and the Printed MPN List with Mutations",
+      "sec": "Overview: CMP Physiology, MPN Pathology and the Printed MPN List with Mutations",
+      "guide": "Physiology diagram: CMP → terminal myeloid cells (RBC, platelets, monocytes, eosinophils, basophils); pathology = proliferation of mature cells of multiple lineages with no dysplastic/immature cells.\nMPN list: 1 PCRV (m/c), 2 PMF, 3 ET — bracketed under JAK-2 (PMF additionally deletion on chr 9p); 4 CML = BCR-ABL t(9;22); 5 CNL = CSF3R; 6 CEL = PDGFRA; 7 JMML and 8 MPN-NOS are BCR-ABL negative.\nNotes: 1° myelofibrosis (myelophthisis) = bone marrow failure; systemic mastocytosis (c-kit) is excluded from MPN.",
+      "qs": [
+        "MED-C19-01",
+        "MED-C19-02",
+        "MED-C19-03",
+        "MED-C19-04",
+        "MED-C19-05",
+        "MED-C19-06",
+        "MED-C19-07",
+        "MED-C19-08"
+      ]
+    },
+    {
+      "id": "MED-U19-2",
+      "ch": 19,
+      "n": 2,
+      "title": "Clinical Features of MPN, Polycythemia Thresholds and Relative Polycythemia (Gaisböck's)",
+      "sec": "Clinical Features of MPN, Polycythemia Thresholds and Relative Polycythemia (Gaisböck's)",
+      "guide": "EMH at spleen (m/c), skin, liver; splenomegaly massive in CML/PMF, moderate in PCRV, mild in ET; classical B symptoms in 20%; MPN can transform into each other or AML; MDS = ineffective proliferation → pancytopenia; MDS/MPN overlap in WHO 5th edition.\nPolycythemia table: male Hb ≥16.5 gm%/PCV 49, female ≥16/48; types relative and absolute.\nRelative polycythemia (Gaisböck's): ↓ plasma volume (dehydration) → ↑ Hb%, post-viral; investigations show normal RBC mass/TC/PLC with ↑ Hb.",
+      "qs": [
+        "MED-C19-09",
+        "MED-C19-10",
+        "MED-C19-11",
+        "MED-C19-12",
+        "MED-C19-13",
+        "MED-C19-14",
+        "MED-C19-15",
+        "MED-C19-16",
+        "MED-C19-17",
+        "MED-C19-18",
+        "MED-C19-19"
+      ]
+    },
+    {
+      "id": "MED-U19-3",
+      "ch": 19,
+      "n": 3,
+      "title": "Absolute Polycythemia: Types, EPO/TC/PLC Table and Secondary Etiologies",
+      "sec": "Absolute Polycythemia: Types, EPO/TC/PLC Table and Secondary Etiologies",
+      "guide": "Absolute = increased RBC mass; primary (PCRV) vs secondary; table: EPO normal-to-low in PCRV vs increased in secondary; TC/PLC increased in PCRV vs normal in secondary.\nEPO = erythropoietin (cortex and outer medulla of kidney); hypoxic causes: COPD, OSAS, high altitude, CO intoxication, hepatopulmonary syndrome; renal artery stenosis separate.\nParaneoplastic: renal carcinoma (hypernephroma), cerebellar hemangioblastoma (von Hippel-Lindau), meningioma, pheochromocytoma (pallor ⇒ malignancy), hepatoma, uterine fibroids; features headache, dizziness, hypertension in paraneoplastic patients.",
+      "qs": [
+        "MED-C19-20",
+        "MED-C19-21",
+        "MED-C19-22",
+        "MED-C19-23",
+        "MED-C19-24",
+        "MED-C19-25",
+        "MED-C19-26",
+        "MED-C19-27",
+        "MED-C19-28",
+        "MED-C19-29"
+      ]
+    },
+    {
+      "id": "MED-U19-4",
+      "ch": 19,
+      "n": 4,
+      "title": "Polycythemia Rubra Vera: JAK2 Mutations and Clinical Features",
+      "sec": "Polycythemia Rubra Vera: JAK2 Mutations and Clinical Features",
+      "guide": "PCRV = m/c MPN, age 50–60, female > male; JAK-2 in 100% (exon 14 V617F 95%, exon 12 5%).\nErythrocytosis: hyperviscosity, thrombosis arterial > venous (arterial stroke in young; venous Budd-Chiari/DVT; microvascular erythromelalgia), hypertension.\nGranulocytosis: neutrophilia, basophilia → histamine → aquagenic pruritus, ↑ transcobalamin-I → ↑ B12 binding capacity; thrombocytosis → dysfunctional platelets → bleeding (epistaxis, acquired vWD); moderate splenomegaly; hyperuricemia (↑ turnover).\nInvestigations: ↑ RBC with ↓ MCV/normal MCH, low ESR (↓ rouleaux), PS microcytosis with erythrocytosis, LAP high, ↑ B12 binding capacity.",
+      "qs": [
+        "MED-C19-30",
+        "MED-C19-31",
+        "MED-C19-32",
+        "MED-C19-33",
+        "MED-C19-34",
+        "MED-C19-35",
+        "MED-C19-36",
+        "MED-C19-37",
+        "MED-C19-38",
+        "MED-C19-39",
+        "MED-C19-40"
+      ]
+    },
+    {
+      "id": "MED-U19-5",
+      "ch": 19,
+      "n": 5,
+      "title": "PCRV Investigations, Diagnostic Criteria and Management; Primary Myelofibrosis Etiology",
+      "sec": "PCRV Investigations, Diagnostic Criteria and Management; Primary Myelofibrosis Etiology",
+      "guide": "Note: ↓ MCV (to conserve MCH) → no rouleaux; microcytosis list hypoxia, thalassemia, PCRV; transcobalamin from neutrophils for transport (liver, etc.).\nCriteria: major Hb >16.5 men/>16 women, marrow hypercellularity, JAK-2; minor subnormal serum EPO.\nManagement: low risk <60 yrs — phlebotomy weekly (Hb 13–14) + aspirin; high risk >60 yrs/h/o thrombosis — phlebotomy + aspirin 75 mg + ruxolitinib 10 mg BD (or) hydroxyurea 0.5–2 g/day.\nPMF etiology: JAK-2 50%, CALR 30–40%, MPL (codes for thrombopoietin) 10–20%, triple negative = poor prognosis, deletion 13q.",
+      "qs": [
+        "MED-C19-41",
+        "MED-C19-42",
+        "MED-C19-43",
+        "MED-C19-44",
+        "MED-C19-45",
+        "MED-C19-46",
+        "MED-C19-47",
+        "MED-C19-48",
+        "MED-C19-49",
+        "MED-C19-50"
+      ]
+    },
+    {
+      "id": "MED-U19-6",
+      "ch": 19,
+      "n": 6,
+      "title": "Primary Myelofibrosis: Pathogenesis and Clinical Features",
+      "sec": "Primary Myelofibrosis: Pathogenesis and Clinical Features",
+      "guide": "Dysplastic megakaryocytes (lack CXCR4) in hypercellular marrow release TGF-β (most potent fibrogenic cytokine) and PDGF → marrow fibrosis (↑ type-III collagen); premature-cell release → leukoerythroblastosis and pancytopenia.\nMost present in fibrotic stage; age >60; male = female; thrombosis risk PCRV > ET > PMF; B symptoms 20%; fatigue (m/c) from anemia; gout in proliferation stage.\nEMH: massive splenomegaly (75%), osteosclerosis, hepatomegaly (portal hypertension), skin febrile neutrophilic dermatosis (Sweet syndrome — note: characteristic of AML); cutaneous photos show annular lesions (A,B,D), erythematous lower-limb lesions, erythematous papules and plaques.",
+      "qs": [
+        "MED-C19-51",
+        "MED-C19-52",
+        "MED-C19-53",
+        "MED-C19-54",
+        "MED-C19-55",
+        "MED-C19-56",
+        "MED-C19-57",
+        "MED-C19-58",
+        "MED-C19-59",
+        "MED-C19-60"
+      ]
+    },
+    {
+      "id": "MED-U19-7",
+      "ch": 19,
+      "n": 7,
+      "title": "Primary Myelofibrosis: Investigations and Management",
+      "sec": "Primary Myelofibrosis: Investigations and Management",
+      "guide": "PS: anisopoikilocytosis with teardrop cells/dacryocytes; cloud-like megakaryocytes; serum type-III procollagen peptide increased; aspirate dry tap; biopsy silver impregnation reticulin ± collagen fibrosis with hypercellular marrow; note megakaryocytes in peripheral smear.\nMegakaryocyte glossary: staghorn ET, giant ITP, cloud-like PMF, dwarf CML.\nMedian survival 5 years; medical oral ruxolitinib (JAK-2) and lenalidomide; definitive AHSCT limited by complete-match requirement and ↑ infection risk.",
+      "qs": [
+        "MED-C19-61",
+        "MED-C19-62",
+        "MED-C19-63",
+        "MED-C19-64",
+        "MED-C19-65",
+        "MED-C19-66",
+        "MED-C19-67",
+        "MED-C19-68",
+        "MED-C19-69"
+      ]
+    },
+    {
+      "id": "MED-U19-8",
+      "ch": 19,
+      "n": 8,
+      "title": "Essential Thrombocytosis: Etiology, Clinical Features, Investigations and Complications",
+      "sec": "Essential Thrombocytosis: Etiology, Clinical Features, Investigations and Complications",
+      "guide": "Benign disease, good prognosis; JAK-2 50–60%, CALR 30–40%, MPL 10–20%; mild splenomegaly; thrombosis (hyperplasia) > bleeding (dysplastic cells); female > male.\nRBC/WBC normal, PLC >4.5 lakhs; biopsy megakaryocyte hyperplasia (few dysplastic) with staghorn cells (giant, mature cytoplasm, hyperlobulated nuclei); photos: ↑ megakaryocytes, hyperlobulated nuclei, megakaryocyte in aspirate.\nLeast conversion to myelofibrosis; AML order PCRV > PMF > ET.",
+      "qs": [
+        "MED-C19-70",
+        "MED-C19-71",
+        "MED-C19-72",
+        "MED-C19-73",
+        "MED-C19-74",
+        "MED-C19-75",
+        "MED-C19-76",
+        "MED-C19-77"
+      ]
+    },
+    {
+      "id": "MED-U19-9",
+      "ch": 19,
+      "n": 9,
+      "title": "Essential Thrombocytosis: Evaluation and Risk-Stratified Management",
+      "sec": "Essential Thrombocytosis: Evaluation and Risk-Stratified Management",
+      "guide": "Diagnosis by exclusion: rule out reactive thrombocytosis (normal RBC/WBC, response to inflammation) and other MPN/MDS (JAK-2, calreticulin, MPL).\nLow risk <60 yrs: aspirin 75 mg/day; high risk (>60 yrs, h/o thrombosis, platelets >1.5 × 10⁶): aspirin + hydroxyurea > interferon > anagrelide.",
+      "qs": [
+        "MED-C19-78",
+        "MED-C19-79",
+        "MED-C19-80",
+        "MED-C19-81",
+        "MED-C19-82",
+        "MED-C19-83"
+      ]
+    }
+  ]
+}
