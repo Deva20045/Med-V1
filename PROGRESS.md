@@ -1,14 +1,39 @@
 # PULSE Medicine Vol 1 — Progress
 
-Updated **2026-10-01** (Chapters 13–18 released and deployed; source review now reaches Book p106). Standalone offline quiz based on *PULSE Medicine Vol 1*, printed Book p1–375 (Marrow Edition 8).
+Updated **2026-10-03** (Chapters 19–21 released and deployed; source review now reaches Book p125). Standalone offline quiz based on *PULSE Medicine Vol 1*, printed Book p1–375 (Marrow Edition 8).
 
 - Repository: `Deva20045/Med-V1`
-- Session branch: `arena/01a0f61e-med-v1`
+- Session branch: `arena/01a0ffb8-med-v1`
 - Published URL: https://deva20045.github.io/Med-V1/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 18 live chapters / 61 · 1,712 questions / 144 units.** Chapters 1–18 are embedded by `build_content.py`; the GitHub Pages deployment for this release succeeded. Source coverage is complete through Book p106.
+- **Build status: 21 live chapters / 61 · 1,900 questions / 163 units.** Chapters 1–21 are embedded by `build_content.py`; the GitHub Pages deployment for this release succeeded. Source coverage is complete through Book p125.
 
-## This release — Chapters 13 to 18 (Book p77–106)
+## This release — Chapters 19 to 21 (Book p107–125)
+
+The requested three myeloproliferative/bone-marrow-failure chapters were reviewed sheet-by-sheet in printed order (`uploads/01.pdf` PDF119–129 and `uploads/02.pdf` PDF1–8), then encoded with shuffled, parallel, non-predictable options across all formats (`recall`, `numeric`, `scenario`, `truefalse`, `oddoneout`, `management`, `fillup`, and 2- to 4-item bijective `match` items) and page-cited explanations. Handwritten numerals (≥16.5/≥16, 30:1, >1.5 × 10⁶, <30.0 × 10⁹/L, 6–8 years, WBC >2 lakh, 25%, 6 months, <0.1%) were cross-checked visually at high zoom and are recorded in [audit/known-source-caveats.md](audit/known-source-caveats.md). Existing Chapters 1–18 remain unchanged.
+
+| Ch | Title | Printed pages | PDF sheets | Questions | Units |
+|---:|---|---:|---:|---:|---:|
+| 19 | Myeloproliferative Neoplasms : Part 1 | 107–115 | 01.pdf PDF119–127 | 83 | 9 |
+| 20 | Myeloproliferative Neoplasms : Part 2 | 116–120 | 01.pdf PDF128–129 + 02.pdf PDF1–3 | 53 | 5 |
+| 21 | Bone Marrow Failure Syndromes | 121–125 | 02.pdf PDF4–8 | 52 | 5 |
+| **Cumulative total** |  | **125 book pages** |  | **1,900** | **163** |
+
+Cumulative format distribution through Chapter 21: 1,239 recall, 199 numeric, 140 match, 100 fillup, 69 scenario, 64 truefalse, 52 oddoneout, 37 management.
+
+### Chapter 19 — Myeloproliferative Neoplasms : Part 1 (p107–115)
+
+CMP physiology and MPN pathology (mature multilineage proliferation, no dysplastic/immature cells), the printed MPN list with mutations (PCRV m/c; JAK-2 bracket over PCRV/PMF/ET with chr 9p deletion in PMF; CML BCR-ABL t(9;22); CNL CSF3R; CEL PDGFRA; BCR-ABL-negative CNL/CEL/JMML/MPN-NOS; myelophthisis note; systemic mastocytosis c-kit excluded), MPN clinical features (EMH spleen m/c; splenomegaly massive CML/PMF–moderate PCRV–mild ET; B symptoms 20%; MDS/MPN overlap WHO 5th), polycythemia thresholds (male ≥16.5/49, female ≥16/48), relative polycythemia (Gaisböck's, ↓ plasma volume, post-viral), absolute polycythemia table (EPO normal-to-low vs increased; TC/PLC increased vs normal), secondary etiologies (hypoxia incl. hepatopulmonary syndrome; renal artery stenosis; paraneoplastic incl. von Hippel-Lindau hemangioblastoma and the pallor-in-pheochromocytoma note), PCRV (JAK-2 100% exon 14 V617F 95%/exon 12 5%; arterial>venous thrombosis with Budd-Chiari/DVT/stroke-in-young; aquagenic pruritus; transcobalamin-I ↑ B12 binding; acquired vWD bleeding; erythromelalgia; hyperuricemia; ↓ ESR ↓ rouleaux; LAP high), PCRV criteria (Hb >16.5/>16, hypercellular marrow, JAK-2; minor subnormal EPO) and risk-stratified treatment (weekly phlebotomy Hb 13–14 + aspirin vs + ruxolitinib 10 mg BD or hydroxyurea 0.5–2 g/day), PMF etiology (JAK-2 50%, CALR 30–40%, MPL 10–20%, triple-negative poor prognosis, del 13q), PMF pathogenesis (CXCR4-lacking dysplastic megakaryocytes, TGF-β/PDGF, type-III collagen fibrosis, leukoerythroblastosis), PMF features (fibrotic stage, >60 yrs, thrombosis PCRV>ET>PMF, 75% massive splenomegaly, osteosclerosis, portal hypertension, Sweet syndrome note re AML, cutaneous photo captions), PMF investigations (teardrop/dacryocytes, cloud-like megakaryocytes, type-III procollagen peptide, dry tap, silver impregnation) and treatment (ruxolitinib/lenalidomide; AHSCT limitations; 5-year median survival), ET (JAK-2 50–60%, CALR, MPL; mild splenomegaly; thrombosis>bleeding; PLC >4.5 lakhs; staghorn cells; least myelofibrosis conversion; AML PCRV>PMF>ET) and ET evaluation/management (exclusion of reactive thrombocytosis; aspirin 75 mg/day vs hydroxyurea > interferon > anagrelide).
+
+### Chapter 20 — Myeloproliferative Neoplasms : Part 2 (p116–120)
+
+CML pathophysiology (myeloid-origin cells; myelopoiesis lines; BCR on 22q, ABL on 9q, MBS autoinhibition; balanced reciprocal translocation in 100% myeloid>B>T; ABL exon onto BCR exon 13/14; Ph chromosome 95%; absent MBS → constitutive ABL kinase → ATP docking → tyrosine phosphorylation), CML-vs-AML comparison (fairly normal vs complete arrest differentiation; high multiple vs very high single lineage), asciminib-acts-on-MBS note, risk factors (50–70 yrs, male>female, radiation 6–8 years, germ line very low; 5-year survival 85–90%), clinical features (asymptomatic leukocytosis ~1 lakh m/c; fatigue via cytokines on CFU; massive splenomegaly symptom cluster; blast crisis ≥20% within 4 years untreated; gouty arthritis; basophil histamine skin signs; WBC >2 lakh hyperviscosity; B symptoms 10–15% classically Hodgkin's), investigations (smear myelocyte bulge/left shift, blasts <5%, eosinophilia/basophilia, thrombocytosis without events; LAP low with PNH note; tryptase; cytology/immunophenotyping/G-banding/FISH pairing; cytogenetics t(9;22) vs quantitative PCR; mandatory karyotyping for double Ph/trisomy 8/isochromosome 17/del 20q; dwarf megakaryocytes), marrow picture (hypercellularity, granulopoiesis 30:1, ↓ erythropoiesis, dwarf megakaryocytes, sea-blue histiocytes = Gaucher cells, fibrosis; Wright-Giemsa images), obsolete accelerated phase and obsolete Sokal/Hasford scales with parameters a–e, and management (hydroxyurea; full TKI table with generations, T315I row and side effects; CCR in 6 months as key survival predictor; molecular milestones 3/6/12 months with MMR <0.1%).
+
+### Chapter 21 — Bone Marrow Failure Syndromes (p121–125)
+
+Disease list (aplastic anemia, MDS, PRCA, myelophthisis), the pancytopenia flowchart (hypercellular arm: acute leukemia unless proven otherwise AML 80/ALL 20, MDS, PMF, hairy cell, megaloblastic, PNH, systemic SLE/HIV/TB/brucellosis/leishmaniasis/sarcoidosis; hypocellular + pancytopenia: aplastic anemia, 20% MDS, aleukemic leukemia, copper deficiency, lymphoma; ± pancytopenia: Q fever, Legionella, anorexia, TB), PMF/hairy-cell one-liners, the printed "hypercellular" slip under aplastic anemia (flagged; flowchart and p123 show hypocellular), bimodal ages (<20 inherited, >60 acquired), drug-dependent m/c cause and non-A non-B hepatitis m/c infection; inherited syndromes (Fanconi AR FANCA>FANCB/FANCC with features and image panels A/B/C, dyskeratosis congenita DKC/telomere with reticular pigmentation and dystrophic-nail photos, Shwachman-Diamond ribosomopathy with pancreatic exocrine insufficiency and metaphyseal dysplasia), acquired causes (idiopathic m/c, drugs, benzene, non-A B C hepatitis, PNH, eosinophilic fasciitis), drug table (dose-dependent anticancer temporary myelosuppression vs dose-independent chloramphenicol/sulfonamides/gold/acetazolamide/PTU/D-penicillamine), presentation bleeding>anemia>infection, features against diagnosis, severe thresholds as printed (Hb <9, retic <30.0, ANC <0.5, platelets <30.0 → AHSCT), hypocellular marrow with fat cells, equine ATG + cyclosporine (6 months, 50%) and eltrombopag; PRCA (thymoma/CLL; transient aplastic crisis with giant pronormoblasts and IVIG), MDS overview (AKA myeloid neoplasm; CMML overlap; global 70 yrs M>F multilineage vs India 40–60 yrs 5q-deletion female RBC-lineage lenalidomide; hypercellular 80%/hypocellular 20%; AML 25%; no EMH; fatigue; RBC parameters with SF3B1 ring sideroblasts on Perls), and page 125 (WBC blasts 5–19%, pseudo-Pelger-Huët 2 lobes, toxic granules, Döhle bodies; pawn-ball/binucleate/dysplastic megakaryocyte images; diagnostic features; R-IPSS with poor 7q/monosomy 7 paediatric, good 5q/20q, best 11q; treatment flowchart single lineage 5q present lenalidomide / absent erythropoietin, trilineage transplant or azacytidine/decitabine).
+
+## Earlier release — Chapters 13 to 18 (Book p77–106)
 
 The requested six hematology chapters were reviewed sheet-by-sheet in printed order (`uploads/01.pdf` PDF89–118), then encoded with shuffled, parallel, non-predictable options across all formats (`recall`, `numeric`, `scenario`, `truefalse`, `oddoneout`, `management`, `fillup`, and 3- to 4-item bijective `match` items) and page-cited explanations. Existing Chapters 1–12 remain unchanged.
 
@@ -106,11 +131,11 @@ Inherited hemolytic anemia classification (hemoglobinopathies, membrane cytoskel
 
 ## Quality and ordering contract delivered
 
-1. Every printed page p1–106 is covered in book order from the scanned source (no text layer exists); headings, table cells, image labels, flowchart arms, thresholds and notes are represented. Page map: `01.pdf` PDF13 = p1 … PDF118 = p106; no requested sheets are missing.
-2. `audit/coverage.json` holds **1,712 inventoried points** across Chapters 1–18; every ledger point resolves to exactly one question in question order and on the matching book page.
-3. Four-option sets are unique, parallel in length/detail, and deterministically shuffled across all four positions (`A`–`D`). Matching items use 3- or 4-item bijections with varied permutations; true/false items have balanced 2 True / 2 False choices; numeric and fill-up questions use plausible clinical distractors; scenarios retain full clinical context.
+1. Every printed page p1–125 is covered in book order from the scanned source (no text layer exists); headings, table cells, image labels, flowchart arms, thresholds and notes are represented. Page map: `01.pdf` PDF13 = p1 … PDF129 = p117 and `02.pdf` PDF1 = p118 … PDF8 = p125; no requested sheets are missing.
+2. `audit/coverage.json` holds **1,900 inventoried points** across Chapters 1–21; every ledger point resolves to exactly one question in question order and on the matching book page.
+3. Four-option sets are unique, parallel in length/detail, and deterministically shuffled across all four positions (`A`–`D`). Matching items use 2- to 4-item bijections with varied permutations; true/false items have balanced 2 True / 2 False choices; numeric and fill-up questions use plausible clinical distractors; scenarios retain full clinical context.
 4. IDs are sequential `MED-C<N>-<seq>`; the question array is strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, every unit guide is 2–4 lines, and every explanation ends with its exact `(Book pX)` citation matching the question page.
-5. Chapters 1–18 are embedded in the standalone app with live flags set; **18/61 roadmap chapters are live**. See [audit/known-source-caveats.md](audit/known-source-caveats.md) for transcription and medical-source caveats.
+5. Chapters 1–21 are embedded in the standalone app with live flags set; **21/61 roadmap chapters are live**. See [audit/known-source-caveats.md](audit/known-source-caveats.md) for transcription and medical-source caveats.
 
 ## Verified PDF → printed-page map
 
@@ -317,6 +342,25 @@ node tests/app_parsers.cjs
 | 18 | Hereditary Spherocytosis: Pathogenesis, Clinical Features & Investigations | 104 | MED-C18-15–MED-C18-25 | 11 |
 | 18 | Hereditary Spherocytosis Treatment & G6PD Deficiency: Genetics, HMP Shunt and Triggers | 105 | MED-C18-26–MED-C18-37 | 12 |
 | 18 | G6PD Deficiency: Peripheral Smear, Diagnosis, Treatment & Anemia of Blood Loss | 106 | MED-C18-38–MED-C18-49 | 12 |
+| 19 | Overview: CMP Physiology, MPN Pathology and the Printed MPN List with Mutations | 107 | MED-C19-01–MED-C19-08 | 8 |
+| 19 | Clinical Features of MPN, Polycythemia Thresholds and Relative Polycythemia (Gaisböck's) | 108 | MED-C19-09–MED-C19-19 | 11 |
+| 19 | Absolute Polycythemia: Types, EPO/TC/PLC Table and Secondary Etiologies | 109 | MED-C19-20–MED-C19-29 | 10 |
+| 19 | Polycythemia Rubra Vera: JAK2 Mutations and Clinical Features | 110 | MED-C19-30–MED-C19-40 | 11 |
+| 19 | PCRV Investigations, Diagnostic Criteria and Management; Primary Myelofibrosis Etiology | 111 | MED-C19-41–MED-C19-50 | 10 |
+| 19 | Primary Myelofibrosis: Pathogenesis and Clinical Features | 112 | MED-C19-51–MED-C19-60 | 10 |
+| 19 | Primary Myelofibrosis: Investigations and Management | 113 | MED-C19-61–MED-C19-69 | 9 |
+| 19 | Essential Thrombocytosis: Etiology, Clinical Features, Investigations and Complications | 114 | MED-C19-70–MED-C19-77 | 8 |
+| 19 | Essential Thrombocytosis: Evaluation and Risk-Stratified Management | 115 | MED-C19-78–MED-C19-83 | 6 |
+| 20 | CML Pathophysiology: Myelopoiesis, BCR-ABL Molecular Genetics & the Philadelphia Chromosome | 116 | MED-C20-01–MED-C20-09 | 9 |
+| 20 | CML Versus AML, TKI Note, Risk Factors & Clinical Features | 117 | MED-C20-10–MED-C20-23 | 14 |
+| 20 | CML Investigations: Peripheral Smear, LAP, Tryptase, Cytogenetics & Bone Marrow Study | 118 | MED-C20-24–MED-C20-33 | 10 |
+| 20 | CML Bone Marrow Picture, Accelerated Phase (Obsolete) & Prognostic Scales | 119 | MED-C20-34–MED-C20-41 | 8 |
+| 20 | CML Management: Hydroxyurea, the TKI Table, Response Milestones & Monitoring | 120 | MED-C20-42–MED-C20-53 | 12 |
+| 21 | Approach to Pancytopenia: Marrow Cellularity Flowchart & Aplastic Anemia Overview | 121 | MED-C21-01–MED-C21-12 | 12 |
+| 21 | Inherited vs Acquired Aplastic Anemia: Fanconi, Dyskeratosis Congenita, Shwachman-Diamond | 122 | MED-C21-13–MED-C21-21 | 9 |
+| 21 | Drugs Causing Aplastic Anemia, Presentation, Severity Criteria & Treatment | 123 | MED-C21-22–MED-C21-32 | 11 |
+| 21 | Pure Red Cell Aplasia & MDS Overview: Global Versus India Presentation | 124 | MED-C21-33–MED-C21-42 | 10 |
+| 21 | MDS Blood Parameters, Prognostic Scoring & Treatment Flowchart | 125 | MED-C21-43–MED-C21-52 | 10 |
 
 ## Full roadmap
 
@@ -340,9 +384,9 @@ node tests/app_parsers.cjs
 | 16 | Immune Mediated Hemolytic Anemia | 92 | **Live** |
 | 17 | Non-Immune Mediated Hemolytic Anemia | 97 | **Live** |
 | 18 | Hemolytic Anemia : Miscellaneous | 103 | **Live** |
-| 19 | Myeloproliferative Neoplasms : Part 1 | 107 | Soon |
-| 20 | Myeloproliferative Neoplasms : Part 2 | 118 | Soon |
-| 21 | Bone Marrow Failure Syndromes | 121 | Soon |
+| 19 | Myeloproliferative Neoplasms : Part 1 | 107 | **Live** |
+| 20 | Myeloproliferative Neoplasms : Part 2 | 116 | **Live** |
+| 21 | Bone Marrow Failure Syndromes | 121 | **Live** |
 | 22 | Acute Leukemia | 126 | Soon |
 | 23 | Acute Myeloid Leukemia V/S Acute Lymphoblastic Leukemia | 136 | Soon |
 | 24 | World of Lymphomas | 140 | Soon |
@@ -393,4 +437,4 @@ node tests/app_parsers.cjs
 4. Run `validate_content.py`, `tests`, and `build_content.py` to embed; verify live flags and embedded arrays.
 5. Commit, push, PR to `main` — live link updates via GitHub Pages.
 
-*Next up:* **Chapter 19 — Myeloproliferative Neoplasms : Part 1 (p107)** — render `uploads/01.pdf` PDF119 onward, audit in strict book order, and continue the same pipeline.
+*Next up:* **Chapter 22 — Acute Leukemia (p126)** — render `uploads/02.pdf` PDF9 onward, audit in strict book order, and continue the same pipeline.
