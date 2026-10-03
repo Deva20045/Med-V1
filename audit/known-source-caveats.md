@@ -1,4 +1,4 @@
-# Source caveats and transcription decisions — Book p46–125
+# Source caveats and transcription decisions — Book p46–139
 
 This companion follows the scanned *PULSE Medicine Vol 1*, Marrow Edition 8, page by page. Questions that reproduce a source statement are labelled as such; they are not independent clinical recommendations. The standalone app carries a matching study-only disclaimer.
 
@@ -34,6 +34,12 @@ This companion follows the scanned *PULSE Medicine Vol 1*, Marrow Edition 8, pag
 | 123 | Severe aplastic anemia thresholds are handwritten: Hb <9 g/dl, reticulocyte <30.0 × 10⁹/L, ANC <0.5 × 10⁹/L, platelet <30.0 × 10⁹/L. | Verified visually at 24x render; they differ from commonly quoted Camitta-style values but are tested exactly as printed. |
 | 124 | MDS “Progresses to AML (25%)” and India age “40–60 yrs (D/t 5q deletion)” are handwritten. | Verified visually; tested as printed. |
 | 125 | Prognostic tiers print poor = 7q deletion/monosomy 7 (paediatric MDS), good = 5q/20q deletion, best = 11q deletion. | Kept as printed; “11q” read from the handwritten “llq”. |
+| 127 | PDF page 10 (`uploads/02.pdf`) is scanned rotated 90° clockwise; under Hereditary risk factors, Down syndrome is printed with “10–20× ↑ risk”. | Rotated 90° counter-clockwise for visual inspection; every point on the page is transcribed and tested in strict reading order. |
+| 129 | Under WHO (2016), prints “AML – therapy related (M6)” and “AML – not otherwise specified (M2, M3, M4)”; under Recurrent genetic abnormalities, prints “t(8; 21) / t(RUNX1; RUNX1)” (whereas p132 prints “RUNX₁–RUNX₁T₁ translocation”) and expands FLT3-ITD as “(Inverse tandem duplication of Fms-like tyrosine kinase)” (standard expansion: internal tandem duplication). | Preserved as printed with explicit “(as printed)” annotations and explanations cross-referencing p132 and the standard expansion. |
+| 134 | Under Acute Promyelocytic Leukemia (AML M3) at the bottom of p134, the two bone marrow smear panels are captioned “Hypergranular myeloblasts”. | Tested with the exact printed caption noted in the option and explanation. |
+| 135 | Prints “Sans criteria for risk :” for APML risk stratification (standard spelling: Sanz criteria). | Tested as “Sans criteria for risk (Sanz criteria, as printed)” so both the printed spelling and standard eponym are clear. |
+| 136 | The comparison table lists “Nucleoli : Absent” for Lymphoblast and “Present” for Myeloblast, whereas the bottom schematic “Myeloblast vs lymphoblast” points the “Nucleoli” label to both cells (5 in the left myeloblast, 2 in the right lymphoblast). | Tested in separate questions anchored explicitly to the table row vs the bottom schematic diagram, with the distinction explained. |
+| 137 | The right-side Note under RISK FACTORS prints “Radiation : in AML, ALL, CLL.” (standard hematology textbooks exclude CLL from radiation-associated leukemias). | Tested as printed on p137 with an explicit caveat in the option and explanation. |
 
 ## General use note
 
