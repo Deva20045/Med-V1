@@ -12,6 +12,7 @@ The audited run through Chapter 21 (p1–125) continues 01.pdf PDF119–129 (p10
 The audited run through Chapter 23 (p1–139) continues 02.pdf PDF9–22 (p126–139).
 The audited run through Chapter 28 (p1–168) continues 02.pdf PDF23–51 (p140–168).
 The audited run through Chapter 33 (p1–205) continues 02.pdf PDF52–88 (p169–205). It is the longest run in the book and spans the end of the Hematology section into Pulmonology (Book p185 is the first Pulmonology page).
+The audited run through Chapter 38 (p1–235) continues 02.pdf PDF89–118 (p206–235): Venous Thromboembolism, Pulmonary Hypertension, Bronchiectasis, Occupational Lung Diseases and Respiratory Failure/ARDS.
 
 ## Chapter sheet coverage verified (01.pdf & 02.pdf)
 
@@ -50,7 +51,12 @@ The audited run through Chapter 33 (p1–205) continues 02.pdf PDF52–88 (p169�
 | 31 | Clinical Anatomy of Lungs | 185–192 | 02.pdf PDF68–75 |
 | 32 | Clinical Physiology of Lungs | 193–196 | 02.pdf PDF76–79 |
 | 33 | Pulmonary Function Tests | 197–205 | 02.pdf PDF80–88 |
-| 34 (next) | Venous Thromboembolism | 206 | 02.pdf PDF89 |
+| 34 | Venous Thromboembolism | 206–212 | 02.pdf PDF89–95 |
+| 35 | Pulmonary Hypertension | 213–217 | 02.pdf PDF96–100 |
+| 36 | Bronchiectasis | 218–222 | 02.pdf PDF101–105 |
+| 37 | Occupational Lung Diseases | 223–229 | 02.pdf PDF106–112 |
+| 38 | Respiratory Failure and Acute Respiratory Distress Syndrome | 230–235 | 02.pdf PDF113–118 |
+| 39 (next) | Interstitial Lung Disease | 236 | 02.pdf PDF119 |
 
 Note (Ch 20): the Contents pages print 118, but the scanned heading "MYELOPROLIFERATIVE NEOPLASMS : PART 2"
 and the CML pathophysiology that follows it begin on Book p116; the scan is ground truth and the app

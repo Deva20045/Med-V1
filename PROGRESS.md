@@ -1,14 +1,49 @@
 # PULSE Medicine Vol 1 — Progress
 
-Updated **2026-10-22** (Chapters 29–33 released and deployed; source review now reaches Book p205). Standalone offline quiz based on *PULSE Medicine Vol 1*, printed Book p1–375 (Marrow Edition 8).
+Updated **2026-10-22** (Chapters 34–38 released and deployed; source review now reaches Book p235). Standalone offline quiz based on *PULSE Medicine Vol 1*, printed Book p1–375 (Marrow Edition 8).
 
 - Repository: `Deva20045/Med-V1`
-- Session branch: `arena/e8bfe49e-med-v1` (published from this release's session)
+- Session branch: `arena/ffa51509-med-v1` (published from this release's session)
 - Published URL: https://deva20045.github.io/Med-V1/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 33 live chapters / 61 · 2,489 questions / 244 units.** Chapters 1–33 are embedded by `build_content.py`; source coverage is complete through Book p205.
+- **Build status: 38 live chapters / 61 · 2,716 questions / 274 units.** Chapters 1–38 are embedded by `build_content.py`; source coverage is complete through Book p235.
 
-## This release — Chapters 29 to 33 (Book p169–205)
+## This release — Chapters 34 to 38 (Book p206–235)
+
+The requested five chapters were reviewed sheet-by-sheet in printed order (`uploads/02.pdf` PDF89–118 = Book p206–235, the second Pulmonology run after Chapters 29–33), then encoded with deterministically balanced, non-predictable options across all 8 formats (`recall`, `numeric`, `scenario`, `truefalse`, `oddoneout`, `management`, `fillup`, and 2- to 4-item bijective `match` items) and page-cited explanations. Every printed list, table cell, flowchart arm, figure caption, murmur description, formula and Note box on these 30 sheets is covered. All source-text quirks (the `>50–70%` occlusion and `SBP < 90 mmHg`/`≥ 15 mins` brace on p206, `McConnel's sign`, `NT pro BNP` and `Polo mint sign` on p207–211, `Trepostinil` and the `Right atrial pressure` box term on p212–217, `Bronchiectasis (Sicca)` and `Pseudobronchiectasis` on p218–221, the `Type-3` anaesthesiology note that conflicts with the Type III row on p231, the `PAS positive milky white BAL` shared by acute silicosis and PAP on p224–226, `Serpentile`, `Epitheloid` and `crow feet sign` on p227, the `erythemoid lesions` spelling on p229, and the `fibrotic vasoconstriction (14–21 days)` phase name on p234) are preserved faithfully and documented in [audit/known-source-caveats.md](audit/known-source-caveats.md). Existing Chapters 1–33 remain unchanged.
+
+| Ch | Title | Printed pages | PDF sheets | Questions | Units |
+|---:|---|---:|---:|---:|---:|
+| 34 | Venous Thromboembolism | 206–212 | 02.pdf PDF89–95 | 53 | 7 |
+| 35 | Pulmonary Hypertension | 213–217 | 02.pdf PDF96–100 | 42 | 5 |
+| 36 | Bronchiectasis | 218–222 | 02.pdf PDF101–105 | 40 | 5 |
+| 37 | Occupational Lung Diseases | 223–229 | 02.pdf PDF106–112 | 50 | 7 |
+| 38 | Respiratory Failure and Acute Respiratory Distress Syndrome | 230–235 | 02.pdf PDF113–118 | 42 | 6 |
+| **Cumulative total** |  | **235 book pages** |  | **2,716** | **274** |
+
+Cumulative format distribution through Chapter 38: 1,634 recall, 298 numeric, 268 match, 158 fillup, 107 scenario, 99 truefalse, 87 oddoneout, 65 management. **New in this release:** 117 recall, 24 numeric, 35 match, 16 fillup, 18 scenario, 14 truefalse, 9 oddoneout, 3 management — i.e. 110 of 227 new items (48%) are non-recall formats.
+
+### Chapter 34 — Venous Thromboembolism (p206–212)
+
+AKA pulmonary thromboembolism with 60–80% mortality in massive PTE; pathogenesis as migration of thrombi/microthrombi from the systemic circulation to the pulmonary vasculature, with deep veins of the lower limb > upper limb and maximal risk from supra-popliteal veins draining to femoral veins or pelvic veins in pregnancy; acute cor pulmonale (RV dilatation/hypertrophy ± failure, most common cause VTE) and calf DVT as the commonest site that does not embolize; massive VTE defined as any PE with hypotension, with the printed chain of >50–70% occlusion → hypoxaemia → RV and RA dilatation → septal push → ↓LV volume → ↓cardiac output → SBP < 90 mmHg lasting ≥ 15 mins or needing inotropes; presentation (unexplained dyspnea with clear lung fields most common, chest pain second, sudden cardiac death and syncope), the two-item D/d of VTE and metabolic acidosis, and the Golden 4 (clinical hypotension; ECHO with McConnel's sign — hypocontractile RV free wall plus hypercontractile apex — septal push, LV contraction and exclusion of tamponade; NT pro BNP for RV dilatation and troponin I for RV ischaemia; CTPA as IOC showing dilated PA, clot and large RV); submassive risk stratification (RV dilatation/ischaemia low risk, escalating with biomarker rise) and non-massive VTE (10–20%, peripheral lodging, recurrent/non-resolving pneumonia, cough, pleuritic pain, haemoptysis); normal investigations with pulmonary infarction as the complication; genetic risks (factor-V Leiden commonest, antithrombin III, protein C and S) versus the acquired bracket (antiphospholipid syndrome, PRV, PMF, HIT, PNH) plus adenocarcinoma, COPD, reduced-EF heart failure, membranous nephropathy losing antithrombin III, OCPs, HRT, pregnancy/post-partum and surgery with immobilisation > 4 days; the V/P physiology with ventilation and perfusion maximal at the base and ratio maximal at the apex; dead-space (V normal, P 0, V/P ∞) versus shunt (V 0, P normal, V/P 0) physiology; the symptom/sign hierarchy with 10–20% frequencies, vagal bradycardia, cor pulmonale branches and type I failure with normal PaCO2, respiratory alkalosis and a widened A-a gradient; CXR signs (bands of atelectasis commonest, Hampton's hump, Pallas, Westermark, Fleischner) with the PAH film; ECG purposes and patterns (normal commonest, sinus tachycardia commonest abnormality, S1Q3T3 non-specific); pulmonary angiography gold standard, V/Q indications, D-dimer in low risk, ECHO for alternate diagnosis, the seven-row Wells score with its low-versus-moderate/high pathway and the polo-mint sign; and management (80 units/kg heparin IV or 1 mg/kg s/c LMWH, severity determination, alteplase 100 mg over 2 hrs within 14 days versus catheter therapy, 18 units/kg/hr with aPTT 1.5–2× and INR 2–3, the 3-month switch to NOACs lifelong with a positive genetic mutation, and the IVC filter).
+
+### Chapter 35 — Pulmonary Hypertension (p213–217)
+
+Ohm's law mapped to the circulation (PAP − LAP = CO × PVR, so PAP = CO × PVR + LAP) with ↑PVR giving classes 1/3/4 and ↑LAP giving class 2 (commonest cardiac cause mitral stenosis); the five classes (class 1 PAH mostly idiopathic with median survival < 9 months in young females; class 2 left heart disease; class 3 chronic lung disease via hypoxia-related vasoconstriction with chronic bronchitis as the example; class 4 CTEPH responsive to surgery; class 5 miscellaneous) and the class-to-vessel figure (arterioles, pulmonary vein, capillary, pulmonary artery, multifactorial) plus the boxed "hypoxia: vasodilatation except in pulmonary vessels"; the PAH-versus-systemic HTN logic (PAP <<< SAP, PVR <<< SAR, low-resistance high-compliance lungs, systemic HTN → LV hypertrophy versus pulmonary HTN → RV dilatation → RV failure → ↑mortality), the systemic arterial pressure box with its right atrial pressure term, the definition (mean PAP > 20 mmHg at rest on right heart catheterisation), cor pulmonale with its three causes, the wood-unit split (>3 units classes I/III/IV, <3 units class II with PCWP > 15 mmHg), plexiform arteriolopathy of the arterioles, and secondary causes from BMPR2 through limited systemic sclerosis, HIV, schistosomiasis, portal HTN (splanchnic vasodilatation → hyperdynamic circulation → ↑CO) to the serotonin appetite suppressants and toxic rapeseed oil; the pathology triad, the endothelin/NO/prostacyclin pathway table with its treatments, the presentation without overt heart or lung signs, the RV dilatation → septal push → ↑LV volume → ↓CO chain, RV ischaemia chest pain, RV failure with an outward apex shift and the auscultation/palpation/JVP signs (loud P2, wide split, S3 mechanism, 'a' waves, clubbing rare); PA catheterisation as gold standard; the three murmurs (pan systolic with Carvallo's sign, ejection systolic from pulmonary stenosis, Graham Steell's early diastolic murmur with its posture and fixed expiration); CXR, PA aneurysm in Behçet's and Takayasu, and the ECG r/s > 1 in V1 with the normal-pattern note; and the investigations (PFT with normal spirometry and ↓DLCO, ECHO, V/Q, sleep study, HRCT, 6-minute walk test), the vaso-reactivity test with nitric oxide (10% positive, PAP fall of 10 mmHg or PAP < 40 mmHg with unchanged BP and CO) implying high-dose nifedipine 240 mg, general treatment with pregnancy contraindicated, and the NYHA-stratified table (tadalafil + ambrisentan, then epoprostenol by tunnel catheter, treprostinil by microinfusion pump and selexipag) with atrial septostomy and transplant.
+
+### Chapter 36 — Bronchiectasis (p218–222)
+
+Definition as abnormal irreversible bronchial dilatation plus obliterative bronchiolar fibrosis producing obstructive disease that can have a restrictive component; pseudobronchiectasis after influenza or COVID; the obstructive-disease list; the pathogenesis flowchart (infection mostly TB → inflammation → loss of smooth muscle and elastic tissue with both bronchi and bronchioles containing smooth muscle → irreversible dilatation, alongside loss of cilia with pooled secretions and microbial colonisation, wall weakening, and goblet cell hyperplasia → mucus hypersecretion → obstruction) and the normal-versus-diseased bronchus diagram; the three morphological types with grades C/V/S, traction bronchiectasis as a restrictive ILD-classified lesion, the distribution (usually unilateral, left lower lobe commonest, F > M, 50–70 years) and the four histological panels; paediatric aetiology (post-infective pertussis/measles, Mounier-Kuhn, William Campbell, Kartagener, Young, cystic fibrosis, yellow nail, α1-antitrypsin deficiency), impaired mucociliary clearance, McLeod's syndrome, isolated IgA deficiency as commonest primary immunodeficiency and the adult list (idiopathic 30%, TB 40%, Brock's syndrome, IgA deficiency, Sjögren); clinical features (postural cough, copious foul three-layered sputum with early morning exacerbation, haemoptysis from a thin-walled vein, recurrent pneumonia), clubbing in children with the cystic type, coarse early-mid inspiratory crackles with diffuse rhonchi, the sicca and ABPA notes, plain-film signs (tram track, bunch of grape, finger in glove, low sensitivity) and the three CT criteria (dilatation 1–1.5× the adjacent vessel, lack of tapering, tree-in-bud with signet ring); and complications (cor pulmonale with acute versus chronic causes, massive haemoptysis in dry disease, empyema with bronchopleural fistula, AA amyloidosis, abscess), airway clearance with 7% hypertonic saline and postural drainage, CF-specific DNase and nebulised gentamycin, localized resection, the macrolide/beta-lactam penetration rationale with 6–9 months of macrolide immunomodulation, and the Pseudomonas >> H. influenzae > S. pneumoniae hierarchy.
+
+### Chapter 37 — Occupational Lung Diseases (p223–229)
+
+Disease groups and the pneumoconiosis definition, the dust-size table (>3 µm secondary bronchi, 0.5–3 µm bronchiole, <0.5 µm alveoli), the four pneumoconioses with silicosis commonest, and byssinosis as organic-dust hypersensitivity with recurrent Monday fever; silicosis in full (industries, crystalline quartz as SiO2 free silica with the higher hazard, parenchymal-only involvement with no pleura, malignancy/COPD risk, and the acute-versus-chronic table — 2 years versus 10–30 years, a dash versus macrophage injury with silicotuberculosis and SLE/RA, the acute dyspnea/hypoxia/weight-loss triangle versus chronic dry cough with chest signs in 25%, PAS-positive milky white BAL versus a mixed PFT pattern, very poor versus dash prognosis); its radiology (acute crazy pavement with ground glass, thickened septa and centrilobular nodules; chronic nodules → angel-wing conglomerate nodules ± cavitations with egg-shell hilar calcification → PMF and upper lobe ILD); the crazy-pavement differential (DAH, AEP, PAP with anti-GM-CSF antibodies); coal worker pneumoconiosis with its shared features, the three-row CWP-versus-silicosis table and Caplan syndrome (necrobiotic nodule + IgA rheumatoid factor-positive RA + active synovitis); chronic asbestosis (90% serpentine chrysotile versus 10% amphibole with amosite most dangerous, industries, smoking effect, pleural plaques with candle-dripping and holly-leaf signs, subpleural linear densities, BAPE as the earliest unilateral haemorrhagic exudate with eosin <25% and mesothelial cells <50%, visceral calcification with crow feet, "no clinical signs", and parenchymal lower lobe disease with shaggy heart sign, DMF, bibasal fine crackles, clubbing and restrictive PFT); asbestos malignancy (lung cancer adenocarcinoma > squamous > small cell at 10–30 years with smoking and cough/haemoptysis versus mesothelioma epitheloid > sarcomatoid beyond 30 years without smoking, with pancytokeratin/calretinin and microvilli/desmosomes/tonofilaments), the ferruginous body, berylliosis as delayed hypersensitivity with non-caseating granulomas mimicking sarcoidosis, the seven-item non-caseating granuloma list, and the berylliosis page (sarcoid features that are absent, ceramic/battery/alloy industries, upper lobe ILD to PMF, positive lymphocyte proliferation test, normal X-ray in 50%, and the ground glass/nodules/septal lines HRCT triad).
+
+### Chapter 38 — Respiratory Failure and Acute Respiratory Distress Syndrome (p230–235)
+
+Definition and the hypoxemic (PaO2 < 60 mmHg, SpO2 < 90%) and hypercapnic (PaCO2 > 50 mmHg) thresholds on room air, the abbreviation box (PAO2, PaO2 ~97 mmHg, PaCO2 ~40 mmHg, A-a gradient), and the four-type table — Type I diffusion failure with a 150-fold CO diffusion potential and no hypercapnia plus its aetiology list and the separate asthma entry (normal parenchyma, absent CO2 retention, ↑DLCO); Type III parenchymal damage from ILD (↓diffusion) or ARDS (↓compliance) with ↓PaO2/↑PaCO2/↑gradient; Type IV shock with a dash for pressures; the anaesthesiology "Type-3" note (↓FRC = RV + ERV → post-op atelectasis, with supine/obese/ascites, residual anaesthesia, upper abdominal incision and secretions); V/Q matching (normal 0.8, upper zone > 1 non-dependent, lower zone < 1) and the dead-space-versus-shunt table; both flowcharts (V/Q mismatch/shunt/dead space first level, then Type II versus Type III on the gradient, oxygen-correctable mismatch versus shunt, high altitude, and the hypercapnic generator/pump/effector branch versus V/Q mismatch in ARDS and ILD); ARDS synonyms, the 1992 AECC criteria (PCWP < 18 mmHg, bilateral infiltrates, PaO2/FiO2 < 200) with its 20% capture and 70–75% mortality, the Berlin 2012 definition (onset within a week, infiltrates unexplained by effusion/collapse/nodules, normal ECHO, PEEP ≥ 5 cm H2O) with mild/moderate/severe ranges and the three edema-preventing factors; ARDS aetiology (primary including pulmonary sepsis, massive transfusion, pancreatitis, TRALI, smoke, drowning and post-surgery versus secondary non-pulmonary sepsis and major trauma/burns), the cytokine-to-neutrophil chain with capillary injury and proteinaceous alveolar fluid causing surfactant loss, collapse, ↓compliance and impaired gas exchange, and the three phases (exudative 7 days with the eosinophilic hyaline membrane hallmark, fibroproliferative 7–14 days, fibrotic vasoconstriction 14–21 days); and the clinical features, ventilation strategies (inverse ratio, prone, permissive hypercapnia), the VILI table (volume/baro/atelecto trauma with low tidal volume, low plateau pressure and high PEEP), and the six-item differential of acute breathlessness.
+
+## Earlier release — Chapters 29 to 33 (Book p169–205)
 
 The requested five chapters were reviewed sheet-by-sheet in printed order (`uploads/02.pdf` PDF52–88 = Book p169–205, the largest single run so far and the point where Hematology hands over to Pulmonology on Book p185), then encoded with deterministically balanced, non-predictable options across all 8 formats (`recall`, `numeric`, `scenario`, `truefalse`, `oddoneout`, `management`, `fillup`, and 2- to 5-item bijective `match` items) and page-cited explanations. Every printed list, table cell, flowchart arrow, formula, curve caption, pressure trace value and Note box on these 37 sheets is covered. All source-text quirks (`IL-II`/`Oprelvekin` and the two thrombopoietin sources on p169, `Gp vl` on p171, the `vII, Ca²⁺` annotation on p172, the dash-only mechanism cells on p174, `Hb >10 mg/dL` on p176, `85%`/`–` in the vWD table and `C/I : Type 2B` on p182, the warfarin `INR` row and 6-hour factor VII half-life on p183, `150 ml` dead space and PA-above-bronchus on p186, the tracheal smooth-muscle dash on p189, `F508`/`7q` and nasal-NO gold standard on p190, `Re = 2rvd/η` on p191, `Tidal volume α 1/TPP` on p193, `1/2 FVC` on p197, `15s or minimum 6s` and the printed `mg` bronchodilator units on p198–199, `< 30` without a percent sign on p202, and the emphysema `↑ volume/surface area` pathology line on p204) are preserved faithfully and documented in [audit/known-source-caveats.md](audit/known-source-caveats.md). Existing Chapters 1–28 remain unchanged.
 
@@ -207,10 +242,10 @@ Inherited hemolytic anemia classification (hemoglobinopathies, membrane cytoskel
 ## Quality and ordering contract delivered
 
 1. Every printed page p1–168 is covered in book order from the scanned source (no text layer exists); headings, table cells, image labels, flowchart arms, thresholds and notes are represented. Page map: `01.pdf` PDF13 = p1 … PDF129 = p117 and `02.pdf` PDF1 = p118 … PDF51 = p168; no requested sheets are missing.
-2. `audit/coverage.json` holds **2,228 inventoried points** across Chapters 1–28; every ledger point resolves to exactly one question in question order and on the matching book page.
+2. `audit/coverage.json` holds **2,716 inventoried points** across Chapters 1–38; every ledger point resolves to exactly one question in question order and on the matching book page.
 3. Four-option sets are unique, parallel in length/detail, and deterministically shuffled across all four positions (`A`–`D`). Matching items use 2- to 4-item bijections with varied permutations; true/false items have balanced 2 True / 2 False choices; numeric and fill-up questions use plausible clinical distractors; scenarios retain full clinical context.
 4. IDs are sequential `MED-C<N>-<seq>`; the question array is strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, every unit guide is 2–4 lines, and every explanation ends with its exact `(Book pX)` citation matching the question page.
-5. Chapters 1–28 are embedded in the standalone app with live flags set; **28/61 roadmap chapters are live**. See [audit/known-source-caveats.md](audit/known-source-caveats.md) for transcription and medical-source caveats.
+5. Chapters 1–38 are embedded in the standalone app with live flags set; **38/61 roadmap chapters are live**. See [audit/known-source-caveats.md](audit/known-source-caveats.md) for transcription and medical-source caveats.
 
 ## Verified PDF → printed-page map
 
@@ -221,7 +256,7 @@ Printed page numbers are ground truth. `uploads/01.pdf` is sequential after 12 u
 - `uploads/03.pdf` PDF1–128  = Book p248–375  (PDF129–131 are blank/end-quote matter)
 - **PDF → Book formula:** `01.pdf: Book p = PDF page − 12`; `02.pdf: Book p = PDF page + 117`; `03.pdf: Book p = PDF page + 247`
 
-Chapter sheet coverage source-reviewed through p106:
+Chapter sheet coverage source-reviewed through p235:
 
 | Ch | Book pages | 01.pdf sheets |
 |---:|---|---|
@@ -243,7 +278,27 @@ Chapter sheet coverage source-reviewed through p106:
 | 16 | 92–96 | PDF104–108 |
 | 17 | 97–102 | PDF109–114 |
 | 18 | 103–106 | PDF115–118 |
-| 19 (next) | 107 | PDF119 |
+| 19 | 107–115 | 01.pdf PDF119–127 |
+| 20 | 116–120 | 01.pdf PDF128–129 + 02.pdf PDF1–3 |
+| 21 | 121–125 | 02.pdf PDF4–8 |
+| 22 | 126–135 | 02.pdf PDF9–18 |
+| 23 | 136–139 | 02.pdf PDF19–22 |
+| 24 | 140–141 | 02.pdf PDF23–24 |
+| 25 | 142–145 | 02.pdf PDF25–28 |
+| 26 | 146–152 | 02.pdf PDF29–35 |
+| 27 | 153–158 | 02.pdf PDF36–41 |
+| 28 | 159–168 | 02.pdf PDF42–51 |
+| 29 | 169–172 | 02.pdf PDF52–55 |
+| 30 | 173–184 | 02.pdf PDF56–67 |
+| 31 | 185–192 | 02.pdf PDF68–75 |
+| 32 | 193–196 | 02.pdf PDF76–79 |
+| 33 | 197–205 | 02.pdf PDF80–88 |
+| 34 | 206–212 | 02.pdf PDF89–95 |
+| 35 | 213–217 | 02.pdf PDF96–100 |
+| 36 | 218–222 | 02.pdf PDF101–105 |
+| 37 | 223–229 | 02.pdf PDF106–112 |
+| 38 | 230–235 | 02.pdf PDF113–118 |
+| 39 (next) | 236 | 02.pdf PDF119 |
 
 ## Schema and order contract
 
@@ -480,6 +535,75 @@ node tests/app_parsers.cjs
 | 28 | Amyloidosis Organ Manifestations I: Renal, Cardiac (Restrictive CMP, Sparkle Sign, Digoxin) & Hepatic Bleeding Risk | 167 | MED-C28-53–MED-C28-57 | 5 |
 | 28 | Amyloidosis Organ Manifestations II: Spleen/GI/ANS/CNS/Endocrine/Hemorrhagic Signs, Congo Red Biopsy & Rx | 168 | MED-C28-58–MED-C28-63 | 6 |
 
+| 29 | Myeloid Progenitor Lineages, Thrombopoiesis (Early vs Late), Megakaryocyte Stages & Morphological Variants | 169 | MED-C29-01–MED-C29-08 | 8 |
+| 29 | Platelet Counts, Lifespan, Sample Handling, Pseudothrombocytopenia & Platelet Transfusion (SDP vs RDP) | 170 | MED-C29-09–MED-C29-17 | 9 |
+| 29 | Platelet Cascade I: Endothelial Antiplatelet/Anticoagulant/Fibrinolytic Roles, vWF Adhesion Receptors & Granules | 171 | MED-C29-18–MED-C29-25 | 8 |
+| 29 | Clotting Cascade (Intrinsic, Extrinsic, Common), Fibrinolysis Checkpoints, Antifibrinolytics & aPTT/PT Tests | 172 | MED-C29-26–MED-C29-34 | 9 |
+| 30 | Evaluation Protocol I: Platelet vs Coagulation Bleed Table, Lineage Chart, Count-Based Bleeding Risk & Drug-Induced Thrombocytopenia | 173 | MED-C30-01–MED-C30-08 | 8 |
+| 30 | Evaluation Protocol II: Anticonvulsant/Gp IIb-IIIa/NSAID/Quinine/Penicillin Table, Hypersplenism, Smear & ITP Summary Flowchart | 174 | MED-C30-09–MED-C30-15 | 7 |
+| 30 | Immune Thrombocytopenic Purpura I: Causes, Gp IIb/IIIa & Ib/IX Antibody Pathogenesis, Clinical Signs & Investigations | 175 | MED-C30-16–MED-C30-22 | 7 |
+| 30 | ITP II: Features Inconsistent with ITP, Duration-Based Classification & First-Line Treatment (Steroids, IVIg/Anti-D) | 176 | MED-C30-23–MED-C30-29 | 7 |
+| 30 | ITP III: Second-Line Therapy, Follow-Up & Qualitative Platelet Disorders (Causes, Defect Types, PFA-100 & Aggregation Test) | 177 | MED-C30-30–MED-C30-36 | 7 |
+| 30 | Aggregation Curves (Biphasic vs Monophasic), Ristocetin Agglutination Test + aPTT Logic, Bleeding Time & vWF Functions | 178 | MED-C30-37–MED-C30-43 | 7 |
+| 30 | Optical Density Traces: Aggregation Defect vs BSS/vWD vs Storage Pool (Granule) Defect Interpretation | 179 | MED-C30-44–MED-C30-48 | 5 |
+| 30 | Glanzmann Thrombasthenia, Afibrinogenemia, Bernard-Soulier Syndrome, Megathrombocytosis & Drug-Induced Qualitative Bleeding | 180 | MED-C30-49–MED-C30-54 | 6 |
+| 30 | Von Willebrand Disease I: vWF Gene/Structure Domains, ADAMTS13 Processing, Functions & Types | 181 | MED-C30-55–MED-C30-60 | 6 |
+| 30 | Von Willebrand Disease II: Type 1 vs Type 3 Table, Type 2 Subtypes (2A/2B/2M/2N), Acquired vWF & Management | 182 | MED-C30-61–MED-C30-68 | 8 |
+| 30 | DIC I: Clinical Approach by aPTT/PT/Platelet Combinations (Factor XII/XI/Hemophilia A & B/vWD/LAC/Liver/Warfarin) & Etiology | 183 | MED-C30-69–MED-C30-74 | 6 |
+| 30 | DIC II: Pathogenesis Chain, ICU Monitoring, Purpura Fulminans, Investigations (FDP vs D-Dimer) & Management | 184 | MED-C30-75–MED-C30-81 | 7 |
+| 31 | Gross Anatomy: Lobes, Oblique/Horizontal Fissures, Lower-Lobe Auscultation, Azygos Fissure 'Tadpole' & Phantom Tumor | 185 | MED-C31-01–MED-C31-06 | 6 |
+| 31 | Phantom Tumor Resolution Films, Hilar Structures & Relations, Causes of Hilar Enlargement & Weibel's 23 Generations | 186 | MED-C31-07–MED-C31-12 | 6 |
+| 31 | Bronchi Types, Right vs Left Bronchus Dimensions, Foreign-Body Predilection, Calibre/Area Change, Secondary Pulmonary Lobule & BPS Definition | 187 | MED-C31-13–MED-C31-19 | 7 |
+| 31 | Bronchopulmonary Segments of Right and Left Lung (10 Each) & Position-Dependent Aspiration Segments | 188 | MED-C31-20–MED-C31-24 | 5 |
+| 31 | Acinus Parts, Centriacinar (Smokers) vs Panacinar (α1-Antitrypsin) Emphysema & Basal/Goblet Cells of Conducting Airways | 188 | MED-C31-25–MED-C31-29 | 5 |
+| 31 | Club (Clara) Cells, CGRP, Kulchitzky Cells, Cartilage/Smooth Muscle/Goblet Table, Epithelial Zonation & Airway Mediators | 189 | MED-C31-30–MED-C31-36 | 7 |
+| 31 | Role of Cilia, Primary Ciliary Dyskinesia/Kartagener Triad, Nasal Nitric Oxide Gold Standard & Cystic Fibrosis (F508, Ivacaftor) | 190 | MED-C31-37–MED-C31-44 | 8 |
+| 31 | Airway Resistance: Poiseuille/Ohm Laws, Generation 5–7 Resistance Peak, Reynolds Number Flow Table | 191 | MED-C31-45–MED-C31-50 | 6 |
+| 31 | Alveolar Type I vs Type II Cells, Bleomycin Effect, Surfactant Function/Components/Synthesis & GM-CSF | 192 | MED-C31-51–MED-C31-59 | 9 |
+| 32 | Tidal Volume, Boyle's Law, Three Pressures, Intrapleural Negativity & Intra-Alveolar Pressure Changes | 193 | MED-C32-01–MED-C32-07 | 7 |
+| 32 | Transpulmonary Pressure Equations, TPP Trace Values, Intrapleural Fluid Cohesiveness, Pneumothorax Note & Static Compliance | 194 | MED-C32-08–MED-C32-15 | 8 |
+| 32 | Hysteresis Loop, Surface Tension vs Elastic Recoil, Elastin/Collagen & Obstructive vs Restrictive Compliance Curves | 195 | MED-C32-16–MED-C32-22 | 7 |
+| 32 | Dynamic Compliance (Only-Dynamic vs Static-and-Dynamic Falls) & Elastic Recoil Pressure of the Respiratory System at RV/FRC/TLC | 196 | MED-C32-23–MED-C32-30 | 8 |
+| 33 | Lung Volumes and Capacities Tables (TV/IRV/ERV/RV with Male-Female Split; IC/FVC/FRC/TLC Formulas) & Volume-Time Graph | 197 | MED-C33-01–MED-C33-07 | 7 |
+| 33 | Residual Volume Measurement (Plethysmography vs Obsolete Gas Methods), Spirometry Procedure/Disadvantage, FEV1/FVC & Obstructive-Restrictive-Vascular Disease Tree | 198 | MED-C33-08–MED-C33-14 | 7 |
+| 33 | Obstructive Disease (Emphysema): Hyperinflation Phase I vs Air Trapping Phase II Table & Bronchodilator Reversibility Testing | 199 | MED-C33-15–MED-C33-21 | 7 |
+| 33 | Restrictive Lung Disease: Diffusion vs Ventilation Indices, Intraparenchymal vs Extraparenchymal Types & Vascular Lung Disease | 200 | MED-C33-22–MED-C33-27 | 6 |
+| 33 | Small Airway Disease (mmEFR, Closing Volume/Fowler) & Flow-Volume Curve Patterns (Normal, Mild, Severe Obstruction, Restriction) | 201 | MED-C33-28–MED-C33-33 | 6 |
+| 33 | Upper Airway Obstruction Patterns (Extrathoracic/Intrathoracic/Fixed), Neuromuscular & Parenchymal Loops, and GOLD Staging | 202 | MED-C33-34–MED-C33-38 | 5 |
+| 33 | DLCO: Definition, Normal Values, Alveolo-Capillary Membrane Layers, Advantages of CO, Procedure & Blood Volume Determinant | 203 | MED-C33-39–MED-C33-45 | 7 |
+| 33 | Conditions Raising/Lowering DLCO, False-Low DLCO Causes, Diffuse Alveolar Hemorrhage & DLCO Across Respiratory Disorders | 204 | MED-C33-46–MED-C33-51 | 6 |
+| 33 | Coefficient of Diffusion (Kco) & the Stepwise Approach to Evaluation of Lung Diseases Flowchart | 205 | MED-C33-52–MED-C33-57 | 6 |
+| 34 | VTE Definition, Mortality, Thrombo-Embolic Pathogenesis, Origin of Thrombi, Acute Cor Pulmonale, Calf DVT & Massive VTE Pathogenesis Chain | 206 | MED-C34-01–MED-C34-08 | 8 |
+| 34 | Presentation, D/d of Dyspnea with Clear Lung Fields, Golden 4 Assessment (Clinical, ECHO/McConnel Sign, Biomarkers, CTPA) & Submassive/Non-Massive VTE | 207 | MED-C34-09–MED-C34-17 | 9 |
+| 34 | Non-Massive VTE Investigations & Complications, Genetic and Acquired Risk-Factor Lists, Malignancy/Nephrotic/Surgery Risks & Ventilation-Perfusion Physiology | 208 | MED-C34-18–MED-C34-24 | 7 |
+| 34 | Dead-Space vs Shunt Physiology in PE, Symptoms/Signs, Vagal Bradycardia, Acute Cor Pulmonale Complications & Type I Respiratory Failure with A-a Gradient | 209 | MED-C34-25–MED-C34-32 | 8 |
+| 34 | CXR Signs (Atelectatic Bands, Hampton's Hump, Pallas, Westermark, Fleischner), PAH Films & ECG Significance and Patterns (S1Q3T3) | 210 | MED-C34-33–MED-C34-39 | 7 |
+| 34 | Pulmonary Angiography Gold Standard, V/Q Scan Indications, D-Dimer, ECHO, the Wells Score Table and CTPA Signs (Saddle Embolus, Polo Mint Sign) | 211 | MED-C34-40–MED-C34-46 | 7 |
+| 34 | Management: Heparin/LMWH Dosing, Severity Determination, Thrombolysis vs Catheter Therapy, Heparin Target Ranges, 3-Month Switch and IVC Filter | 212 | MED-C34-47–MED-C34-53 | 7 |
+| 35 | Ohm's Law Applied to the Pulmonary Circulation (PAP − LAP = CO × PVR), the Five WHO Classes, Class 1 PAH Features and the Class-to-Affected-Vessel Figure | 213 | MED-C35-01–MED-C35-08 | 8 |
+| 35 | PAH vs Systemic HTN Mortality Logic, Definition (Mean PAP > 20 mmHg), Cor Pulmonale, Wood-Unit PVR Split, Plexiform Arteriolopathy & Secondary Causes (BMPR2 to Appetite Suppressants) | 214 | MED-C35-09–MED-C35-17 | 9 |
+| 35 | Pathology Triad, Endothelin/NO/Prostacyclin Pathway Treatment Table, Clinical Presentation and the RV Dilatation and RV Failure Sign Chains | 215 | MED-C35-18–MED-C35-26 | 9 |
+| 35 | PA Catheterisation Gold Standard, the Three PAH Murmurs (Carvallo, Ejection Systolic, Graham Steell), CXR Findings, PA Aneurysm Causes and ECG RVH Criteria | 216 | MED-C35-27–MED-C35-34 | 8 |
+| 35 | Investigations to Exclude Other Causes (PFT, ECHO, V/Q, Sleep Study, HRCT, 6MWT), the Vaso-Reactivity Test, General Treatment and the NYHA-Stratified Drug and Surgical Table | 217 | MED-C35-35–MED-C35-42 | 8 |
+| 36 | Definition (Irreversible Dilatation Plus Obliterative Bronchiolar Fibrosis), Pseudobronchiectasis, the Obstructive-Disease List, Pathogenesis Flowchart and the Normal-vs-Bronchiectasis Diagram | 218 | MED-C36-01–MED-C36-08 | 8 |
+| 36 | Types of Dilatation (Cylindrical/Varicose/Cystic), Traction Bronchiectasis, Lobe/Sex/Age Distribution and the Four Histological Features | 219 | MED-C36-09–MED-C36-15 | 7 |
+| 36 | Paediatric Aetiology (Post-Infective, Mounier-Kuhn, William Campbell, Kartagener, Young, Yellow Nail, α1-Antitrypsin), Impaired Mucociliary Clearance, McLeod, IgA Deficiency and Adult Aetiology | 220 | MED-C36-16–MED-C36-23 | 8 |
+| 36 | Clinical Features (Three-Layered Sputum, Postural Cough, Haemoptysis Mechanism), Examination Findings, Sicca/ABPA Notes, Plain-Film Signs and the Three CT Criteria | 221 | MED-C36-24–MED-C36-32 | 9 |
+| 36 | Complications (Cor Pulmonale, Massive Haemoptysis, Empyema, Amyloidosis, Abscess), Airway Clearance and CF Therapies, Surgery, Antibiotic Rationale, Macrolide Duration and the Infecting-Organism Hierarchy | 222 | MED-C36-33–MED-C36-40 | 8 |
+| 37 | Disease Types, Pneumoconiosis Definition, the Dust-Particle Size/Site Table, the Four Pneumoconioses and Byssinosis (Organic Dust, Monday Fever) | 223 | MED-C37-01–MED-C37-07 | 7 |
+| 37 | Silicosis: Industries, Crystalline vs Amorphous Silica, Parenchymal-Only Involvement, Malignancy/COPD Risk and the Acute-vs-Chronic Table (Exposure, Pathogenesis, Clinical Triangle, BAL, PFT, Prognosis) | 224 | MED-C37-08–MED-C37-15 | 8 |
+| 37 | Radiology of Silicosis: Acute Crazy-Pavement CT Pattern and the Chronic Nodule-to-PMF Sequence with Egg-Shell Calcification and Upper Lobe ILD | 225 | MED-C37-16–MED-C37-21 | 6 |
+| 37 | Crazy-Pavement Differential (DAH, AEP, PAP with Anti-GM-CSF), Coal Workers Pneumoconiosis, the CWP-vs-Silicosis Table and Caplan Syndrome | 226 | MED-C37-22–MED-C37-28 | 7 |
+| 37 | Chronic Asbestosis: Fibre Types, Industries, Pleural Plaques (Candle Dripping, Holly Leaf), BAPE Fluid Criteria, Crow Feet Sign, Shaggy Heart Sign and Parenchymal Fibrosis | 227 | MED-C37-29–MED-C37-36 | 8 |
+| 37 | Asbestos Malignancy: Lung Cancer vs Mesothelioma Table, Ferruginous Body, Berylliosis as Delayed Hypersensitivity with Non-Caseating Granulomas and the Granuloma Differential | 228 | MED-C37-37–MED-C37-43 | 7 |
+| 37 | Berylliosis: Sarcoidosis Features That Are Absent, Industries, Upper Lobe ILD to PMF, Lymphocyte Proliferation Test, X-ray in 50% and the HRCT Triad | 229 | MED-C37-44–MED-C37-50 | 7 |
+| 38 | Definition of Respiratory Failure, Hypoxemic/Hypercapnic Thresholds, the Partial-Pressure Abbreviation Box and the Type I Table (Diffusion Failure, CO Diffusion Potential, Etiology List Including the Asthma Exception) | 230 | MED-C38-01–MED-C38-08 | 8 |
+| 38 | Type III (Parenchymal Damage) and Type IV (Shock) Rows, the Anaesthesiology 'Type-3' FRC Note, the V/Q Ratio Zones and the Dead-Space-vs-Shunt Table | 231 | MED-C38-09–MED-C38-15 | 7 |
+| 38 | The Two Flowcharts: Hypoxemic Failure Branches (V/Q Mismatch, Shunt, Dead Space, Type II vs Type III, Oxygen-Responsiveness, High Altitude) and Hypercapnic Failure Branches | 232 | MED-C38-16–MED-C38-21 | 6 |
+| 38 | ARDS Synonyms, the 1992 AECC Criteria, Limitations and Mortality, the Berlin 2012 Definition with PEEP and Severity Table and the Factors Preventing Pulmonary Edema | 233 | MED-C38-22–MED-C38-29 | 8 |
+| 38 | ARDS Etiology (Primary and Secondary), the Toxin-to-Hyaline-Membrane Pathogenesis Chain, Alveolar Consequences and the Three Pathological Phases | 234 | MED-C38-30–MED-C38-36 | 7 |
+| 38 | ARDS Clinical Features, Mechanical Ventilation Strategies, the VILI Table (Volume, Baro and Atelecto Trauma) and the Differential of Acute Breathlessness | 235 | MED-C38-37–MED-C38-42 | 6 |
+
 ## Full roadmap
 
 | Ch | Title | Starts | State |
@@ -512,16 +636,16 @@ node tests/app_parsers.cjs
 | 26 | Non-Hodgkin's Lymphoma | 146 | **Live** |
 | 27 | Hodgkin's Disease | 153 | **Live** |
 | 28 | Plasma Cell Disorders | 159 | **Live** |
-| 29 | Platelets - Basics | 169 | Soon |
-| 30 | Approach to Bleeding Disorders | 173 | Soon |
-| 31 | Clinical Anatomy of Lungs | 185 | Soon |
-| 32 | Clinical Physiology of Lungs | 193 | Soon |
-| 33 | Pulmonary Function Tests | 197 | Soon |
-| 34 | Venous Thromboembolism | 206 | Soon |
-| 35 | Pulmonary Hypertension | 213 | Soon |
-| 36 | Bronchiectasis | 218 | Soon |
-| 37 | Occupational Lung Diseases | 223 | Soon |
-| 38 | Respiratory Failure and Acute Respiratory Distress Syndrome | 230 | Soon |
+| 29 | Platelets - Basics | 169 | **Live** |
+| 30 | Approach to Bleeding Disorders | 173 | **Live** |
+| 31 | Clinical Anatomy of Lungs | 185 | **Live** |
+| 32 | Clinical Physiology of Lungs | 193 | **Live** |
+| 33 | Pulmonary Function Tests | 197 | **Live** |
+| 34 | Venous Thromboembolism | 206 | **Live** |
+| 35 | Pulmonary Hypertension | 213 | **Live** |
+| 36 | Bronchiectasis | 218 | **Live** |
+| 37 | Occupational Lung Diseases | 223 | **Live** |
+| 38 | Respiratory Failure and Acute Respiratory Distress Syndrome | 230 | **Live** |
 | 39 | Interstitial Lung Disease | 236 | Soon |
 | 40 | Bronchial Asthma | 243 | Soon |
 | 41 | Pulmonary Eosinophilia | 249 | Soon |
@@ -555,4 +679,4 @@ node tests/app_parsers.cjs
 4. Run `validate_content.py`, `tests`, and `build_content.py` to embed; verify live flags and embedded arrays.
 5. Commit, push, PR to `main` — live link updates via GitHub Pages.
 
-*Next up:* **Chapter 29 — Platelets - Basics (p169)** — render `uploads/02.pdf` PDF52 onward, audit in strict book order, and continue the same pipeline.
+*Next up:* **Chapter 39 — Interstitial Lung Disease (p236)** — render `uploads/02.pdf` PDF119 onward, audit in strict book order, and continue the same pipeline.
