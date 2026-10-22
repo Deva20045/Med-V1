@@ -1,0 +1,593 @@
+{
+  "chapter": 29,
+  "title": "Platelets - Basics",
+  "pageRange": "169-172",
+  "questions": [
+    {
+      "id": "MED-C29-01",
+      "sec": "Myeloid Progenitor Lineages, Thrombopoiesis (Early vs Late), Megakaryocyte Stages & Morphological Variants",
+      "page": 169,
+      "fmt": "recall",
+      "q": "In the 'Common myeloid progenitor' branching diagram at the top of page 169, which four cell lines are shown arising from the common myeloid progenitor, and which of them is drawn as the direct parent of the platelet?",
+      "opts": [
+        "RBC, Eosinophil, Basophil and Megakaryocyte; the Basophil is drawn as the parent of the Platelet",
+        "RBC, Granulocyte, Monocyte and Megakaryocyte; the Megakaryocyte is drawn as the parent of the Platelet",
+        "RBC, Granulocyte, Natural killer cell and Megakaryocyte; the NK cell is drawn as the parent of the Platelet",
+        "RBC, Granulocyte, Monocyte and Lymphocyte; the Monocyte is drawn as the parent of the Platelet"
+      ],
+      "ans": 1,
+      "exp": "The top diagram reads 'common myeloid progenitor' with four arrows: '→ RBC', '→ Granulocyte', '→ monocyte', and '→ megakaryocyte → Platelet', so the megakaryocyte arrow continues directly into 'Platelet'. (Book p169)"
+    },
+    {
+      "id": "MED-C29-02",
+      "sec": "Myeloid Progenitor Lineages, Thrombopoiesis (Early vs Late), Megakaryocyte Stages & Morphological Variants",
+      "page": 169,
+      "fmt": "recall",
+      "q": "Under 'Thrombopoiesis' on page 169, the diagram splits into an 'Early' and a 'Late' limb. Which requirement is printed against the 'Late' limb?",
+      "opts": [
+        "Requires colony-stimulating factor (CSF)",
+        "Requires IL-3",
+        "Requires SDF-1",
+        "Requires erythropoietin"
+      ],
+      "ans": 2,
+      "exp": "Under the 'Thrombopoiesis' bracket, 'Early' leads to 'Requires :' (thrombopoietin, IL-3, IL-11) whereas the 'Late' arrow points to the single line 'Requires SDF-1'. (Book p169)"
+    },
+    {
+      "id": "MED-C29-03",
+      "sec": "Myeloid Progenitor Lineages, Thrombopoiesis (Early vs Late), Megakaryocyte Stages & Morphological Variants",
+      "page": 169,
+      "fmt": "recall",
+      "q": "Page 169 prints a boxed arrow from 'Thrombopoietin' onto the myeloid stem cell. What is given inside that box as the source of thrombopoietin?",
+      "opts": [
+        "From liver only",
+        "From megakaryocytes and spleen",
+        "From bone marrow stroma and lung",
+        "From kidneys and liver"
+      ],
+      "ans": 3,
+      "exp": "The boxed arrow reads 'Thrombopoietin / From kidneys and liver', and points into 'Myeloid stem cell' before Megakaryoblast. Note that the 'Early' limb of the same page prints 'Thrombopoietin : From liver.', so the two statements are both in the book and are tested separately. (Book p169)"
+    },
+    {
+      "id": "MED-C29-04",
+      "sec": "Myeloid Progenitor Lineages, Thrombopoiesis (Early vs Late), Megakaryocyte Stages & Morphological Variants",
+      "page": 169,
+      "fmt": "recall",
+      "q": "On page 169 the 'Early' branch of thrombopoiesis lists three requirements. Which three are printed?",
+      "opts": [
+        "Thrombopoietin (from liver), IL-3 (platelet development) and IL-11",
+        "Thrombopoietin (from kidney), IL-2 and IL-6",
+        "Thrombopoietin (from liver), IL-1 and GM-CSF",
+        "SDF-1, IL-3 and thrombopoietin (from endothelium)"
+      ],
+      "ans": 0,
+      "exp": "Under the 'Early' limb of 'Thrombopoiesis :': 'Requires : • Thrombopoietin : From liver. • IL-3 : Platelet development. • IL-11 :'. (Book p169)"
+    },
+    {
+      "id": "MED-C29-05",
+      "sec": "Myeloid Progenitor Lineages, Thrombopoiesis (Early vs Late), Megakaryocyte Stages & Morphological Variants",
+      "page": 169,
+      "fmt": "fillup",
+      "q": "Under 'IL-11' on page 169, the recombinant form is named ______, and it is used for the 'Rx of Induced thrombocytopenia in chemotherapy.'",
+      "opts": [
+        "Eltrombopag",
+        "Romipiostim",
+        "Anagrelide",
+        "Oprelvekin"
+      ],
+      "ans": 3,
+      "exp": "Page 169 prints under IL-11: '– Recombinant IL-11 (Oprelvekin). – Rx of Induced thrombocytopenia in chemotherapy.' (Book p169)"
+    },
+    {
+      "id": "MED-C29-06",
+      "sec": "Myeloid Progenitor Lineages, Thrombopoiesis (Early vs Late), Megakaryocyte Stages & Morphological Variants",
+      "page": 169,
+      "fmt": "recall",
+      "q": "Page 169 labels four morphological stages of the megakaryocyte in the left-hand lineage. Which stage descriptions are printed for Stage III and Stage IV respectively?",
+      "opts": [
+        "Stage III: basophilic cytoplasm; Stage IV: maximal granules with multilobed nuclei",
+        "Stage III: maximal granules, multilobed nuclei; Stage IV: mature, lesser granules, pyknotic nuclei",
+        "Stage III: lesser granules with multilobed nuclei; Stage IV: basophilic with maximal granules",
+        "Stage III: mature with pyknotic nuclei; Stage IV: maximal granules with multilobed nuclei"
+      ],
+      "ans": 1,
+      "exp": "Beside the megakaryocyte the book prints: 'Stage II : Basophilic. Stage III : maximal granules, multilobed nuclei. Stage IV : mature, lesser granules, pyknotic nuclei.' (Book p169)"
+    },
+    {
+      "id": "MED-C29-07",
+      "sec": "Myeloid Progenitor Lineages, Thrombopoiesis (Early vs Late), Megakaryocyte Stages & Morphological Variants",
+      "page": 169,
+      "fmt": "recall",
+      "q": "On page 169, what exactly does the book define 'Endomitosis' to be?",
+      "opts": [
+        "Process by which megakaryocytes shed platelet precursor extensions into sinusoids",
+        "Process of granule release from megakaryocyte alpha granules",
+        "Process of multiplication of megakaryocytes",
+        "Process of nuclear extrusion producing an anucleate platelet"
+      ],
+      "ans": 2,
+      "exp": "The bottom right of the lineage box prints: '→ Endomitosis : Process of multiplication of megakaryocytes.' The shedding of 'Platelet precursor extensions' is a separate, separately labelled arrow on the same page. (Book p169)"
+    },
+    {
+      "id": "MED-C29-08",
+      "sec": "Myeloid Progenitor Lineages, Thrombopoiesis (Early vs Late), Megakaryocyte Stages & Morphological Variants",
+      "page": 169,
+      "fmt": "match",
+      "q": "At the bottom of page 169, match each labelled megakaryocyte morphology with the condition printed beneath it — 1) Giant megakaryocyte 2) Dwarf megakaryocyte 3) Cloud megakaryocyte 4) Staghorn megakaryocyte … A) Chronic myeloid leukemia B) Immune thrombocytopenic purpura C) Essential thrombocytosis D) Primary myelofibrosis",
+      "opts": [
+        "1-B, 2-A, 3-D, 4-C",
+        "1-D, 2-C, 3-A, 4-B",
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-C, 4-D"
+      ],
+      "ans": 0,
+      "exp": "The four captions of the 'MORPHOLOGICAL VARIATION OF MEGAKARYOCYTES' panel read in order: 'Giant megakaryocyte : Immune thrombocytopenic purpura', 'Dwarf megakaryocyte : Chronic myeloid leukemia', 'Cloud megakaryocyte : Primary myelofibrosis', 'Staghorn megakaryocyte : Essential thrombocytosis'. (Book p169)"
+    },
+    {
+      "id": "MED-C29-09",
+      "sec": "Platelet Counts, Lifespan, Sample Handling, Pseudothrombocytopenia & Platelet Transfusion (SDP vs RDP)",
+      "page": 170,
+      "fmt": "numeric",
+      "q": "Under 'BASICS OF PLATELETS' on page 170, what lifespan is printed for a platelet, and what lifespan is printed for platelets in stored blood?",
+      "opts": [
+        "Lifespan 120 days; life span in stored blood 72 hrs",
+        "Lifespan 10 days; life span in stored blood 72 hrs",
+        "Lifespan 10 days; life span in stored blood 24 hrs",
+        "Lifespan 7 days; life span in stored blood 48 hrs"
+      ],
+      "ans": 1,
+      "exp": "Page 170 opens: 'Lifespan : 10 days.' and later, after the bleeding thresholds, 'Life span in stored blood : 72 hrs.' (Book p170)"
+    },
+    {
+      "id": "MED-C29-10",
+      "sec": "Platelet Counts, Lifespan, Sample Handling, Pseudothrombocytopenia & Platelet Transfusion (SDP vs RDP)",
+      "page": 170,
+      "fmt": "numeric",
+      "q": "Page 170 gives a normal platelet count and three count-defined thresholds. Which set is printed exactly?",
+      "opts": [
+        "Normal 1.5 – 4 lakh/µL; thrombocytopenia < 1,00,000/µL; bleeding < 20,000/µL; significant bleeding < 10,000/µL",
+        "Normal 1.5 – 4 lakh/µL; thrombocytopenia < 1,50,000/µL; bleeding < 50,000/µL; significant bleeding < 20,000/µL",
+        "Normal 1 – 3 lakh/µL; thrombocytopenia < 1,00,000/µL; bleeding < 30,000/µL; significant bleeding < 10,000/µL",
+        "Normal 1.5 – 4 lakh/µL; thrombocytopenia < 1,00,000/µL; bleeding < 40,000/µL; significant bleeding < 5,000/µL"
+      ],
+      "ans": 0,
+      "exp": "Page 170 prints: 'Normal count : 1.5 – 4 lakh/µL. Thrombocytopenia : < 1,00,000/µL. • Bleeding : < 20,000/µL. • Significant bleeding : < 10,000/µL.' (Book p170)"
+    },
+    {
+      "id": "MED-C29-11",
+      "sec": "Platelet Counts, Lifespan, Sample Handling, Pseudothrombocytopenia & Platelet Transfusion (SDP vs RDP)",
+      "page": 170,
+      "fmt": "recall",
+      "q": "Under 'Investigations :' on page 170, which sample is used for coagulation studies and which for platelet studies?",
+      "opts": [
+        "Coagulation studies: platelet poor plasma; platelet studies: serum",
+        "Coagulation studies: platelet rich plasma; platelet studies: platelet poor plasma",
+        "Coagulation studies: platelet poor plasma; platelet studies: platelet rich plasma",
+        "Coagulation studies: whole blood; platelet studies: serum"
+      ],
+      "ans": 2,
+      "exp": "Page 170 prints: 'Coagulation studies : Platelet poor plasma. Platelet studies : Platelet rich plasma.' (Book p170)"
+    },
+    {
+      "id": "MED-C29-12",
+      "sec": "Platelet Counts, Lifespan, Sample Handling, Pseudothrombocytopenia & Platelet Transfusion (SDP vs RDP)",
+      "page": 170,
+      "fmt": "recall",
+      "q": "Page 170 states the temperature at which these investigations are conducted, together with a single printed exception. What is that exception?",
+      "opts": [
+        "4°C, except platelet aggregation studies at room temperature",
+        "Room temperature, except pseudothrombocytopenia at 37°C",
+        "37°C, except lupus anticoagulant at 4°C",
+        "Room temperature, except lupus anticoagulant at 4°C"
+      ],
+      "ans": 3,
+      "exp": "Beneath the two plasma lines the book prints: 'Conducted at room temperature (Exception : Lupus anticoagulant at 4°C).' (Book p170)"
+    },
+    {
+      "id": "MED-C29-13",
+      "sec": "Platelet Counts, Lifespan, Sample Handling, Pseudothrombocytopenia & Platelet Transfusion (SDP vs RDP)",
+      "page": 170,
+      "fmt": "scenario",
+      "q": "A 30-year-old asymptomatic man has a CBC platelet count of 40,000/µL, but the reported count does not fit his well-being. The lab reports platelet clumping on the smear; the report links the clumping to EDTA and advises a particular anticoagulant for a repeat sample. Which explanation and corrective anticoagulant does page 170 print?",
+      "opts": [
+        "Pseudothrombocytopenia (satellitism) caused by EDTA; repeat in 3.2% trisodium citrate",
+        "Platelet satellitism caused by citrate; repeat in EDTA",
+        "True immune thrombocytopenia caused by EDTA; repeat in heparin",
+        "Pseudothrombocytopenia caused by heparin; repeat in 3.2% trisodium citrate"
+      ],
+      "ans": 0,
+      "exp": "The photomicrograph captioned 'Pseudothrombocytopenia' is annotated: 'AKA satellitism : Caused by EDTA → Clumping of platelet. Rx : 3.2% trisodium citrate.' — i.e. the 'treatment' is re-sampling into citrate so the artefact disappears. (Book p170)"
+    },
+    {
+      "id": "MED-C29-14",
+      "sec": "Platelet Counts, Lifespan, Sample Handling, Pseudothrombocytopenia & Platelet Transfusion (SDP vs RDP)",
+      "page": 170,
+      "fmt": "numeric",
+      "q": "Under 'Platelet transfusion :' on page 170, within what time must a platelet transfusion be completed?",
+      "opts": [
+        "Within 4 hours",
+        "Within 20 mins",
+        "Within 30 mins",
+        "Within 6 hours"
+      ],
+      "ans": 1,
+      "exp": "Page 170 prints: 'Platelet transfusion : Completed within 20 mins.' followed by 'Types :' and the SDP/RDP table. (Book p170)"
+    },
+    {
+      "id": "MED-C29-15",
+      "sec": "Platelet Counts, Lifespan, Sample Handling, Pseudothrombocytopenia & Platelet Transfusion (SDP vs RDP)",
+      "page": 170,
+      "fmt": "match",
+      "q": "Match the three rows of the SDP vs RDP table on page 170 with the values printed for Single donor platelet (SDP) — 1) Process 2) Cost 3) Others … A) Apheresis B) Costly C) No entry (dash) so that RDP is the 'Commonly used' product",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 2,
+      "exp": "The table columns are 'Single donor platelet (SDP)' and 'Random donor platelet (RDP)'. Against SDP: Process = 'Apheresis', Cost = 'Costly', Others = '–'; against RDP: Process = 'Pooling & centrifugation', Cost = 'Cheap', Others = 'Commonly used'. (Book p170)"
+    },
+    {
+      "id": "MED-C29-16",
+      "sec": "Platelet Counts, Lifespan, Sample Handling, Pseudothrombocytopenia & Platelet Transfusion (SDP vs RDP)",
+      "page": 170,
+      "fmt": "numeric",
+      "q": "On page 170, what post-transfusion platelet increment is bracketed for '1 unit of SDP' and for '4–6 units of RDP', and what increment is printed for '1 unit of RDP' alone?",
+      "opts": [
+        "1 unit SDP and 4–6 units RDP: ↑ by 6,000/µL; 1 unit RDP: ↑ by 30,000 – 50,000/µL",
+        "1 unit SDP and 4–6 units RDP: ↑ by 10,000 – 20,000/µL; 1 unit RDP: ↑ by 3,000/µL",
+        "1 unit SDP and 4–6 units RDP: ↑ by 50,000 – 1,00,000/µL; 1 unit RDP: ↑ by 10,000/µL",
+        "1 unit SDP and 4–6 units RDP: ↑ by 30,000 – 50,000/µL; 1 unit RDP: ↑ by 6,000/µL"
+      ],
+      "ans": 3,
+      "exp": "Page 170 prints: 'Post-transfusion increase in platelet count : • 1 unit of SDP ⎫ • 4–6 units of RDP ⎬ ↑ by 30,000 – 50,000/µL' and separately '• 1 unit of RDP : ↑ by 6,000/µL.' (Book p170)"
+    },
+    {
+      "id": "MED-C29-17",
+      "sec": "Platelet Counts, Lifespan, Sample Handling, Pseudothrombocytopenia & Platelet Transfusion (SDP vs RDP)",
+      "page": 170,
+      "fmt": "management",
+      "q": "A thrombocytopenic patient needs a platelet transfusion and the team must choose between single donor and random donor product. According to the page 170 table and increment data, which plan matches the book's own numbers?",
+      "opts": [
+        "Use 1 unit of SDP for a rise of 6,000/µL, since SDP is the cheap, commonly used, pooled product",
+        "Use 1 unit of RDP for a rise of 30,000–50,000/µL, remembering that 4–6 units of RDP raise the count by only 6,000/µL and that RDP is apheresis-derived and costly",
+        "Use 1 unit of SDP (or 4–6 units of RDP) for a rise of 30,000–50,000/µL, remembering that 1 unit of RDP alone raises the count by only 6,000/µL and that SDP is apheresis-derived, costly, while RDP is pooled, cheap and commonly used",
+        "Give platelets only if the count is below 1,00,000/µL, completing the transfusion over 2 hours"
+      ],
+      "ans": 2,
+      "exp": "Page 170's table gives SDP = apheresis/costly and RDP = pooling & centrifugation/cheap/'Commonly used'; the increment lines bracket '1 unit of SDP' with '4–6 units of RDP' as raising the count '↑ by 30,000 – 50,000/µL', while '1 unit of RDP : ↑ by 6,000/µL', and transfusion is 'Completed within 20 mins'. (Book p170)"
+    },
+    {
+      "id": "MED-C29-18",
+      "sec": "Platelet Cascade I: Endothelial Antiplatelet/Anticoagulant/Fibrinolytic Roles, vWF Adhesion Receptors & Granules",
+      "page": 171,
+      "fmt": "recall",
+      "q": "At the start of 'Role of endothelium :' on page 171, two statements define why endothelial injury is needed before platelets can stick. Which pair is printed?",
+      "opts": [
+        "'Endothelial injury is mandatory for platelet adhesion' and 'Endothelium is antithrombotic, subendothelium is prothrombotic'",
+        "'Endothelial injury is mandatory for platelet adhesion' and 'Endothelium is prothrombotic, subendothelium is antithrombotic'",
+        "'Endothelial injury is mandatory for platelet aggregation' and 'Endothelium and subendothelium are both antithrombotic'",
+        "'Endothelial injury is optional for platelet adhesion' and 'Endothelium is prothrombotic, subendothelium is antithrombotic'"
+      ],
+      "ans": 0,
+      "exp": "Page 171 prints under 'Role of endothelium :': '• Endothelial injury is mandatory for platelet adhesion. • Since endothelium is antithrombotic, subendothelium is prothrombotic.' (Book p171)"
+    },
+    {
+      "id": "MED-C29-19",
+      "sec": "Platelet Cascade I: Endothelial Antiplatelet/Anticoagulant/Fibrinolytic Roles, vWF Adhesion Receptors & Granules",
+      "page": 171,
+      "fmt": "recall",
+      "q": "Under '(a) Antiplatelet :' on page 171, which three endothelial antiplatelet substances are listed?",
+      "opts": [
+        "ADPase, tissue factor pathway inhibitor, nitric oxide",
+        "PGI2, tissue plasminogen activator, ADPase",
+        "PGI2, nitric oxide, thrombomodulin",
+        "PGI2, nitric oxide, ADPase"
+      ],
+      "ans": 3,
+      "exp": "Page 171 lists: 'a. Antiplatelet : PGI₂, nitric oxide, ADPase.' Thrombomodulin and TFPI belong to the separate '(b) Anticoagulant :' limb, and tPA to '(c) Fibrinolysis :'. (Book p171)"
+    },
+    {
+      "id": "MED-C29-20",
+      "sec": "Platelet Cascade I: Endothelial Antiplatelet/Anticoagulant/Fibrinolytic Roles, vWF Adhesion Receptors & Granules",
+      "page": 171,
+      "fmt": "match",
+      "q": "Match each of the three endothelial anticoagulant mechanisms printed under '(b) Anticoagulant :' on page 171 with the factors it inactivates — 1) Heparin like molecules 2) Thrombomodulin 3) Tissue factor pathway inhibitor (TFPI) … A) Inactivates II, IX, X, XI, XII B) Inactivates V and VIII C) Inactivates VII and X (Tissue factor : III)",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 1,
+      "exp": "Page 171 prints: '• Heparin like molecules → Binds with AT-III → Inactivates II, IX, X, XI, XII. • Thrombomodulin → Binds to thrombin → Activates protein C → Inactivates V & VIII. • Tissue factor pathway inhibitor (TFPI) → Inactivates VII & X (Tissue factor : III).' (Book p171)"
+    },
+    {
+      "id": "MED-C29-21",
+      "sec": "Platelet Cascade I: Endothelial Antiplatelet/Anticoagulant/Fibrinolytic Roles, vWF Adhesion Receptors & Granules",
+      "page": 171,
+      "fmt": "recall",
+      "q": "Which endothelial fibrinolytic mechanism is printed under '(c) Fibrinolysis :' on page 171?",
+      "opts": [
+        "Release of tissue plasminogen activator (tPA)",
+        "Release of alpha-2 antiplasmin",
+        "Release of plasminogen activator inhibitor (PAI)",
+        "Release of thrombin-activatable fibrinolysis inhibitor (TAFI)"
+      ],
+      "ans": 0,
+      "exp": "Page 171 prints: 'c. Fibrinolysis : Release of tissue plasminogen activator (tPA).' PAI, α2-antiplasmin and TAFI appear later on page 172 in the t-PA inhibitor list, i.e. as antifibrinolytics. (Book p171)"
+    },
+    {
+      "id": "MED-C29-22",
+      "sec": "Platelet Cascade I: Endothelial Antiplatelet/Anticoagulant/Fibrinolytic Roles, vWF Adhesion Receptors & Granules",
+      "page": 171,
+      "fmt": "recall",
+      "q": "In the 'mechanism :' flowchart for adhesion on page 171, which two receptors are listed under 'Receptors :' and which ligand does each bind?",
+      "opts": [
+        "Gp VI on platelet; Gp IIb-IIIa on vWF",
+        "Gp IIb-IIIa on collagen; Gp Ib-IX on fibrinogen",
+        "Gp Ib-IX on collagen; Gp VI on platelet",
+        "Gp VI on collagen; Gp Ib-IX on platelet"
+      ],
+      "ans": 3,
+      "exp": "Page 171 prints 'Receptors : • Gp VI on collagen. • Gp Ib-IX on platelet.' after the 'Endothelial injury → Release of von willebrand factor (vWF)' step. Gp IIb-IIIa appears separately under '3. AGGREGATION'. (Book p171)"
+    },
+    {
+      "id": "MED-C29-23",
+      "sec": "Platelet Cascade I: Endothelial Antiplatelet/Anticoagulant/Fibrinolytic Roles, vWF Adhesion Receptors & Granules",
+      "page": 171,
+      "fmt": "fillup",
+      "q": "In the adhesion mechanism on page 171, vWF has two printed sources — megakaryocyte and endothelium — and the endothelial store is described as a '______ form' held 'In weibel palade granule.'",
+      "opts": [
+        "Globular",
+        "Coiled",
+        "Cleaved",
+        "Uncoiled"
+      ],
+      "ans": 1,
+      "exp": "Page 171 prints: 'Source : • megakaryocyte. • Endothelium : – Coiled form. – In weibel palade granule.' The 'uncoiled' state is mentioned on page 181, only after release following endothelial injury. (Book p171)"
+    },
+    {
+      "id": "MED-C29-24",
+      "sec": "Platelet Cascade I: Endothelial Antiplatelet/Anticoagulant/Fibrinolytic Roles, vWF Adhesion Receptors & Granules",
+      "page": 171,
+      "fmt": "match",
+      "q": "Under '2. ACTIVATION / DEGRANULATION' on page 171, the degranulation arrows split into two granule types. Match each granule with what is printed for it — 1) α granules 2) δ granules (dense) 3) Contents specified under the δ granule arrow … A) ADP > ATP, calcium, histamine, serotonin B) No contents are listed in the flow diagram C) Dense granules",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 2,
+      "exp": "The degranulation flow diagram prints two arrows, 'α granules' and 'δ granules (dense)', with no contents written under α granules; the single content list 'ADP > ATP, calcium, histamine, serotonin' hangs only beneath the δ (dense) granule arrow. (Book p171)"
+    },
+    {
+      "id": "MED-C29-25",
+      "sec": "Platelet Cascade I: Endothelial Antiplatelet/Anticoagulant/Fibrinolytic Roles, vWF Adhesion Receptors & Granules",
+      "page": 171,
+      "fmt": "recall",
+      "q": "Under '3. AGGREGATION' on page 171, only two lines are printed. Which are they?",
+      "opts": [
+        "Gp IIb – IIIa, and 'Fibrinogen : Bind to platelets.'",
+        "Gp IIb – IIIa, and 'Thrombin : Bind to platelets.'",
+        "Gp Ib-IX, and 'vWF : Bind to platelets.'",
+        "Gp VI, and 'Collagen : Bind to platelets.'"
+      ],
+      "ans": 0,
+      "exp": "Page 171 ends with: '3. AGGREGATION • Gp IIb – IIIa. • Fibrinogen : Bind to platelets.' (Book p171)"
+    },
+    {
+      "id": "MED-C29-26",
+      "sec": "Clotting Cascade (Intrinsic, Extrinsic, Common), Fibrinolysis Checkpoints, Antifibrinolytics & aPTT/PT Tests",
+      "page": 172,
+      "fmt": "recall",
+      "q": "Page 172 titles the two coagulation arms as cascades occurring where. What parenthetical location is printed for each?",
+      "opts": [
+        "Intrinsic cascade (in vitro); extrinsic cascade (in vitro)",
+        "Intrinsic cascade (in vitro); extrinsic cascade (in vivo)",
+        "Intrinsic cascade (in vivo); extrinsic cascade (in vitro)",
+        "Intrinsic cascade (in vivo); extrinsic cascade (in vivo)"
+      ],
+      "ans": 1,
+      "exp": "The two boxes on page 172 are headed 'Intrinsic cascade (in vitro)' and 'Extrinsic cascade (in vivo)'. (Book p172)"
+    },
+    {
+      "id": "MED-C29-27",
+      "sec": "Clotting Cascade (Intrinsic, Extrinsic, Common), Fibrinolysis Checkpoints, Antifibrinolytics & aPTT/PT Tests",
+      "page": 172,
+      "fmt": "recall",
+      "q": "In the intrinsic box on page 172, activation of factor XII is annotated with a cofactor list. Which three are printed there, and what is the arrow into the box labelled?",
+      "opts": [
+        "Tissue factor and kallikrein; the arrow into the box is labelled 'Back amplification of thrombin'",
+        "High molecular weight kininogen and prekallikrein; the arrow into the box is labelled 'Endothelial injury'",
+        "High molecular weight kininogen and kallikrein; the arrow into the box is labelled 'Back amplification of thrombin'",
+        "High molecular weight kininogen and kallikrein; the arrow into the box is labelled 'Thromboplastin (tissue factor)'"
+      ],
+      "ans": 2,
+      "exp": "The intrinsic box prints 'XII —— High molecular weight kininogen, kallikrein → XIIa' and above it 'Back amplification of thrombin'. 'Endothelial injury' opens the extrinsic box only. (Book p172)"
+    },
+    {
+      "id": "MED-C29-28",
+      "sec": "Clotting Cascade (Intrinsic, Extrinsic, Common), Fibrinolysis Checkpoints, Antifibrinolytics & aPTT/PT Tests",
+      "page": 172,
+      "fmt": "match",
+      "q": "Match each intrinsic-cascade step on page 172 with the cofactors printed beside its arrow — 1) IX → IXa 2) X → Xa (intrinsic side) 3) Prothrombin → Thrombin … A) vIII, Ca²⁺ Phospholipid B) vII, Ca²⁺ C) Calcium phospholipase va",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 3,
+      "exp": "The intrinsic box prints 'IX → IXa' with 'vIII, Ca²⁺ / Phospholipid', the arrow from the intrinsic IXa into 'Factor X → Factor Xa' is annotated 'vII, Ca²⁺', and the common-cascade arrow 'Prothrombin → Thrombin (factor II)' carries 'Calcium phospholipase va'. (Book p172)"
+    },
+    {
+      "id": "MED-C29-29",
+      "sec": "Clotting Cascade (Intrinsic, Extrinsic, Common), Fibrinolysis Checkpoints, Antifibrinolytics & aPTT/PT Tests",
+      "page": 172,
+      "fmt": "recall",
+      "q": "In the extrinsic box on page 172, the sequence is 'Endothelial injury → Thromboplastin (tissue factor)'. What is printed with it to identify 'Factor III', and what is needed for Factor VII to become Factor VIIa?",
+      "opts": [
+        "Factor III = thromboplastin; Factor VII → Factor VIIa needs Calcium, phospholipid",
+        "Factor III = thromboplastin; Factor VII → Factor VIIa needs high molecular weight kininogen",
+        "Factor III = factor V; Factor VII → Factor VIIa needs phospholipid alone, without calcium",
+        "Factor III = tissue factor pathway inhibitor; Factor VII → Factor VIIa needs heparin"
+      ],
+      "ans": 0,
+      "exp": "The extrinsic box prints 'Thromboplastin (tissue factor) / Factor III' with the arrow 'Calcium, phospholipid' leading to 'Factor VIIa ← Factor VII'. (Book p172)"
+    },
+    {
+      "id": "MED-C29-30",
+      "sec": "Clotting Cascade (Intrinsic, Extrinsic, Common), Fibrinolysis Checkpoints, Antifibrinolytics & aPTT/PT Tests",
+      "page": 172,
+      "fmt": "recall",
+      "q": "At the end of the common cascade on page 172, which factor is printed as responsible for 'Clot stabilisation', and what does the fibrinolysis line begin and end with?",
+      "opts": [
+        "Clot stabilisation by XIII; fibrin → fibrinogen → 'FDP'",
+        "Clot stabilisation by XII; fibrinogen → fibrin → 'D-Dimer'",
+        "Clot stabilisation by XIII; fibrinogen → fibrin → 'Fibrin degradation Products (FDP)'",
+        "Clot stabilisation by Xa; fibrinogen → fibrin → 'plasminogen'"
+      ],
+      "ans": 2,
+      "exp": "The common-cascade box ends 'Fibrinogen → Fibrin → Clot stabilisation by XIII', and the fibrinolysis line runs 'Fibrinogen → Fibrin … → Fibrin degradation Products (FDP)'. (Book p172)"
+    },
+    {
+      "id": "MED-C29-31",
+      "sec": "Clotting Cascade (Intrinsic, Extrinsic, Common), Fibrinolysis Checkpoints, Antifibrinolytics & aPTT/PT Tests",
+      "page": 172,
+      "fmt": "recall",
+      "q": "On page 172 fibrinolysis is activated by tPA acting on plasminogen. Which three 'Check points :' are printed for preventing uncontrolled activation?",
+      "opts": [
+        "Protein Z, S : V, VIII; thrombin; heparin cofactor II",
+        "Protein C, S : IX, XI; TAFI; α2-antiplasmin",
+        "Protein C, S : II, VII; PAI-1; antithrombin III",
+        "Protein C, S : V, VIII; t-PA; Tissue factor pathway inhibitor (TFPI)"
+      ],
+      "ans": 3,
+      "exp": "Page 172 prints: 'Check points : Prevent uncontrolled activation. • Protein C, S : V, VIII. • t-PA. • Tissue factor pathway inhibitor TFPI.' (Book p172)"
+    },
+    {
+      "id": "MED-C29-32",
+      "sec": "Clotting Cascade (Intrinsic, Extrinsic, Common), Fibrinolysis Checkpoints, Antifibrinolytics & aPTT/PT Tests",
+      "page": 172,
+      "fmt": "oddoneout",
+      "q": "Page 172 lists four items under 't-PA inhibitors :' with the caption 'Antifibrinolytic → Promote thrombosis.' Which of the following is NOT one of those four printed t-PA inhibitors?",
+      "opts": [
+        "Lipoprotein A",
+        "Tissue factor pathway inhibitor (TFPI)",
+        "TAFI",
+        "α-2 antiplasmin"
+      ],
+      "ans": 1,
+      "exp": "The 't-PA inhibitors : Antifibrinolytic → Promote thrombosis.' list prints exactly '• α-2 antiplasmin. • TAFI. • Plasminogen activator inhibitor (PAI). • Lipoprotein A.' TFPI is listed separately under the right-hand 'Check points' box. (Book p172)"
+    },
+    {
+      "id": "MED-C29-33",
+      "sec": "Clotting Cascade (Intrinsic, Extrinsic, Common), Fibrinolysis Checkpoints, Antifibrinolytics & aPTT/PT Tests",
+      "page": 172,
+      "fmt": "match",
+      "q": "Match each of the three statements at the foot of page 172 with its printed partner — 1) aPTT 2) aPTT drawback 3) PT … A) Extrinsic & common cascade B) Intrinsic & common cascade C) Poor Sensitivity",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 2,
+      "exp": "Under 'TESTS' the bracket splits: 'aPTT • Intrinsic & common cascade. • Poor Sensitivity.' and 'PT • Extrinsic & common cascade.' (Book p172)"
+    },
+    {
+      "id": "MED-C29-34",
+      "sec": "Clotting Cascade (Intrinsic, Extrinsic, Common), Fibrinolysis Checkpoints, Antifibrinolytics & aPTT/PT Tests",
+      "page": 172,
+      "fmt": "truefalse",
+      "q": "Which statement about the clotting cascade as drawn on page 172 is accurate?",
+      "opts": [
+        "False — aPTT is printed as assessing the extrinsic and common cascade with good sensitivity",
+        "False — The intrinsic arm joins the common cascade at thrombin rather than at Factor X",
+        "True — The extrinsic arm reaches fibrin without passing through Factor X, which is why PT is a poor screening test",
+        "True — Both the intrinsic and extrinsic arms converge on Factor X, and from Factor X the common cascade proceeds through prothrombin to fibrin"
+      ],
+      "ans": 3,
+      "exp": "Both boxes on p172 point into the single red-bordered 'Common cascade' box, whose first entry is 'Factor X → Factor Xa'. The other statements contradict the printed arrows and the aPTT/PT bracket. (Book p172)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U29-1",
+      "ch": 29,
+      "n": 1,
+      "title": "Myeloid Progenitor Lineages, Thrombopoiesis (Early vs Late), Megakaryocyte Stages & Morphological Variants",
+      "sec": "Myeloid Progenitor Lineages, Thrombopoiesis (Early vs Late), Megakaryocyte Stages & Morphological Variants",
+      "guide": "Lineages & thrombopoiesis (p169): common myeloid progenitor → RBC, granulocyte, monocyte, megakaryocyte → platelet; thrombopoietin boxed as 'From kidneys and liver' acting on the myeloid stem cell. Thrombopoiesis → Early requires thrombopoietin ('From liver'), IL-3 (platelet development) and IL-11 (recombinant = Oprelvekin, for chemotherapy-induced thrombocytopenia); Late requires SDF-1.\nMegakaryocyte maturation: myeloid stem cell → megakaryoblast → megakaryocyte → platelet precursor extensions → platelets; Stage II basophilic, Stage III maximal granules with multilobed nuclei, Stage IV mature with lesser granules and pyknotic nuclei; endomitosis = multiplication of megakaryocytes.\nMorphological variations (photos): giant megakaryocyte in ITP, dwarf in CML, cloud in primary myelofibrosis, staghorn in essential thrombocytosis.",
+      "qs": [
+        "MED-C29-01",
+        "MED-C29-02",
+        "MED-C29-03",
+        "MED-C29-04",
+        "MED-C29-05",
+        "MED-C29-06",
+        "MED-C29-07",
+        "MED-C29-08"
+      ]
+    },
+    {
+      "id": "MED-U29-2",
+      "ch": 29,
+      "n": 2,
+      "title": "Platelet Counts, Lifespan, Sample Handling, Pseudothrombocytopenia & Platelet Transfusion (SDP vs RDP)",
+      "sec": "Platelet Counts, Lifespan, Sample Handling, Pseudothrombocytopenia & Platelet Transfusion (SDP vs RDP)",
+      "guide": "Basics (p170): lifespan 10 days, normal 1.5–4 lakh/µL, life span in stored blood 72 hrs; thresholds — thrombocytopenia < 1,00,000/µL, bleeding < 20,000/µL, significant bleeding < 10,000/µL.\nInvestigations: coagulation studies need platelet poor plasma, platelet studies need platelet rich plasma, all at room temperature except lupus anticoagulant at 4°C. Pseudothrombocytopenia = satellitism, caused by EDTA, clumping of platelets, remedied by re-sampling in 3.2% trisodium citrate.\nTransfusion: complete within 20 mins; SDP = apheresis/costly, RDP = pooling & centrifugation/cheap/commonly used; 1 unit SDP or 4–6 units RDP raise the count by 30,000–50,000/µL, whereas 1 unit RDP alone raises it by 6,000/µL.",
+      "qs": [
+        "MED-C29-09",
+        "MED-C29-10",
+        "MED-C29-11",
+        "MED-C29-12",
+        "MED-C29-13",
+        "MED-C29-14",
+        "MED-C29-15",
+        "MED-C29-16",
+        "MED-C29-17"
+      ]
+    },
+    {
+      "id": "MED-U29-3",
+      "ch": 29,
+      "n": 3,
+      "title": "Platelet Cascade I: Endothelial Antiplatelet/Anticoagulant/Fibrinolytic Roles, vWF Adhesion Receptors & Granules",
+      "sec": "Platelet Cascade I: Endothelial Antiplatelet/Anticoagulant/Fibrinolytic Roles, vWF Adhesion Receptors & Granules",
+      "guide": "Adhesion (p171): endothelial injury is mandatory; endothelium is antithrombotic, subendothelium prothrombotic. Antiplatelet = PGI₂, nitric oxide, ADPase. Anticoagulant = heparin-like molecules (with AT-III, inactivating II, IX, X, XI, XII), thrombomodulin (thrombin → protein C → inactivates V and VIII), TFPI (inactivates VII and X; tissue factor = III). Fibrinolysis = release of tPA.\nAdhesion mechanism: endothelial injury → release of vWF; sources megakaryocyte and endothelium (coiled form in Weibel-Palade granule); receptors Gp VI on collagen and Gp Ib-IX on platelet.\nActivation/degranulation: α granules and δ (dense) granules, the latter carrying ADP > ATP, calcium, histamine, serotonin. Aggregation: Gp IIb-IIIa with fibrinogen binding to platelets.",
+      "qs": [
+        "MED-C29-18",
+        "MED-C29-19",
+        "MED-C29-20",
+        "MED-C29-21",
+        "MED-C29-22",
+        "MED-C29-23",
+        "MED-C29-24",
+        "MED-C29-25"
+      ]
+    },
+    {
+      "id": "MED-U29-4",
+      "ch": 29,
+      "n": 4,
+      "title": "Clotting Cascade (Intrinsic, Extrinsic, Common), Fibrinolysis Checkpoints, Antifibrinolytics & aPTT/PT Tests",
+      "sec": "Clotting Cascade (Intrinsic, Extrinsic, Common), Fibrinolysis Checkpoints, Antifibrinolytics & aPTT/PT Tests",
+      "guide": "Clotting cascade (p172): intrinsic (in vitro) with back amplification of thrombin — XII → XIIa (high molecular weight kininogen, kallikrein), XI → XIa, IX → IXa (vIII, Ca²⁺, phospholipid), then X → Xa (vII, Ca²⁺); extrinsic (in vivo) — endothelial injury → thromboplastin/tissue factor (factor III) with calcium and phospholipid → factor VIIa, converging on factor X.\nCommon cascade: X → Xa → prothrombin → thrombin (factor II) with calcium phospholipase va → fibrinogen → fibrin → clot stabilisation by XIII. Fibrinolysis: tPA converts plasminogen to plasmin, generating FDPs; check points are protein C and S (V, VIII), t-PA and TFPI; t-PA inhibitors that promote thrombosis are α-2 antiplasmin, TAFI, PAI and lipoprotein A.\nTests: aPTT assesses intrinsic and common cascade with poor sensitivity; PT assesses extrinsic and common cascade.",
+      "qs": [
+        "MED-C29-26",
+        "MED-C29-27",
+        "MED-C29-28",
+        "MED-C29-29",
+        "MED-C29-30",
+        "MED-C29-31",
+        "MED-C29-32",
+        "MED-C29-33",
+        "MED-C29-34"
+      ]
+    }
+  ]
+}

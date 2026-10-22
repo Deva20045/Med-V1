@@ -10,7 +10,8 @@ Formula: 01.pdf Book p = PDF page -12; 02.pdf Book p = PDF page +117; 03.pdf Boo
 Chapter 1: 01.pdf PDF13-17 = p1-5. The audited run through Chapter 18 (p1–106) is 01.pdf PDF13–118.
 The audited run through Chapter 21 (p1–125) continues 01.pdf PDF119–129 (p107–117) and 02.pdf PDF1–8 (p118–125).
 The audited run through Chapter 23 (p1–139) continues 02.pdf PDF9–22 (p126–139).
-The audited run through Chapter 28 (p1–168) continues 02.pdf PDF23–51 (p140–168), with PDF52 verified as Book p169 (Chapter 29: Platelets - Basics).
+The audited run through Chapter 28 (p1–168) continues 02.pdf PDF23–51 (p140–168).
+The audited run through Chapter 33 (p1–205) continues 02.pdf PDF52–88 (p169–205). It is the longest run in the book and spans the end of the Hematology section into Pulmonology (Book p185 is the first Pulmonology page).
 
 ## Chapter sheet coverage verified (01.pdf & 02.pdf)
 
@@ -44,7 +45,12 @@ The audited run through Chapter 28 (p1–168) continues 02.pdf PDF23–51 (p140�
 | 26 | Non-Hodgkin's Lymphoma | 146–152 | 02.pdf PDF29–35 |
 | 27 | Hodgkin's Disease | 153–158 | 02.pdf PDF36–41 |
 | 28 | Plasma Cell Disorders | 159–168 | 02.pdf PDF42–51 |
-| 29 (next) | Platelets - Basics | 169 | 02.pdf PDF52 |
+| 29 | Platelets - Basics | 169–172 | 02.pdf PDF52–55 |
+| 30 | Approach to Bleeding Disorders | 173–184 | 02.pdf PDF56–67 |
+| 31 | Clinical Anatomy of Lungs | 185–192 | 02.pdf PDF68–75 |
+| 32 | Clinical Physiology of Lungs | 193–196 | 02.pdf PDF76–79 |
+| 33 | Pulmonary Function Tests | 197–205 | 02.pdf PDF80–88 |
+| 34 (next) | Venous Thromboembolism | 206 | 02.pdf PDF89 |
 
 Note (Ch 20): the Contents pages print 118, but the scanned heading "MYELOPROLIFERATIVE NEOPLASMS : PART 2"
 and the CML pathophysiology that follows it begin on Book p116; the scan is ground truth and the app
