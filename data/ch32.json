@@ -1,0 +1,529 @@
+{
+  "chapter": 32,
+  "title": "Clinical Physiology of Lungs",
+  "pageRange": "193-196",
+  "questions": [
+    {
+      "id": "MED-C32-01",
+      "sec": "Tidal Volume, Boyle's Law, Three Pressures, Intrapleural Negativity & Intra-Alveolar Pressure Changes",
+      "page": 193,
+      "fmt": "numeric",
+      "q": "At the start of 'Pressures In Respiratory Physiology' on page 193, tidal volume (VT) is defined and a normal value printed. Which definition and value are given?",
+      "opts": [
+        "Amount of air remaining after maximum expiration; normal 500 mL",
+        "Volume of air moving in & out of lungs; normal 500 mL",
+        "Amount of air inspired with maximum force after tidal inspiration; normal 500 mL",
+        "Volume of air moving in & out of lungs; normal 5000 mL"
+      ],
+      "ans": 1,
+      "exp": "Page 193 prints 'Tidal volume (V_T) : • volume of air moving in & out of lungs. • Normal : 500 mL.' (Book p193)"
+    },
+    {
+      "id": "MED-C32-02",
+      "sec": "Tidal Volume, Boyle's Law, Three Pressures, Intrapleural Negativity & Intra-Alveolar Pressure Changes",
+      "page": 193,
+      "fmt": "fillup",
+      "q": "Page 193 states Boyle's law as 'Tidal volume α ______' and uses the relation to link volume with transpulmonary pressure.",
+      "opts": [
+        "TPP",
+        "1/IAP",
+        "1/intrapleural pressure",
+        "1/TPP"
+      ],
+      "ans": 3,
+      "exp": "Page 193 prints 'Boyle's law : Tidal volume α 1/T_PP' — i.e. tidal volume is inversely related to transpulmonary pressure. (Book p193)"
+    },
+    {
+      "id": "MED-C32-03",
+      "sec": "Tidal Volume, Boyle's Law, Three Pressures, Intrapleural Negativity & Intra-Alveolar Pressure Changes",
+      "page": 193,
+      "fmt": "match",
+      "q": "Match the three pressures listed under 'TYPES' on page 193 with their printed definition or location — 1) Intrapleural pressure 2) Intraalveolar pressure (IAP) 3) Transpulmonary pressure (TPP) … A) Intraalveolar/intrapulmonary pressure − intrapleural pressure B) Pressure in pleura C) Listed second, abbreviated IAP",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 2,
+      "exp": "Page 193 prints 'TYPES 1. Intrapleural pressure. 2. Intraalveolar pressure (IAP). 3. Transpulmonary pressure (TPP) : Intraalveolar/intrapulmonary pressure – Intrapleural pressure.' (Book p193)"
+    },
+    {
+      "id": "MED-C32-04",
+      "sec": "Tidal Volume, Boyle's Law, Three Pressures, Intrapleural Negativity & Intra-Alveolar Pressure Changes",
+      "page": 193,
+      "fmt": "recall",
+      "q": "Under 'Intrapleural pressure :' on page 193, two properties of the pleura are printed in parentheses. Which two are given?",
+      "opts": [
+        "The pleura has lymphatics, and it has a vacuum so that the lung collapses while the chest expands",
+        "The pleura lacks lymphatics, and it has a vacuum so that the lung collapses while the chest expands",
+        "The pleura has blood vessels, and it has a vacuum so that both lung and chest collapse",
+        "The pleura has lymphatics, and it has a positive pressure so that the lung expands with the chest"
+      ],
+      "ans": 0,
+      "exp": "Page 193 prints '• Pleura. a. Has lymphatics. b. Has vacuum (Lung collapses, chest expands).' followed by '• Intrapleural pressure : Negative. – Positive in forceful expiration.' (Book p193)"
+    },
+    {
+      "id": "MED-C32-05",
+      "sec": "Tidal Volume, Boyle's Law, Three Pressures, Intrapleural Negativity & Intra-Alveolar Pressure Changes",
+      "page": 193,
+      "fmt": "recall",
+      "q": "Page 193 characterises inspiration and expiration. Which pair of statements is printed, and what chain follows inspiration?",
+      "opts": [
+        "Inspiration is an active process and expiration a passive process; contraction of respiratory muscles and diaphragm → chest wall expands → pleural pressure ↓",
+        "Inspiration is an active process and expiration a passive process; contraction of respiratory muscles and diaphragm → chest wall contracts → pleural pressure ↑",
+        "Inspiration is a passive process and expiration an active process; contraction of respiratory muscles and diaphragm → chest wall expands → pleural pressure ↓",
+        "Both inspiration and expiration are active processes; relaxation of respiratory muscles → chest wall expands → pleural pressure ↓"
+      ],
+      "ans": 0,
+      "exp": "Page 193 prints 'Inspiration : Active process. Contraction of respiratory muscles & diaphragm → Chest wall expands → Pleural pressure ↓' and 'Expiration : Passive process.' (Book p193)"
+    },
+    {
+      "id": "MED-C32-06",
+      "sec": "Tidal Volume, Boyle's Law, Three Pressures, Intrapleural Negativity & Intra-Alveolar Pressure Changes",
+      "page": 193,
+      "fmt": "numeric",
+      "q": "Under 'Intra alveolar pressure :' on page 193, three values are printed for rest, inspiration and expiration. Which set is printed?",
+      "opts": [
+        "At rest: −1 mmHg; inspiration: −3 mmHg; expiration: +3 mmHg",
+        "At rest: zero; inspiration: −2 to −3 mmHg; expiration: +2 to +3 mmHg",
+        "At rest: zero; inspiration: −1 mmHg; expiration: +1 mmHg",
+        "At rest: zero; inspiration: +1 mmHg; expiration: −1 mmHg"
+      ],
+      "ans": 2,
+      "exp": "Page 193 prints 'Intra alveolar pressure : a. At rest : Zero. b. Inspiration : Negative (−1 mmHg). c. Expiration : Positive (+1 mmHg).' (Book p193)"
+    },
+    {
+      "id": "MED-C32-07",
+      "sec": "Tidal Volume, Boyle's Law, Three Pressures, Intrapleural Negativity & Intra-Alveolar Pressure Changes",
+      "page": 193,
+      "fmt": "numeric",
+      "q": "On the intrapleural pressure trace at the right of page 193, two values are arrowed. What is printed at the start of inspiration and at the end of inspiration?",
+      "opts": [
+        "Start of inspiration: −5 to −6 mmHg; end of inspiration: −7 to −8 mmHg",
+        "Start of inspiration: −2 to −3 mmHg; end of inspiration: −7 to −8 mmHg",
+        "Start of inspiration: −2 to −3 mmHg; end of inspiration: −5 to −6 mmHg",
+        "Start of inspiration: 0 mmHg; end of inspiration: −4 to −5 mmHg"
+      ],
+      "ans": 1,
+      "exp": "The labelled trace reads 'Start of inspiration : −2 to −3 mmHg' and 'End of inspiration : −7 to −8 mmHg', with intrapleural pressure printed as negative and positive only in forceful expiration. (Book p193)"
+    },
+    {
+      "id": "MED-C32-08",
+      "sec": "Transpulmonary Pressure Equations, TPP Trace Values, Intrapleural Fluid Cohesiveness, Pneumothorax Note & Static Compliance",
+      "page": 194,
+      "fmt": "match",
+      "q": "Page 194 gives three equations for transpulmonary pressure. Match each statement with the right-hand side printed for it — 1) Total TPP 2) TPP of chest wall 3) Total TPP (second printed form) … A) TPP of lung + TPP of chest wall B) Intra pleural pressure − atmospheric pressure C) IAP − atmospheric pressure",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 3,
+      "exp": "Page 194 prints '• Total TPP = TPP of lung + TPP of chest wall • TPP of chest wall = Intra pleural pressure – atmospheric pressure. • Total TPP = IAP – atmospheric pressure.' (Book p194)"
+    },
+    {
+      "id": "MED-C32-09",
+      "sec": "Transpulmonary Pressure Equations, TPP Trace Values, Intrapleural Fluid Cohesiveness, Pneumothorax Note & Static Compliance",
+      "page": 194,
+      "fmt": "numeric",
+      "q": "The large pressure trace in the middle of page 194 marks the intra-alveolar and intrapleural pressures against an atmospheric pressure line. Which atmospheric value is printed, and what alveolar value appears during expiration?",
+      "opts": [
+        "Atmospheric pressure 756 mmHg; intra-alveolar +1 mmHg during expiration",
+        "Atmospheric pressure 760 mmHg; intra-alveolar +1 mmHg during expiration",
+        "Atmospheric pressure 760 mmHg; intra-alveolar −1 mmHg during expiration",
+        "Atmospheric pressure 760 mmHg; intra-alveolar +7 to +8 mmHg during expiration"
+      ],
+      "ans": 1,
+      "exp": "The trace is scaled around 'Atmospheric pressure 760' and labels 'Intra-alveolar pressure' with '+1 mmHg' in expiration and '−1 mmHg' in inspiration; intrapleural pressure falls from '−2 to −3 mmHg' to '−7 to −8 mmHg'. (Book p194)"
+    },
+    {
+      "id": "MED-C32-10",
+      "sec": "Transpulmonary Pressure Equations, TPP Trace Values, Intrapleural Fluid Cohesiveness, Pneumothorax Note & Static Compliance",
+      "page": 194,
+      "fmt": "numeric",
+      "q": "At the lower right of the same figure, a bracketed TPP value is printed for the end of inspiration. What is it?",
+      "opts": [
+        "TPP : 1 mmHg (end of inspiration)",
+        "TPP : 760 mmHg (end of inspiration)",
+        "TPP : 2–3 mmHg (end of inspiration)",
+        "TPP : 7–8 mmHg (end of inspiration)"
+      ],
+      "ans": 3,
+      "exp": "The right-hand arrow of the pressure trace is labelled 'TPP : 7–8 mmHg (end of inspiration)', and the vertical annotation reads 'TPP lung at start of inspiration : −2 to −3 mmHg' with a 'Transmural pressure gradient across the lung wall'. (Book p194)"
+    },
+    {
+      "id": "MED-C32-11",
+      "sec": "Transpulmonary Pressure Equations, TPP Trace Values, Intrapleural Fluid Cohesiveness, Pneumothorax Note & Static Compliance",
+      "page": 194,
+      "fmt": "recall",
+      "q": "Under 'LINKAGE OF LUNGS TO THORAX' on page 194, which two mechanisms are bracketed as the 'Forces that hold thoracic wall & lungs in close opposition'?",
+      "opts": [
+        "Intrapleural fluid cohesiveness (water molecules attracted to each other, resisting being pulled apart) and negative intrapleural pressure",
+        "Surfactant activity and negative intrapleural pressure",
+        "Elastic recoil of the lung and elastic recoil of the chest wall",
+        "Intrapleural fluid cohesiveness and positive intrapleural pressure"
+      ],
+      "ans": 0,
+      "exp": "Page 194 prints 'Intrapleural fluid cohesiveness : • water molecules attracted to each other. • Resists being pulled apart' and 'Negative intrapleural pressure.' with a brace labelled 'Forces that hold thoracic wall & lungs in close opposition.' (Book p194)"
+    },
+    {
+      "id": "MED-C32-12",
+      "sec": "Transpulmonary Pressure Equations, TPP Trace Values, Intrapleural Fluid Cohesiveness, Pneumothorax Note & Static Compliance",
+      "page": 194,
+      "fmt": "recall",
+      "q": "The pneumothorax Note on page 194 lists three statements. Which three are printed?",
+      "opts": [
+        "Intrapleural = intrapulmonary; TPP = 7–8 mmHg; lung not inflated",
+        "Intrapleural > intrapulmonary; TPP = 0; lung hyperinflated",
+        "Intrapleural = intrapulmonary; TPP = 0; lung not inflated",
+        "Intrapleural = intrapulmonary; TPP = 0; lung still inflated by surfactant"
+      ],
+      "ans": 2,
+      "exp": "Page 194 prints 'Note : Pneumothorax • Intrapleural = Intrapulmonary. • TPP = 0. • Lung not inflated.' (Book p194)"
+    },
+    {
+      "id": "MED-C32-13",
+      "sec": "Transpulmonary Pressure Equations, TPP Trace Values, Intrapleural Fluid Cohesiveness, Pneumothorax Note & Static Compliance",
+      "page": 194,
+      "fmt": "numeric",
+      "q": "What static compliance value is printed on page 194, and at what part of the pressure range is compliance maximal?",
+      "opts": [
+        "Static compliance = 200 mL/cm of H2O; maximal at low pressure",
+        "Static compliance = 20 mL/cm of H2O; maximal at mid-range pressure",
+        "Static compliance = 200 mL/cm of H2O; maximal at mid-range pressure",
+        "Static compliance = 500 mL/cm of H2O; maximal at high pressure"
+      ],
+      "ans": 2,
+      "exp": "Page 194 prints 'Static compliance : 200 mL/cm of H₂O.' and 'max compliance : mid range pressure.' (Book p194)"
+    },
+    {
+      "id": "MED-C32-14",
+      "sec": "Transpulmonary Pressure Equations, TPP Trace Values, Intrapleural Fluid Cohesiveness, Pneumothorax Note & Static Compliance",
+      "page": 194,
+      "fmt": "recall",
+      "q": "Page 194 defines static compliance at tidal volume. Which three statements are printed?",
+      "opts": [
+        "Inflation of lung per unit change in pressure; static compliance = ΔV/ΔP; ΔP = IAP",
+        "Deflation of lung per unit change in pressure; static compliance = ΔV/ΔP; ΔP = TPP",
+        "Inflation of lung per unit change in pressure; static compliance = ΔP/ΔV; ΔP = TPP",
+        "Inflation of lung per unit change in pressure; static compliance = ΔV/ΔP; ΔP = TPP"
+      ],
+      "ans": 3,
+      "exp": "Page 194 prints 'Static compliance at tidal volume : • Inflation of lung per unit change in pressure. • Static compliance = ΔV/ΔP • ΔP = TPP.' (Book p194)"
+    },
+    {
+      "id": "MED-C32-15",
+      "sec": "Transpulmonary Pressure Equations, TPP Trace Values, Intrapleural Fluid Cohesiveness, Pneumothorax Note & Static Compliance",
+      "page": 194,
+      "fmt": "numeric",
+      "q": "Two further annotations on the page 194 pressure figure give the TPP of the lung at the start of inspiration and name the driving gradient. Which pair is printed?",
+      "opts": [
+        "TPP lung at start of inspiration: 2–3 mmHg (printed as −2 to −3 mmHg on the intrapleural scale), with a 'Transmural pressure gradient across the lung wall'",
+        "TPP lung at start of inspiration: 0 mmHg, with a 'Transmural pressure gradient across the chest wall'",
+        "TPP lung at start of inspiration: 7–8 mmHg, with a 'Transmural pressure gradient across the lung wall'",
+        "TPP lung at start of inspiration: 2–3 mmHg, with a 'Hydrostatic pressure gradient across the pleura'"
+      ],
+      "ans": 0,
+      "exp": "The figure is annotated 'TPP lung at start of inspiration : −2 to −3 mmHg' (the same magnitude as the intrapleural value at that instant) and the vertical brace is labelled 'Transmural pressure gradient across the lung wall'; the end-inspiratory value on the same figure is 'TPP : 7–8 mmHg'. (Book p194)"
+    },
+    {
+      "id": "MED-C32-16",
+      "sec": "Hysteresis Loop, Surface Tension vs Elastic Recoil, Elastin/Collagen & Obstructive vs Restrictive Compliance Curves",
+      "page": 195,
+      "fmt": "recall",
+      "q": "What does page 195 print under 'HYSTERESIS LOOP', and how is the loop's existence explained?",
+      "opts": [
+        "The ΔV/ΔP curve differs for inspiration and expiration, because expiration occurs against resistance whereas inspiration is passive",
+        "The ΔV/ΔP curve differs for inspiration and expiration, because inspiration occurs against resistance whereas expiration is passive and requires no extra force",
+        "The ΔV/ΔP curve differs for inspiration and expiration, because of surfactant degradation between breaths",
+        "The ΔV/ΔP curve is identical for inspiration and expiration, because both are passive processes"
+      ],
+      "ans": 1,
+      "exp": "Page 195 prints 'ΔV/ΔP curve is different for inspiration & expiration.' with 'Reason' splitting into 'Inspiration : Occurs against resistance' and 'Expiration : • Passive process • Does not require extra force'. (Book p195)"
+    },
+    {
+      "id": "MED-C32-17",
+      "sec": "Hysteresis Loop, Surface Tension vs Elastic Recoil, Elastin/Collagen & Obstructive vs Restrictive Compliance Curves",
+      "page": 195,
+      "fmt": "match",
+      "q": "Under the inspiration limb on page 195, two resistances are bracketed and 'Overcome by' is applied to them. Match each with the printed text — 1) Surface tension 2) Surface tension, overcome by 3) Elastic recoil pressure (ERP of lung) … A) Marked '(more important)' B) Surfactant C) Listed third, with no 'overcome by' entry",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 3,
+      "exp": "Page 195 brackets 'Surface tension (more important)' with 'Overcome by surfactant' beneath it, and lists 'Elastic recoil pressure (ERP of lung)' as the second bracket with no 'overcome by' entry. (Book p195)"
+    },
+    {
+      "id": "MED-C32-18",
+      "sec": "Hysteresis Loop, Surface Tension vs Elastic Recoil, Elastin/Collagen & Obstructive vs Restrictive Compliance Curves",
+      "page": 195,
+      "fmt": "match",
+      "q": "Match the two structural proteins named under 'elastic recoil pressure :' on page 195 with the property printed against each — 1) Elastin 2) Collagen 3) Structure whose change is listed next … A) Elastic force B) Tensile strength C) 'Changes in airway diseases'",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Page 195 prints 'elastic recoil pressure : • D/t → Elastin (elastic force) → Collagen (Tensile strength)'. (Book p195)"
+    },
+    {
+      "id": "MED-C32-19",
+      "sec": "Hysteresis Loop, Surface Tension vs Elastic Recoil, Elastin/Collagen & Obstructive vs Restrictive Compliance Curves",
+      "page": 195,
+      "fmt": "match",
+      "q": "For obstructive airway disease, page 195 lists three changes plus a consequence. Match each step of the chain with the printed text — 1) Static compliance 2) Shift of the curve 3) Structural change 4) Consequence … A) ↑ static compliance B) Curve shifts up & left C) Loss of elastin D) ↓ ERP, so easier to inflate lung",
+      "opts": [
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-C, 3-B, 4-D",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-B, 3-C, 4-A"
+      ],
+      "ans": 2,
+      "exp": "Under 'a. Obstructive diseases (eg : COPD, emphysema)' page 195 prints '• ↑ static compliance • Curve shifts up & left • Loss of elastin → ↓ ERP → Easier to inflate lung'. (Book p195)"
+    },
+    {
+      "id": "MED-C32-20",
+      "sec": "Hysteresis Loop, Surface Tension vs Elastic Recoil, Elastin/Collagen & Obstructive vs Restrictive Compliance Curves",
+      "page": 195,
+      "fmt": "match",
+      "q": "For restrictive disease, match each step of the chain on page 195 with the printed text — 1) Static compliance 2) Shift of the curve 3) Structural change 4) Consequence … A) ↓ static compliance B) Curve shifts down & right C) Fibrosis with ↑ collagen D) ↑ ERP, so difficult to inflate lung",
+      "opts": [
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-A, 2-B, 3-D, 4-C",
+        "1-A, 2-C, 3-B, 4-D"
+      ],
+      "ans": 1,
+      "exp": "Under 'b. Restrictive diseases (eg : ILD)' page 195 prints '• ↓ static compliance • Curve shifts down & right • Fibrosis → ↑ Collagen → ↑ ERP → Difficult to inflate lung'. (Book p195)"
+    },
+    {
+      "id": "MED-C32-21",
+      "sec": "Hysteresis Loop, Surface Tension vs Elastic Recoil, Elastin/Collagen & Obstructive vs Restrictive Compliance Curves",
+      "page": 195,
+      "fmt": "oddoneout",
+      "q": "Page 195 labels three of the plotted pressure–volume curves in the bottom graph. Which label is NOT used there?",
+      "opts": [
+        "Low compliance (pulmonary emphysema)",
+        "Normal",
+        "Low compliance (Pulmonary fibrosis)",
+        "High compliance (Emphysema)"
+      ],
+      "ans": 0,
+      "exp": "The bottom graph of page 195 is labelled 'High compliance (Emphysema)', 'Normal' and 'Low compliance (Pulmonary fibrosis)'. The accompanying legend in the upper chart also prints 'Interstitial fibrosis'. (Book p195)"
+    },
+    {
+      "id": "MED-C32-22",
+      "sec": "Hysteresis Loop, Surface Tension vs Elastic Recoil, Elastin/Collagen & Obstructive vs Restrictive Compliance Curves",
+      "page": 195,
+      "fmt": "recall",
+      "q": "The pressure–volume graph on page 195 is captioned and its two limbs are arrowed. What is printed for the caption and for the direction of each limb?",
+      "opts": [
+        "'Static compliance of lung', with identical inspiration and expiration limbs",
+        "'Pressure-volume curves of the lung during inspiration and expiration', with the expiration limb lying above the inspiration limb",
+        "'Pressure-volume curves of the respiratory system and its components', with the expiration limb lying above the inspiration limb",
+        "'Pressure-volume curves of the lung during inspiration and expiration', with the inspiration limb lying above the expiration limb"
+      ],
+      "ans": 1,
+      "exp": "The graph on page 195 is captioned 'Pressure-volume curves of the lung during inspiration and expiration', and the arrows place 'Expiration' on the upper limb and 'Inspiration' on the lower limb, which is what makes the loop hysteretic. (Book p195)"
+    },
+    {
+      "id": "MED-C32-23",
+      "sec": "Dynamic Compliance (Only-Dynamic vs Static-and-Dynamic Falls) & Elastic Recoil Pressure of the Respiratory System at RV/FRC/TLC",
+      "page": 196,
+      "fmt": "recall",
+      "q": "How is dynamic compliance defined on page 196, and what relation to static compliance is printed?",
+      "opts": [
+        "Static compliance × resistance; static and dynamic compliance move in opposite directions",
+        "Static compliance + elastance; dynamic compliance is independent of static compliance",
+        "Static compliance + resistance; static and dynamic compliance will ↑/↓ together",
+        "Static compliance − resistance; static and dynamic compliance will ↑/↓ together"
+      ],
+      "ans": 2,
+      "exp": "Page 196 prints '• Static compliance + resistance. • Static and dynamic compliance will ↑/↓ together.' (Book p196)"
+    },
+    {
+      "id": "MED-C32-24",
+      "sec": "Dynamic Compliance (Only-Dynamic vs Static-and-Dynamic Falls) & Elastic Recoil Pressure of the Respiratory System at RV/FRC/TLC",
+      "page": 196,
+      "fmt": "match",
+      "q": "Page 196 groups the causes of a fall in dynamic compliance into two brackets. Match each entry with the effect printed against it — 1) Foreign body, kink in ET tube, intrathoracic obstruction 2) Kink in ET tube, individually 3) Pulmonary edema, consolidation, atelectasis, pneumothorax … A) Only dynamic compliance ↓ B) Listed as the second cause of an isolated dynamic fall C) Static & dynamic compliance ↓",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 3,
+      "exp": "Page 196 prints 'eg : Fall in dynamic compliance • Foreign body • Kink in ET tube • Intrathoracic obstruction } Only dynamic compliance ↓' and '• Pulmonary edema • Consolidation • Atelectasis • Pneumothorax } Static & dynamic compliance ↓'. (Book p196)"
+    },
+    {
+      "id": "MED-C32-25",
+      "sec": "Dynamic Compliance (Only-Dynamic vs Static-and-Dynamic Falls) & Elastic Recoil Pressure of the Respiratory System at RV/FRC/TLC",
+      "page": 196,
+      "fmt": "recall",
+      "q": "Which four causes are printed in the 'Static & dynamic compliance ↓' bracket on page 196?",
+      "opts": [
+        "Pulmonary edema, consolidation, atelectasis and foreign body",
+        "Pulmonary edema, consolidation, atelectasis and pneumothorax",
+        "Pulmonary edema, emphysema, atelectasis and pneumothorax",
+        "Pulmonary fibrosis, consolidation, atelectasis and pneumothorax"
+      ],
+      "ans": 1,
+      "exp": "The second bracket on page 196 lists exactly 'Pulmonary edema, Consolidation, Atelectasis, Pneumothorax' and the first bracket lists foreign body, kink in ET tube and intrathoracic obstruction. (Book p196)"
+    },
+    {
+      "id": "MED-C32-26",
+      "sec": "Dynamic Compliance (Only-Dynamic vs Static-and-Dynamic Falls) & Elastic Recoil Pressure of the Respiratory System at RV/FRC/TLC",
+      "page": 196,
+      "fmt": "recall",
+      "q": "Under 'ERP of respiratory system' on page 196, how is total ERP expressed?",
+      "opts": [
+        "Total ERP = ERP (Chest wall) only, since the lung contributes no recoil",
+        "Total ERP = ERP (Lung) − ERP (Chest wall)",
+        "Total ERP = ERP (Lung) + ERP (Chest wall)",
+        "Total ERP = ERP (Lung) × ERP (Chest wall)"
+      ],
+      "ans": 2,
+      "exp": "Page 196 prints 'Total ERP = ERP (Lung) + ERP (Chest wall)'. (Book p196)"
+    },
+    {
+      "id": "MED-C32-27",
+      "sec": "Dynamic Compliance (Only-Dynamic vs Static-and-Dynamic Falls) & Elastic Recoil Pressure of the Respiratory System at RV/FRC/TLC",
+      "page": 196,
+      "fmt": "match",
+      "q": "Match each lung volume in the 'Changes in ERP' table on page 196 with the contributor and sign printed for it — 1) At residual volume 2) At functional residual capacity 3) At total lung capacity … A) Chest wall only, ERP −ve (directed outwards) B) Chest wall + lung, ERP zero C) Chest wall + lung, ERP +ve (both forces directed downwards)",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "The table on page 196 reads: at residual volume, ERP contributed by 'Chest wall', ERP '−ve (Directed outwards)', inflation 'Easy'; at FRC, 'Chest wall + lung', 'Zero (Tendency of collapse of lung counter balanced by chest wall expansion)', 'Easy'; at TLC, 'Chest wall + lung', '+ve (Both forces directed downwards)', 'Difficult'. (Book p196)"
+    },
+    {
+      "id": "MED-C32-28",
+      "sec": "Dynamic Compliance (Only-Dynamic vs Static-and-Dynamic Falls) & Elastic Recoil Pressure of the Respiratory System at RV/FRC/TLC",
+      "page": 196,
+      "fmt": "numeric",
+      "q": "The same table gives three printed facts about residual volume and FRC. Which set is printed?",
+      "opts": [
+        "Residual volume = air left after forceful expiration, normal 2.1 L; FRC is AKA equilibrium volume and FRC = RV + ERV",
+        "Residual volume = air left after normal expiration, normal 1.2 L; FRC = RV + IRV",
+        "Residual volume = air left after forceful expiration, normal 1.2 L; FRC is AKA equilibrium volume and FRC = ERV + IC",
+        "Residual volume = air left after forceful expiration, normal 1.2 L; FRC is AKA equilibrium/relaxation volume, holds air left after normal expiration, and FRC = RV + ERV"
+      ],
+      "ans": 3,
+      "exp": "Page 196 prints under 'At residual volume': '• Air left after forceful expiration • Normal : 1.2 L'; under FRC: '• AKA Equilibrium volume, relaxation volume • Air left after normal expiration • FRC = RV + ERV'. (Book p196)"
+    },
+    {
+      "id": "MED-C32-29",
+      "sec": "Dynamic Compliance (Only-Dynamic vs Static-and-Dynamic Falls) & Elastic Recoil Pressure of the Respiratory System at RV/FRC/TLC",
+      "page": 196,
+      "fmt": "truefalse",
+      "q": "Which statement about elastic recoil pressure across lung volumes as printed on page 196 is accurate?",
+      "opts": [
+        "True — At total lung capacity the recoil is zero because lung collapse and chest wall expansion balance",
+        "True — At residual volume the chest wall alone contributes the recoil, which is negative and directed outwards, making inflation easy",
+        "False — At residual volume the recoil is contributed by the lung alone and is positive",
+        "False — At FRC the ERP is positive with both forces directed downwards"
+      ],
+      "ans": 1,
+      "exp": "The table on page 196 assigns the −ve, outward, 'easy' state to residual volume (chest wall), zero to FRC ('chest wall + lung'), and +ve, downward, 'difficult' to TLC. (Book p196)"
+    },
+    {
+      "id": "MED-C32-30",
+      "sec": "Dynamic Compliance (Only-Dynamic vs Static-and-Dynamic Falls) & Elastic Recoil Pressure of the Respiratory System at RV/FRC/TLC",
+      "page": 196,
+      "fmt": "fillup",
+      "q": "On the dynamic-compliance graph on page 196, the slope of the loop is labelled as the quantity being measured: 'slope = ______'.",
+      "opts": [
+        "static compliance",
+        "elastic recoil pressure",
+        "dynamic compliance",
+        "airway resistance"
+      ],
+      "ans": 2,
+      "exp": "The small loop plotted between expiration and inspiration on page 196 is annotated 'slope = dynamic complian[ce]' and captioned 'Dynamic compliance', contrasting with the static-compliance curve of page 194. (Book p196)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U32-1",
+      "ch": 32,
+      "n": 1,
+      "title": "Tidal Volume, Boyle's Law, Three Pressures, Intrapleural Negativity & Intra-Alveolar Pressure Changes",
+      "sec": "Tidal Volume, Boyle's Law, Three Pressures, Intrapleural Negativity & Intra-Alveolar Pressure Changes",
+      "guide": "Pressures in respiratory physiology (p193): tidal volume is the air moving in and out of the lungs, normal 500 mL; Boyle's law gives tidal volume α 1/TPP. Three pressures are intrapleural, intra-alveolar (IAP) and transpulmonary (TPP = intra-alveolar/intrapulmonary − intrapleural).\nIntrapleural pressure is the pressure in the pleura, which has lymphatics and a vacuum (lung collapses, chest expands); it is negative except in forceful expiration, where it becomes positive. Inspiration is active — respiratory muscles and diaphragm contract, the chest wall expands and pleural pressure falls; expiration is passive.\nIntra-alveolar pressure is zero at rest, −1 mmHg in inspiration and +1 mmHg in expiration; the printed intrapleural trace runs from −2 to −3 mmHg at the start of inspiration to −7 to −8 mmHg at the end.",
+      "qs": [
+        "MED-C32-01",
+        "MED-C32-02",
+        "MED-C32-03",
+        "MED-C32-04",
+        "MED-C32-05",
+        "MED-C32-06",
+        "MED-C32-07"
+      ]
+    },
+    {
+      "id": "MED-U32-2",
+      "ch": 32,
+      "n": 2,
+      "title": "Transpulmonary Pressure Equations, TPP Trace Values, Intrapleural Fluid Cohesiveness, Pneumothorax Note & Static Compliance",
+      "sec": "Transpulmonary Pressure Equations, TPP Trace Values, Intrapleural Fluid Cohesiveness, Pneumothorax Note & Static Compliance",
+      "guide": "Transpulmonary pressure (p194): total TPP = TPP of lung + TPP of chest wall; TPP of chest wall = intrapleural − atmospheric pressure; total TPP = IAP − atmospheric pressure. The trace is drawn around an atmospheric pressure of 760 mmHg, with intra-alveolar +1 mmHg in expiration and a TPP of 7–8 mmHg at end-inspiration.\nLungs are held to the thorax by intrapleural fluid cohesiveness (water molecules attracting one another and resisting being pulled apart) and by negative intrapleural pressure. In pneumothorax, intrapleural equals intrapulmonary pressure, TPP is 0 and the lung is not inflated.\nStatic compliance is 200 mL/cm H2O, maximal at mid-range pressure, and equals ΔV/ΔP with ΔP = TPP; at tidal volume it is the inflation of lung per unit change in pressure.",
+      "qs": [
+        "MED-C32-08",
+        "MED-C32-09",
+        "MED-C32-10",
+        "MED-C32-11",
+        "MED-C32-12",
+        "MED-C32-13",
+        "MED-C32-14",
+        "MED-C32-15"
+      ]
+    },
+    {
+      "id": "MED-U32-3",
+      "ch": 32,
+      "n": 3,
+      "title": "Hysteresis Loop, Surface Tension vs Elastic Recoil, Elastin/Collagen & Obstructive vs Restrictive Compliance Curves",
+      "sec": "Hysteresis Loop, Surface Tension vs Elastic Recoil, Elastin/Collagen & Obstructive vs Restrictive Compliance Curves",
+      "guide": "Hysteresis (p195): the ΔV/ΔP curve differs between inspiration and expiration because inspiration occurs against resistance while expiration is passive and needs no extra force. The resistances are surface tension (more important, overcome by surfactant) and elastic recoil pressure of the lung, which arises from elastin (elastic force) and collagen (tensile strength).\nObstructive disease (COPD, emphysema): ↑ static compliance, curve shifted up and left, loss of elastin → ↓ ERP → easier to inflate. Restrictive disease (ILD): ↓ static compliance, curve shifted down and right, fibrosis → ↑ collagen → ↑ ERP → difficult to inflate.\nThe plotted curves are labelled high compliance (emphysema), normal, and low compliance (pulmonary fibrosis).",
+      "qs": [
+        "MED-C32-16",
+        "MED-C32-17",
+        "MED-C32-18",
+        "MED-C32-19",
+        "MED-C32-20",
+        "MED-C32-21",
+        "MED-C32-22"
+      ]
+    },
+    {
+      "id": "MED-U32-4",
+      "ch": 32,
+      "n": 4,
+      "title": "Dynamic Compliance (Only-Dynamic vs Static-and-Dynamic Falls) & Elastic Recoil Pressure of the Respiratory System at RV/FRC/TLC",
+      "sec": "Dynamic Compliance (Only-Dynamic vs Static-and-Dynamic Falls) & Elastic Recoil Pressure of the Respiratory System at RV/FRC/TLC",
+      "guide": "Dynamic compliance (p196) equals static compliance plus resistance, and static and dynamic compliance move together. Foreign body, kink in the ET tube and intrathoracic obstruction lower only dynamic compliance, whereas pulmonary edema, consolidation, atelectasis and pneumothorax lower both.\nERP of the respiratory system: total ERP = ERP of lung + ERP of chest wall. At residual volume the chest wall alone contributes a negative, outward ERP and inflation is easy; at FRC (equilibrium/relaxation volume, RV + ERV) chest wall and lung together give zero ERP and inflation is easy; at TLC both forces act downwards giving a positive ERP and inflation is difficult. Residual volume is the air left after forceful expiration, normally 1.2 L.",
+      "qs": [
+        "MED-C32-23",
+        "MED-C32-24",
+        "MED-C32-25",
+        "MED-C32-26",
+        "MED-C32-27",
+        "MED-C32-28",
+        "MED-C32-29",
+        "MED-C32-30"
+      ]
+    }
+  ]
+}
