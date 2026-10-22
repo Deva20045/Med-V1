@@ -1,0 +1,927 @@
+{
+  "chapter": 34,
+  "title": "Venous Thromboembolism",
+  "pageRange": "206-212",
+  "questions": [
+    {
+      "id": "MED-C34-01",
+      "sec": "VTE Definition, Mortality, Thrombo-Embolic Pathogenesis, Origin of Thrombi, Acute Cor Pulmonale, Calf DVT & Massive VTE Pathogenesis Chain",
+      "page": 206,
+      "fmt": "recall",
+      "q": "The chapter opening names VTE by a second term and prints one mortality figure. Which pair is printed?",
+      "opts": [
+        "AKA pulmonary embolism syndrome; 60–80% mortality in submassive PTE",
+        "AKA pulmonary thromboembolism (PTE); 60–80% mortality in massive PTE",
+        "AKA pulmonary arterial thrombosis; 30–40% mortality in submassive PTE",
+        "AKA pulmonary thromboembolism (PTE); 20–30% mortality in massive PTE"
+      ],
+      "ans": 1,
+      "exp": "The first two lines read 'AKA pulmonary thromboembolism (PTE).' and '60–80% mortality in massive PTE.' The 60–80% figure is attached to massive PTE specifically, not to submassive disease. (Book p206)"
+    },
+    {
+      "id": "MED-C34-02",
+      "sec": "VTE Definition, Mortality, Thrombo-Embolic Pathogenesis, Origin of Thrombi, Acute Cor Pulmonale, Calf DVT & Massive VTE Pathogenesis Chain",
+      "page": 206,
+      "fmt": "fillup",
+      "q": "Page 206 defines the pathogenesis of VTE as migration of thrombi/microthrombi from the systemic circulation to the ______.",
+      "opts": [
+        "Pulmonary vasculature",
+        "Portal circulation",
+        "Systemic arterial tree",
+        "Lymphatic channels"
+      ],
+      "ans": 0,
+      "exp": "Page 206 prints 'migration of thrombi/microthrombi : Systemic circulation → Pulmonary vasculature.' The embolus travels with venous blood through the right heart into the pulmonary arterial tree. (Book p206)"
+    },
+    {
+      "id": "MED-C34-03",
+      "sec": "VTE Definition, Mortality, Thrombo-Embolic Pathogenesis, Origin of Thrombi, Acute Cor Pulmonale, Calf DVT & Massive VTE Pathogenesis Chain",
+      "page": 206,
+      "fmt": "match",
+      "q": "Page 206 ranks the sites from which thrombi originate. Match each printed statement with its site — 1) Deep veins 2) Max risk 3) In pregnancy … A) Pelvic veins B) Lower limb > upper limb C) Supra-popliteal veins → femoral veins",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 2,
+      "exp": "The origin list reads 'Deep veins of lower limb > upper limb', then 'max risk : Supra-popliteal veins → Femoral veins' and 'Pelvic veins (In pregnancy)'. The pelvic site is tied specifically to pregnancy. (Book p206)"
+    },
+    {
+      "id": "MED-C34-04",
+      "sec": "VTE Definition, Mortality, Thrombo-Embolic Pathogenesis, Origin of Thrombi, Acute Cor Pulmonale, Calf DVT & Massive VTE Pathogenesis Chain",
+      "page": 206,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three statements are printed under the page 206 'Note :', one is not:",
+      "opts": [
+        "Acute cor pulmonale: RV dilatation/hypertrophy ± heart failure",
+        "DVT in calf: most common site, and it does not embolize",
+        "Most common cause of acute cor pulmonale: VTE",
+        "DVT in calf is the commonest source of clinically significant emboli"
+      ],
+      "ans": 3,
+      "exp": "The Note prints the calf as the 'm/c site' but immediately adds 'Do not embolize' — the calf is the commonest DVT site yet is not the commonest source of emboli. The other three statements follow the page wording. (Book p206)"
+    },
+    {
+      "id": "MED-C34-05",
+      "sec": "VTE Definition, Mortality, Thrombo-Embolic Pathogenesis, Origin of Thrombi, Acute Cor Pulmonale, Calf DVT & Massive VTE Pathogenesis Chain",
+      "page": 206,
+      "fmt": "recall",
+      "q": "How does page 206 define a MASSIVE VTE?",
+      "opts": [
+        "Any pulmonary embolism with haemoptysis and pleuritic pain",
+        "Any pulmonary embolism with hypotension",
+        "Any pulmonary embolism with more than 50% clot burden on CT",
+        "Any pulmonary embolism with RV dilatation but no hypotension"
+      ],
+      "ans": 1,
+      "exp": "The first line under 'Types of VTE' reads 'MASSIVE VTE — Any pulmonary embolism with hypotension.' RV dilatation without hypotension belongs instead to the submassive group on page 207. (Book p206)"
+    },
+    {
+      "id": "MED-C34-06",
+      "sec": "VTE Definition, Mortality, Thrombo-Embolic Pathogenesis, Origin of Thrombi, Acute Cor Pulmonale, Calf DVT & Massive VTE Pathogenesis Chain",
+      "page": 206,
+      "fmt": "numeric",
+      "q": "The massive-VTE pathogenesis chain on page 206 carries three numbers. Which set is printed?",
+      "opts": [
+        ">50–70% occlusion of the pulmonary circulation; SBP < 90 mmHg; hypotension lasting ≥ 30 mins",
+        ">30–40% occlusion of the pulmonary circulation; SBP < 100 mmHg; hypotension lasting ≥ 10 mins",
+        ">50–70% occlusion of the pulmonary circulation; SBP < 90 mmHg; hypotension lasting ≥ 15 mins",
+        ">70–90% occlusion of the pulmonary circulation; SBP < 90 mmHg; hypotension lasting ≥ 15 mins"
+      ],
+      "ans": 2,
+      "exp": "The chain starts 'Pulmonary circulation blocked by thrombus (>50–70% occlusion) → Hypoxemia' and ends at 'Hypotension : SBP < 90 mmHg' with the brace 'Lasting for ≥ 15 mins or Requires ionotropic support'. All three printed cut-offs must be kept together. (Book p206)"
+    },
+    {
+      "id": "MED-C34-07",
+      "sec": "VTE Definition, Mortality, Thrombo-Embolic Pathogenesis, Origin of Thrombi, Acute Cor Pulmonale, Calf DVT & Massive VTE Pathogenesis Chain",
+      "page": 206,
+      "fmt": "recall",
+      "q": "Which sequence is printed for the massive-VTE chain after the pulmonary circulation is blocked?",
+      "opts": [
+        "RV & RA dilatation → septum pushed to left → ↓LV volume → ↓cardiac output → hypotension",
+        "RA dilatation → tricuspid stenosis → ↓RV filling → ↓cardiac output → hypotension",
+        "RV & RA dilatation → ↑LV volume → ↑cardiac output → hypotension",
+        "LV dilatation → septum pushed to right → ↑RV volume → ↑cardiac output → hypertension"
+      ],
+      "ans": 0,
+      "exp": "Page 206 draws 'RV & RA dilatation' → 'Pushes septum to left' → '↓ LV volume' → '↓ cardiac output → Hypotension'. The leftward septal shift reduces, not increases, LV volume. (Book p206)"
+    },
+    {
+      "id": "MED-C34-08",
+      "sec": "VTE Definition, Mortality, Thrombo-Embolic Pathogenesis, Origin of Thrombi, Acute Cor Pulmonale, Calf DVT & Massive VTE Pathogenesis Chain",
+      "page": 206,
+      "fmt": "scenario",
+      "q": "A 58-year-old with a saddle embolus is hypotensive and needs inotropes. Applying page 206, the diagnosis and the two alternative qualifying criteria for the hypotension limb are:",
+      "opts": [
+        "Non-massive VTE — hypotension is not part of this classification at all",
+        "Submassive VTE — hypotension qualifies only if it lasts ≥ 30 mins and needs inotropes",
+        "Massive VTE — hypotension must last ≥ 15 mins AND require ionotropic support together",
+        "Massive VTE — hypotension qualifies if it lasts ≥ 15 mins OR requires ionotropic support"
+      ],
+      "ans": 3,
+      "exp": "The brace after 'SBP < 90 mmHg' reads 'Lasting for ≥ 15 mins' OR 'Requires ionotropic support' — either criterion suffices, and the presence of hypotension by itself makes the episode massive. (Book p206)"
+    },
+    {
+      "id": "MED-C34-09",
+      "sec": "Presentation, D/d of Dyspnea with Clear Lung Fields, Golden 4 Assessment (Clinical, ECHO/McConnel Sign, Biomarkers, CTPA) & Submassive/Non-Massive VTE",
+      "page": 207,
+      "fmt": "recall",
+      "q": "Page 207 lists four presentations of PTE and names the most and second most common symptoms. Which pair is printed?",
+      "opts": [
+        "Most common: pleuritic chest pain; second most common symptom: unexplained dyspnea",
+        "Most common: syncope; second most common symptom: sudden cardiac death",
+        "Most common: haemoptysis; second most common symptom: unexplained dyspnea",
+        "Most common: unexplained dyspnea with clear lung fields; second most common symptom: chest pain"
+      ],
+      "ans": 3,
+      "exp": "The presentation list gives 'unexplained dyspnea with clear lung fields (m/c)' and 'chest pain : 2nd m/c symptom of PTE', alongside sudden cardiac death and syncope. Clear lung fields with breathlessness is the signature presentation. (Book p207)"
+    },
+    {
+      "id": "MED-C34-10",
+      "sec": "Presentation, D/d of Dyspnea with Clear Lung Fields, Golden 4 Assessment (Clinical, ECHO/McConnel Sign, Biomarkers, CTPA) & Submassive/Non-Massive VTE",
+      "page": 207,
+      "fmt": "fillup",
+      "q": "The page 207 note gives only two entries in the D/d for dyspnea with clear lung fields: 1. VTE and 2. ______.",
+      "opts": [
+        "Metabolic acidosis",
+        "Bronchial asthma",
+        "Pulmonary oedema",
+        "Pneumothorax"
+      ],
+      "ans": 0,
+      "exp": "The boxed note reads 'D/d for dyspnea with clear lung fields : 1. VTE. 2. metabolic acidosis.' Pulmonary oedema and pneumothorax do not give clear lung fields, which is why they are absent from this short list. (Book p207)"
+    },
+    {
+      "id": "MED-C34-11",
+      "sec": "Presentation, D/d of Dyspnea with Clear Lung Fields, Golden 4 Assessment (Clinical, ECHO/McConnel Sign, Biomarkers, CTPA) & Submassive/Non-Massive VTE",
+      "page": 207,
+      "fmt": "recall",
+      "q": "The 'Golden 4' assessment on page 207 numbers four domains. Which four are printed, in order?",
+      "opts": [
+        "1. Clinical (hypotension) 2. Chest radiograph 3. D-dimer 4. CTPA",
+        "1. Clinical (hypotension) 2. ECHO 3. Biomarkers 4. Imaging evidence",
+        "1. Clinical (tachycardia) 2. ECG 3. Biomarkers 4. Imaging evidence",
+        "1. Wells score 2. ECHO 3. D-dimer 4. Pulmonary angiography"
+      ],
+      "ans": 1,
+      "exp": "The page numbers '1. Clinical : Hypotension', '2. ECHO', '3. Biomarkers', '4. Imaging evidence'. The Wells score and pulmonary angiography appear later, on pages 211 and 212 respectively, not in the Golden 4. (Book p207)"
+    },
+    {
+      "id": "MED-C34-12",
+      "sec": "Presentation, D/d of Dyspnea with Clear Lung Fields, Golden 4 Assessment (Clinical, ECHO/McConnel Sign, Biomarkers, CTPA) & Submassive/Non-Massive VTE",
+      "page": 207,
+      "fmt": "match",
+      "q": "Match each ECHO entry of the Golden 4 with its printed description — 1) McConnel's sign 2) Septal push 3) LV contraction 4) R/o pericardial tamponade … A) Used as a negative check on the ECHO 2-D study B) Hypocontractile RV free wall with hypercontractile apex C) Septum displaced by the dilated right heart D) Listed simply as LV contraction",
+      "opts": [
+        "1-D, 2-A, 3-B, 4-C",
+        "1-B, 2-C, 3-A, 4-D",
+        "1-B, 2-C, 3-D, 4-A",
+        "1-C, 2-B, 3-A, 4-D"
+      ],
+      "ans": 2,
+      "exp": "The ECHO bracket joins 'McConnel's sign' to 'Hypocontractile RV free wall + Hypercontractile apex', with 'septal push', 'LV contraction' and 'R/o pericardial tamponade' listed as the other three entries. The sign is a regional wall-motion paradox, not global RV failure. (Book p207)"
+    },
+    {
+      "id": "MED-C34-13",
+      "sec": "Presentation, D/d of Dyspnea with Clear Lung Fields, Golden 4 Assessment (Clinical, ECHO/McConnel Sign, Biomarkers, CTPA) & Submassive/Non-Massive VTE",
+      "page": 207,
+      "fmt": "match",
+      "q": "Match each Golden-4 test with the process it is bracketed to on page 207 — 1) NT pro BNP 2) Troponin I 3) CTPA … A) RV ischemia B) IOC that visualises clot in PA C) RV dilatation",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 1,
+      "exp": "Page 207 brackets 'NT pro BNP : RV dilatation', 'Troponin I : RV ischemia' and, under imaging, 'CTPA (CT-Pulmonary angiogram) : IOC' with the bracket 'Clot in PA'. The two biomarkers are reused on the submassive block, where their elevation converts low risk into high risk. (Book p207)"
+    },
+    {
+      "id": "MED-C34-14",
+      "sec": "Presentation, D/d of Dyspnea with Clear Lung Fields, Golden 4 Assessment (Clinical, ECHO/McConnel Sign, Biomarkers, CTPA) & Submassive/Non-Massive VTE",
+      "page": 207,
+      "fmt": "recall",
+      "q": "CTPA is described on page 207 as the IOC and as visualising three findings. Which three are printed?",
+      "opts": [
+        "Dilated pulmonary vein, clot in LA, small RV",
+        "Clot in PA, raised hemidiaphragm, large LV",
+        "Dilated pulmonary artery, pleural effusion, normal RV",
+        "Dilated pulmonary artery, clot in PA, large RV"
+      ],
+      "ans": 3,
+      "exp": "The bracket from 'IOC' and 'visualises' opens onto 'Dilated pulmonary artery (PA)', 'Clot in PA' and 'Large RV'. All three are direct embolic or right-heart consequences; pleural effusion is not among them. (Book p207)"
+    },
+    {
+      "id": "MED-C34-15",
+      "sec": "Presentation, D/d of Dyspnea with Clear Lung Fields, Golden 4 Assessment (Clinical, ECHO/McConnel Sign, Biomarkers, CTPA) & Submassive/Non-Massive VTE",
+      "page": 207,
+      "fmt": "scenario",
+      "q": "A normotensive patient with confirmed PE has RV dilatation on ECHO but normal NT pro BNP and troponin. Using the page 207 submassive block, this patient is:",
+      "opts": [
+        "Submassive VTE at low risk — high risk needs the biomarker rise as well as RV dilatation/ischaemia",
+        "Massive VTE at high risk — any RV dilatation makes the episode massive",
+        "Submassive VTE at high risk — RV dilatation alone defines high risk",
+        "Non-massive VTE — the block requires hypotension for submassive disease"
+      ],
+      "ans": 0,
+      "exp": "The brace prints 'RV dilatation/ischemia : Low risk' plus the two biomarker arrows '(RV dilatation)' and '(RV ischaemia)' joining to 'High risk'. A single low-risk feature stays low risk; only the combination escalates. (Book p207)"
+    },
+    {
+      "id": "MED-C34-16",
+      "sec": "Presentation, D/d of Dyspnea with Clear Lung Fields, Golden 4 Assessment (Clinical, ECHO/McConnel Sign, Biomarkers, CTPA) & Submassive/Non-Massive VTE",
+      "page": 207,
+      "fmt": "numeric",
+      "q": "Non-massive VTE is given an incidence on page 207 and a mechanism. Which pair is printed?",
+      "opts": [
+        "30–40% of cases of VTE; d/t central lodging of emboli",
+        "60–80% of cases of VTE; d/t peripheral lodging of emboli",
+        "10–20% of cases of VTE; d/t peripheral lodging of emboli",
+        "10–20% of cases of VTE; d/t central lodging of emboli"
+      ],
+      "ans": 2,
+      "exp": "The block reads 'Incidence : 10–20% cases of VTE' and 'd/t peripheral lodging of emboli', with clinical features of recurrent/non-resolving pneumonia, cough, pleuritic chest pain and haemoptysis. The 60–80% figure on page 206 is mortality, not incidence. (Book p207)"
+    },
+    {
+      "id": "MED-C34-17",
+      "sec": "Presentation, D/d of Dyspnea with Clear Lung Fields, Golden 4 Assessment (Clinical, ECHO/McConnel Sign, Biomarkers, CTPA) & Submassive/Non-Massive VTE",
+      "page": 207,
+      "fmt": "scenario",
+      "q": "A 45-year-old has three episodes of 'recurrent pneumonia' confined to one peripheral segment, with cough, pleuritic pain and one episode of haemoptysis; ECHO and biomarkers are normal. Which page 207 category fits, and why?",
+      "opts": [
+        "Non-massive VTE — peripheral lodging of emboli gives recurrent/non-resolving pneumonia, cough, pleuritic chest pain and haemoptysis",
+        "Not VTE — recurrent pneumonia with a normal ECHO rules out embolism",
+        "Massive VTE — recurrent pneumonia and haemoptysis are presentations of massive disease",
+        "Submassive VTE at high risk — the haemoptysis alone escalates the risk"
+      ],
+      "ans": 0,
+      "exp": "The non-massive block reads 'Recurrent episodes of pneumonia/non-resolving pneumonia', 'Cough', 'Pleuritic chest pain' and 'Hemoptysis', with the mechanism 'd/t peripheral lodging of emboli'. A normal ECHO and normal biomarkers are exactly what page 208 prints for non-massive disease, not a reason to exclude VTE. (Book p207)"
+    },
+    {
+      "id": "MED-C34-18",
+      "sec": "Non-Massive VTE Investigations & Complications, Genetic and Acquired Risk-Factor Lists, Malignancy/Nephrotic/Surgery Risks & Ventilation-Perfusion Physiology",
+      "page": 208,
+      "fmt": "recall",
+      "q": "What do the investigations show in non-massive VTE on page 208, and what single complication is listed?",
+      "opts": [
+        "ECHO shows RV dilatation, BP low, biomarkers raised; complication is pulmonary abscess",
+        "ECHO normal, BP normal, biomarkers normal; complication is pulmonary hypertension",
+        "ECHO shows RV strain, BP normal, biomarkers normal; complication is pleural empyema",
+        "ECHO normal, BP normal, biomarkers normal; complication is pulmonary infarction"
+      ],
+      "ans": 3,
+      "exp": "Page 208 prints 'ECHO : Normal', 'BP : Normal', 'Biomarkers : Normal' and 'Complications : Pulmonary infarction'. This normality is exactly why non-massive VTE is easy to miss clinically. (Book p208)"
+    },
+    {
+      "id": "MED-C34-19",
+      "sec": "Non-Massive VTE Investigations & Complications, Genetic and Acquired Risk-Factor Lists, Malignancy/Nephrotic/Surgery Risks & Ventilation-Perfusion Physiology",
+      "page": 208,
+      "fmt": "recall",
+      "q": "Under 'Genetics' on page 208, which risk factor is marked as the most common?",
+      "opts": [
+        "Antithrombin III deficiency",
+        "Protein S deficiency",
+        "Factor-V Leiden mutation",
+        "Protein C deficiency"
+      ],
+      "ans": 2,
+      "exp": "The genetic bracket opens with 'Factor-v Leiden mutation : m/c', followed by antithrombin III, protein C and protein S deficiencies. The other three are rarer inherited thrombophilias. (Book p208)"
+    },
+    {
+      "id": "MED-C34-20",
+      "sec": "Non-Massive VTE Investigations & Complications, Genetic and Acquired Risk-Factor Lists, Malignancy/Nephrotic/Surgery Risks & Ventilation-Perfusion Physiology",
+      "page": 208,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three of these are printed in the 'Acquired' bracket, one belongs to the genetic bracket:",
+      "opts": [
+        "Paroxysmal nocturnal hemoglobinuria",
+        "Antithrombin III deficiency",
+        "Heparin-induced thrombocytopenia",
+        "Antiphospholipid antibody syndrome"
+      ],
+      "ans": 1,
+      "exp": "The acquired bracket lists antiphospholipid antibody syndrome, polycythemia rubra vera, primary myelofibrosis, heparin-induced thrombocytopenia and paroxysmal nocturnal hemoglobinuria. Antithrombin III deficiency sits in the genetics bracket immediately above it. (Book p208)"
+    },
+    {
+      "id": "MED-C34-21",
+      "sec": "Non-Massive VTE Investigations & Complications, Genetic and Acquired Risk-Factor Lists, Malignancy/Nephrotic/Surgery Risks & Ventilation-Perfusion Physiology",
+      "page": 208,
+      "fmt": "recall",
+      "q": "Page 208 names one malignancy and one nephrotic lesion with its mechanism. Which pair is printed?",
+      "opts": [
+        "Malignancy: adenocarcinoma; nephrotic syndrome (minimal change) d/t loss of antithrombin-III in urine",
+        "Malignancy: adenocarcinoma; nephrotic syndrome (membranous nephropathy) d/t loss of antithrombin-III in urine",
+        "Malignancy: squamous cell carcinoma; nephrotic syndrome (minimal change) d/t loss of protein C in urine",
+        "Malignancy: small cell carcinoma; nephrotic syndrome (membranous nephropathy) d/t loss of protein S in urine"
+      ],
+      "ans": 1,
+      "exp": "Page 208 prints 'malignancy : Adenocarcinoma' and 'Nephrotic syndrome (membranous nephropathy) : D/t loss of antithrombin-III in urine'. The histology and the lost protein are both specific as printed. (Book p208)"
+    },
+    {
+      "id": "MED-C34-22",
+      "sec": "Non-Massive VTE Investigations & Complications, Genetic and Acquired Risk-Factor Lists, Malignancy/Nephrotic/Surgery Risks & Ventilation-Perfusion Physiology",
+      "page": 208,
+      "fmt": "numeric",
+      "q": "The surgery risk on page 208 is quantified for immobilisation. What threshold is printed?",
+      "opts": [
+        "Immobilisation for > 4 days, with neurosurgery carrying ↑ risk",
+        "Immobilisation for > 2 days, with orthopedic surgeries carrying ↑ risk",
+        "Immobilisation for > 4 days, with orthopedic surgeries carrying ↑ risk",
+        "Immobilisation for > 7 days, with abdominal surgeries carrying ↑ risk"
+      ],
+      "ans": 2,
+      "exp": "The surgery bracket reads 'Requiring immobilization for > 4 days' and 'Orthopedic surgeries ↑ risk'. Both entries are printed as a brace under 'Surgery'. (Book p208)"
+    },
+    {
+      "id": "MED-C34-23",
+      "sec": "Non-Massive VTE Investigations & Complications, Genetic and Acquired Risk-Factor Lists, Malignancy/Nephrotic/Surgery Risks & Ventilation-Perfusion Physiology",
+      "page": 208,
+      "fmt": "recall",
+      "q": "The physiology block at the foot of page 208 gives the regional distribution of ventilation, perfusion and the V/P ratio. Which statement is printed?",
+      "opts": [
+        "Ventilation max at apex, perfusion max at apex, V/P ratio max at base",
+        "Ventilation max at apex, perfusion max at base, V/P ratio max at apex",
+        "Ventilation max at base, perfusion max at apex, V/P ratio max at base",
+        "Ventilation max at base, perfusion max at base, V/P ratio max at apex because the fall in perfusion exceeds the fall in ventilation"
+      ],
+      "ans": 3,
+      "exp": "The three lines read 'Ventilation (V) : max at base', 'Perfusion (P) : max at base' and 'Ventilation-Perfusion ratio (V/P) : max at apex (Decrease in perfusion > Decrease in ventilation)'. Both absolute flows are basal; the ratio rises apically. (Book p208)"
+    },
+    {
+      "id": "MED-C34-24",
+      "sec": "Non-Massive VTE Investigations & Complications, Genetic and Acquired Risk-Factor Lists, Malignancy/Nephrotic/Surgery Risks & Ventilation-Perfusion Physiology",
+      "page": 208,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the page 208 risk-factor lists.",
+      "opts": [
+        "True — HRT, OCPs, pregnancy and post-partum are all printed as separate risk entries",
+        "True — heart failure with reduced ejection fraction is printed without any qualifier",
+        "False — COPD is printed as protective against VTE",
+        "False — post-partum is printed only under the genetic bracket"
+      ],
+      "ans": 0,
+      "exp": "Page 208 lists 'OCPs', 'HRT' and an obstetric brace of 'Pregnancy' and 'Post-partum' as separate entries, while the cardiac entry is qualified as 'Congestive cardiac failure (Heart failure with ↓ ejection fraction)'. Post-partum belongs to the acquired obstetric block, not the genetic one. (Book p208)"
+    },
+    {
+      "id": "MED-C34-25",
+      "sec": "Dead-Space vs Shunt Physiology in PE, Symptoms/Signs, Vagal Bradycardia, Acute Cor Pulmonale Complications & Type I Respiratory Failure with A-a Gradient",
+      "page": 209,
+      "fmt": "recall",
+      "q": "Page 209 gives dead-space physiology with the example of pulmonary embolism. Which set of values is printed?",
+      "opts": [
+        "V = 0, P = Normal, V/P = 0",
+        "V = Normal, P = Normal, V/P = 1",
+        "V = Normal, P = 0, V/P = ∞",
+        "V = 0, P = 0, V/P = ∞"
+      ],
+      "ans": 2,
+      "exp": "The dead-space block prints 'eg : in pulmonary embolism, V = Normal, P = 0, V/P = ∞'. A blocked vessel leaves the alveolus ventilated but unperfused, so the ratio tends to infinity. (Book p209)"
+    },
+    {
+      "id": "MED-C34-26",
+      "sec": "Dead-Space vs Shunt Physiology in PE, Symptoms/Signs, Vagal Bradycardia, Acute Cor Pulmonale Complications & Type I Respiratory Failure with A-a Gradient",
+      "page": 209,
+      "fmt": "match",
+      "q": "Match each physiology with its printed values — 1) Dead space 2) Shunt 3) Normal lung … A) V = 0, P = Normal, V/P = 0 B) V = Normal, P = Normal, V/P = 0.8 C) V = Normal, P = 0, V/P = ∞",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 1,
+      "exp": "Dead space is 'V = Normal, P = 0, V/P = ∞' and shunt is 'V = 0, P = Normal, V/P = 0'; normal lung keeps both flows with V/P of about 0.8 as printed on page 231. Dead space and shunt are mirror images of one another. (Book p209)"
+    },
+    {
+      "id": "MED-C34-27",
+      "sec": "Dead-Space vs Shunt Physiology in PE, Symptoms/Signs, Vagal Bradycardia, Acute Cor Pulmonale Complications & Type I Respiratory Failure with A-a Gradient",
+      "page": 209,
+      "fmt": "recall",
+      "q": "The symptom hierarchy printed on page 209 is:",
+      "opts": [
+        "Pleuritic chest pain > dyspnea, the latter in small and more peripheral emboli",
+        "Haemoptysis > dyspnea, the latter in large central emboli",
+        "Syncope > dyspnea, the latter in small and more peripheral emboli",
+        "Dyspnea (within seconds) > pleuritic chest pain, the latter in small and more peripheral emboli"
+      ],
+      "ans": 3,
+      "exp": "Page 209 prints 'Dyspnea (within seconds) > Pleuritic chest pain (in small & more peripheral emboli)' and separately 'Cough + hemoptysis (10–20% cases)'. Dyspnea outranks pain, and pain is tied to peripheral emboli. (Book p209)"
+    },
+    {
+      "id": "MED-C34-28",
+      "sec": "Dead-Space vs Shunt Physiology in PE, Symptoms/Signs, Vagal Bradycardia, Acute Cor Pulmonale Complications & Type I Respiratory Failure with A-a Gradient",
+      "page": 209,
+      "fmt": "numeric",
+      "q": "Two separate findings on page 209 are each given the same 10–20% frequency. Which two are they?",
+      "opts": [
+        "Cough with haemoptysis, and rales/↓ breath sounds",
+        "Pleuritic chest pain, and rales/↓ breath sounds",
+        "Syncope, and hypoxia-induced bradycardia",
+        "Cough with haemoptysis, and unexplained dyspnea"
+      ],
+      "ans": 0,
+      "exp": "The page prints 'Cough + hemoptysis (10–20% cases)' under symptoms and 'Tachypnea > Tachycardia > Rales/ ↓ breath sounds (10–20% cases)' under signs. Dyspnea, in contrast, carries no percentage because it is the most common symptom. (Book p209)"
+    },
+    {
+      "id": "MED-C34-29",
+      "sec": "Dead-Space vs Shunt Physiology in PE, Symptoms/Signs, Vagal Bradycardia, Acute Cor Pulmonale Complications & Type I Respiratory Failure with A-a Gradient",
+      "page": 209,
+      "fmt": "recall",
+      "q": "Page 209 explains one paradoxical sign of PE. Which mechanism is printed?",
+      "opts": [
+        "Hypoxia induced intrapulmonary vagal stimulation → bradycardia",
+        "Hypercarbia induced vagal stimulation → bradycardia",
+        "Hypoxia induced sympathetic stimulation → tachycardia",
+        "Hypoxia induced carotid body stimulation → bradycardia"
+      ],
+      "ans": 0,
+      "exp": "The sign line ends 'Hypoxia induced intrapulmonary vagal stimulation → Bradycardia'. Tachycardia is listed separately in the tachypnea > tachycardia > rales hierarchy, so the two coexist as different mechanisms. (Book p209)"
+    },
+    {
+      "id": "MED-C34-30",
+      "sec": "Dead-Space vs Shunt Physiology in PE, Symptoms/Signs, Vagal Bradycardia, Acute Cor Pulmonale Complications & Type I Respiratory Failure with A-a Gradient",
+      "page": 209,
+      "fmt": "match",
+      "q": "Match each complication branch of acute cor pulmonale with its printed label — 1) Shock 2) S3 + hypotension 3) ↑ JVP … A) Acute RV failure B) Massive VTE C) Listed as a third consequence",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 3,
+      "exp": "The cor pulmonale brace reads 'Shock (massive VTE)', 'S3 + hypotension (Acute RV failure)' and '↑ JVP'. Shock is attached to the massive group, S3 with hypotension to acute RV failure. (Book p209)"
+    },
+    {
+      "id": "MED-C34-31",
+      "sec": "Dead-Space vs Shunt Physiology in PE, Symptoms/Signs, Vagal Bradycardia, Acute Cor Pulmonale Complications & Type I Respiratory Failure with A-a Gradient",
+      "page": 209,
+      "fmt": "recall",
+      "q": "Which set of statements is printed under 'Type I respiratory failure' for PE on page 209?",
+      "opts": [
+        "Hypoxia d/t shunt; PaCO2 raised d/t dead space → respiratory acidosis; normal alveolar-arterial O2 gradient",
+        "Hypoxia d/t ventilation-perfusion mismatch; PaCO2 normal (no parenchymal involvement) → respiratory alkalosis; ↓perfusion → ↓diffusion → widening of the alveolar-arterial O2 gradient",
+        "Hypoxia with hypercarbia d/t parenchymal involvement → respiratory acidosis; narrowing of the alveolar-arterial O2 gradient",
+        "Hypoxia d/t diffusion block; PaCO2 low d/t hyperventilation of unperfused alveoli → metabolic acidosis; normal gradient"
+      ],
+      "ans": 1,
+      "exp": "The three lines under type I failure are exactly the mismatch hypoxia, the normal PaCO2 with consequent respiratory alkalosis, and the widened (Alveolar O2 − Arterial O2) gradient via reduced perfusion and diffusion. The type 2 note on the same page requires parenchymal involvement. (Book p209)"
+    },
+    {
+      "id": "MED-C34-32",
+      "sec": "Dead-Space vs Shunt Physiology in PE, Symptoms/Signs, Vagal Bradycardia, Acute Cor Pulmonale Complications & Type I Respiratory Failure with A-a Gradient",
+      "page": 209,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the two respiratory-failure notes on page 209.",
+      "opts": [
+        "False — type 2 failure is defined there as hypoxia with a normal PaCO2",
+        "False — type 2 failure is said there to occur only in PE",
+        "True — type 2 failure is defined there as hypoxia plus hypercarbia and is seen in lung disease with parenchyma involved",
+        "True — type 1 failure is said there to require a raised PaCO2"
+      ],
+      "ans": 2,
+      "exp": "The note reads 'Type 2 respiratory failure : Hypoxia + hypercarbia' and 'Seen in lung diseases with parenchyma involved', which is precisely why uncomplicated PE produces type 1 failure. Type 1 by definition has a normal or low PaCO2. (Book p209)"
+    },
+    {
+      "id": "MED-C34-33",
+      "sec": "CXR Signs (Atelectatic Bands, Hampton's Hump, Pallas, Westermark, Fleischner), PAH Films & ECG Significance and Patterns (S1Q3T3)",
+      "page": 210,
+      "fmt": "match",
+      "q": "Match each chest-radiograph sign on page 210 with its printed description — 1) Hampton's hump 2) Pallas sign 3) Westermark's sign 4) Fleischner sign … A) Enlarged central pulmonary artery B) Pleural based wedge shaped opacities C) Enlarged Rt descending artery D) Oligemia of Rt upper lung",
+      "opts": [
+        "1-B, 2-D, 3-C, 4-A",
+        "1-B, 2-C, 3-D, 4-A",
+        "1-A, 2-C, 3-D, 4-B",
+        "1-C, 2-B, 3-A, 4-D"
+      ],
+      "ans": 1,
+      "exp": "The figure captions read 'Pleural based wedge shaped opacities (Hamptons hump)', 'Enlarged Rt descending artery (Pallas sign)', 'Oligemia of Rt upper lung (Westermark's sign)' and 'Enlarged central pulmonary artery (Fleischner sign)'. (Book p210)"
+    },
+    {
+      "id": "MED-C34-34",
+      "sec": "CXR Signs (Atelectatic Bands, Hampton's Hump, Pallas, Westermark, Fleischner), PAH Films & ECG Significance and Patterns (S1Q3T3)",
+      "page": 210,
+      "fmt": "recall",
+      "q": "Which CXR finding on page 210 is marked as the most common?",
+      "opts": [
+        "Pleural based wedge shaped opacities",
+        "Oligemia of the right upper lung",
+        "Enlarged right descending artery",
+        "Long linear bands of atelectasis"
+      ],
+      "ans": 3,
+      "exp": "The first film is captioned 'Long linear bands of atelectasis (m/c)'. Hampton's hump, Westermark's and Pallas signs are all printed without a frequency label. (Book p210)"
+    },
+    {
+      "id": "MED-C34-35",
+      "sec": "CXR Signs (Atelectatic Bands, Hampton's Hump, Pallas, Westermark, Fleischner), PAH Films & ECG Significance and Patterns (S1Q3T3)",
+      "page": 210,
+      "fmt": "fillup",
+      "q": "Westermark's sign on page 210 is the ______ of the right upper lung.",
+      "opts": [
+        "Oligemia",
+        "Calcification",
+        "Consolidation",
+        "Hyperaemia"
+      ],
+      "ans": 0,
+      "exp": "The caption reads 'Oligemia of Rt upper lung (Westermark's sign)' — a zone of reduced vascular markings beyond the obstructed vessel, not increased flow or consolidation. (Book p210)"
+    },
+    {
+      "id": "MED-C34-36",
+      "sec": "CXR Signs (Atelectatic Bands, Hampton's Hump, Pallas, Westermark, Fleischner), PAH Films & ECG Significance and Patterns (S1Q3T3)",
+      "page": 210,
+      "fmt": "recall",
+      "q": "The page 210 PAH film is captioned with four findings. Which set is printed?",
+      "opts": [
+        "Large central pulmonary arteries, left ventricular hypertrophy, delayed attenuation of pulmonary vessels, clear lung fields",
+        "Large central pulmonary veins, right atrial enlargement, rapid attenuation of pulmonary vessels, clear lung fields",
+        "Large central pulmonary arteries, right ventricular hypertrophy, rapid attenuation of pulmonary vessels, clear lung fields",
+        "Small central pulmonary arteries, right ventricular hypertrophy, rapid attenuation of pulmonary vessels, bilateral infiltrates"
+      ],
+      "ans": 2,
+      "exp": "The labelled film lists 'Large central pulmonary arteries', 'Right ventricular hypertrophy', 'Rapid attenuation of pulmonary vessels' and 'Clear lung fields'. The rapid tapering plus clear fields is what distinguishes vascular from parenchymal disease. (Book p210)"
+    },
+    {
+      "id": "MED-C34-37",
+      "sec": "CXR Signs (Atelectatic Bands, Hampton's Hump, Pallas, Westermark, Fleischner), PAH Films & ECG Significance and Patterns (S1Q3T3)",
+      "page": 210,
+      "fmt": "recall",
+      "q": "Two clinical purposes of the ECG in suspected PE are printed on page 210. Which pair?",
+      "opts": [
+        "To rule out MI, and to identify RV strain/hypertrophy",
+        "To confirm the embolus, and to grade its size",
+        "To rule out pericarditis, and to identify LV strain/hypertrophy",
+        "To rule out MI, and to measure the pulmonary capillary wedge pressure"
+      ],
+      "ans": 0,
+      "exp": "The block reads 'Clinical significance : To rule out MI. To identify RV strain/ hypertrophy.' The ECG is adjunctive, not diagnostic — a point reinforced by the S1Q3T3 line being labelled non-specific. (Book p210)"
+    },
+    {
+      "id": "MED-C34-38",
+      "sec": "CXR Signs (Atelectatic Bands, Hampton's Hump, Pallas, Westermark, Fleischner), PAH Films & ECG Significance and Patterns (S1Q3T3)",
+      "page": 210,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the ECG patterns printed on page 210.",
+      "opts": [
+        "False — the most common pattern is sinus tachycardia, the most common abnormality S1Q3T3",
+        "True — the most common pattern is a normal ECG, while the most common abnormality is sinus tachycardia",
+        "False — the most common abnormality is T inversion in V1–V4",
+        "True — S1Q3T3 is printed as a specific sign of RV infarction"
+      ],
+      "ans": 1,
+      "exp": "The patterns block reads 'Normal ECG : m/c pattern', 'Sinus tachycardia : m/c abnormality', 'Deep S waves in lead I > T inversion in V1–V4' and 'S1Q3T3 pattern : Non specific'. S1Q3T3 is explicitly non-specific. (Book p210)"
+    },
+    {
+      "id": "MED-C34-39",
+      "sec": "CXR Signs (Atelectatic Bands, Hampton's Hump, Pallas, Westermark, Fleischner), PAH Films & ECG Significance and Patterns (S1Q3T3)",
+      "page": 210,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three are CXR captions from page 210, one is not printed there:",
+      "opts": [
+        "Westermark's sign",
+        "Fleischner sign",
+        "Candle dripping appearance",
+        "Hampton's hump"
+      ],
+      "ans": 2,
+      "exp": "Page 210 carries Hampton's hump, Pallas sign, Westermark's sign, Fleischner sign and long linear bands of atelectasis. 'Candle dripping' is the asbestos pleural-plaque sign printed much later, on page 227. (Book p210)"
+    },
+    {
+      "id": "MED-C34-40",
+      "sec": "Pulmonary Angiography Gold Standard, V/Q Scan Indications, D-Dimer, ECHO, the Wells Score Table and CTPA Signs (Saddle Embolus, Polo Mint Sign)",
+      "page": 211,
+      "fmt": "recall",
+      "q": "Which investigation does page 211 name as the gold standard, and what is its stated drawback?",
+      "opts": [
+        "D-dimer — it is invasive and requires cannulation of the pulmonary artery",
+        "V/Q scan — it is only valid in patients with a normal chest radiograph",
+        "CTPA — it requires contrast and cannot be used in pregnancy",
+        "Pulmonary angiography — it is invasive, cannulating a vein to reach the pulmonary artery"
+      ],
+      "ans": 3,
+      "exp": "The block reads 'Pulmonary angiography : gold standard' and 'Invasive : Cannulates vein to reach pulmonary artery'. CTPA is described on page 207 as the IOC, a different label. (Book p211)"
+    },
+    {
+      "id": "MED-C34-41",
+      "sec": "Pulmonary Angiography Gold Standard, V/Q Scan Indications, D-Dimer, ECHO, the Wells Score Table and CTPA Signs (Saddle Embolus, Polo Mint Sign)",
+      "page": 211,
+      "fmt": "match",
+      "q": "Match the investigation with its printed indication or purpose — 1) V/Q scan 2) D Dimer 3) ECHO … A) In low risk cases B) Pregnancy and contrast allergy C) To r/o alternate diagnosis (pericardial effusion)",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 1,
+      "exp": "Page 211 lists 'V/Q scan — Indications : Pregnancy. contrast allergy', 'D Dimer — In low risk cases' and 'ECHO — To r/o alternate diagnosis (Pericardial effusion)'. The D-dimer is a rule-out tool in low-risk patients, not a confirmatory test. (Book p211)"
+    },
+    {
+      "id": "MED-C34-42",
+      "sec": "Pulmonary Angiography Gold Standard, V/Q Scan Indications, D-Dimer, ECHO, the Wells Score Table and CTPA Signs (Saddle Embolus, Polo Mint Sign)",
+      "page": 211,
+      "fmt": "fillup",
+      "q": "Page 211's note states that any unexplained dyspnea with normal CXR/ECG/clinical examination is ______ unless proven otherwise.",
+      "opts": [
+        "VTE",
+        "Pneumonia",
+        "Pulmonary oedema",
+        "Anxiety hyperventilation"
+      ],
+      "ans": 0,
+      "exp": "The note reads 'Any unexplained dyspnea with normal CXR/ECG/clinical examination is VTE unless proven otherwise.' This is the page's answer to the 'clear lung fields' presentation described on page 207. (Book p211)"
+    },
+    {
+      "id": "MED-C34-43",
+      "sec": "Pulmonary Angiography Gold Standard, V/Q Scan Indications, D-Dimer, ECHO, the Wells Score Table and CTPA Signs (Saddle Embolus, Polo Mint Sign)",
+      "page": 211,
+      "fmt": "numeric",
+      "q": "In the Wells score table on page 211, two features score 3 points. Which two are printed?",
+      "opts": [
+        "Clinical signs of DVT, and heart rate > 100/min",
+        "Haemoptysis, and malignancy",
+        "Recent surgery, and previous history of DVT/PE",
+        "Clinical signs of DVT, and alternative diagnosis less likely"
+      ],
+      "ans": 3,
+      "exp": "The two 3-point rows are 'Clinical signs of DVT' and 'Alternative diagnosis less likely'; HR >100/min, recent surgery and previous DVT/PE each score 1.5, and haemoptysis and malignancy each score 1. (Book p211)"
+    },
+    {
+      "id": "MED-C34-44",
+      "sec": "Pulmonary Angiography Gold Standard, V/Q Scan Indications, D-Dimer, ECHO, the Wells Score Table and CTPA Signs (Saddle Embolus, Polo Mint Sign)",
+      "page": 211,
+      "fmt": "match",
+      "q": "Match each Wells-score total with the printed features that produce it — 1) 3 points 2) 1.5 points 3) 1 point … A) Haemoptysis and malignancy B) Clinical signs of DVT and alternative diagnosis less likely C) Heart rate > 100/min, recent surgery and previous DVT/PE",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 2,
+      "exp": "The table scores clinical signs of DVT 3, alternative diagnosis less likely 3, HR >100/min 1.5, recent surgery 1.5, previous DVT/PE 1.5, haemoptysis 1 and malignancy 1. The three score bands therefore group the seven rows exactly as listed. (Book p211)"
+    },
+    {
+      "id": "MED-C34-45",
+      "sec": "Pulmonary Angiography Gold Standard, V/Q Scan Indications, D-Dimer, ECHO, the Wells Score Table and CTPA Signs (Saddle Embolus, Polo Mint Sign)",
+      "page": 211,
+      "fmt": "recall",
+      "q": "How is the Wells score used on page 211 to choose imaging?",
+      "opts": [
+        "Low risk → V/Q scan; moderate and high risk → pulmonary angiography",
+        "All risk groups → D-dimer first, then CTPA only if the D-dimer is negative",
+        "Low risk → helical CTPA; moderate and high risk → D-dimer followed by CTPA",
+        "Low risk → D-dimer, and only if positive → CTPA; moderate and high risk → helical CTPA"
+      ],
+      "ans": 3,
+      "exp": "The flowchart reads 'Risk → Low → D Dimer + → CTPA' with a brace joining 'moderate' and 'High' to 'Helical CTPA'. The D-dimer is used to avoid imaging in low-risk patients, not to trigger it when negative. (Book p211)"
+    },
+    {
+      "id": "MED-C34-46",
+      "sec": "Pulmonary Angiography Gold Standard, V/Q Scan Indications, D-Dimer, ECHO, the Wells Score Table and CTPA Signs (Saddle Embolus, Polo Mint Sign)",
+      "page": 211,
+      "fmt": "recall",
+      "q": "The two CT captions on page 211 describe a saddle embolus and the 'polo mint sign'. What does the printed line above the polo-mint image say?",
+      "opts": [
+        "Contrast fills the vessel completely with no filling defect",
+        "A thin rim of contrast persists around a central filling defect",
+        "A thin rim of thrombus persists around a central contrast column",
+        "A thick rim of thrombus surrounds a central contrast column"
+      ],
+      "ans": 1,
+      "exp": "The caption reads 'Thin rim of contrast persists around a central filling defect' — the ring of contrast around the clot is what produces the polo-mint appearance. (Book p211)"
+    },
+    {
+      "id": "MED-C34-47",
+      "sec": "Management: Heparin/LMWH Dosing, Severity Determination, Thrombolysis vs Catheter Therapy, Heparin Target Ranges, 3-Month Switch and IVC Filter",
+      "page": 212,
+      "fmt": "numeric",
+      "q": "The first dose of anticoagulant on page 212 is weight-based. Which two doses are printed?",
+      "opts": [
+        "80 units/kg heparin IV, or 1 mg/kg s/c LMWH",
+        "80 units/kg heparin s/c, or 1 mg/kg IV LMWH",
+        "18 units/kg heparin IV, or 1 mg/kg s/c LMWH",
+        "100 units/kg heparin IV, or 1.5 mg/kg s/c LMWH"
+      ],
+      "ans": 0,
+      "exp": "The block reads 'First dose of anticoagulant : 80 units/kg heparin IV or 1 mg/kg s/c LMWH (Low molecular weight heparin)'. The 18 units/kg/hr figure belongs to the later infusion step, not the first dose. (Book p212)"
+    },
+    {
+      "id": "MED-C34-48",
+      "sec": "Management: Heparin/LMWH Dosing, Severity Determination, Thrombolysis vs Catheter Therapy, Heparin Target Ranges, 3-Month Switch and IVC Filter",
+      "page": 212,
+      "fmt": "recall",
+      "q": "After the first dose, page 212 asks the clinician to 'determine severity'. Which three findings are listed?",
+      "opts": [
+        "Massive VTE (troponin +), submassive VTE (BNP +), extensive clot burden",
+        "Massive VTE (RV dilatation +), submassive VTE (hypotension +), minimal clot burden",
+        "Massive VTE (hypotension +), submassive VTE (RV dilatation +), extensive clot burden",
+        "Massive VTE (hypotension +), submassive VTE (RV dilatation +), isolated calf DVT"
+      ],
+      "ans": 2,
+      "exp": "The severity list is 'massive VTE (Hypotension +)', 'Submassive VTE (RV dilatation +)' and 'Extensive clot burden'. The bracket that decides 'Present' versus 'Absent' hangs off this severity assessment. (Book p212)"
+    },
+    {
+      "id": "MED-C34-49",
+      "sec": "Management: Heparin/LMWH Dosing, Severity Determination, Thrombolysis vs Catheter Therapy, Heparin Target Ranges, 3-Month Switch and IVC Filter",
+      "page": 212,
+      "fmt": "scenario",
+      "q": "A hypotensive patient with PE is judged fit for thrombolysis. Which regimen and time window are printed on page 212?",
+      "opts": [
+        "Streptokinase 1.5 million units IV, over 2 hrs, within 14 days",
+        "Alteplase 50 mg IV, over 1 hr, within 14 days",
+        "Alteplase 100 mg IV, over 2 hrs, within 14 days",
+        "Alteplase 100 mg IV, over 2 hrs, within 7 days"
+      ],
+      "ans": 2,
+      "exp": "The thrombolysis branch reads 'Thrombolysis with Alteplase — 100 mg IV. — Over 2 hrs. — within 14 days.' followed by 'Restart heparin & replace with warfarin'. (Book p212)"
+    },
+    {
+      "id": "MED-C34-50",
+      "sec": "Management: Heparin/LMWH Dosing, Severity Determination, Thrombolysis vs Catheter Therapy, Heparin Target Ranges, 3-Month Switch and IVC Filter",
+      "page": 212,
+      "fmt": "recall",
+      "q": "For a patient who is unfit for thrombolysis, what does page 212 recommend, and how is it labelled?",
+      "opts": [
+        "Catheter-based thrombolysis/embolectomy, marked as '(Preferred)'",
+        "Continue heparin alone, marked as '(Preferred)'",
+        "Inferior vena cava filter, marked as '(Preferred)'",
+        "Catheter-based thrombolysis/embolectomy, marked as a last resort"
+      ],
+      "ans": 0,
+      "exp": "The unfit branch reads 'Catheter-based thrombolysis/ embolectomy (Preferred)'. The IVC filter is reserved for the end-of-3-months branch when oral anticoagulation is contraindicated. (Book p212)"
+    },
+    {
+      "id": "MED-C34-51",
+      "sec": "Management: Heparin/LMWH Dosing, Severity Determination, Thrombolysis vs Catheter Therapy, Heparin Target Ranges, 3-Month Switch and IVC Filter",
+      "page": 212,
+      "fmt": "numeric",
+      "q": "For the 'Absent' severity branch, page 212 prints an infusion rate and two target ranges. Which set is printed?",
+      "opts": [
+        "18 units/kg/hr heparin; aPTT 2–3 times the upper limit; INR 1.5–2",
+        "18 units/kg/hr heparin; aPTT 1.5–2 times the upper limit; INR 2–3",
+        "80 units/kg/hr heparin; aPTT 1.5–2 times the upper limit; INR 2–3",
+        "18 units/kg/hr heparin; aPTT 1.5–2 times the upper limit; INR 1.5–2"
+      ],
+      "ans": 1,
+      "exp": "The branch reads 'Continue anticoagulation at 18 units/kg/hr Heparin' with 'Target — aPTT : 1.5 – 2 times the upper limit' and 'INR : 2 – 3'. The aPTT target is applied to heparin and the INR to warfarin. (Book p212)"
+    },
+    {
+      "id": "MED-C34-52",
+      "sec": "Management: Heparin/LMWH Dosing, Severity Determination, Thrombolysis vs Catheter Therapy, Heparin Target Ranges, 3-Month Switch and IVC Filter",
+      "page": 212,
+      "fmt": "management",
+      "q": "At the end of 3 months, page 212 gives one switch rule and one exception pathway. Which statement matches the page?",
+      "opts": [
+        "Switch to oral anticoagulants, lifelong only if a genetic mutation is negative; if contraindicated, perform catheter embolectomy",
+        "Stop anticoagulation at 3 months in all patients; if a genetic mutation is positive, extend heparin for 6 months",
+        "Switch to warfarin in preference to new oral anticoagulants, lifelong in all patients; if contraindicated, insert an inferior vena cava filter",
+        "Switch to oral anticoagulants (new oral anticoagulants > warfarin/vit K), lifelong if a genetic mutation is positive; if contraindicated, insert an inferior vena cava filter"
+      ],
+      "ans": 3,
+      "exp": "The block reads 'B. At the end of 3 months : Oral anticoagulants (New oral anticoagulants > warfarin/vit K) : Lifelong if genetic mutation (+). If C/I → Inferior vena cava filter.' The preference arrow points to the new oral agents, and lifelong therapy follows a positive genetic result. (Book p212)"
+    },
+    {
+      "id": "MED-C34-53",
+      "sec": "Management: Heparin/LMWH Dosing, Severity Determination, Thrombolysis vs Catheter Therapy, Heparin Target Ranges, 3-Month Switch and IVC Filter",
+      "page": 212,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the post-thrombolysis sequence printed on page 212.",
+      "opts": [
+        "False — after thrombolysis the page says to stop all anticoagulation",
+        "False — after thrombolysis the page says to give an IVC filter first",
+        "True — after thrombolysis the page says to restart heparin and then replace it with warfarin",
+        "True — after thrombolysis the page says to continue alteplase for 14 days"
+      ],
+      "ans": 2,
+      "exp": "The line beneath the alteplase block reads 'Restart heparin & replace with warfarin.' Alteplase is a finite 2-hour infusion, not a 14-day one; 14 days is the outer limit for starting it. (Book p212)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U34-1",
+      "ch": 34,
+      "n": 1,
+      "title": "VTE Definition, Mortality, Thrombo-Embolic Pathogenesis, Origin of Thrombi, Acute Cor Pulmonale, Calf DVT & Massive VTE Pathogenesis Chain",
+      "sec": "VTE Definition, Mortality, Thrombo-Embolic Pathogenesis, Origin of Thrombi, Acute Cor Pulmonale, Calf DVT & Massive VTE Pathogenesis Chain",
+      "guide": "Venous thromboembolism (p206) is AKA pulmonary thromboembolism (PTE), with 60–80% mortality when massive. Pathogenesis is migration of thrombi/microthrombi from the systemic circulation to the pulmonary vasculature, and the origin is deep veins of the lower limb > upper limb, maximal risk from supra-popliteal veins draining to femoral veins and from pelvic veins in pregnancy.\nNote: acute cor pulmonale is RV dilatation/hypertrophy ± heart failure and its most common cause is VTE; calf DVT is the most common site but does not embolize.\nMassive VTE is any PE with hypotension. Its chain: >50–70% occlusion → hypoxaemia → RV & RA dilatation → septum pushed left → ↓LV volume → ↓cardiac output → SBP < 90 mmHg lasting ≥ 15 mins or requiring ionotropic support.",
+      "qs": [
+        "MED-C34-01",
+        "MED-C34-02",
+        "MED-C34-03",
+        "MED-C34-04",
+        "MED-C34-05",
+        "MED-C34-06",
+        "MED-C34-07",
+        "MED-C34-08"
+      ]
+    },
+    {
+      "id": "MED-U34-2",
+      "ch": 34,
+      "n": 2,
+      "title": "Presentation, D/d of Dyspnea with Clear Lung Fields, Golden 4 Assessment (Clinical, ECHO/McConnel Sign, Biomarkers, CTPA) & Submassive/Non-Massive VTE",
+      "sec": "Presentation, D/d of Dyspnea with Clear Lung Fields, Golden 4 Assessment (Clinical, ECHO/McConnel Sign, Biomarkers, CTPA) & Submassive/Non-Massive VTE",
+      "guide": "Presentation (p207): unexplained dyspnea with clear lung fields is most common, chest pain is the second most common symptom, and sudden cardiac death and syncope complete the list; the only printed D/d for dyspnea with clear lung fields is VTE and metabolic acidosis.\nGolden 4: clinical hypotension; ECHO with McConnel's sign (hypocontractile RV free wall plus hypercontractile apex), septal push, LV contraction and exclusion of tamponade; biomarkers NT pro BNP for RV dilatation and troponin I for RV ischaemia; imaging with CTPA as IOC showing dilated PA, clot in PA and large RV.\nSubmassive VTE has no hypotension — RV dilatation/ischaemia alone is low risk, escalating to high risk when the biomarkers rise. Non-massive VTE is 10–20% of cases from peripheral lodging, with recurrent/non-resolving pneumonia, cough, pleuritic pain and haemoptysis.",
+      "qs": [
+        "MED-C34-09",
+        "MED-C34-10",
+        "MED-C34-11",
+        "MED-C34-12",
+        "MED-C34-13",
+        "MED-C34-14",
+        "MED-C34-15",
+        "MED-C34-16",
+        "MED-C34-17"
+      ]
+    },
+    {
+      "id": "MED-U34-3",
+      "ch": 34,
+      "n": 3,
+      "title": "Non-Massive VTE Investigations & Complications, Genetic and Acquired Risk-Factor Lists, Malignancy/Nephrotic/Surgery Risks & Ventilation-Perfusion Physiology",
+      "sec": "Non-Massive VTE Investigations & Complications, Genetic and Acquired Risk-Factor Lists, Malignancy/Nephrotic/Surgery Risks & Ventilation-Perfusion Physiology",
+      "guide": "Non-massive VTE (p208) has a normal ECHO, BP and biomarkers, and its complication is pulmonary infarction. Genetic risks are factor-V Leiden (most common), antithrombin III, protein C and protein S deficiency; acquired risks are antiphospholipid antibody syndrome, polycythaemia rubra vera, primary myelofibrosis, heparin-induced thrombocytopenia and paroxysmal nocturnal haemoglobinuria.\nFurther risks: adenocarcinoma; COPD; heart failure with reduced ejection fraction; membranous nephropathy losing antithrombin III in urine; OCPs; HRT; pregnancy and post-partum; surgery with immobilisation > 4 days, orthopaedic surgery being higher risk.\nPhysiology: ventilation and perfusion both maximal at the base, while the V/P ratio is maximal at the apex because perfusion falls more than ventilation.",
+      "qs": [
+        "MED-C34-18",
+        "MED-C34-19",
+        "MED-C34-20",
+        "MED-C34-21",
+        "MED-C34-22",
+        "MED-C34-23",
+        "MED-C34-24"
+      ]
+    },
+    {
+      "id": "MED-U34-4",
+      "ch": 34,
+      "n": 4,
+      "title": "Dead-Space vs Shunt Physiology in PE, Symptoms/Signs, Vagal Bradycardia, Acute Cor Pulmonale Complications & Type I Respiratory Failure with A-a Gradient",
+      "sec": "Dead-Space vs Shunt Physiology in PE, Symptoms/Signs, Vagal Bradycardia, Acute Cor Pulmonale Complications & Type I Respiratory Failure with A-a Gradient",
+      "guide": "Dead-space physiology (p209) as in PE is V normal, P 0, V/P ∞; shunt physiology is V 0, P normal, V/P 0.\nSymptoms depend on embolus size and location: dyspnea within seconds > pleuritic chest pain in small peripheral emboli, with cough and haemoptysis in 10–20%. Signs run tachypnea > tachycardia > rales/↓breath sounds (10–20%), and hypoxia-induced intrapulmonary vagal stimulation causes bradycardia.\nComplications: acute cor pulmonale with shock in massive VTE, S3 plus hypotension in acute RV failure, and raised JVP; type I respiratory failure from V/Q mismatch with a normal PaCO2 (no parenchymal involvement), producing respiratory alkalosis and a widened alveolar-arterial O2 gradient. Type 2 failure is hypoxia plus hypercarbia in parenchymal disease.",
+      "qs": [
+        "MED-C34-25",
+        "MED-C34-26",
+        "MED-C34-27",
+        "MED-C34-28",
+        "MED-C34-29",
+        "MED-C34-30",
+        "MED-C34-31",
+        "MED-C34-32"
+      ]
+    },
+    {
+      "id": "MED-U34-5",
+      "ch": 34,
+      "n": 5,
+      "title": "CXR Signs (Atelectatic Bands, Hampton's Hump, Pallas, Westermark, Fleischner), PAH Films & ECG Significance and Patterns (S1Q3T3)",
+      "sec": "CXR Signs (Atelectatic Bands, Hampton's Hump, Pallas, Westermark, Fleischner), PAH Films & ECG Significance and Patterns (S1Q3T3)",
+      "guide": "CXR (p210): long linear bands of atelectasis are the commonest sign; Hampton's hump is a pleural-based wedge-shaped opacity; Pallas sign is an enlarged right descending artery; Westermark's sign is oligaemia of the right upper lung; Fleischner sign is an enlarged central pulmonary artery. The PAH film shows large central pulmonary arteries, RV hypertrophy, rapid attenuation of vessels and clear lung fields.\nECG is done to rule out MI and to identify RV strain/hypertrophy. A normal ECG is the commonest pattern and sinus tachycardia the commonest abnormality, with deep S in lead I exceeding T inversion in V1–V4; the S1Q3T3 pattern is non-specific.",
+      "qs": [
+        "MED-C34-33",
+        "MED-C34-34",
+        "MED-C34-35",
+        "MED-C34-36",
+        "MED-C34-37",
+        "MED-C34-38",
+        "MED-C34-39"
+      ]
+    },
+    {
+      "id": "MED-U34-6",
+      "ch": 34,
+      "n": 6,
+      "title": "Pulmonary Angiography Gold Standard, V/Q Scan Indications, D-Dimer, ECHO, the Wells Score Table and CTPA Signs (Saddle Embolus, Polo Mint Sign)",
+      "sec": "Pulmonary Angiography Gold Standard, V/Q Scan Indications, D-Dimer, ECHO, the Wells Score Table and CTPA Signs (Saddle Embolus, Polo Mint Sign)",
+      "guide": "Pulmonary angiography (p211) is the gold standard and is invasive, cannulating a vein to reach the pulmonary artery. V/Q scan is indicated in pregnancy and contrast allergy; D-dimer is for low-risk cases; ECHO excludes alternate diagnoses such as pericardial effusion. Any unexplained dyspnea with a normal CXR/ECG/examination is VTE unless proven otherwise.\nWells score: clinical signs of DVT 3, alternative diagnosis less likely 3, HR > 100/min 1.5, recent surgery 1.5, previous DVT/PE 1.5, haemoptysis 1, malignancy 1. Low risk goes to D-dimer and, if positive, CTPA; moderate and high risk go straight to helical CTPA.\nCT signs: saddle pulmonary embolism and the polo-mint sign, described as a thin rim of contrast persisting around a central filling defect.",
+      "qs": [
+        "MED-C34-40",
+        "MED-C34-41",
+        "MED-C34-42",
+        "MED-C34-43",
+        "MED-C34-44",
+        "MED-C34-45",
+        "MED-C34-46"
+      ]
+    },
+    {
+      "id": "MED-U34-7",
+      "ch": 34,
+      "n": 7,
+      "title": "Management: Heparin/LMWH Dosing, Severity Determination, Thrombolysis vs Catheter Therapy, Heparin Target Ranges, 3-Month Switch and IVC Filter",
+      "sec": "Management: Heparin/LMWH Dosing, Severity Determination, Thrombolysis vs Catheter Therapy, Heparin Target Ranges, 3-Month Switch and IVC Filter",
+      "guide": "Management (p212) starts anticoagulation at the earliest with unfractionated heparin or LMWH: first dose 80 units/kg heparin IV or 1 mg/kg s/c LMWH. Severity is then determined as massive VTE (hypotension +), submassive VTE (RV dilatation +) or extensive clot burden.\nWhen severity is present: if fit for thrombolysis give alteplase 100 mg IV over 2 hrs within 14 days, then restart heparin and replace with warfarin; if unfit, catheter-based thrombolysis/embolectomy (preferred). When absent: continue heparin at 18 units/kg/hr targeting aPTT 1.5–2 times the upper limit and INR 2–3.\nAt the end of 3 months switch to oral anticoagulants (new oral anticoagulants preferred over warfarin/vitamin K), lifelong if a genetic mutation is positive; if contraindicated, insert an inferior vena cava filter.",
+      "qs": [
+        "MED-C34-47",
+        "MED-C34-48",
+        "MED-C34-49",
+        "MED-C34-50",
+        "MED-C34-51",
+        "MED-C34-52",
+        "MED-C34-53"
+      ]
+    }
+  ]
+}
