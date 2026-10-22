@@ -1,0 +1,789 @@
+{
+  "chapter": 40,
+  "title": "Bronchial Asthma",
+  "pageRange": "243-248",
+  "questions": [
+    {
+      "id": "MED-C40-01",
+      "sec": "General Features of Asthma, the Bronchodilator Reversibility Box, GINA Features and Respiratory Symptoms with Triggers",
+      "page": 243,
+      "fmt": "recall",
+      "q": "Which five features of Asthma head the chapter on page 243?",
+      "opts": [
+        "Pure airway disease; no parenchymal involvement, so no hypercapnia, pulmonary HTN or cor-pulmonale; chronic; inflammatory (eosinophils); and irreversible bronchoconstriction",
+        "Pure airway disease; no parenchymal involvement, so no hypercapnia, pulmonary HTN or cor-pulmonale; chronic; inflammatory (eosinophils); and reversible bronchoconstriction",
+        "Pure airway disease; parenchymal involvement, so hypercapnia and cor-pulmonale; chronic; inflammatory (eosinophils); and reversible bronchoconstriction",
+        "Pure parenchymal disease; no parenchymal involvement, so no hypercapnia, pulmonary HTN or cor-pulmonale; acute; inflammatory (neutrophils); and reversible bronchoconstriction"
+      ],
+      "ans": 1,
+      "exp": "The bullets read 'Pure airway disease', 'No parenchymal involvement → No hypercapnia, pulmonary HTN, cor-pulmonale', 'Chronic', 'Inflammatory (Eosinophils)' and 'Reversible bronchoconstriction', echoing the asthma exception in the Type I table on page 230. (Book p243)"
+    },
+    {
+      "id": "MED-C40-02",
+      "sec": "General Features of Asthma, the Bronchodilator Reversibility Box, GINA Features and Respiratory Symptoms with Triggers",
+      "page": 243,
+      "fmt": "numeric",
+      "q": "Which numbers does the bronchodilator reversibility box print on page 243?",
+      "opts": [
+        "Four puffs of SABA, reassessed at 30 minutes, with FEV1 rising by 12% plus a 200 ml rise in absolute value",
+        "Four puffs of LABA, reassessed at 30 minutes, with FEV1 rising by 12% plus a 200 ml rise in absolute value",
+        "Four puffs of SABA, reassessed at 30 minutes, with FEV1 rising by 15% plus a 250 ml rise in absolute value",
+        "Two puffs of SABA, reassessed at 15 minutes, with FEV1 rising by 12% plus a 200 ml rise in absolute value"
+      ],
+      "ans": 0,
+      "exp": "The box reads 'On bronchodilator reversibility testing: (4 puffs of SABA) — 30 mins — FEV1: ↑ by 12% + 200 ml ↑ in absolute value.' Both the percentage and the absolute rise must be met. (Book p243)"
+    },
+    {
+      "id": "MED-C40-03",
+      "sec": "General Features of Asthma, the Bronchodilator Reversibility Box, GINA Features and Respiratory Symptoms with Triggers",
+      "page": 243,
+      "fmt": "match",
+      "q": "Match each reversibility result in the page 243 box with its printed label — 1) Rise present, marked plus 2) Rise absent, marked minus … A) Irreversible, labelled COPD B) Reversible, labelled Asthma",
+      "opts": [
+        "1-A, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 2,
+      "exp": "The box splits into '+' leading to 'Reversible (Asthma)' and '−' leading to 'Irreversible (COPD)'. The same 12% and 200 ml rule separated asthma from COPD on page 199. (Book p243)"
+    },
+    {
+      "id": "MED-C40-04",
+      "sec": "General Features of Asthma, the Bronchodilator Reversibility Box, GINA Features and Respiratory Symptoms with Triggers",
+      "page": 243,
+      "fmt": "recall",
+      "q": "Which three components are stacked as the GINA features of Asthma on page 243?",
+      "opts": [
+        "Chronic airway inflammation with reversible bronchoconstriction, plus variable expiratory air-flow obstruction, plus parenchymal destruction",
+        "Chronic airway inflammation with irreversible bronchoconstriction, plus fixed expiratory air-flow obstruction, plus symptoms due to broncho-constriction",
+        "Acute airway inflammation with reversible bronchoconstriction, plus variable inspiratory air-flow obstruction, plus symptoms due to broncho-constriction",
+        "Chronic airway inflammation with reversible bronchoconstriction, plus variable expiratory air-flow obstruction, plus symptoms due to broncho-constriction"
+      ],
+      "ans": 3,
+      "exp": "Under 'GINA (Global initiative for Asthma) features of asthma' the page stacks chronic airway inflammation with reversible bronchoconstriction, variable expiratory air-flow obstruction and symptoms due to broncho-constriction, joined by plus signs. (Book p243)"
+    },
+    {
+      "id": "MED-C40-05",
+      "sec": "General Features of Asthma, the Bronchodilator Reversibility Box, GINA Features and Respiratory Symptoms with Triggers",
+      "page": 243,
+      "fmt": "fillup",
+      "q": "The four symptoms printed as due to broncho-constriction are shortness of breath, chronic cough, wheeze and ______.",
+      "opts": [
+        "hemoptysis",
+        "chest pain",
+        "stridor",
+        "chest tightness"
+      ],
+      "ans": 3,
+      "exp": "The bracket reads '(Shortness of breath/chronic cough/wheeze/chest tightness)'. Chest tightness, not pleuritic chest pain, is the fourth GINA symptom printed here. (Book p243)"
+    },
+    {
+      "id": "MED-C40-06",
+      "sec": "General Features of Asthma, the Bronchodilator Reversibility Box, GINA Features and Respiratory Symptoms with Triggers",
+      "page": 243,
+      "fmt": "recall",
+      "q": "How do the respiratory symptoms of Asthma behave, according to the foot of page 243?",
+      "opts": [
+        "They are variable in time and intensity, worse at night and with viral infections (influenza most common as printed)",
+        "They are variable in time and intensity, worse at night and with bacterial infections (pneumococcus most common)",
+        "They are variable in time and intensity, worse at night and with viral infections (RSV most common)",
+        "They are fixed in time and intensity, worse in the morning and with viral infections (RSV most common)"
+      ],
+      "ans": 2,
+      "exp": "The bullets read 'variable in time and intensity' and 'worse: At night. With viral infections (RSV: m/c).' RSV is the organism named in brackets. (Book p243)"
+    },
+    {
+      "id": "MED-C40-07",
+      "sec": "General Features of Asthma, the Bronchodilator Reversibility Box, GINA Features and Respiratory Symptoms with Triggers",
+      "page": 243,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three of these are printed triggers of Asthma symptoms on page 243, one appears only in the next day's trigger list on page 244:",
+      "opts": [
+        "Paint fumes",
+        "Exercise",
+        "Cold air",
+        "Laughter"
+      ],
+      "ans": 0,
+      "exp": "Page 243 closes with 'Triggers: Exercise, laughter, allergens, cold air.' Paint fumes belongs to the separate etiopathogenesis trigger list on page 244, alongside sulfur dioxide and beta blockers. (Book p243)"
+    },
+    {
+      "id": "MED-C40-08",
+      "sec": "General Features of Asthma, the Bronchodilator Reversibility Box, GINA Features and Respiratory Symptoms with Triggers",
+      "page": 243,
+      "fmt": "scenario",
+      "q": "A patient's FEV1 rises 14% and 240 ml thirty minutes after four puffs of SABA. Using the page 243 box alone, how is this labelled?",
+      "opts": [
+        "Indeterminate, because only the percentage criterion is printed",
+        "Reversible — labelled Asthma",
+        "Irreversible — labelled COPD",
+        "Reversible — labelled COPD"
+      ],
+      "ans": 1,
+      "exp": "Both printed thresholds are exceeded (12% and 200 ml in absolute value at 30 minutes after 4 puffs of SABA), so the '+' arm applies: 'Reversible (Asthma)'. A sub-threshold rise would take the '−' arm to COPD. (Book p243)"
+    },
+    {
+      "id": "MED-C40-09",
+      "sec": "Etiopathogenesis: Triggers, Hygiene Hypothesis and TH2 Cytokines, Early versus Late Phases, and Eosinophil Mediators and Granules",
+      "page": 244,
+      "fmt": "recall",
+      "q": "What etiology and trigger list open the etiopathogenesis on page 244?",
+      "opts": [
+        "Etiology unknown; triggers upper respiratory infection (URI), aspirin, beta blockers, sulfur dioxide, paint fumes, obesity, diet, 5q polymorphism and hyperventilation",
+        "Etiology unknown; triggers lower respiratory infection, aspirin, beta blockers, carbon dioxide, paint fumes, obesity, diet, 5q polymorphism and hyperventilation",
+        "Etiology allergic; triggers upper respiratory infection (URI), aspirin, beta agonists, sulfur dioxide, paint fumes, obesity, diet, 5q polymorphism and hyperventilation",
+        "Etiology unknown; triggers upper respiratory infection (URI), aspirin, beta blockers, sulfur dioxide, paint fumes, obesity, diet, 17q polymorphism and hypoventilation"
+      ],
+      "ans": 0,
+      "exp": "The section reads 'Etiology: unknown' and lists triggers in two columns: URI, aspirin, beta blockers, sulfur dioxide, paint fumes, and obesity, diet, 5q polymorphism, hyperventilation. Beta blockers, not agonists, are the drug trigger. (Book p244)"
+    },
+    {
+      "id": "MED-C40-10",
+      "sec": "Etiopathogenesis: Triggers, Hygiene Hypothesis and TH2 Cytokines, Early versus Late Phases, and Eosinophil Mediators and Granules",
+      "page": 244,
+      "fmt": "recall",
+      "q": "Which chain states the hygiene hypothesis on page 244?",
+      "opts": [
+        "Increased exposure to antigens in adulthood promotes conversion of TH2 to TH1 cells, giving better immunity",
+        "Increased exposure to antigens in childhood promotes conversion of TH2 to TH1 cells, giving better immunity",
+        "Increased exposure to antigens in childhood promotes conversion of TH1 to TH2 cells, giving better immunity",
+        "Decreased exposure to antigens in childhood promotes conversion of TH2 to TH1 cells, giving better immunity"
+      ],
+      "ans": 1,
+      "exp": "The bullet reads '↑ exposure to antigens in childhood → Promotes conversion of TH2 to TH1 cells → Better immunity.' The conversion runs away from the TH2 phenotype that drives Asthma. (Book p244)"
+    },
+    {
+      "id": "MED-C40-11",
+      "sec": "Etiopathogenesis: Triggers, Hygiene Hypothesis and TH2 Cytokines, Early versus Late Phases, and Eosinophil Mediators and Granules",
+      "page": 244,
+      "fmt": "match",
+      "q": "Match each TH2 product on page 244 with its printed action — 1) IL-4 2) IL-5 3) IL-13 … A) Listed with no action printed against it B) Recruits eosinophils via eotaxin C) Raises IgE",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 3,
+      "exp": "Under 'TH2 produces' the page gives 'IL-4: ↑ IgE', 'IL-5: Recruits eosinophils via eotaxin' and 'IL-13' with no action printed. These are the same three cytokines named for eosinophilic inflammation in ABPA on page 254. (Book p244)"
+    },
+    {
+      "id": "MED-C40-12",
+      "sec": "Etiopathogenesis: Triggers, Hygiene Hypothesis and TH2 Cytokines, Early versus Late Phases, and Eosinophil Mediators and Granules",
+      "page": 244,
+      "fmt": "match",
+      "q": "Match each Asthma phase with its printed timing and mediators — 1) Early phase response 2) Late phase … A) After 4–6 hours, mediator listed as basophil B) Mediators histamine, tryptase and PGD2",
+      "opts": [
+        "1-A, 2-B",
+        "1-B, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A"
+      ],
+      "ans": 2,
+      "exp": "The Phases block pairs the early phase response with mediators histamine, tryptase and PGD2, and the 'Late phase (After 4–6 hrs)' with basophil as its listed mediator entry. (Book p244)"
+    },
+    {
+      "id": "MED-C40-13",
+      "sec": "Etiopathogenesis: Triggers, Hygiene Hypothesis and TH2 Cytokines, Early versus Late Phases, and Eosinophil Mediators and Granules",
+      "page": 244,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the phases printed on page 244.",
+      "opts": [
+        "True — the late phase is timed after 4–6 hours and its mediator entry is the basophil, while histamine, tryptase and PGD2 belong to the early phase",
+        "False — histamine and tryptase are printed as late-phase mediators",
+        "True — the early phase mediator entry is the basophil and PGD2 is a late mediator",
+        "False — the late phase is timed after 24 hours on this page"
+      ],
+      "ans": 0,
+      "exp": "The block is explicit: 'Late phase (After 4–6 hrs)' arrows down to 'Basophil', and the early phase column lists histamine, tryptase and PGD2. Swapping either column contradicts the print. (Book p244)"
+    },
+    {
+      "id": "MED-C40-14",
+      "sec": "Etiopathogenesis: Triggers, Hygiene Hypothesis and TH2 Cytokines, Early versus Late Phases, and Eosinophil Mediators and Granules",
+      "page": 244,
+      "fmt": "recall",
+      "q": "Which mediators form the eosinophil's newly synthesised membrane-derived set on page 244?",
+      "opts": [
+        "Leukotriene B4, platelet activating factor, 15 HETE, prostaglandin D2, and thromboxane A2",
+        "Leukotriene B4, platelet activating factor, 15 HETE, prostaglandin E1 and E2, and thromboxane B2",
+        "Leukotriene C4, platelet activating factor, 15 HETE, prostaglandin E1 and E2, and thromboxane B2",
+        "Leukotriene B4, histamine, 15 HETE, prostaglandin E1 and E2, and thromboxane B2"
+      ],
+      "ans": 1,
+      "exp": "The upper arrow from the eosinophil diagram reads 'Newly synthesised membrane derived mediators: Leukotriene B4, Platelet activating factor, 15 HETE, Prostaglandin E1, E2, Thromboxane B2.' PGD2 was an early-phase mediator in the block above. (Book p244)"
+    },
+    {
+      "id": "MED-C40-15",
+      "sec": "Etiopathogenesis: Triggers, Hygiene Hypothesis and TH2 Cytokines, Early versus Late Phases, and Eosinophil Mediators and Granules",
+      "page": 244,
+      "fmt": "recall",
+      "q": "Which four granule-derived basic proteins are listed from the eosinophil diagram?",
+      "opts": [
+        "Major basic protein (MBP), eosinophil anionic protein (ECP), eosinophil derived neurotoxin (EDN) and eosinophil peroxidase (EPO)",
+        "Minor basic protein (MBP), eosinophil cationic protein (ECP), eosinophil derived neurotoxin (EDN) and eosinophil peroxidase (EPO)",
+        "Major basic protein (MBP), eosinophil cationic protein (ECP), eosinophil derived neurotoxin (EDN) and Charcot Leyden protein",
+        "Major basic protein (MBP), eosinophil cationic protein (ECP), eosinophil derived neurotoxin (EDN) and eosinophil peroxidase (EPO)"
+      ],
+      "ans": 3,
+      "exp": "The lower arrow reads 'Granule derived basic proteins: major basic protein (MBP), Eosinophil cationic protein (ECP), Eosinophil derived neurotoxin (EDN), Eosinophil peroxidase (EPO).' Charcot Leyden material is handled separately as a granule type. (Book p244)"
+    },
+    {
+      "id": "MED-C40-16",
+      "sec": "Etiopathogenesis: Triggers, Hygiene Hypothesis and TH2 Cytokines, Early versus Late Phases, and Eosinophil Mediators and Granules",
+      "page": 244,
+      "fmt": "fillup",
+      "q": "Of the two granule types in eosinophils, the 1° (primary) granules give ______, while the 2° granules contain MBP, ECP and EDN.",
+      "opts": [
+        "Masson's buds",
+        "Birbeck granules",
+        "Charcot Leyden crystals",
+        "Curschmann spirals"
+      ],
+      "ans": 2,
+      "exp": "The side box reads '1° granules: Charcot Leyden crystals. 2° granules: MBP, ECP, EDN.' Curschmann spirals are a histopathology finding on the next page, not a granule product here. (Book p244)"
+    },
+    {
+      "id": "MED-C40-17",
+      "sec": "Histopathology of Asthma with Curschmann Spirals, the Extrinsic versus Intrinsic Table and Samter's Triad",
+      "page": 245,
+      "fmt": "recall",
+      "q": "Which four numbered headings make up the histopathology of Asthma on page 245?",
+      "opts": [
+        "Acute airway inflammation; bronchial smooth muscle hypertrophy; submucosal glandular (goblet cell) hypoplasia; and patchy necrosis of epithelium",
+        "Chronic airway inflammation; bronchial smooth muscle atrophy; submucosal glandular (goblet cell) hyperplasia; and diffuse necrosis of epithelium",
+        "Chronic airway inflammation; bronchial smooth muscle hypertrophy; submucosal glandular (goblet cell) hyperplasia; and patchy necrosis of epithelium",
+        "Chronic airway inflammation; bronchial cartilage hypertrophy; submucosal glandular (goblet cell) hyperplasia; and patchy necrosis of endothelium"
+      ],
+      "ans": 2,
+      "exp": "The numbered list reads '1. Chronic airway inflammation, 2. Bronchial smooth muscle hypertrophy, 3. Submucosal glandular (Goblet cell) hyperplasia, 4. Patchy necrosis of epithelium.' Muscle hypertrophies and glands hyperplase; the necrosis is patchy and epithelial. (Book p245)"
+    },
+    {
+      "id": "MED-C40-18",
+      "sec": "Histopathology of Asthma with Curschmann Spirals, the Extrinsic versus Intrinsic Table and Samter's Triad",
+      "page": 245,
+      "fmt": "recall",
+      "q": "Which five elements are listed inside chronic airway inflammation, and which one captions the micrograph?",
+      "opts": [
+        "Eosinophils, mucus plugs, mast cells, Curschmann spirals and Charcot Leyden crystals — with the image captioned Charcot Leyden crystals",
+        "Eosinophils, mucus plugs, mast cells, Curschmann spirals and Charcot Leyden crystals — with the image captioned Curschmann spirals",
+        "Neutrophils, mucus plugs, mast cells, Curschmann spirals and Charcot Leyden crystals — with the image captioned Curschmann spirals",
+        "Eosinophils, mucus plugs, basophils, Masson's buds and Charcot Leyden crystals — with the image captioned Curschmann spirals"
+      ],
+      "ans": 1,
+      "exp": "Under chronic airway inflammation the bullets are eosinophils, mucus plugs, mast cells, Curschmann spirals and Charcot Leyden crystals, and the red micrograph beside them is captioned 'Curschmann spirals'. (Book p245)"
+    },
+    {
+      "id": "MED-C40-19",
+      "sec": "Histopathology of Asthma with Curschmann Spirals, the Extrinsic versus Intrinsic Table and Samter's Triad",
+      "page": 245,
+      "fmt": "match",
+      "q": "Match each row of the extrinsic versus intrinsic table with its printed pair — 1) Association with allergy and skin tests 2) Serum IgE 3) Family history 4) Prognosis … A) Extrinsic raised, intrinsic normal B) Extrinsic good with children growing out of Asthma, intrinsic poor C) Extrinsic positive, intrinsic negative D) Extrinsic present, intrinsic absent",
+      "opts": [
+        "1-C, 2-A, 3-D, 4-B",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-A, 2-C, 3-D, 4-B",
+        "1-C, 2-A, 3-B, 4-D"
+      ],
+      "ans": 0,
+      "exp": "The table gives extrinsic/atopic Asthma '+' for allergy association and skin tests against '−' for intrinsic, S. IgE '↑' versus 'Normal', family history '+' versus 'Absent', and prognosis 'Good (Children grow out of asthma)' versus 'Poor'. (Book p245)"
+    },
+    {
+      "id": "MED-C40-20",
+      "sec": "Histopathology of Asthma with Curschmann Spirals, the Extrinsic versus Intrinsic Table and Samter's Triad",
+      "page": 245,
+      "fmt": "match",
+      "q": "Match each remaining table row with its printed extrinsic versus intrinsic pair — 1) Etiology 2) Age of onset 3) Gender predisposition 4) Degree and triggers … A) Childhood onset with peak age 3 years versus adult onset B) Dermatophagoids, the house dust mite, as most common organism versus staphylococcal enterotoxins C) Dashes for extrinsic versus severe persistent degree and respiratory infection triggers for intrinsic D) M equal to F versus M greater than F",
+      "opts": [
+        "1-B, 2-A, 3-C, 4-D",
+        "1-B, 2-D, 3-A, 4-C",
+        "1-A, 2-B, 3-D, 4-C",
+        "1-B, 2-A, 3-D, 4-C"
+      ],
+      "ans": 3,
+      "exp": "Etiology pairs 'm/c organism: Dermatophagoids (House dust mite)' with 'Staphylococcal enterotoxins'; onset pairs childhood (peak 3 yrs) with adult; gender pairs 'm = F' with 'm > F'; and the degree and trigger rows carry dashes for extrinsic against 'Severe, persistent' and 'Respiratory infections' for intrinsic. (Book p245)"
+    },
+    {
+      "id": "MED-C40-21",
+      "sec": "Histopathology of Asthma with Curschmann Spirals, the Extrinsic versus Intrinsic Table and Samter's Triad",
+      "page": 245,
+      "fmt": "numeric",
+      "q": "Which single age figure is printed anywhere in the extrinsic versus intrinsic table?",
+      "opts": [
+        "Peak age 13 years, attached to childhood-onset extrinsic/atopic Asthma",
+        "Peak age 30 years, attached to childhood-onset extrinsic/atopic Asthma",
+        "Peak age 3 years, attached to childhood-onset extrinsic/atopic Asthma",
+        "Peak age 3 years, attached to adult-onset intrinsic Asthma"
+      ],
+      "ans": 2,
+      "exp": "The age-of-onset cell reads 'Childhood onset (Peak age: 3 yrs)' for extrinsic/atopic Asthma against 'Adult onset' for intrinsic Asthma. Three years is the table's only age. (Book p245)"
+    },
+    {
+      "id": "MED-C40-22",
+      "sec": "Histopathology of Asthma with Curschmann Spirals, the Extrinsic versus Intrinsic Table and Samter's Triad",
+      "page": 245,
+      "fmt": "scenario",
+      "q": "An adult man with no family history, normal serum IgE, negative skin tests and severe persistent Asthma triggered by respiratory infections is discussed. Which column of the page 245 table does he fill, and what prognosis does it carry?",
+      "opts": [
+        "Intrinsic Asthma — prognosis poor",
+        "Extrinsic/atopic Asthma — prognosis good, as children grow out of Asthma",
+        "Intrinsic Asthma — prognosis good, as children grow out of Asthma",
+        "Extrinsic/atopic Asthma — prognosis poor"
+      ],
+      "ans": 0,
+      "exp": "Adult onset, absent family history, normal IgE, negative skin tests, male predominance, severe persistent degree and respiratory-infection triggers are the intrinsic column cell by cell, whose prognosis row reads 'Poor'. (Book p245)"
+    },
+    {
+      "id": "MED-C40-23",
+      "sec": "Histopathology of Asthma with Curschmann Spirals, the Extrinsic versus Intrinsic Table and Samter's Triad",
+      "page": 245,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three of these form the captioned triangle at the foot of page 245, one does not:",
+      "opts": [
+        "Nasal polyps",
+        "Childhood onset Asthma",
+        "Adult onset Asthma",
+        "Aspirin sensitivity"
+      ],
+      "ans": 1,
+      "exp": "The Note 'Samters triad' (as printed) draws a triangle of adult onset Asthma at the apex with aspirin sensitivity and nasal polyps at the base corners. Childhood onset belongs to extrinsic Asthma in the table above. (Book p245)"
+    },
+    {
+      "id": "MED-C40-24",
+      "sec": "Histopathology of Asthma with Curschmann Spirals, the Extrinsic versus Intrinsic Table and Samter's Triad",
+      "page": 245,
+      "fmt": "fillup",
+      "q": "The triangle of adult onset Asthma, aspirin sensitivity and nasal polyps is labelled ______ triad (spelling as printed).",
+      "opts": [
+        "Kartagener's",
+        "Widal's printed as Vidal's",
+        "Virchow's",
+        "Samters"
+      ],
+      "ans": 3,
+      "exp": "The Note is headed 'Samters triad', without an apostrophe, exactly as printed on page 245. Aspirin also appears as a trigger on page 244, tying the triad back to the etiopathogenesis list. (Book p245)"
+    },
+    {
+      "id": "MED-C40-25",
+      "sec": "Mild versus Moderate versus Severe Asthma Table and Acute Severe Exacerbation versus Impending Respiratory Failure",
+      "page": 246,
+      "fmt": "recall",
+      "q": "Which symptom-pattern scheme introduces the severity grading on page 246?",
+      "opts": [
+        "Asthma with intermittent symptoms grades into mild and moderate only, while severe Asthma is separately defined",
+        "Asthma with persistent symptoms stands apart, while Asthma with intermittent symptoms grades into mild, moderate and severe",
+        "Asthma with nocturnal symptoms grades into mild, moderate and severe",
+        "Asthma with intermittent symptoms stands apart, while Asthma with persistent symptoms grades into mild, moderate and severe"
+      ],
+      "ans": 3,
+      "exp": "Under 'B. mild v/s moderate v/s severe' the arrows read 'Asthma with → Intermittent symptoms' and '→ Persistent symptoms → mild, moderate, Severe'. The three grades subdivide persistent disease only. (Book p246)"
+    },
+    {
+      "id": "MED-C40-26",
+      "sec": "Mild versus Moderate versus Severe Asthma Table and Acute Severe Exacerbation versus Impending Respiratory Failure",
+      "page": 246,
+      "fmt": "numeric",
+      "q": "Reading the severity table by column position (mild, then moderate, then severe), which day-symptom and FEV1 ladder is printed?",
+      "opts": [
+        "Day symptoms 2–6 days/week, then continuous, then daily; FEV1 above 80% predicted, then below 60% predicted, then 60–80% predicted",
+        "Day symptoms 2–6 days/week, then daily, then continuous; FEV1 above 80% predicted, then 60–80% predicted, then below 60% predicted",
+        "Day symptoms daily, then 2–6 days/week, then continuous; FEV1 above 80% predicted, then 60–80% predicted, then below 60% predicted",
+        "Day symptoms 2–6 days/week, then daily, then continuous; FEV1 below 60% predicted, then 60–80% predicted, then above 80% predicted"
+      ],
+      "ans": 1,
+      "exp": "The columns run '2–6 days/week, Daily, Continuous' for day symptoms and '>80% predicted, 60–80% predicted, <60% predicted' for FEV1. Note the print carries over the headers 'Extrinsic/atopic' and 'Intrinsic' from page 245 over the moderate and severe columns, so the grades are read by position under the 'mild v/s moderate v/s severe' heading. (Book p246)"
+    },
+    {
+      "id": "MED-C40-27",
+      "sec": "Mild versus Moderate versus Severe Asthma Table and Acute Severe Exacerbation versus Impending Respiratory Failure",
+      "page": 246,
+      "fmt": "numeric",
+      "q": "Which nocturnal-awakening and PEFR-variability cells complete that table?",
+      "opts": [
+        "Nocturnal awakenings more than 2 monthly, then more than 1 per week, then 'Significantly ↓ activity' as printed in the third cell; PEFR variability below 30%, then above 30%, then above 30%",
+        "Nocturnal awakenings more than 2 monthly, then more than 1 per week, then 'Significantly ↓ activity' as printed in the third cell; PEFR variability above 30%, then below 30%, then below 30%",
+        "Nocturnal awakenings more than 2 monthly, then more than 1 per week, then frequent; PEFR variability below 30%, then above 30%, then below 30%",
+        "Nocturnal awakenings more than 2 weekly, then more than 1 monthly, then nightly; PEFR variability below 30%, then above 30%, then above 30%"
+      ],
+      "ans": 0,
+      "exp": "The rows read '>2 monthly, >1/week, Significantly ↓ activity' for nocturnal awakenings — the third cell describing activity rather than awakenings, preserved as printed — and '<30%, >30%, >30%' for PEFR variability. (Book p246)"
+    },
+    {
+      "id": "MED-C40-28",
+      "sec": "Mild versus Moderate versus Severe Asthma Table and Acute Severe Exacerbation versus Impending Respiratory Failure",
+      "page": 246,
+      "fmt": "match",
+      "q": "Match each bedside row with its acute-exacerbation versus impending-failure pair on page 246 — 1) Speech 2) Orientation 3) Position 4) Accessory muscle use and loud wheeze … A) Upright versus cannot recline B) Both marked ++ in exacerbation versus paradoxical breathing and a silent chest in impending failure C) Words versus absent D) Agitated versus confused",
+      "opts": [
+        "1-C, 2-D, 3-B, 4-A",
+        "1-D, 2-C, 3-A, 4-B",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-C, 2-A, 3-D, 4-B"
+      ],
+      "ans": 2,
+      "exp": "In acute exacerbation speech is in 'Words', orientation 'Agitated', position 'upright', and accessory muscle use and loud wheeze are '++'; in impending respiratory failure speech is 'Absent', orientation 'Confused', position 'Cant recline', accessory use becomes 'Paradoxical breathing' and wheeze is '− (Silent chest)'. Breathlessness at rest and tachypnoea carry a merged '+' across both columns. (Book p246)"
+    },
+    {
+      "id": "MED-C40-29",
+      "sec": "Mild versus Moderate versus Severe Asthma Table and Acute Severe Exacerbation versus Impending Respiratory Failure",
+      "page": 246,
+      "fmt": "match",
+      "q": "Match each physiological row with its printed pair in the same table — 1) Heart rate 2) Pulsus paradoxus 3) PEFR 4) PaO2 and PaCO2 … A) 25–40 L/min as printed versus below 25 L/min B) Marked ++ versus absent C) Merged cells across both columns: PaO2 below 60 mmHg (saturation below 90%) and PaCO2 below 40 mmHg D) Tachycardia versus relative bradycardia",
+      "opts": [
+        "1-B, 2-D, 3-A, 4-C",
+        "1-D, 2-B, 3-C, 4-A",
+        "1-D, 2-B, 3-A, 4-C",
+        "1-D, 2-A, 3-B, 4-C"
+      ],
+      "ans": 2,
+      "exp": "Heart rate moves from tachycardia to relative bradycardia and pulsus paradoxus from '++' to absent as failure impends; PEFR falls from '25–40 L/min' to '<25 L/min' (units as printed), while PaO2 '<60 mmHg (<90%)' and PaCO2 '<40 mmHg' are merged across both columns. (Book p246)"
+    },
+    {
+      "id": "MED-C40-30",
+      "sec": "Mild versus Moderate versus Severe Asthma Table and Acute Severe Exacerbation versus Impending Respiratory Failure",
+      "page": 246,
+      "fmt": "scenario",
+      "q": "A breathless asthmatic can no longer speak, is confused, cannot recline, has paradoxical breathing, a silent chest, relative bradycardia and no pulsus paradoxus, with PEFR under the lower printed band. Which column has he crossed into?",
+      "opts": [
+        "Mild persistent Asthma",
+        "Intermittent Asthma",
+        "Acute exacerbation of Asthma",
+        "Impending respiratory failure"
+      ],
+      "ans": 3,
+      "exp": "Absent speech, confusion, inability to recline, paradoxical breathing, silent chest, relative bradycardia, absent pulsus paradoxus and PEFR below 25 (printed L/min) are the impending respiratory failure column cell by cell. (Book p246)"
+    },
+    {
+      "id": "MED-C40-31",
+      "sec": "Mild versus Moderate versus Severe Asthma Table and Acute Severe Exacerbation versus Impending Respiratory Failure",
+      "page": 246,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the merged cells of the exacerbation table on page 246.",
+      "opts": [
+        "False — breathlessness at rest is printed only under impending respiratory failure",
+        "True — breathlessness at rest and tachypnoea each carry a single '+' merged across both columns, as do the PaO2 and PaCO2 values",
+        "False — PaCO2 is given as above 40 mmHg in impending failure",
+        "True — loud wheeze is also merged across both columns with a single '++'"
+      ],
+      "ans": 1,
+      "exp": "The breathlessness-at-rest and tachypnoea rows show one '+' spanning exacerbation and impending failure, and the gas rows merge as PaO2 '<60 mmHg (<90%)' with PaCO2 '<40 mmHg'. Loud wheeze, by contrast, splits '++' against the silent chest. (Book p246)"
+    },
+    {
+      "id": "MED-C40-32",
+      "sec": "Management: Inhaled Corticosteroids as Mainstay, the ICS–Formoterol Step Protocol with Biologics, and Investigations",
+      "page": 247,
+      "fmt": "recall",
+      "q": "Which status, effects and examples are printed for inhaled corticosteroids on page 247?",
+      "opts": [
+        "Mainstay of treatment; effects of reduced hospitalisations, exacerbations and symptoms with improved lung functions, early administration improving future lung function; examples beclomethasone, budesonide and fluticasone",
+        "Mainstay of treatment; effects of reduced hospitalisations and symptoms only; examples beclomethasone, budesonide and prednisolone",
+        "Mainstay of treatment; effects of reduced hospitalisations, exacerbations and symptoms with improved lung functions, early administration improving future lung function; examples salmeterol, budesonide and fluticasone",
+        "Reliever of choice; effects of reduced hospitalisations, exacerbations and symptoms with improved lung functions; examples beclomethasone, budesonide and fluticasone"
+      ],
+      "ans": 0,
+      "exp": "The ICS block reads 'mainstay of treatment' with effects '↓ Hospitalisations, ↓ exacerbations, ↓ symptoms, Improved lung functions, early ICS administration → Improved lung function in future' and examples beclomethasone, budesonide and fluticasone. 'ICS' is misprinted once as 'LCS' in the early-administration line, preserved in the caveat record. (Book p247)"
+    },
+    {
+      "id": "MED-C40-33",
+      "sec": "Management: Inhaled Corticosteroids as Mainstay, the ICS–Formoterol Step Protocol with Biologics, and Investigations",
+      "page": 247,
+      "fmt": "fillup",
+      "q": "Complete the printed Note: Short acting β agonists (SABA) has ______ in persistent Asthma.",
+      "opts": [
+        "an equal role with ICS",
+        "no role",
+        "a reliever-only role",
+        "the mainstay role"
+      ],
+      "ans": 1,
+      "exp": "The Note reads 'Short acting β agonists (SABA) has no role in persistent asthma', which is why the protocol below is built entirely on ICS–formoterol combinations. (Book p247)"
+    },
+    {
+      "id": "MED-C40-34",
+      "sec": "Management: Inhaled Corticosteroids as Mainstay, the ICS–Formoterol Step Protocol with Biologics, and Investigations",
+      "page": 247,
+      "fmt": "management",
+      "q": "Which opening steps does the page 247 protocol print before any dose escalation?",
+      "opts": [
+        "As-and-when-needed SABA first, then daily low-dose ICS plus formoterol, printed as better than daily low-dose ICS alone",
+        "Daily low-dose ICS alone first, then as-and-when-needed ICS–formoterol combination",
+        "As-and-when-needed ICS–formoterol combination first, then daily low-dose ICS plus salmeterol",
+        "As-and-when-needed ICS–formoterol combination first, then daily low-dose ICS plus formoterol, printed as better than daily low-dose ICS alone"
+      ],
+      "ans": 3,
+      "exp": "The flowchart opens 'As and when needed ICS-Formoterol combo' and descends to 'Daily low-dose ICS + Formoterol > Daily low dose ICS', the inequality making the combination the preferred daily step. (Book p247)"
+    },
+    {
+      "id": "MED-C40-35",
+      "sec": "Management: Inhaled Corticosteroids as Mainstay, the ICS–Formoterol Step Protocol with Biologics, and Investigations",
+      "page": 247,
+      "fmt": "management",
+      "q": "A patient remains uncontrolled on daily low-dose ICS–formoterol. Which printed sequence follows?",
+      "opts": [
+        "High-dose ICS plus formoterol at once; then add tiotropium, the short-acting muscarinic antagonist",
+        "Medium-dose ICS alone; if still not responding, oral steroids; then add tiotropium",
+        "Medium-dose ICS plus formoterol; if still not responding, high-dose ICS plus formoterol; then add tiotropium, the long-acting muscarinic antagonist",
+        "Medium-dose ICS plus formoterol; if still not responding, high-dose ICS plus formoterol; then add ipratropium as the long-acting agent"
+      ],
+      "ans": 2,
+      "exp": "Two 'Not responding' arrows take the protocol through 'medium-dose ICS + Formoterol' to 'High-dose ICS + Formoterol', and the next step is 'Add Tiotropium (LAMA: Long-acting muscarinic antagonist)'. Ipratropium is the SAMA of the ER chart on page 248. (Book p247)"
+    },
+    {
+      "id": "MED-C40-36",
+      "sec": "Management: Inhaled Corticosteroids as Mainstay, the ICS–Formoterol Step Protocol with Biologics, and Investigations",
+      "page": 247,
+      "fmt": "match",
+      "q": "Match each biologic at the foot of the protocol with its printed target — 1) Omalizumab 2) Mepolizumab 3) Dupilumab, spelling as printed … A) Anti IL-4 receptor antagonist B) Anti-IgE C) Anti IL-5 receptor antagonist, description as printed",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "The biologics read 'Omalizumab (Anti-IgE)', 'mepolizumab (Anti IL-5 receptor antagonist)' and 'Dupilumab (Anti IL-4 receptor antagonist)', offered with a '+/−' after tiotropium. The IL-5-receptor description for mepolizumab and the 'Dupilumab' spelling are preserved as printed. (Book p247)"
+    },
+    {
+      "id": "MED-C40-37",
+      "sec": "Management: Inhaled Corticosteroids as Mainstay, the ICS–Formoterol Step Protocol with Biologics, and Investigations",
+      "page": 247,
+      "fmt": "match",
+      "q": "Match each investigation on page 247 with its printed purpose and status — 1) Methacholine challenge test 2) Radioallergosorbent test, RAST 3) Fractional exhalation of NO … A) Measures IgE levels, braced as obsolete with its neighbour B) Assesses airway hyperresponsiveness, braced as obsolete with its neighbour C) Non-invasive test to measure airway inflammation",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 1,
+      "exp": "Methacholine challenge assesses airway hyperresponsiveness and RAST measures IgE levels, the two sharing the brace 'Obsolete', while fractional exhalation of NO stands below as the non-invasive test of airway inflammation. Methacholine also appeared as the challenge agent on page 191. (Book p247)"
+    },
+    {
+      "id": "MED-C40-38",
+      "sec": "Management: Inhaled Corticosteroids as Mainstay, the ICS–Formoterol Step Protocol with Biologics, and Investigations",
+      "page": 247,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three of these are printed ICS examples on page 247, one is a protocol partner drug instead:",
+      "opts": [
+        "Formoterol",
+        "Fluticasone",
+        "Budesonide",
+        "Beclomethasone"
+      ],
+      "ans": 0,
+      "exp": "The examples line reads 'Beclomethasone, Budesonide, Fluticasone'. Formoterol is the long-acting bronchodilator combined with ICS in every protocol step, not itself an inhaled corticosteroid. (Book p247)"
+    },
+    {
+      "id": "MED-C40-39",
+      "sec": "Management of Asthma Exacerbation in the ER and Brittle Asthma Types One and Two",
+      "page": 248,
+      "fmt": "recall",
+      "q": "Which opening moves does the ER flowchart print before it splits, and what awaits the right-hand arm?",
+      "opts": [
+        "Determine status, then confirm diagnosis; the impending respiratory failure arm goes directly to intubation and ventilation",
+        "Confirm diagnosis, then determine status; the acute severe Asthma arm goes directly to intubation and ventilation",
+        "Confirm diagnosis, then give magnesium; the impending respiratory failure arm goes to non-invasive ventilation first",
+        "Confirm diagnosis, then determine status; the impending respiratory failure arm goes directly to intubation and ventilation"
+      ],
+      "ans": 3,
+      "exp": "The chart for 'management of asthma exacerbation in ER' runs 'Confirm diagnosis → Determine status' and forks to acute severe Asthma on the left and 'Impending respiratory failure → Intubation & ventilation' on the right. (Book p248)"
+    },
+    {
+      "id": "MED-C40-40",
+      "sec": "Management of Asthma Exacerbation in the ER and Brittle Asthma Types One and Two",
+      "page": 248,
+      "fmt": "numeric",
+      "q": "Which doses and targets make up the acute severe Asthma arm on page 248?",
+      "opts": [
+        "Nasal O2 to keep SpO2 above 95%; albuterol nebulisations 2.5–5 mg every 20 minutes or 4–8 puffs by MDI every 20 minutes; LAMA tiotropium; and 100 mg hydrocortisone",
+        "Nasal O2 to keep SpO2 above 95%; albuterol nebulisations 5–10 mg hourly; SAMA ipratropium 500 mg as printed; and 200 mg hydrocortisone",
+        "Nasal O2 to keep SpO2 above 95%; albuterol nebulisations 2.5–5 mg every 20 minutes or 4–8 puffs by MDI every 20 minutes; SAMA ipratropium 500 mg as printed; and 100 mg hydrocortisone",
+        "Nasal O2 to keep SpO2 above 90%; albuterol nebulisations 2.5–5 mg every 20 minutes or 4–8 puffs by MDI every 20 minutes; SAMA ipratropium 500 mg as printed; and 100 mg hydrocortisone"
+      ],
+      "ans": 2,
+      "exp": "The bullets read 'Nasal O2 to maintain SpO2 >95%', 'Short acting β2 agonist: Albuterol nebulisations 2.5 mg – 5 mg every 20 minutes OR 4–8 puffs by MDI every 20 minutes', 'SAMA: Ipratropium 500 mg' (unit as printed) and '100 mg hydrocortisone'. (Book p248)"
+    },
+    {
+      "id": "MED-C40-41",
+      "sec": "Management of Asthma Exacerbation in the ER and Brittle Asthma Types One and Two",
+      "page": 248,
+      "fmt": "management",
+      "q": "After the first hour the patient is reassessed and is not improving. Which printed ladder follows?",
+      "opts": [
+        "Reassessment uses PEFR and PaCO2; if not improving, IV MgSO4 2 g over 20 minutes, then intubation directly with no non-invasive step",
+        "Reassessment uses PEFR and O2 saturation; if not improving, oral magnesium, then non-invasive mechanical ventilation, then intubation and ventilation",
+        "Reassessment uses speech and orientation; if not improving, IV MgSO4 4 g over 20 minutes, then non-invasive mechanical ventilation, then intubation and ventilation",
+        "Reassessment uses PEFR and O2 saturation; if not improving, IV MgSO4 2 g over 20 minutes, then non-invasive mechanical ventilation, then intubation and ventilation"
+      ],
+      "ans": 3,
+      "exp": "The chart prints 'Reassess after 1 hr — PEFR, O2 saturation' and, under 'Not improving', the sequence 'IV MgSO4 2g over 20 mins → Non-invasive mechanical ventilation → Intubation & ventilation'. (Book p248)"
+    },
+    {
+      "id": "MED-C40-42",
+      "sec": "Management of Asthma Exacerbation in the ER and Brittle Asthma Types One and Two",
+      "page": 248,
+      "fmt": "fillup",
+      "q": "The Note under the ER chart defines brittle Asthma in two words as ______ Asthma.",
+      "opts": [
+        "nocturnal",
+        "intrinsic",
+        "childhood",
+        "occupational"
+      ],
+      "ans": 2,
+      "exp": "The Note reads 'Brittle asthma: Childhood asthma' before the Type 1 and Type 2 table. Intrinsic Asthma was the adult-onset column on page 245. (Book p248)"
+    },
+    {
+      "id": "MED-C40-43",
+      "sec": "Management of Asthma Exacerbation in the ER and Brittle Asthma Types One and Two",
+      "page": 248,
+      "fmt": "match",
+      "q": "Match each brittle Asthma type with its printed pattern and treatment — 1) Type 1 2) Type 2 … A) Well-controlled Asthma with sudden severe exacerbations, drawn as a single peak, treated with subcutaneous adrenaline B) Wide peak flow variation despite intense medication, drawn as repeated waves, treated with oral corticosteroids",
+      "opts": [
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 1,
+      "exp": "Type 1 shows 'wide peak flow variation despite intense medication' over a multi-wave trace with treatment 'Oral corticosteroids', while Type 2 shows 'well-controlled asthma with sudden severe exacerbations' over a single peak with treatment 'S/C adrenaline'. (Book p248)"
+    },
+    {
+      "id": "MED-C40-44",
+      "sec": "Management of Asthma Exacerbation in the ER and Brittle Asthma Types One and Two",
+      "page": 248,
+      "fmt": "scenario",
+      "q": "A child whose Asthma is ordinarily well controlled suffers abrupt, severe attacks out of the blue. Using the page 248 table, which brittle type is she and what is its printed treatment?",
+      "opts": [
+        "Type 2 brittle Asthma — subcutaneous adrenaline",
+        "Type 1 brittle Asthma — subcutaneous adrenaline",
+        "Type 2 brittle Asthma — oral corticosteroids",
+        "Type 1 brittle Asthma — oral corticosteroids"
+      ],
+      "ans": 0,
+      "exp": "'Well-controlled asthma with sudden severe exacerbations' is the Type 2 pattern, drawn as one isolated peak, and its treatment cell reads 'S/C adrenaline'. Wide variation despite intense medication would make her Type 1. (Book p248)"
+    },
+    {
+      "id": "MED-C40-45",
+      "sec": "Management of Asthma Exacerbation in the ER and Brittle Asthma Types One and Two",
+      "page": 248,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the ER chart printed on page 248.",
+      "opts": [
+        "True — acute severe Asthma goes straight to intubation while impending failure receives the drug arm",
+        "False — impending respiratory failure first receives albuterol and hydrocortisone for one hour",
+        "False — the not-improving ladder ends at non-invasive ventilation with no intubation step",
+        "True — impending respiratory failure bypasses the drug arm entirely and goes straight to intubation and ventilation, which is also the final step of the not-improving ladder"
+      ],
+      "ans": 3,
+      "exp": "The right fork reads 'Impending respiratory failure → Intubation & ventilation' with no drug bullets, and the left arm's not-improving sequence ends at the same 'Intubation & ventilation' after magnesium and non-invasive ventilation. (Book p248)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U40-1",
+      "ch": 40,
+      "n": 1,
+      "title": "General Features of Asthma, the Bronchodilator Reversibility Box, GINA Features and Respiratory Symptoms with Triggers",
+      "sec": "General Features of Asthma, the Bronchodilator Reversibility Box, GINA Features and Respiratory Symptoms with Triggers",
+      "guide": "Asthma (p243) is a pure airway disease without parenchymal involvement — hence no hypercapnia, pulmonary HTN or cor-pulmonale — chronic, eosinophilic-inflammatory and reversibly bronchoconstricting.\nReversibility is tested with 4 puffs of SABA read at 30 minutes: an FEV1 rise of 12% plus 200 ml in absolute value is reversible (Asthma), its absence irreversible (COPD).\nGINA features stack chronic airway inflammation with reversible bronchoconstriction, variable expiratory airflow obstruction and the symptoms shortness of breath, chronic cough, wheeze and chest tightness, which vary in time and intensity, worsen at night and with viral infections (RSV most common), and are triggered by exercise, laughter, allergens and cold air.",
+      "qs": [
+        "MED-C40-01",
+        "MED-C40-02",
+        "MED-C40-03",
+        "MED-C40-04",
+        "MED-C40-05",
+        "MED-C40-06",
+        "MED-C40-07",
+        "MED-C40-08"
+      ]
+    },
+    {
+      "id": "MED-U40-2",
+      "ch": 40,
+      "n": 2,
+      "title": "Etiopathogenesis: Triggers, Hygiene Hypothesis and TH2 Cytokines, Early versus Late Phases, and Eosinophil Mediators and Granules",
+      "sec": "Etiopathogenesis: Triggers, Hygiene Hypothesis and TH2 Cytokines, Early versus Late Phases, and Eosinophil Mediators and Granules",
+      "guide": "Etiology is unknown (p244); triggers are URI, aspirin, beta blockers, sulfur dioxide, paint fumes, obesity, diet, 5q polymorphism and hyperventilation.\nThe hygiene hypothesis holds that increased childhood antigen exposure converts TH2 to TH1 cells for better immunity; TH2 products are IL-4 (raises IgE), IL-5 (recruits eosinophils via eotaxin) and IL-13, the early phase runs on histamine, tryptase and PGD2, and the late phase after 4–6 hours lists the basophil.\nEosinophils release newly synthesised membrane mediators (leukotriene B4, platelet activating factor, 15 HETE, prostaglandin E1/E2, thromboxane B2) and granule basic proteins MBP, ECP, EDN and EPO, with primary granules forming Charcot Leyden crystals and secondary granules holding MBP, ECP and EDN.",
+      "qs": [
+        "MED-C40-09",
+        "MED-C40-10",
+        "MED-C40-11",
+        "MED-C40-12",
+        "MED-C40-13",
+        "MED-C40-14",
+        "MED-C40-15",
+        "MED-C40-16"
+      ]
+    },
+    {
+      "id": "MED-U40-3",
+      "ch": 40,
+      "n": 3,
+      "title": "Histopathology of Asthma with Curschmann Spirals, the Extrinsic versus Intrinsic Table and Samter's Triad",
+      "sec": "Histopathology of Asthma with Curschmann Spirals, the Extrinsic versus Intrinsic Table and Samter's Triad",
+      "guide": "Histopathology (p245) numbers chronic airway inflammation (eosinophils, mucus plugs, mast cells, Curschmann spirals — the captioned micrograph — and Charcot Leyden crystals), bronchial smooth muscle hypertrophy, submucosal glandular goblet-cell hyperplasia and patchy epithelial necrosis.\nExtrinsic/atopic Asthma is allergy-associated with positive skin tests, raised IgE, family history, house dust mite (Dermatophagoids) etiology, childhood onset peaking at 3 years, equal sex ratio and a good prognosis as children grow out of it, against intrinsic Asthma with staphylococcal enterotoxins, adult onset, male predominance, severe persistent disease triggered by respiratory infections and a poor prognosis.\nThe closing Samters triad, as printed, triangles adult onset Asthma, aspirin sensitivity and nasal polyps.",
+      "qs": [
+        "MED-C40-17",
+        "MED-C40-18",
+        "MED-C40-19",
+        "MED-C40-20",
+        "MED-C40-21",
+        "MED-C40-22",
+        "MED-C40-23",
+        "MED-C40-24"
+      ]
+    },
+    {
+      "id": "MED-U40-4",
+      "ch": 40,
+      "n": 4,
+      "title": "Mild versus Moderate versus Severe Asthma Table and Acute Severe Exacerbation versus Impending Respiratory Failure",
+      "sec": "Mild versus Moderate versus Severe Asthma Table and Acute Severe Exacerbation versus Impending Respiratory Failure",
+      "guide": "Intermittent Asthma stands apart while persistent Asthma grades mild, moderate and severe (p246): day symptoms 2–6 days/week → daily → continuous, nocturnal awakenings >2 monthly → >1/week → significantly reduced activity as printed, PEFR variability <30% → >30% → >30%, and FEV1 >80% → 60–80% → <60% predicted, under headers that carry over 'Extrinsic/atopic' and 'Intrinsic' from page 245.\nAn acute exacerbation speaks in words, is agitated and upright with ++ accessory use, loud wheeze, tachycardia, ++ pulsus paradoxus and PEFR 25–40 as printed, whereas impending respiratory failure is speechless, confused, unable to recline, with paradoxical breathing, silent chest, relative bradycardia, absent pulsus paradoxus and PEFR below 25.\nBreathlessness at rest, tachypnoea, PaO2 below 60 mmHg (saturation below 90%) and PaCO2 below 40 mmHg are merged across both columns.",
+      "qs": [
+        "MED-C40-25",
+        "MED-C40-26",
+        "MED-C40-27",
+        "MED-C40-28",
+        "MED-C40-29",
+        "MED-C40-30",
+        "MED-C40-31"
+      ]
+    },
+    {
+      "id": "MED-U40-5",
+      "ch": 40,
+      "n": 5,
+      "title": "Management: Inhaled Corticosteroids as Mainstay, the ICS–Formoterol Step Protocol with Biologics, and Investigations",
+      "sec": "Management: Inhaled Corticosteroids as Mainstay, the ICS–Formoterol Step Protocol with Biologics, and Investigations",
+      "guide": "ICS are the mainstay (p247), cutting hospitalisations, exacerbations and symptoms while improving lung function — early use improving future function — with beclomethasone, budesonide and fluticasone as examples, and SABA has no role in persistent Asthma.\nThe protocol steps from as-needed ICS–formoterol to daily low-dose ICS plus formoterol (preferred over ICS alone), then medium- and high-dose ICS plus formoterol for non-responders, then tiotropium (LAMA) with or without biologics omalizumab (anti-IgE), mepolizumab (printed anti-IL-5 receptor antagonist) and dupilumab (printed 'Dupilumab', anti-IL-4 receptor antagonist).\nMethacholine challenge (airway hyperresponsiveness) and RAST (IgE levels) are braced obsolete, leaving fractional exhaled NO as the non-invasive measure of airway inflammation.",
+      "qs": [
+        "MED-C40-32",
+        "MED-C40-33",
+        "MED-C40-34",
+        "MED-C40-35",
+        "MED-C40-36",
+        "MED-C40-37",
+        "MED-C40-38"
+      ]
+    },
+    {
+      "id": "MED-U40-6",
+      "ch": 40,
+      "n": 6,
+      "title": "Management of Asthma Exacerbation in the ER and Brittle Asthma Types One and Two",
+      "sec": "Management of Asthma Exacerbation in the ER and Brittle Asthma Types One and Two",
+      "guide": "The ER chart (p248) confirms the diagnosis and determines status: impending respiratory failure goes straight to intubation and ventilation, while acute severe Asthma receives nasal oxygen to SpO2 above 95%, albuterol 2.5–5 mg nebulised or 4–8 MDI puffs every 20 minutes, ipratropium 500 mg as printed and hydrocortisone 100 mg.\nReassessment at one hour by PEFR and oxygen saturation escalates the non-improver through IV MgSO4 2 g over 20 minutes and non-invasive ventilation to intubation.\nBrittle Asthma is childhood Asthma: Type 1 shows wide peak-flow variation despite intense medication (multi-wave trace, oral corticosteroids) and Type 2 sudden severe exacerbations in otherwise well-controlled Asthma (single peak, subcutaneous adrenaline).",
+      "qs": [
+        "MED-C40-39",
+        "MED-C40-40",
+        "MED-C40-41",
+        "MED-C40-42",
+        "MED-C40-43",
+        "MED-C40-44",
+        "MED-C40-45"
+      ]
+    }
+  ]
+}

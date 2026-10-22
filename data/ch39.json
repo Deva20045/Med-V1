@@ -1,0 +1,959 @@
+{
+  "chapter": 39,
+  "title": "Interstitial Lung Disease",
+  "pageRange": "236-242",
+  "questions": [
+    {
+      "id": "MED-C39-01",
+      "sec": "Interstitium and Its Types, Lung Parenchyma, TGF-β/PDGF Fibrosis, ILD Classification and the Seven Idiopathic Interstitial Pneumonias",
+      "page": 236,
+      "fmt": "recall",
+      "q": "Which interstitium scheme opens the chapter on page 236?",
+      "opts": [
+        "Interstitium is the air space within alveoli; alveolar interstitium splits into subpleural and lobar, vascular interstitium surrounds vessels, and axial interstitium connects lung to chest wall",
+        "Interstitium is connective tissue that holds the lungs together; alveolar interstitium splits into subpleural and segmental, vascular interstitium surrounds airways, and axial interstitium connects the two lungs",
+        "Interstitium is connective tissue that holds the lungs together; alveolar interstitium surrounds vessels, vascular interstitium splits into subpleural and lobar, and axial interstitium connects lung to chest wall",
+        "Interstitium is connective tissue that holds the lungs together; alveolar interstitium splits into subpleural and lobar, vascular interstitium surrounds vessels, and axial interstitium connects lung to chest wall"
+      ],
+      "ans": 3,
+      "exp": "The page reads 'Interstitium: Connective tissue that holds the lungs together', with types 'Alveolar → Subpleural, Lobar', 'Vascular: Surrounds vessels' and 'Axial: Connects lung to chest wall'. (Book p236)"
+    },
+    {
+      "id": "MED-C39-02",
+      "sec": "Interstitium and Its Types, Lung Parenchyma, TGF-β/PDGF Fibrosis, ILD Classification and the Seven Idiopathic Interstitial Pneumonias",
+      "page": 236,
+      "fmt": "fillup",
+      "q": "Complete the printed definition: Lung parenchyma = Alveoli + alveolar interstitium + ______ interstitium.",
+      "opts": [
+        "lobar",
+        "subpleural",
+        "vascular",
+        "axial"
+      ],
+      "ans": 2,
+      "exp": "The line reads 'Lung parenchyma: Alveoli + alveolar interstitium + vascular interstitium'. The axial interstitium, defined just above as connecting lung to chest wall, is deliberately left out of the parenchyma. (Book p236)"
+    },
+    {
+      "id": "MED-C39-03",
+      "sec": "Interstitium and Its Types, Lung Parenchyma, TGF-β/PDGF Fibrosis, ILD Classification and the Seven Idiopathic Interstitial Pneumonias",
+      "page": 236,
+      "fmt": "recall",
+      "q": "How is interstitial lung disease itself defined and driven on page 236?",
+      "opts": [
+        "It is 'Diffuse parenchymal lung fibrosis', a TGF-β > PDGF mediated parenchymal fibrosis, with TGF-β boxed as the most potent pathogenic fibrogenic cytokine",
+        "It is 'Focal parenchymal lung fibrosis', a TGF-β > PDGF mediated parenchymal fibrosis, with TGF-β boxed as the most potent pathogenic fibrogenic cytokine",
+        "It is 'Diffuse parenchymal lung inflammation', a TGF-β > VEGF mediated parenchymal fibrosis, with VEGF boxed as the most potent pathogenic fibrogenic cytokine",
+        "It is 'Diffuse parenchymal lung fibrosis', a PDGF > TGF-β mediated parenchymal fibrosis, with PDGF boxed as the most potent pathogenic fibrogenic cytokine"
+      ],
+      "ans": 0,
+      "exp": "The bullets read 'Diffuse parenchymal lung fibrosis' and 'TGF-β > PDGF mediated parenchymal fibrosis', and the side box states 'Note: TGF-β most potent pathogenic fibrogenic cytokine.' The inequality runs TGF-β first. (Book p236)"
+    },
+    {
+      "id": "MED-C39-04",
+      "sec": "Interstitium and Its Types, Lung Parenchyma, TGF-β/PDGF Fibrosis, ILD Classification and the Seven Idiopathic Interstitial Pneumonias",
+      "page": 236,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three of these are printed arms of the page 236 ILD classification tree, one is not:",
+      "opts": [
+        "Sarcoidosis",
+        "Pulmonary alveolar proteinosis",
+        "Hypersensitivity pneumonitis",
+        "Idiopathic interstitial pneumonia (m/c)"
+      ],
+      "ans": 1,
+      "exp": "The tree reads 'ILD → Idiopathic Interstitial pneumonia (m/c), Autoimmune ILD, Hypersensitivity pneumonitis, Sarcoidosis, miscellaneous'. PAP is not an arm of this tree; it appears separately at the end of the chapter on page 242. (Book p236)"
+    },
+    {
+      "id": "MED-C39-05",
+      "sec": "Interstitium and Its Types, Lung Parenchyma, TGF-β/PDGF Fibrosis, ILD Classification and the Seven Idiopathic Interstitial Pneumonias",
+      "page": 236,
+      "fmt": "match",
+      "q": "Match each idiopathic interstitial pneumonia with its printed rank on page 236 — 1) Idiopathic pulmonary fibrosis / usual interstitial pneumonia 2) Idiopathic nonspecific interstitial pneumonia 3) Cryptogenic organizing pneumonia … A) 3rd most common B) Most common C) 2nd most common",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 3,
+      "exp": "The numbered list reads '1. Idiopathic pulmonary fibrosis/usual interstitial pneumonia (UIP): m/c', '2. Idiopathic nonspecific interstitial pneumonia (NSIP): 2nd m/c' and '3. Cryptogenic organizing pneumonia (COP): 3rd m/c'. (Book p236)"
+    },
+    {
+      "id": "MED-C39-06",
+      "sec": "Interstitium and Its Types, Lung Parenchyma, TGF-β/PDGF Fibrosis, ILD Classification and the Seven Idiopathic Interstitial Pneumonias",
+      "page": 236,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the smoking brace in the idiopathic interstitial pneumonia list on page 236.",
+      "opts": [
+        "True — respiratory bronchiolitis interstitial lung disease (RB-ILD) and desquamative interstitial pneumonia (DIP) are bracketed together as 'Associated with smoking'",
+        "True — all seven idiopathic interstitial pneumonias are bracketed as associated with smoking",
+        "False — the brace covers acute interstitial pneumonia and lymphocytic interstitial pneumonia",
+        "False — only desquamative interstitial pneumonia is bracketed as associated with smoking"
+      ],
+      "ans": 0,
+      "exp": "Items 4 and 5, 'Respiratory bronchiolitis interstitial lung disease (RB-ILD)' and 'Desquamative interstitial pneumonia (DIP)', share one brace labelled 'Associated with smoking'. The brace covers exactly these two. (Book p236)"
+    },
+    {
+      "id": "MED-C39-07",
+      "sec": "Interstitium and Its Types, Lung Parenchyma, TGF-β/PDGF Fibrosis, ILD Classification and the Seven Idiopathic Interstitial Pneumonias",
+      "page": 236,
+      "fmt": "recall",
+      "q": "Which three bullets are printed under acute interstitial pneumonia, the sixth idiopathic interstitial pneumonia?",
+      "opts": [
+        "ARDS associated with diffuse alveolar damage; seen following COVID infection and viral infections; prognosis better than UIP",
+        "ARDS associated with diffuse alveolar damage; seen following bacterial sepsis; very poor prognosis",
+        "ARDS associated with diffuse alveolar damage; seen following COVID infection and viral infections; very poor prognosis",
+        "COP associated with diffuse alveolar damage; seen following COVID infection and viral infections; good prognosis"
+      ],
+      "ans": 2,
+      "exp": "Item 6 reads 'Acute interstitial pneumonia' with bullets 'ARDS associated with diffuse alveolar damage', 'Seen following COVID infection, viral infections' and 'very poor prognosis', before item 7, lymphocytic interstitial pneumonia (LIP). (Book p236)"
+    },
+    {
+      "id": "MED-C39-08",
+      "sec": "Interstitium and Its Types, Lung Parenchyma, TGF-β/PDGF Fibrosis, ILD Classification and the Seven Idiopathic Interstitial Pneumonias",
+      "page": 236,
+      "fmt": "scenario",
+      "q": "Weeks after a COVID infection a patient develops an ARDS picture, and the team discusses diffuse alveolar damage with a very poor prognosis. Which entry in the page 236 list does this reproduce?",
+      "opts": [
+        "Desquamative interstitial pneumonia",
+        "Acute interstitial pneumonia",
+        "Lymphocytic interstitial pneumonia",
+        "Cryptogenic organizing pneumonia"
+      ],
+      "ans": 1,
+      "exp": "Only acute interstitial pneumonia carries the bullets 'ARDS associated with diffuse alveolar damage', 'Seen following COVID infection, viral infections' and 'very poor prognosis'. COP is the 3rd most common type and DIP sits in the smoking brace. (Book p236)"
+    },
+    {
+      "id": "MED-C39-09",
+      "sec": "Autoimmune and Miscellaneous ILD (Occupational Lobes, Vasculitis, Inherited, Drug-Induced, LCH, LAM) with the UIP/NSIP/COP/LIP Important Points",
+      "page": 237,
+      "fmt": "recall",
+      "q": "Which six conditions are listed as prone to develop autoimmune ILD on page 237?",
+      "opts": [
+        "Rheumatoid arthritis, diffuse systemic sclerosis, polymyositis/dermatomyositis (inflammatory muscle disease), systemic lupus erythematosus, Sjogren's syndrome and ankylosing spondylitis",
+        "Rheumatoid arthritis, diffuse systemic sclerosis, inclusion body myositis, mixed connective tissue disease (MCTD), Sjogren's syndrome and reactive arthritis",
+        "Rheumatoid arthritis, diffuse systemic sclerosis, polymyositis/dermatomyositis (inflammatory muscle disease), mixed connective tissue disease (MCTD), Sjogren's syndrome and ankylosing spondylitis",
+        "Rheumatoid arthritis, limited systemic sclerosis, polymyositis/dermatomyositis (inflammatory muscle disease), mixed connective tissue disease (MCTD), Sjogren's syndrome and ankylosing spondylitis"
+      ],
+      "ans": 2,
+      "exp": "Under 'Conditions prone to develop ILD' the page lists rheumatoid arthritis, diffuse systemic sclerosis, polymyositis/dermatomyositis as inflammatory muscle disease, MCTD, Sjogren's syndrome and ankylosing spondylitis. The sclerosis entry is the diffuse form. (Book p237)"
+    },
+    {
+      "id": "MED-C39-10",
+      "sec": "Autoimmune and Miscellaneous ILD (Occupational Lobes, Vasculitis, Inherited, Drug-Induced, LCH, LAM) with the UIP/NSIP/COP/LIP Important Points",
+      "page": 237,
+      "fmt": "match",
+      "q": "Match each occupational ILD with the lobe printed against it on page 237 — 1) Asbestosis 2) Silicosis 3) Berylliosis 4) Coal-worker's pneumoconiosis … A) Upper lobe ILD B) Lower lobe ILD C) Upper lobe ILD (same brace) D) Upper lobe ILD (same brace)",
+      "opts": [
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-C, 3-D, 4-A",
+        "1-C, 2-A, 3-B, 4-D"
+      ],
+      "ans": 0,
+      "exp": "The miscellaneous list reads 'Asbestosis (Lower lobe ILD)' on its own, while silicosis, berylliosis and coal-worker's pneumoconiosis share one brace labelled 'Upper lobe ILD'. Asbestosis is the lone lower-lobe entry. (Book p237)"
+    },
+    {
+      "id": "MED-C39-11",
+      "sec": "Autoimmune and Miscellaneous ILD (Occupational Lobes, Vasculitis, Inherited, Drug-Induced, LCH, LAM) with the UIP/NSIP/COP/LIP Important Points",
+      "page": 237,
+      "fmt": "recall",
+      "q": "Which vasculitis-related, inherited and drug-induced entries complete the miscellaneous ILD list on page 237?",
+      "opts": [
+        "Vasculitis-related: granulomatosis with polyangiitis (GPA); inherited: neurofibromatosis and tuberous sclerosis; drug-induced: bleomycin",
+        "Vasculitis-related: eosinophilic granulomatosis polyangiitis (EGPA)/Churg-Strauss syndrome; inherited: neurofibromatosis and tuberous sclerosis; drug-induced: bleomycin",
+        "Vasculitis-related: eosinophilic granulomatosis polyangiitis (EGPA)/Churg-Strauss syndrome; inherited: tuberous sclerosis only; drug-induced: bleomycin",
+        "Vasculitis-related: eosinophilic granulomatosis polyangiitis (EGPA)/Churg-Strauss syndrome; inherited: neurofibromatosis and cystic fibrosis; drug-induced: amiodarone"
+      ],
+      "ans": 1,
+      "exp": "Items 2 to 4 read 'vasculitis-related ILD — Eosinophilic granulomatosis polyangiitis (EGPA)/Churg-Strauss syndrome', 'Inherited forms of ILD — Neurofibromatosis, Tuberous sclerosis' and 'Drug-induced forms of ILD: Bleomycin'. (Book p237)"
+    },
+    {
+      "id": "MED-C39-12",
+      "sec": "Autoimmune and Miscellaneous ILD (Occupational Lobes, Vasculitis, Inherited, Drug-Induced, LCH, LAM) with the UIP/NSIP/COP/LIP Important Points",
+      "page": 237,
+      "fmt": "fillup",
+      "q": "In the miscellaneous list, Langerhan's cell histiocytosis (LCH), as printed, carries the arrow annotation 'Associated with ______', and the final miscellaneous entry is lymphangio myomatosis (LAM).",
+      "opts": [
+        "tuberous sclerosis",
+        "viral infection",
+        "asbestos",
+        "smoking"
+      ],
+      "ans": 3,
+      "exp": "Item 5 reads 'Langerhan's cell histiocytosis (LCH) → Associated with smoking' (printed spelling 'Langerhan's'), and item 6 is 'Lymphangio myomatosis (LAM)', printed as two words. Tuberous sclerosis is an inherited-ILD entry two items above, not the LCH annotation. (Book p237)"
+    },
+    {
+      "id": "MED-C39-13",
+      "sec": "Autoimmune and Miscellaneous ILD (Occupational Lobes, Vasculitis, Inherited, Drug-Induced, LCH, LAM) with the UIP/NSIP/COP/LIP Important Points",
+      "page": 237,
+      "fmt": "recall",
+      "q": "Which 'Important points' are printed for UIP/IPF on page 237?",
+      "opts": [
+        "Idiopathic UIP/IPF is the most common; rheumatoid arthritis ILD occurs in females > males aged 30–40 years and is associated with smoking",
+        "Idiopathic UIP/IPF is the second most common; rheumatoid arthritis ILD occurs in males > females aged 50–70 years and is associated with smoking",
+        "Idiopathic UIP/IPF is the most common; rheumatoid arthritis ILD occurs in males > females aged 50–70 years with no smoking association printed",
+        "Idiopathic UIP/IPF is the most common; rheumatoid arthritis ILD occurs in males > females aged 50–70 years and is associated with smoking"
+      ],
+      "ans": 3,
+      "exp": "The box reads 'UIP/IPF: Idiopathic: m/c' and 'Rheumatoid arthritis ILD — males > females, 50–70 years, Associated with smoking'. The demographic triad belongs to the RA entry, not to idiopathic disease. (Book p237)"
+    },
+    {
+      "id": "MED-C39-14",
+      "sec": "Autoimmune and Miscellaneous ILD (Occupational Lobes, Vasculitis, Inherited, Drug-Induced, LCH, LAM) with the UIP/NSIP/COP/LIP Important Points",
+      "page": 237,
+      "fmt": "match",
+      "q": "Match each pattern with its page 237 'Important points' association — 1) NSIP 2) COP 3) LIP … A) Sjogren syndrome and HIV B) Young females with a subacute restrictive process, associated with drugs and connective tissue disease C) Most common pattern in inflammatory muscle disease (polymyositis and dermatomyositis)",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 2,
+      "exp": "NSIP is described as young females with a subacute restrictive process and associations of drug and connective tissue disease; COP is 'm/c in inflammatory muscle disease' branching to polymyositis and dermatomyositis; LIP lists Sjogren syndrome and HIV. (Book p237)"
+    },
+    {
+      "id": "MED-C39-15",
+      "sec": "Autoimmune and Miscellaneous ILD (Occupational Lobes, Vasculitis, Inherited, Drug-Induced, LCH, LAM) with the UIP/NSIP/COP/LIP Important Points",
+      "page": 237,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the closing Note on page 237.",
+      "opts": [
+        "True — the most common pattern of ILD is UIP in rheumatoid arthritis and NSIP in other conditions",
+        "False — the Note names COP as the most common pattern in rheumatoid arthritis",
+        "False — the most common pattern is NSIP in rheumatoid arthritis and UIP in other conditions",
+        "True — the most common pattern is UIP in every condition including the non-RA group"
+      ],
+      "ans": 0,
+      "exp": "The Note reads 'm/c pattern of ILD → RA: UIP; Other conditions: NSIP'. Rheumatoid arthritis is the exception that keeps the UIP pattern. (Book p237)"
+    },
+    {
+      "id": "MED-C39-16",
+      "sec": "Autoimmune and Miscellaneous ILD (Occupational Lobes, Vasculitis, Inherited, Drug-Induced, LCH, LAM) with the UIP/NSIP/COP/LIP Important Points",
+      "page": 237,
+      "fmt": "scenario",
+      "q": "A young woman with a connective tissue disease develops a subacute restrictive lung process. Using only the page 237 boxes, which pattern and which two associations fit her best?",
+      "opts": [
+        "LIP — associated with Sjogren syndrome and HIV",
+        "NSIP — young females, subacute restrictive process, associated with drugs and connective tissue disease",
+        "UIP — males over 50 years, associated with smoking",
+        "COP — most common in inflammatory muscle disease such as dermatomyositis"
+      ],
+      "ans": 1,
+      "exp": "The NSIP box reads 'Young females', 'Subacute restrictive process' and 'Associations → Drug, Connective tissue disease', matching all three elements of the vignette. (Book p237)"
+    },
+    {
+      "id": "MED-C39-17",
+      "sec": "Clinical Features of ILD: Cardinal Symptoms, the Crackles-and-Clubbing Table versus Bronchiectasis, Skin Signs, Pulmonary HTN Prognosis and CXR",
+      "page": 238,
+      "fmt": "recall",
+      "q": "Which two cardinal symptoms of ILD are printed on page 238, and what happens to them diagnostically?",
+      "opts": [
+        "Dry non-productive cough and dyspnea on exertion — together misdiagnosed as bronchial Asthma",
+        "Productive cough and dyspnea at rest — together misdiagnosed as bronchitis",
+        "Dry non-productive cough and hemoptysis — together misdiagnosed as bronchitis",
+        "Dry non-productive cough and dyspnea on exertion — together misdiagnosed as bronchitis"
+      ],
+      "ans": 3,
+      "exp": "The Symptoms block reads '2 cardinal symptoms → Dry non-productive cough, Dyspnea on exertion' with a brace to 'misdiagnosed as bronchitis'. Hemoptysis appears lower down as a rare additional symptom. (Book p238)"
+    },
+    {
+      "id": "MED-C39-18",
+      "sec": "Clinical Features of ILD: Cardinal Symptoms, the Crackles-and-Clubbing Table versus Bronchiectasis, Skin Signs, Pulmonary HTN Prognosis and CXR",
+      "page": 238,
+      "fmt": "match",
+      "q": "Match each additional symptom on page 238 with the condition printed against it — 1) Fever with arthralgia 2) Wheeze 3) Pleuritic pain 4) Hemoptysis … A) Asbestosis B) Sarcoidosis C) Rare, with no single condition attached D) Specific to bronchiectasis, ABPA and hypersensitivity pneumonitis",
+      "opts": [
+        "1-D, 2-B, 3-A, 4-C",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-B, 2-D, 3-A, 4-C",
+        "1-B, 2-D, 3-C, 4-A"
+      ],
+      "ans": 2,
+      "exp": "The list reads 'Fever + arthralgia (Sarcoidosis)', 'Wheeze: Specific to → Bronchiectasis, ABPA, Hypersensitivity pneumonitis', 'Pleuritic pain (Asbestosis)' and 'Hemoptysis (Rare)'. (Book p238)"
+    },
+    {
+      "id": "MED-C39-19",
+      "sec": "Clinical Features of ILD: Cardinal Symptoms, the Crackles-and-Clubbing Table versus Bronchiectasis, Skin Signs, Pulmonary HTN Prognosis and CXR",
+      "page": 238,
+      "fmt": "scenario",
+      "q": "On auscultation a patient has bilateral bibasal fine 'velcro' crackles, timed end to early expiratory as printed, with no variation on coughing or posture change. Which column of the page 238 table is this, and what does the other column show?",
+      "opts": [
+        "ILD — the bronchiectasis column instead shows unilateral, coarse, early to mid inspiratory crackles",
+        "ILD — the bronchiectasis column instead shows bilateral bibasal, fine crackles with variation on coughing",
+        "Bronchiectasis — the ILD column instead shows unilateral, coarse, early to mid inspiratory crackles",
+        "Bronchiectasis — the ILD column instead shows absent crackles with clubbing only"
+      ],
+      "ans": 0,
+      "exp": "The table gives ILD crackles as bilateral bibasal in site, 'End to early expiratory' in timing (as printed on p238), fine 'velcro crackles' in type and 'Absent' variation with cough/posture, against unilateral, early to mid inspiratory, coarse crackles in bronchiectasis, whose variation cell is left blank. (Book p238)"
+    },
+    {
+      "id": "MED-C39-20",
+      "sec": "Clinical Features of ILD: Cardinal Symptoms, the Crackles-and-Clubbing Table versus Bronchiectasis, Skin Signs, Pulmonary HTN Prognosis and CXR",
+      "page": 238,
+      "fmt": "recall",
+      "q": "What does the clubbing row of the page 238 table state for each disease?",
+      "opts": [
+        "Clubbing is present (+) in ILD and absent (−) in bronchiectasis, with the single exception of adult cystic bronchiectasis",
+        "Clubbing is present (+) in ILD and absent (−) in bronchiectasis, with the single exception of childhood cystic bronchiectasis",
+        "Clubbing is absent in ILD and present in bronchiectasis, with the single exception of childhood cystic bronchiectasis",
+        "Clubbing is present in both diseases, but coarser in bronchiectasis"
+      ],
+      "ans": 1,
+      "exp": "The row reads 'Clubbing: ILD +' versus bronchiectasis '− (Exception: Childhood cystic bronchiectasis)'. The exception is specified as childhood disease. (Book p238)"
+    },
+    {
+      "id": "MED-C39-21",
+      "sec": "Clinical Features of ILD: Cardinal Symptoms, the Crackles-and-Clubbing Table versus Bronchiectasis, Skin Signs, Pulmonary HTN Prognosis and CXR",
+      "page": 238,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three of these examination signs are printed under ILD on page 238 with their parent conditions, one pairing is not:",
+      "opts": [
+        "Cafe-au-lait spots (neurofibromatosis)",
+        "Erythema nodosum (sarcoidosis)",
+        "Raynaud's phenomenon (scleroderma)",
+        "Erythema nodosum (neurofibromatosis)"
+      ],
+      "ans": 3,
+      "exp": "The three bullets read 'Cafe-au-lait spots (Neurofibromatosis)', 'Erythema nodosum (Sarcoidosis)' and 'Raynaud's phenomenon (Scleroderma)'. Attaching erythema nodosum to neurofibromatosis swaps the printed parent condition. (Book p238)"
+    },
+    {
+      "id": "MED-C39-22",
+      "sec": "Clinical Features of ILD: Cardinal Symptoms, the Crackles-and-Clubbing Table versus Bronchiectasis, Skin Signs, Pulmonary HTN Prognosis and CXR",
+      "page": 238,
+      "fmt": "recall",
+      "q": "Which chain closes the signs section on page 238, and why does it matter?",
+      "opts": [
+        "Hypoxia → pulmonary vasoconstriction → pulmonary HTN, bracketed as the most significant factor for diagnosis of ILD",
+        "Hypercapnia → pulmonary vasoconstriction → pulmonary HTN, bracketed as the most common presenting feature of ILD",
+        "Hypoxia → pulmonary vasoconstriction → pulmonary HTN, bracketed as the most significant factor for prognosis of ILD",
+        "Hypoxia → pulmonary vasodilatation → pulmonary HTN, bracketed as the most significant factor for prognosis of ILD"
+      ],
+      "ans": 2,
+      "exp": "The bullet reads 'Hypoxia → Pulmonary vasoconstriction → Pulmonary HTN (most significant factor for prognosis of ILD)'. The pulmonary vascular response to hypoxia is constriction, in line with the boxed note on page 214. (Book p238)"
+    },
+    {
+      "id": "MED-C39-23",
+      "sec": "Clinical Features of ILD: Cardinal Symptoms, the Crackles-and-Clubbing Table versus Bronchiectasis, Skin Signs, Pulmonary HTN Prognosis and CXR",
+      "page": 238,
+      "fmt": "match",
+      "q": "Match each condition that 'presents directly with pulmonary HTN' with the test printed to rule it out — 1) Obstructive sleep apnea syndrome 2) ILD … A) CT scan B) Sleep study",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-B, 2-B",
+        "1-A, 2-B"
+      ],
+      "ans": 0,
+      "exp": "The Note reads 'Conditions that present directly with pulmonary HTN: 1. Obstructive sleep apnea syndrome (R/o with sleep study). 2. ILD (R/o with CT scan).' Each condition carries its own exclusion test. (Book p238)"
+    },
+    {
+      "id": "MED-C39-24",
+      "sec": "Clinical Features of ILD: Cardinal Symptoms, the Crackles-and-Clubbing Table versus Bronchiectasis, Skin Signs, Pulmonary HTN Prognosis and CXR",
+      "page": 238,
+      "fmt": "fillup",
+      "q": "Under Investigations, the CXR in ILD shows bilateral bibasal subpleural ______ infiltrates.",
+      "opts": [
+        "miliary / interstitial-nodular",
+        "reticular / reticulo-nodular",
+        "nodular / cavitating",
+        "alveolar / consolidative"
+      ],
+      "ans": 1,
+      "exp": "The CXR line reads 'Bilateral bibasal subpleural reticular/ reticulo-nodular infiltrates', shown on the chest film beside it. The distribution words bibasal and subpleural are given in the stem; the pattern words are reticular and reticulo-nodular. (Book p238)"
+    },
+    {
+      "id": "MED-C39-25",
+      "sec": "PFT in Initial versus Advanced ILD, HRCT as Investigation of Choice and the UIP Pattern with Its Image Captions and New Antifibrotic Drugs",
+      "page": 239,
+      "fmt": "match",
+      "q": "Match each PFT stage on page 239 with its printed findings — 1) Initial phase 2) Advanced disease … A) Type 3 respiration failure with ventilation impaired, FVC reduced three arrows down, FEV1/FVC normal or raised B) Type 1 respiratory failure with only diffusion impaired, impaired DLCO with normal FEV1 and FVC",
+      "opts": [
+        "1-A, 2-B",
+        "1-B, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-A"
+      ],
+      "ans": 3,
+      "exp": "The table reads 'Initial phase: Type 1 respiratory failure (Only diffusion impaired) — Impaired DLCO, Normal FEV1, FVC' and 'Advanced disease: Type 3 respiration failure (Ventilation impaired) — ↓↓↓ FVC, (N)/↑ FEV1/FVC' ('respiration' as printed). (Book p239)"
+    },
+    {
+      "id": "MED-C39-26",
+      "sec": "PFT in Initial versus Advanced ILD, HRCT as Investigation of Choice and the UIP Pattern with Its Image Captions and New Antifibrotic Drugs",
+      "page": 239,
+      "fmt": "recall",
+      "q": "What status and purpose are given to HRCT at the head of the HRCT section?",
+      "opts": [
+        "Investigation of choice, used to determine pattern and prognosis",
+        "Investigation of choice, used to determine etiology and infectivity",
+        "Screening test, used only when the CXR is normal",
+        "Gold standard, used to replace lung biopsy in every pattern"
+      ],
+      "ans": 0,
+      "exp": "The line reads 'Investigation of choice: To determine pattern and prognosis.' HRCT sorts the UIP and NSIP patterns that follow on pages 239–240 and thereby the outlook. (Book p239)"
+    },
+    {
+      "id": "MED-C39-27",
+      "sec": "PFT in Initial versus Advanced ILD, HRCT as Investigation of Choice and the UIP Pattern with Its Image Captions and New Antifibrotic Drugs",
+      "page": 239,
+      "fmt": "recall",
+      "q": "Which two HRCT shadows are bracketed as 'suggestive of UIP' on page 239, with their parenthetical meanings?",
+      "opts": [
+        "Reticular shadows (intralobular septal thickening) and linear shadows (net of linear opacities)",
+        "Linear shadows (intralobular septal thickening) and reticular shadows (net of linear opacities)",
+        "Linear shadows (intralobular septal thickening) and ground-glass shadows (net of linear opacities)",
+        "Linear shadows (interlobular septal thickening) and nodular shadows (net of linear opacities)"
+      ],
+      "ans": 1,
+      "exp": "The first two UIP bullets read 'Linear shadows (Intralobular septal thickening)' and 'Reticular shadows (Net of linear opacities)', sharing the small brace 'suggestive of UIP'. Nodules and ground glass are instead listed as absent in UIP. (Book p239)"
+    },
+    {
+      "id": "MED-C39-28",
+      "sec": "PFT in Initial versus Advanced ILD, HRCT as Investigation of Choice and the UIP Pattern with Its Image Captions and New Antifibrotic Drugs",
+      "page": 239,
+      "fmt": "recall",
+      "q": "Which subpleural, basal predominant features complete the 'Specific for UIP' brace?",
+      "opts": [
+        "Consolidation, loss of lung architecture and traction bronchiectasis",
+        "Honeycombing (large, round cystic spaces), loss of lung architecture and cylindrical bronchiectasis",
+        "Honeycombing (small, polyhedral cystic spaces), loss of lung architecture and traction bronchiectasis",
+        "Honeycombing (small, polyhedral cystic spaces), preserved lung architecture and traction bronchiectasis"
+      ],
+      "ans": 2,
+      "exp": "The third UIP bullet, 'Subpleural, basal predominant', arrows to 'Honeycombing (Small, polyhedral cystic spaces)', 'Loss of lung architecture' and 'Traction bronchiectasis', and the large brace over the whole UIP set is labelled 'Specific for UIP'. (Book p239)"
+    },
+    {
+      "id": "MED-C39-29",
+      "sec": "PFT in Initial versus Advanced ILD, HRCT as Investigation of Choice and the UIP Pattern with Its Image Captions and New Antifibrotic Drugs",
+      "page": 239,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three of these belong to the printed UIP picture on page 239, one is listed as absent in UIP:",
+      "opts": [
+        "Honeycombing",
+        "Traction bronchiectasis",
+        "Ground glass opacification",
+        "Reticular shadows"
+      ],
+      "ans": 2,
+      "exp": "Under 'Features absent in UIP' the page lists only 'Nodules' and 'Ground glass opacification'. Reticular shadows, honeycombing and traction bronchiectasis are core UIP features on the same page. (Book p239)"
+    },
+    {
+      "id": "MED-C39-30",
+      "sec": "PFT in Initial versus Advanced ILD, HRCT as Investigation of Choice and the UIP Pattern with Its Image Captions and New Antifibrotic Drugs",
+      "page": 239,
+      "fmt": "match",
+      "q": "Match each captioned HRCT image on page 239 with its printed caption position — 1) Image captioned beneath the top-row scans 2) Bottom-left image with red circles 3) Bottom-middle image 4) Bottom-right image … A) Linear shadows B) Honeycombing C) Traction bronchiectasis D) Reticular shadows",
+      "opts": [
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-C, 3-D, 4-A",
+        "1-B, 2-D, 3-C, 4-A",
+        "1-B, 2-C, 3-A, 4-D"
+      ],
+      "ans": 1,
+      "exp": "The six scans carry the captions 'Honeycombing' under the top row and, left to right below, 'Traction bronchiectasis' (with red circles), 'Reticular shadows' and 'Linear shadows'. (Book p239)"
+    },
+    {
+      "id": "MED-C39-31",
+      "sec": "PFT in Initial versus Advanced ILD, HRCT as Investigation of Choice and the UIP Pattern with Its Image Captions and New Antifibrotic Drugs",
+      "page": 239,
+      "fmt": "management",
+      "q": "Which new drugs for UIP-ILD close page 239, with their printed targets?",
+      "opts": [
+        "Pirfenidone (Anti-TGF) and nintedanib (Anti-FDGF as printed, anti VEGF, anti PDGFR)",
+        "Nintedanib (Anti-TGF) and pirfenidone (Anti-FDGF as printed, anti VEGF, anti PDGFR)",
+        "Pirfenidone (Anti-PDGF) and nintedanib (Anti-TGF, anti VEGF, anti PDGFR)",
+        "Pirfenidone (Anti-TGF) and everolimus, an mTOR inhibitor"
+      ],
+      "ans": 0,
+      "exp": "The Note reads 'New drugs for treatment of UIP-ILD: Pirfenidone (Anti-TGF). Nintedanib (Anti-FDGF, anti VEGF, anti PDGFR).' 'FDGF' is preserved as printed; everolimus belongs to LAM on the next page. (Book p239)"
+    },
+    {
+      "id": "MED-C39-32",
+      "sec": "PFT in Initial versus Advanced ILD, HRCT as Investigation of Choice and the UIP Pattern with Its Image Captions and New Antifibrotic Drugs",
+      "page": 239,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the UIP pattern assembled on page 239.",
+      "opts": [
+        "False — UIP is perihilar and apical predominant on this page",
+        "False — ground glass opacification is listed as a specific feature of UIP",
+        "True — UIP is subpleural and basal predominant, and nodules are its specific feature",
+        "True — UIP is subpleural and basal predominant, and ground glass opacification is printed as absent in UIP"
+      ],
+      "ans": 3,
+      "exp": "The bullets give 'Subpleural, basal predominant' distribution, while 'Features absent in UIP' lists nodules and ground glass opacification. Both halves of the False options invert the page. (Book p239)"
+    },
+    {
+      "id": "MED-C39-33",
+      "sec": "NSIP Pattern and Its Treatment, Drugs Causing ILD, COP/BOOP with Halo Signs, and Cysts on HRCT (LAM, LCH, LIP)",
+      "page": 240,
+      "fmt": "recall",
+      "q": "Which five HRCT statements define the NSIP pattern on page 240?",
+      "opts": [
+        "Bilateral postero-basal ground-glass appearance, destruction of lung parenchyma present, no honeycombing, no cystic spaces, and prognosis NSIP > UIP",
+        "Bilateral postero-basal ground-glass appearance, no destruction of lung parenchyma, no honeycombing, no cystic spaces, and prognosis NSIP > UIP",
+        "Bilateral postero-basal reticular appearance, no destruction of lung parenchyma, no honeycombing, cystic spaces present, and prognosis NSIP > UIP",
+        "Unilateral postero-basal ground-glass appearance, no destruction of lung parenchyma, honeycombing present, no cystic spaces, and prognosis UIP > NSIP"
+      ],
+      "ans": 1,
+      "exp": "The NSIP bullets read 'B/L postero-basal ground-glass appearance', 'No destruction of lung parenchyma', 'No honeycombing', 'No cystic spaces' and 'Prognosis: NSIP > UIP', beside its CT image. (Book p240)"
+    },
+    {
+      "id": "MED-C39-34",
+      "sec": "NSIP Pattern and Its Treatment, Drugs Causing ILD, COP/BOOP with Halo Signs, and Cysts on HRCT (LAM, LCH, LIP)",
+      "page": 240,
+      "fmt": "management",
+      "q": "Which treatment ranking is printed in the Note beside the NSIP pattern?",
+      "opts": [
+        "Azathioprine is best, followed in the list by steroids and MMF",
+        "Steroids are best, followed in the list by MMF and azathioprine",
+        "MMF is best (printed 'MMF (Best)'), followed in the list by steroids and azathioprine",
+        "Pirfenidone is best, followed in the list by nintedanib and steroids"
+      ],
+      "ans": 2,
+      "exp": "The Note reads 'Rx: MMF (Best). Steroids. Azathioprine.' The antifibrotics pirfenidone and nintedanib belong to UIP-ILD on page 239, not to NSIP. (Book p240)"
+    },
+    {
+      "id": "MED-C39-35",
+      "sec": "NSIP Pattern and Its Treatment, Drugs Causing ILD, COP/BOOP with Halo Signs, and Cysts on HRCT (LAM, LCH, LIP)",
+      "page": 240,
+      "fmt": "recall",
+      "q": "Which ten drugs are listed as causing ILD with an NSIP pattern on page 240?",
+      "opts": [
+        "Amiodarone, bleomycin, busulfan, bromocriptine, nitrofurantoin, cyclophosphamide, methotrexate, anti-TNF, cisplatin and mitomycin",
+        "Amiodarone, bleomycin, busulfan, bromocriptine, minocycline, cyclophosphamide, methotrexate, anti-TNF, carmustine and mitomycin",
+        "Amiodarone, bleomycin, busulfan, dantrolene, nitrofurantoin, cyclophosphamide, methotrexate, anti-TNF, carmustine and mitomycin",
+        "Amiodarone, bleomycin, busulfan, bromocriptine, nitrofurantoin, cyclophosphamide, methotrexate, anti-TNF, carmustine and mitomycin"
+      ],
+      "ans": 3,
+      "exp": "Under 'Drugs causing ILD (NSIP pattern)' the two columns read amiodarone, bleomycin, busulfan, bromocriptine, nitrofurantoin, and cyclophosphamide, methotrexate, anti-TNF, carmustine, mitomycin. Minocycline and dantrolene appear in other chapters' drug lists, not this one. (Book p240)"
+    },
+    {
+      "id": "MED-C39-36",
+      "sec": "NSIP Pattern and Its Treatment, Drugs Causing ILD, COP/BOOP with Halo Signs, and Cysts on HRCT (LAM, LCH, LIP)",
+      "page": 240,
+      "fmt": "fillup",
+      "q": "In that drug list, cyclophosphamide and methotrexate alone share a brace pointing to a different disease: ______.",
+      "opts": [
+        "Hypersensitivity pneumonitis",
+        "Pulmonary alveolar proteinosis",
+        "Acute eosinophilic pneumonia",
+        "Usual interstitial pneumonia"
+      ],
+      "ans": 0,
+      "exp": "Cyclophosphamide and methotrexate are bracketed together to 'Hypersensitivity pneumonitis', while the whole list is headed 'Drugs causing ILD (NSIP pattern)'. No other drug in the list carries this side brace. (Book p240)"
+    },
+    {
+      "id": "MED-C39-37",
+      "sec": "NSIP Pattern and Its Treatment, Drugs Causing ILD, COP/BOOP with Halo Signs, and Cysts on HRCT (LAM, LCH, LIP)",
+      "page": 240,
+      "fmt": "recall",
+      "q": "Which COP/BOOP profile opens its section on page 240?",
+      "opts": [
+        "Young females (30–40 years) with polypoid plugs (Masson's buds) in bronchioles, a pneumonia-like presentation, and associations of polymyositis/dermatomyositis",
+        "Elderly males (>60–70 years as printed) with caseating granulomas in bronchioles, a pneumonia-like presentation, and associations of polymyositis/dermatomyositis",
+        "Elderly males (>60–70 years as printed) with polypoid plugs (Masson's buds) in bronchioles, a pneumonia-like presentation, and associations of polymyositis/dermatomyositis",
+        "Elderly males (>60–70 years as printed) with polypoid plugs (Masson's buds) in alveoli, an Asthma-like presentation, and associations of Sjogren syndrome"
+      ],
+      "ans": 2,
+      "exp": "Under 'COP/BOOP (Bronchiolitis Obliterans Organising Pneumonia)' the bullets read 'Elderly males (>60–70 years)', 'Polypoid plugs (masson's buds) in bronchioles', 'Pneumonia like presentation' and 'Associations: Polymyositis/Dermatomyositis'. (Book p240)"
+    },
+    {
+      "id": "MED-C39-38",
+      "sec": "NSIP Pattern and Its Treatment, Drugs Causing ILD, COP/BOOP with Halo Signs, and Cysts on HRCT (LAM, LCH, LIP)",
+      "page": 240,
+      "fmt": "match",
+      "q": "Match each COP feature on page 240 with its printed partner — 1) Restrictive type 2) Constrictive type with obstructive pattern 3) Reverse-halo sign 4) Halo sign … A) Consolidation surrounded by GGO, in invasive aspergillosis B) Most common type, responds to steroids C) GGO surrounded by consolidation, the caption on the COP scan D) No response to steroids",
+      "opts": [
+        "1-D, 2-B, 3-C, 4-A",
+        "1-B, 2-D, 3-C, 4-A",
+        "1-B, 2-C, 3-D, 4-A",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 1,
+      "exp": "HRCT in COP gives consolidations (peribronchial, perilobar opacities) and ground-glass opacities; types split into 'Restrictive (m/c): Responds to steroids' and 'Constrictive (Obstructive pattern): No response to steroids'. The scan is captioned 'Reverse-halo sign (GGO surrounded by consolidation)', and the Note contrasts 'Halo sign (Consolidation surrounded by GGO) in invasive aspergillosis'. (Book p240)"
+    },
+    {
+      "id": "MED-C39-39",
+      "sec": "NSIP Pattern and Its Treatment, Drugs Causing ILD, COP/BOOP with Halo Signs, and Cysts on HRCT (LAM, LCH, LIP)",
+      "page": 240,
+      "fmt": "scenario",
+      "q": "A young woman with tuberous sclerosis and an angiomyolipoma presents with a spontaneous pneumothorax and a chylous effusion, and her HRCT shows cysts. Which labelled cyst panel and which printed drug apply?",
+      "opts": [
+        "LCH — treated with everolimus, an mTOR inhibitor",
+        "LAM — treated with pirfenidone, an anti-TGF drug",
+        "LIP — treated with MMF as best therapy",
+        "LAM — treated with everolimus, an mTOR inhibitor"
+      ],
+      "ans": 3,
+      "exp": "The LAM panel reads 'Young females', associations of tuberous sclerosis and angiomyolipoma, complications of spontaneous pneumothorax and chylous effusion, and 'Rx: Everolimus (mTOR inhibitor)'. Every element of the vignette is in that one panel. (Book p240)"
+    },
+    {
+      "id": "MED-C39-40",
+      "sec": "NSIP Pattern and Its Treatment, Drugs Causing ILD, COP/BOOP with Halo Signs, and Cysts on HRCT (LAM, LCH, LIP)",
+      "page": 240,
+      "fmt": "recall",
+      "q": "Which pathology markers and associations are printed under the LCH cyst panel?",
+      "opts": [
+        "A young male with upper lobe fibrosis and spontaneous pneumothorax as complication; pathology CD1a positive and Birbeck granules positive; associations smoking, lytic lesions and diabetes insipidus",
+        "A young female with lower lobe fibrosis and chylous effusion as complication; pathology CD1a positive and Birbeck granules positive; associations smoking, lytic lesions and diabetes insipidus",
+        "A young male with upper lobe fibrosis and spontaneous pneumothorax as complication; pathology CD20 positive and Birbeck granules negative; associations smoking, lytic lesions and diabetes insipidus",
+        "A young male with upper lobe fibrosis and spontaneous pneumothorax as complication; pathology CD1a positive and Birbeck granules positive; associations tuberous sclerosis and angiomyolipoma"
+      ],
+      "ans": 0,
+      "exp": "The LCH panel reads 'Young male', 'Upper lobe fibrosis', 'Complication: Spontaneous pneumothorax', 'Pathology: CD1A (+), Birbeck granules (+)' and 'Associations: Smoking, Lytic lesions, Diabetes insipidus'. The tuberous sclerosis pair belongs to the LAM panel beside it. (Book p240)"
+    },
+    {
+      "id": "MED-C39-41",
+      "sec": "NSIP Pattern and Its Treatment, Drugs Causing ILD, COP/BOOP with Halo Signs, and Cysts on HRCT (LAM, LCH, LIP)",
+      "page": 240,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three of these statements are printed on page 240, one reverses the page:",
+      "opts": [
+        "LIP is associated with tuberous sclerosis and angiomyolipoma",
+        "NSIP has a better prognosis than UIP",
+        "LIP is associated with Sjogren's syndrome and HIV",
+        "COP of restrictive type responds to steroids"
+      ],
+      "ans": 0,
+      "exp": "The LIP panel lists only 'Sjogren's' and 'HIV' as associations, exactly as on page 237. Tuberous sclerosis and angiomyolipoma are the LAM associations in the neighbouring panel. (Book p240)"
+    },
+    {
+      "id": "MED-C39-42",
+      "sec": "HRCT Finding–Disease Table, Nodular Shadows and Tree-in-Bud Notes with the Mosaic Attenuation and Lower-Lobe Infiltrate Captions",
+      "page": 241,
+      "fmt": "match",
+      "q": "Match each HRCT finding with the disease in the page 241 table — 1) Reticular and linear shadows 2) Ground glass opacities 3) Consolidations 4) Mosaic attenuation with air trapping … A) HP B) UIP C) COP D) NSIP",
+      "opts": [
+        "1-B, 2-C, 3-D, 4-A",
+        "1-B, 2-D, 3-C, 4-A",
+        "1-D, 2-B, 3-C, 4-A",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 1,
+      "exp": "The table pairs reticular & linear shadows with UIP, ground glass opacities with NSIP, consolidations with COP, and mosaic attenuation/air trapping with HP. (Book p241)"
+    },
+    {
+      "id": "MED-C39-43",
+      "sec": "HRCT Finding–Disease Table, Nodular Shadows and Tree-in-Bud Notes with the Mosaic Attenuation and Lower-Lobe Infiltrate Captions",
+      "page": 241,
+      "fmt": "match",
+      "q": "Match each remaining HRCT finding with its table disease — 1) Nodular shadows 2) Cysts 3) Traction bronchiectasis 4) Honeycombing … A) UIP B) LCH/LAM/LIP C) LCH/LAM D) UIP again",
+      "opts": [
+        "1-B, 2-C, 3-A, 4-D",
+        "1-C, 2-B, 3-D, 4-A",
+        "1-C, 2-B, 3-A, 4-D",
+        "1-C, 2-A, 3-B, 4-D"
+      ],
+      "ans": 2,
+      "exp": "The table pairs nodular shadows with LCH/LAM, cysts with the wider trio LCH/LAM/LIP, and both traction bronchiectasis and honeycombing with UIP — so UIP appears against three findings in this table (reticular/linear, traction, honeycombing). (Book p241)"
+    },
+    {
+      "id": "MED-C39-44",
+      "sec": "HRCT Finding–Disease Table, Nodular Shadows and Tree-in-Bud Notes with the Mosaic Attenuation and Lower-Lobe Infiltrate Captions",
+      "page": 241,
+      "fmt": "recall",
+      "q": "Which four causes are listed for nodular shadows on HRCT in the page 241 Note?",
+      "opts": [
+        "LAM, LCH, UIP and RB-ILD",
+        "LAM, LCH, LIP and COP",
+        "LCH, LIP, RB-ILD and NSIP",
+        "LAM, LCH, LIP and RB-ILD"
+      ],
+      "ans": 3,
+      "exp": "Note 1 reads 'Nodular shadows on HRCT: Non-specific feature; Causes: LAM, LCH, LIP, RB-ILD', beside the four scans captioned 'HRCT findings in ILD: Nodular shadows'. The Note list is wider than the table row above it, which names only LCH/LAM. (Book p241)"
+    },
+    {
+      "id": "MED-C39-45",
+      "sec": "HRCT Finding–Disease Table, Nodular Shadows and Tree-in-Bud Notes with the Mosaic Attenuation and Lower-Lobe Infiltrate Captions",
+      "page": 241,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about nodular shadows as printed on page 241.",
+      "opts": [
+        "True — nodular shadows are specific for LCH and exclude LAM",
+        "False — nodular shadows are called specific for UIP on this page",
+        "False — the Note and the table give identical cause lists for nodular shadows",
+        "True — nodular shadows are called a non-specific feature, and their cause list in the Note adds LIP and RB-ILD to the table's LCH/LAM"
+      ],
+      "ans": 3,
+      "exp": "The Note explicitly calls nodular shadows a 'Non-specific feature' and lists LAM, LCH, LIP and RB-ILD, whereas the summary table pairs nodular shadows only with LCH/LAM. Specificity on page 239 belonged to the UIP set, not to nodules. (Book p241)"
+    },
+    {
+      "id": "MED-C39-46",
+      "sec": "HRCT Finding–Disease Table, Nodular Shadows and Tree-in-Bud Notes with the Mosaic Attenuation and Lower-Lobe Infiltrate Captions",
+      "page": 241,
+      "fmt": "recall",
+      "q": "What mechanism and association are printed for the tree-in-bud appearance on HRCT?",
+      "opts": [
+        "It arises due to endobronchial dilatation and is associated with fibrosis",
+        "It arises due to endobronchial obstruction and is associated with malignancy",
+        "It arises due to endobronchial obstruction and is associated with infections",
+        "It arises due to vascular occlusion and is associated with infections"
+      ],
+      "ans": 2,
+      "exp": "Note 2 reads 'Tree in bud appearance on HRCT: D/t endobronchial obstruction. Associated with infections.' The same appearance is labelled on the ABPA scan on page 254. (Book p241)"
+    },
+    {
+      "id": "MED-C39-47",
+      "sec": "HRCT Finding–Disease Table, Nodular Shadows and Tree-in-Bud Notes with the Mosaic Attenuation and Lower-Lobe Infiltrate Captions",
+      "page": 241,
+      "fmt": "fillup",
+      "q": "The four lower-right scans on page 241 are captioned 'mosaic attenuation in ILD', and the disease named in brackets beneath is ______.",
+      "opts": [
+        "Hypersensitivity pneumonitis",
+        "Nonspecific interstitial pneumonia",
+        "Cryptogenic organizing pneumonia",
+        "Usual interstitial pneumonia"
+      ],
+      "ans": 0,
+      "exp": "The caption reads 'mosaic attenuation in ILD (Hypersensitivity pneumonitis)', matching the table row that pairs mosaic attenuation and air trapping with HP. (Book p241)"
+    },
+    {
+      "id": "MED-C39-48",
+      "sec": "HRCT Finding–Disease Table, Nodular Shadows and Tree-in-Bud Notes with the Mosaic Attenuation and Lower-Lobe Infiltrate Captions",
+      "page": 241,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three of these captions or pairings are printed on page 241, one is not:",
+      "opts": [
+        "Cysts paired with LCH/LAM/LIP in the table",
+        "'Ill-defined infiltrates in upper lobe' beneath the lower-left scan",
+        "'HRCT findings in ILD: Nodular shadows' beneath the upper scans",
+        "Honeycombing paired with UIP in the table"
+      ],
+      "ans": 1,
+      "exp": "The lower-left scan is captioned 'Ill-defined infiltrates in lower lobe', not upper lobe. The nodular-shadows caption and the cyst and honeycombing pairings are printed exactly as the other options state. (Book p241)"
+    },
+    {
+      "id": "MED-C39-49",
+      "sec": "Conditions with Upper-Lobe ILD, the LL Reticular Caption in IPF, and Pulmonary Alveolar Proteinosis (PAP)",
+      "page": 242,
+      "fmt": "match",
+      "q": "Match each upper-lobe ILD group on page 242 with its printed members — 1) Occupational lung disorders 2) CTDs … A) Sarcoidosis and ankylosing spondylitis B) Silicosis, berylliosis and coal-worker's pneumoconiosis",
+      "opts": [
+        "1-A, 2-A",
+        "1-B, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-B"
+      ],
+      "ans": 2,
+      "exp": "Under '3. Conditions with upper-lobe ILD' the occupational bullet arrows to silicosis, berylliosis and coal-worker's pneumoconiosis, while the CTDs bullet arrows to sarcoidosis and ankylosing spondylitis — sarcoidosis sits inside the CTD brace as printed. (Book p242)"
+    },
+    {
+      "id": "MED-C39-50",
+      "sec": "Conditions with Upper-Lobe ILD, the LL Reticular Caption in IPF, and Pulmonary Alveolar Proteinosis (PAP)",
+      "page": 242,
+      "fmt": "recall",
+      "q": "Which single-line entries complete the upper-lobe ILD list after the occupational and CTD groups?",
+      "opts": [
+        "ABPA, hypersensitivity pneumonitis, TB (fibrosis of LL) and LAM",
+        "ABPA, hypersensitivity pneumonitis, sarcoidosis and LCH",
+        "Asbestosis, hypersensitivity pneumonitis, TB (fibrosis of UL) and LCH",
+        "ABPA, hypersensitivity pneumonitis, TB (fibrosis of UL) and LCH"
+      ],
+      "ans": 3,
+      "exp": "The remaining bullets read 'ABPA', 'Hypersensitivity pneumonitis', 'TB (Fibrosis of UL)' and 'LCH'. Asbestosis was the lower-lobe occupational exception on page 237 and does not reappear here. (Book p242)"
+    },
+    {
+      "id": "MED-C39-51",
+      "sec": "Conditions with Upper-Lobe ILD, the LL Reticular Caption in IPF, and Pulmonary Alveolar Proteinosis (PAP)",
+      "page": 242,
+      "fmt": "recall",
+      "q": "What caption is printed beneath the chest film that illustrates this upper-lobe page?",
+      "opts": [
+        "'UL reticular shadows in IPF'",
+        "'LL reticular shadows in IPF', as printed",
+        "'Bilateral reticular shadows in NSIP'",
+        "'LL nodular shadows in IPF', as printed"
+      ],
+      "ans": 1,
+      "exp": "Despite heading a page about upper-lobe disease, the film is captioned 'LL reticular shadows in IPF' — preserved verbatim, since IPF/UIP is the basal-predominant pattern of page 239. (Book p242)"
+    },
+    {
+      "id": "MED-C39-52",
+      "sec": "Conditions with Upper-Lobe ILD, the LL Reticular Caption in IPF, and Pulmonary Alveolar Proteinosis (PAP)",
+      "page": 242,
+      "fmt": "numeric",
+      "q": "Which demographic line opens the PAP section on page 242?",
+      "opts": [
+        "30–50, male (printed without a years unit)",
+        "30–50, female",
+        "20–30, female",
+        "50–70, male (printed without a years unit)"
+      ],
+      "ans": 0,
+      "exp": "Under 'PAP (Pulmonary Alveolar Proteinosis)' the first bullet reads '30–50 male', with no age unit printed. The 50–70 span belongs to rheumatoid arthritis ILD on page 237. (Book p242)"
+    },
+    {
+      "id": "MED-C39-53",
+      "sec": "Conditions with Upper-Lobe ILD, the LL Reticular Caption in IPF, and Pulmonary Alveolar Proteinosis (PAP)",
+      "page": 242,
+      "fmt": "match",
+      "q": "Match each PAP type with its printed mechanism — 1) Congenital 2) Acquired … A) Antibodies against GM-CSF causing reduced surfactant clearance, and marked most common B) Surfactant protein SP-B mutation",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-B, 2-B",
+        "1-A, 2-B"
+      ],
+      "ans": 0,
+      "exp": "The Types brace reads 'Congenital: Surfactant Protein (SP)-B mutation' and 'Acquired (m/c): Antibodies against GM-CSF → ↓ surfactant clearance'. Only the acquired arm carries the m/c tag and the clearance arrow. (Book p242)"
+    },
+    {
+      "id": "MED-C39-54",
+      "sec": "Conditions with Upper-Lobe ILD, the LL Reticular Caption in IPF, and Pulmonary Alveolar Proteinosis (PAP)",
+      "page": 242,
+      "fmt": "fillup",
+      "q": "In PAP the reduced surfactant clearance produces the clinical feature of chunky gelatinous sputum that is ______ positive.",
+      "opts": [
+        "GMS",
+        "AFB",
+        "Gram",
+        "PAS"
+      ],
+      "ans": 3,
+      "exp": "The arrow from '↓ surfactant clearance' ends at 'C/F: Chunky gelatinous sputum (PAS +)'. GMS staining belongs to the Aspergillus tissue image on page 253. (Book p242)"
+    },
+    {
+      "id": "MED-C39-55",
+      "sec": "Conditions with Upper-Lobe ILD, the LL Reticular Caption in IPF, and Pulmonary Alveolar Proteinosis (PAP)",
+      "page": 242,
+      "fmt": "management",
+      "q": "Which X-ray appearance, differential and treatment close the PAP section?",
+      "opts": [
+        "X-ray batwing appearance, differential diagnosis berylliosis, and treatment by lung transplantation",
+        "X-ray batwing appearance, differential diagnosis silicosis, and treatment by whole lung lavage",
+        "X-ray reverse batwing appearance, differential diagnosis asbestosis, and treatment by whole lung lavage",
+        "X-ray batwing appearance, differential diagnosis silicosis, and treatment by GM-CSF antibodies"
+      ],
+      "ans": 1,
+      "exp": "The closing bullets read 'X-ray: Batwing appearance', 'D/d: Silicosis' and 'Rx: Whole lung lavage'. Reverse bat wing is the chronic eosinophilic pneumonia image on page 252, not PAP. (Book p242)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U39-1",
+      "ch": 39,
+      "n": 1,
+      "title": "Interstitium and Its Types, Lung Parenchyma, TGF-β/PDGF Fibrosis, ILD Classification and the Seven Idiopathic Interstitial Pneumonias",
+      "sec": "Interstitium and Its Types, Lung Parenchyma, TGF-β/PDGF Fibrosis, ILD Classification and the Seven Idiopathic Interstitial Pneumonias",
+      "guide": "The interstitium (p236) is connective tissue holding the lungs together: alveolar (subpleural and lobar), vascular (surrounds vessels) and axial (connects lung to chest wall); lung parenchyma is alveoli plus alveolar and vascular interstitium.\nILD is 'diffuse parenchymal lung fibrosis', TGF-β > PDGF mediated, with TGF-β boxed as the most potent pathogenic fibrogenic cytokine, and classifies into idiopathic interstitial pneumonia (most common), autoimmune ILD, hypersensitivity pneumonitis, sarcoidosis and miscellaneous.\nThe seven idiopathic interstitial pneumonias run IPF/UIP (most common), NSIP (2nd), COP (3rd), RB-ILD and DIP bracketed as smoking-associated, acute interstitial pneumonia (ARDS with diffuse alveolar damage after COVID/viral infection, very poor prognosis), and LIP.",
+      "qs": [
+        "MED-C39-01",
+        "MED-C39-02",
+        "MED-C39-03",
+        "MED-C39-04",
+        "MED-C39-05",
+        "MED-C39-06",
+        "MED-C39-07",
+        "MED-C39-08"
+      ]
+    },
+    {
+      "id": "MED-U39-2",
+      "ch": 39,
+      "n": 2,
+      "title": "Autoimmune and Miscellaneous ILD (Occupational Lobes, Vasculitis, Inherited, Drug-Induced, LCH, LAM) with the UIP/NSIP/COP/LIP Important Points",
+      "sec": "Autoimmune and Miscellaneous ILD (Occupational Lobes, Vasculitis, Inherited, Drug-Induced, LCH, LAM) with the UIP/NSIP/COP/LIP Important Points",
+      "guide": "Autoimmune ILD (p237) complicates rheumatoid arthritis, diffuse systemic sclerosis, polymyositis/dermatomyositis, MCTD, Sjogren's syndrome and ankylosing spondylitis.\nMiscellaneous ILD covers occupational disease (asbestosis lower lobe; silicosis, berylliosis and coal-worker's pneumoconiosis upper lobe), EGPA/Churg-Strauss vasculitis, inherited neurofibromatosis and tuberous sclerosis, bleomycin, smoking-associated LCH (printed 'Langerhan's') and LAM.\nImportant points: idiopathic UIP/IPF is most common and RA-ILD affects smoking males of 50–70 years; NSIP affects young females as a subacute restrictive process linked to drugs and connective tissue disease; COP is most common in inflammatory muscle disease; LIP links to Sjogren syndrome and HIV; and the commonest pattern is UIP in RA but NSIP in other conditions.",
+      "qs": [
+        "MED-C39-09",
+        "MED-C39-10",
+        "MED-C39-11",
+        "MED-C39-12",
+        "MED-C39-13",
+        "MED-C39-14",
+        "MED-C39-15",
+        "MED-C39-16"
+      ]
+    },
+    {
+      "id": "MED-U39-3",
+      "ch": 39,
+      "n": 3,
+      "title": "Clinical Features of ILD: Cardinal Symptoms, the Crackles-and-Clubbing Table versus Bronchiectasis, Skin Signs, Pulmonary HTN Prognosis and CXR",
+      "sec": "Clinical Features of ILD: Cardinal Symptoms, the Crackles-and-Clubbing Table versus Bronchiectasis, Skin Signs, Pulmonary HTN Prognosis and CXR",
+      "guide": "ILD (p238) presents with two cardinal symptoms, dry non-productive cough and dyspnea on exertion, often misdiagnosed as bronchitis; fever with arthralgia suggests sarcoidosis, wheeze is specific to bronchiectasis/ABPA/hypersensitivity pneumonitis, pleuritic pain to asbestosis, and hemoptysis is rare.\nCrackles in ILD are bilateral bibasal, fine 'velcro', end to early expiratory as printed, without cough/posture variation, against unilateral coarse early-to-mid inspiratory crackles in bronchiectasis; clubbing is present in ILD and absent in bronchiectasis except childhood cystic bronchiectasis, with cafe-au-lait spots, erythema nodosum and Raynaud's pointing to neurofibromatosis, sarcoidosis and scleroderma.\nHypoxia drives pulmonary vasoconstriction to pulmonary HTN, the most significant prognostic factor; OSAS (ruled out by sleep study) and ILD (by CT scan) present directly with pulmonary HTN, and the CXR shows bilateral bibasal subpleural reticular/reticulo-nodular infiltrates.",
+      "qs": [
+        "MED-C39-17",
+        "MED-C39-18",
+        "MED-C39-19",
+        "MED-C39-20",
+        "MED-C39-21",
+        "MED-C39-22",
+        "MED-C39-23",
+        "MED-C39-24"
+      ]
+    },
+    {
+      "id": "MED-U39-4",
+      "ch": 39,
+      "n": 4,
+      "title": "PFT in Initial versus Advanced ILD, HRCT as Investigation of Choice and the UIP Pattern with Its Image Captions and New Antifibrotic Drugs",
+      "sec": "PFT in Initial versus Advanced ILD, HRCT as Investigation of Choice and the UIP Pattern with Its Image Captions and New Antifibrotic Drugs",
+      "guide": "Initially (p239) ILD is a type 1 respiratory failure with only diffusion impaired — impaired DLCO with normal FEV1 and FVC — advancing to type 3 failure with ventilation impaired, FVC falling sharply and FEV1/FVC normal or raised.\nHRCT is the investigation of choice to determine pattern and prognosis: in UIP, linear shadows (intralobular septal thickening) and reticular shadows (net of linear opacities) are suggestive, while subpleural basal-predominant honeycombing (small polyhedral cystic spaces), loss of lung architecture and traction bronchiectasis complete the set bracketed specific for UIP, and nodules with ground glass opacification are absent.\nThe six scans are captioned honeycombing, traction bronchiectasis, reticular shadows and linear shadows, and the new UIP-ILD drugs are pirfenidone (anti-TGF) and nintedanib (anti-FDGF as printed, anti-VEGF, anti-PDGFR).",
+      "qs": [
+        "MED-C39-25",
+        "MED-C39-26",
+        "MED-C39-27",
+        "MED-C39-28",
+        "MED-C39-29",
+        "MED-C39-30",
+        "MED-C39-31",
+        "MED-C39-32"
+      ]
+    },
+    {
+      "id": "MED-U39-5",
+      "ch": 39,
+      "n": 5,
+      "title": "NSIP Pattern and Its Treatment, Drugs Causing ILD, COP/BOOP with Halo Signs, and Cysts on HRCT (LAM, LCH, LIP)",
+      "sec": "NSIP Pattern and Its Treatment, Drugs Causing ILD, COP/BOOP with Halo Signs, and Cysts on HRCT (LAM, LCH, LIP)",
+      "guide": "NSIP (p240) shows bilateral postero-basal ground glass without parenchymal destruction, honeycombing or cystic spaces and a prognosis better than UIP; MMF is printed best, ahead of steroids and azathioprine.\nTen drugs cause NSIP-pattern ILD — amiodarone, bleomycin, busulfan, bromocriptine, nitrofurantoin, cyclophosphamide, methotrexate, anti-TNF, carmustine and mitomycin — with cyclophosphamide and methotrexate braced to hypersensitivity pneumonitis.\nCOP/BOOP affects elderly males (>60–70 years as printed) with Masson's buds, a pneumonia-like presentation and polymyositis/dermatomyositis associations; its restrictive type responds to steroids while the constrictive obstructive type does not, the reverse-halo sign (GGO inside consolidation) contrasts with the halo sign of invasive aspergillosis, and HRCT cysts split into LAM (young females, tuberous sclerosis/angiomyolipoma, pneumothorax and chylous effusion, everolimus), LCH (young male, upper lobe fibrosis, CD1a and Birbeck granules positive, smoking, lytic lesions, diabetes insipidus) and LIP (Sjogren's, HIV).",
+      "qs": [
+        "MED-C39-33",
+        "MED-C39-34",
+        "MED-C39-35",
+        "MED-C39-36",
+        "MED-C39-37",
+        "MED-C39-38",
+        "MED-C39-39",
+        "MED-C39-40",
+        "MED-C39-41"
+      ]
+    },
+    {
+      "id": "MED-U39-6",
+      "ch": 39,
+      "n": 6,
+      "title": "HRCT Finding–Disease Table, Nodular Shadows and Tree-in-Bud Notes with the Mosaic Attenuation and Lower-Lobe Infiltrate Captions",
+      "sec": "HRCT Finding–Disease Table, Nodular Shadows and Tree-in-Bud Notes with the Mosaic Attenuation and Lower-Lobe Infiltrate Captions",
+      "guide": "The HRCT table (p241) maps reticular/linear shadows, traction bronchiectasis and honeycombing to UIP; nodular shadows to LCH/LAM; ground glass to NSIP; consolidations to COP; mosaic attenuation/air trapping to HP; and cysts to LCH/LAM/LIP.\nNodular shadows are a non-specific feature caused by LAM, LCH, LIP and RB-ILD, and tree-in-bud reflects endobronchial obstruction associated with infections.\nThe page's scans are captioned 'HRCT findings in ILD: Nodular shadows', 'mosaic attenuation in ILD (Hypersensitivity pneumonitis)' and 'Ill-defined infiltrates in lower lobe'.",
+      "qs": [
+        "MED-C39-42",
+        "MED-C39-43",
+        "MED-C39-44",
+        "MED-C39-45",
+        "MED-C39-46",
+        "MED-C39-47",
+        "MED-C39-48"
+      ]
+    },
+    {
+      "id": "MED-U39-7",
+      "ch": 39,
+      "n": 7,
+      "title": "Conditions with Upper-Lobe ILD, the LL Reticular Caption in IPF, and Pulmonary Alveolar Proteinosis (PAP)",
+      "sec": "Conditions with Upper-Lobe ILD, the LL Reticular Caption in IPF, and Pulmonary Alveolar Proteinosis (PAP)",
+      "guide": "Upper-lobe ILD (p242) groups the occupational trio silicosis, berylliosis and coal-worker's pneumoconiosis, the CTD pair sarcoidosis and ankylosing spondylitis as printed, and ABPA, hypersensitivity pneumonitis, TB with upper-lobe fibrosis and LCH; the illustrating film is nonetheless captioned 'LL reticular shadows in IPF'.\nPAP affects 30–50-year males as printed without a unit: congenital disease from SP-B mutation, and acquired most-common disease from anti-GM-CSF antibodies reducing surfactant clearance.\nIts clinical feature is chunky gelatinous PAS-positive sputum, the X-ray shows a batwing appearance with silicosis as differential, and treatment is whole lung lavage.",
+      "qs": [
+        "MED-C39-49",
+        "MED-C39-50",
+        "MED-C39-51",
+        "MED-C39-52",
+        "MED-C39-53",
+        "MED-C39-54",
+        "MED-C39-55"
+      ]
+    }
+  ]
+}
