@@ -10,10 +10,11 @@ Formula: 01.pdf Book p = PDF page -12; 02.pdf Book p = PDF page +117; 03.pdf Boo
 Chapter 1: 01.pdf PDF13-17 = p1-5. The audited run through Chapter 18 (p1–106) is 01.pdf PDF13–118.
 The audited run through Chapter 21 (p1–125) continues 01.pdf PDF119–129 (p107–117) and 02.pdf PDF1–8 (p118–125).
 The audited run through Chapter 23 (p1–139) continues 02.pdf PDF9–22 (p126–139).
+The audited run through Chapter 28 (p1–168) continues 02.pdf PDF23–51 (p140–168), with PDF52 verified as Book p169 (Chapter 29: Platelets - Basics).
 
 ## Chapter sheet coverage verified (01.pdf & 02.pdf)
 
-| Ch | Title | Book pages | 01.pdf sheets |
+| Ch | Title | Book pages | 01.pdf / 02.pdf sheets |
 |---:|---|---|---|
 | 1 | Diarrhea | 1-5 | PDF13-17 |
 | 2 | Physiology of GIT Absorption and Selective Malabsorption | 6-13 | PDF18-25 |
@@ -38,7 +39,12 @@ The audited run through Chapter 23 (p1–139) continues 02.pdf PDF9–22 (p126�
 | 21 | Bone Marrow Failure Syndromes | 121–125 | 02.pdf PDF4–8 |
 | 22 | Acute Leukemia | 126–135 | 02.pdf PDF9–18 |
 | 23 | Acute Myeloid Leukemia V/S Acute Lymphoblastic Leukemia | 136–139 | 02.pdf PDF19–22 |
-| 24 (next) | World of Lymphomas | 140 | 02.pdf PDF23 |
+| 24 | World of Lymphomas | 140–141 | 02.pdf PDF23–24 |
+| 25 | Chronic Lymphocytic Leukemia | 142–145 | 02.pdf PDF25–28 |
+| 26 | Non-Hodgkin's Lymphoma | 146–152 | 02.pdf PDF29–35 |
+| 27 | Hodgkin's Disease | 153–158 | 02.pdf PDF36–41 |
+| 28 | Plasma Cell Disorders | 159–168 | 02.pdf PDF42–51 |
+| 29 (next) | Platelets - Basics | 169 | 02.pdf PDF52 |
 
 Note (Ch 20): the Contents pages print 118, but the scanned heading "MYELOPROLIFERATIVE NEOPLASMS : PART 2"
 and the CML pathophysiology that follows it begin on Book p116; the scan is ground truth and the app

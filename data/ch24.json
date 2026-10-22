@@ -1,0 +1,365 @@
+{
+  "chapter": 24,
+  "title": "World of Lymphomas",
+  "pageRange": "140-141",
+  "questions": [
+    {
+      "id": "MED-C24-01",
+      "sec": "Initial Investigations, Common Lymphoid Progenitor Markers, Precursor B-Cell Maturation & CLL Origin",
+      "page": 140,
+      "fmt": "recall",
+      "q": "Under 'Investigation' at the top of page 140 in World of Lymphomas, what finding is shown on FNAC, trucut/excision biopsy, and which modality is stated as diagnostic?",
+      "opts": [
+        "Peripheral blood smear shows hypersegmented neutrophils; Sudan black cytochemistry is diagnostic",
+        "Bone marrow trephine biopsy shows ring sideroblasts on Perls stain; karyotyping alone is diagnostic",
+        "FNAC, trucut/excision biopsy shows loss of lymph node architecture; immunophenotyping is diagnostic",
+        "FNAC alone confirms follicular architecture preservation; serum protein electrophoresis is diagnostic"
+      ],
+      "ans": 2,
+      "exp": "Under 'Investigation :' at the top of page 140: 'FNAC, trucut/excision biopsy : Loss of lymph node architecture. Immunophenotyping : Diagnostic.' (Book p140)"
+    },
+    {
+      "id": "MED-C24-02",
+      "sec": "Initial Investigations, Common Lymphoid Progenitor Markers, Precursor B-Cell Maturation & CLL Origin",
+      "page": 140,
+      "fmt": "recall",
+      "q": "In the 'Common lymphoid progenitor' diagram on page 140, which lineage-defining surface CD markers correspond to B cell, T cell, and NK cell respectively?",
+      "opts": [
+        "B cell — CD 34; T cell — CD 117; NK cell — CD 13",
+        "B cell — CD 56; T cell — CD 19; NK cell — CD 3",
+        "B cell — CD 3; T cell — CD 56; NK cell — CD 19",
+        "B cell — CD 19; T cell — CD 3; NK cell — CD 56"
+      ],
+      "ans": 3,
+      "exp": "The Common lymphoid progenitor tree on page 140 branches into: B cell → CD 19, T Cell → CD 3, and NK cell → CD 56. (Book p140)"
+    },
+    {
+      "id": "MED-C24-03",
+      "sec": "Initial Investigations, Common Lymphoid Progenitor Markers, Precursor B-Cell Maturation & CLL Origin",
+      "page": 140,
+      "fmt": "recall",
+      "q": "In the first box under 'B-Cell Lymphoma' on page 140 ('pro-B cell'), what are the heavy-chain rearrangement status, surface/immature markers, and prognosis?",
+      "opts": [
+        "Incomplete rearrangement of heavy chain; marker CD 19 with immature markers CD 34, HLA-DR, PAX-5; bad prognosis",
+        "Complete rearrangement of heavy and light chains; surface IgM positive with loss of CD 10 and TdT; good prognosis",
+        "Complete rearrangement of heavy chain; markers CD 10 (CALLA) and TdT with loss of CD 34 and HLA-DR; good prognosis",
+        "Somatic hypermutation of light chain in dark zone; markers BCL-6, CD 10, and CD 23; intermediate prognosis"
+      ],
+      "ans": 0,
+      "exp": "The left 'pro-B cell :' box on page 140 lists: 'Incomplete rearrangement of heavy chain. marker : CD 19. Immature markers : CD 34, HLA-DR, PAX-5. Bad prognosis.' (Book p140)"
+    },
+    {
+      "id": "MED-C24-04",
+      "sec": "Initial Investigations, Common Lymphoid Progenitor Markers, Precursor B-Cell Maturation & CLL Origin",
+      "page": 140,
+      "fmt": "recall",
+      "q": "In the second box under 'B-Cell Lymphoma' on page 140 ('Pre-B cell'), what heavy-chain status, marker profile, marker loss, and prognosis are listed?",
+      "opts": [
+        "No immunoglobulin gene rearrangement; expresses CD 38, CD 138, and cytoplasmic light chains; loses all pan-B markers; good prognosis",
+        "Complete rearrangement of heavy chain; expresses CD 10 (CALLA antigen), TdT, CD 20, CD 21, CD 22, CD 79a, CD 79b + CD 19; loses CD 34 and HLA-DR; good prognosis",
+        "Complete rearrangement of heavy and light chains; expresses S.IgM, CD 5, and CD 23; loses PAX-5 and CD 79a; bad prognosis",
+        "Incomplete rearrangement of heavy chain; expresses CD 34, HLA-DR, and PAX-5 only; loses CD 19 and CD 20; bad prognosis"
+      ],
+      "ans": 1,
+      "exp": "The middle 'Pre-B cell :' box on page 140 lists: 'Complete rearrangement of heavy chain. markers : • CD 10 (CALLA antigen), Tdt, CD 20, CD 21, CD 22, CD 79a, CD 79b + CD 19. • Loses CD 34, HLA-DR. Good prognosis.' (Book p140)"
+    },
+    {
+      "id": "MED-C24-05",
+      "sec": "Initial Investigations, Common Lymphoid Progenitor Markers, Precursor B-Cell Maturation & CLL Origin",
+      "page": 140,
+      "fmt": "recall",
+      "q": "In the third box under 'B-Cell Lymphoma' on page 140 ('Immature-B cell'), what immunoglobulin gene rearrangement occurs, which markers are gained or lost, and what is the prognosis?",
+      "opts": [
+        "Absence of heavy & light chain rearrangement; expresses CD 3, CD 56, and MPO; loses CD 19 and CD 20; good prognosis",
+        "Incomplete rearrangement of light chain only; expresses CD 34, HLA-DR, CD 10, and TdT without S.IgM; good prognosis",
+        "Complete rearrangement of heavy & light chain; expresses S.IgM with CD 19, CD 20, CD 21, CD 22, CD79a, CD 79b; loses CD 10 and TdT; bad prognosis",
+        "Complete rearrangement of delta heavy chain in lymph node; gains S.IgD, BCL-6, and Cyclin D; loses S.IgM; good prognosis"
+      ],
+      "ans": 2,
+      "exp": "The right 'Immature-B cell :' box on page 140 lists: 'Complete rearrangement of heavy & light chain. marker : • S.IgM. • CD 19, CD 20, CD 21, CD 22, CD79a, CD 79b. • Loses CD 10, Tdt. Bad prognosis.' (Book p140)"
+    },
+    {
+      "id": "MED-C24-06",
+      "sec": "Initial Investigations, Common Lymphoid Progenitor Markers, Precursor B-Cell Maturation & CLL Origin",
+      "page": 140,
+      "fmt": "fillup",
+      "q": "In the brace spanning pro-B cell, Pre-B cell, and Immature-B cell on page 140, all three stages give rise to Precursor B cell ALL, of which the most common subtype is ______.",
+      "opts": [
+        "Burkitt's ALL",
+        "Pre-B ALL",
+        "Immature-B ALL",
+        "Pro-B ALL"
+      ],
+      "ans": 1,
+      "exp": "Below the three precursor B-cell boxes on page 140, the spanning brace reads: 'Precursor B cell ALL. m/c : Pre-B ALL.' (Book p140)"
+    },
+    {
+      "id": "MED-C24-07",
+      "sec": "Initial Investigations, Common Lymphoid Progenitor Markers, Precursor B-Cell Maturation & CLL Origin",
+      "page": 140,
+      "fmt": "match",
+      "q": "On page 140, match each B-cell developmental stage with its defining feature — 1) Pro-B cell 2) Pre-B cell 3) Immature-B cell 4) Naive B cell … A) Complete heavy chain rearrangement; gains CD 10 (CALLA) & TdT, loses CD 34 & HLA-DR; good prognosis B) Incomplete heavy chain rearrangement; expresses CD 19 with immature markers CD 34, HLA-DR, PAX-5; bad prognosis C) No antigen encounter; expresses CD 19, CD 20, CD21, CD 22, CD79a, CD 79b, S.IgM before entering lymph node or undergoing apoptosis D) Complete heavy & light chain rearrangement; expresses S.IgM, loses CD 10 & TdT; bad prognosis",
+      "opts": [
+        "1-C, 2-A, 3-D, 4-B",
+        "1-B, 2-D, 3-A, 4-C",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-A, 3-D, 4-C"
+      ],
+      "ans": 3,
+      "exp": "On page 140: Pro-B = incomplete heavy chain + CD 34/HLA-DR/PAX-5 (bad prognosis); Pre-B = complete heavy chain + CD 10/TdT, loses CD 34/HLA-DR (good prognosis); Immature-B = complete heavy & light chain + S.IgM, loses CD 10/TdT (bad prognosis); Naive B cell = no antigen encounter, expresses CD 19, CD 20, CD21, CD 22, CD79a, CD 79b, S.IgM. (Book p140)"
+    },
+    {
+      "id": "MED-C24-08",
+      "sec": "Initial Investigations, Common Lymphoid Progenitor Markers, Precursor B-Cell Maturation & CLL Origin",
+      "page": 140,
+      "fmt": "recall",
+      "q": "According to the bottom diagram on page 140, what cellular defect converts a Naive B Cell (no antigen encounter) into Chronic Lymphocytic Leukemia (CLL), and what full marker profile does CLL express?",
+      "opts": [
+        "Failure of apoptosis leading to clonal proliferation; expresses CD 5, CD 23, CD 19, CD 20, CD 21, CD 22, CD79a, CD 79b, and S.IgM",
+        "Somatic hypermutation in the germinal centre dark zone; expresses CD 10, BCL-6, CD 34, and TdT without S.IgM",
+        "Complete arrest of myeloid differentiation; expresses CD 13, CD 33, CD 117, MPO, and HLA-DR",
+        "Gain of S.IgD with Cyclin D overexpression in the mantle layer; expresses CD 5 and Cyclin D while losing CD 23"
+      ],
+      "ans": 0,
+      "exp": "At the bottom of page 140, Naive B Cell (no antigen encounter) shows a blocked arrow to Apoptosis → 'Failure of apoptosis → Clonal proliferation → Chronic lymphocytic leukemia (CLL) : markers : CD 5, CD 23, CD 19, CD 20, CD 21, CD 22, CD79a, CD 79b, S.IgM.' (Book p140)"
+    },
+    {
+      "id": "MED-C24-09",
+      "sec": "Initial Investigations, Common Lymphoid Progenitor Markers, Precursor B-Cell Maturation & CLL Origin",
+      "page": 140,
+      "fmt": "truefalse",
+      "q": "Which of the following statements about B-cell maturation and lymphomagenesis on page 140 is TRUE?",
+      "opts": [
+        "True — Immature-B cell retains high levels of CD 10 (CALLA antigen) and TdT and carries the best prognosis among precursor B-cell stages",
+        "False — Chronic lymphocytic leukemia arises from failure of apoptosis and clonal proliferation of naive B cells with acquisition of CD 5 and CD 23",
+        "True — Pre-B cell acute lymphoblastic leukemia is the most common precursor B-cell ALL subtype, loses CD 34 and HLA-DR, and carries a good prognosis",
+        "False — Pro-B cell exhibits incomplete heavy-chain rearrangement, expresses CD 34, HLA-DR, and PAX-5, and carries a bad prognosis"
+      ],
+      "ans": 2,
+      "exp": "On page 140, Pre-B cell loses CD 34 and HLA-DR, carries a good prognosis, and is the most common ('m/c : Pre-B ALL') among precursor B-cell ALLs; Pro-B and Immature-B both have bad prognosis, and CLL arises from failure of apoptosis of naive B cells. (Book p140)"
+    },
+    {
+      "id": "MED-C24-10",
+      "sec": "Lymph Node Zones (Pre-Germinal, Germinal Centre, Post-Germinal/Marginal Zone), Myeloma Markers & CD Summary",
+      "page": 141,
+      "fmt": "recall",
+      "q": "Under 'Zones in lymph node' at the top of page 141, what are the three numbered zones, and what surface immunoglobulin does a Naive B cell gain in the interfollicular area before entering the lymph node?",
+      "opts": [
+        "1. Paracortical T-zone, 2. Medullary sinus, 3. Subcapsular sinus; gains secretory IgA in Peyer's patches",
+        "1. Pro-B zone, 2. Pre-B zone, 3. Immature-B zone; gains CD 34 and TdT in the interfollicular area of LN",
+        "1. Red pulp, 2. Periarteriolar lymphoid sheath, 3. Marginal sinus; gains IgE in splenic cords of Billroth",
+        "1. Pre germinal centre, 2. Germinal centre (Activation/maturation zone), 3. Post germinal centre; gains S.IgD in the interfollicular area of LN"
+      ],
+      "ans": 3,
+      "exp": "At the top of page 141 under 'Zones in lymph node': '1. Pre germinal centre. 2. Germinal centre (Activation/maturation zone). 3. Post germinal centre.' Below it: 'Naive B cell → Interfollicular area of LN : Gains S.IgD → Lymph node.' (Book p141)"
+    },
+    {
+      "id": "MED-C24-11",
+      "sec": "Lymph Node Zones (Pre-Germinal, Germinal Centre, Post-Germinal/Marginal Zone), Myeloma Markers & CD Summary",
+      "page": 141,
+      "fmt": "recall",
+      "q": "In the 'Pre-germinal centre/mantle cell layer' box on page 141, which lymphoma arises from proliferation here and what marker panel is listed?",
+      "opts": [
+        "Mantle cell lymphoma (MCL); markers: CD 5, cyclin D, CD 19, CD 20, CD 21, CD 22, CD 79a, CD 79b, S.IgM, S.IgD",
+        "Follicular lymphoma; markers: CD 10, CD 23, BCL-6, CD 34, and TdT without CD 5 or cyclin D",
+        "Hairy cell leukemia; markers: CD 11c, CD 25, CD 103, CD 123, Annexin, and TRAP without S.IgD",
+        "Multiple myeloma; markers: CD 38, CD 138, and C19 (CD 19) with complete loss of CD 20 and S.IgM"
+      ],
+      "ans": 0,
+      "exp": "The left box on page 141 reads: 'Pre-germinal centre/mantle cell layer : Proliferation → mantle cell lymphoma (MCL). Specific marker : CD 5, cyclin D, CD 19, CD 20, CD 21, CD 22, CD 79a, CD 79b, S.IgM, S.IgD.' (Book p141)"
+    },
+    {
+      "id": "MED-C24-12",
+      "sec": "Lymph Node Zones (Pre-Germinal, Germinal Centre, Post-Germinal/Marginal Zone), Myeloma Markers & CD Summary",
+      "page": 141,
+      "fmt": "recall",
+      "q": "In the 'Germinal centre' box on page 141, which markers define germinal-centre B cells, and which two processes convert a Centroblast (dark zone) into a Centrocyte (light zone)?",
+      "opts": [
+        "Markers: CD 11c, CD 25, and CD 103 only; Class-switch deletion of BCL-6 converts Plasma cell to Centroblast (dark zone)",
+        "Markers: CD 10, CD 23, BCL-6 (with CD 19, CD 20, CD 21, CD 22, CD 79a, CD 79b, S.IgM, S.IgD); Somatic hypermutation and Affinity maturation convert Centroblast (dark zone) to Centrocyte (light zone)",
+        "Markers: CD 38, CD 138, and CD 56 only; Receptor editing and apoptosis inhibition convert Memory B cell to Naive B cell",
+        "Markers: CD 5, Cyclin D, and TdT only; V(D)J heavy-chain recombination converts Centrocyte (dark zone) to Centroblast (light zone)"
+      ],
+      "ans": 1,
+      "exp": "In the Germinal centre box on page 141: 'markers : CD 10, CD 23, BCL-6, CD 19, CD 20, CD 21, CD 22, CD 79a, CD 79b, S.IgM, S.IgD' and 'Centroblast (dark zone) —[Somatic hypermutation / Affinity maturation]→ Centrocyte (light zone)'. (Book p141)"
+    },
+    {
+      "id": "MED-C24-13",
+      "sec": "Lymph Node Zones (Pre-Germinal, Germinal Centre, Post-Germinal/Marginal Zone), Myeloma Markers & CD Summary",
+      "page": 141,
+      "fmt": "recall",
+      "q": "Within the 'Germinal centre' box on page 141, which lymphomas arise specifically from the Centroblast (dark zone) versus the Centrocyte (light zone)?",
+      "opts": [
+        "Centroblast (dark zone) gives rise exclusively to Follicular lymphoma; Centrocyte (light zone) gives rise to Mantle cell lymphoma and Burkitt's lymphoma",
+        "Centroblast (dark zone) gives rise to Hairy cell leukemia and SLL; Centrocyte (light zone) gives rise to Chronic lymphocytic leukemia",
+        "Centroblast (dark zone) gives rise to Diffuse large B cell lymphoma (DLBCL) and Burkitt's lymphoma; Centrocyte (light zone) gives rise to Follicular lymphoma (and differentiates toward Plasma blast and marginal zone)",
+        "Centroblast (dark zone) gives rise to Waldenstrom's macroglobulinemia; Centrocyte (light zone) gives rise exclusively to Multiple myeloma"
+      ],
+      "ans": 2,
+      "exp": "Inside the Germinal centre diagram on page 141, the arrow from Centroblast (dark zone) points to '• Diffuse large B cell lymphoma (DLBCL). • Burkitt's lymphoma.', while Centrocyte (light zone) sends arrows to 'Follicular lymphoma', 'Plasma blast', and 'marginal zone'. (Book p141)"
+    },
+    {
+      "id": "MED-C24-14",
+      "sec": "Lymph Node Zones (Pre-Germinal, Germinal Centre, Post-Germinal/Marginal Zone), Myeloma Markers & CD Summary",
+      "page": 141,
+      "fmt": "recall",
+      "q": "Following the 'Plasma blast → Plasma cell' pathway on the left side of page 141, what lymphoma arises from proliferation of the Plasma blast, and what marker profile is printed for Multiple myeloma arising from the Plasma cell?",
+      "opts": [
+        "Plasma blast proliferation causes Pre-B ALL; Plasma cell gives rise to Hairy cell leukemia expressing CD 34, TdT, and PAX-5",
+        "Plasma blast proliferation causes Mantle cell lymphoma; Plasma cell gives rise to Follicular lymphoma expressing CD 20, CD 21, and S.IgD",
+        "Plasma blast proliferation causes Burkitt's lymphoma; Plasma cell gives rise to Waldenstrom's macroglobulinemia expressing CD 5, CD 10, and BCL-6",
+        "Plasma blast proliferation causes Activated B cell type DLBCL (ABC–DLBCL); Plasma cell gives rise to Multiple myeloma expressing CD 38, CD 138, and C19 [printed for CD 19], while losing all other markers"
+      ],
+      "ans": 3,
+      "exp": "On the middle-left of page 141: 'Plasma blast → Proliferation : Activated B cell type DLBCL (ABC–DLBCL)' and downward 'Plasma blast → Plasma cell → multiple myeloma : markers : CD 38, CD 138, C19 [printed as C19]. Loses all other markers.' (Book p141)"
+    },
+    {
+      "id": "MED-C24-15",
+      "sec": "Lymph Node Zones (Pre-Germinal, Germinal Centre, Post-Germinal/Marginal Zone), Myeloma Markers & CD Summary",
+      "page": 141,
+      "fmt": "fillup",
+      "q": "In the Plasma blast differentiation pathway on page 141, proliferation of the plasma blast produces ______ (ABC–DLBCL), whereas maturation to a plasma cell produces multiple myeloma.",
+      "opts": [
+        "Precursor T-cell ALL",
+        "Activated B cell type DLBCL",
+        "Follicular lymphoma",
+        "Mantle cell lymphoma"
+      ],
+      "ans": 1,
+      "exp": "On page 141, the leftward arrow from 'Plasma blast' reads: 'Proliferation : Activated B cell type DLBCL (ABC–DLBCL)'. (Book p141)"
+    },
+    {
+      "id": "MED-C24-16",
+      "sec": "Lymph Node Zones (Pre-Germinal, Germinal Centre, Post-Germinal/Marginal Zone), Myeloma Markers & CD Summary",
+      "page": 141,
+      "fmt": "recall",
+      "q": "In the 'Post germinal cell zone/marginal zone' box on page 141, what markers are listed for Marginal zone lymphoma, and which three B-cell neoplasms arise from the Memory B cell?",
+      "opts": [
+        "Marginal zone lymphoma expresses CD 19, CD20, CD 21, CD 22, CD 79a, CD 79b, S.IgM, S.IgD; Memory B cell gives rise to Hairy cell leukemia, Small lymphocyte leukemia (SLL), and Waldenstrom's macroglobulinemia",
+        "Marginal zone lymphoma expresses CD 5, CD 10, and Cyclin D; Memory B cell gives rise to Burkitt's lymphoma, Follicular lymphoma, and Pre-B ALL",
+        "Marginal zone lymphoma expresses CD 34 and TdT; Memory B cell gives rise to Chronic myeloid leukemia, Polycythemia vera, and Essential thrombocytosis",
+        "Marginal zone lymphoma expresses CD 38 and CD 138 only; Memory B cell gives rise to Pro-B ALL, Mantle cell lymphoma, and T-cell ALL"
+      ],
+      "ans": 0,
+      "exp": "In the bottom-right box 'Post germinal cell zone/marginal zone :' on page 141: 'marginal zone → marginal Zone lymphoma : markers : CD 19, CD20, CD 21, CD 22, CD 79a, CD 79b, S.IgM, S.IgD' and 'marginal zone → memory B cell → • Hairy cell leukemia. • Small lymphocyte leukemia (SLL). • Waldenstrom's macroglobulinemia.' (Book p141)"
+    },
+    {
+      "id": "MED-C24-17",
+      "sec": "Lymph Node Zones (Pre-Germinal, Germinal Centre, Post-Germinal/Marginal Zone), Myeloma Markers & CD Summary",
+      "page": 141,
+      "fmt": "oddoneout",
+      "q": "All of the following B-cell neoplasms arise from the 'memory B cell' in the post-germinal cell zone diagram on page 141 EXCEPT:",
+      "opts": [
+        "Waldenstrom's macroglobulinemia",
+        "Hairy cell leukemia",
+        "Mantle cell lymphoma (MCL)",
+        "Small lymphocyte leukemia (SLL)"
+      ],
+      "ans": 2,
+      "exp": "On page 141, 'memory B cell' gives rise to Hairy cell leukemia, Small lymphocyte leukemia (SLL), and Waldenstrom's macroglobulinemia, whereas Mantle cell lymphoma (MCL) arises from the Pre-germinal centre / mantle cell layer. (Book p141)"
+    },
+    {
+      "id": "MED-C24-18",
+      "sec": "Lymph Node Zones (Pre-Germinal, Germinal Centre, Post-Germinal/Marginal Zone), Myeloma Markers & CD Summary",
+      "page": 141,
+      "fmt": "match",
+      "q": "In the 'Summary :' box at the bottom-left of page 141, match each CD 5 / CD 10 / CD 23 immunophenotype with its corresponding B-cell entity — 1) CD 5+, CD 10–, CD 23+ 2) CD 5+, CD 10–, CD 23– 3) CD 5–, CD 10+, CD 23+ 4) CD 5–, CD 10–, CD 23– … A) MCL (Mantle cell lymphoma) B) MZL (Marginal zone lymphoma) C) CLL (Chronic lymphocytic leukemia) D) GC (Germinal centre)",
+      "opts": [
+        "1-A, 2-C, 3-D, 4-B",
+        "1-C, 2-A, 3-D, 4-B",
+        "1-D, 2-A, 3-C, 4-B",
+        "1-C, 2-B, 3-A, 4-D"
+      ],
+      "ans": 1,
+      "exp": "The 'Summary :' box at the bottom-left of page 141 prints: 'CD 5+, CD 10–, CD 23+ → CLL. CD 5+, CD 10–, CD 23– → MCL. CD 5–, CD 10+, CD 23+ → GC. CD 5–, CD 10–, CD 23– → MZL.' (Book p141)"
+    },
+    {
+      "id": "MED-C24-19",
+      "sec": "Lymph Node Zones (Pre-Germinal, Germinal Centre, Post-Germinal/Marginal Zone), Myeloma Markers & CD Summary",
+      "page": 141,
+      "fmt": "scenario",
+      "q": "An adult presents with generalized lymphadenopathy, and lymph node excision biopsy reveals effaced architecture due to a mature CD19+, CD20+, S.IgM+, S.IgD+ B-cell neoplasm. Flow cytometry demonstrates CD 5+, CD 10–, CD 23– cells with nuclear Cyclin D positivity. According to page 141, from which lymph node zone does this lymphoma arise?",
+      "opts": [
+        "Pre-germinal centre / mantle cell layer — Mantle cell lymphoma (MCL)",
+        "Bone marrow naive B-cell apoptosis failure — Chronic lymphocytic leukemia (CLL)",
+        "Germinal centre dark zone centroblast — Burkitt's lymphoma",
+        "Post-germinal cell zone marginal zone — Marginal zone lymphoma (MZL)"
+      ],
+      "ans": 0,
+      "exp": "On page 141, CD 5+, CD 10–, CD 23– with specific markers CD 5 and Cyclin D (plus CD 19, CD 20, CD 21, CD 22, CD 79a, CD 79b, S.IgM, S.IgD) defines Mantle cell lymphoma (MCL), arising from proliferation of the Pre-germinal centre/mantle cell layer. (Book p141)"
+    },
+    {
+      "id": "MED-C24-20",
+      "sec": "Lymph Node Zones (Pre-Germinal, Germinal Centre, Post-Germinal/Marginal Zone), Myeloma Markers & CD Summary",
+      "page": 141,
+      "fmt": "management",
+      "q": "When evaluating an enlarged cervical lymph node suspected of B-cell lymphoma using the diagnostic principles on pages 140–141, how does immunophenotyping distinguish Chronic Lymphocytic Leukemia (CLL) from Marginal Zone Lymphoma (MZL) when both express pan-B markers (CD 19, CD 20, CD 21, CD 22, CD 79a, CD 79b, S.IgM) and lack CD 10?",
+      "opts": [
+        "CLL loses all pan-B markers and expresses only CD 38 and CD 138, whereas MZL expresses CD 34 and TdT",
+        "CLL expresses CD 5+ with Cyclin D and lacks CD 23, whereas MZL expresses CD 56 and CD 3",
+        "CLL is negative for both CD 5 and CD 23, whereas MZL strongly co-expresses CD 5+, CD 10+, and BCL-6+",
+        "CLL co-expresses both CD 5+ and CD 23+ (CD 5+, CD 10–, CD 23+), whereas MZL is negative for both markers (CD 5–, CD 10–, CD 23–)"
+      ],
+      "ans": 3,
+      "exp": "From page 140 (Immunophenotyping : Diagnostic) and the Summary box on page 141: CLL is 'CD 5+, CD 10–, CD 23+' while MZL is 'CD 5–, CD 10–, CD 23–'. (Book p141)"
+    },
+    {
+      "id": "MED-C24-21",
+      "sec": "Lymph Node Zones (Pre-Germinal, Germinal Centre, Post-Germinal/Marginal Zone), Myeloma Markers & CD Summary",
+      "page": 141,
+      "fmt": "numeric",
+      "q": "How many distinct lymph node zones are enumerated under 'Zones in lymph node' on page 141, and how many diagnostic CD marker combinations are contrasted in the bottom-left 'Summary :' box?",
+      "opts": [
+        "2 lymph node zones (Cortical zone, Medullary zone) and 2 immunophenotypic patterns (Hodgkin, Non-Hodgkin)",
+        "4 lymph node zones (Pro-B, Pre-B, Immature-B, Naive-B) and 6 immunophenotypic patterns",
+        "3 lymph node zones (Pre germinal centre, Germinal centre, Post germinal centre) and 4 immunophenotypic patterns (CLL, MCL, GC, MZL)",
+        "5 lymph node zones and 3 immunophenotypic patterns (T-ALL, B-ALL, NK-lymphoma)"
+      ],
+      "ans": 2,
+      "exp": "Page 141 lists 3 numbered lymph node zones at the top (1. Pre germinal centre, 2. Germinal centre, 3. Post germinal centre) and 4 rows in the bottom-left Summary box (CLL, MCL, GC, MZL). (Book p141)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U24-1",
+      "ch": 24,
+      "n": 1,
+      "title": "Initial Investigations, Common Lymphoid Progenitor Markers, Precursor B-Cell Maturation & CLL Origin",
+      "sec": "Initial Investigations, Common Lymphoid Progenitor Markers, Precursor B-Cell Maturation & CLL Origin",
+      "guide": "Investigations: FNAC, trucut/excision biopsy shows loss of lymph node architecture; immunophenotyping is diagnostic. Common lymphoid progenitor → B cell (CD 19), T cell (CD 3), NK cell (CD 56).\nPrecursor B-cell stages (Precursor B-cell ALL; m/c = Pre-B ALL): Pro-B = incomplete heavy chain, CD 19 + CD 34/HLA-DR/PAX-5 (bad prognosis); Pre-B = complete heavy chain, CD 10 (CALLA), TdT, CD 20/21/22/79a/79b + CD 19, loses CD 34/HLA-DR (good prognosis); Immature-B = complete heavy & light chain, S.IgM, loses CD 10/TdT (bad prognosis).\nNaive B cell (no antigen encounter; CD 19/20/21/22/79a/79b, S.IgM): failure of apoptosis → clonal proliferation → CLL (acquires CD 5, CD 23).",
+      "qs": [
+        "MED-C24-01",
+        "MED-C24-02",
+        "MED-C24-03",
+        "MED-C24-04",
+        "MED-C24-05",
+        "MED-C24-06",
+        "MED-C24-07",
+        "MED-C24-08",
+        "MED-C24-09"
+      ]
+    },
+    {
+      "id": "MED-U24-2",
+      "ch": 24,
+      "n": 2,
+      "title": "Lymph Node Zones (Pre-Germinal, Germinal Centre, Post-Germinal/Marginal Zone), Myeloma Markers & CD Summary",
+      "sec": "Lymph Node Zones (Pre-Germinal, Germinal Centre, Post-Germinal/Marginal Zone), Myeloma Markers & CD Summary",
+      "guide": "LN zones: 1. Pre-germinal centre/mantle layer (after Naive B cell gains S.IgD in interfollicular area) → Mantle cell lymphoma (CD 5, Cyclin D); 2. Germinal centre (CD 10, CD 23, BCL-6): Centroblast (dark zone) → DLBCL, Burkitt's; somatic hypermutation & affinity maturation → Centrocyte (light zone) → Follicular lymphoma, Plasma blast, or Marginal zone.\nPlasma blast proliferation → ABC-DLBCL; Plasma cell → Multiple myeloma (CD 38, CD 138, C19 [printed]; loses all other markers). Post-germinal/marginal zone → Marginal zone lymphoma; Memory B cell → Hairy cell leukemia, SLL, Waldenstrom's macroglobulinemia.\nSummary panel: CD5+ CD10– CD23+ = CLL; CD5+ CD10– CD23– = MCL; CD5– CD10+ CD23+ = GC; CD5– CD10– CD23– = MZL.",
+      "qs": [
+        "MED-C24-10",
+        "MED-C24-11",
+        "MED-C24-12",
+        "MED-C24-13",
+        "MED-C24-14",
+        "MED-C24-15",
+        "MED-C24-16",
+        "MED-C24-17",
+        "MED-C24-18",
+        "MED-C24-19",
+        "MED-C24-20",
+        "MED-C24-21"
+      ]
+    }
+  ]
+}

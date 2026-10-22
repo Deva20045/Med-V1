@@ -1,0 +1,879 @@
+{
+  "chapter": 26,
+  "title": "Non-Hodgkin's Lymphoma",
+  "pageRange": "146-152",
+  "questions": [
+    {
+      "id": "MED-C26-01",
+      "sec": "Classification by Cell of Origin, Mature T-Cell Lymphomas (ALCL to Hepatosplenic) & Grade-Based Classification",
+      "page": 146,
+      "fmt": "recall",
+      "q": "In the T-cell rows of the 'BASED ON CELL OF ORIGIN' table at the top of page 146, what neoplasms arise from Precursor T-cell versus Mature T-cell?",
+      "opts": [
+        "Precursor T-cell → Mantle cell lymphoma; Mature T-cell → Marginal zone lymphoma",
+        "Precursor T-cell → Multiple myeloma; Mature T-cell → Follicular lymphoma",
+        "Precursor T-cell → ALL without nodal mass only; Mature T-cell → Burkitt's lymphoma",
+        "Precursor T-cell → Precursor T-cell leukemia/lymphoma; Mature T-cell → Mature T-cell lymphoma"
+      ],
+      "ans": 3,
+      "exp": "Rows 1–2 of the 'BASED ON CELL OF ORIGIN' table on page 146 list: T-cell → Precursor T-cell → Precursor T-cell leukemia/lymphoma; Mature T-cell → Mature T-cell lymphoma. (Book p146)"
+    },
+    {
+      "id": "MED-C26-02",
+      "sec": "Classification by Cell of Origin, Mature T-Cell Lymphomas (ALCL to Hepatosplenic) & Grade-Based Classification",
+      "page": 146,
+      "fmt": "match",
+      "q": "In the B-cell rows of the 'BASED ON CELL OF ORIGIN' table on page 146, match each B-cell developmental stage with its corresponding tumor — 1) Pre-germinal centre 2) Centroblasts 3) Centrocytes 4) Plasmablast … A) Follicular lymphoma B) Activated B-cell diffuse B-cell lymphoma (ABC-DLBCL) C) Mantle cell lymphoma (MCL) D) Diffuse large B-cell lymphoma (DLBCL) & Burkitt's lymphoma",
+      "opts": [
+        "1-A, 2-C, 3-D, 4-B",
+        "1-C, 2-A, 3-D, 4-B",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-D, 2-B, 3-A, 4-C"
+      ],
+      "ans": 2,
+      "exp": "In the B-cell rows on page 146: Precursor B-cell → ALL; Pre-germinal centre → Mantle cell lymphoma (MCL); Centroblasts → DLBCL & Burkitt's lymphoma; Centrocytes → Follicular lymphoma; Post-germinal centre → Marginal zone lymphoma (MZL); Plasmablast → Activated B-cell diffuse B-cell lymphoma (ABC-DLBCL). (Book p146)"
+    },
+    {
+      "id": "MED-C26-03",
+      "sec": "Classification by Cell of Origin, Mature T-Cell Lymphomas (ALCL to Hepatosplenic) & Grade-Based Classification",
+      "page": 146,
+      "fmt": "recall",
+      "q": "In the B-cell origin table on page 146, what neoplasms arise specifically from 'Precursor B-cell' and 'Post-germinal centre'?",
+      "opts": [
+        "Precursor B-cell → ALL; Post-germinal centre → Marginal zone lymphoma (MZL)",
+        "Precursor B-cell → ABC-DLBCL; Post-germinal centre → Centroblastic DLBCL",
+        "Precursor B-cell → Follicular lymphoma; Post-germinal centre → Burkitt's lymphoma",
+        "Precursor B-cell → Mantle cell lymphoma; Post-germinal centre → Precursor T-ALL"
+      ],
+      "ans": 0,
+      "exp": "Rows 3 & 7 of the B-cell origin table on page 146 map 'Precursor B-cell → ALL' and 'Post-germinal centre → Marginal zone lymphoma (MZL)'. (Book p146)"
+    },
+    {
+      "id": "MED-C26-04",
+      "sec": "Classification by Cell of Origin, Mature T-Cell Lymphomas (ALCL to Hepatosplenic) & Grade-Based Classification",
+      "page": 146,
+      "fmt": "recall",
+      "q": "Under 'Mature T-cell lymphomas → 1. Anaplastic large cell lymphoma :' on page 146, which four specific markers, cytogenetics, surgical association, and diagnostic cells are listed?",
+      "opts": [
+        "BCL-2 +, t(14 ; 18), H. pylori non-atrophic gastritis, and tingible-body macrophages",
+        "ALK (CD30) +, t(2 ; 5), breast implants, and hallmark cells",
+        "Cyclin D1 +, t(11 ; 14), celiac sprue enteropathy, and smudge cells",
+        "CD103 +, BRAF V600E mutation, salivary gland Sjögren syndrome, and fried-egg cells"
+      ],
+      "ans": 1,
+      "exp": "Under 'Mature T-cell lymphomas : 1. Anaplastic large cell lymphoma :' on page 146: '– ALK (CD30) +. – t(2 ; 5). – Breast implants. – Hallmark cells.' (Book p146)"
+    },
+    {
+      "id": "MED-C26-05",
+      "sec": "Classification by Cell of Origin, Mature T-Cell Lymphomas (ALCL to Hepatosplenic) & Grade-Based Classification",
+      "page": 146,
+      "fmt": "match",
+      "q": "Under 'Mature T-cell lymphomas :' on page 146, match items 3, 4, 5, and 6 with their characteristic clinicopathologic association — 1) Enteropathy-associated T-cell lymphoma 2) Mycosis fungoides / Sezary syndrome 3) Extranodal NK T-lymphoma 4) Adult T-cell leukemia/lymphoma … A) EBV +ve B) HTLV-1 associated C) Celiac disease D) Cutaneous T-cell lymphoma",
+      "opts": [
+        "1-C, 2-A, 3-D, 4-B",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 1,
+      "exp": "Items 3–6 under 'Mature T-cell lymphomas :' on page 146 list: 3. Enteropathy (Celiac) associated T-cell lymphoma; 4. Mycosis fungoides (Cutaneous T-cell lymphoma)/Sezary syndrome; 5. Extranodal NK T-lymphoma (EBV +ve); 6. HTLV-1 associated adult T-cell leukemia/lymphoma. (Book p146)"
+    },
+    {
+      "id": "MED-C26-06",
+      "sec": "Classification by Cell of Origin, Mature T-Cell Lymphomas (ALCL to Hepatosplenic) & Grade-Based Classification",
+      "page": 146,
+      "fmt": "oddoneout",
+      "q": "All of the following entities are listed among the seven 'Mature T-cell lymphomas :' on page 146 EXCEPT:",
+      "opts": [
+        "Splenic marginal zone lymphoma",
+        "Hepatosplenic T-cell lymphoma",
+        "Enteropathy (Celiac) associated T-cell lymphoma",
+        "Angioimmunoblastic lymphoma"
+      ],
+      "ans": 0,
+      "exp": "Items 2, 3, and 7 under 'Mature T-cell lymphomas :' on page 146 are Angioimmunoblastic lymphoma, Enteropathy (Celiac) associated T-cell lymphoma, and Hepatosplenic T-cell lymphoma; Splenic MZL is a B-cell lymphoma. (Book p146)"
+    },
+    {
+      "id": "MED-C26-07",
+      "sec": "Classification by Cell of Origin, Mature T-Cell Lymphomas (ALCL to Hepatosplenic) & Grade-Based Classification",
+      "page": 146,
+      "fmt": "fillup",
+      "q": "In the boxed 'Note :' on page 146, B-cell lymphoma has a better prognosis than T-cell lymphoma ('B-cell lymphoma > T-cell lymphoma'), and the most common NHL overall is ______.",
+      "opts": [
+        "Follicular lymphoma",
+        "Mantle cell lymphoma",
+        "DLBCL",
+        "Burkitt's lymphoma"
+      ],
+      "ans": 2,
+      "exp": "The boxed 'Note :' on page 146 reads: '• Prognosis : B-cell lymphoma > T-cell lymphoma. • m/c NHL : DLBCL.' (Book p146)"
+    },
+    {
+      "id": "MED-C26-08",
+      "sec": "Classification by Cell of Origin, Mature T-Cell Lymphomas (ALCL to Hepatosplenic) & Grade-Based Classification",
+      "page": 146,
+      "fmt": "recall",
+      "q": "In the 'BASED ON GRADE' flowchart at the bottom of page 146, which lymphomas fall under 'Low grade', 'Intermediate to high grade', and 'High grade'?",
+      "opts": [
+        "Low grade: MCL, Burkitt's lymphoma; Intermediate to high grade: SLL, MZL; High grade: Follicular lymphoma",
+        "Low grade: Follicular lymphoma only; Intermediate to high grade: DLBCL, Burkitt's lymphoma; High grade: SLL, MZL",
+        "Low grade: DLBCL, Burkitt's lymphoma; Intermediate to high grade: Follicular lymphoma; High grade: SLL, MZL, MCL",
+        "Low grade: Small lymphocytic leukemia (SLL), MZL, Follicular lymphoma; Intermediate to high grade: MCL; High grade: DLBCL, Burkitt's lymphoma"
+      ],
+      "ans": 3,
+      "exp": "At the bottom of page 146 under 'BASED ON GRADE': Low grade → Small lymphocytic leukemia (SLL), MZL, Follicular lymphoma; Intermediate to high grade → MCL; High grade → DLBCL, Burkitt's lymphoma. (Book p146)"
+    },
+    {
+      "id": "MED-C26-09",
+      "sec": "Causative Organisms Table (EBV 100/70/40/20 Rule, HIV, HCV, H. pylori, HHV-8, HTLV-1) & Ann-Arbor Staging",
+      "page": 147,
+      "fmt": "numeric",
+      "q": "In the 'BASED ON CAUSATIVE ORGANISM' table on page 147, how does the '100/70/40/20 rule for EBV involvement' apply across the four classical Hodgkin's disease subtypes?",
+      "opts": [
+        "NS (Nodular sclerosis) → 100%, LR (Lymphocyte rich) → 70%, MC (Mixed cellularity) → 40%, LD (Lymphocyte depleted) → 20%",
+        "LD (Lymphocyte depleted) → 100%, MC (Mixed cellularity) → 70%, NS (Nodular sclerosis) → 40%, LR (Lymphocyte rich) → 20%",
+        "MC (Mixed cellularity) → 100%, NS (Nodular sclerosis) → 70%, LD (Lymphocyte depleted) → 40%, LR (Lymphocyte rich) → 20%",
+        "LR (Lymphocyte rich) → 100%, LD (Lymphocyte depleted) → 70%, NS (Nodular sclerosis) → 40%, MC (Mixed cellularity) → 20%"
+      ],
+      "ans": 1,
+      "exp": "In row 1 (EBV) of the table on page 147: 'Hodgkin's disease : 100/70/40/20 rule for EBV involvement → EBV ⊕ cases in: LD → 100%, MC → 70%, NS → 40%, LR → 20%.' (Book p147)"
+    },
+    {
+      "id": "MED-C26-10",
+      "sec": "Causative Organisms Table (EBV 100/70/40/20 Rule, HIV, HCV, H. pylori, HHV-8, HTLV-1) & Ann-Arbor Staging",
+      "page": 147,
+      "fmt": "recall",
+      "q": "In the EBV row of the 'BASED ON CAUSATIVE ORGANISM' table on page 147, which B-cell and T-cell Non-Hodgkin's lymphomas are linked to EBV, and which morphology joins two of the B-cell entities?",
+      "opts": [
+        "B-cell type: Burkitt's lymphoma, plus Post organ transplant lymphoma and Primary CNS lymphoma (both share DLBCL morphology); T-cell type: Extranodal NK/T-lymphoma",
+        "B-cell type: Gastric MALToma and Mantle cell lymphoma (starry-sky morphology); T-cell type: Sezary syndrome",
+        "B-cell type: Follicular lymphoma and Splenic MZL (centrocytic morphology); T-cell type: Enteropathy-associated T-cell lymphoma",
+        "B-cell type: Hairy cell leukemia and Waldenström macroglobulinemia; T-cell type: Hepatosplenic T-cell lymphoma"
+      ],
+      "ans": 0,
+      "exp": "Under EBV → NHL on page 147: 'B cell type : – Burkitt's lymphoma; [– Post organ transplant lymphoma – Primary CNS lymphoma] → DLBCL morphology; T cell type : Extranodal NK/T-lymphoma.' (Book p147)"
+    },
+    {
+      "id": "MED-C26-11",
+      "sec": "Causative Organisms Table (EBV 100/70/40/20 Rule, HIV, HCV, H. pylori, HHV-8, HTLV-1) & Ann-Arbor Staging",
+      "page": 147,
+      "fmt": "match",
+      "q": "In the 'BASED ON CAUSATIVE ORGANISM' table on page 147, match each infectious agent with its associated lymphoma(s) — 1) HIV 2) HCV 3) H. pylori 4) HHV-8 … A) Primary effusion lymphoma & Castleman's disease B) DLBCL & Burkitt's lymphoma C) Waldenstrom's macroglobulinemia & Splenic MZL D) MALTOMA (Extranodal MZL)",
+      "opts": [
+        "1-B, 2-D, 3-C, 4-A",
+        "1-A, 2-C, 3-D, 4-B",
+        "1-C, 2-B, 3-A, 4-D",
+        "1-B, 2-C, 3-D, 4-A"
+      ],
+      "ans": 3,
+      "exp": "Rows 2–5 of the causative organism table on page 147 list: HIV → DLBCL, Burkitt's lymphoma; HCV → Waldenstrom's macroglobulinemia, Splenic MZL; H.pylori → MALTOMA (Extranodal MZL); HHV-8 → Primary effusion lymphoma, Castleman's disease. (Book p147)"
+    },
+    {
+      "id": "MED-C26-12",
+      "sec": "Causative Organisms Table (EBV 100/70/40/20 Rule, HIV, HCV, H. pylori, HHV-8, HTLV-1) & Ann-Arbor Staging",
+      "page": 147,
+      "fmt": "fillup",
+      "q": "In the final row of the causative organism table on page 147, infection with ______ causes Adult T-cell leukemia/lymphoma.",
+      "opts": [
+        "Parvovirus B19",
+        "HHV-8",
+        "HTLV₁",
+        "Hepatitis B virus"
+      ],
+      "ans": 2,
+      "exp": "Row 6 of the causative organism table on page 147 maps 'HTLV₁' to '• Adult T-cell leukemia/lymphoma.' (Book p147)"
+    },
+    {
+      "id": "MED-C26-13",
+      "sec": "Causative Organisms Table (EBV 100/70/40/20 Rule, HIV, HCV, H. pylori, HHV-8, HTLV-1) & Ann-Arbor Staging",
+      "page": 147,
+      "fmt": "match",
+      "q": "Under 'Ann-Arbor staging of lymphomas :' on page 147, match each stage with its exact anatomical extent — 1) Stage I 2) Stage II 3) Stage III 4) Stage IV … A) Node regions both sides of diaphragm B) Diffuse extralymphatic involvement (Lung, Liver, Bone) C) Single lymph node region D) 2 or more node regions, same side of diaphragm",
+      "opts": [
+        "1-C, 2-D, 3-A, 4-B",
+        "1-B, 2-D, 3-A, 4-C",
+        "1-C, 2-A, 3-D, 4-B",
+        "1-D, 2-C, 3-B, 4-A"
+      ],
+      "ans": 0,
+      "exp": "Under 'Ann-Arbor staging of lymphomas :' on page 147: Stage I = Single lymph node region; Stage II = 2 or more node regions, same side of diaphragm; Stage III = Node regions both sides of diaphragm; Stage IV = Diffuse extralymphatic involvement (diagram labels: Lung, Liver, Bone). (Book p147)"
+    },
+    {
+      "id": "MED-C26-14",
+      "sec": "Causative Organisms Table (EBV 100/70/40/20 Rule, HIV, HCV, H. pylori, HHV-8, HTLV-1) & Ann-Arbor Staging",
+      "page": 147,
+      "fmt": "recall",
+      "q": "At the bottom of page 147, which four clinical/laboratory factors classify Early disease (Ann-Arbor Stages I–II) as 'Unfavourable', and how is Late/advanced disease (Stages III–IV) classified?",
+      "opts": [
+        "Early Unfavourable criteria: Age < 20, ↓ LDH, single nodal region, and normal performance status; Stages III–IV are Favourable by default",
+        "Early Unfavourable criteria: splenomegaly alone; Stages III–IV require all four risk factors to be considered Unfavourable",
+        "Early disease (Stages I–II) is always Favourable regardless of age or LDH; only Stage IV with bone marrow involvement is Unfavourable",
+        "Early Unfavourable criteria: Age ≥ 60, ↑ LDH, >1 extranodal site, and poor performance status; Late/advanced disease (Stages III–IV) is Unfavourable by default"
+      ],
+      "ans": 3,
+      "exp": "At the bottom of page 147, Stage I + II = 'Early disease', splitting into 'Favourable' vs 'Unfavourable (• Age ≥ 60. • ↑ LDH. • >1 extranodal site. • Poor performance status.)'; Stage III + IV = 'Late/advanced disease → Unfavourable by default.' (Book p147)"
+    },
+    {
+      "id": "MED-C26-15",
+      "sec": "Causative Organisms Table (EBV 100/70/40/20 Rule, HIV, HCV, H. pylori, HHV-8, HTLV-1) & Ann-Arbor Staging",
+      "page": 147,
+      "fmt": "truefalse",
+      "q": "Which statement accurately reflects the causative organisms and Ann-Arbor staging diagrams on page 147?",
+      "opts": [
+        "False — Both Post-organ transplant lymphoma and Primary CNS lymphoma linked to EBV exhibit DLBCL morphology",
+        "False — In the 100/70/40/20 rule for Hodgkin EBV involvement, Lymphocyte Depleted (LD) has 100% and Mixed Cellularity (MC) has 70% EBV positivity",
+        "True — Hepatitis C virus (HCV) is associated with Waldenstrom's macroglobulinemia and Splenic MZL, while HHV-8 causes Primary effusion lymphoma and Castleman's disease",
+        "True — Ann-Arbor Stage III indicates diffuse extralymphatic involvement of the lung, liver, and bone"
+      ],
+      "ans": 2,
+      "exp": "All four facts come directly from page 147: HCV → Waldenstrom's macroglobulinemia & Splenic MZL; HHV-8 → Primary effusion lymphoma & Castleman's disease; Stage IV = diffuse extralymphatic involvement (Lung, Liver, Bone); LD 100% / MC 70%; Post-transplant & Primary CNS lymphoma show DLBCL morphology. (Book p147)"
+    },
+    {
+      "id": "MED-C26-16",
+      "sec": "NHL General Features, Mantle Cell Lymphoma (t(11;14), SOX-11, R-CHOP Resistance) & Follicular Lymphoma Genetics",
+      "page": 148,
+      "fmt": "recall",
+      "q": "Under 'General features :' of Non-Hodgkin's Lymphoma at the top of page 148, what age of presentation, sex ratio, most common presenting feature, and most common involved nodal site are printed?",
+      "opts": [
+        "Age of presentation: 20 years; F > M; most common presenting feature: alcohol-induced painful lymphadenopathy; most common involved site: inguinal nodes",
+        "Age of presentation: 60 years; M > F; most common presenting feature: asymptomatic painless lymphadenopathy; most common involved site: supraclavicular nodes",
+        "Age of presentation: 13 years; M = F; most common presenting feature: drenching B symptoms; most common involved site: anterior mediastinum",
+        "Age of presentation: 72 years; F > M; most common presenting feature: bone tenderness and limping; most common involved site: epitrochlear nodes alone"
+      ],
+      "ans": 1,
+      "exp": "Under 'General features :' on page 148: '• Age of presentation : 60 years. • M > F. • m/c presenting feature : Asymptomatic painless lymphadenopathy. • m/c involved site : Supraclavicular nodes.' (Book p148)"
+    },
+    {
+      "id": "MED-C26-17",
+      "sec": "NHL General Features, Mantle Cell Lymphoma (t(11;14), SOX-11, R-CHOP Resistance) & Follicular Lymphoma Genetics",
+      "page": 148,
+      "fmt": "numeric",
+      "q": "Under 'General features :' of NHL on page 148, which three extranodal sites are listed (including bone marrow involvement percentage), and how common are B-symptoms and CNS involvement?",
+      "opts": [
+        "Extranodal sites: CNS meninges (80% cases), orbit, and testes; B-symptoms occur in >90% of all cases at onset",
+        "Extranodal sites: most common GIT, Waldeyer's ring, and bone marrow (30–40% cases); both B-symptoms and CNS involvement are very rare",
+        "Extranodal sites: skin exclusively, sparing GIT and Waldeyer's ring; high spiking fevers are universal at presentation",
+        "Extranodal sites: kidneys and myocardium only, with <5% bone marrow involvement; CNS involvement occurs in 75%"
+      ],
+      "ans": 1,
+      "exp": "Bullets 5–7 under 'General features :' on page 148 list: '• Extranodal sites involved : – m/c GIT. – Waldeyer's ring. – Bone marrow (30–40% cases). • B-symptoms : Very rare. • CNS involvement : Very rare.' (Book p148)"
+    },
+    {
+      "id": "MED-C26-18",
+      "sec": "NHL General Features, Mantle Cell Lymphoma (t(11;14), SOX-11, R-CHOP Resistance) & Follicular Lymphoma Genetics",
+      "page": 148,
+      "fmt": "recall",
+      "q": "Under 'Mantle cell lymphoma :' on page 148, what cell zone of origin and positive (+) versus negative (–) genetics/immunophenotype profile are shown?",
+      "opts": [
+        "Origin: Precursor thymocyte; Positive (+): CD30, ALK, and t(2 ; 5); Negative (–): CD19 and CD20",
+        "Origin: Germinal centre centrocyte; Positive (+): CD10, CD23, BCL-6, and t(14 ; 18); Negative (–): CD5 and Cyclin D1",
+        "Origin: Post-germinal marginal zone; Positive (+): CD103, Annexin, and BRAF V600E; Negative (–): CD5 and Cyclin D1",
+        "Origin: Pre-germinal centre; Positive (+): CD5, Cyclin D1, SOX-11, and t(11 ; 14); Negative (–): CD10 and CD23"
+      ],
+      "ans": 3,
+      "exp": "Under 'Mantle cell lymphoma :' on page 148: 'Origin : Pre-germinal centre. Genetics : [• CD5 • Cyclin D1 • SOX-11 • t (11 ; 14)] (+) ; [• CD10 • CD23] (–).' (Book p148)"
+    },
+    {
+      "id": "MED-C26-19",
+      "sec": "NHL General Features, Mantle Cell Lymphoma (t(11;14), SOX-11, R-CHOP Resistance) & Follicular Lymphoma Genetics",
+      "page": 148,
+      "fmt": "fillup",
+      "q": "Under 'Aggressive :' features of Mantle Cell Lymphoma on page 148, extranodal gastrointestinal tract involvement produces ______ in the GIT (alongside bone marrow, blood, and spleen involvement).",
+      "opts": [
+        "Cobblestone skip ulceration",
+        "Pseudomembranous colitis",
+        "Lymphomatoid polyposis",
+        "Atrophic fundic gastritis"
+      ],
+      "ans": 2,
+      "exp": "On the right side of the Mantle cell lymphoma section on page 148 under 'Aggressive :': '• Involves → Extranodal (Lymphomatoid polyposis in GIT), Bone marrow, Blood, Spleen.' (Book p148)"
+    },
+    {
+      "id": "MED-C26-20",
+      "sec": "NHL General Features, Mantle Cell Lymphoma (t(11;14), SOX-11, R-CHOP Resistance) & Follicular Lymphoma Genetics",
+      "page": 148,
+      "fmt": "management",
+      "q": "How does page 148 describe Mantle Cell Lymphoma's response to standard R-CHOP chemotherapy?",
+      "opts": [
+        "Unresponsive to standard therapy (R-CHOP)",
+        "Requires watch-and-wait observation only because all cases regress spontaneously",
+        "Cured in >90% of patients by just 2 cycles of standard R-CHOP",
+        "Responds completely to oral H. pylori eradication without chemotherapy"
+      ],
+      "ans": 0,
+      "exp": "Under 'Aggressive :' on page 148, the second bullet reads: '• Unresponsive to standard therapy (R-CHOP).' (Book p148)"
+    },
+    {
+      "id": "MED-C26-21",
+      "sec": "NHL General Features, Mantle Cell Lymphoma (t(11;14), SOX-11, R-CHOP Resistance) & Follicular Lymphoma Genetics",
+      "page": 148,
+      "fmt": "recall",
+      "q": "Which two subtypes of Mantle Cell Lymphoma are distinguished by SOX-11 status on page 148, and what is printed directly under 'Good prognostic factors :'?",
+      "opts": [
+        "1. Endemic: EBV positive; 2. Sporadic: EBV negative; 'Good prognostic factors : High LDH and t(8;14)'",
+        "1. Germinal centre: MUM-1 positive; 2. Activated B-cell: CD10 positive; 'Good prognostic factors : Double-hit rearrangement'",
+        "1. Classical: SOX-11 positive; 2. Leukemic non-nodal: SOX-11 negative; 'Good prognostic factors : SOX-11 upregulation' (as printed on p148)",
+        "1. Hypergranular: faggot positive; 2. Hypogranular: faggot negative; 'Good prognostic factors : 17p deletion'"
+      ],
+      "ans": 2,
+      "exp": "Below the Mantle cell photomicrograph on page 148: 'Types : 1. Classical : SOX-11 positive. 2. Leukemic non-nodal : SOX-11 negative.' And to its right: 'Good prognostic factors : SOX-11 upregulation' [preserved as printed; documented in known-source-caveats.md]. (Book p148)"
+    },
+    {
+      "id": "MED-C26-22",
+      "sec": "NHL General Features, Mantle Cell Lymphoma (t(11;14), SOX-11, R-CHOP Resistance) & Follicular Lymphoma Genetics",
+      "page": 148,
+      "fmt": "recall",
+      "q": "Under 'Follicular lymphoma : Genetics' at the bottom of page 148, which markers apply to ALL germinal-centre malignancies, and what specific translocation and chromosomal partners define Follicular Lymphoma?",
+      "opts": [
+        "CD10(+), CD23(+) and BCL-6 dysregulation mark all germinal-centre malignancies; Follicular lymphoma shows aberrant BCL-2 expression via t(14;18) — Chromosome 14: Immunoglobulin G heavy chain (as printed) and Chromosome 18: BCL-2",
+        "c-myc dysregulation on chromosome 8 marks all germinal-centre malignancies; Follicular lymphoma arises from t(8;14) with 100% Ki67 proliferation index",
+        "CD5(+) and Cyclin D1 overexpression mark all germinal-centre malignancies; Follicular lymphoma arises from t(11;14) involving BCL-1 on chromosome 11",
+        "CD30(+) and ALK fusion mark all germinal-centre malignancies; Follicular lymphoma arises from t(2;5) involving NPM1 and ALK"
+      ],
+      "ans": 0,
+      "exp": "At the bottom of page 148 under 'Follicular lymphoma : Germinal centre malignancy. Genetics :': '[• CD10(+) CD23(+) • BCL-6 dysregulation] → markers for all germinal centre malignancies; • Aberrant BCL-2 expression; • t (14;18) → Chromosome 14 : Immunoglobulin G heavy chain; Chromosome 18 : BCL-2.' (Book p148)"
+    },
+    {
+      "id": "MED-C26-23",
+      "sec": "Follicular Lymphoma Histology/Course/Rx, Germinal Centre Malignancies Table & MALToma (t(11;18), H. pylori, Sjögren)",
+      "page": 149,
+      "fmt": "recall",
+      "q": "At the top of page 149 under 'Histology :' of Follicular Lymphoma, what architectural pattern and two constituent cell types are listed?",
+      "opts": [
+        "Honeycomb / fried-egg fibrotic pattern composed of mononuclear cells with circumferential hairy projections",
+        "Diffuse starry-sky sheets composed of tingible-body macrophages and round non-cleaved blasts with cytoplasmic vacuoles",
+        "Nodular collagenous bands surrounding bilobed owl-eye Reed-Sternberg lacunar cells amidst eosinophils",
+        "Follicular pattern (paratrabecular lymphoid aggregates) with small cleaved cells and large non-cleaved cells"
+      ],
+      "ans": 3,
+      "exp": "At the top of page 149 under 'Histology :': 'Follicular pattern (Paratrabecular lymphoid aggregates) : With → Small cleaved cells / Large non cleaved cells.' (Book p149)"
+    },
+    {
+      "id": "MED-C26-24",
+      "sec": "Follicular Lymphoma Histology/Course/Rx, Germinal Centre Malignancies Table & MALToma (t(11;18), H. pylori, Sjögren)",
+      "page": 149,
+      "fmt": "management",
+      "q": "Under 'Additional points' and 'Treatment' of Follicular Lymphoma on page 149, which clinical course features are common, which cases are treated, and what agent is given for low tumor burden?",
+      "opts": [
+        "Extensive B-symptoms occur in >90% and spontaneous remission never occurs; treat all asymptomatic Stage I cases urgently with CODOX-M/IVAC",
+        "B-symptoms are rare while spontaneous remission and relapse are common; treat symptomatic cases only, using Rituximab for low tumor burden",
+        "Cured permanently in 80% by H. pylori triple eradication therapy; never relapses once remission is achieved",
+        "Immediate allogeneic stem cell transplant is mandatory in every newly diagnosed patient regardless of symptoms or tumor burden"
+      ],
+      "ans": 1,
+      "exp": "On page 149 for Follicular lymphoma: Additional points — '• B-symptoms : Rare. [• Spontaneous remission • Relapse] → Common.' Treatment — '• Symptomatic cases only. • Low tumor burden : Rituximab.' (Book p149)"
+    },
+    {
+      "id": "MED-C26-25",
+      "sec": "Follicular Lymphoma Histology/Course/Rx, Germinal Centre Malignancies Table & MALToma (t(11;18), H. pylori, Sjögren)",
+      "page": 149,
+      "fmt": "numeric",
+      "q": "Under 'Complications :' of Follicular Lymphoma on page 149, what annual risk is printed for Richter transformation from low-grade to high-grade lymphoma?",
+      "opts": [
+        "10–20% risk/year",
+        "25% risk/year",
+        "3% risk/year",
+        "80% risk/year"
+      ],
+      "ans": 2,
+      "exp": "Under 'Complications :' on page 149: 'Richter transformation (3% risk/year) : Low grade lymphoma —[Transforms]→ High grade lymphoma.' (Book p149)"
+    },
+    {
+      "id": "MED-C26-26",
+      "sec": "Follicular Lymphoma Histology/Course/Rx, Germinal Centre Malignancies Table & MALToma (t(11;18), H. pylori, Sjögren)",
+      "page": 149,
+      "fmt": "match",
+      "q": "In the 'Note :' table of Germinal Centre Malignancies on page 149, match each malignancy item with its exact 'Origin' or 'Feature' entry — 1) Follicular lymphoma — Origin 2) Follicular lymphoma — Feature 3) Burkitt's lymphoma & DLBCL — Origin 4) Burkitt's lymphoma & DLBCL — Feature … A) Centroblast B) Aggressive C) Centrocyte D) Low grade",
+      "opts": [
+        "1-C, 2-D, 3-A, 4-B",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-C, 2-B, 3-A, 4-D",
+        "1-A, 2-B, 3-C, 4-D"
+      ],
+      "ans": 0,
+      "exp": "The 'Note :' table on page 149 lists Germinal centre malignancies: 1. Follicular lymphoma → Origin: Centrocyte, Feature: Low grade; 2. Burkitt's lymphoma & 3. DLBCL → Origin: Centroblast, Feature: Aggressive. (Book p149)"
+    },
+    {
+      "id": "MED-C26-27",
+      "sec": "Follicular Lymphoma Histology/Course/Rx, Germinal Centre Malignancies Table & MALToma (t(11;18), H. pylori, Sjögren)",
+      "page": 149,
+      "fmt": "numeric",
+      "q": "Under 'Maltoma :' on page 149, what are its MZL frequency/site status, cell zone of origin, sex predilection reason, and exact percentage associated with H. pylori non-atrophic pan-gastritis?",
+      "opts": [
+        "Exclusively splenic MZL; Pro-B origin; Equal sex incidence; HCV association in 95% cases",
+        "Most common type of MZL (purely extranodal); Post-germinal centre origin; Females > Males (due to autoimmune association); H. pylori (non-atrophic pan-gastritis) in 95% cases",
+        "Purely leukemic MZL; Dark-zone centroblast origin; Adolescent boys; EBV association in 40% cases",
+        "Rarest nodal MZL; Pre-germinal mantle origin; Males > Females; H. pylori fundic atrophy in 20% cases"
+      ],
+      "ans": 1,
+      "exp": "Under 'Maltoma :' on page 149: '• m/c type of MZL (Purely extranodal). • Origin : Post-germinal centre. • Females > Males (D/t autoimmune association). Associations : H.pylori (Non atrophic pan-gastritis) in 95% cases.' (Book p149)"
+    },
+    {
+      "id": "MED-C26-28",
+      "sec": "Follicular Lymphoma Histology/Course/Rx, Germinal Centre Malignancies Table & MALToma (t(11;18), H. pylori, Sjögren)",
+      "page": 149,
+      "fmt": "recall",
+      "q": "What genetics/immunophenotype profile and presenting symptoms are listed under 'Maltoma' on page 149?",
+      "opts": [
+        "Genetics: BRAF V600E and CD103(+); Clinical features: Massive splenomegaly with dry tap",
+        "Genetics: CD30(+), ALK(+) and t(2 ; 5); Clinical features: Superior vena cava syndrome",
+        "Genetics: CD5(+), CD10(+), CD23(+) and t(8 ; 14); Clinical features: Jaw/maxillary swelling",
+        "Genetics: CD5(–), CD10(–), CD23(–) and t(11 ; 18); Clinical features: Upper GI symptoms"
+      ],
+      "ans": 3,
+      "exp": "Under Maltoma on page 149: 'Genetics : • CD5(–), CD10(–), CD23(–). • t(11 ; 18). Clinical features : Upper GI symptoms.' (Book p149)"
+    },
+    {
+      "id": "MED-C26-29",
+      "sec": "Follicular Lymphoma Histology/Course/Rx, Germinal Centre Malignancies Table & MALToma (t(11;18), H. pylori, Sjögren)",
+      "page": 149,
+      "fmt": "management",
+      "q": "What step-up treatment pathway, printed good prognostic factors, and high-grade complication are listed for MALToma at the bottom of page 149?",
+      "opts": [
+        "Treatment: watch-and-wait without antibiotics; Good prognostic factors: 17p deletion; Complication: Burkitt's leukemia",
+        "Treatment: H. pylori eradication (80% respond) → if no response: R-CHOP trial; Good prognostic factors (as printed): H. pylori +ve and t(11 ; 18); Complication: Richter transformation to DLBCL",
+        "Treatment: CODOX-M/IVAC first line; Good prognostic factors: high serum LDH; Complication: Myelofibrosis",
+        "Treatment: upfront total gastrectomy in all cases; Good prognostic factors: H. pylori –ve; Complication: Acute promyelocytic leukemia"
+      ],
+      "ans": 1,
+      "exp": "At the bottom of page 149 under Maltoma: 'Treatment : H. pylori eradication (80% respond) —[No response]→ R-CHOP trial. Good prognostic factors : • H. pylori +ve. • t(11 ; 18) [as printed on p149]. Complications : Richter transformation to DLBCL.' (Book p149)"
+    },
+    {
+      "id": "MED-C26-30",
+      "sec": "Follicular Lymphoma Histology/Course/Rx, Germinal Centre Malignancies Table & MALToma (t(11;18), H. pylori, Sjögren)",
+      "page": 149,
+      "fmt": "fillup",
+      "q": "According to the boxed 'Note :' at the bottom-right of page 149, Marginal Zone Lymphoma (MZL) in Sjögren syndrome characteristically involves the ______.",
+      "opts": [
+        "gastroesophageal junction",
+        "anterior thymus",
+        "salivary gland",
+        "renal cortex"
+      ],
+      "ans": 2,
+      "exp": "The boxed Note at the bottom-right of page 149 reads: 'Note : MZL in Sjogren syndrome : Involves salivary gland.' (Book p149)"
+    },
+    {
+      "id": "MED-C26-31",
+      "sec": "High-Grade Lymphomas Overview, Clinical Features & Prognostic Factors, and Diffuse Large B-Cell Lymphoma (DLBCL)",
+      "page": 150,
+      "fmt": "recall",
+      "q": "At the top of page 150 under 'HIGH GRADE LYMPHOMAS', which three entities are numbered 1–3, including the exact printed name, translocation, immunophenotype, and cell types under item 3?",
+      "opts": [
+        "1. Follicular lymphoma; 2. Small lymphocytic leukemia; 3. Marginal zone MALToma with t(11 ; 18) and CD5/CD10/CD23 negativity",
+        "1. Hairy cell leukemia; 2. Waldenström macroglobulinemia; 3. Mantle cell lymphoma with t(11 ; 14) and Cyclin D1 positivity",
+        "1. Nodular sclerosis Hodgkin disease; 2. Mixed cellularity Hodgkin disease; 3. Multiple myeloma with CD38 and CD138 positivity",
+        "1. Diffuse Large B-cell Lymphoma (DLBCL); 2. Burkitt's lymphoma; 3. Anaplastic large B-cell lymphoma [printed slip for ALCL] with t(2 ; 5), CD30+ve, hallmark cells, and flower cells"
+      ],
+      "ans": 3,
+      "exp": "At the top of page 150 under 'HIGH GRADE LYMPHOMAS': '1. Diffuse Large B-cell Lymphoma (DLBCL). 2. Burkitt's lymphoma. 3. Anaplastic large B-cell lymphoma [printed slip on p150; listed under Mature T-cell lymphomas on p146] : • t(2 ; 5). • CD30+ve. • Hallmark cells, flower cells.' (Book p150)"
+    },
+    {
+      "id": "MED-C26-32",
+      "sec": "High-Grade Lymphomas Overview, Clinical Features & Prognostic Factors, and Diffuse Large B-Cell Lymphoma (DLBCL)",
+      "page": 150,
+      "fmt": "recall",
+      "q": "Under 'Features of high grade lymphomas :' on page 150, what nodal presentation, B-symptom profile, extranodal vs BM/CNS line, and two bad prognostic biochemical factors are listed?",
+      "opts": [
+        "Rapidly progressive painless lymphadenopathy causing compression symptoms, extensive B-symptoms, extranodal involvement (e.g., GIT), 'no involvement of bone marrow or CNS' (as printed), and bad prognostic factors: LDH and hypoalbuminemia",
+        "Slowly progressive asymptomatic blood lymphocytosis (>60,000/µL) without nodal compression, and bad prognostic factors: isolated hypercalcemia and monoclonal IgM",
+        "Alcohol-induced lymph node pain exclusively in young females without GI involvement, and bad prognostic factors: elevated haptoglobin and low ESR",
+        "Indolent waxing-and-waning lymphadenopathy without mass effect, absence of B-symptoms, isolated splenic white-pulp disease, and bad prognostic factors: hyperalbuminemia and low LDH"
+      ],
+      "ans": 0,
+      "exp": "Under 'Features of high grade lymphomas :' on page 150: '• Rapidly progressive painless lymphadenopathy → Causes compression symptoms. • Extensive B-symptoms. • Extranodal involvement (Eg : GIT). • No involvement of bone marrow or CNS [general bullet printed on p150]. • Bad prognostic factors : – LDH. – Hypoalbuminemia.' (Book p150)"
+    },
+    {
+      "id": "MED-C26-33",
+      "sec": "High-Grade Lymphomas Overview, Clinical Features & Prognostic Factors, and Diffuse Large B-Cell Lymphoma (DLBCL)",
+      "page": 150,
+      "fmt": "fillup",
+      "q": "Under 'Features of high grade lymphomas → Bad prognostic factors :' on page 150, elevated serum LDH is paired with ______.",
+      "opts": [
+        "Hyperferritinemia",
+        "Hyperhaptoglobinemia",
+        "Hypouricemia",
+        "Hypoalbuminemia"
+      ],
+      "ans": 3,
+      "exp": "Bullet 5 under 'Features of high grade lymphomas :' on page 150 lists: '• Bad prognostic factors : – LDH. – Hypoalbuminemia.' (Book p150)"
+    },
+    {
+      "id": "MED-C26-34",
+      "sec": "High-Grade Lymphomas Overview, Clinical Features & Prognostic Factors, and Diffuse Large B-Cell Lymphoma (DLBCL)",
+      "page": 150,
+      "fmt": "oddoneout",
+      "q": "In the boxed 'Note : Ann-Arbor staging' on page 150, all of the following four risk parameters branch directly from '3,4 : Advanced' EXCEPT:",
+      "opts": [
+        "Age >60 years",
+        "Hyperalbuminemia >4.5 g/dL",
+        ">1 extranodal site",
+        "Poor performance status and High LDH"
+      ],
+      "ans": 1,
+      "exp": "The boxed Note on page 150 shows: 'Ann-Arbor staging → 1,2 : Early (Favourable / Unfavourable); 3,4 : Advanced → Age >60 years, >1 extranodal site, Poor performance status, High LDH.' (Book p150)"
+    },
+    {
+      "id": "MED-C26-35",
+      "sec": "High-Grade Lymphomas Overview, Clinical Features & Prognostic Factors, and Diffuse Large B-Cell Lymphoma (DLBCL)",
+      "page": 150,
+      "fmt": "recall",
+      "q": "Under the 'Diffuse Large B cell Lymphoma' section at the bottom of page 150, what age group, sex ratio, tumor behavior, and overall NHL status are printed?",
+      "opts": [
+        "Age >60 years; Male > Female; aggressive tumor; most common NHL",
+        "Median age 13 years; Adolescent boys; precursor lymphoid blast tumor",
+        "Age 15–34 years; Female > Male; benign self-limiting tumor; 5% of NHL",
+        "Age <10 years; Female > Male; low-grade indolent tumor; rarest NHL"
+      ],
+      "ans": 0,
+      "exp": "At the bottom of page 150 under 'Diffuse Large B cell Lymphoma': '• Age : >60 years. • Male > Female. • Aggressive tumor. • m/c NHL.' (Book p150)"
+    },
+    {
+      "id": "MED-C26-36",
+      "sec": "High-Grade Lymphomas Overview, Clinical Features & Prognostic Factors, and Diffuse Large B-Cell Lymphoma (DLBCL)",
+      "page": 150,
+      "fmt": "recall",
+      "q": "Under 'Clinical features :' of Diffuse Large B cell Lymphoma at the bottom of page 150, what is the most common site of primary lymphadenopathy and what is the main site of extranodal involvement?",
+      "opts": [
+        "Primary lymphadenopathy: most common site → Hilar bilateral; Extranodal involvement: mainly kidney",
+        "Primary lymphadenopathy: most common site → Epitrochlear; Extranodal involvement: mainly myocardium",
+        "Primary lymphadenopathy: most common site → Neck; Extranodal involvement: mainly GIT",
+        "Primary lymphadenopathy: most common site → Popliteal; Extranodal involvement: mainly meninges"
+      ],
+      "ans": 2,
+      "exp": "Under 'Clinical features :' of DLBCL at the bottom of page 150: '• Primary lymphadenopathy : m/c site → Neck. • Extranodal involvement : Mainly GIT.' (Book p150)"
+    },
+    {
+      "id": "MED-C26-37",
+      "sec": "DLBCL Subtypes (GCB vs ABC-DLBCL), Double/Triple-Hit vs Double-Expressor Venn Diagram & R-CHOP Regimen",
+      "page": 151,
+      "fmt": "recall",
+      "q": "At the top of page 151 under 'Types :' of DLBCL, what immunophenotype and prognosis characterize the 'Germinal centre' subtype?",
+      "opts": [
+        "CD 15+, CD 30+, PAX-5 weak; lacunar cells with mediastinal mass",
+        "CD 10–ve, MUM-1 +ve; HIV-defining illness with bad prognosis",
+        "CD 10, CD 23, BCL-6 +ve; Good prognosis",
+        "CD 5+, Cyclin D1+, CD 23–ve; unresponsive to R-CHOP"
+      ],
+      "ans": 2,
+      "exp": "On the left branch under 'Types : DLBCL → Germinal centre' at the top of page 151: '• CD 10, CD 23, BCL-6 +ve • Good prognosis.' (Book p151)"
+    },
+    {
+      "id": "MED-C26-38",
+      "sec": "DLBCL Subtypes (GCB vs ABC-DLBCL), Double/Triple-Hit vs Double-Expressor Venn Diagram & R-CHOP Regimen",
+      "page": 151,
+      "fmt": "recall",
+      "q": "On the right branch of 'Types :' on page 151, what cell of origin, two marker combinations, viral status, and prognosis define 'Activated B-cell DLBCL'?",
+      "opts": [
+        "Cells of origin: Pro-B cell; Markers: CD 34+ve, TdT+ve; Parvovirus associated; Spontaneous remission",
+        "Cells of origin: Naive B-cell; Markers: CD 5+ve, CD 23+ve; H. pylori associated; Excellent prognosis",
+        "Cells of origin: Centrocyte; Markers: CD 10+ve, CD 23+ve, MUM-1 –ve; HTLV-1 associated; Good prognosis",
+        "Cells of origin: Plasmablast; Markers: [CD 10–ve, BCL-6 +ve, MUM-1 expression +ve] or [CD 10–ve, BCL-6 –ve]; HIV-defining illness; Bad prognosis"
+      ],
+      "ans": 3,
+      "exp": "Under 'Activated B-cell DLBCL' on page 151: '• Cells of origin : Plasmablast. • Markers : – CD 10–ve, BCL-6 +ve, MUM-1 expression +ve; – CD 10–ve, BCL-6 –ve. • HIV-defining illness. • Bad prognosis.' (Book p151)"
+    },
+    {
+      "id": "MED-C26-39",
+      "sec": "DLBCL Subtypes (GCB vs ABC-DLBCL), Double/Triple-Hit vs Double-Expressor Venn Diagram & R-CHOP Regimen",
+      "page": 151,
+      "fmt": "oddoneout",
+      "q": "On page 151 under Activated B-cell DLBCL 'Presentations :', all of the following four site-specific lymphomas carry the brace rule 'ABC-DLBCL unless proven otherwise' EXCEPT:",
+      "opts": [
+        "Gastric H. pylori MALToma",
+        "CNS lymphoma",
+        "Organ transplant lymphoma and Body cavity lymphoma",
+        "Mediastinal lymphoma"
+      ],
+      "ans": 0,
+      "exp": "Under Activated B-cell DLBCL → 'Presentations :' on page 151, a brace groups '– CNS lymphoma. – Mediastinal lymphoma. – Organ transplant lymphoma. – Body cavity lymphoma.' as 'ABC-DLBCL unless proven otherwise'. (Book p151)"
+    },
+    {
+      "id": "MED-C26-40",
+      "sec": "DLBCL Subtypes (GCB vs ABC-DLBCL), Double/Triple-Hit vs Double-Expressor Venn Diagram & R-CHOP Regimen",
+      "page": 151,
+      "fmt": "recall",
+      "q": "Under 'Markers :' and 'Important terminologies :' on page 151, what is the relative frequency of BCL-6 vs BCL-2 alterations in DLBCL (compared with follicular lymphoma), and how are 'Double hit' and 'Triple hit' defined?",
+      "opts": [
+        "Aberrant BCL-2 > Dysregulated BCL-6 in DLBCL; Double hit = CD5 + Cyclin D1; Triple hit = CD19 + CD20 + CD22 — good prognosis",
+        "Dysregulated BCL-6 > Aberrant BCL-2 t(14;18) (Note: opposite in follicular lymphoma); Double hit = c-myc rearrangement + rearrangement of BCL-2/BCL-6; Triple hit = rearrangement of c-myc + BCL-2 + BCL-6 — both carry bad prognosis",
+        "BRAF V600E > MYD88 mutation; Double hit = simultaneous EBV + HIV infection — cured without chemotherapy",
+        "Isolated SOX-11 overexpression without BCL-6 or BCL-2 changes; Double hit = two lymph node sites on same side of diaphragm — good prognosis"
+      ],
+      "ans": 1,
+      "exp": "Middle of page 151: 'Markers : Dysregulated BCL-6 > Aberrant BCL-2 t(14;18) | Note : Opposite in follicular lymphoma.' Under 'Important terminologies :': 'Double hit : c-myc rearrangement + rearrangement of BCL-2/BCL-6; Triple hit : Rearrangement of c-myc + BCL-2 + BCL-6 } Bad prognosis.' (Book p151)"
+    },
+    {
+      "id": "MED-C26-41",
+      "sec": "DLBCL Subtypes (GCB vs ABC-DLBCL), Double/Triple-Hit vs Double-Expressor Venn Diagram & R-CHOP Regimen",
+      "page": 151,
+      "fmt": "recall",
+      "q": "In the Venn diagram 'Relationship of cell of origin and high BCL-2 and MYC expression in DLBCL' on page 151, which DLBCL cell-of-origin subtype corresponds to 'Double hit lymphomas' versus 'Double expressor lymphomas'?",
+      "opts": [
+        "Both Double hit and Double expressor lymphomas arise exclusively from mature T-cell lymphomas",
+        "Double hit lymphomas (overlap of BCL-2-R and MYC-R rearrangements) map to GCB; Double expressor lymphomas (overlap of High BCL-2 expression and High MYC expression) map to ABC",
+        "Double hit lymphomas lack chromosomal rearrangements; Double expressor lymphomas occur only in follicular lymphoma",
+        "Double hit lymphomas map exclusively to ABC; Double expressor lymphomas map exclusively to GCB without protein expression"
+      ],
+      "ans": 1,
+      "exp": "In the diagram on page 151 ('Relationship of cell of origin and high BCL-2 and MYC expression in DLBCL'), the left overlap of 'BCL-2-R' and 'MYC-R' points to 'Double hit lymphomas → GCB', while the right overlap of 'High BCL-2 expression' and 'High MYC expression' points to 'Double expressor lymphomas → ABC'. (Book p151)"
+    },
+    {
+      "id": "MED-C26-42",
+      "sec": "DLBCL Subtypes (GCB vs ABC-DLBCL), Double/Triple-Hit vs Double-Expressor Venn Diagram & R-CHOP Regimen",
+      "page": 151,
+      "fmt": "fillup",
+      "q": "At the bottom of page 151 under DLBCL 'Treatment : Regimen : R-CHOP', the five constituent drugs are Rituximab, Cyclophosphamide, Hydroxy-daunorubicin, ______ (Vincristine), and Prednisolone.",
+      "opts": [
+        "Ofatumumab",
+        "Oxaliplatin",
+        "Obinutuzumab",
+        "Oncovirin"
+      ],
+      "ans": 3,
+      "exp": "At the bottom of page 151 under 'Treatment : Regimen : R-CHOP': '• Rituximab. • Cyclophosphamide. • Hydroxy-daunorubicin. • Oncovirin (Vincristine). • Prednisolone.' (Book p151)"
+    },
+    {
+      "id": "MED-C26-43",
+      "sec": "DLBCL Interim-PET Flowchart & Burkitt's Lymphoma (c-myc Translocations, Endemic vs Sporadic, CODOX-M/IVAC, Starry Sky)",
+      "page": 152,
+      "fmt": "management",
+      "q": "In the DLBCL treatment flowchart at the top of page 152 following '2 cycles of R-CHOP → Interim PET', what subsequent management is shown for 'Good score' (early favourable vs early unfavourable) versus 'Advanced disease'?",
+      "opts": [
+        "Good score: 8 cycles of ABVD + bleomycin; Advanced disease → single-agent rituximab observation without transplant",
+        "Good score: stop all therapy immediately after 2 cycles in both groups; Advanced disease → oral hydroxyurea maintenance alone",
+        "Good score: Early, favourable disease → 2 more cycles of R-CHOP; Early, unfavourable disease → 4 more cycles of R-CHOP; Advanced disease → Autologous stem cell transplant",
+        "Good score: immediate allogeneic stem cell transplant in Stage I; Advanced disease → H. pylori triple eradication therapy"
+      ],
+      "ans": 2,
+      "exp": "At the top of page 152: '2 cycles of R-CHOP → Interim PET' branches into 'Good score' ('Early, favourable disease → 2 more cycles of R-CHOP' and 'Early, unfavourable disease → 4 more cycles of R-CHOP') and 'Advanced disease → Autologous stem cell transplant.' (Book p152)"
+    },
+    {
+      "id": "MED-C26-44",
+      "sec": "DLBCL Interim-PET Flowchart & Burkitt's Lymphoma (c-myc Translocations, Endemic vs Sporadic, CODOX-M/IVAC, Starry Sky)",
+      "page": 152,
+      "fmt": "numeric",
+      "q": "Under 'Burkitt's Lymphoma' on page 152, what percentage of childhood NHL does it represent, and what CNS, chemosensitivity, and surface/nuclear marker features are listed?",
+      "opts": [
+        "Childhood lymphoma representing 30% of childhood NHL; can involve CNS, chemosensitive, and CD10 and BCL-6 +ve",
+        "Represents 80% of pediatric acute leukemia; CD34 and TdT +ve with MPO positivity",
+        "Represents 5% of childhood NHL; spares meninges, radioresistant, and CD15 and CD30 +ve",
+        "Represents 90% of elderly NHL; never involves CNS, chemoresistant, and CD5 and Cyclin D1 +ve"
+      ],
+      "ans": 0,
+      "exp": "Under 'Burkitt's Lymphoma' on page 152: 'Childhood lymphoma (30% of childhood NHL). Can involve CNS. Chemosensitive. CD10 and BCL-6 +ve.' (Book p152)"
+    },
+    {
+      "id": "MED-C26-45",
+      "sec": "DLBCL Interim-PET Flowchart & Burkitt's Lymphoma (c-myc Translocations, Endemic vs Sporadic, CODOX-M/IVAC, Starry Sky)",
+      "page": 152,
+      "fmt": "recall",
+      "q": "Under 'Pathophysiology :' of Burkitt's Lymphoma on page 152, which three chromosome 8 c-myc translocations (and which most common one) lead to high myc protein and the highest Ki67 proliferative index among NHL?",
+      "opts": [
+        "BCR-ABL fusion on chromosome 22 via t(9 ; 22) [most common], inv(16), and t(15 ; 17) → Complete arrest without proliferation",
+        "c-myc dysregulation on chromosome 8 via t(8 ; 14) [most common], t(8 ; 2), and t(8 ; 22) → High levels of myc protein → Highest proliferative index (Ki67) among NHL",
+        "BCL-2 dysregulation on chromosome 18 via t(14 ; 18) [most common], t(11 ; 14), and t(2 ; 5) → Lowest Ki67 index among NHL",
+        "API2-MALT1 fusion via t(11 ; 18) [most common] → Indolent mucosal growth responsive to antibiotics"
+      ],
+      "ans": 1,
+      "exp": "Under 'Pathophysiology :' of Burkitt's Lymphoma on page 152: 'c-myc dysregulation on chromosome 8 → [t(8 ; 14) : m/c, t(8 ; 2), t(8 ; 22)] → High levels of myc protein → Highest proliferative index (Ki67) among NHL.' (Book p152)"
+    },
+    {
+      "id": "MED-C26-46",
+      "sec": "DLBCL Interim-PET Flowchart & Burkitt's Lymphoma (c-myc Translocations, Endemic vs Sporadic, CODOX-M/IVAC, Starry Sky)",
+      "page": 152,
+      "fmt": "recall",
+      "q": "Under 'Types :' of Burkitt's Lymphoma on page 152, how do the Endemic, Sporadic, and third clinical variant differ?",
+      "opts": [
+        "Endemic: H. pylori +ve, gastric antral ulcer; Sporadic: HCV +ve, isolated splenic white-pulp micronodules",
+        "Endemic: HTLV-1 +ve, hypercalcemia & lytic lesions; Sporadic: HHV-8 +ve, pleural cavity effusion without solid tumor mass",
+        "Endemic: elderly adults, EBV –ve, ileocecal abdominal mass; Sporadic: young children, EBV +ve, mandibular mass without marrow involvement",
+        "Endemic: children, EBV +ve, jaw/maxillary mass; Sporadic: adult, EBV –ve, abdominal mass, bone marrow involved (>30% cases); Third type: HIV associated (immunodeficiency associated)"
+      ],
+      "ans": 3,
+      "exp": "Under 'Types :' of Burkitt's Lymphoma on page 152: 'Endemic → • Children. • EBV +ve. • Jaw/maxillary mass'; 'Sporadic → • Adult. • EBV –ve. • Abdominal mass. • Bone marrow involved (>30% cases)'; and 'HIV associated (Immunodeficiency associated)'. (Book p152)"
+    },
+    {
+      "id": "MED-C26-47",
+      "sec": "DLBCL Interim-PET Flowchart & Burkitt's Lymphoma (c-myc Translocations, Endemic vs Sporadic, CODOX-M/IVAC, Starry Sky)",
+      "page": 152,
+      "fmt": "management",
+      "q": "What intensive chemotherapy regimen is specified under 'Treatment :' of Burkitt's Lymphoma on page 152, and how does it respond to conventional chemotherapy?",
+      "opts": [
+        "Cladribine single-course infusion; maintenance oral methotrexate + 6-mercaptopurine only",
+        "Standard R-CHOP × 2 cycles; responds completely to single-agent oral chlorambucil",
+        "CODOX-M/IVAC regime; doesn't respond to conventional chemotherapy",
+        "FCR (Fludarabine + Cyclophosphamide + Rituximab); watch-and-wait until Stage 3 anemia"
+      ],
+      "ans": 2,
+      "exp": "Under 'Treatment :' of Burkitt's Lymphoma on page 152: 'CODOX-M/IVAC regime. Doesn't respond to conventional chemotherapy.' (Book p152)"
+    },
+    {
+      "id": "MED-C26-48",
+      "sec": "DLBCL Interim-PET Flowchart & Burkitt's Lymphoma (c-myc Translocations, Endemic vs Sporadic, CODOX-M/IVAC, Starry Sky)",
+      "page": 152,
+      "fmt": "recall",
+      "q": "At the bottom of page 152, which three lymphomas (including exact DLBCL percentage) are listed under 'Note : Lymphomas with bone marrow involvement :', and what represent the 'Stars' versus the 'Sky' in the Burkitt's Lymphoma histology caption?",
+      "opts": [
+        "Bone marrow involvement: Burkitt's lymphoma, Mantle cell lymphoma, and DLBCL (20%); Starry sky appearance / tingible body macrophages of BL: Stars → Macrophages, Sky → Tumor cells",
+        "Bone marrow involvement: Cutaneous ALCL only; Stars → Plasma cells with Russell bodies, Sky → Fibrous collagen stroma",
+        "Bone marrow involvement: Gastric MALToma, Classical Hodgkin NS, and Mycosis fungoides; Stars → Reed-Sternberg cells, Sky → Reactive eosinophils",
+        "Bone marrow involvement: Primary effusion lymphoma only; Stars → Tumor lymphoblasts, Sky → Mature marrow adipocytes"
+      ],
+      "ans": 0,
+      "exp": "At the bottom of page 152: 'Note : Lymphomas with bone marrow involvement : • Burkitt's lymphoma. • Mantle cell lymphoma. • DLBCL (20%).' Caption under photomicrograph: 'Starry sky appearance/tingible body macrophages of BL : • Stars → Macrophages • Sky → Tumor cells.' (Book p152)"
+    },
+    {
+      "id": "MED-C26-49",
+      "sec": "DLBCL Interim-PET Flowchart & Burkitt's Lymphoma (c-myc Translocations, Endemic vs Sporadic, CODOX-M/IVAC, Starry Sky)",
+      "page": 152,
+      "fmt": "scenario",
+      "q": "An 8-year-old child presents with a rapidly enlarging maxillary/jaw mass. Biopsy shows diffuse sheets of CD10+, BCL-6+ B-cells with a near-100% Ki67 proliferative index interspersed with pale benign phagocytic macrophages ('starry sky appearance'). Which chromosome 8 translocation is most common and which regimen is indicated per page 152?",
+      "opts": [
+        "t(11 ; 14) causing Cyclin D1 overexpression; treat with standard R-CHOP × 2 cycles",
+        "t(11 ; 18) associated with H. pylori gastritis; treat with oral triple-antibiotic therapy",
+        "t(14 ; 18) causing aberrant BCL-2 expression; observe expectantly without chemotherapy",
+        "t(8 ; 14) causing c-myc dysregulation (EBV +ve endemic Burkitt's lymphoma); treat with intensive CODOX-M/IVAC regime"
+      ],
+      "ans": 3,
+      "exp": "Page 152 links pediatric EBV +ve jaw/maxillary mass to Endemic Burkitt's lymphoma with CD10 & BCL-6 positivity, t(8 ; 14) [most common c-myc translocation], highest Ki67 index among NHL, starry sky appearance (Stars = macrophages, Sky = tumor cells), treated with the CODOX-M/IVAC regime. (Book p152)"
+    },
+    {
+      "id": "MED-C26-50",
+      "sec": "DLBCL Interim-PET Flowchart & Burkitt's Lymphoma (c-myc Translocations, Endemic vs Sporadic, CODOX-M/IVAC, Starry Sky)",
+      "page": 152,
+      "fmt": "truefalse",
+      "q": "Which statement regarding Burkitt's Lymphoma on page 152 is TRUE?",
+      "opts": [
+        "False — Burkitt's lymphoma accounts for 30% of childhood NHL, can involve the CNS, and exhibits the highest Ki67 proliferative index among NHLs",
+        "True — Sporadic Burkitt's lymphoma occurs in adults, is EBV negative, presents with an abdominal mass, and involves the bone marrow in >30% of cases",
+        "True — In the starry-sky histology of Burkitt's lymphoma, the 'stars' represent neoplastic c-myc tumor cells and the 'sky' represents macrophages",
+        "False — Burkitt's lymphoma does not respond to conventional chemotherapy and requires the CODOX-M/IVAC regimen"
+      ],
+      "ans": 1,
+      "exp": "On page 152: Sporadic BL = Adult, EBV –ve, abdominal mass, bone marrow involved (>30% cases); Stars = Macrophages and Sky = Tumor cells; childhood BL = 30% of childhood NHL, can involve CNS, highest Ki67 among NHL, treated with CODOX-M/IVAC. (Book p152)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U26-1",
+      "ch": 26,
+      "n": 1,
+      "title": "Classification by Cell of Origin, Mature T-Cell Lymphomas (ALCL to Hepatosplenic) & Grade-Based Classification",
+      "sec": "Classification by Cell of Origin, Mature T-Cell Lymphomas (ALCL to Hepatosplenic) & Grade-Based Classification",
+      "guide": "Cell of origin: Precursor T → T-ALL/LBL; Mature T → mature T-cell lymphoma; Precursor B → ALL; Pre-GC → MCL; Centroblasts → DLBCL, Burkitt's; Centrocytes → Follicular; Post-GC → MZL; Plasmablast → ABC-DLBCL.\nMature T-cell lymphomas: (1) ALCL — ALK (CD30)+, t(2;5), breast implants, hallmark cells; (2) Angioimmunoblastic; (3) Enteropathy/Celiac T-cell; (4) Mycosis fungoides/Sezary; (5) Extranodal NK/T (EBV+); (6) HTLV-1 adult T-cell; (7) Hepatosplenic.\nPrognosis & grade: B-cell > T-cell; m/c NHL = DLBCL. Grade: Low (SLL, MZL, Follicular); Intermediate–high (MCL); High (DLBCL, Burkitt's).",
+      "qs": [
+        "MED-C26-01",
+        "MED-C26-02",
+        "MED-C26-03",
+        "MED-C26-04",
+        "MED-C26-05",
+        "MED-C26-06",
+        "MED-C26-07",
+        "MED-C26-08"
+      ]
+    },
+    {
+      "id": "MED-U26-2",
+      "ch": 26,
+      "n": 2,
+      "title": "Causative Organisms Table (EBV 100/70/40/20 Rule, HIV, HCV, H. pylori, HHV-8, HTLV-1) & Ann-Arbor Staging",
+      "sec": "Causative Organisms Table (EBV 100/70/40/20 Rule, HIV, HCV, H. pylori, HHV-8, HTLV-1) & Ann-Arbor Staging",
+      "guide": "Organisms: EBV → Hodgkin 100/70/40/20 rule (LD 100%, MC 70%, NS 40%, LR 20%) & NHL (B-cell: Burkitt's, Post-transplant & Primary CNS [DLBCL morphology]; T-cell: Extranodal NK/T); HIV → DLBCL, Burkitt's; HCV → Waldenstrom's, Splenic MZL; H. pylori → MALToma; HHV-8 → Primary effusion lymphoma, Castleman's; HTLV-1 → Adult T-cell leukemia/lymphoma.\nAnn-Arbor staging: I (single LN region), II (≥2 LN regions same side of diaphragm), III (both sides of diaphragm), IV (diffuse extralymphatic: lung, liver, bone).\nRisk grouping: Stages I–II = Early (Unfavourable if Age ≥60, ↑ LDH, >1 extranodal site, poor PS); Stages III–IV = Late/advanced (Unfavourable by default).",
+      "qs": [
+        "MED-C26-09",
+        "MED-C26-10",
+        "MED-C26-11",
+        "MED-C26-12",
+        "MED-C26-13",
+        "MED-C26-14",
+        "MED-C26-15"
+      ]
+    },
+    {
+      "id": "MED-U26-3",
+      "ch": 26,
+      "n": 3,
+      "title": "NHL General Features, Mantle Cell Lymphoma (t(11;14), SOX-11, R-CHOP Resistance) & Follicular Lymphoma Genetics",
+      "sec": "NHL General Features, Mantle Cell Lymphoma (t(11;14), SOX-11, R-CHOP Resistance) & Follicular Lymphoma Genetics",
+      "guide": "General NHL features: Age 60 yrs, M > F, m/c asymptomatic painless lymphadenopathy, m/c nodal site = supraclavicular; extranodal = GIT (m/c), Waldeyer's ring, BM (30–40%); B-symptoms & CNS very rare.\nMantle cell lymphoma: Pre-GC origin; CD5+, Cyclin D1+, SOX-11+, t(11;14), CD10–, CD23–; aggressive (GIT lymphomatoid polyposis, BM, blood, spleen; unresponsive to R-CHOP); Classical = SOX-11+, Leukemic non-nodal = SOX-11– (printed good prognostic factor: SOX-11 upregulation).\nFollicular lymphoma genetics: CD10+, CD23+ & BCL-6 dysregulation (all GC malignancies) + aberrant BCL-2 from t(14;18) (chr 14 IgG heavy chain [printed] + chr 18 BCL-2).",
+      "qs": [
+        "MED-C26-16",
+        "MED-C26-17",
+        "MED-C26-18",
+        "MED-C26-19",
+        "MED-C26-20",
+        "MED-C26-21",
+        "MED-C26-22"
+      ]
+    },
+    {
+      "id": "MED-U26-4",
+      "ch": 26,
+      "n": 4,
+      "title": "Follicular Lymphoma Histology/Course/Rx, Germinal Centre Malignancies Table & MALToma (t(11;18), H. pylori, Sjögren)",
+      "sec": "Follicular Lymphoma Histology/Course/Rx, Germinal Centre Malignancies Table & MALToma (t(11;18), H. pylori, Sjögren)",
+      "guide": "Follicular lymphoma: Paratrabecular lymphoid aggregates with small cleaved + large non-cleaved cells; B-symptoms rare, spontaneous remission & relapse common; treat symptomatic only (low burden: Rituximab); Richter transformation 3%/yr. GC table: Centrocyte = Follicular (low grade); Centroblast = Burkitt's & DLBCL (aggressive).\nMALToma: m/c MZL (purely extranodal), post-GC origin, F > M (autoimmune), H. pylori non-atrophic pan-gastritis in 95%; CD5–, CD10–, CD23–, t(11;18); upper GI symptoms.\nMALToma Rx & notes: H. pylori eradication (80% respond) → R-CHOP trial if no response; printed good prognosis = H. pylori +ve, t(11;18); Richter conversion to DLBCL; Sjögren MZL involves salivary gland.",
+      "qs": [
+        "MED-C26-23",
+        "MED-C26-24",
+        "MED-C26-25",
+        "MED-C26-26",
+        "MED-C26-27",
+        "MED-C26-28",
+        "MED-C26-29",
+        "MED-C26-30"
+      ]
+    },
+    {
+      "id": "MED-U26-5",
+      "ch": 26,
+      "n": 5,
+      "title": "High-Grade Lymphomas Overview, Clinical Features & Prognostic Factors, and Diffuse Large B-Cell Lymphoma (DLBCL)",
+      "sec": "High-Grade Lymphomas Overview, Clinical Features & Prognostic Factors, and Diffuse Large B-Cell Lymphoma (DLBCL)",
+      "guide": "High-grade lymphomas: (1) DLBCL, (2) Burkitt's, (3) Anaplastic large lymphoma [printed 'B-cell' on p150] — t(2;5), CD30+, hallmark & flower cells.\nHigh-grade features: Rapidly progressive painless lymphadenopathy causing compression, extensive B-symptoms, extranodal (e.g., GIT), 'no involvement of BM or CNS' (general note), bad prognosis = LDH & hypoalbuminemia.\nDLBCL overview: Age >60 yrs, M > F, aggressive, m/c NHL; primary nodal site = Neck; extranodal = mainly GIT.",
+      "qs": [
+        "MED-C26-31",
+        "MED-C26-32",
+        "MED-C26-33",
+        "MED-C26-34",
+        "MED-C26-35",
+        "MED-C26-36"
+      ]
+    },
+    {
+      "id": "MED-U26-6",
+      "ch": 26,
+      "n": 6,
+      "title": "DLBCL Subtypes (GCB vs ABC-DLBCL), Double/Triple-Hit vs Double-Expressor Venn Diagram & R-CHOP Regimen",
+      "sec": "DLBCL Subtypes (GCB vs ABC-DLBCL), Double/Triple-Hit vs Double-Expressor Venn Diagram & R-CHOP Regimen",
+      "guide": "DLBCL subtypes: Germinal centre (CD10+, CD23+, BCL-6+; good prognosis) vs Activated B-cell / ABC-DLBCL (plasmablast origin; CD10–/BCL-6+/MUM-1+ or CD10–/BCL-6–; CNS, mediastinal, organ transplant & body cavity lymphomas = ABC-DLBCL unless proven otherwise; HIV-defining; bad prognosis).\nGenetics & Venn diagram: Dysregulated BCL-6 > aberrant BCL-2 t(14;18) (opposite in follicular). Double hit (c-myc + BCL-2/BCL-6 rearrangements, GCB) & Triple hit (c-myc + BCL-2 + BCL-6) = bad prognosis; Double expressor (high MYC + BCL-2 protein, ABC).\nTreatment: R-CHOP = Rituximab + Cyclophosphamide + Hydroxy-daunorubicin + Oncovirin (Vincristine) + Prednisolone.",
+      "qs": [
+        "MED-C26-37",
+        "MED-C26-38",
+        "MED-C26-39",
+        "MED-C26-40",
+        "MED-C26-41",
+        "MED-C26-42"
+      ]
+    },
+    {
+      "id": "MED-U26-7",
+      "ch": 26,
+      "n": 7,
+      "title": "DLBCL Interim-PET Flowchart & Burkitt's Lymphoma (c-myc Translocations, Endemic vs Sporadic, CODOX-M/IVAC, Starry Sky)",
+      "sec": "DLBCL Interim-PET Flowchart & Burkitt's Lymphoma (c-myc Translocations, Endemic vs Sporadic, CODOX-M/IVAC, Starry Sky)",
+      "guide": "DLBCL response-adapted Rx: 2 cycles R-CHOP → Interim PET: Good score → +2 cycles R-CHOP (early favourable) or +4 cycles R-CHOP (early unfavourable); Advanced disease → Autologous stem cell transplant.\nBurkitt's lymphoma: 30% of childhood NHL, CNS involvement, chemosensitive, CD10+ & BCL-6+; chr 8 c-myc translocations t(8;14) [m/c], t(8;2), t(8;22) → highest Ki67 among NHL.\nTypes, Rx & histology: Endemic (children, EBV+, jaw/maxillary mass), Sporadic (adult, EBV–, abdominal mass, BM >30%), HIV-associated. Rx: CODOX-M/IVAC (unresponsive to conventional chemo). BM involvement note: Burkitt's, MCL, DLBCL (20%). Starry sky: Stars = macrophages, Sky = tumor cells.",
+      "qs": [
+        "MED-C26-43",
+        "MED-C26-44",
+        "MED-C26-45",
+        "MED-C26-46",
+        "MED-C26-47",
+        "MED-C26-48",
+        "MED-C26-49",
+        "MED-C26-50"
+      ]
+    }
+  ]
+}
