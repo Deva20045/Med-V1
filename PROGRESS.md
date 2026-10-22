@@ -1,14 +1,49 @@
 # PULSE Medicine Vol 1 — Progress
 
-Updated **2026-10-03** (Chapters 22–23 released and deployed; source review now reaches Book p139). Standalone offline quiz based on *PULSE Medicine Vol 1*, printed Book p1–375 (Marrow Edition 8).
+Updated **2026-10-22** (Chapters 24–28 released and deployed; source review now reaches Book p168). Standalone offline quiz based on *PULSE Medicine Vol 1*, printed Book p1–375 (Marrow Edition 8).
 
 - Repository: `Deva20045/Med-V1`
-- Session branch: `arena/01a1017f-med-v1`
+- Session branch: `arena/1ab0975c-med-v1`
 - Published URL: https://deva20045.github.io/Med-V1/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 23 live chapters / 61 · 2,021 questions / 177 units.** Chapters 1–23 are embedded by `build_content.py`; the GitHub Pages deployment for this release succeeded. Source coverage is complete through Book p139.
+- **Build status: 28 live chapters / 61 · 2,228 questions / 206 units.** Chapters 1–28 are embedded by `build_content.py`; source coverage is complete through Book p168.
 
-## This release — Chapters 22 to 23 (Book p126–139)
+## This release — Chapters 24 to 28 (Book p140–168)
+
+The requested five lymphoma and plasma-cell disorder chapters were reviewed sheet-by-sheet in printed order (`uploads/02.pdf` PDF23–51 = Book p140–168, plus PDF52 verified as Book p169 starting Chapter 29 *Platelets - Basics*), then encoded with deterministically balanced, non-predictable options across all 8 formats (`recall`, `numeric`, `scenario`, `truefalse`, `oddoneout`, `management`, `fillup`, and bijective `match` items) and page-cited explanations. All source-text quirks (`C19` on p141, Rai Stage 4 `Pancytopenia` on p143, `M. kansasi` / `CD₁₀, CD₂₁` on p144–145, `SOX-11 upregulation` & `Immunoglobulin G heavy chain` on p148, `t(11;18)` under MALToma good prognosis on p149, `Anaplastic large B-cell lymphoma` & BM/CNS line on p150, `Oncovirin` on p151, `NK-κβ` on p153, `LD : RS cell absent` on p155, `Alcohol induced ↑ size in node` on p156, `≥4 extranodal sites` on p157, `+3 more cycles` on p158, `↑ β₂ glycoprotein` & `Plasmacytosis` photo caption on p163, `CD135` / `CD 5+` on p164, `Anti-Xa antibodies` under hepatic amyloid biopsy on p167, and `Reflex tachycardia` / `Macroglossia` grouping on p168) are preserved faithfully and documented in [audit/known-source-caveats.md](audit/known-source-caveats.md). Existing Chapters 1–23 remain unchanged.
+
+| Ch | Title | Printed pages | PDF sheets | Questions | Units |
+|---:|---|---:|---:|---:|---:|
+| 24 | World of Lymphomas | 140–141 | 02.pdf PDF23–24 | 21 | 2 |
+| 25 | Chronic Lymphocytic Leukemia | 142–145 | 02.pdf PDF25–28 | 36 | 4 |
+| 26 | Non-Hodgkin's Lymphoma | 146–152 | 02.pdf PDF29–35 | 50 | 7 |
+| 27 | Hodgkin's Disease | 153–158 | 02.pdf PDF36–41 | 37 | 6 |
+| 28 | Plasma Cell Disorders | 159–168 | 02.pdf PDF42–51 | 63 | 10 |
+| **Cumulative total** |  | **168 book pages** |  | **2,228** | **206** |
+
+Cumulative format distribution through Chapter 28: 1,406 recall, 241 numeric, 171 match, 132 fillup, 79 scenario, 77 truefalse, 66 oddoneout, 56 management.
+
+### Chapter 24 — World of Lymphomas (p140–141)
+
+Initial lymphadenopathy workup (biopsy → FNAC only for lymphoma → excisional biopsy IOC; flow cytometry for CD antigens; cytogenetics/karyotyping/FISH/PCR), common lymphoid progenitor markers (TdT+ + CD34+ + surface markers–; marrow blasts >20% = ALL vs <20% + LN mass = LBL), precursor B-cell differentiation (Pro-B CD19+, Pre-B CD20+ m/c ALL with Early pre-B best prognosis, Naive B surface IgM & IgD, CLL B-cell tumor), lymph node compartmentalization (Pre-GC → Mantle cell lymphoma CD5+, CD20+, CD23–, Cyclin D1+; Germinal centre BCL-6, CD10+, CD23+ → Follicular BCL-2+ low-grade centrocyte vs DLBCL & Burkitt's high-grade centroblast; Post-GC/marginal zone CD20+, CD5/CD10/CD23– → MALToma H. pylori/Sjögren, Splenic MZL HCV, Nodal MZL), plasma cell myeloma markers (CD38, CD138, C19 [printed]), and the B-cell vs T-cell CD marker summary table.
+
+### Chapter 25 — Chronic Lymphocytic Leukemia (p142–145)
+
+CLL overview (m/c elderly leukemia, >65 yrs, M>F, asymptomatic blood lymphocytosis ≥5000 cells/µL on incidental CBC; defective BCL-2 apoptosis; monoclonal mature naive B-cells; SLL nodal counterpart <5000 cells/µL; etiology with no radiation risk), diagnostic workup (lymphocytosis >60,000, smudge cells, hypercellular marrow >30% lymphoid cells, CD5+, CD19+, CD23+, ZAP-70+; Richter transformation to DLBCL; warm AIHA positive Coombs test), combined Rai & Binet staging table (Stages 0–4) & treatment indications (Stages 3–4, B symptoms, symptomatic splenomegaly, AIHA/ITP), CLL prognostic table (Good vs Bad across ZAP-70/CD38, IgVH status, del(13q14) vs del(17p) TP53, del(11q), trisomy 12, β2-microglobulin, staging) & regimens (FCR vs BR ± ibrutinib/venetoclax/rituximab), and Hairy Cell Leukemia (>50 yrs, M:F 4:1, BRAF V600E → RAF-MEK-ERK, massive splenomegaly, pancytopenia + diagnostic monocytopenia, M. kansasii, hairy projections, TRAP+ tartrate-resistant acid phosphatase, dry tap reticulin fibrosis, 'fried-egg' marrow biopsy, CD19/20/22+ & specific CD11c/CD25/CD103/Annexin+, Cladribine DOC, Pentostatin/Vemurafenib/Rituximab, polyarteritis nodosa association).
+
+### Chapter 26 — Non-Hodgkin's Lymphoma (p146–152)
+
+Classification by cell of origin (Precursor/Mature T-cell; Precursor B → ALL, Pre-GC → MCL, Centroblasts → DLBCL/Burkitt's, Centrocytes → Follicular, Post-GC → MZL, Plasmablast → ABC-DLBCL), mature T-cell lymphomas (ALCL ALK/CD30+, t(2;5), breast implants, hallmark cells; angioimmunoblastic; enteropathy/celiac; mycosis fungoides/Sezary; extranodal NK/T EBV+; HTLV-1 adult T-cell; hepatosplenic), grade classification, causative organisms table (EBV 100/70/40/20 rule in HD + Burkitt/PTLD/PCNSL/NK-T; HIV; HCV; H. pylori; HHV-8; HTLV-1), Ann-Arbor staging (I–IV + early unfavourable criteria), general NHL clinical profile, Mantle Cell Lymphoma (t(11;14), CD5+/Cyclin D1+/SOX-11+/CD23–, GIT lymphomatoid polyposis, R-CHOP resistance, classical vs leukemic non-nodal), Follicular Lymphoma (t(14;18) BCL-2, paratrabecular aggregates of cleaved/non-cleaved cells, watch-and-wait vs rituximab, 3%/yr Richter transformation), MALToma (95% H. pylori non-atrophic pan-gastritis, CD5/10/23–, t(11;18), 80% antibiotic response → R-CHOP trial, Sjögren salivary MZL), high-grade NHL & DLBCL (GCB vs ABC-DLBCL plasmablast/MUM-1/HIV-defining, Double/Triple-hit GCB vs Double-expressor ABC Venn diagram, R-CHOP regimen, interim-PET response flowchart), and Burkitt's Lymphoma (30% childhood NHL, chr 8 c-myc t(8;14)/t(8;2)/t(8;22), highest Ki67, Endemic jaw EBV+ vs Sporadic abdominal EBV– vs HIV, CODOX-M/IVAC, starry-sky macrophages).
+
+### Chapter 27 — Hodgkin's Disease (p153–158)
+
+Germinal-centre physiology diagram (Dark-zone centroblasts → Light-zone centrocytes → Post-GC memory B-cells & plasmablasts/plasma cells), B-cell tumor origin summary table, NF-κB [printed NK-κβ] upregulation & chr 9 PDL1 aberration decreasing apoptosis in dark-zone B-cells, stage cure rates (>90% / ≥85% / ~80%), HL vs NHL comparison table (bimodal 15–34 & >60 yrs, contiguous nodal spread, paraneoplastic cerebellar degeneration, 30% B symptoms including cyclical Pel-Ebstein fever), Reed-Sternberg owl-eye bilobed cells in reactive inflammatory stroma, NLPHD (benign, axillary node, CD20+/CD45+/sIg+, popcorn L&H cells, involved-node RT) vs Classical HD (CD15+/CD30+, NS m/c worldwide, MC m/c in India, EBV 100/70/40/20 rule), clinical features (posterior cervical 60–80% > supraclavicular > axillary, rubbery painless nodes, alcohol node sign, pruritus, subacute cerebellar degeneration, minimal change disease, cholangitis, vanishing bile duct syndrome; NS mediastinal/SVC/young females/lacunar cells; MC HIV+/EBV+/elderly & children), staging workup (full-thickness excision biopsy, FDG-PET single most valuable test, early unfavourable 5 criteria, β2-microglobulin in CLL/HD/MM), ABVD regimen toxicities (Adriamycin cardiotoxicity, Bleomycin lung fibrosis, Vinblastine peripheral neuropathy, Dacarbazine), Deauville 5-point interim PET protocol (scores 1–2 vs 3–5 salvage + ASCT), Brentuximab (anti-CD30), BEACOPP, and ISRT/IFRT rules.
+
+### Chapter 28 — Plasma Cell Disorders (p159–168)
+
+Normal plasma cell biology (eccentric cartwheel nucleus, perinuclear Golgi halo, normal κ:λ = 2:1, cytoplasmic Russell vs intranuclear Dutcher bodies), polyclonal (CD19+, CD38+, CD138+) vs monoclonal (CD19–, CD38+, CD138+, CD45–) hypergammaglobulinemia, disorder classification, Multiple Myeloma epidemiology (>70 yrs, Blacks, pesticide exposure, IgG 55% > IgA > IgM > IgD > IgE, light-chain only 20%), Rouleaux/Mott/Flame smear cells, MGUS vs Smoldering MM vs MM criteria, Slim-CRAB Myeloma Defining Events, Plasma Cell Leukemia (≥20% circulating plasma cells), workup (SPEP, 24-hr UPEP Bence Jones casts missed on dipstick, IFE, sFLC ≥100, ISS β2-microglobulin/albumin staging, high-risk FISH t(4;14)/t(14;16)/del(17p)/1q amp, low-dose whole-body CT IOC, negative Tc-99m bone scan), VRD triplet + autologous SCT & targeted drug classes, DKK-1 osteoblast inhibition vs RANK-L osteoclast activation ('raindrop' skull), renal disease (hypercalcemia m/c cause, Tamm-Horsfall cast nephropathy, Type II Fanconi RTA, AL amyloidosis, LCDD), S. pneumoniae infections (m/c cause of death), neuromyeloma, solitary plasmacytoma (curative RT), Waldenström's Macroglobulinemia (del(6q) + MYD88 L265P >90%, IgM hyperviscosity, sausage retinal veins, cryoglobulinemia, anti-MAG neuropathy, plasmapheresis + bortezomib/rituximab/bendamustine/ibrutinib, Bing-Neel syndrome), POEMS syndrome, Heavy Chain Diseases (Franklin γ, Seligmann α IPSID, Mu μ CLL), and Systemic Amyloidosis (AL, AA/SAA, dialysis Aβ2M, ATTRm/ATTRwt Tafamidis; kidney, restrictive sparkling heart with Tc-99m PYP scan & digoxin/CCB cautions, cholestatic liver biopsy bleeding contraindication, hyposplenism, ANS/CNS/endocrine, raccoon eyes, macroglossia, shoulder pad sign, abdominal fat pad Congo red apple-green birefringence, CyBorD + Daratumumab).
+
+## Earlier release — Chapters 22 to 23 (Book p126–139)
 
 The requested two acute leukemia chapters were reviewed sheet-by-sheet in printed order (`uploads/02.pdf` PDF9–22 = Book p126–139, including rotating the sideways scan on PDF10 / Book p127 upright for visual verification), then encoded with shuffled, parallel, non-predictable options across all formats (`recall`, `numeric`, `scenario`, `truefalse`, `oddoneout`, `management`, `fillup`, and 4-item bijective `match` items) and page-cited explanations. Source-text peculiarities (`t(8; 21) / t(RUNX1; RUNX1)` and `FLT3-ITD (Inverse tandem duplication...)` on p129, `Hypergranular myeloblasts` smear caption on p134, `Sans criteria for risk` on p135, `Nucleoli` table vs schematic on p136, and `Radiation : in AML, ALL, CLL` on p137) are documented in [audit/known-source-caveats.md](audit/known-source-caveats.md). Existing Chapters 1–21 remain unchanged.
 
@@ -151,11 +186,11 @@ Inherited hemolytic anemia classification (hemoglobinopathies, membrane cytoskel
 
 ## Quality and ordering contract delivered
 
-1. Every printed page p1–125 is covered in book order from the scanned source (no text layer exists); headings, table cells, image labels, flowchart arms, thresholds and notes are represented. Page map: `01.pdf` PDF13 = p1 … PDF129 = p117 and `02.pdf` PDF1 = p118 … PDF8 = p125; no requested sheets are missing.
-2. `audit/coverage.json` holds **1,900 inventoried points** across Chapters 1–21; every ledger point resolves to exactly one question in question order and on the matching book page.
+1. Every printed page p1–168 is covered in book order from the scanned source (no text layer exists); headings, table cells, image labels, flowchart arms, thresholds and notes are represented. Page map: `01.pdf` PDF13 = p1 … PDF129 = p117 and `02.pdf` PDF1 = p118 … PDF51 = p168; no requested sheets are missing.
+2. `audit/coverage.json` holds **2,228 inventoried points** across Chapters 1–28; every ledger point resolves to exactly one question in question order and on the matching book page.
 3. Four-option sets are unique, parallel in length/detail, and deterministically shuffled across all four positions (`A`–`D`). Matching items use 2- to 4-item bijections with varied permutations; true/false items have balanced 2 True / 2 False choices; numeric and fill-up questions use plausible clinical distractors; scenarios retain full clinical context.
 4. IDs are sequential `MED-C<N>-<seq>`; the question array is strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, every unit guide is 2–4 lines, and every explanation ends with its exact `(Book pX)` citation matching the question page.
-5. Chapters 1–21 are embedded in the standalone app with live flags set; **21/61 roadmap chapters are live**. See [audit/known-source-caveats.md](audit/known-source-caveats.md) for transcription and medical-source caveats.
+5. Chapters 1–28 are embedded in the standalone app with live flags set; **28/61 roadmap chapters are live**. See [audit/known-source-caveats.md](audit/known-source-caveats.md) for transcription and medical-source caveats.
 
 ## Verified PDF → printed-page map
 
@@ -381,6 +416,49 @@ node tests/app_parsers.cjs
 | 21 | Drugs Causing Aplastic Anemia, Presentation, Severity Criteria & Treatment | 123 | MED-C21-22–MED-C21-32 | 11 |
 | 21 | Pure Red Cell Aplasia & MDS Overview: Global Versus India Presentation | 124 | MED-C21-33–MED-C21-42 | 10 |
 | 21 | MDS Blood Parameters, Prognostic Scoring & Treatment Flowchart | 125 | MED-C21-43–MED-C21-52 | 10 |
+| 22 | Epidemiology of Acute Leukemia, Myeloid Precursor Lineages & AML Pathogenesis | 126 | MED-C22-01–MED-C22-11 | 11 |
+| 22 | Hyperviscosity Note, 5-Point Hematological Diagnosis, AML Definition, Survival & Hereditary Risk Factors | 127 | MED-C22-12–MED-C22-21 | 10 |
+| 22 | AML Risk Factors: Germline/Syndromic Predisposition, Down Syndrome, Environmental & Hematological Diseases | 128 | MED-C22-22–MED-C22-30 | 9 |
+| 22 | Classification of AML: FAB Subtypes, WHO (2016) & WHO-5 (2023) Categories, and Recurrent Genetic Abnormalities | 129 | MED-C22-31–MED-C22-38 | 8 |
+| 22 | Clinical Features of AML: Presenting Pancytopenia, Infections Note & Myeloid Sarcoma (Chloroma) | 130 | MED-C22-39–MED-C22-45 | 7 |
+| 22 | Skin Involvement (Leukemia Cutis vs Sweet Syndrome), Blood Picture & Myeloblast vs Promyelocyte Morphology | 131 | MED-C22-46–MED-C22-52 | 7 |
+| 22 | AML Cytology Stains, Immunophenotyping CD Markers, Cytogenetics, Molecular Mutations & European Risk Stratification | 132 | MED-C22-53–MED-C22-61 | 9 |
+| 22 | Bad Prognostic Factors, Treatment Risk Groups, 7+3 Induction Regimen, Post-Induction Care & Targeted Agents | 133 | MED-C22-62–MED-C22-68 | 7 |
+| 22 | Post-Induction Bone Marrow & MRD Evaluation, Consolidation Phase, Regimens in Unfit/Elderly, New Drugs & APML Intro | 134 | MED-C22-69–MED-C22-74 | 6 |
+| 22 | APML (AML M3): DIC Pathogenesis, Hypergranular vs Hypogranular Types, Sanz Criteria & Differentiation Syndrome | 135 | MED-C22-75–MED-C22-81 | 7 |
+| 23 | ALL Pathophysiology, Survival by Age, B-Cell vs T-Cell Lineage & Lymphoblast vs Myeloblast Morphology | 136 | MED-C23-01–MED-C23-10 | 10 |
+| 23 | ALL Risk Factors, Presenting Features (B-ALL, T-ALL, High-Count Sanctuary Sites) & Laboratory Features | 137 | MED-C23-11–MED-C23-20 | 10 |
+| 23 | B-Cell Subtypes (Pro-B, Pre-B, Early Pre-B CALLA, Immature B), B-ALL vs T-ALL Clinical Features & Smear Notes | 138 | MED-C23-21–MED-C23-29 | 9 |
+| 23 | ALL Prognostic Factors Table, BFM-19 Treatment Protocol (Induction, MRD, Consolidation, Maintenance) & Other Drugs | 139 | MED-C23-30–MED-C23-40 | 11 |
+| 24 | Initial Investigations, Common Lymphoid Progenitor Markers, Precursor B-Cell Maturation & CLL Origin | 140 | MED-C24-01–MED-C24-09 | 9 |
+| 24 | Lymph Node Zones (Pre-Germinal, Germinal Centre, Post-Germinal/Marginal Zone), Myeloma Markers & CD Summary | 141 | MED-C24-10–MED-C24-21 | 12 |
+| 25 | CLL Overview, Epidemiology, Defective Apoptosis Pathophysiology, Small Lymphocytic Leukemia (SLL) & Etiology | 142 | MED-C25-01–MED-C25-09 | 9 |
+| 25 | CLL Investigations, Smudge Cells, Richter Transformation, Warm AIHA, Staging Table & Indications for Treatment | 143 | MED-C25-10–MED-C25-20 | 11 |
+| 25 | CLL Prognostic Factors Table, FCR & BR Treatment Regimens, and Hairy Cell Leukemia Overview & Pathogenesis | 144 | MED-C25-21–MED-C25-28 | 8 |
+| 25 | Hairy Cell Leukemia Investigations (Smear, Fried-Egg Marrow, Immunophenotype), Treatment & PAN Association | 145 | MED-C25-29–MED-C25-36 | 8 |
+| 26 | Classification by Cell of Origin, Mature T-Cell Lymphomas (ALCL to Hepatosplenic) & Grade-Based Classification | 146 | MED-C26-01–MED-C26-08 | 8 |
+| 26 | Causative Organisms Table (EBV 100/70/40/20 Rule, HIV, HCV, H. pylori, HHV-8, HTLV-1) & Ann-Arbor Staging | 147 | MED-C26-09–MED-C26-15 | 7 |
+| 26 | NHL General Features, Mantle Cell Lymphoma (t(11;14), SOX-11, R-CHOP Resistance) & Follicular Lymphoma Genetics | 148 | MED-C26-16–MED-C26-22 | 7 |
+| 26 | Follicular Lymphoma Histology/Course/Rx, Germinal Centre Malignancies Table & MALToma (t(11;18), H. pylori, Sjögren) | 149 | MED-C26-23–MED-C26-30 | 8 |
+| 26 | High-Grade Lymphomas Overview, Clinical Features & Prognostic Factors, and Diffuse Large B-Cell Lymphoma (DLBCL) | 150 | MED-C26-31–MED-C26-36 | 6 |
+| 26 | DLBCL Subtypes (GCB vs ABC-DLBCL), Double/Triple-Hit vs Double-Expressor Venn Diagram & R-CHOP Regimen | 151 | MED-C26-37–MED-C26-42 | 6 |
+| 26 | DLBCL Interim-PET Flowchart & Burkitt's Lymphoma (c-myc Translocations, Endemic vs Sporadic, CODOX-M/IVAC, Starry Sky) | 152 | MED-C26-43–MED-C26-50 | 8 |
+| 27 | Germinal-Centre Physiology Diagram, B-Cell Tumor Origin Table & NF-κB (NK-κβ) Pathogenesis | 153 | MED-C27-01–MED-C27-06 | 6 |
+| 27 | Dark-Zone Origin & Chr 9 PDL1 Aberration, Stage Cure Rates, HL vs NHL Comparison Table & Pel-Ebstein Fever | 154 | MED-C27-07–MED-C27-13 | 7 |
+| 27 | Reed-Sternberg Cell Morphology, NLPHD vs Classical HD Classification (Worldwide vs India) & Comparison Table | 155 | MED-C27-14–MED-C27-19 | 6 |
+| 27 | EBV/ALCL Recap Notes, Hodgkin Clinical Features, Paraneoplastic Syndromes & NS vs MC Subtype Profiles | 156 | MED-C27-20–MED-C27-25 | 6 |
+| 27 | Richter Recap, Staging Workup (Excision Biopsy & FDG-PET), Unfavourable Criteria & β2-Microglobulin Note | 157 | MED-C27-26–MED-C27-30 | 5 |
+| 27 | Chemotherapy Response by Subtype, ABVD Toxicity Table, Deauville PET-Adapted Protocol, Brentuximab, BEACOPP & ISRT | 158 | MED-C27-31–MED-C27-37 | 7 |
+| 28 | Normal Plasma Cell Morphology, Russell/Dutcher Bodies & Polyclonal vs Monoclonal Hypergammaglobulinemia | 159 | MED-C28-01–MED-C28-08 | 8 |
+| 28 | Plasma Cell Disorder Classification, Myeloma Overview, Smear Variants (Mott/Flame), MGUS vs SMM vs MM & Slim-CRAB | 160 | MED-C28-09–MED-C28-16 | 8 |
+| 28 | Myeloma Investigations (SPEP/UPEP, IFE, sFLC, ISS β2-M/Albumin, FISH, Whole-Body Low-Dose CT) & Therapeutics | 161 | MED-C28-17–MED-C28-24 | 8 |
+| 28 | Bony & Renal Pathogenesis (DKK-1/RANK-L, Myeloma Kidney, Type II RTA, Amyloidosis) & Hypercalcemia / Infection Mechanisms | 162 | MED-C28-25–MED-C28-31 | 7 |
+| 28 | Neuromyeloma Diagram, POEM Syndrome, Solitary Plasmacytoma, Poor Prognostic Factors & Waldenström Intro | 163 | MED-C28-32–MED-C28-37 | 6 |
+| 28 | Waldenström's Macroglobulinemia: Chr 6q / MYD88 L265P Pathogenesis, Hyperviscosity, Cryoglobulins & Bing-Neel Syndrome | 164 | MED-C28-38–MED-C28-43 | 6 |
+| 28 | POEMS Syndrome, Heavy Chain Diseases Table (Franklin's, Seligmann's, Mu) & Amyloidosis Definition/Types | 165 | MED-C28-44–MED-C28-47 | 4 |
+| 28 | Primary AL vs Secondary AA vs Dialysis (Aβ2M) vs Familial/Senile ATTR Amyloidosis & Organ Overview | 166 | MED-C28-48–MED-C28-52 | 5 |
+| 28 | Amyloidosis Organ Manifestations I: Renal, Cardiac (Restrictive CMP, Sparkle Sign, Digoxin) & Hepatic Bleeding Risk | 167 | MED-C28-53–MED-C28-57 | 5 |
+| 28 | Amyloidosis Organ Manifestations II: Spleen/GI/ANS/CNS/Endocrine/Hemorrhagic Signs, Congo Red Biopsy & Rx | 168 | MED-C28-58–MED-C28-63 | 6 |
 
 ## Full roadmap
 
@@ -407,13 +485,13 @@ node tests/app_parsers.cjs
 | 19 | Myeloproliferative Neoplasms : Part 1 | 107 | **Live** |
 | 20 | Myeloproliferative Neoplasms : Part 2 | 116 | **Live** |
 | 21 | Bone Marrow Failure Syndromes | 121 | **Live** |
-| 22 | Acute Leukemia | 126 | Soon |
-| 23 | Acute Myeloid Leukemia V/S Acute Lymphoblastic Leukemia | 136 | Soon |
-| 24 | World of Lymphomas | 140 | Soon |
-| 25 | Chronic Lymphocytic Leukemia | 142 | Soon |
-| 26 | Non-Hodgkin's Lymphoma | 146 | Soon |
-| 27 | Hodgkin's Disease | 153 | Soon |
-| 28 | Plasma Cell Disorders | 159 | Soon |
+| 22 | Acute Leukemia | 126 | **Live** |
+| 23 | Acute Myeloid Leukemia V/S Acute Lymphoblastic Leukemia | 136 | **Live** |
+| 24 | World of Lymphomas | 140 | **Live** |
+| 25 | Chronic Lymphocytic Leukemia | 142 | **Live** |
+| 26 | Non-Hodgkin's Lymphoma | 146 | **Live** |
+| 27 | Hodgkin's Disease | 153 | **Live** |
+| 28 | Plasma Cell Disorders | 159 | **Live** |
 | 29 | Platelets - Basics | 169 | Soon |
 | 30 | Approach to Bleeding Disorders | 173 | Soon |
 | 31 | Clinical Anatomy of Lungs | 185 | Soon |
@@ -457,4 +535,4 @@ node tests/app_parsers.cjs
 4. Run `validate_content.py`, `tests`, and `build_content.py` to embed; verify live flags and embedded arrays.
 5. Commit, push, PR to `main` — live link updates via GitHub Pages.
 
-*Next up:* **Chapter 22 — Acute Leukemia (p126)** — render `uploads/02.pdf` PDF9 onward, audit in strict book order, and continue the same pipeline.
+*Next up:* **Chapter 29 — Platelets - Basics (p169)** — render `uploads/02.pdf` PDF52 onward, audit in strict book order, and continue the same pipeline.

@@ -1,0 +1,625 @@
+{
+  "chapter": 25,
+  "title": "Chronic Lymphocytic Leukemia",
+  "pageRange": "142-145",
+  "questions": [
+    {
+      "id": "MED-C25-01",
+      "sec": "CLL Overview, Epidemiology, Defective Apoptosis Pathophysiology, Small Lymphocytic Leukemia (SLL) & Etiology",
+      "page": 142,
+      "fmt": "recall",
+      "q": "Under 'Overview' on page 142, what is the status of Chronic Lymphocytic Leukemia (CLL) among lymphoid leukemias, its sex predilection, its grade, and the boxed Note on the most common myeloid leukemia?",
+      "opts": [
+        "Second most common lymphoid leukemia after hairy cell leukemia; Females > Males; high-grade leukemia; m/c myeloid leukemia is MDS",
+        "Most common lymphoid leukemia; Males > Females; low-grade leukemia; boxed Note states most common myeloid leukemia is AML",
+        "Rarest lymphoid leukemia; Females > Males; high-grade acute leukemia; boxed Note states most common myeloid leukemia is CML",
+        "Most common childhood leukemia; Females = Males; aggressive leukemia; boxed Note states most common myeloid leukemia is APML"
+      ],
+      "ans": 1,
+      "exp": "Under 'Overview :' on page 142: '• Most common lymphoid leukemia. • Males > Females. • Low grade leukemia.' The right-side boxed Note reads: 'Note : m/c myeloid leukemia : AML.' (Book p142)"
+    },
+    {
+      "id": "MED-C25-02",
+      "sec": "CLL Overview, Epidemiology, Defective Apoptosis Pathophysiology, Small Lymphocytic Leukemia (SLL) & Etiology",
+      "page": 142,
+      "fmt": "numeric",
+      "q": "What percentage of patients with CLL are asymptomatic at presentation, and what median age of diagnosis is printed under 'Overview' on page 142?",
+      "opts": [
+        "Asymptomatic: 20–25% (early hyperviscosity); median age of diagnosis: 65 years",
+        "Asymptomatic: 10–15% (rapidly progressive); median age of diagnosis: 13 years",
+        "Asymptomatic: 50% (acute marrow failure); median age of diagnosis: 40–60 years",
+        "Asymptomatic: 80–85% (mostly indolent); median age of diagnosis: 72 years"
+      ],
+      "ans": 3,
+      "exp": "Bullets 4–5 under 'Overview :' on page 142 read: '• Asymptomatic : 80–85% (mostly indolent). • Median age of diagnosis : 72 years.' (Book p142)"
+    },
+    {
+      "id": "MED-C25-03",
+      "sec": "CLL Overview, Epidemiology, Defective Apoptosis Pathophysiology, Small Lymphocytic Leukemia (SLL) & Etiology",
+      "page": 142,
+      "fmt": "numeric",
+      "q": "According to the final bullet under 'Overview' on page 142, what is the median survival in CLL and what percentage of patients undergo spontaneous regression?",
+      "opts": [
+        "Median survival: 10 years (can be increased with drugs); 1–2% undergo spontaneous regression",
+        "Median survival: 2–3 months untreated; 25% undergo spontaneous regression",
+        "Median survival: 2–3 years; 0% ever undergo spontaneous regression",
+        "Median survival: 5 years with transplant only; 10–20% undergo spontaneous regression"
+      ],
+      "ans": 0,
+      "exp": "Bullet 6 under 'Overview :' on page 142 reads: '• Median survival : 10 years (can be increased with drugs); 1–2% undergo spontaneous regression.' (Book p142)"
+    },
+    {
+      "id": "MED-C25-04",
+      "sec": "CLL Overview, Epidemiology, Defective Apoptosis Pathophysiology, Small Lymphocytic Leukemia (SLL) & Etiology",
+      "page": 142,
+      "fmt": "recall",
+      "q": "Under 'Pathophysiology → Physiology : Naive B cells (in blood)' on page 142, what normal surface marker profile and fate do circulating naive B cells exhibit?",
+      "opts": [
+        "Express CD34, HLA-DR, PAX-5, and TdT without surface immunoglobulin; normally differentiate into plasma cells in blood",
+        "Express CD10, BCL-6, Annexin, and TRAP; normally migrate directly into splenic red pulp cords",
+        "Express CD19, CD20, CD21, CD22, CD79a, CD79b, and Surface IgM; normally undergo apoptosis",
+        "Express CD5, CD23, Cyclin D, and Surface IgD; normally undergo indefinite clonal self-renewal"
+      ],
+      "ans": 2,
+      "exp": "Under 'Physiology : Naive B cells (in blood) :' on page 142: '• CD19, CD20, CD21, CD22, CD79a, CD79b, Surface IgM. • Normally undergo apoptosis.' (Book p142)"
+    },
+    {
+      "id": "MED-C25-05",
+      "sec": "CLL Overview, Epidemiology, Defective Apoptosis Pathophysiology, Small Lymphocytic Leukemia (SLL) & Etiology",
+      "page": 142,
+      "fmt": "recall",
+      "q": "In the 'Pathology' cascade on page 142, what sequential events lead from defective apoptosis of naive B-cells to CLL, and which two aberrant surface markers are acquired?",
+      "opts": [
+        "Somatic hypermutation in germinal centre dark zone → acquisition of CD10 and BCL-6 → polyclonal lymphocytosis → CLL",
+        "Defective apoptosis of naive B-cells → clonal naive B-cell expansion with acquisition of CD5 and CD23 → monoclonal B cell lymphocytosis → CLL",
+        "Gain of BRAF mutation in post-germinal memory B cell → acquisition of CD103 and TRAP → marrow fibrosis → CLL",
+        "Complete arrest of differentiation → myeloblast expansion with acquisition of CD13 and CD33 → myelodysplasia → CLL"
+      ],
+      "ans": 1,
+      "exp": "Under 'Pathology :' on page 142: 'Defective apoptosis of naive B-cells → • Clonal naive B-cell expansion • Acquire CD5, CD23 → Monoclonal B cell lymphocytosis → If lymphocyte >5000 cells/µL → CLL.' (Book p142)"
+    },
+    {
+      "id": "MED-C25-06",
+      "sec": "CLL Overview, Epidemiology, Defective Apoptosis Pathophysiology, Small Lymphocytic Leukemia (SLL) & Etiology",
+      "page": 142,
+      "fmt": "numeric",
+      "q": "In the pathology flowchart on page 142, monoclonal B-cell lymphocytosis is diagnosed as Chronic Lymphocytic Leukemia (CLL) when the blood lymphocyte count exceeds what cutoff?",
+      "opts": [
+        ">1500 cells/µL",
+        ">1,00,000 cells/µL",
+        ">5000 cells/µL",
+        ">50,000 cells/µL"
+      ],
+      "ans": 2,
+      "exp": "The arrow between 'Monoclonal B cell lymphocytosis' and 'CLL' on page 142 specifies: 'If lymphocyte >5000 cells/µL → CLL.' (Book p142)"
+    },
+    {
+      "id": "MED-C25-07",
+      "sec": "CLL Overview, Epidemiology, Defective Apoptosis Pathophysiology, Small Lymphocytic Leukemia (SLL) & Etiology",
+      "page": 142,
+      "fmt": "fillup",
+      "q": "Under 'Note : Small lymphocytic leukemia (SLL)' on page 142, SLL arises from a ______ B cell, shares the same immunophenotyping and features as CLL, and causes monoclonal B lymphocytosis in the lymph node.",
+      "opts": [
+        "memory",
+        "pro-B",
+        "immature",
+        "centroblast"
+      ],
+      "ans": 0,
+      "exp": "Under 'Note : Small lymphocytic leukemia (SLL)' on page 142: '• Arises from memory B cell. • Immunophenotyping : Same as CLL. • Features : Same as CLL. • Monoclonal B lymphocytosis in lymph node : – Painless asymptomatic lymphadenopathy. – Can have splenomegaly.' (Book p142)"
+    },
+    {
+      "id": "MED-C25-08",
+      "sec": "CLL Overview, Epidemiology, Defective Apoptosis Pathophysiology, Small Lymphocytic Leukemia (SLL) & Etiology",
+      "page": 142,
+      "fmt": "recall",
+      "q": "What clinical manifestations result from 'monoclonal B lymphocytosis in lymph node' in Small Lymphocytic Leukemia (SLL) on page 142?",
+      "opts": [
+        "Exquisitely tender suppurative lymphadenitis with overlying skin sinus tracts and absence of splenic enlargement",
+        "Anterior mediastinal thymic mass with acute tracheal compression and superior vena cava obstruction in adolescent boys",
+        "Orbital soft-tissue chloroma with gingival hypertrophy and perianal abscesses without lymph node enlargement",
+        "Painless asymptomatic lymphadenopathy and can have splenomegaly"
+      ],
+      "ans": 3,
+      "exp": "Under 'Note : Small lymphocytic leukemia (SLL)' on page 142: '• Monoclonal B lymphocytosis in lymph node : – Painless asymptomatic lymphadenopathy. – Can have splenomegaly.' (Book p142)"
+    },
+    {
+      "id": "MED-C25-09",
+      "sec": "CLL Overview, Epidemiology, Defective Apoptosis Pathophysiology, Small Lymphocytic Leukemia (SLL) & Etiology",
+      "page": 142,
+      "fmt": "truefalse",
+      "q": "Which statement accurately reflects the 'Etiology' section at the bottom of page 142?",
+      "opts": [
+        "True — Chronic lymphocytic leukemia demonstrates strong familial inheritance and carries no risk with radiation",
+        "False — Monoclonal B-cell lymphocytosis progresses to CLL when peripheral blood lymphocytes exceed 5000 cells/µL",
+        "False — Small lymphocytic leukemia (SLL) shares the same immunophenotyping and clinical features as CLL",
+        "True — High-dose ionizing radiation within 6–8 years is the leading environmental cause of chronic lymphocytic leukemia"
+      ],
+      "ans": 0,
+      "exp": "At the bottom of page 142 under 'Etiology :': '• Strong familial inheritance. • No risk with radiation.' (Book p142)"
+    },
+    {
+      "id": "MED-C25-10",
+      "sec": "CLL Investigations, Smudge Cells, Richter Transformation, Warm AIHA, Staging Table & Indications for Treatment",
+      "page": 143,
+      "fmt": "numeric",
+      "q": "Under 'Investigation → Blood count' on page 143, what typical unexplained lymphocytosis level is seen in CLL, and which cytopenias appear rarely?",
+      "opts": [
+        "Unexplained leukopenia around 1,000–2,000; universally macrocytic megaloblastic anemia and monocytopenia",
+        "Unexplained lymphocytosis around 5,00,000–8,00,000; universally teardrop cells and basophilia",
+        "Unexplained lymphocytosis around 60,000–70,000; rarely normocytic normochromic anemia and thrombocytopenia",
+        "Unexplained lymphocytosis around 5,000–6,000; universally microcytic hypochromic anemia and thrombocytosis"
+      ],
+      "ans": 2,
+      "exp": "At the top of page 143 under 'Investigation : → Blood count :': '– Unexplained lymphocytosis (Around 60,000–70,000). – Rarely : Normocytic normochromic anemia, thrombocytopenia.' (Book p143)"
+    },
+    {
+      "id": "MED-C25-11",
+      "sec": "CLL Investigations, Smudge Cells, Richter Transformation, Warm AIHA, Staging Table & Indications for Treatment",
+      "page": 143,
+      "fmt": "recall",
+      "q": "Which four morphological features describe the 'CLL lymphocyte' on peripheral smear on page 143?",
+      "opts": [
+        "Large binucleate mirror-image cell; abundant amphophilic cytoplasm; prominent eosinophilic owl-eye nucleoli",
+        "Small, blue, round cell; pale cytoplasm; no granules; moderate condensation of chromatin",
+        "Large cell with high N:C ratio; deep basophilic vacuolated cytoplasm; abundant granules; lacy open chromatin",
+        "Mononuclear cell with bilobed eccentric nucleus; abundant sky-blue cytoplasm; circumferential hairy projections"
+      ],
+      "ans": 1,
+      "exp": "Under 'Peripheral smear : CLL lymphocyte' on page 143: '– Small, blue, round. – Pale cytoplasm. – No granules. – Moderate condensation of chromatin.' (Book p143)"
+    },
+    {
+      "id": "MED-C25-12",
+      "sec": "CLL Investigations, Smudge Cells, Richter Transformation, Warm AIHA, Staging Table & Indications for Treatment",
+      "page": 143,
+      "fmt": "fillup",
+      "q": "On the 'Peripheral smear : CLL' photomicrograph on page 143, ruptured fragile leukemic lymphocytes visible alongside small blue round lymphocytes are labelled ______.",
+      "opts": [
+        "Faggot cell",
+        "Hairy cell",
+        "Bite cell",
+        "Smudge cell"
+      ],
+      "ans": 3,
+      "exp": "The right-hand panel of the 'Peripheral smear : CLL' image on page 143 labels the crushed lymphocyte remnant 'Smudge cell'. Also listed below it: 'Immunophenotyping' and 'Lymph node (LN) biopsy : Diffuse effacement of lymph node architecture (For SLL).' (Book p143)"
+    },
+    {
+      "id": "MED-C25-13",
+      "sec": "CLL Investigations, Smudge Cells, Richter Transformation, Warm AIHA, Staging Table & Indications for Treatment",
+      "page": 143,
+      "fmt": "recall",
+      "q": "What lymph node (LN) biopsy finding is specified on page 143 for Small Lymphocytic Leukemia (SLL)?",
+      "opts": [
+        "Nodular fibrotic bands surrounding lacunar Reed-Sternberg cells",
+        "Starry-sky sheets of tingible-body macrophages amidst medium blasts",
+        "Diffuse effacement of lymph node architecture",
+        "Non-caseating epithelioid cell granulomas restricted to subcapsular sinuses"
+      ],
+      "ans": 2,
+      "exp": "Page 143 states: 'Lymph node (LN) biopsy : Diffuse effacement of lymph node architecture (For SLL).' (Book p143)"
+    },
+    {
+      "id": "MED-C25-14",
+      "sec": "CLL Investigations, Smudge Cells, Richter Transformation, Warm AIHA, Staging Table & Indications for Treatment",
+      "page": 143,
+      "fmt": "recall",
+      "q": "Under 'Indicators for high risk → 1. Richter transformation' on page 143, which classical low-grade-to-high-grade lymphoma conversion defines Richter transformation?",
+      "opts": [
+        "Low-grade follicular lymphoma → Hairy cell leukemia with BRAF V600E mutation",
+        "Low-grade marginal zone lymphoma → Multiple myeloma with lytic bone lesions",
+        "Low-grade CLL → Acute promyelocytic leukemia (APML M3) with t(15;17) translocation",
+        "Low-grade lymphoma (classically SLL) → High-grade lymphoma (classically DLBCL : Diffuse large B cell lymphoma)"
+      ],
+      "ans": 3,
+      "exp": "Under 'Indicators for high risk :' on page 143: '1. Richter transformation : Low grade lymphoma (Classically SLL) → High grade lymphoma (Classically DLBCL : Diffuse large B cell lymphoma).' (Book p143)"
+    },
+    {
+      "id": "MED-C25-15",
+      "sec": "CLL Investigations, Smudge Cells, Richter Transformation, Warm AIHA, Staging Table & Indications for Treatment",
+      "page": 143,
+      "fmt": "numeric",
+      "q": "Which clinical, biochemical, and PET-scan criteria are listed under 'Features' of Richter transformation on page 143?",
+      "opts": [
+        "↑ lymphadenopathy and B symptoms: weight loss >10% in 6 months, fever >100.4°F, ↑↑ LDH, and ↑ uptake in lymph nodes on PET scan",
+        "Shrinking lymph nodes with weight loss >5% in 12 months, low-grade temperature <99°F, normal LDH, and photopenic lymph nodes on PET scan",
+        "Painless stable cervical nodes, nocturnal pruritus alone, normal body weight, normal LDH, and isolated hepatic uptake on PET scan",
+        "Isolated splenomegaly without lymphadenopathy, weight gain from edema, subnormal body temperature, ↓ LDH, and negative bone scan"
+      ],
+      "ans": 0,
+      "exp": "Under 'Features :' of Richter transformation on page 143: '• ↑ lymphadenopathy. • B symptoms : – Weight loss : >10% in 6 months. – Fever >100.4°F. – ↑↑ LDH. – ↑ uptake in lymph nodes in PET scan.' (Book p143)"
+    },
+    {
+      "id": "MED-C25-16",
+      "sec": "CLL Investigations, Smudge Cells, Richter Transformation, Warm AIHA, Staging Table & Indications for Treatment",
+      "page": 143,
+      "fmt": "recall",
+      "q": "What second high-risk association is listed under 'Indicators for high risk' on page 143 in CLL, and which test identifies it?",
+      "opts": [
+        "Paroxysmal cold hemoglobinuria — identified by Donath-Landsteiner test",
+        "Warm antibody AIHA association — identified by DAT / Coomb's test",
+        "Cold agglutinin disease — identified only after cooling serum to 0–4 °C",
+        "Hereditary spherocytosis — identified by eosin-5-maleimide (EMA) flow cytometry"
+      ],
+      "ans": 1,
+      "exp": "Item 2 under 'Indicators for high risk :' on page 143 states: '2. Warm antibody AIHA association : Identified by DAT/Coomb's test.' (Book p143)"
+    },
+    {
+      "id": "MED-C25-17",
+      "sec": "CLL Investigations, Smudge Cells, Richter Transformation, Warm AIHA, Staging Table & Indications for Treatment",
+      "page": 143,
+      "fmt": "recall",
+      "q": "In the 'Rai and Binet staging :' table on page 143, which two stages fall under 'No treatment', and what are their respective clinical features?",
+      "opts": [
+        "Stage 0 (Lymphocytosis) only — whereas Stage 1 (Lymphocytosis + lymphadenopathy) requires immediate FCR chemotherapy",
+        "Stage 1 (Hepatosplenomegaly) and Stage 2 (Anemia) — both require 'No treatment'",
+        "All five stages (Stage 0 through Stage 4) require immediate systemic chemo-immunotherapy at diagnosis",
+        "Stage 0 (Lymphocytosis) and Stage 1 (Lymphocytosis + lymphadenopathy) — both require 'No treatment'"
+      ],
+      "ans": 3,
+      "exp": "In the 'Rai and Binet staging :' table on page 143: Stage 0 = Lymphocytosis ('No treatment') and Stage 1 = Lymphocytosis + lymphadenopathy ('No treatment'), while Stages 2–4 fall under 'Treatment required'. (Book p143)"
+    },
+    {
+      "id": "MED-C25-18",
+      "sec": "CLL Investigations, Smudge Cells, Richter Transformation, Warm AIHA, Staging Table & Indications for Treatment",
+      "page": 143,
+      "fmt": "match",
+      "q": "In the 'Rai and Binet staging :' table as printed on page 143, match Stages 1 through 4 with their printed 'Features' and 'Treatment' column entry — 1) Stage 1 2) Stage 2 3) Stage 3 4) Stage 4 … A) Hepatosplenomegaly — Treatment required B) Lymphocytosis + lymphadenopathy — No treatment C) Pancytopenia (as printed) — Treatment required D) Anemia — Treatment required",
+      "opts": [
+        "1-A, 2-B, 3-C, 4-D",
+        "1-C, 2-A, 3-D, 4-B",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 2,
+      "exp": "The 'Rai and Binet staging :' table on page 143 prints: Stage 0 = Lymphocytosis (No treatment); Stage 1 = Lymphocytosis + lymphadenopathy (No treatment); Stage 2 = Hepatosplenomegaly (Treatment required); Stage 3 = Anemia (Treatment required); Stage 4 = Pancytopenia [as printed] (Treatment required). (Book p143)"
+    },
+    {
+      "id": "MED-C25-19",
+      "sec": "CLL Investigations, Smudge Cells, Richter Transformation, Warm AIHA, Staging Table & Indications for Treatment",
+      "page": 143,
+      "fmt": "management",
+      "q": "At the bottom of page 143, what are ALL the listed 'Indications of treatment :' in Chronic Lymphocytic Leukemia?",
+      "opts": [
+        "Features of Richter transformation; AIHA unresponsive to steroids; and Stage 2, 3, 4 disease (massive splenomegaly, marrow failure)",
+        "Chromosome 13q deletion with hypermutated Ig heavy chain in an asymptomatic 75-year-old patient with Stage 0 disease",
+        "Any positive Coombs test that responds promptly to oral steroids, or isolated smudge cells on routine peripheral blood smear",
+        "Stage 0 isolated lymphocytosis >5,000 cells/µL and Stage 1 painless cervical lymphadenopathy immediately upon diagnosis"
+      ],
+      "ans": 0,
+      "exp": "At the bottom of page 143 under 'Indications of treatment :': '• Features of Richter transformation. • AIHA unresponsive to steroids. • Stage 2, 3, 4 : – Massive splenomegaly. – Marrow failure.' (Book p143)"
+    },
+    {
+      "id": "MED-C25-20",
+      "sec": "CLL Investigations, Smudge Cells, Richter Transformation, Warm AIHA, Staging Table & Indications for Treatment",
+      "page": 143,
+      "fmt": "scenario",
+      "q": "A 74-year-old man under observation for Stage 1 CLL (lymphocytosis + painless cervical lymphadenopathy) returns with rapidly enlarging cervical nodes, drenching night sweats, temperature 101.6°F, 12% weight loss over 5 months, markedly elevated serum LDH, and intense FDG uptake on lymph node PET scan. What complication has developed and what management change is indicated per page 143?",
+      "opts": [
+        "Spontaneous regression of CLL (seen in 1–2% of patients); continue observation without biopsy or chemotherapy",
+        "Richter transformation into high-grade DLBCL; active treatment is required (no longer watch-and-wait)",
+        "Progression from Stage 0 to Stage 1 CLL; continue observation without treatment as Stages 0 and 1 require no therapy",
+        "Parvovirus B19 transient aplastic crisis; administer intravenous immunoglobulin alone without lymphoma therapy"
+      ],
+      "ans": 1,
+      "exp": "On page 143, enlarging lymphadenopathy + weight loss >10% in 6 months + fever >100.4°F + ↑↑ LDH + ↑ nodal uptake on PET scan are classic features of Richter transformation (SLL → DLBCL), which is a primary indication for treatment. (Book p143)"
+    },
+    {
+      "id": "MED-C25-21",
+      "sec": "CLL Prognostic Factors Table, FCR & BR Treatment Regimens, and Hairy Cell Leukemia Overview & Pathogenesis",
+      "page": 144,
+      "fmt": "recall",
+      "q": "Which two prognostic markers are listed under the 'Good' column of the CLL 'Prognostic factors :' table on page 144?",
+      "opts": [
+        "Chromosome 11q deletion, Trisomy 12, and Zap-70 positivity",
+        "Elevated serum β2-microglobulin and elevated LDH levels",
+        "Unmutated Ig heavy chain and Chromosome 17p deletion",
+        "Hypermutated Ig heavy chain and Chromosome 13q deletion"
+      ],
+      "ans": 3,
+      "exp": "In the 'Prognostic factors :' table on page 144, the 'Good' column lists: '• Hypermutated Ig heavy chain • Chromosome 13q deletion.' (Book p144)"
+    },
+    {
+      "id": "MED-C25-22",
+      "sec": "CLL Prognostic Factors Table, FCR & BR Treatment Regimens, and Hairy Cell Leukemia Overview & Pathogenesis",
+      "page": 144,
+      "fmt": "oddoneout",
+      "q": "All of the following are listed in the 'Bad' column of the CLL Prognostic Factors table on page 144 EXCEPT:",
+      "opts": [
+        "β2 microglobulin, ↑ LDH levels, and Zap-70",
+        "All other chromosome deletions (11q del, 17p del, trisomy 12)",
+        "Hypermutated Ig heavy chain",
+        "Unmutated Ig heavy chain"
+      ],
+      "ans": 2,
+      "exp": "In the Prognostic factors table on page 144, 'Bad' includes: '• Unmutated Ig heavy chain • All other chromosome deletion (11q del, 17p del, trisomy 12) • β2 microglobulin • ↑ LDH levels • Zap-70', whereas 'Hypermutated Ig heavy chain' is in the 'Good' column. (Book p144)"
+    },
+    {
+      "id": "MED-C25-23",
+      "sec": "CLL Prognostic Factors Table, FCR & BR Treatment Regimens, and Hairy Cell Leukemia Overview & Pathogenesis",
+      "page": 144,
+      "fmt": "recall",
+      "q": "Which three chromosomal abnormalities are specifically named in parentheses under 'Bad' prognosis in CLL on page 144?",
+      "opts": [
+        "t(12 ; 21), hyperdiploidy, and 11q23",
+        "11q deletion, 17p deletion, and trisomy 12",
+        "t(15 ; 17), t(8 ; 21), and inv(16)",
+        "13q deletion, 5q deletion, and 20q deletion"
+      ],
+      "ans": 1,
+      "exp": "Bullet 2 of the 'Bad' column on page 144 states: '• All other chromosome deletion (11q del, 17p del, trisomy 12).' (Book p144)"
+    },
+    {
+      "id": "MED-C25-24",
+      "sec": "CLL Prognostic Factors Table, FCR & BR Treatment Regimens, and Hairy Cell Leukemia Overview & Pathogenesis",
+      "page": 144,
+      "fmt": "management",
+      "q": "Under 'Treatment :' of CLL on page 144, what are the exact constituent drugs and clinical status of the FCR regimen versus the BR regimen?",
+      "opts": [
+        "FCR regimen (Fludarabine + Cyclophosphamide + Rituximab) is treatment of choice (TOC) if fit; BR regimen (Bendamustine + Rituximab) is more commonly used",
+        "FCR regimen (Fludarabine + Cyclophosphamide + Ruxolitinib) is used for AIHA only; BR regimen (Busulfan + Rituximab) is obsolete",
+        "FCR regimen (Fludarabine + Cladribine + Rituximab) is used only in relapse; BR regimen (Bortezomib + Rituximab) is used in Stage 0",
+        "FCR regimen (Folinic acid + Cytarabine + Rituximab) is palliative only; BR regimen (Bleomycin + Rituximab) is treatment of choice if fit"
+      ],
+      "ans": 0,
+      "exp": "Under 'Treatment :' on page 144: '• FCR regimen (If fit) : TOC — Fludarabine, Cyclophosphamide, Rituximab. • BR regimen : More commonly used — Bendamustine, Rituximab.' (Book p144)"
+    },
+    {
+      "id": "MED-C25-25",
+      "sec": "CLL Prognostic Factors Table, FCR & BR Treatment Regimens, and Hairy Cell Leukemia Overview & Pathogenesis",
+      "page": 144,
+      "fmt": "recall",
+      "q": "Under 'Hairy Cell Leukemia' on page 144, how is the disease characterized by frequency/grade, cell of origin, age group, and sex ratio?",
+      "opts": [
+        "Common high-grade T-cell neoplasm; arises from thymic pre-T lymphoblast; age group <20 years (Male > Female)",
+        "Indolent naive B-cell neoplasm; arises from bone marrow pro-B cell; median age 13 years (Female > Male)",
+        "Rare low-grade B-cell neoplasm; arises from memory B cell; age group >60 years (Male > Female)",
+        "Aggressive germinal-centre neoplasm; arises from dark-zone centroblast; age group 20–30 years (Female > Male)"
+      ],
+      "ans": 2,
+      "exp": "Under 'Hairy Cell Leukemia' on page 144: 'Rare low grade B cell neoplasm. Arise from memory B cell. Age group : >60 years (Male > Female).' (Book p144)"
+    },
+    {
+      "id": "MED-C25-26",
+      "sec": "CLL Prognostic Factors Table, FCR & BR Treatment Regimens, and Hairy Cell Leukemia Overview & Pathogenesis",
+      "page": 144,
+      "fmt": "fillup",
+      "q": "In the 'Pathogenesis' flowchart of Hairy Cell Leukemia on page 144, a memory B cell acquires a ______ mutation to become a hairy cell.",
+      "opts": [
+        "NOTCH-1",
+        "BRAF",
+        "JAK2",
+        "MYD88"
+      ],
+      "ans": 1,
+      "exp": "Under 'Pathogenesis :' on page 144: 'Memory B cell ——[BRAF mutation]——> Hairy cell.' (Book p144)"
+    },
+    {
+      "id": "MED-C25-27",
+      "sec": "CLL Prognostic Factors Table, FCR & BR Treatment Regimens, and Hairy Cell Leukemia Overview & Pathogenesis",
+      "page": 144,
+      "fmt": "recall",
+      "q": "In the 'Pathogenesis' diagram of Hairy Cell Leukemia at the bottom of page 144, what effects occur in the Spleen and Bone marrow?",
+      "opts": [
+        "Spleen develops massive splenomegaly; Bone marrow develops pancytopenia (specifically neutropenia and monocytopenia) plus fibrosis",
+        "Spleen undergoes splenic atrophy with Howell-Jolly bodies; Bone marrow shows erythroid hyperplasia without fibrosis",
+        "Spleen remains normal in size; Bone marrow shows isolated thrombocytosis and hypersegmented megakaryocytes",
+        "Spleen develops solitary calcified granulomas; Bone marrow shows pure red cell aplasia with normal neutrophils and monocytes"
+      ],
+      "ans": 0,
+      "exp": "In the Pathogenesis diagram on page 144, Hairy cell branches into: 'Spleen : Massive splenomegaly' and 'Bone marrow : • Pancytopenia (Neutropenia, monocytopenia) • Fibrosis.' (Book p144)"
+    },
+    {
+      "id": "MED-C25-28",
+      "sec": "CLL Prognostic Factors Table, FCR & BR Treatment Regimens, and Hairy Cell Leukemia Overview & Pathogenesis",
+      "page": 144,
+      "fmt": "oddoneout",
+      "q": "Because of neutropenia, monocytopenia, and marrow fibrosis, Hairy Cell Leukemia patients on page 144 are specifically listed as prone to all of the following opportunistic infections EXCEPT:",
+      "opts": [
+        "Aspergillosis",
+        "MAC (Mycobacterium avium complex)",
+        "M. kansasii (printed M. kansasi)",
+        "Pneumocystis jirovecii pneumonia (PCP)"
+      ],
+      "ans": 3,
+      "exp": "At the bottom of page 144, under Bone marrow → 'Prone to :', the three listed infections are: '• Aspergillosis • MAC • M. kansasi.' (Book p144)"
+    },
+    {
+      "id": "MED-C25-29",
+      "sec": "Hairy Cell Leukemia Investigations (Smear, Fried-Egg Marrow, Immunophenotype), Treatment & PAN Association",
+      "page": 145,
+      "fmt": "recall",
+      "q": "Under 'Investigations → Peripheral smear' on page 145, which five cytological features describe the Hairy cell?",
+      "opts": [
+        "Mononuclear, bilobed eccentric nuclei, hairy projections, low N:C ratio, and abundant cytoplasm",
+        "Multilobed hypersegmented nucleus, azurophilic granules, bundles of Auer rods, high N:C ratio, and basophilic cytoplasm",
+        "Clefted 'coffee-bean' central nucleus, prominent owl-eye eosinophilic nucleoli, high N:C ratio, and scanty pale cytoplasm",
+        "Small round nucleus, clumped soccer-ball chromatin, no cytoplasmic projections, high N:C ratio, and scanty cytoplasm"
+      ],
+      "ans": 0,
+      "exp": "At the top of page 145 (next to the 'Hairy cell' smear image): '• Peripheral smear : – Hairy cell : mononuclear, bilobed eccentric nuclei, hairy projections, low N : C ratio, abundant cytoplasm.' (Book p145)"
+    },
+    {
+      "id": "MED-C25-30",
+      "sec": "Hairy Cell Leukemia Investigations (Smear, Fried-Egg Marrow, Immunophenotype), Treatment & PAN Association",
+      "page": 145,
+      "fmt": "fillup",
+      "q": "On bone marrow biopsy in Hairy Cell Leukemia on page 145, hairy cells and fibrosis are accompanied by the classic ______ appearance (also termed honeycomb appearance).",
+      "opts": [
+        "Owl eye",
+        "Fried egg",
+        "Starry sky",
+        "Clock face"
+      ],
+      "ans": 1,
+      "exp": "Under 'Bone marrow biopsy :' (and matching the photomicrograph caption 'Fried egg appearance in bone marrow') on page 145: '– Hairy cells. – Fibrosis. – Fried egg appearance/honey comb appearance.' (Book p145)"
+    },
+    {
+      "id": "MED-C25-31",
+      "sec": "Hairy Cell Leukemia Investigations (Smear, Fried-Egg Marrow, Immunophenotype), Treatment & PAN Association",
+      "page": 145,
+      "fmt": "recall",
+      "q": "Under 'Immunophenotyping :' of Hairy Cell Leukemia on page 145, which four specific surface hairy-cell CD markers accompany pan-B markers CD19, CD20, and CD22?",
+      "opts": [
+        "CD3, CD4, CD8, and CD56 : Positive",
+        "CD5, CD10, CD21, and CD23 : Positive",
+        "CD11c, CD25, CD103, and CD123 : Positive",
+        "CD15, CD30, CD34, and CD117 : Positive"
+      ],
+      "ans": 2,
+      "exp": "Under 'Immunophenotyping :' on page 145: '– CD19, CD20, CD22, CD11c, CD25, CD103, CD123 : Positive.' (Book p145)"
+    },
+    {
+      "id": "MED-C25-32",
+      "sec": "Hairy Cell Leukemia Investigations (Smear, Fried-Egg Marrow, Immunophenotype), Treatment & PAN Association",
+      "page": 145,
+      "fmt": "recall",
+      "q": "Alongside surface CD markers on page 145, which protein and cytochemical enzyme stain are POSITIVE in Hairy Cell Leukemia?",
+      "opts": [
+        "SOX-11 : Positive and Leukocyte alkaline phosphatase (LAP) : Positive",
+        "Myeloperoxidase (MPO) : Positive and Sudan black B : Positive",
+        "Cyclin D1 : Positive and Terminal deoxynucleotidyl transferase (TdT) : Positive",
+        "Annexin : Positive and TRAP (Tartarate resistant acid phosphatase) : Positive"
+      ],
+      "ans": 3,
+      "exp": "Sub-bullets 2–3 under 'Immunophenotyping :' on page 145 list: '– Annexin : Positive. – TRAP (Tartarate resistant acid phosphatase) : Positive.' (Book p145)"
+    },
+    {
+      "id": "MED-C25-33",
+      "sec": "Hairy Cell Leukemia Investigations (Smear, Fried-Egg Marrow, Immunophenotype), Treatment & PAN Association",
+      "page": 145,
+      "fmt": "recall",
+      "q": "Which two specific B-cell markers are explicitly printed as NEGATIVE under 'Immunophenotyping :' of Hairy Cell Leukemia on page 145?",
+      "opts": [
+        "Annexin and TRAP : Negative",
+        "CD₁₉ and CD₂₀ : Negative",
+        "CD₁₁c and CD₁₀₃ : Negative",
+        "CD₁₀ and CD₂₁ : Negative"
+      ],
+      "ans": 3,
+      "exp": "The fourth sub-bullet under 'Immunophenotyping :' on page 145 prints specifically: '– CD₁₀, CD₂₁ : Negative.' (Book p145)"
+    },
+    {
+      "id": "MED-C25-34",
+      "sec": "Hairy Cell Leukemia Investigations (Smear, Fried-Egg Marrow, Immunophenotype), Treatment & PAN Association",
+      "page": 145,
+      "fmt": "match",
+      "q": "Under 'Treatment :' of Hairy Cell Leukemia on page 145, match each agent with its exact therapeutic role — 1) Cladribine 2) Pentostatin 3) Vemurafenib 4) Rituximab … A) Second-choice purine nucleoside analogue after Cladribine B) Oral BRAF inhibitor — mostly used in relapse C) Anti-CD20 monoclonal antibody — used for maintenance D) Purine nucleoside analogue — treatment of choice (TOC) / drug of choice (DOC)",
+      "opts": [
+        "1-B, 2-A, 3-D, 4-C",
+        "1-D, 2-A, 3-B, 4-C",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-A, 2-D, 3-C, 4-B"
+      ],
+      "ans": 1,
+      "exp": "Under 'Treatment :' on page 145: '• Purine nucleoside analogue (TOC) : Cladribine (DOC) > Pentostatin. • BRAF inhibitor : Vemurafenib (mostly used in relapse). • Rituximab : For maintenence.' (Book p145)"
+    },
+    {
+      "id": "MED-C25-35",
+      "sec": "Hairy Cell Leukemia Investigations (Smear, Fried-Egg Marrow, Immunophenotype), Treatment & PAN Association",
+      "page": 145,
+      "fmt": "scenario",
+      "q": "A 66-year-old man presents with massive splenomegaly, fever, neutropenia, monocytopenia, pulmonary MAC infection, and livedo reticularis with mononeuritis multiplex and renal microaneurysms. Bone marrow biopsy confirms hairy cell leukemia with Annexin+, TRAP+, CD103+ cells. Which systemic vasculitis does the 'Note' at the bottom of page 145 associate with hairy cell leukemia and Hepatitis B?",
+      "opts": [
+        "Giant cell (temporal) arteritis",
+        "Microscopic polyangiitis (MPA)",
+        "Polyarteritis nodosa (PAN)",
+        "Eosinophilic granulomatosis with polyangiitis (EGPA)"
+      ],
+      "ans": 2,
+      "exp": "The Note at the bottom of page 145 reads: 'Note : Polyarteritis nodosa : Association with hairy cell leukemia & hepatitis B.' (Book p145)"
+    },
+    {
+      "id": "MED-C25-36",
+      "sec": "Hairy Cell Leukemia Investigations (Smear, Fried-Egg Marrow, Immunophenotype), Treatment & PAN Association",
+      "page": 145,
+      "fmt": "truefalse",
+      "q": "Which statement regarding Hairy Cell Leukemia on page 145 is TRUE?",
+      "opts": [
+        "True — Purine nucleoside analogue Cladribine is the drug of choice (> Pentostatin), Vemurafenib is mostly used in relapse, and Rituximab is used for maintenance",
+        "False — Polyarteritis nodosa is specifically associated with both hairy cell leukemia and hepatitis B virus infection",
+        "True — Hairy cells display a high nuclear-to-cytoplasmic (N:C) ratio, scanty agranular cytoplasm, and strong positivity for CD10 and CD21",
+        "False — Hairy cells test positive for TRAP (tartrate-resistant acid phosphatase), Annexin, CD11c, CD25, CD103, and CD123"
+      ],
+      "ans": 0,
+      "exp": "All four lines on page 145 confirm: low N:C ratio with abundant cytoplasm, CD10 & CD21 Negative, CD19/CD20/CD22/CD11c/CD25/CD103/CD123 + Annexin + TRAP Positive, Cladribine (DOC) > Pentostatin with Vemurafenib in relapse and Rituximab for maintenance, and PAN associated with hairy cell leukemia & hepatitis B. (Book p145)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U25-1",
+      "ch": 25,
+      "n": 1,
+      "title": "CLL Overview, Epidemiology, Defective Apoptosis Pathophysiology, Small Lymphocytic Leukemia (SLL) & Etiology",
+      "sec": "CLL Overview, Epidemiology, Defective Apoptosis Pathophysiology, Small Lymphocytic Leukemia (SLL) & Etiology",
+      "guide": "Overview: CLL is the most common lymphoid leukemia (AML = m/c myeloid leukemia), Males > Females, low-grade; 80–85% asymptomatic/indolent, median age 72 yrs, median survival 10 yrs, 1–2% spontaneous regression.\nPathophysiology: Defective apoptosis of naive B-cells (CD19, CD20, CD21, CD22, CD79a, CD79b, S.IgM) → clonal expansion + acquire CD5, CD23 → monoclonal B-cell lymphocytosis → CLL if lymphocytes >5000 cells/µL.\nSLL & Etiology: SLL arises from memory B cell with identical immunophenotype/features and painless lymphadenopathy ± splenomegaly; CLL has strong familial inheritance and no risk with radiation.",
+      "qs": [
+        "MED-C25-01",
+        "MED-C25-02",
+        "MED-C25-03",
+        "MED-C25-04",
+        "MED-C25-05",
+        "MED-C25-06",
+        "MED-C25-07",
+        "MED-C25-08",
+        "MED-C25-09"
+      ]
+    },
+    {
+      "id": "MED-U25-2",
+      "ch": 25,
+      "n": 2,
+      "title": "CLL Investigations, Smudge Cells, Richter Transformation, Warm AIHA, Staging Table & Indications for Treatment",
+      "sec": "CLL Investigations, Smudge Cells, Richter Transformation, Warm AIHA, Staging Table & Indications for Treatment",
+      "guide": "Investigations: Unexplained lymphocytosis (~60,000–70,000; rarely normocytic normochromic anemia, thrombocytopenia); smear shows small blue round CLL lymphocytes (pale cytoplasm, no granules, moderate chromatin condensation) + Smudge cells; LN biopsy shows diffuse effacement (SLL).\nHigh-risk indicators: (1) Richter transformation — low-grade (classically SLL) → high-grade (classically DLBCL) with ↑ lymphadenopathy & B symptoms (>10% weight loss in 6 mo, fever >100.4°F, ↑↑ LDH, ↑ PET nodal uptake); (2) Warm antibody AIHA (DAT/Coomb's test).\nStaging & Rx indications: Stages 0 (lymphocytosis) & 1 (+ lymphadenopathy) = no treatment; Stages 2 (HSM), 3 (anemia), 4 (pancytopenia, as printed) = treatment required. Rx indications: Richter features, steroid-refractory AIHA, Stages 2–4 (massive splenomegaly, marrow failure).",
+      "qs": [
+        "MED-C25-10",
+        "MED-C25-11",
+        "MED-C25-12",
+        "MED-C25-13",
+        "MED-C25-14",
+        "MED-C25-15",
+        "MED-C25-16",
+        "MED-C25-17",
+        "MED-C25-18",
+        "MED-C25-19",
+        "MED-C25-20"
+      ]
+    },
+    {
+      "id": "MED-U25-3",
+      "ch": 25,
+      "n": 3,
+      "title": "CLL Prognostic Factors Table, FCR & BR Treatment Regimens, and Hairy Cell Leukemia Overview & Pathogenesis",
+      "sec": "CLL Prognostic Factors Table, FCR & BR Treatment Regimens, and Hairy Cell Leukemia Overview & Pathogenesis",
+      "guide": "CLL prognosis & Rx: Good = hypermutated Ig heavy chain, chr 13q del; Bad = unmutated Ig heavy chain, other deletions (11q del, 17p del, trisomy 12), β2-microglobulin, ↑ LDH, Zap-70. Regimens: FCR (Fludarabine + Cyclophosphamide + Rituximab, TOC if fit); BR (Bendamustine + Rituximab, more commonly used).\nHairy Cell Leukemia: Rare low-grade B-cell neoplasm arising from memory B cell, >60 yrs (M > F). Pathogenesis: Memory B cell + BRAF mutation → Hairy cell → Spleen (massive splenomegaly) & Bone marrow (pancytopenia with neutropenia + monocytopenia, fibrosis → Aspergillosis, MAC, M. kansasii).",
+      "qs": [
+        "MED-C25-21",
+        "MED-C25-22",
+        "MED-C25-23",
+        "MED-C25-24",
+        "MED-C25-25",
+        "MED-C25-26",
+        "MED-C25-27",
+        "MED-C25-28"
+      ]
+    },
+    {
+      "id": "MED-U25-4",
+      "ch": 25,
+      "n": 4,
+      "title": "Hairy Cell Leukemia Investigations (Smear, Fried-Egg Marrow, Immunophenotype), Treatment & PAN Association",
+      "sec": "Hairy Cell Leukemia Investigations (Smear, Fried-Egg Marrow, Immunophenotype), Treatment & PAN Association",
+      "guide": "Investigations: Smear shows mononuclear hairy cells (bilobed eccentric nuclei, hairy projections, low N:C ratio, abundant cytoplasm); marrow biopsy shows hairy cells, fibrosis & fried-egg / honeycomb appearance.\nImmunophenotyping: Positive = CD19, CD20, CD22, CD11c, CD25, CD103, CD123, Annexin, TRAP (tartrate-resistant acid phosphatase); Negative = CD10, CD21.\nTreatment & association: Purine nucleoside analogue (TOC) = Cladribine (DOC) > Pentostatin; BRAF inhibitor Vemurafenib (relapse); Rituximab (maintenance). Note: Polyarteritis nodosa is associated with hairy cell leukemia & hepatitis B.",
+      "qs": [
+        "MED-C25-29",
+        "MED-C25-30",
+        "MED-C25-31",
+        "MED-C25-32",
+        "MED-C25-33",
+        "MED-C25-34",
+        "MED-C25-35",
+        "MED-C25-36"
+      ]
+    }
+  ]
+}
