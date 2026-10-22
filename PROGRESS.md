@@ -1,14 +1,55 @@
 # PULSE Medicine Vol 1 — Progress
 
-Updated **2026-10-22** (Chapters 34–38 released and deployed; source review now reaches Book p235). Standalone offline quiz based on *PULSE Medicine Vol 1*, printed Book p1–375 (Marrow Edition 8).
+Updated **2026-10-22** (Chapters 39–44 released and deployed; source review now reaches Book p263). Standalone offline quiz based on *PULSE Medicine Vol 1*, printed Book p1–375 (Marrow Edition 8).
 
 - Repository: `Deva20045/Med-V1`
-- Session branch: `arena/ffa51509-med-v1` (published from this release's session)
+- Session branch: `arena/a643ea65-med-v1` (published from this release's session)
 - Published URL: https://deva20045.github.io/Med-V1/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 38 live chapters / 61 · 2,716 questions / 274 units.** Chapters 1–38 are embedded by `build_content.py`; source coverage is complete through Book p235.
+- **Build status: 44 live chapters / 61 · 2,938 questions / 302 units.** Chapters 1–44 are embedded by `build_content.py`; source coverage is complete through Book p263.
 
-## This release — Chapters 34 to 38 (Book p206–235)
+## This release — Chapters 39 to 44 (Book p236–263)
+
+Chapters 39–44 of *PULSE Medicine Vol 1* are complete in strict source order (**Ch 39 Interstitial Lung Disease, Ch 40 Bronchial Asthma, Ch 41 Pulmonary Eosinophilia, Ch 42 Allergic Bronchopulmonary Aspergillosis, Ch 43 Hypersensitivity Pneumonitis, Ch 44 Pleural Effusion**). Every printed line on Book p236–263 was inventoried from the upload scans and converted into questions in exact page order, including classification braces, HRCT pattern tables, severity/exacerbation tables, parasite and unknown-cause comparison tables, treatment flowcharts, figure captions, printed thresholds and source slips.
+
+| Chapters | Book pages | Source sheets | Questions | Units |
+|---|---:|---|---:|---:|
+| 1–38 | 1–235 | `01.pdf` PDF13–PDF129; `02.pdf` PDF1–PDF118 | 2,716 | 274 |
+| 39 | 236–242 | `02.pdf` PDF119–PDF125 | 55 | 7 |
+| 40 | 243–248 | `02.pdf` PDF126–PDF130; `03.pdf` PDF1 | 45 | 6 |
+| 41 | 249–252 | `03.pdf` PDF2–PDF5 | 33 | 4 |
+| 42 | 253–256 | `03.pdf` PDF6–PDF9 | 29 | 4 |
+| 43 | 257–259 | `03.pdf` PDF10–PDF12 | 27 | 3 |
+| 44 | 260–263 | `03.pdf` PDF13–PDF16 | 33 | 4 |
+| **Cumulative** | **263** |  | **2,938** | **302** |
+
+The 222 new questions deliberately raise the interactive share in line with the owner's request for mixed formats: 75 recall, 46 match, 22 scenario, 19 numeric, 19 fill-up, 16 odd-one-out, 14 true/false and 11 management (147/222 = **66% non-recall**, against 48% in the previous release). The cumulative bank is 1,709 recall, 317 numeric, 314 match, 177 fill-up, 129 scenario, 113 true/false, 103 odd-one-out and 76 management. Source slips and debatable statements discovered on p236–263 (the p238 "End to early expiratory" crackle timing, "Anti-FDGF", the p246 header carry-over from the extrinsic/intrinsic table, "Cytogenic organising pneumonia", "TEP" for TPE, ipratropium "500 mg", the p262 "< 60 g/L" glucose cell, "Calculated effusion" as an ICD indication and "VAT" for VATS) are preserved verbatim and itemised in [audit/known-source-caveats.md](audit/known-source-caveats.md).
+
+### Chapter 39 — Interstitial Lung Disease (Book p236–242; 55 questions / 7 units)
+
+Opens with the interstitium's three types and the parenchymal equation (alveoli + alveolar + vascular interstitium), then defines ILD as diffuse parenchymal lung fibrosis driven TGF-β > PDGF with TGF-β the most potent fibrogenic cytokine, classifies ILD (IIP m/c, autoimmune, HP, sarcoidosis, miscellaneous) and ranks the seven idiopathic interstitial pneumonias with the smoking brace on RB-ILD/DIP and the DAD/post-COVID acute interstitial pneumonia bullets. Autoimmune and miscellaneous lists follow (asbestosis lower lobe against the silicosis/berylliosis/CWP upper-lobe brace, EGPA, NF/tuberous sclerosis, bleomycin, smoking LCH, LAM), with the UIP/NSIP/COP/LIP important-points boxes and the RA=UIP / others=NSIP note. Clinical features cover the two cardinal symptoms misdiagnosed as bronchitis, the additional-symptom pairings, the velcro-crackles/clubbing table versus bronchiectasis, the three skin signs, hypoxia→pulmonary HTN as the top prognostic factor, the direct-PH rule-out note and the bibasal subpleural CXR. PFT runs initial Type 1 diffusion failure to advanced Type 3 ventilatory failure; HRCT is investigation of choice, with the UIP suggestive/specific braces, absent nodules/GGO, captioned scans and pirfenidone/nintedanib (anti-FDGF as printed). NSIP (postero-basal GGO, better prognosis, MMF best), the ten NSIP-pattern drugs with the cyclophosphamide/methotrexate HP brace, COP/BOOP (Masson buds, halo vs reverse-halo, steroid-responsive restrictive type) and the LAM/LCH/LIP cyst panels follow, then the eight-row HRCT finding–disease table, nodular-shadow and tree-in-bud notes, mosaic-attenuation and lower-lobe captions, the upper-lobe ILD list with its "LL reticular shadows in IPF" film, and PAP (SP-B congenital vs anti-GM-CSF acquired, chunky gelatinous PAS+ sputum, batwing, whole lung lavage).
+
+### Chapter 40 — Bronchial Asthma (Book p243–248; 45 questions / 6 units)
+
+Starts with the pure-airway feature list (no hypercapnia/PH/cor pulmonale), the reversibility box (4 puffs SABA, 30 min, 12% + 200 ml separating Asthma from COPD), the GINA feature stack, the four symptoms and the variable/night/RSV pattern with its four triggers. Etiopathogenesis lists the nine triggers (with 5q polymorphism), the hygiene hypothesis TH2→TH1 chain, IL-4/IL-5/IL-13 actions, early (histamine/tryptase/PGD2) versus late (4–6 h, basophil) phases, and the eosinophil mediator/protein/granule sets. Histopathology numbers chronic inflammation (with Curschmann spirals captioned), muscle hypertrophy, goblet hyperplasia and patchy epithelial necrosis; the ten-row extrinsic-vs-intrinsic table and the Samters triad triangle (as printed) follow. Severity grading covers intermittent versus persistent disease and the mild/moderate/severe ladder — tested by column position because the print carries over the extrinsic/intrinsic headers and writes "Significantly ↓ activity" in the severe nocturnal cell — then the twelve-row acute-exacerbation-vs-impending-failure table with its merged gas cells and printed PEFR "L/min" bands. Management makes ICS the mainstay (five effects, three examples, the printed "Early LCS" slip noted), denies SABA any role in persistent Asthma, steps ICS–formoterol through tiotropium to the three biologics (mepolizumab's printed IL-5-receptor description and "Dupilumab" preserved), and retires methacholine/RAST in favour of FeNO. The ER flowchart (confirm→determine→acute-severe drug arm with ipratropium "500 mg" as printed→1-hour PEFR/saturation reassessment→MgSO4→NIV→intubation, impending failure straight to intubation) and brittle Asthma Types 1 (oral steroids) and 2 (s/c adrenaline) close the chapter.
+
+### Chapter 41 — Pulmonary Eosinophilia (Book p249–252; 33 questions / 4 units)
+
+Defines eosinophilic lung disease (airway > parenchyma, role unclear, peripheral counts not always raised) with its three defining features, then splits causes into Known (parasite hypersensitivity/invasion, drugs and toxins, TPE, ABPA) and Unknown (AEP, CEP, EGPA under three printed names, idiopathic hypereosinophilic syndrome), records the diseases *not* classified under ELD (including Asthma, "cytogenic organising pneumonia" as printed and HP) and the BAL ≥40% pair "TEP"/CEP. The parasite table contrasts Loeffler syndrome (Ascaris-first, type 1 larval hypersensitivity, migratory infiltrates, self-limiting) with Paragonimus invasion (chocolate sputum, eggs/ELISA, praziquantel DOC), followed by the NSAID-led drug/toxin list. TPE is built line-by-line: male predominance, the two filarial organisms, microfilarial hypersensitivity with its three evidence bullets, acute-on-chronic symptoms ("stimulate status asthmaticus" as printed), the >3000/mm³, BAL ≥40% and IgE >1000 u/ml laboratory triad, mottling radiology with its captioned film, and DEC dosing with its 7-day improvement and 20% relapse bullets. The unknown-cause table is completed across two pages — restarted-smoking AEP with its 2–3-day ARDS-like course and captioned imaging, atopic CEP of women 30–40 with the reverse-bat-wing/photographic-negative sign and right-predominant captions, and the JAK2/PDGFRα hypereosinophilic syndrome with its 40%/60% organ frequencies, >1500/µL-for->6-months criterion and printed steroid unresponsiveness against the merged Steroid cell for AEP/CEP.
+
+### Chapter 42 — Allergic Bronchopulmonary Aspergillosis (Book p253–256; 29 questions / 4 units)
+
+Microbiology ranks A. fumigatus (saprophyte) over niger/flavus/terreus with conidiophore/septate-hyphae identification and the two captioned micrographs, then draws the four lung manifestations with their descriptors (aspergilloma in a TB cavity, COPD chronic necrotising disease with thick-walled cavities, angioinvasive disease of neutropenic/steroid hosts). The pathogenesis flowchart is followed arm by arm from Asthma/CF colonisation through Type I > Type III hypersensitivity to eosinophilia/IgE, migratory infiltrates and wall-weakening bronchiectasis, and hypha-bearing plugs with atelectasis. The Th2 note and the bilateral/upper-lobe/central/proximal bronchiectasis definition pair with four captioned images (cystic central bronchiectasis with mucoid impaction, tree-in-bud central bronchiectasis, mucus-distended bronchi, hyperattenuated mucus), and the clinical block fixes recurrent exacerbations in refractory Asthma/CF, brownish plugs, 15–20% signs and rare upper-lobe fibrosis before its three-group cause list (rheumatology AS/sarcoidosis, occupational trio, ABPA/LCH/HP/TB). Evaluation tests the predisposing condition, both obligatory IgE criteria (>1000 IU/ml plus skin test/specific IgE) and the any-2 supportive tier, IgE as the most useful test, and obstructive-to-Stage-5-restrictive PFT; imaging captions cover fleeting infiltrates over dated films, tram tracks, finger-in-glove, "Trees in bud" as printed and saccular dilatation. The unlikely-versus-against X-ray tiers and the 12-week-steroid→16-week-itraconazole→omalizumab ladder with periodic IgE monitoring close the chapter.
+
+### Chapter 43 — Hypersensitivity Pneumonitis (Book p257–259; 27 questions / 3 units)
+
+Defines extrinsic allergic alveolitis of non-smokers through repeated organic dust, Type IV > III hypersensitivity and lymphocytic terminal-airway/alveolar/interstitial inflammation, with the no-type-1 triad of absences, diffuse→reticulo-nodular infiltrates and non-caseating granulomas. The twelve-disease etiology table is tested cell by cell, including both merged antigen spans (Thermoactinomyces vulgaris across farmer's/bagassosis/mushroom worker's; Aspergillus clavatus across compost/tobacco/malt/cheese washer's), the m/c and 2nd-m/c tags, and the table's blank source/antigen cells exactly as drawn. Presentation separates self-resolving acute disease (fever/chills/cough, ↑ESR, 2–4 days), the most common subacute form (progressive dyspnea/cough/fatiguability, no systemic features, upper lobe) and fibrosing chronic disease; complications assign rare fibrosis to bird fancier's lung and emphysema to farmer's lung, supported by the seven-cause non-caseating-granuloma note (with "30% TB") and the three non-COPD emphysema causes. Management covers non-specific type III precipitins, BAL CD8/CD4 > 2 against sarcoidosis's mirrored CD4/CD8 > 2, restrictive chronic PFT, the captioned acute-HP film, CT centrilobular nodules/GGO/head-cheese mosaic with its two captioned scans, subacute steroid response versus irreversible fibrosis, and the six-row HP-vs-ABPA table whose only shared positive is the type III IgG precipitin.
+
+### Chapter 44 — Pleural Effusion (Book p260–263; 33 questions / 4 units)
+
+Anatomy fixes the mesothelial lining (surfactant note as printed), 10–20 ml normal volume, lymphatic/vacuum negative pressure, the coupling-organ phrase, both pleurae with their mesodermal origins and pain properties ("Developes" preserved), the 50/200/300 mL detection ladder, and the 70/25/1–5% cellular plus glucose/protein/LDH composition. Light's criteria are tested as three printed ratios with the any-1/all-3-negative brace and the CCF-diuretic one-third misclassification against the higher-is-transudative albumin gradient. Causes enumerate all ten transudates (NT pro BNP bracket, urinothorax's ammoniacal chemistry) and six exudates (RA/SLE arrows, the left-sided pancreatitis/oesophageal-rupture brace), the both-types pair and four drugs; TB effusion keeps its 20–30-year female first-exposure profile, easing pleuritic pain and 25–30% later pulmonary TB, and examination runs through the deviated trachea of the captioned left-effusion film to stony dullness. Exudative detail covers the uncomplicated-vs-complicated parapneumonic table (glucose "< 60 g/L" as printed), empyema's pus/protein/LDH/split-pleura set against the abscess scan, the three low-pH causes with malignancy's poor-prognosis arrow, and chylothorax versus pseudochylothorax across all merged and split rows. Glucose tiers (RA alone below 30), the cardiac NT pro BNP line, the four ICD indications ("Calculated effusion" preserved against its own page's loculated film), six eosinophilic-effusion causes, the central-trachea loculated caption, the TB sensitivity ladder to 90% biopsy-plus-culture, and neoplastic effusion (mesothelioma first as printed, breast metastasis, 50% cytology, "VAT" or CT biopsy, poor prognosis except lymphoma) finish the release at p263.
+
+## Earlier release — Chapters 34 to 38 (Book p206–235)
 
 The requested five chapters were reviewed sheet-by-sheet in printed order (`uploads/02.pdf` PDF89–118 = Book p206–235, the second Pulmonology run after Chapters 29–33), then encoded with deterministically balanced, non-predictable options across all 8 formats (`recall`, `numeric`, `scenario`, `truefalse`, `oddoneout`, `management`, `fillup`, and 2- to 4-item bijective `match` items) and page-cited explanations. Every printed list, table cell, flowchart arm, figure caption, murmur description, formula and Note box on these 30 sheets is covered. All source-text quirks (the `>50–70%` occlusion and `SBP < 90 mmHg`/`≥ 15 mins` brace on p206, `McConnel's sign`, `NT pro BNP` and `Polo mint sign` on p207–211, `Trepostinil` and the `Right atrial pressure` box term on p212–217, `Bronchiectasis (Sicca)` and `Pseudobronchiectasis` on p218–221, the `Type-3` anaesthesiology note that conflicts with the Type III row on p231, the `PAS positive milky white BAL` shared by acute silicosis and PAP on p224–226, `Serpentile`, `Epitheloid` and `crow feet sign` on p227, the `erythemoid lesions` spelling on p229, and the `fibrotic vasoconstriction (14–21 days)` phase name on p234) are preserved faithfully and documented in [audit/known-source-caveats.md](audit/known-source-caveats.md). Existing Chapters 1–33 remain unchanged.
 
@@ -241,11 +282,11 @@ Inherited hemolytic anemia classification (hemoglobinopathies, membrane cytoskel
 
 ## Quality and ordering contract delivered
 
-1. Every printed page p1–168 is covered in book order from the scanned source (no text layer exists); headings, table cells, image labels, flowchart arms, thresholds and notes are represented. Page map: `01.pdf` PDF13 = p1 … PDF129 = p117 and `02.pdf` PDF1 = p118 … PDF51 = p168; no requested sheets are missing.
-2. `audit/coverage.json` holds **2,716 inventoried points** across Chapters 1–38; every ledger point resolves to exactly one question in question order and on the matching book page.
+1. Every printed page p1–263 is covered in book order from the scanned source (no text layer exists); headings, table cells, image labels, flowchart arms, thresholds and notes are represented. Page map: `01.pdf` PDF13 = p1 … PDF129 = p117, `02.pdf` PDF1 = p118 … PDF130 = p247 and `03.pdf` PDF1 = p248 … PDF16 = p263 so far; no requested sheets are missing.
+2. `audit/coverage.json` holds **2,938 inventoried points** across Chapters 1–44; every ledger point resolves to exactly one question in question order and on the matching book page.
 3. Four-option sets are unique, parallel in length/detail, and deterministically shuffled across all four positions (`A`–`D`). Matching items use 2- to 4-item bijections with varied permutations; true/false items have balanced 2 True / 2 False choices; numeric and fill-up questions use plausible clinical distractors; scenarios retain full clinical context.
 4. IDs are sequential `MED-C<N>-<seq>`; the question array is strictly nondecreasing in book page, unit question lists are exact contiguous slices of source order, every unit guide is 2–4 lines, and every explanation ends with its exact `(Book pX)` citation matching the question page.
-5. Chapters 1–38 are embedded in the standalone app with live flags set; **38/61 roadmap chapters are live**. See [audit/known-source-caveats.md](audit/known-source-caveats.md) for transcription and medical-source caveats.
+5. Chapters 1–44 are embedded in the standalone app with live flags set; **44/61 roadmap chapters are live**. See [audit/known-source-caveats.md](audit/known-source-caveats.md) for transcription and medical-source caveats.
 
 ## Verified PDF → printed-page map
 
@@ -256,7 +297,7 @@ Printed page numbers are ground truth. `uploads/01.pdf` is sequential after 12 u
 - `uploads/03.pdf` PDF1–128  = Book p248–375  (PDF129–131 are blank/end-quote matter)
 - **PDF → Book formula:** `01.pdf: Book p = PDF page − 12`; `02.pdf: Book p = PDF page + 117`; `03.pdf: Book p = PDF page + 247`
 
-Chapter sheet coverage source-reviewed through p235:
+Chapter sheet coverage source-reviewed through p263:
 
 | Ch | Book pages | 01.pdf sheets |
 |---:|---|---|
@@ -298,7 +339,13 @@ Chapter sheet coverage source-reviewed through p235:
 | 36 | 218–222 | 02.pdf PDF101–105 |
 | 37 | 223–229 | 02.pdf PDF106–112 |
 | 38 | 230–235 | 02.pdf PDF113–118 |
-| 39 (next) | 236 | 02.pdf PDF119 |
+| 39 | 236–242 | 02.pdf PDF119–125 |
+| 40 | 243–248 | 02.pdf PDF126–130; 03.pdf PDF1 |
+| 41 | 249–252 | 03.pdf PDF2–5 |
+| 42 | 253–256 | 03.pdf PDF6–9 |
+| 43 | 257–259 | 03.pdf PDF10–12 |
+| 44 | 260–263 | 03.pdf PDF13–16 |
+| 45 (next) | 264 | 03.pdf PDF17 |
 
 ## Schema and order contract
 
@@ -603,6 +650,34 @@ node tests/app_parsers.cjs
 | 38 | ARDS Synonyms, the 1992 AECC Criteria, Limitations and Mortality, the Berlin 2012 Definition with PEEP and Severity Table and the Factors Preventing Pulmonary Edema | 233 | MED-C38-22–MED-C38-29 | 8 |
 | 38 | ARDS Etiology (Primary and Secondary), the Toxin-to-Hyaline-Membrane Pathogenesis Chain, Alveolar Consequences and the Three Pathological Phases | 234 | MED-C38-30–MED-C38-36 | 7 |
 | 38 | ARDS Clinical Features, Mechanical Ventilation Strategies, the VILI Table (Volume, Baro and Atelecto Trauma) and the Differential of Acute Breathlessness | 235 | MED-C38-37–MED-C38-42 | 6 |
+| 39 | Interstitium and Its Types, Lung Parenchyma, TGF-β/PDGF Fibrosis, ILD Classification and the Seven Idiopathic Interstitial Pneumonias | 236 | MED-C39-01–MED-C39-08 | 8 |
+| 39 | Autoimmune and Miscellaneous ILD (Occupational Lobes, Vasculitis, Inherited, Drug-Induced, LCH, LAM) with the UIP/NSIP/COP/LIP Important Points | 237 | MED-C39-09–MED-C39-16 | 8 |
+| 39 | Clinical Features of ILD: Cardinal Symptoms, the Crackles-and-Clubbing Table versus Bronchiectasis, Skin Signs, Pulmonary HTN Prognosis and CXR | 238 | MED-C39-17–MED-C39-24 | 8 |
+| 39 | PFT in Initial versus Advanced ILD, HRCT as Investigation of Choice and the UIP Pattern with Its Image Captions and New Antifibrotic Drugs | 239 | MED-C39-25–MED-C39-32 | 8 |
+| 39 | NSIP Pattern and Its Treatment, Drugs Causing ILD, COP/BOOP with Halo Signs, and Cysts on HRCT (LAM, LCH, LIP) | 240 | MED-C39-33–MED-C39-41 | 9 |
+| 39 | HRCT Finding–Disease Table, Nodular Shadows and Tree-in-Bud Notes with the Mosaic Attenuation and Lower-Lobe Infiltrate Captions | 241 | MED-C39-42–MED-C39-48 | 7 |
+| 39 | Conditions with Upper-Lobe ILD, the LL Reticular Caption in IPF, and Pulmonary Alveolar Proteinosis (PAP) | 242 | MED-C39-49–MED-C39-55 | 7 |
+| 40 | General Features of Asthma, the Bronchodilator Reversibility Box, GINA Features and Respiratory Symptoms with Triggers | 243 | MED-C40-01–MED-C40-08 | 8 |
+| 40 | Etiopathogenesis: Triggers, Hygiene Hypothesis and TH2 Cytokines, Early versus Late Phases, and Eosinophil Mediators and Granules | 244 | MED-C40-09–MED-C40-16 | 8 |
+| 40 | Histopathology of Asthma with Curschmann Spirals, the Extrinsic versus Intrinsic Table and Samter's Triad | 245 | MED-C40-17–MED-C40-24 | 8 |
+| 40 | Mild versus Moderate versus Severe Asthma Table and Acute Severe Exacerbation versus Impending Respiratory Failure | 246 | MED-C40-25–MED-C40-31 | 7 |
+| 40 | Management: Inhaled Corticosteroids as Mainstay, the ICS–Formoterol Step Protocol with Biologics, and Investigations | 247 | MED-C40-32–MED-C40-38 | 7 |
+| 40 | Management of Asthma Exacerbation in the ER and Brittle Asthma Types One and Two | 248 | MED-C40-39–MED-C40-45 | 7 |
+| 41 | Eosinophilic Lung Disease Defined, Its Three Defining Features, Known versus Unknown Causes and Diseases Not Classified under ELD | 249 | MED-C41-01–MED-C41-08 | 8 |
+| 41 | Parasite-Related ELD (Loeffler Syndrome versus Lung Fluke Invasion), Drugs and Toxins, and Tropical Pulmonary Eosinophilia Pathogenesis | 250 | MED-C41-09–MED-C41-16 | 8 |
+| 41 | Tropical Pulmonary Eosinophilia: Acute-on-Chronic Symptoms, Laboratory and Radiological Findings, DEC Treatment, and the Unknown-Cause Table Histories and Presentations | 251 | MED-C41-17–MED-C41-25 | 9 |
+| 41 | Unknown Causes of ELD: Investigations in AEP, CEP and Idiopathic Hypereosinophilic Syndrome with Their Steroid Responses | 252 | MED-C41-26–MED-C41-33 | 8 |
+| 42 | Aspergillus Microbiology and Its Four Lung Manifestations, with the ABPA Colonisation-to-Bronchiectasis Pathogenesis Flowchart | 253 | MED-C42-01–MED-C42-08 | 8 |
+| 42 | Th2 Eosinophilic Inflammation, Central Proximal Bronchiectasis on Imaging, ABPA Clinical Features and the Upper-Lobe Fibrosis Causes (Rheumatology) | 254 | MED-C42-09–MED-C42-15 | 7 |
+| 42 | Upper-Lobe Fibrosis Causes completed, ABPA Diagnostic Criteria with IgE, PFT Pattern and the Five Imaging Captions | 255 | MED-C42-16–MED-C42-22 | 7 |
+| 42 | X-Ray Findings Unlikely or Against ABPA, the Steroid–Itraconazole–Omalizumab Treatment Flowchart and IgE Monitoring | 256 | MED-C42-23–MED-C42-29 | 7 |
+| 43 | Extrinsic Allergic Alveolitis: Type IV over III Pathogenesis, Absent Type I Features, and the Twelve-Disease Etiology Table | 257 | MED-C43-01–MED-C43-09 | 9 |
+| 43 | Acute, Subacute and Chronic Presentations, Complications, Non-Caseating Granuloma and Emphysema Notes, Precipitins and BAL CD8/CD4 | 258 | MED-C43-10–MED-C43-18 | 9 |
+| 43 | PFT, CXR and CT in HP with the Head Cheese Pattern, Steroid Response versus Irreversible Fibrosis, and the HP versus ABPA Difference Table | 259 | MED-C43-19–MED-C43-27 | 9 |
+| 44 | Pleural Anatomy and Fluid Composition, Detection Thresholds, and Light's Criteria with the Diuretic Disadvantage | 260 | MED-C44-01–MED-C44-09 | 9 |
+| 44 | Transudative and Exudative Causes, Drugs Causing Effusion, TB Effusion Presentation and General Examination Signs | 261 | MED-C44-10–MED-C44-17 | 8 |
+| 44 | Parapneumonic Effusion and Empyema, Low-pH Causes, and Chylothorax versus Pseudochylothorax | 262 | MED-C44-18–MED-C44-24 | 7 |
+| 44 | Pleural Fluid Glucose, ICD Indications, Eosinophils in Pleural Fluid, and Tuberculous and Neoplastic Effusion Diagnosis | 263 | MED-C44-25–MED-C44-33 | 9 |
 
 ## Full roadmap
 
@@ -646,12 +721,12 @@ node tests/app_parsers.cjs
 | 36 | Bronchiectasis | 218 | **Live** |
 | 37 | Occupational Lung Diseases | 223 | **Live** |
 | 38 | Respiratory Failure and Acute Respiratory Distress Syndrome | 230 | **Live** |
-| 39 | Interstitial Lung Disease | 236 | Soon |
-| 40 | Bronchial Asthma | 243 | Soon |
-| 41 | Pulmonary Eosinophilia | 249 | Soon |
-| 42 | Allergic Bronchopulmonary Aspergillosis | 253 | Soon |
-| 43 | Hypersensitivity Pneumonitis | 257 | Soon |
-| 44 | Pleural Effusion | 260 | Soon |
+| 39 | Interstitial Lung Disease | 236 | **Live** |
+| 40 | Bronchial Asthma | 243 | **Live** |
+| 41 | Pulmonary Eosinophilia | 249 | **Live** |
+| 42 | Allergic Bronchopulmonary Aspergillosis | 253 | **Live** |
+| 43 | Hypersensitivity Pneumonitis | 257 | **Live** |
+| 44 | Pleural Effusion | 260 | **Live** |
 | 45 | Obstructive Sleep Apnea Syndrome | 264 | Soon |
 | 46 | Chronic Obstructive Airway Disease | 267 | Soon |
 | 47 | Community Acquired Pneumonia | 274 | Soon |
@@ -679,4 +754,4 @@ node tests/app_parsers.cjs
 4. Run `validate_content.py`, `tests`, and `build_content.py` to embed; verify live flags and embedded arrays.
 5. Commit, push, PR to `main` — live link updates via GitHub Pages.
 
-*Next up:* **Chapter 39 — Interstitial Lung Disease (p236)** — render `uploads/02.pdf` PDF119 onward, audit in strict book order, and continue the same pipeline.
+*Next up:* **Chapter 45 — Obstructive Sleep Apnea Syndrome (p264)** — render `uploads/03.pdf` PDF17 onward, audit in strict book order, and continue the same pipeline.

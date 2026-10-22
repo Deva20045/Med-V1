@@ -13,10 +13,11 @@ The audited run through Chapter 23 (p1–139) continues 02.pdf PDF9–22 (p126�
 The audited run through Chapter 28 (p1–168) continues 02.pdf PDF23–51 (p140–168).
 The audited run through Chapter 33 (p1–205) continues 02.pdf PDF52–88 (p169–205). It is the longest run in the book and spans the end of the Hematology section into Pulmonology (Book p185 is the first Pulmonology page).
 The audited run through Chapter 38 (p1–235) continues 02.pdf PDF89–118 (p206–235): Venous Thromboembolism, Pulmonary Hypertension, Bronchiectasis, Occupational Lung Diseases and Respiratory Failure/ARDS.
+The audited run through Chapter 44 (p1–263) continues 02.pdf PDF119–130 (p236–247) and 03.pdf PDF1–16 (p248–263): Interstitial Lung Disease, Bronchial Asthma (which straddles the 02.pdf/03.pdf seam at Book p248), Pulmonary Eosinophilia, Allergic Bronchopulmonary Aspergillosis, Hypersensitivity Pneumonitis and Pleural Effusion. Book p264 (03.pdf PDF17) was boundary-checked: it opens Chapter 45, Obstructive Sleep Apnea Syndrome.
 
-## Chapter sheet coverage verified (01.pdf & 02.pdf)
+## Chapter sheet coverage verified (01.pdf, 02.pdf & 03.pdf)
 
-| Ch | Title | Book pages | 01.pdf / 02.pdf sheets |
+| Ch | Title | Book pages | 01.pdf / 02.pdf / 03.pdf sheets |
 |---:|---|---|---|
 | 1 | Diarrhea | 1-5 | PDF13-17 |
 | 2 | Physiology of GIT Absorption and Selective Malabsorption | 6-13 | PDF18-25 |
@@ -56,7 +57,13 @@ The audited run through Chapter 38 (p1–235) continues 02.pdf PDF89–118 (p206
 | 36 | Bronchiectasis | 218–222 | 02.pdf PDF101–105 |
 | 37 | Occupational Lung Diseases | 223–229 | 02.pdf PDF106–112 |
 | 38 | Respiratory Failure and Acute Respiratory Distress Syndrome | 230–235 | 02.pdf PDF113–118 |
-| 39 (next) | Interstitial Lung Disease | 236 | 02.pdf PDF119 |
+| 39 | Interstitial Lung Disease | 236–242 | 02.pdf PDF119–125 |
+| 40 | Bronchial Asthma | 243–248 | 02.pdf PDF126–130 + 03.pdf PDF1 |
+| 41 | Pulmonary Eosinophilia | 249–252 | 03.pdf PDF2–5 |
+| 42 | Allergic Bronchopulmonary Aspergillosis | 253–256 | 03.pdf PDF6–9 |
+| 43 | Hypersensitivity Pneumonitis | 257–259 | 03.pdf PDF10–12 |
+| 44 | Pleural Effusion | 260–263 | 03.pdf PDF13–16 |
+| 45 (next) | Obstructive Sleep Apnea Syndrome | 264 | 03.pdf PDF17 |
 
 Note (Ch 20): the Contents pages print 118, but the scanned heading "MYELOPROLIFERATIVE NEOPLASMS : PART 2"
 and the CML pathophysiology that follows it begin on Book p116; the scan is ground truth and the app
