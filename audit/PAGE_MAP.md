@@ -63,7 +63,13 @@ The audited run through Chapter 44 (p1–263) continues 02.pdf PDF119–130 (p23
 | 42 | Allergic Bronchopulmonary Aspergillosis | 253–256 | 03.pdf PDF6–9 |
 | 43 | Hypersensitivity Pneumonitis | 257–259 | 03.pdf PDF10–12 |
 | 44 | Pleural Effusion | 260–263 | 03.pdf PDF13–16 |
-| 45 (next) | Obstructive Sleep Apnea Syndrome | 264 | 03.pdf PDF17 |
+| 45 | Obstructive Sleep Apnea Syndrome | 264–266 | 03.pdf PDF17–19 |
+| 46 | Chronic Obstructive Airway Disease | 267–273 | 03.pdf PDF20–26 |
+| 47 | Community Acquired Pneumonia | 274–285 | 03.pdf PDF27–38 |
+| 48 | Atypical Pneumonia and Pneumonia in Immunocompromised | 286–295 | 03.pdf PDF39–48 |
+| 49 | Cardiac Cycle With Heart Sounds | 296–302 | 03.pdf PDF49–55 |
+| 50 | Added Heart Sounds | 303–306 | 03.pdf PDF56–59 |
+| 51 (next) | Aortic Stenosis | 307 | 03.pdf PDF60 |
 
 Note (Ch 20): the Contents pages print 118, but the scanned heading "MYELOPROLIFERATIVE NEOPLASMS : PART 2"
 and the CML pathophysiology that follows it begin on Book p116; the scan is ground truth and the app

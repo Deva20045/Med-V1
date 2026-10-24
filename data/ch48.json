@@ -1,0 +1,1549 @@
+{
+  "chapter": 48,
+  "title": "Atypical Pneumonia and Pneumonia in Immunocompromised",
+  "pageRange": "286-295",
+  "questions": [
+    {
+      "id": "MED-C48-01",
+      "sec": "Mycoplasma as the Smallest Free-Living Organism, Its Wall-Free Sterol Membrane, the Ten Percent Pneumonia Picture, Seven Extrapulmonary Manifestations, Radiology, PPLO Culture and Azithromycin",
+      "page": 286,
+      "fmt": "fillup",
+      "q": "Mycoplasma is described as the smallest free living organism capable of ______.",
+      "opts": [
+        "sporulation",
+        "photosynthesis",
+        "replication",
+        "motility"
+      ],
+      "ans": 2,
+      "exp": "The opening line reads 'Smallest free living organism capable of replication', the superlative that anchors the whole mycoplasma section. (Book p286)"
+    },
+    {
+      "id": "MED-C48-02",
+      "sec": "Mycoplasma as the Smallest Free-Living Organism, Its Wall-Free Sterol Membrane, the Ten Percent Pneumonia Picture, Seven Extrapulmonary Manifestations, Radiology, PPLO Culture and Azithromycin",
+      "page": 286,
+      "fmt": "recall",
+      "q": "Which three structural facts explain why β-lactams fail in mycoplasma?",
+      "opts": [
+        "There is no cell wall, β-lactams are therefore not effective, and sterols are present while flagella are absent",
+        "There is no cell wall, β-lactams are effective through porins, and sterols are present with flagella absent",
+        "There is a thick cell wall, β-lactams are therefore effective, and sterols are absent",
+        "There is no cell wall, β-lactams are therefore not effective, and sterols are absent with flagella present"
+      ],
+      "ans": 0,
+      "exp": "The block reads 'No cell wall: β-lactams not effective, Sterols present' and 'No flagella', so the missing wall both excludes β-lactams and requires sterols in the membrane. (Book p286)"
+    },
+    {
+      "id": "MED-C48-03",
+      "sec": "Mycoplasma as the Smallest Free-Living Organism, Its Wall-Free Sterol Membrane, the Ten Percent Pneumonia Picture, Seven Extrapulmonary Manifestations, Radiology, PPLO Culture and Azithromycin",
+      "page": 286,
+      "fmt": "recall",
+      "q": "Which two diseases are listed under mycoplasma, and how is it transmitted?",
+      "opts": [
+        "Pharyngitis and bronchiolitis in 10%, transmitted by direct contact",
+        "Lobar pneumonia and empyema, transmitted by droplet infection",
+        "Tracheobronchitis or pharyngitis and pneumonia in 50%, transmitted by the faecal–oral route",
+        "Tracheobronchitis or pharyngitis and pneumonia in 10%, transmitted by droplet infection"
+      ],
+      "ans": 3,
+      "exp": "The disease list gives tracheobronchitis/pharyngitis and 'Pneumonia (10%)', followed by 'Transmission: Droplet infection'. (Book p286)"
+    },
+    {
+      "id": "MED-C48-04",
+      "sec": "Mycoplasma as the Smallest Free-Living Organism, Its Wall-Free Sterol Membrane, the Ten Percent Pneumonia Picture, Seven Extrapulmonary Manifestations, Radiology, PPLO Culture and Azithromycin",
+      "page": 286,
+      "fmt": "recall",
+      "q": "Which four features describe the pneumonia of mycoplasma on page 286?",
+      "opts": [
+        "Low grade fever, dry cough, hemoptysis and consolidation with bronchial breathing",
+        "Low grade fever, cough, scanty sputum and a paucity of clinical signs",
+        "High grade fever, cough, copious purulent sputum and florid clinical signs",
+        "High spiking fever, pleuritic pain, scanty sputum and a paucity of clinical signs"
+      ],
+      "ans": 1,
+      "exp": "The four bullets under pneumonia read 'Low grade fever', 'Cough', 'Scanty sputum' and 'Paucity of clinical signs' — the dissociation between symptoms and signs is the point. (Book p286)"
+    },
+    {
+      "id": "MED-C48-05",
+      "sec": "Mycoplasma as the Smallest Free-Living Organism, Its Wall-Free Sterol Membrane, the Ten Percent Pneumonia Picture, Seven Extrapulmonary Manifestations, Radiology, PPLO Culture and Azithromycin",
+      "page": 286,
+      "fmt": "match",
+      "q": "Match each mycoplasma extrapulmonary manifestation to its printed wording — 1) Hematological 2) Dermatological 3) Neurological … A) Steven Johnson syndrome (SJS)/erythema multiforme B) Guillain Barre syndrome (GBS) C) Cold antibody autoimmune hemolytic anemia (IgM)",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 1,
+      "exp": "The list prints cold antibody autoimmune hemolytic anemia (IgM), SJS/erythema multiforme and GBS, before encephalitis, bullous myringitis, myocarditis/pericarditis and arthralgia with adenopathy. (Book p286)"
+    },
+    {
+      "id": "MED-C48-06",
+      "sec": "Mycoplasma as the Smallest Free-Living Organism, Its Wall-Free Sterol Membrane, the Ten Percent Pneumonia Picture, Seven Extrapulmonary Manifestations, Radiology, PPLO Culture and Azithromycin",
+      "page": 286,
+      "fmt": "recall",
+      "q": "Which four radiological patterns are printed for mycoplasma on page 286?",
+      "opts": [
+        "Reticulonodular consolidation starting at the hilum, cavitation, ground glass appearance and tree in bud appearance",
+        "Lobar consolidation with air bronchogram, interstitial involvement, ground glass appearance and tree in bud appearance",
+        "Reticulonodular or patchy consolidation starting at the hilum, interstitial involvement, ground glass appearance and tree in bud appearance in endobronchial inflammation or obstruction",
+        "Reticulonodular or patchy consolidation starting at the base, interstitial involvement, ground glass appearance and honeycomb change"
+      ],
+      "ans": 2,
+      "exp": "The imaging bullets read reticulonodular/patchy consolidation starting at the hilum, interstitial involvement, ground glass appearance and tree in bud appearance in endobronchial inflammation/obstruction. (Book p286)"
+    },
+    {
+      "id": "MED-C48-07",
+      "sec": "Mycoplasma as the Smallest Free-Living Organism, Its Wall-Free Sterol Membrane, the Ten Percent Pneumonia Picture, Seven Extrapulmonary Manifestations, Radiology, PPLO Culture and Azithromycin",
+      "page": 286,
+      "fmt": "match",
+      "q": "Match each mycoplasma culture detail to its printed description — 1) Medium 2) Method 3) Appearance … A) Biphasic with fried egg appearance B) PPLO agar C) Diene's method",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "The culture block reads 'PPLO agar: Diene's method' and 'Biphasic with fried egg appearance', the fried egg colony being the classic description. (Book p286)"
+    },
+    {
+      "id": "MED-C48-08",
+      "sec": "Mycoplasma as the Smallest Free-Living Organism, Its Wall-Free Sterol Membrane, the Ten Percent Pneumonia Picture, Seven Extrapulmonary Manifestations, Radiology, PPLO Culture and Azithromycin",
+      "page": 286,
+      "fmt": "recall",
+      "q": "Which diagnostic test is bracketed as rapid and most sensitive, and which drug is the printed drug of choice?",
+      "opts": [
+        "PCR of respiratory secretion and culture are rapid and most sensitive, and a respiratory quinolone is the drug of choice",
+        "PCR of respiratory secretion and serology are rapid and most sensitive, and erythromycin is the drug of choice",
+        "Culture and serology are rapid and most sensitive, and doxycycline is the drug of choice",
+        "PCR of respiratory secretion and serology are rapid and most sensitive, and azithromycin is the drug of choice"
+      ],
+      "ans": 3,
+      "exp": "The bracket joins 'PCR of respiratory secretion' and 'Serology' under 'Rapid & most sensitive', and the treatment list starts 'Azithromycin (DOC)' followed by doxycycline and respiratory quinolones. (Book p286)"
+    },
+    {
+      "id": "MED-C48-09",
+      "sec": "Mycoplasma as the Smallest Free-Living Organism, Its Wall-Free Sterol Membrane, the Ten Percent Pneumonia Picture, Seven Extrapulmonary Manifestations, Radiology, PPLO Culture and Azithromycin",
+      "page": 286,
+      "fmt": "fillup",
+      "q": "Mycoplasma injures epithelium through hydrogen peroxide and ______ produced by the organism.",
+      "opts": [
+        "nitric oxide",
+        "peroxynitrite",
+        "hydroxyl radical",
+        "superoxide"
+      ],
+      "ans": 3,
+      "exp": "The pathogen line reads 'Hydrogen peroxide & superoxide produced by organism → Epithelial cell injury', with prognosis printed as good. (Book p286)"
+    },
+    {
+      "id": "MED-C48-10",
+      "sec": "Mycoplasma as the Smallest Free-Living Organism, Its Wall-Free Sterol Membrane, the Ten Percent Pneumonia Picture, Seven Extrapulmonary Manifestations, Radiology, PPLO Culture and Azithromycin",
+      "page": 286,
+      "fmt": "scenario",
+      "q": "A 22-year-old student has a week of low grade fever and dry cough with scanty sputum and almost no chest signs; cold agglutinins are positive. Which organism and drug of choice does the page support?",
+      "opts": [
+        "Chlamydia, treated with azithromycin",
+        "Mycoplasma, treated with a sulfonamide",
+        "Legionella, treated with azithromycin and rifampicin",
+        "Mycoplasma, treated with azithromycin"
+      ],
+      "ans": 3,
+      "exp": "Mycoplasma gives low grade fever, cough, scanty sputum and a paucity of signs with cold antibody autoimmune hemolysis, and azithromycin is printed as DOC. (Book p286)"
+    },
+    {
+      "id": "MED-C48-11",
+      "sec": "Mycoplasma as the Smallest Free-Living Organism, Its Wall-Free Sterol Membrane, the Ten Percent Pneumonia Picture, Seven Extrapulmonary Manifestations, Radiology, PPLO Culture and Azithromycin",
+      "page": 286,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three are printed extrapulmonary manifestations of mycoplasma, one belongs to chlamydia:",
+      "opts": [
+        "Atherosclerosis",
+        "Arthralgia with adenopathy",
+        "Bullous myringitis",
+        "Encephalitis"
+      ],
+      "ans": 0,
+      "exp": "The mycoplasma list prints cold antibody hemolysis, SJS, GBS, encephalitis, bullous myringitis, myocarditis/pericarditis and arthralgia with adenopathy; atherosclerosis is the single extrapulmonary manifestation given for chlamydia. (Book p286)"
+    },
+    {
+      "id": "MED-C48-12",
+      "sec": "Chlamydia as an Obligate Intracellular Peptidoglycan-Free Bacterium with Its Elementary Body, Walking Pneumonia, HEp-2 Isolation and Micro-Immunofluorescence, plus the Legionella Phenotype",
+      "page": 287,
+      "fmt": "recall",
+      "q": "Which four features define chlamydia as printed on page 287?",
+      "opts": [
+        "Obligate intracellular bacterium, thick peptidoglycan, human to human transmission and an elementary body that is metabolically inactive",
+        "Obligate intracellular bacterium, absence of peptidoglycan, zoonotic transmission and a reticulate body that is the infective form",
+        "Obligate intracellular bacterium, absence of peptidoglycan, human to human transmission and an elementary body that is extracellular, metabolically inactive and infective",
+        "Facultative intracellular bacterium, presence of peptidoglycan, human to human transmission and an elementary body that is metabolically active"
+      ],
+      "ans": 2,
+      "exp": "The bullets read 'Obligate intracellular bacteria', 'Absence of peptidoglycan', 'Human to human transmission' and 'elementary body: Extracellular, metabolically inactive, infective form'. (Book p287)"
+    },
+    {
+      "id": "MED-C48-13",
+      "sec": "Chlamydia as an Obligate Intracellular Peptidoglycan-Free Bacterium with Its Elementary Body, Walking Pneumonia, HEp-2 Isolation and Micro-Immunofluorescence, plus the Legionella Phenotype",
+      "page": 287,
+      "fmt": "fillup",
+      "q": "The chlamydial elementary body is extracellular, metabolically inactive and ______.",
+      "opts": [
+        "infective",
+        "non-infective",
+        "replicating",
+        "adherent"
+      ],
+      "ans": 0,
+      "exp": "The elementary body bullet reads 'Extracellular, metabolically inactive, infective form', the dormant but transmissible stage. (Book p287)"
+    },
+    {
+      "id": "MED-C48-14",
+      "sec": "Chlamydia as an Obligate Intracellular Peptidoglycan-Free Bacterium with Its Elementary Body, Walking Pneumonia, HEp-2 Isolation and Micro-Immunofluorescence, plus the Legionella Phenotype",
+      "page": 287,
+      "fmt": "recall",
+      "q": "Which clinical features of chlamydia are printed on page 287?",
+      "opts": [
+        "A prolonged asymptomatic condition of the upper respiratory tract, atypical pneumonia in 10% and lobar pneumonia with copious sputum",
+        "A prolonged asymptomatic condition of the upper respiratory tract, atypical pneumonia in 10% and walking pneumonia indistinguishable from mycoplasma, with low grade fever, minimal sputum and dry cough",
+        "A prolonged symptomatic condition of the upper respiratory tract, atypical pneumonia in 10% and walking pneumonia indistinguishable from legionella",
+        "A short symptomatic condition of the lower respiratory tract, atypical pneumonia in 50% and lobar pneumonia distinguishable from mycoplasma"
+      ],
+      "ans": 1,
+      "exp": "The block reads 'Prolonged asymptomatic condition of upper respiratory tract', 'Atypical pneumonia (10%)', 'Walking pneumonia (cannot differentiate from mycoplasma)' and the nonspecific trio of low grade fever, minimal sputum and dry cough. (Book p287)"
+    },
+    {
+      "id": "MED-C48-15",
+      "sec": "Chlamydia as an Obligate Intracellular Peptidoglycan-Free Bacterium with Its Elementary Body, Walking Pneumonia, HEp-2 Isolation and Micro-Immunofluorescence, plus the Legionella Phenotype",
+      "page": 287,
+      "fmt": "recall",
+      "q": "Which investigation is the gold standard for chlamydia, and which finding is expressly denied?",
+      "opts": [
+        "Culture on PPLO agar is the gold standard, and there is no lobar consolidation",
+        "Isolation by HEp-2 cells is the gold standard, and there is lobar consolidation",
+        "Micro immunofluorescence serology is the gold standard, and there is no lobar consolidation",
+        "Micro immunofluorescence serology is the gold standard, and there is lobar consolidation"
+      ],
+      "ans": 2,
+      "exp": "The investigation list reads isolation by HEp-2 cells, 'Serology: micro immuno fluorescence (Gold standard)' and 'No lobar consolidation'. (Book p287)"
+    },
+    {
+      "id": "MED-C48-16",
+      "sec": "Chlamydia as an Obligate Intracellular Peptidoglycan-Free Bacterium with Its Elementary Body, Walking Pneumonia, HEp-2 Isolation and Micro-Immunofluorescence, plus the Legionella Phenotype",
+      "page": 287,
+      "fmt": "recall",
+      "q": "Which drug is chlamydia expressly resistant to, and which two drugs are printed for it?",
+      "opts": [
+        "It is resistant to penicillin, and azithromycin and doxycycline are used",
+        "It is resistant to sulfonamide, and azithromycin and doxycycline are used",
+        "It is resistant to azithromycin, and sulfonamide and doxycycline are used",
+        "It is resistant to doxycycline, and azithromycin and sulfonamide are used"
+      ],
+      "ans": 1,
+      "exp": "The treatment block reads 'Resistant to sulfonamide' and 'Azithromycin, doxycycline', in deliberate contrast with mycoplasma's azithromycin, doxycycline and quinolones. (Book p287)"
+    },
+    {
+      "id": "MED-C48-17",
+      "sec": "Chlamydia as an Obligate Intracellular Peptidoglycan-Free Bacterium with Its Elementary Body, Walking Pneumonia, HEp-2 Isolation and Micro-Immunofluorescence, plus the Legionella Phenotype",
+      "page": 287,
+      "fmt": "match",
+      "q": "Match each Legionella feature to its printed description — 1) Gram status 2) Oxygen requirement 3) Motility 4) Staining … A) Strict aerobes B) Gram negative, predominantly intracellular C) Partially acid fast D) Motile",
+      "opts": [
+        "1-B, 2-A, 3-D, 4-C",
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-D, 4-C",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 0,
+      "exp": "The Legionella bullets read gram negative and predominantly intracellular, strict aerobes, motile and partially acid fast, before the aquatic reservoir and biofilm lines. (Book p287)"
+    },
+    {
+      "id": "MED-C48-18",
+      "sec": "Chlamydia as an Obligate Intracellular Peptidoglycan-Free Bacterium with Its Elementary Body, Walking Pneumonia, HEp-2 Isolation and Micro-Immunofluorescence, plus the Legionella Phenotype",
+      "page": 287,
+      "fmt": "fillup",
+      "q": "The most pathogenic Legionella serovar is type ______.",
+      "opts": [
+        "6",
+        "2",
+        "4",
+        "1"
+      ],
+      "ans": 3,
+      "exp": "The virulence bullet reads 'Type 1 serovar: most pathogenic', with 'Type 4 secretion system' given as the pathogenic factor. (Book p287)"
+    },
+    {
+      "id": "MED-C48-19",
+      "sec": "Chlamydia as an Obligate Intracellular Peptidoglycan-Free Bacterium with Its Elementary Body, Walking Pneumonia, HEp-2 Isolation and Micro-Immunofluorescence, plus the Legionella Phenotype",
+      "page": 287,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about chlamydia on page 287.",
+      "opts": [
+        "False — it is an extracellular organism transmitted from animals",
+        "True — it lacks peptidoglycan and is resistant to sulfonamide",
+        "True — it has a thick peptidoglycan wall and is resistant to sulfonamide",
+        "False — it lacks peptidoglycan and is highly sensitive to sulfonamide"
+      ],
+      "ans": 1,
+      "exp": "The chlamydia bullets read 'Absence of peptidoglycan' and, under treatment, 'Resistant to sulfonamide' with azithromycin or doxycycline used instead. (Book p287)"
+    },
+    {
+      "id": "MED-C48-20",
+      "sec": "Legionella Microaspiration, BCYE Medium, the Sterile Gram Stain, Its Four Risk Factors, Typical against Atypical Disease, Pontiac against Legionnaires and DFAT Diagnosis",
+      "page": 288,
+      "fmt": "recall",
+      "q": "Which route of Legionella transmission is printed first, and which comes second?",
+      "opts": [
+        "Direct inoculation first, then microaspiration",
+        "Aerosolization first, then microaspiration",
+        "Microaspiration first, then aerosolization",
+        "Faecal–oral first, then aerosolization"
+      ],
+      "ans": 2,
+      "exp": "The line reads 'Mode of transmission: microaspiration > Aerosolization', the greater-than sign ranking the two routes. (Book p288)"
+    },
+    {
+      "id": "MED-C48-21",
+      "sec": "Legionella Microaspiration, BCYE Medium, the Sterile Gram Stain, Its Four Risk Factors, Typical against Atypical Disease, Pontiac against Legionnaires and DFAT Diagnosis",
+      "page": 288,
+      "fmt": "recall",
+      "q": "Which medium is specific for Legionella, and what does the abbreviation stand for?",
+      "opts": [
+        "BCYE medium, buffered charcoal yeast extract medium",
+        "BCYE medium, buffered cysteine yeast extract medium",
+        "BCYE medium, blood charcoal yeast extract medium",
+        "PPLO agar, pleuropneumonia-like organism agar"
+      ],
+      "ans": 0,
+      "exp": "The culture line reads 'BCYE medium: Buffered charcoal yeast extract medium: Specific medium', the letters BCYE being the tested part. (Book p288)"
+    },
+    {
+      "id": "MED-C48-22",
+      "sec": "Legionella Microaspiration, BCYE Medium, the Sterile Gram Stain, Its Four Risk Factors, Typical against Atypical Disease, Pontiac against Legionnaires and DFAT Diagnosis",
+      "page": 288,
+      "fmt": "recall",
+      "q": "What does Gram staining of respiratory secretions show in Legionella infection?",
+      "opts": [
+        "Gram-positive diplococci in chains with a background of pus cells",
+        "Pus cells and neutrophils are present with abundant gram-negative bacilli",
+        "No pus cells are seen but the organisms stain readily",
+        "Pus cells and neutrophils are present but no organisms are seen"
+      ],
+      "ans": 3,
+      "exp": "The Gram staining findings read 'Pus cells, neutrophils +' and 'No organisms seen', the notorious sterile-looking Gram stain of legionellosis. (Book p288)"
+    },
+    {
+      "id": "MED-C48-23",
+      "sec": "Legionella Microaspiration, BCYE Medium, the Sterile Gram Stain, Its Four Risk Factors, Typical against Atypical Disease, Pontiac against Legionnaires and DFAT Diagnosis",
+      "page": 288,
+      "fmt": "recall",
+      "q": "Which four risk factors are printed for Legionella?",
+      "opts": [
+        "Poor CMI, alcohol use, immunosuppression and hairy cell leukemia",
+        "Poor CMI, cigarette smoking, immunosuppression and hairy cell leukemia",
+        "Diabetes, cigarette smoking, immunosuppression and hairy cell leukemia",
+        "Poor CMI, cigarette smoking, immunosuppression and chronic kidney disease"
+      ],
+      "ans": 1,
+      "exp": "The risk list reads 'Poor CMI', 'Cigarette smoking', 'Immunosuppression' and 'Hairy cell leukemia'. (Book p288)"
+    },
+    {
+      "id": "MED-C48-24",
+      "sec": "Legionella Microaspiration, BCYE Medium, the Sterile Gram Stain, Its Four Risk Factors, Typical against Atypical Disease, Pontiac against Legionnaires and DFAT Diagnosis",
+      "page": 288,
+      "fmt": "match",
+      "q": "Match the typical and atypical Legionella pictures as printed — 1) Typical 2) Atypical … A) Non-productive cough, diarrhea, hyponatremia, elevated LFT, thrombocytopenia and hematuria B) Rapidly progressive, high grade fever, bilateral dense consolidation and leucocytosis",
+      "opts": [
+        "1-B, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-A, 2-B"
+      ],
+      "ans": 1,
+      "exp": "The typical arm is rapidly progressive with high grade fever, bilateral dense consolidation and leucocytosis; the atypical arm carries non-productive cough, GI symptoms, hyponatremia, elevated LFT, thrombocytopenia and hematuria. (Book p288)"
+    },
+    {
+      "id": "MED-C48-25",
+      "sec": "Legionella Microaspiration, BCYE Medium, the Sterile Gram Stain, Its Four Risk Factors, Typical against Atypical Disease, Pontiac against Legionnaires and DFAT Diagnosis",
+      "page": 288,
+      "fmt": "match",
+      "q": "Match each Legionella syndrome to its severity — 1) Mild 2) Severe … A) Legionnaires disease B) Pontiac fever",
+      "opts": [
+        "1-B, 2-B",
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A"
+      ],
+      "ans": 2,
+      "exp": "The severity branch reads mild → Pontiac fever and severe → Legionnaires disease, in that order. (Book p288)"
+    },
+    {
+      "id": "MED-C48-26",
+      "sec": "Legionella Microaspiration, BCYE Medium, the Sterile Gram Stain, Its Four Risk Factors, Typical against Atypical Disease, Pontiac against Legionnaires and DFAT Diagnosis",
+      "page": 288,
+      "fmt": "recall",
+      "q": "Which three diagnostic statements are printed for Legionella on page 288?",
+      "opts": [
+        "DFAT and urinary antigen testing both have high specificity, and sputum testing is the test of choice",
+        "DFAT has low specificity, urinary antigen has high specificity, and sputum testing is the test of choice",
+        "DFAT and urinary antigen testing both have low specificity, while sputum and aspiration testing are not done",
+        "DFAT and urinary antigen testing both have high specificity, while sputum and aspiration testing are not done"
+      ],
+      "ans": 3,
+      "exp": "The diagnosis block reads 'DFAT: Direct fluorescence antibody test, High specificity', 'urinary antigen testing: High specificity' and 'Sputum/aspiration testing: Not done'. (Book p288)"
+    },
+    {
+      "id": "MED-C48-27",
+      "sec": "Legionella Microaspiration, BCYE Medium, the Sterile Gram Stain, Its Four Risk Factors, Typical against Atypical Disease, Pontiac against Legionnaires and DFAT Diagnosis",
+      "page": 288,
+      "fmt": "fillup",
+      "q": "The treatment printed for Legionella is azithromycin, the drug of choice, combined with ______.",
+      "opts": [
+        "rifampicin",
+        "ceftriaxone",
+        "clindamycin",
+        "cotrimoxazole"
+      ],
+      "ans": 0,
+      "exp": "The treatment line reads 'Azithromycin (DOC) + Rifampicin', with quinolones as the alternative below it. (Book p288)"
+    },
+    {
+      "id": "MED-C48-28",
+      "sec": "Legionella Microaspiration, BCYE Medium, the Sterile Gram Stain, Its Four Risk Factors, Typical against Atypical Disease, Pontiac against Legionnaires and DFAT Diagnosis",
+      "page": 288,
+      "fmt": "scenario",
+      "q": "A returning cruise passenger has high fever, diarrhea and hyponatremia with bilateral dense consolidation. Which organism and regimen does page 288 suggest?",
+      "opts": [
+        "Legionella, treated with a sulfonamide",
+        "Mycoplasma, treated with azithromycin plus rifampicin",
+        "Legionella, treated with azithromycin plus rifampicin",
+        "Chlamydia, treated with azithromycin plus rifampicin"
+      ],
+      "ans": 2,
+      "exp": "Cruise travel points to Legionella in the etiology table, the atypical picture prints diarrhea and hyponatremia, and treatment is 'Azithromycin (DOC) + Rifampicin'. (Book p288)"
+    },
+    {
+      "id": "MED-C48-29",
+      "sec": "Legionella Microaspiration, BCYE Medium, the Sterile Gram Stain, Its Four Risk Factors, Typical against Atypical Disease, Pontiac against Legionnaires and DFAT Diagnosis",
+      "page": 288,
+      "fmt": "scenario",
+      "q": "A respiratory sample in a suspected Legionella case shows numerous pus cells and neutrophils but no organisms on Gram stain. How does the page explain this?",
+      "opts": [
+        "The sample must have been taken after antibiotics, which always sterilises the stain",
+        "The finding excludes Legionella and points to mycoplasma",
+        "The finding is diagnostic of Nocardia, which is not seen on Gram stain",
+        "The Gram stain is characteristically negative for organisms even with abundant pus cells"
+      ],
+      "ans": 3,
+      "exp": "The Gram staining findings read 'Pus cells, neutrophils +' and 'No organisms seen', which is why DFAT and urinary antigen are used instead. (Book p288)"
+    },
+    {
+      "id": "MED-C48-30",
+      "sec": "Necrotising Pneumonia and Aspiration as the Two Causes of Lung Abscess, the Five-Step Pathogenesis, the Posterior Right Upper Lobe Site and the Clinical Picture",
+      "page": 289,
+      "fmt": "match",
+      "q": "Match each cause of lung abscess to its printed organisms — 1) Necrotising pneumonia 2) Aspiration pneumonia … A) Anaerobes B) Staphylococcus and Klebsiella",
+      "opts": [
+        "1-B, 2-A",
+        "1-B, 2-B",
+        "1-A, 2-B",
+        "1-A, 2-A"
+      ],
+      "ans": 0,
+      "exp": "Necrotising pneumonia is a complication of pneumonia caused by staphylococcus and klebsiella, while aspiration pneumonia is anaerobic and presents with chronic symptoms. (Book p289)"
+    },
+    {
+      "id": "MED-C48-31",
+      "sec": "Necrotising Pneumonia and Aspiration as the Two Causes of Lung Abscess, the Five-Step Pathogenesis, the Posterior Right Upper Lobe Site and the Clinical Picture",
+      "page": 289,
+      "fmt": "recall",
+      "q": "Which two organisms are printed as causes of necrotising pneumonia?",
+      "opts": [
+        "Staphylococcus and Pseudomonas",
+        "Staphylococcus and Klebsiella",
+        "Pneumococcus and Klebsiella",
+        "Klebsiella and Burkholderia"
+      ],
+      "ans": 1,
+      "exp": "The necrotising pneumonia branch lists 'Staphylococcus' and 'Klebsiella' under organisms involved. (Book p289)"
+    },
+    {
+      "id": "MED-C48-32",
+      "sec": "Necrotising Pneumonia and Aspiration as the Two Causes of Lung Abscess, the Five-Step Pathogenesis, the Posterior Right Upper Lobe Site and the Clinical Picture",
+      "page": 289,
+      "fmt": "recall",
+      "q": "Which aspiration sites are printed, and in which order of frequency?",
+      "opts": [
+        "Anterior segment of the upper lobe, more often than the basal segments of the lower lobe",
+        "Superior segment of the lower lobe, more often than the posterior segment of the upper lobe",
+        "Posterior segment of the upper lobe, more often than the superior segment of the lower lobe",
+        "Posterior segment of the lower lobe, more often than the superior segment of the upper lobe"
+      ],
+      "ans": 2,
+      "exp": "The aspiration branch reads 'Site: Posterior segment of upper lobe > Superior segment of lower lobe', the greater-than sign giving the order. (Book p289)"
+    },
+    {
+      "id": "MED-C48-33",
+      "sec": "Necrotising Pneumonia and Aspiration as the Two Causes of Lung Abscess, the Five-Step Pathogenesis, the Posterior Right Upper Lobe Site and the Clinical Picture",
+      "page": 289,
+      "fmt": "recall",
+      "q": "Which five-step pathogenesis sequence is printed for lung abscess?",
+      "opts": [
+        "Consolidation plus suppuration plus necrosis → fibrosis → drains into bronchus → purulent expectoration → abscess with air fluid level",
+        "Consolidation plus cavitation → rupture of abscess → drains into the pleural space → empyema → abscess with air fluid level",
+        "Suppuration plus necrosis → rupture of abscess → drains into bronchus → hemoptysis → abscess with air fluid level",
+        "Consolidation plus suppuration plus necrosis → rupture of abscess → drains into bronchus → purulent expectoration → abscess with air fluid level"
+      ],
+      "ans": 3,
+      "exp": "The flow reads 'Consolidation + Suppuration + Necrosis → Rupture of abscess → Drains into bronchus → Purulent expectoration → Abscess with air fluid level'. (Book p289)"
+    },
+    {
+      "id": "MED-C48-34",
+      "sec": "Necrotising Pneumonia and Aspiration as the Two Causes of Lung Abscess, the Five-Step Pathogenesis, the Posterior Right Upper Lobe Site and the Clinical Picture",
+      "page": 289,
+      "fmt": "fillup",
+      "q": "The most common site of a lung abscess is the posterior segment of the right ______ lobe.",
+      "opts": [
+        "lingular",
+        "lower",
+        "middle",
+        "upper"
+      ],
+      "ans": 3,
+      "exp": "The site line reads 'Posterior segment of right upper lobe (m/c)', the segmental anatomy explaining why aspiration favours it. (Book p289)"
+    },
+    {
+      "id": "MED-C48-35",
+      "sec": "Necrotising Pneumonia and Aspiration as the Two Causes of Lung Abscess, the Five-Step Pathogenesis, the Posterior Right Upper Lobe Site and the Clinical Picture",
+      "page": 289,
+      "fmt": "recall",
+      "q": "How are the fever and chills of a lung abscess modified by drainage, and what does the patient expectorate?",
+      "opts": [
+        "Toxicity decreases when the abscess drains into the bronchus, and the cough produces purulent sputum",
+        "Toxicity is unaffected by drainage, and the cough produces purulent sputum",
+        "Toxicity decreases when the abscess drains into the pleural space, and the cough produces blood",
+        "Toxicity increases when the abscess drains into the bronchus, and the cough is dry"
+      ],
+      "ans": 0,
+      "exp": "The clinical bullets read 'Fever, chills (Toxicity decreases on drainage into bronchus)' and 'Cough with purulent sputum'. (Book p289)"
+    },
+    {
+      "id": "MED-C48-36",
+      "sec": "Necrotising Pneumonia and Aspiration as the Two Causes of Lung Abscess, the Five-Step Pathogenesis, the Posterior Right Upper Lobe Site and the Clinical Picture",
+      "page": 289,
+      "fmt": "recall",
+      "q": "Which four examination findings are printed for a lung abscess?",
+      "opts": [
+        "Tachypnea, impaired percussion, absent breath sounds and peripheral edema",
+        "Tachypnea, impaired percussion, cavity-related bronchial breathing and clubbing in a chronic abscess",
+        "Bradypnea, impaired percussion, cavity-related bronchial breathing and clubbing in acute abscess",
+        "Tachypnea, hyper-resonant percussion, cavity-related bronchial breathing and clubbing in chronic abscess"
+      ],
+      "ans": 1,
+      "exp": "The O/E list reads 'Tachypnea, impaired percussion', 'Cavity related bronchial breathing' and 'Clubbing: In chronic abscess'. (Book p289)"
+    },
+    {
+      "id": "MED-C48-37",
+      "sec": "Necrotising Pneumonia and Aspiration as the Two Causes of Lung Abscess, the Five-Step Pathogenesis, the Posterior Right Upper Lobe Site and the Clinical Picture",
+      "page": 289,
+      "fmt": "recall",
+      "q": "Which diagnostic sequence is printed under Diagnosis on page 289?",
+      "opts": [
+        "Pneumonia with poor response to treatment over 2–3 weeks, then purulent sputum and toxicity, with a chest X-ray showing consolidation only",
+        "Pneumonia with poor response to treatment over 2–3 days, then dry cough, with CT showing a ground glass opacity",
+        "Pneumonia with poor response to treatment over 2–3 days, then purulent sputum and toxicity, with a chest X-ray or CT showing an air fluid level",
+        "Pneumonia with rapid response to treatment, then hemoptysis, with a chest X-ray showing an air fluid level"
+      ],
+      "ans": 2,
+      "exp": "The clinical line reads 'Pneumonia with poor response to Rx → 2-3 days → Purulent sputum → Toxicity', and the imaging line 'Chest X-ray/CT: Air fluid level'. (Book p289)"
+    },
+    {
+      "id": "MED-C48-38",
+      "sec": "Necrotising Pneumonia and Aspiration as the Two Causes of Lung Abscess, the Five-Step Pathogenesis, the Posterior Right Upper Lobe Site and the Clinical Picture",
+      "page": 289,
+      "fmt": "scenario",
+      "q": "A patient with poor dentition and episodes of reduced consciousness develops a chronic abscess in the posterior segment of the upper lobe. Which cause and organism does the page print?",
+      "opts": [
+        "Necrotising pneumonia with Staphylococcus",
+        "Aspiration pneumonia with anaerobes",
+        "Necrotising pneumonia with anaerobes",
+        "Aspiration pneumonia with Klebsiella"
+      ],
+      "ans": 1,
+      "exp": "Aspiration pneumonia presents with chronic symptoms, anaerobes and a posterior upper lobe site that outranks the superior lower lobe segment; staphylococcus and klebsiella belong to necrotising pneumonia. (Book p289)"
+    },
+    {
+      "id": "MED-C48-39",
+      "sec": "The Chest Film and CT Captions, Metastatic Infection to AA Amyloidosis, the Tuberculosis and Malignancy Differentials and the Vancomycin-Piperacillin-Tazobactam-Clindamycin Regimen",
+      "page": 290,
+      "fmt": "match",
+      "q": "Match each caption in the upper strip of page 290 to its finding — 1) Lung window CT 2) Chest film 3) Second chest film … A) Thick walled cavity B) Ground glass opacity C) Pleural effusion",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 2,
+      "exp": "The three captions read 'Ground glass opacity', 'Pleural effusion' and 'Thick walled cavity' in that left-to-right order. (Book p290)"
+    },
+    {
+      "id": "MED-C48-40",
+      "sec": "The Chest Film and CT Captions, Metastatic Infection to AA Amyloidosis, the Tuberculosis and Malignancy Differentials and the Vancomycin-Piperacillin-Tazobactam-Clindamycin Regimen",
+      "page": 290,
+      "fmt": "recall",
+      "q": "Which four complications of a lung abscess are printed on page 290?",
+      "opts": [
+        "Septicemia, pyopneumothorax, bronchopleural fistula and AA (secondary) amyloidosis",
+        "Metastatic infection, pyopneumothorax, bronchopleural fistula and AA (secondary) amyloidosis",
+        "Metastatic infection, pyopneumothorax, bronchopleural fistula and AL amyloidosis",
+        "Metastatic infection, empyema, bronchopleural fistula and AA (secondary) amyloidosis"
+      ],
+      "ans": 1,
+      "exp": "The list reads metastatic infection, pyopneumothorax, bronchopleural fistula and 'AA amyloidosis (Secondary amyloidosis)'. (Book p290)"
+    },
+    {
+      "id": "MED-C48-41",
+      "sec": "The Chest Film and CT Captions, Metastatic Infection to AA Amyloidosis, the Tuberculosis and Malignancy Differentials and the Vancomycin-Piperacillin-Tazobactam-Clindamycin Regimen",
+      "page": 290,
+      "fmt": "recall",
+      "q": "In which three diseases is AA amyloidosis seen according to the note on page 290?",
+      "opts": [
+        "TB, bronchiectasis and lung abscess",
+        "TB, cystic fibrosis and lung abscess",
+        "Sarcoidosis, bronchiectasis and lung abscess",
+        "TB, bronchiectasis and lymphoma"
+      ],
+      "ans": 0,
+      "exp": "The note reads 'AA amyloidosis seen in: TB, bronchiectasis, lung abscess', a trio of chronic suppurative or granulomatous infections. (Book p290)"
+    },
+    {
+      "id": "MED-C48-42",
+      "sec": "The Chest Film and CT Captions, Metastatic Infection to AA Amyloidosis, the Tuberculosis and Malignancy Differentials and the Vancomycin-Piperacillin-Tazobactam-Clindamycin Regimen",
+      "page": 290,
+      "fmt": "fillup",
+      "q": "The D/d list for a cavitating lung lesion prints TB, malignancy, Nocardia and ______.",
+      "opts": [
+        "Rhodococcus",
+        "Aspergillus",
+        "Actinomyces",
+        "Actinomycetes"
+      ],
+      "ans": 3,
+      "exp": "The four-item column reads 'TB', 'malignancy', 'Nocardia' and 'Actinomycetes' — the last spelled as printed, without a bracketed discriminator. (Book p290)"
+    },
+    {
+      "id": "MED-C48-43",
+      "sec": "The Chest Film and CT Captions, Metastatic Infection to AA Amyloidosis, the Tuberculosis and Malignancy Differentials and the Vancomycin-Piperacillin-Tazobactam-Clindamycin Regimen",
+      "page": 290,
+      "fmt": "recall",
+      "q": "Which regimen and duration are printed for a lung abscess on page 290?",
+      "opts": [
+        "Antibiotics with postural drainage using piperacillin–tazobactam and clindamycin for 10 days",
+        "Antibiotics alone using vancomycin and clindamycin for 6–8 weeks",
+        "Antibiotics with postural drainage using vancomycin, piperacillin–tazobactam and clindamycin for anaerobes, for 6–8 weeks",
+        "Antibiotics with postural drainage using vancomycin, meropenem and clindamycin for 2 weeks"
+      ],
+      "ans": 2,
+      "exp": "The treatment block reads 'Antibiotics with postural drainage: Vancomycin + Piptaz + Clindamycin (Anaerobes)', '6–8 weeks therapy', with response as fever resolution in 7–10 days and surgery only if unresponsive to MDR organisms. (Book p290)"
+    },
+    {
+      "id": "MED-C48-44",
+      "sec": "The Chest Film and CT Captions, Metastatic Infection to AA Amyloidosis, the Tuberculosis and Malignancy Differentials and the Vancomycin-Piperacillin-Tazobactam-Clindamycin Regimen",
+      "page": 290,
+      "fmt": "numeric",
+      "q": "How quickly should fever resolve on treatment, and when is surgery considered?",
+      "opts": [
+        "Fever resolves in 7–10 days, and surgery is for unresponsive disease with MDR organisms",
+        "Fever resolves in 48–72 hours, and surgery is for unresponsive disease with MDR organisms",
+        "Fever resolves in 3 weeks, and surgery is for any residual cavity",
+        "Fever resolves in 7–10 days, and surgery is routine after 2 weeks of antibiotics"
+      ],
+      "ans": 0,
+      "exp": "The response line reads 'Resolution of fever in 7-10 days', and the next bullet reads 'Surgery: If unresponsive (MDR organisms)'. (Book p290)"
+    },
+    {
+      "id": "MED-C48-45",
+      "sec": "The Chest Film and CT Captions, Metastatic Infection to AA Amyloidosis, the Tuberculosis and Malignancy Differentials and the Vancomycin-Piperacillin-Tazobactam-Clindamycin Regimen",
+      "page": 290,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three labels are printed around the CT panel at the foot of page 290, one is not:",
+      "opts": [
+        "CT images with air fluid levels",
+        "Air fluid levels",
+        "Consolidation",
+        "Bronchiectasis"
+      ],
+      "ans": 3,
+      "exp": "The CT strip is captioned 'CT images with air fluid levels', and the right-hand image is labelled both 'Consolidation' and 'Air fluid levels'; bronchiectasis is not labelled anywhere on the page. (Book p290)"
+    },
+    {
+      "id": "MED-C48-46",
+      "sec": "The Chest Film and CT Captions, Metastatic Infection to AA Amyloidosis, the Tuberculosis and Malignancy Differentials and the Vancomycin-Piperacillin-Tazobactam-Clindamycin Regimen",
+      "page": 290,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about AA amyloidosis on page 290.",
+      "opts": [
+        "True — it is seen in TB, bronchiectasis and lung abscess",
+        "True — it is seen in TB, bronchiectasis and lymphoma",
+        "False — it is seen only in multiple myeloma",
+        "False — AA amyloidosis is not a complication of chronic lung infection"
+      ],
+      "ans": 0,
+      "exp": "The note reads 'AA amyloidosis seen in: TB, bronchiectasis, lung abscess', and it is listed as a complication of lung abscess, AL type being the myeloma-associated form. (Book p290)"
+    },
+    {
+      "id": "MED-C48-47",
+      "sec": "The Three Severely Immunocompromised States, the Seven Organisms, and the Renal and Bone Marrow Transplant Infection Timelines with Onset-Based Infection",
+      "page": 291,
+      "fmt": "recall",
+      "q": "Which three states define the severely immunocompromised patient on page 291?",
+      "opts": [
+        "Neutropenia from any cause, post transplant recipients of bone marrow or kidney, and low dose steroid for 3–4 months",
+        "Neutropenia from any cause, post transplant recipients of bone marrow or kidney, and high dose steroid above 30 mg for 3–4 weeks",
+        "Lymphopenia from any cause, post transplant recipients of liver or kidney, and high dose steroid above 30 mg for 3–4 weeks",
+        "Neutropenia from any cause, post transplant recipients of bone marrow or kidney, and high dose steroid above 10 mg for 3–4 weeks"
+      ],
+      "ans": 1,
+      "exp": "The bullets read 'Neutropenia (Any cause)', 'Post transplant recepients (Bone marrow, renal)' and 'High dose steroid (>30 mg for 3–4 weeks)'. (Book p291)"
+    },
+    {
+      "id": "MED-C48-48",
+      "sec": "The Three Severely Immunocompromised States, the Seven Organisms, and the Renal and Bone Marrow Transplant Infection Timelines with Onset-Based Infection",
+      "page": 291,
+      "fmt": "recall",
+      "q": "Which four organisms are bracketed as having predominant lung involvement in the immunocompromised?",
+      "opts": [
+        "Aspergillus, Nocardia, Pneumocystis jirovecii and MDR gram-negative organisms, with toxoplasma, CMV and candida listed separately",
+        "Cryptococcus, Nocardia, Pneumocystis jirovecii and MDR gram-negative organisms, with toxoplasma, CMV and candida listed separately",
+        "Aspergillus, Nocardia, Pneumocystis jirovecii and Candida, with toxoplasma, CMV and MDR gram-negative organisms listed separately",
+        "Aspergillus, Actinomyces, Pneumocystis jirovecii and MDR gram-negative organisms, with toxoplasma, CMV and candida listed separately"
+      ],
+      "ans": 0,
+      "exp": "The organism block reads 'mainly MDR gram negative', then brackets Aspergillus, Nocardia and Pneumocystis jirovecii as 'Predominant lung involvement', with toxoplasma, CMV and candida in the right-hand column. (Book p291)"
+    },
+    {
+      "id": "MED-C48-49",
+      "sec": "The Three Severely Immunocompromised States, the Seven Organisms, and the Renal and Bone Marrow Transplant Infection Timelines with Onset-Based Infection",
+      "page": 291,
+      "fmt": "match",
+      "q": "Match each post-renal-transplant period to its printed infections — 1) <1 month 2) 1–6 months 3) >6 months … A) Drug induced neutropenia with BK polyoma virus, Nocardia and Aspergillus B) Wound, catheter site, drain site infection, UTI and herpes C) CMV, Pneumocystis jirovecii, Legionella, Listeria and hepatitis B and C",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 1,
+      "exp": "The timeline reads <1 month for wound, catheter, drain, UTI and herpes; 1–6 months as the commonest period for CMV, PCP, Legionella, Listeria and hepatitis B/C; >6 months for drug-induced neutropenia with BK polyoma, Nocardia and Aspergillus. (Book p291)"
+    },
+    {
+      "id": "MED-C48-50",
+      "sec": "The Three Severely Immunocompromised States, the Seven Organisms, and the Renal and Bone Marrow Transplant Infection Timelines with Onset-Based Infection",
+      "page": 291,
+      "fmt": "fillup",
+      "q": "The commonest post-renal-transplant infection window is ______ months.",
+      "opts": [
+        "0–1",
+        "6–12",
+        "1–6",
+        "12–24"
+      ],
+      "ans": 2,
+      "exp": "The middle branch is labelled '1-6 months (m/c)', carrying CMV, Pneumocystis, Legionella, Listeria and hepatitis B and C. (Book p291)"
+    },
+    {
+      "id": "MED-C48-51",
+      "sec": "The Three Severely Immunocompromised States, the Seven Organisms, and the Renal and Bone Marrow Transplant Infection Timelines with Onset-Based Infection",
+      "page": 291,
+      "fmt": "recall",
+      "q": "Which drugs are printed as causing neutropenia beyond 6 months after renal transplant, and which infections follow?",
+      "opts": [
+        "Azathioprine and calcineurin inhibitors, followed by BK polyoma virus, Nocardia and Aspergillus",
+        "Mycophenolate mofetil and corticosteroids, followed by BK polyoma virus, Listeria and Aspergillus",
+        "Mycophenolate mofetil and calcineurin inhibitors, followed by CMV, PCP and Legionella",
+        "Mycophenolate mofetil and calcineurin inhibitors, followed by BK polyoma virus, Nocardia and Aspergillus"
+      ],
+      "ans": 3,
+      "exp": "The >6 month branch reads 'Drug induced neutropenia (mycophenolate mofetil, calcineurin inhibitors) → ↓CMI → Infection by BK polyoma virus, Nocardia, Aspergillus'. (Book p291)"
+    },
+    {
+      "id": "MED-C48-52",
+      "sec": "The Three Severely Immunocompromised States, the Seven Organisms, and the Renal and Bone Marrow Transplant Infection Timelines with Onset-Based Infection",
+      "page": 291,
+      "fmt": "match",
+      "q": "Match each post-bone-marrow-transplant period to its printed pathogens — 1) <1 month (neutropenia positive) 2) 1–4 months … A) CMV, Pneumocystis jirovecii and Aspergillus B) Gram negative bacteria and Aspergillus",
+      "opts": [
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-B, 2-B",
+        "1-A, 2-A"
+      ],
+      "ans": 1,
+      "exp": "The bone marrow timeline reads <1 month for gram negative bacteria and Aspergillus, then 1–4 months for CMV, PCP and Aspergillus. (Book p291)"
+    },
+    {
+      "id": "MED-C48-53",
+      "sec": "The Three Severely Immunocompromised States, the Seven Organisms, and the Renal and Bone Marrow Transplant Infection Timelines with Onset-Based Infection",
+      "page": 291,
+      "fmt": "recall",
+      "q": "Which organism is matched to each clinical clue printed at the foot of page 291?",
+      "opts": [
+        "CMV to ocular involvement and organomegaly, Nocardia to neurological involvement and nodules, and Pseudomonas to ecthyma gangrenosum",
+        "HSV to ocular involvement and organomegaly, Nocardia to neurological involvement and nodules, and Pseudomonas to ecthyma gangrenosum",
+        "CMV to neurological involvement and nodules, Nocardia to ocular involvement and organomegaly, and Pseudomonas to ecthyma gangrenosum",
+        "CMV to ocular involvement and organomegaly, Nocardia to ecthyma gangrenosum, and Pseudomonas to neurological involvement"
+      ],
+      "ans": 0,
+      "exp": "The three lines read 'CMV: Ocular involvement, organomegaly', 'Nocardia: Neurological involvement, nodules' and 'Pseudomonas: Ecthyma gangrenosum', the last captioned in the photograph. (Book p291)"
+    },
+    {
+      "id": "MED-C48-54",
+      "sec": "The Three Severely Immunocompromised States, the Seven Organisms, and the Renal and Bone Marrow Transplant Infection Timelines with Onset-Based Infection",
+      "page": 291,
+      "fmt": "match",
+      "q": "Match each onset pattern to its printed organisms — 1) Acute onset at 24–48 hours 2) Subacute onset … A) Virus, TB and fungi B) Bacteria, gram negative",
+      "opts": [
+        "1-A, 2-A",
+        "1-B, 2-B",
+        "1-A, 2-B",
+        "1-B, 2-A"
+      ],
+      "ans": 3,
+      "exp": "The onset block reads 'Acute onset (24-48 hours): Bacteria (Gram negative)' against 'Subacute onset: Virus, TB, fungi'. (Book p291)"
+    },
+    {
+      "id": "MED-C48-55",
+      "sec": "The Three Severely Immunocompromised States, the Seven Organisms, and the Renal and Bone Marrow Transplant Infection Timelines with Onset-Based Infection",
+      "page": 291,
+      "fmt": "scenario",
+      "q": "A renal transplant recipient develops pneumonia four months after surgery. Which organisms does the printed timeline expect?",
+      "opts": [
+        "Wound, catheter site and drain site infection with herpes",
+        "Gram negative bacteria and Aspergillus only",
+        "CMV, Pneumocystis jirovecii, Legionella, Listeria and hepatitis B and C",
+        "BK polyoma virus, Nocardia and Aspergillus"
+      ],
+      "ans": 2,
+      "exp": "The 1–6 month branch is the commonest and lists CMV, Pneumocystis jirovecii, Legionella, Listeria and hepatitis B and C; the wound and herpes group belongs to the first month. (Book p291)"
+    },
+    {
+      "id": "MED-C48-56",
+      "sec": "The Three Severely Immunocompromised States, the Seven Organisms, and the Renal and Bone Marrow Transplant Infection Timelines with Onset-Based Infection",
+      "page": 291,
+      "fmt": "scenario",
+      "q": "Eight months after renal transplant a patient on mycophenolate has neutropenia and a new pulmonary infiltrate. Which organisms does the >6 month branch list?",
+      "opts": [
+        "Gram negative bacteria and Aspergillus only",
+        "BK polyoma virus, Nocardia and Aspergillus",
+        "Wound infection, UTI and herpes",
+        "CMV, Pneumocystis jirovecii and Legionella"
+      ],
+      "ans": 1,
+      "exp": "The >6 month branch runs drug-induced neutropenia from mycophenolate mofetil or calcineurin inhibitors → ↓CMI → BK polyoma virus, Nocardia and Aspergillus. (Book p291)"
+    },
+    {
+      "id": "MED-C48-57",
+      "sec": "Invasive Aspergillosis from Conidia to Hyphae, Neutropenia as the Chief Risk, the Halo and Air Crescent Signs, the Reverse Halo and Monad Notes and the Fever-Hemoptysis-Pleuritic Triad",
+      "page": 292,
+      "fmt": "recall",
+      "q": "Which three-step etiopathogenesis is printed for invasive aspergillosis?",
+      "opts": [
+        "Conidia or conidiospores aerosolised from the yeast form → reach tissues → form invasive filaments (hyphae)",
+        "Conidia inhaled into the alveoli → germinate in macrophages → form a fungal ball",
+        "Conidia or conidiospores aerosolised from the mold form → reach tissues → form invasive filaments (hyphae)",
+        "Hyphae aerosolised from the mold form → reach tissues → form conidia"
+      ],
+      "ans": 2,
+      "exp": "The ladder reads 'Pathogen: Conidia/conidiospores (Aerosolised from the mold form)' → 'Reaches tissues' → 'Forms invasive filaments (Hyphae)', with neutropenia flagged as the most important risk factor. (Book p292)"
+    },
+    {
+      "id": "MED-C48-58",
+      "sec": "Invasive Aspergillosis from Conidia to Hyphae, Neutropenia as the Chief Risk, the Halo and Air Crescent Signs, the Reverse Halo and Monad Notes and the Fever-Hemoptysis-Pleuritic Triad",
+      "page": 292,
+      "fmt": "fillup",
+      "q": "The most important risk factor for invasive aspergillosis printed on page 292 is ______.",
+      "opts": [
+        "steroid use",
+        "diabetes",
+        "smoking",
+        "neutropenia"
+      ],
+      "ans": 3,
+      "exp": "The risk factor box reads 'Neutropenia (most important)', which is why the disease is drawn in the neutropenic host. (Book p292)"
+    },
+    {
+      "id": "MED-C48-59",
+      "sec": "Invasive Aspergillosis from Conidia to Hyphae, Neutropenia as the Chief Risk, the Halo and Air Crescent Signs, the Reverse Halo and Monad Notes and the Fever-Hemoptysis-Pleuritic Triad",
+      "page": 292,
+      "fmt": "recall",
+      "q": "How is the CT halo sign described, and what does it suggest?",
+      "opts": [
+        "A crescent of air within consolidation, indicating recovery",
+        "Consolidation surrounded by ground glass opacification, suggestive of invasive aspergillosis",
+        "A cavity with an air fluid level, indicating abscess",
+        "Ground glass opacification surrounded by consolidation, seen in cryptogenic organizing pneumonia"
+      ],
+      "ans": 1,
+      "exp": "The halo sign bullet reads 'Consolidation surrounded by ground glass opacification (GGO)' and 'Suggestive of invasive aspergillosis'. (Book p292)"
+    },
+    {
+      "id": "MED-C48-60",
+      "sec": "Invasive Aspergillosis from Conidia to Hyphae, Neutropenia as the Chief Risk, the Halo and Air Crescent Signs, the Reverse Halo and Monad Notes and the Fever-Hemoptysis-Pleuritic Triad",
+      "page": 292,
+      "fmt": "recall",
+      "q": "What does the air crescent sign indicate, and what is its printed appearance?",
+      "opts": [
+        "It indicates recovery, appearing as a halo around consolidation",
+        "It indicates fungal ball formation, appearing as a crescent in a bulla",
+        "It indicates recovery, appearing as a crescent in consolidation",
+        "It indicates active invasion, appearing as a crescent in a cavity"
+      ],
+      "ans": 2,
+      "exp": "The air crescent sign bullets read 'Indicates recovery' and 'Crescent in consolidation', and the adjacent CT is captioned 'Air crescent sign'. (Book p292)"
+    },
+    {
+      "id": "MED-C48-61",
+      "sec": "Invasive Aspergillosis from Conidia to Hyphae, Neutropenia as the Chief Risk, the Halo and Air Crescent Signs, the Reverse Halo and Monad Notes and the Fever-Hemoptysis-Pleuritic Triad",
+      "page": 292,
+      "fmt": "recall",
+      "q": "How is the reverse halo sign defined, and in which disease is it seen?",
+      "opts": [
+        "Ground glass opacification surrounded by consolidation, seen in cryptogenic organizing pneumonia",
+        "Ground glass opacification surrounded by consolidation, seen in invasive aspergillosis",
+        "A crescent of air inside consolidation, seen in aspergilloma",
+        "Consolidation surrounded by ground glass opacification, seen in cryptogenic organizing pneumonia"
+      ],
+      "ans": 0,
+      "exp": "The note reads 'Reverse halo sign: GGO surrounded by consolidation. Seen in cryptogenic organizing pneumonia', the exact inversion of the aspergillus halo. (Book p292)"
+    },
+    {
+      "id": "MED-C48-62",
+      "sec": "Invasive Aspergillosis from Conidia to Hyphae, Neutropenia as the Chief Risk, the Halo and Air Crescent Signs, the Reverse Halo and Monad Notes and the Fever-Hemoptysis-Pleuritic Triad",
+      "page": 292,
+      "fmt": "recall",
+      "q": "What does the printed monad sign describe?",
+      "opts": [
+        "An air crescent around a fungal ball which is fixed in position, seen in invasive aspergillosis",
+        "A crescent of air within consolidation which indicates recovery, seen in neutropenic hosts",
+        "Ground glass surrounding consolidation which changes with position, seen in organizing pneumonia",
+        "An air crescent around a fungal ball which moves with change in position, seen in aspergilloma in an old case of TB"
+      ],
+      "ans": 3,
+      "exp": "The note reads 'monad sign in xray: Air crescent seen around fungal ball. moves with change in position. Seen in aspergilloma in old case of TB', the movement distinguishing it from a fixed crescent. (Book p292)"
+    },
+    {
+      "id": "MED-C48-63",
+      "sec": "Invasive Aspergillosis from Conidia to Hyphae, Neutropenia as the Chief Risk, the Halo and Air Crescent Signs, the Reverse Halo and Monad Notes and the Fever-Hemoptysis-Pleuritic Triad",
+      "page": 292,
+      "fmt": "match",
+      "q": "Match each clinical manifestation of invasive aspergillosis to its printed description — 1) Classical presentation 2) CNS infection 3) Angioinvasion … A) 100% mortality B) Hemorrhagic infarction C) Fever, hemoptysis and pleuritic pain",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 2,
+      "exp": "The classical triad is fever, hemoptysis and pleuritic pain; CNS infection is printed with 100% mortality; and angioinvasion leads to hemorrhagic infarction, with sinus infection listed alongside. (Book p292)"
+    },
+    {
+      "id": "MED-C48-64",
+      "sec": "Invasive Aspergillosis from Conidia to Hyphae, Neutropenia as the Chief Risk, the Halo and Air Crescent Signs, the Reverse Halo and Monad Notes and the Fever-Hemoptysis-Pleuritic Triad",
+      "page": 292,
+      "fmt": "scenario",
+      "q": "A neutropenic patient with leukaemia has fever and hemoptysis, and CT shows consolidation ringed by ground glass. Which sign, diagnosis and drug of choice does the page give?",
+      "opts": [
+        "The halo sign, invasive aspergillosis, treated with voriconazole",
+        "The air crescent sign, invasive aspergillosis, treated with voriconazole",
+        "The reverse halo sign, cryptogenic organizing pneumonia, treated with steroids",
+        "The monad sign, aspergilloma, treated with surgery"
+      ],
+      "ans": 0,
+      "exp": "The halo sign is consolidation surrounded by ground glass and is suggestive of invasive aspergillosis, for which voriconazole is DOC; the air crescent instead indicates recovery. (Book p292)"
+    },
+    {
+      "id": "MED-C48-65",
+      "sec": "Invasive Aspergillosis from Conidia to Hyphae, Neutropenia as the Chief Risk, the Halo and Air Crescent Signs, the Reverse Halo and Monad Notes and the Fever-Hemoptysis-Pleuritic Triad",
+      "page": 292,
+      "fmt": "scenario",
+      "q": "Three weeks into treatment for invasive aspergillosis a repeat CT shows a crescent of air inside the consolidating lesion. How does the page read this?",
+      "opts": [
+        "A reverse halo sign, which indicates organizing pneumonia",
+        "An air crescent sign, which indicates progressive invasion",
+        "An air crescent sign, which indicates recovery",
+        "A monad sign, which indicates a fungal ball"
+      ],
+      "ans": 2,
+      "exp": "The air crescent sign bullets read 'Indicates recovery' and 'Crescent in consolidation', in contrast with the reverse halo and the monad sign of an aspergilloma. (Book p292)"
+    },
+    {
+      "id": "MED-C48-66",
+      "sec": "Aspergillus Diagnosis by BAL, VATS and Galactomannan, Beta-D-Glucan Cross-Reactivity, Voriconazole against Liposomal Amphotericin, the Mucormycosis Contrast and the Opening of Pneumocystis",
+      "page": 293,
+      "fmt": "recall",
+      "q": "Which four diagnostic modalities are printed for invasive aspergillosis?",
+      "opts": [
+        "BAL showing dichotomous branching septate hyphae, VATS biopsy from a nodule, the galactomannan test and the β-D-glucan test",
+        "BAL showing dichotomous branching septate hyphae, VATS biopsy, the galactomannan test and the urinary antigen test",
+        "BAL showing dichotomous branching septate hyphae, sputum culture, the galactomannan test and the tuberculin test",
+        "BAL showing aseptate right-angle branching hyphae, VATS biopsy, the galactomannan test and the β-D-glucan test"
+      ],
+      "ans": 0,
+      "exp": "The diagnosis block reads 'BAL: Dichotomous branching septate hyphae', 'Video assisted thoracoscopic surgery (VATS): biopsy from nodule', 'Galactomannan test: Specific for invasive aspergillosis' and the β-D-glucan test. (Book p293)"
+    },
+    {
+      "id": "MED-C48-67",
+      "sec": "Aspergillus Diagnosis by BAL, VATS and Galactomannan, Beta-D-Glucan Cross-Reactivity, Voriconazole against Liposomal Amphotericin, the Mucormycosis Contrast and the Opening of Pneumocystis",
+      "page": 293,
+      "fmt": "recall",
+      "q": "Which organisms give a positive β-D-glucan test according to the printed list?",
+      "opts": [
+        "Mucor, aspergillosis, pneumocystis, blastomyces and coccidioides",
+        "Mucor, cryptococcus, candida, aspergillosis and pneumocystis",
+        "Mucor, cryptococcus, candida, aspergillosis and nocardia",
+        "Aspergillus, candida, pneumocystis, histoplasma and cryptococcus"
+      ],
+      "ans": 1,
+      "exp": "The line reads 'β-D-glucan test: Positive for mucor, cryptococcus, candida, aspergillosis, pneumocystis', which is why the test is useful but not specific. (Book p293)"
+    },
+    {
+      "id": "MED-C48-68",
+      "sec": "Aspergillus Diagnosis by BAL, VATS and Galactomannan, Beta-D-Glucan Cross-Reactivity, Voriconazole against Liposomal Amphotericin, the Mucormycosis Contrast and the Opening of Pneumocystis",
+      "page": 293,
+      "fmt": "match",
+      "q": "Match each antifungal to its printed role in aspergillosis — 1) Voriconazole 2) Liposomal amphotericin B … A) The alternative agent B) The drug of choice",
+      "opts": [
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 2,
+      "exp": "The treatment list reads 'voriconazole (DOC)' and 'Liposomal amphotericin B', making amphotericin the second agent for aspergillosis. (Book p293)"
+    },
+    {
+      "id": "MED-C48-69",
+      "sec": "Aspergillus Diagnosis by BAL, VATS and Galactomannan, Beta-D-Glucan Cross-Reactivity, Voriconazole against Liposomal Amphotericin, the Mucormycosis Contrast and the Opening of Pneumocystis",
+      "page": 293,
+      "fmt": "recall",
+      "q": "Which five findings distinguish mucormycosis from aspergillosis on page 293?",
+      "opts": [
+        "Aseptate hyphae, right angle branching, a negative galactomannan test, no response to voriconazole, and treatment with liposomal amphotericin B plus posaconazole and surgical debridement",
+        "Aseptate hyphae, acute angle branching, a positive galactomannan test, no response to voriconazole, and treatment with voriconazole plus debridement",
+        "Aseptate hyphae, right angle branching, a negative galactomannan test, response to voriconazole, and treatment with itraconazole alone",
+        "Septate hyphae, right angle branching, a negative galactomannan test, no response to voriconazole, and treatment with liposomal amphotericin B plus posaconazole and surgical debridement"
+      ],
+      "ans": 0,
+      "exp": "The mucormycosis note reads aseptate hyphae, right angle branching, negative galactomannan, no response to voriconazole and 'Rx: Liposomal amphotericin B with posaconazole + surgical debridement of infected tissue'. (Book p293)"
+    },
+    {
+      "id": "MED-C48-70",
+      "sec": "Aspergillus Diagnosis by BAL, VATS and Galactomannan, Beta-D-Glucan Cross-Reactivity, Voriconazole against Liposomal Amphotericin, the Mucormycosis Contrast and the Opening of Pneumocystis",
+      "page": 293,
+      "fmt": "fillup",
+      "q": "The hyphae of mucormycosis are ______, in contrast with the septate hyphae of aspergillus.",
+      "opts": [
+        "septate",
+        "pigmented",
+        "branched",
+        "aseptate"
+      ],
+      "ans": 3,
+      "exp": "The mucormycosis list opens 'Aseptate hyphae' with a caption 'Aseptate hyphae', directly contrasting the septate hyphae of aspergillus on the BAL line above. (Book p293)"
+    },
+    {
+      "id": "MED-C48-71",
+      "sec": "Aspergillus Diagnosis by BAL, VATS and Galactomannan, Beta-D-Glucan Cross-Reactivity, Voriconazole against Liposomal Amphotericin, the Mucormycosis Contrast and the Opening of Pneumocystis",
+      "page": 293,
+      "fmt": "recall",
+      "q": "Which fungal infection opens the Pneumocystis section, and in which two host groups does it arise?",
+      "opts": [
+        "A bacterial infection seen in HIV when CD4 is <200/μL and in the immunocompromised",
+        "A fungal infection seen in HIV when CD4 is <200/μL and in the immunocompromised",
+        "A fungal infection seen in HIV when CD4 is <200/μL and in the immunocompetent",
+        "A fungal infection seen in HIV when CD4 is <500/μL and in the immunocompromised"
+      ],
+      "ans": 1,
+      "exp": "The lines read 'Fungal infection' and 'Seen in HIV (CD4: <200/μL), immunocompromised', the CD4 threshold being the tested number. (Book p293)"
+    },
+    {
+      "id": "MED-C48-72",
+      "sec": "Aspergillus Diagnosis by BAL, VATS and Galactomannan, Beta-D-Glucan Cross-Reactivity, Voriconazole against Liposomal Amphotericin, the Mucormycosis Contrast and the Opening of Pneumocystis",
+      "page": 293,
+      "fmt": "recall",
+      "q": "Which sequence describes the clinical features of Pneumocystis jirovecii infection?",
+      "opts": [
+        "Dyspnea and hypoxia, then fever and cough after 2–3 days",
+        "Fever and cough, then dyspnea and hypoxia after 2–3 days",
+        "Dyspnea and hypoxia, then hemoptysis and chest pain after 2–3 days",
+        "Dyspnea and cyanosis, then fever and purulent sputum after 7 days"
+      ],
+      "ans": 0,
+      "exp": "The clinical block reads 'Dyspnea', 'Hypoxia' with an arrow '2–3 days' down to 'Fever, cough' — a subacute hypoxia-first presentation. (Book p293)"
+    },
+    {
+      "id": "MED-C48-73",
+      "sec": "Aspergillus Diagnosis by BAL, VATS and Galactomannan, Beta-D-Glucan Cross-Reactivity, Voriconazole against Liposomal Amphotericin, the Mucormycosis Contrast and the Opening of Pneumocystis",
+      "page": 293,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three of these are printed as giving a positive β-D-glucan test, one is not:",
+      "opts": [
+        "Pneumocystis",
+        "Nocardia",
+        "Cryptococcus",
+        "Mucor"
+      ],
+      "ans": 1,
+      "exp": "The printed list is 'mucor, cryptococcus, candida, aspergillosis, pneumocystis'; Nocardia appears on this page only as an organism of the immunocompromised lung, never in the β-D-glucan list. (Book p293)"
+    },
+    {
+      "id": "MED-C48-74",
+      "sec": "Aspergillus Diagnosis by BAL, VATS and Galactomannan, Beta-D-Glucan Cross-Reactivity, Voriconazole against Liposomal Amphotericin, the Mucormycosis Contrast and the Opening of Pneumocystis",
+      "page": 293,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three are printed for mucormycosis, one belongs to aspergillosis:",
+      "opts": [
+        "Negative galactomannan test",
+        "Right angle branching",
+        "Aseptate hyphae",
+        "Septate hyphae with dichotomous branching"
+      ],
+      "ans": 3,
+      "exp": "Mucormycosis shows aseptate hyphae, right angle branching, a negative galactomannan test and no response to voriconazole; septate dichotomously branching hyphae are the aspergillus finding on BAL. (Book p293)"
+    },
+    {
+      "id": "MED-C48-75",
+      "sec": "Pneumocystis Diagnosis by GMS Cyst Stain, Fluorescein Antibody and PCR, Its Four HIV Records, the Cotrimoxazole Ladder, Steroids for Hypoxia and Three Prophylactic Drugs",
+      "page": 294,
+      "fmt": "recall",
+      "q": "Which six diagnostic points are printed for Pneumocystis on page 294?",
+      "opts": [
+        "1,3 β-D-glucan positive and specific, raised LDH, BAL microscopy with GMS trophozoite staining, fluorescein antibody, PCR as gold standard, and perihilar infiltrates",
+        "1,3 β-D-glucan positive but non-specific, raised LDH, BAL microscopy with GMS cyst staining, fluorescein antibody, PCR as gold standard, and lobar consolidation",
+        "1,3 β-D-glucan negative, raised LDH, BAL microscopy with GMS cyst staining, fluorescein antibody, culture as gold standard, and perihilar infiltrates",
+        "1,3 β-D-glucan positive but non-specific, raised LDH, BAL microscopy as the best mode with GMS cyst staining, fluorescein conjugated monoclonal antibody, PCR as gold standard, and diffuse perihilar infiltrates on chest X-ray"
+      ],
+      "ans": 3,
+      "exp": "The diagnosis block reads '1,3 β-D-glucan test positive (Non specific)', '↑LDH', 'BAL: microscopy — Best mode of diagnosis; methenamine silver stain (GMS): Cyst form', the fluorescein antibody, 'PCR: gold standard' and chest X-ray perihilar infiltrates. (Book p294)"
+    },
+    {
+      "id": "MED-C48-76",
+      "sec": "Pneumocystis Diagnosis by GMS Cyst Stain, Fluorescein Antibody and PCR, Its Four HIV Records, the Cotrimoxazole Ladder, Steroids for Hypoxia and Three Prophylactic Drugs",
+      "page": 294,
+      "fmt": "fillup",
+      "q": "The best mode of diagnosis for Pneumocystis is BAL microscopy with methenamine silver stain, which demonstrates the ______ form.",
+      "opts": [
+        "hyphal",
+        "trophozoite",
+        "cyst",
+        "sporozoite"
+      ],
+      "ans": 2,
+      "exp": "The BAL block reads 'methenamine silver stain (GMS): Cyst form', the cyst being what silver stains in this infection. (Book p294)"
+    },
+    {
+      "id": "MED-C48-77",
+      "sec": "Pneumocystis Diagnosis by GMS Cyst Stain, Fluorescein Antibody and PCR, Its Four HIV Records, the Cotrimoxazole Ladder, Steroids for Hypoxia and Three Prophylactic Drugs",
+      "page": 294,
+      "fmt": "recall",
+      "q": "Which four complications may the perihilar infiltrates of Pneumocystis show on imaging?",
+      "opts": [
+        "Cavity, pneumothorax and pleural effusion, with the caption showing a cyst with bilateral infiltrates",
+        "Cavity, pneumothorax and pneumatocele, with the caption showing a cyst with bilateral infiltrates",
+        "Cavity, pleural effusion and pneumatocele, with the caption showing a bulla with bilateral infiltrates",
+        "Cavity, pneumothorax and honeycomb change, with the caption showing a cyst with unilateral infiltrates"
+      ],
+      "ans": 1,
+      "exp": "The arrow from the perihilar infiltrates reads 'Cavity, pneumothorax, Pneumatocele', and the second film is captioned 'Cyst with B/L infiltrates'. (Book p294)"
+    },
+    {
+      "id": "MED-C48-78",
+      "sec": "Pneumocystis Diagnosis by GMS Cyst Stain, Fluorescein Antibody and PCR, Its Four HIV Records, the Cotrimoxazole Ladder, Steroids for Hypoxia and Three Prophylactic Drugs",
+      "page": 294,
+      "fmt": "recall",
+      "q": "Which four HIV records are bracketed for Pneumocystis on page 294?",
+      "opts": [
+        "Most common fungal pneumonia, rare opportunistic infection, most common cause of pneumonia and most common cause of pleural effusion in HIV",
+        "Most common fungal pneumonia, most common opportunistic infection, most common cause of pneumothorax and most common cause of pleural effusion in HIV",
+        "Most common fungal pneumonia, most common opportunistic infection, most common cause of pneumonia and most common cause of pleural effusion in HIV",
+        "Most common bacterial pneumonia, most common opportunistic infection, most common cause of pneumonia and most common cause of pleural effusion in HIV"
+      ],
+      "ans": 2,
+      "exp": "The brace 'In HIV' encloses 'm/c: Fungal pneumonia, Opportunistic infection, Cause of pneumonia, Cause of pleural effusion'. (Book p294)"
+    },
+    {
+      "id": "MED-C48-79",
+      "sec": "Pneumocystis Diagnosis by GMS Cyst Stain, Fluorescein Antibody and PCR, Its Four HIV Records, the Cotrimoxazole Ladder, Steroids for Hypoxia and Three Prophylactic Drugs",
+      "page": 294,
+      "fmt": "match",
+      "q": "Match each Pneumocystis treatment line to its printed description — 1) First line mild to moderate 2) First line severe 3) Second line … A) IV cotrimoxazole B) Clindamycin plus primaquine and IV pentamidine C) Oral cotrimoxazole",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "Mild to moderate disease takes oral cotrimoxazole, severe disease IV cotrimoxazole, and second line is clindamycin + primaquine or IV pentamidine with increased side effects. (Book p294)"
+    },
+    {
+      "id": "MED-C48-80",
+      "sec": "Pneumocystis Diagnosis by GMS Cyst Stain, Fluorescein Antibody and PCR, Its Four HIV Records, the Cotrimoxazole Ladder, Steroids for Hypoxia and Three Prophylactic Drugs",
+      "page": 294,
+      "fmt": "numeric",
+      "q": "At which PaO₂ does the printed protocol add a steroid in Pneumocystis?",
+      "opts": [
+        "<70 mm Hg, or a raised arterial–venous O₂ difference",
+        "<90 mm Hg, or any oxygen requirement",
+        "<55 mm Hg, or a raised arterio-alveolar O₂ gradient",
+        "<70 mm Hg, or a raised arterio-alveolar O₂ gradient"
+      ],
+      "ans": 3,
+      "exp": "The hypoxia bullet reads 'PaO2: <70 mm Hg or arterio-alveolar O2 gradient ↑' with 'Steroid' beneath it. (Book p294)"
+    },
+    {
+      "id": "MED-C48-81",
+      "sec": "Pneumocystis Diagnosis by GMS Cyst Stain, Fluorescein Antibody and PCR, Its Four HIV Records, the Cotrimoxazole Ladder, Steroids for Hypoxia and Three Prophylactic Drugs",
+      "page": 294,
+      "fmt": "match",
+      "q": "Match each prophylactic agent to the printed list — 1) First 2) Second 3) Third … A) Dapsone B) Atovaquone C) Cotrimoxazole",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 3,
+      "exp": "The prophylaxis column reads cotrimoxazole, dapsone and atovaquone in that order. (Book p294)"
+    },
+    {
+      "id": "MED-C48-82",
+      "sec": "Pneumocystis Diagnosis by GMS Cyst Stain, Fluorescein Antibody and PCR, Its Four HIV Records, the Cotrimoxazole Ladder, Steroids for Hypoxia and Three Prophylactic Drugs",
+      "page": 294,
+      "fmt": "scenario",
+      "q": "A patient with HIV and a CD4 count of 120/μL has dyspnea and hypoxia with a PaO₂ of 60 mm Hg and diffuse perihilar infiltrates. Which treatment does the printed protocol give?",
+      "opts": [
+        "Clindamycin plus primaquine as first line",
+        "IV cotrimoxazole plus a steroid, because the PaO₂ is below 70 mm Hg",
+        "Oral cotrimoxazole alone, because the PaO₂ is above 55 mm Hg",
+        "IV pentamidine as first line because of the hypoxia"
+      ],
+      "ans": 1,
+      "exp": "Severe disease takes IV cotrimoxazole, and a PaO₂ below 70 mm Hg or a raised arterio-alveolar gradient adds a steroid; clindamycin with primaquine and IV pentamidine are second line. (Book p294)"
+    },
+    {
+      "id": "MED-C48-83",
+      "sec": "Nocardia asteroides as an Aerobic Acid-Fast Filamentous Organism, Its Mandatory Host Defect, Brain and Lung Disease, the Crooked Beaded Filaments and the Sulfonamide Regimen",
+      "page": 295,
+      "fmt": "recall",
+      "q": "Which four microbiological features are printed for Nocardia asteroides?",
+      "opts": [
+        "Gram positive filamentous fungi, aerobic, acid fast and with filamented mycelia",
+        "Gram positive filamentous fungi, aerobic, non-acid fast and with non-filamented mycelia",
+        "Gram positive filamentous bacteria, aerobic, acid fast and with non-filamented mycelia",
+        "Gram negative filamentous fungi, anaerobic, acid fast and with filamented mycelia"
+      ],
+      "ans": 0,
+      "exp": "The block reads 'Gram positive filamentous fungi', 'Aerobic', 'Acid fast' and 'Filamented mycelia' — the word 'fungi' being printed even for this bacterium. (Book p295)"
+    },
+    {
+      "id": "MED-C48-84",
+      "sec": "Nocardia asteroides as an Aerobic Acid-Fast Filamentous Organism, Its Mandatory Host Defect, Brain and Lung Disease, the Crooked Beaded Filaments and the Sulfonamide Regimen",
+      "page": 295,
+      "fmt": "match",
+      "q": "Match each organism to its printed staining character — 1) Actinomycetes 2) Rhodococci 3) Nocardia … A) Acid fast and non-filamentous B) Non-acid fast and non-aerobic C) Acid fast and filamentous",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 1,
+      "exp": "The note reads 'Actinomycetes: Non-acid fast, non-aerobic' and 'Rhodococci: Acid fast, non-filamentous', against the acid-fast filamentous Nocardia above them. (Book p295)"
+    },
+    {
+      "id": "MED-C48-85",
+      "sec": "Nocardia asteroides as an Aerobic Acid-Fast Filamentous Organism, Its Mandatory Host Defect, Brain and Lung Disease, the Crooked Beaded Filaments and the Sulfonamide Regimen",
+      "page": 295,
+      "fmt": "fillup",
+      "q": "For Nocardia, a host defence defect is printed as ______.",
+      "opts": [
+        "optional",
+        "rare",
+        "mandatory",
+        "protective"
+      ],
+      "ans": 2,
+      "exp": "The transmission block reads 'Host defence defect: mandatory', followed by inhalation or skin defect as the modes of entry. (Book p295)"
+    },
+    {
+      "id": "MED-C48-86",
+      "sec": "Nocardia asteroides as an Aerobic Acid-Fast Filamentous Organism, Its Mandatory Host Defect, Brain and Lung Disease, the Crooked Beaded Filaments and the Sulfonamide Regimen",
+      "page": 295,
+      "fmt": "recall",
+      "q": "Which two clinical patterns are printed for Nocardia in the lung and CNS?",
+      "opts": [
+        "CNS: acute meningitis; lung: cavitating nodules and nocardial mycetoma",
+        "CNS: subacute brain abscess; lung: lobar consolidation and pleural effusion",
+        "CNS: subacute brain abscess; lung: cavitating nodules and nocardial mycetoma",
+        "CNS: subacute brain abscess; lung: miliary nodules and hilar lymphadenopathy"
+      ],
+      "ans": 2,
+      "exp": "The clinical section reads 'CNS: Subacute brain abscess' and under lung 'Cavitating nodules' and 'Nocardial mycetoma', with the CT and film captions below. (Book p295)"
+    },
+    {
+      "id": "MED-C48-87",
+      "sec": "Nocardia asteroides as an Aerobic Acid-Fast Filamentous Organism, Its Mandatory Host Defect, Brain and Lung Disease, the Crooked Beaded Filaments and the Sulfonamide Regimen",
+      "page": 295,
+      "fmt": "recall",
+      "q": "What does the sputum or pus examination show in nocardiosis, and why is culture not done?",
+      "opts": [
+        "Crooked branching beaded filaments that are acid fast, with culture not done because of slow growth",
+        "Straight branching septate filaments that are acid fast, with culture not done because of slow growth",
+        "Crooked branching beaded filaments that are acid fast, with culture the gold standard because of rapid growth",
+        "Crooked branching beaded filaments that are non-acid fast, with culture not done because of fastidious growth"
+      ],
+      "ans": 0,
+      "exp": "The diagnosis block reads 'Crooked branching beaded filaments', 'Acid fast' and 'Culture not done d/t slow growth', with the Gram stain photograph beside it. (Book p295)"
+    },
+    {
+      "id": "MED-C48-88",
+      "sec": "Nocardia asteroides as an Aerobic Acid-Fast Filamentous Organism, Its Mandatory Host Defect, Brain and Lung Disease, the Crooked Beaded Filaments and the Sulfonamide Regimen",
+      "page": 295,
+      "fmt": "recall",
+      "q": "Which three drugs are printed for Nocardia, and which is the drug of choice?",
+      "opts": [
+        "Sulfonamide as the drug of choice, with minocycline and oral amikacin",
+        "Sulfonamide as the drug of choice, with minocycline and parenteral amikacin",
+        "Cotrimoxazole as the drug of choice, with minocycline and parenteral amikacin",
+        "Sulfonamide as the drug of choice, with doxycycline and parenteral amikacin"
+      ],
+      "ans": 1,
+      "exp": "The treatment block reads 'Sulfonamide (DOC), minocycline' and 'Amikacin (Parenteral)'. (Book p295)"
+    },
+    {
+      "id": "MED-C48-89",
+      "sec": "Nocardia asteroides as an Aerobic Acid-Fast Filamentous Organism, Its Mandatory Host Defect, Brain and Lung Disease, the Crooked Beaded Filaments and the Sulfonamide Regimen",
+      "page": 295,
+      "fmt": "scenario",
+      "q": "A renal transplant recipient on high dose steroids develops a subacute brain abscess and cavitating lung nodules; pus shows acid-fast crooked beaded filaments. Which organism and drug of choice fit the page?",
+      "opts": [
+        "Rhodococcus treated with a sulfonamide",
+        "Actinomyces treated with a sulfonamide",
+        "Nocardia asteroides treated with voriconazole",
+        "Nocardia asteroides treated with a sulfonamide"
+      ],
+      "ans": 3,
+      "exp": "Nocardia requires a host defence defect, gives a subacute brain abscess with cavitating lung nodules, shows acid-fast crooked beaded filaments and is treated with sulfonamide as DOC; actinomycetes are non-acid fast and rhodococci are non-filamentous. (Book p295)"
+    },
+    {
+      "id": "MED-C48-90",
+      "sec": "Nocardia asteroides as an Aerobic Acid-Fast Filamentous Organism, Its Mandatory Host Defect, Brain and Lung Disease, the Crooked Beaded Filaments and the Sulfonamide Regimen",
+      "page": 295,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the treatment of Nocardia on page 295.",
+      "opts": [
+        "False — no antibiotic is effective and surgery alone is used",
+        "True — voriconazole is the drug of choice, with sulfonamide as an alternative",
+        "True — sulfonamide is the drug of choice, with minocycline and parenteral amikacin as alternatives",
+        "False — sulfonamide is contraindicated and amikacin is the drug of choice"
+      ],
+      "ans": 2,
+      "exp": "The treatment block reads 'Sulfonamide (DOC), minocycline' and 'Amikacin (Parenteral)', with no role for voriconazole on the page. (Book p295)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U48-1",
+      "ch": 48,
+      "n": 1,
+      "title": "Mycoplasma as the Smallest Free-Living Organism, Its Wall-Free Sterol Membrane, the Ten Percent Pneumonia Picture, Seven Extrapulmonary Manifestations, Radiology, PPLO Culture and Azithromycin",
+      "sec": "Mycoplasma as the Smallest Free-Living Organism, Its Wall-Free Sterol Membrane, the Ten Percent Pneumonia Picture, Seven Extrapulmonary Manifestations, Radiology, PPLO Culture and Azithromycin",
+      "guide": "Mycoplasma (p286) is the smallest free-living replicating organism, with no cell wall so β-lactams fail, sterols present and no flagella; it causes tracheobronchitis/pharyngitis and pneumonia in 10%, spread by droplets, with low grade fever, cough, scanty sputum and few signs.\nExtrapulmonary disease covers cold antibody autoimmune hemolysis (IgM), SJS/erythema multiforme, GBS, encephalitis, bullous myringitis, myocarditis/pericarditis and arthralgia with adenopathy; imaging gives reticulonodular or patchy consolidation from the hilum, interstitial and ground glass change and tree-in-bud.\nPCR of respiratory secretions and serology are rapid and most sensitive, culture is on PPLO agar by Diene's method with fried egg colonies, and azithromycin is DOC with doxycycline and respiratory quinolones as alternatives; hydrogen peroxide and superoxide injure the epithelium but prognosis is good.",
+      "qs": [
+        "MED-C48-01",
+        "MED-C48-02",
+        "MED-C48-03",
+        "MED-C48-04",
+        "MED-C48-05",
+        "MED-C48-06",
+        "MED-C48-07",
+        "MED-C48-08",
+        "MED-C48-09",
+        "MED-C48-10",
+        "MED-C48-11"
+      ]
+    },
+    {
+      "id": "MED-U48-2",
+      "ch": 48,
+      "n": 2,
+      "title": "Chlamydia as an Obligate Intracellular Peptidoglycan-Free Bacterium with Its Elementary Body, Walking Pneumonia, HEp-2 Isolation and Micro-Immunofluorescence, plus the Legionella Phenotype",
+      "sec": "Chlamydia as an Obligate Intracellular Peptidoglycan-Free Bacterium with Its Elementary Body, Walking Pneumonia, HEp-2 Isolation and Micro-Immunofluorescence, plus the Legionella Phenotype",
+      "guide": "Chlamydia (p287) is an obligate intracellular bacterium without peptidoglycan, transmitted human to human, its elementary body being extracellular, metabolically inactive and infective.\nIt gives a prolonged asymptomatic upper respiratory illness, atypical pneumonia in 10% and walking pneumonia indistinguishable from mycoplasma, with low grade fever, minimal sputum and dry cough, atherosclerosis being the extrapulmonary link; isolation is by HEp-2 cells and micro-immunofluorescence serology is the gold standard, with no lobar consolidation, resistance to sulfonamide and treatment by azithromycin or doxycycline.\nLegionella is gram negative and predominantly intracellular, a strict aerobe, motile, partially acid fast, living in aquatic bodies and biofilms, with type 1 serovar most pathogenic and a type 4 secretion system.",
+      "qs": [
+        "MED-C48-12",
+        "MED-C48-13",
+        "MED-C48-14",
+        "MED-C48-15",
+        "MED-C48-16",
+        "MED-C48-17",
+        "MED-C48-18",
+        "MED-C48-19"
+      ]
+    },
+    {
+      "id": "MED-U48-3",
+      "ch": 48,
+      "n": 3,
+      "title": "Legionella Microaspiration, BCYE Medium, the Sterile Gram Stain, Its Four Risk Factors, Typical against Atypical Disease, Pontiac against Legionnaires and DFAT Diagnosis",
+      "sec": "Legionella Microaspiration, BCYE Medium, the Sterile Gram Stain, Its Four Risk Factors, Typical against Atypical Disease, Pontiac against Legionnaires and DFAT Diagnosis",
+      "guide": "Legionella spreads by microaspiration more than aerosolization and grows on BCYE (buffered charcoal yeast extract) medium; Gram stain shows pus cells and neutrophils but no organisms (p288).\nRisk factors are poor CMI, smoking, immunosuppression and hairy cell leukemia; typical disease is rapidly progressive with high grade fever, bilateral dense consolidation and leucocytosis, while atypical disease gives non-productive cough, diarrhea, hyponatremia, elevated LFT, thrombocytopenia and hematuria; mild disease is Pontiac fever and severe is Legionnaires disease.\nDFAT and urinary antigen both have high specificity, sputum/aspiration testing is not done, and treatment is azithromycin (DOC) with rifampicin or a quinolone.",
+      "qs": [
+        "MED-C48-20",
+        "MED-C48-21",
+        "MED-C48-22",
+        "MED-C48-23",
+        "MED-C48-24",
+        "MED-C48-25",
+        "MED-C48-26",
+        "MED-C48-27",
+        "MED-C48-28",
+        "MED-C48-29"
+      ]
+    },
+    {
+      "id": "MED-U48-4",
+      "ch": 48,
+      "n": 4,
+      "title": "Necrotising Pneumonia and Aspiration as the Two Causes of Lung Abscess, the Five-Step Pathogenesis, the Posterior Right Upper Lobe Site and the Clinical Picture",
+      "sec": "Necrotising Pneumonia and Aspiration as the Two Causes of Lung Abscess, the Five-Step Pathogenesis, the Posterior Right Upper Lobe Site and the Clinical Picture",
+      "guide": "Lung abscess (p289) has two causes: necrotising pneumonia complicating pneumonia from staphylococcus or klebsiella, and aspiration pneumonia with chronic symptoms, anaerobes and a posterior upper lobe predilection over the superior lower lobe segment.\nPathogenesis runs consolidation + suppuration + necrosis → rupture → drainage into the bronchus → purulent expectoration → abscess with an air fluid level, the commonest site being the posterior segment of the right upper lobe.\nClinically fever and chills ease when the abscess drains, with cough and purulent sputum, tachypnea, impaired percussion, cavity-related bronchial breathing and clubbing in chronic disease; diagnosis is poor response over 2–3 days with purulent sputum and toxicity plus an air fluid level on film or CT.",
+      "qs": [
+        "MED-C48-30",
+        "MED-C48-31",
+        "MED-C48-32",
+        "MED-C48-33",
+        "MED-C48-34",
+        "MED-C48-35",
+        "MED-C48-36",
+        "MED-C48-37",
+        "MED-C48-38"
+      ]
+    },
+    {
+      "id": "MED-U48-5",
+      "ch": 48,
+      "n": 5,
+      "title": "The Chest Film and CT Captions, Metastatic Infection to AA Amyloidosis, the Tuberculosis and Malignancy Differentials and the Vancomycin-Piperacillin-Tazobactam-Clindamycin Regimen",
+      "sec": "The Chest Film and CT Captions, Metastatic Infection to AA Amyloidosis, the Tuberculosis and Malignancy Differentials and the Vancomycin-Piperacillin-Tazobactam-Clindamycin Regimen",
+      "guide": "Captions on p290 run ground glass opacity, pleural effusion, thick walled cavity, consolidation and air fluid levels.\nComplications are metastatic infection, pyopneumothorax, bronchopleural fistula and AA (secondary) amyloidosis, the last seen in TB, bronchiectasis and lung abscess; the differential is TB, malignancy, Nocardia and Actinomycetes with no bracketed clue.\nTreatment is antibiotics with postural drainage — vancomycin, piperacillin–tazobactam and clindamycin for anaerobes — for 6–8 weeks, fever resolving in 7–10 days and surgery reserved for unresponsive MDR disease.",
+      "qs": [
+        "MED-C48-39",
+        "MED-C48-40",
+        "MED-C48-41",
+        "MED-C48-42",
+        "MED-C48-43",
+        "MED-C48-44",
+        "MED-C48-45",
+        "MED-C48-46"
+      ]
+    },
+    {
+      "id": "MED-U48-6",
+      "ch": 48,
+      "n": 6,
+      "title": "The Three Severely Immunocompromised States, the Seven Organisms, and the Renal and Bone Marrow Transplant Infection Timelines with Onset-Based Infection",
+      "sec": "The Three Severely Immunocompromised States, the Seven Organisms, and the Renal and Bone Marrow Transplant Infection Timelines with Onset-Based Infection",
+      "guide": "The severely immunocompromised (p291) are neutropenic from any cause, transplant recipients of bone marrow or kidney, and those on >30 mg steroid for 3–4 weeks; organisms are mainly MDR gram-negative with Aspergillus, Nocardia and PCP predominant in the lung, plus toxoplasma, CMV and candida.\nPost renal transplant: <1 month wound, catheter, drain site, UTI and herpes; 1–6 months (m/c) CMV, PCP, Legionella, Listeria and hepatitis B/C; >6 months drug-induced neutropenia from mycophenolate or calcineurin inhibitors giving BK polyoma, Nocardia and Aspergillus.\nPost bone marrow transplant: <1 month gram-negative bacteria and Aspergillus, then 1–4 months CMV, PCP and Aspergillus; acute onset at 24–48 hours means bacteria, subacute means virus, TB or fungi, with CMV ocular/organomegaly, Nocardia neurological/nodules and Pseudomonas ecthyma gangrenosum.",
+      "qs": [
+        "MED-C48-47",
+        "MED-C48-48",
+        "MED-C48-49",
+        "MED-C48-50",
+        "MED-C48-51",
+        "MED-C48-52",
+        "MED-C48-53",
+        "MED-C48-54",
+        "MED-C48-55",
+        "MED-C48-56"
+      ]
+    },
+    {
+      "id": "MED-U48-7",
+      "ch": 48,
+      "n": 7,
+      "title": "Invasive Aspergillosis from Conidia to Hyphae, Neutropenia as the Chief Risk, the Halo and Air Crescent Signs, the Reverse Halo and Monad Notes and the Fever-Hemoptysis-Pleuritic Triad",
+      "sec": "Invasive Aspergillosis from Conidia to Hyphae, Neutropenia as the Chief Risk, the Halo and Air Crescent Signs, the Reverse Halo and Monad Notes and the Fever-Hemoptysis-Pleuritic Triad",
+      "guide": "Invasive aspergillosis (p292) starts with conidia aerosolised from the mold, reaching tissue and forming invasive hyphae, with neutropenia the most important risk.\nThe CT halo sign is consolidation surrounded by ground glass and suggests invasion, while the air crescent sign means recovery; the reverse halo is ground glass surrounded by consolidation in cryptogenic organizing pneumonia, and the monad sign is an air crescent around a fungal ball that moves with posture in an old TB aspergilloma.\nThe classical triad is fever, hemoptysis and pleuritic pain, with sinus infection, CNS infection carrying 100% mortality and angioinvasion causing hemorrhagic infarction.",
+      "qs": [
+        "MED-C48-57",
+        "MED-C48-58",
+        "MED-C48-59",
+        "MED-C48-60",
+        "MED-C48-61",
+        "MED-C48-62",
+        "MED-C48-63",
+        "MED-C48-64",
+        "MED-C48-65"
+      ]
+    },
+    {
+      "id": "MED-U48-8",
+      "ch": 48,
+      "n": 8,
+      "title": "Aspergillus Diagnosis by BAL, VATS and Galactomannan, Beta-D-Glucan Cross-Reactivity, Voriconazole against Liposomal Amphotericin, the Mucormycosis Contrast and the Opening of Pneumocystis",
+      "sec": "Aspergillus Diagnosis by BAL, VATS and Galactomannan, Beta-D-Glucan Cross-Reactivity, Voriconazole against Liposomal Amphotericin, the Mucormycosis Contrast and the Opening of Pneumocystis",
+      "guide": "Diagnosis of aspergillosis (p293) rests on BAL showing dichotomous branching septate hyphae, VATS biopsy of a nodule, the specific galactomannan test and β-D-glucan, which is positive in mucor, cryptococcus, candida, aspergillosis and pneumocystis.\nVoriconazole is DOC with liposomal amphotericin B as the alternative, and mucormycosis is separated by aseptate right-angle hyphae, negative galactomannan, no voriconazole response and treatment with liposomal amphotericin B plus posaconazole and surgical debridement.\nPneumocystis is a fungal infection of HIV with CD4 <200/μL and the immunocompromised, giving dyspnea and hypoxia then fever and cough after 2–3 days.",
+      "qs": [
+        "MED-C48-66",
+        "MED-C48-67",
+        "MED-C48-68",
+        "MED-C48-69",
+        "MED-C48-70",
+        "MED-C48-71",
+        "MED-C48-72",
+        "MED-C48-73",
+        "MED-C48-74"
+      ]
+    },
+    {
+      "id": "MED-U48-9",
+      "ch": 48,
+      "n": 9,
+      "title": "Pneumocystis Diagnosis by GMS Cyst Stain, Fluorescein Antibody and PCR, Its Four HIV Records, the Cotrimoxazole Ladder, Steroids for Hypoxia and Three Prophylactic Drugs",
+      "sec": "Pneumocystis Diagnosis by GMS Cyst Stain, Fluorescein Antibody and PCR, Its Four HIV Records, the Cotrimoxazole Ladder, Steroids for Hypoxia and Three Prophylactic Drugs",
+      "guide": "Pneumocystis diagnosis (p294) uses a positive but non-specific 1,3 β-D-glucan, raised LDH, BAL microscopy as the best mode with GMS cyst staining, fluorescein conjugated monoclonal antibody, PCR as gold standard and perihilar infiltrates that may cavitate, pneumothorax or pneumatocele.\nIt is the most common fungal pneumonia, opportunistic infection, cause of pneumonia and cause of pleural effusion in HIV; treatment is oral cotrimoxazole for mild-moderate disease, IV cotrimoxazole for severe, and second line clindamycin + primaquine or IV pentamidine.\nSteroids are added for PaO₂ <70 mm Hg or a raised arterio-alveolar gradient, and prophylaxis is cotrimoxazole, dapsone or atovaquone.",
+      "qs": [
+        "MED-C48-75",
+        "MED-C48-76",
+        "MED-C48-77",
+        "MED-C48-78",
+        "MED-C48-79",
+        "MED-C48-80",
+        "MED-C48-81",
+        "MED-C48-82"
+      ]
+    },
+    {
+      "id": "MED-U48-10",
+      "ch": 48,
+      "n": 10,
+      "title": "Nocardia asteroides as an Aerobic Acid-Fast Filamentous Organism, Its Mandatory Host Defect, Brain and Lung Disease, the Crooked Beaded Filaments and the Sulfonamide Regimen",
+      "sec": "Nocardia asteroides as an Aerobic Acid-Fast Filamentous Organism, Its Mandatory Host Defect, Brain and Lung Disease, the Crooked Beaded Filaments and the Sulfonamide Regimen",
+      "guide": "Nocardia asteroides (p295) is a gram positive filamentous 'fungus' that is aerobic, acid fast and filamented, unlike non-acid-fast non-aerobic actinomycetes and acid-fast non-filamentous rhodococci.\nA host defence defect is mandatory, entry is by inhalation or a skin defect, and disease is a subacute brain abscess or cavitating lung nodules with nocardial mycetoma.\nSputum or pus shows acid-fast crooked branching beaded filaments and culture is avoided because of slow growth; treatment is sulfonamide as DOC with minocycline and parenteral amikacin.",
+      "qs": [
+        "MED-C48-83",
+        "MED-C48-84",
+        "MED-C48-85",
+        "MED-C48-86",
+        "MED-C48-87",
+        "MED-C48-88",
+        "MED-C48-89",
+        "MED-C48-90"
+      ]
+    }
+  ]
+}
