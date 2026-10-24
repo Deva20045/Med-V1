@@ -1,0 +1,901 @@
+{
+  "chapter": 60,
+  "title": "Pulse",
+  "pageRange": "364-369",
+  "questions": [
+    {
+      "id": "MED-C60-01",
+      "sec": "Pulse-versus-JVP Indicators, Arterial Pulse Introduction, Waveform Letters and Pulse Apex Deficit",
+      "page": 364,
+      "fmt": "match",
+      "q": "Match the two opening indicators — 1) Pulse 2) JVP … A) Indicator of left-sided ejection B) Indicator of right-sided filling",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 1,
+      "exp": "The opening lines print pulse : indicator of left-sided ejection and JVP : indicator of right-sided filling. (Book p364)"
+    },
+    {
+      "id": "MED-C60-02",
+      "sec": "Pulse-versus-JVP Indicators, Arterial Pulse Introduction, Waveform Letters and Pulse Apex Deficit",
+      "page": 364,
+      "fmt": "recall",
+      "q": "How is the arterial pulse defined?",
+      "opts": [
+        "A pressure wave originating in the aorta d/t ejection of blood during LV systole that travels along the arterial wall",
+        "A pressure wave originating in the carotid d/t ejection during RV systole",
+        "A pressure wave originating in the aorta d/t atrial contraction during diastole",
+        "A flow wave originating in the radial artery d/t LV diastole"
+      ],
+      "ans": 0,
+      "exp": "The introduction prints pressure wave originating in aorta d/t ejection of blood during LV systole and travels along the arterial wall. (Book p364)"
+    },
+    {
+      "id": "MED-C60-03",
+      "sec": "Pulse-versus-JVP Indicators, Arterial Pulse Introduction, Waveform Letters and Pulse Apex Deficit",
+      "page": 364,
+      "fmt": "numeric",
+      "q": "Which velocities are printed for the pulse wave and the blood column?",
+      "opts": [
+        "Rate 5 m/s, equal to the column of blood at 5 m/s",
+        "Rate 50 m/s, faster than the column of blood at 5 cm/s",
+        "Rate 5 m/s, faster than the column of blood at 50 cm/s",
+        "Rate 0.5 m/s, slower than the column of blood at 50 cm/s"
+      ],
+      "ans": 2,
+      "exp": "The bullet prints rate : 5 m/s (faster than column of blood – 50 cm/s). (Book p364)"
+    },
+    {
+      "id": "MED-C60-04",
+      "sec": "Pulse-versus-JVP Indicators, Arterial Pulse Introduction, Waveform Letters and Pulse Apex Deficit",
+      "page": 364,
+      "fmt": "recall",
+      "q": "What is the pulse an indicator of, and where is contour best felt?",
+      "opts": [
+        "LV performance status and how the vascular system reacts to it; character and contour best felt at carotids",
+        "RV performance status and arterial tone; contour best felt at brachials",
+        "LV performance status only; contour best felt at femorals",
+        "Vascular resistance only; contour best felt at carotids"
+      ],
+      "ans": 0,
+      "exp": "The indicator bullets print LV performance status and how vascular system reacts to it, then character and contour is best felt at carotids. (Book p364)"
+    },
+    {
+      "id": "MED-C60-05",
+      "sec": "Pulse-versus-JVP Indicators, Arterial Pulse Introduction, Waveform Letters and Pulse Apex Deficit",
+      "page": 364,
+      "fmt": "fillup",
+      "q": "Character and contour of the arterial pulse is best felt at the ____.",
+      "opts": [
+        "brachials",
+        "carotids",
+        "radials",
+        "femorals"
+      ],
+      "ans": 1,
+      "exp": "The introduction bullet prints character and contour is best felt at carotids. (Book p364)"
+    },
+    {
+      "id": "MED-C60-06",
+      "sec": "Pulse-versus-JVP Indicators, Arterial Pulse Introduction, Waveform Letters and Pulse Apex Deficit",
+      "page": 364,
+      "fmt": "match",
+      "q": "Match the carotid waveform letters — 1) P 2) T 3) D 4) DN … A) Percussion wave, equivalent to stroke volume/LV contraction B) Tidal wave, d/t aortic recoil C) Dicrotic wave, d/t the reflected wave (PVR) D) Dicrotic notch, corresponds to S2",
+      "opts": [
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-C, 3-B, 4-D",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-C, 3-B, 4-A"
+      ],
+      "ans": 2,
+      "exp": "The legend prints P percussion wave, T tidal wave, D dicrotic wave, DN dicrotic notch with the arrows: P equivalent to SV/LV contraction, T d/t aortic recoil, D d/t reflected wave (PVR), DN corresponds to S2. (Book p364)"
+    },
+    {
+      "id": "MED-C60-07",
+      "sec": "Pulse-versus-JVP Indicators, Arterial Pulse Introduction, Waveform Letters and Pulse Apex Deficit",
+      "page": 364,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the p364 waveform.",
+      "opts": [
+        "True — the tidal wave is due to aortic recoil and the dicrotic wave to the reflected wave from peripheral vascular resistance",
+        "True — the pulse pressure wave travels slower than the column of blood",
+        "False — the dicrotic notch corresponds to S1",
+        "False — the percussion wave is equivalent to atrial contraction"
+      ],
+      "ans": 0,
+      "exp": "The arrows print T d/t aortic recoil, D d/t reflected wave (PVR), DN corresponds to S2 and P equivalent to SV/LV contraction; the wave rate 5 m/s is faster than the 50 cm/s column. (Book p364)"
+    },
+    {
+      "id": "MED-C60-08",
+      "sec": "Pulse-versus-JVP Indicators, Arterial Pulse Introduction, Waveform Letters and Pulse Apex Deficit",
+      "page": 364,
+      "fmt": "match",
+      "q": "Match the LV-function markers — 1) ↑ stroke volume 2) ↑ velocity of ejection … A) Sharper upstroke with higher peak B) Sharper upstroke with earlier peak",
+      "opts": [
+        "1-A, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-B",
+        "1-B, 2-A"
+      ],
+      "ans": 1,
+      "exp": "The markers print SV ↑ sed d/t sharper upstroke + higher peak, and velocity of ejection ↑ sed d/t sharper upstroke + earlier peak. (Book p364)"
+    },
+    {
+      "id": "MED-C60-09",
+      "sec": "Pulse-versus-JVP Indicators, Arterial Pulse Introduction, Waveform Letters and Pulse Apex Deficit",
+      "page": 364,
+      "fmt": "recall",
+      "q": "Which method is printed for the pulse apex deficit?",
+      "opts": [
+        "Patient supine with neck slightly turned to the side of palpation, palpate carotid pulse while simultaneously auscultating heart sounds",
+        "Patient sitting, palpate carotid and count only the pulse",
+        "Patient standing, palpate brachial while auscultating",
+        "Patient supine with neck straight, palpate femoral while auscultating"
+      ],
+      "ans": 0,
+      "exp": "The bullets print supine with neck slightly turned to the side of palpation → palpate carotid pulse, and simultaneously auscultate for heart sounds. (Book p364)"
+    },
+    {
+      "id": "MED-C60-10",
+      "sec": "Pulse-versus-JVP Indicators, Arterial Pulse Introduction, Waveform Letters and Pulse Apex Deficit",
+      "page": 364,
+      "fmt": "numeric",
+      "q": "Which pulse apex deficit threshold is printed, and for what?",
+      "opts": [
+        "> 10 for atrial fibrillation",
+        "> 10 for ventricular tachycardia",
+        "> 20 for atrial fibrillation",
+        "> 15 for complete heart block"
+      ],
+      "ans": 0,
+      "exp": "The last bullet prints pulse apex deficit > 10 : atrial fibrillation. (Book p364)"
+    },
+    {
+      "id": "MED-C60-11",
+      "sec": "Brachiofemoral Delay, Coarctation Captions, Central-to-Periphery Changes and Assessment Features",
+      "page": 365,
+      "fmt": "match",
+      "q": "Match the normal brachiofemoral delays — 1) Carotid 2) Brachial 3) Radial 4) Femoral … A) 30 ms B) 60 ms C) 80 ms D) 75 ms",
+      "opts": [
+        "1-A, 2-B, 3-D, 4-C",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-A, 3-C, 4-D"
+      ],
+      "ans": 1,
+      "exp": "The normal delay list prints carotid 30 ms, brachial 60 ms, radial 80 ms and femoral 75 ms. (Book p365)"
+    },
+    {
+      "id": "MED-C60-12",
+      "sec": "Brachiofemoral Delay, Coarctation Captions, Central-to-Periphery Changes and Assessment Features",
+      "page": 365,
+      "fmt": "recall",
+      "q": "What does an exaggerated delay indicate?",
+      "opts": [
+        "Subclavian steal",
+        "Aortic stenosis",
+        "Patent ductus arteriosus",
+        "Coarctation of aorta"
+      ],
+      "ans": 3,
+      "exp": "The bullet prints if delay exaggerated : coarctation of aorta. (Book p365)"
+    },
+    {
+      "id": "MED-C60-13",
+      "sec": "Brachiofemoral Delay, Coarctation Captions, Central-to-Periphery Changes and Assessment Features",
+      "page": 365,
+      "fmt": "match",
+      "q": "Match the coarctation feature captions — 1) '3 sign' 2) Serrated flow pattern 3) Coarctation demonstration 4) LVH … A) On CXR B) Continuous wave doppler C) In cardiac MRI D) On ECG",
+      "opts": [
+        "1-C, 2-D, 3-A, 4-B",
+        "1-A, 2-B, 3-D, 4-C",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-A, 3-C, 4-D"
+      ],
+      "ans": 2,
+      "exp": "The captions print LVH : ECG, 3 sign on CXR, coarctation in cardiac MRI and serrated flow pattern : continuous wave doppler. (Book p365)"
+    },
+    {
+      "id": "MED-C60-14",
+      "sec": "Brachiofemoral Delay, Coarctation Captions, Central-to-Periphery Changes and Assessment Features",
+      "page": 365,
+      "fmt": "recall",
+      "q": "How does the wave character change from central to periphery?",
+      "opts": [
+        "Upstrokes become steeper, and with ↓ peripheral resistance the dicrotic notch becomes smooth and the dicrotic wave less prominent",
+        "Upstrokes become steeper, and with ↑ peripheral resistance the dicrotic wave becomes more prominent",
+        "Upstrokes become flatter with a smoother notch",
+        "No change is printed from central to periphery"
+      ],
+      "ans": 0,
+      "exp": "The bullets print upstrokes become steeper and peripheral resistance ↓ → smooth dicrotic notch with dicrotic wave less prominent. (Book p365)"
+    },
+    {
+      "id": "MED-C60-15",
+      "sec": "Brachiofemoral Delay, Coarctation Captions, Central-to-Periphery Changes and Assessment Features",
+      "page": 365,
+      "fmt": "fillup",
+      "q": "With ↓ peripheral resistance the dicrotic notch becomes ____ and the dicrotic wave less prominent.",
+      "opts": [
+        "sharp",
+        "smooth",
+        "absent",
+        "deep"
+      ],
+      "ans": 1,
+      "exp": "The change-in-character bullets print peripheral resistance ↓ → smooth dicrotic notch and dicrotic wave less prominent. (Book p365)"
+    },
+    {
+      "id": "MED-C60-16",
+      "sec": "Brachiofemoral Delay, Coarctation Captions, Central-to-Periphery Changes and Assessment Features",
+      "page": 365,
+      "fmt": "recall",
+      "q": "Which seven features are listed under assessment of pulse?",
+      "opts": [
+        "Rate, rhythm, pressure, character, vessel wall, peripheral pulses, radiofemoral delay",
+        "Rate, rhythm, volume, character, vessel wall, central pulses, radioulnar delay",
+        "Rate, rhythm, volume, character, vessel wall, peripheral pulses, carotid-femoral delay",
+        "Rate, rhythm, volume, character, vessel wall, peripheral pulses, radiofemoral delay"
+      ],
+      "ans": 3,
+      "exp": "The two feature columns print rate, rhythm, volume, character, vessel wall, peripheral pulses and radiofemoral delay. (Book p365)"
+    },
+    {
+      "id": "MED-C60-17",
+      "sec": "Brachiofemoral Delay, Coarctation Captions, Central-to-Periphery Changes and Assessment Features",
+      "page": 365,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one item is not among the printed assessment features.",
+      "opts": [
+        "Peripheral pulses",
+        "Radiofemoral delay",
+        "Character",
+        "Temperature of the limb"
+      ],
+      "ans": 3,
+      "exp": "The printed feature list is rate, rhythm, volume, character, vessel wall, peripheral pulses and radiofemoral delay; limb temperature is not listed. (Book p365)"
+    },
+    {
+      "id": "MED-C60-18",
+      "sec": "Brachiofemoral Delay, Coarctation Captions, Central-to-Periphery Changes and Assessment Features",
+      "page": 365,
+      "fmt": "scenario",
+      "q": "A young hypertensive patient's femoral pulse is felt distinctly later than the radial, beyond the printed normal delays. Which rule is violated and what is the diagnosis?",
+      "opts": [
+        "Femoral 75 ms normally precedes radial 80 ms; an exaggerated delay means coarctation of aorta",
+        "Femoral 75 ms normally equals radial 80 ms; exaggeration means PDA",
+        "Carotid 30 ms normally follows brachial 60 ms; exaggeration means coarctation",
+        "Radial 80 ms normally precedes femoral 75 ms; exaggeration means aortic stenosis"
+      ],
+      "ans": 0,
+      "exp": "Normal delays print femoral 75 ms against radial 80 ms, and an exaggerated delay is coarctation of aorta. (Book p365)"
+    },
+    {
+      "id": "MED-C60-19",
+      "sec": "Rate: Tachycardia and Bradycardia Causes, Myxedema and Cushing Notes, Relative Bradycardia",
+      "page": 366,
+      "fmt": "recall",
+      "q": "Which nine causes are printed under sinus tachycardia?",
+      "opts": [
+        "Fever, anxiety, rest, high output states, hypovolemia, pericarditis, anterior wall MI, tamponade, shock",
+        "Fever, anxiety, exercise, high output states, hypovolemia, myocarditis, anterior wall MI, tamponade, syncope",
+        "Fever, anxiety, exercise, low output states, hypovolemia, myocarditis, anterior wall MI, tamponade, shock",
+        "Fever (infection), anxiety, exercise, high output states, hypovolemia, myocarditis, anterior wall MI, cardiac tamponade, cardiogenic shock"
+      ],
+      "ans": 3,
+      "exp": "The left column prints fever (infection), anxiety, exercise, high output states, hypovolemia, myocarditis, anterior wall MI, cardiac tamponade and cardiogenic shock. (Book p366)"
+    },
+    {
+      "id": "MED-C60-20",
+      "sec": "Rate: Tachycardia and Bradycardia Causes, Myxedema and Cushing Notes, Relative Bradycardia",
+      "page": 366,
+      "fmt": "recall",
+      "q": "Which six causes are printed under sinus bradycardia?",
+      "opts": [
+        "Athletes, drugs (digoxin only), ↑ intra cranial tension, hypothermia, anterior wall MI, myxedema",
+        "Athletes, drugs (β blockers, CCB), ↑ intra cranial tension, hypothermia, inferior wall MI, Addison's disease",
+        "Sedentary habit, drugs (β blockers, CCB), ↑ intra cranial tension, hypothermia, inferior wall MI, thyrotoxicosis",
+        "Athletes, drugs (β blockers, CCB), ↑ intra cranial tension, hypothermia, inferior wall MI, myxedema (hypothyroidism)"
+      ],
+      "ans": 3,
+      "exp": "The right column prints athletes, drugs β blockers/CCB, ↑ intra cranial tension, hypothermia, inferior wall MI and myxedema (hypothyroidism). (Book p366)"
+    },
+    {
+      "id": "MED-C60-21",
+      "sec": "Rate: Tachycardia and Bradycardia Causes, Myxedema and Cushing Notes, Relative Bradycardia",
+      "page": 366,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one cause sits in the bradycardia column while the rest are tachycardia causes.",
+      "opts": [
+        "Cardiac tamponade",
+        "Anterior wall MI",
+        "Hypothermia",
+        "High output states"
+      ],
+      "ans": 2,
+      "exp": "Hypothermia is printed under sinus bradycardia; hypovolemia, tamponade, anterior wall MI and high output states are tachycardia causes. (Book p366)"
+    },
+    {
+      "id": "MED-C60-22",
+      "sec": "Rate: Tachycardia and Bradycardia Causes, Myxedema and Cushing Notes, Relative Bradycardia",
+      "page": 366,
+      "fmt": "recall",
+      "q": "Which four features define myxedema coma in the note?",
+      "opts": [
+        "Unconscious, clear sensorium, bradycardia, hypothermia",
+        "Unconscious, altered sensorium, bradycardia, hypothermia",
+        "Conscious, clear sensorium, bradycardia, hyperthermia",
+        "Unconscious, altered sensorium, tachycardia, hypothermia"
+      ],
+      "ans": 1,
+      "exp": "The note prints myxedema coma : unconscious, altered sensorium, bradycardia, hypothermia. (Book p366)"
+    },
+    {
+      "id": "MED-C60-23",
+      "sec": "Rate: Tachycardia and Bradycardia Causes, Myxedema and Cushing Notes, Relative Bradycardia",
+      "page": 366,
+      "fmt": "recall",
+      "q": "What triad is printed for Cushing's reflex?",
+      "opts": [
+        "↓ ICT + tachycardia + hypertension",
+        "↑ ICT + bradycardia + hypotension",
+        "↑ ICT + bradycardia + hypertension",
+        "↑ ICT + tachycardia + hypertension"
+      ],
+      "ans": 2,
+      "exp": "The note prints Cushing's reflex : ↑ ICT + bradycardia + hypertension. (Book p366)"
+    },
+    {
+      "id": "MED-C60-24",
+      "sec": "Rate: Tachycardia and Bradycardia Causes, Myxedema and Cushing Notes, Relative Bradycardia",
+      "page": 366,
+      "fmt": "numeric",
+      "q": "Which temperature–rate pairs are printed for the relative-bradycardia rule?",
+      "opts": [
+        "HR ↑ by 10 beats/min per 1°: 100°F → 100/min, 101°F → 110/min, 102°F → 120/min",
+        "HR ↑ by 15 beats/min per 1°: 101°F → 105/min, 102°F → 120/min, 103°F → 135/min",
+        "HR ↑ by 10 beats/min per 1° rise: 101°F → 100/min, 102°F → 110/min, 103°F → 120/min",
+        "HR ↑ by 20 beats/min per 1°: 101°F → 100/min, 102°F → 120/min, 103°F → 140/min"
+      ],
+      "ans": 2,
+      "exp": "The line prints for every 1° rise in temp HR ↑ by 10 beats/min with 101°F → 100/min, 102°F → 110/min, 103°F → 120/min. (Book p366)"
+    },
+    {
+      "id": "MED-C60-25",
+      "sec": "Rate: Tachycardia and Bradycardia Causes, Myxedema and Cushing Notes, Relative Bradycardia",
+      "page": 366,
+      "fmt": "match",
+      "q": "Match the relative-bradycardia groups — 1) Infectious causes 2) Non-infectious causes 3) Rule out 4) Usually do not cause it … A) Typhoid, Q fever, Legionella B) Drug fever, lymphoma, CNS lesions, factitious fever C) Heart block; drugs β blockers, CCB D) Dengue, malaria, leptospirosis",
+      "opts": [
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-D, 4-C",
+        "1-A, 2-B, 3-C, 4-D"
+      ],
+      "ans": 3,
+      "exp": "The columns print infectious typhoid/Q fever/Legionella, non-infectious drug fever/lymphoma/CNS lesions/factitious fever, rule out heart block and β blockers/CCB, and dengue/malaria/leptospirosis usually do not cause relative bradycardia. (Book p366)"
+    },
+    {
+      "id": "MED-C60-26",
+      "sec": "Rate: Tachycardia and Bradycardia Causes, Myxedema and Cushing Notes, Relative Bradycardia",
+      "page": 366,
+      "fmt": "scenario",
+      "q": "A fever patient at 103°F has a heart rate of only 84/min. Which term and which rule-outs apply?",
+      "opts": [
+        "Relative bradycardia (rise in HR not in correspondence with temperature); rule out heart block and drugs β blockers/CCB",
+        "Relative bradycardia; rule out thyrotoxicosis and anemia",
+        "Absolute bradycardia; rule out athletes and hypothermia",
+        "Relative tachycardia; rule out sepsis and anxiety"
+      ],
+      "ans": 0,
+      "exp": "The page defines relative bradycardia as rise in heart rate not in correspondence with rise in temperature, with rule out heart block and drugs β blockers/CCB. (Book p366)"
+    },
+    {
+      "id": "MED-C60-27",
+      "sec": "Rate: Tachycardia and Bradycardia Causes, Myxedema and Cushing Notes, Relative Bradycardia",
+      "page": 366,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the p366 rate page.",
+      "opts": [
+        "False — dengue and malaria are classic printed causes of relative bradycardia",
+        "False — heart rate rises by 20 beats/min for every 1° rise in temperature",
+        "True — myxedema coma presents with tachycardia and hyperthermia",
+        "True — Cushing's reflex is ↑ ICT + bradycardia + hypertension"
+      ],
+      "ans": 3,
+      "exp": "Cushing's reflex triad is printed; myxedema coma is bradycardic and hypothermic; dengue, malaria and leptospirosis usually do not cause relative bradycardia; the rule is 10 beats/min per 1°. (Book p366)"
+    },
+    {
+      "id": "MED-C60-28",
+      "sec": "Rhythm Tree, Hyperkinetic Pulse Notes and the Collapsing-versus-Pseudocollapsing Table",
+      "page": 367,
+      "fmt": "match",
+      "q": "Match the rhythm tree — 1) Regular (rapid regular pulse) 2) Irregularly irregular 3) Regularly irregular … A) SVT and VT B) AF, atrial flutter, SVT with varying conduction C) Ventricular premature contractions (VPCs)",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 1,
+      "exp": "The tree prints regular with SVT/VT, irregularly irregular with AF/atrial flutter/SVT with varying conduction and regularly irregular with VPCs. (Book p367)"
+    },
+    {
+      "id": "MED-C60-29",
+      "sec": "Rhythm Tree, Hyperkinetic Pulse Notes and the Collapsing-versus-Pseudocollapsing Table",
+      "page": 367,
+      "fmt": "recall",
+      "q": "Which definition is printed for the hyperkinetic pulse?",
+      "opts": [
+        "Normal amplitude pulse with ↑ HR only",
+        "High amplitude pulse with ↑ S.V → ↓ CO",
+        "High amplitude/high volume pulse with ↑ S.V → ↑ CO",
+        "High amplitude pulse with ↓ S.V → ↑ CO"
+      ],
+      "ans": 2,
+      "exp": "The bullet prints high amplitude/high volume pulse : ↑ S.V → ↑ CO. (Book p367)"
+    },
+    {
+      "id": "MED-C60-30",
+      "sec": "Rhythm Tree, Hyperkinetic Pulse Notes and the Collapsing-versus-Pseudocollapsing Table",
+      "page": 367,
+      "fmt": "recall",
+      "q": "What is printed about the elderly hyperkinetic pulse?",
+      "opts": [
+        "Rigid vessel → SV increases and volume is low",
+        "Rigid vessel → SV does not increase and volume is low",
+        "Rigid atherosclerotic vessel → SV does not increase, yet volume is high d/t non distensibility",
+        "Compliant vessel → SV does not increase and volume is high"
+      ],
+      "ans": 2,
+      "exp": "The elderly bullets print rigid atherosclerotic vessel → SV does not increase and volume high (d/t non distensibility). (Book p367)"
+    },
+    {
+      "id": "MED-C60-31",
+      "sec": "Rhythm Tree, Hyperkinetic Pulse Notes and the Collapsing-versus-Pseudocollapsing Table",
+      "page": 367,
+      "fmt": "recall",
+      "q": "Which effect of ↓ PVR is printed?",
+      "opts": [
+        "↓ PVR (to maintain BP) → dicrotic wave becomes less prominent",
+        "↓ PVR (to raise BP) → tidal wave doubles",
+        "↑ PVR (to maintain BP) → dicrotic wave disappears",
+        "↓ PVR (to maintain BP) → percussion wave disappears"
+      ],
+      "ans": 0,
+      "exp": "The bullet prints ↓ PVR (to maintain BP) → dicrotic wave becomes less prominent. (Book p367)"
+    },
+    {
+      "id": "MED-C60-32",
+      "sec": "Rhythm Tree, Hyperkinetic Pulse Notes and the Collapsing-versus-Pseudocollapsing Table",
+      "page": 367,
+      "fmt": "recall",
+      "q": "Which condition has ↓ CO but ↑ amplitude, and why?",
+      "opts": [
+        "Atrial fibrillation, because CO = SV ↓ × HR ↓",
+        "Cardiac tamponade, because CO = SV ↑ × HR ↑",
+        "Severe AR, because CO = SV ↑ × HR ↑",
+        "Complete heart block, because CO = SV ↑ × HR ↓"
+      ],
+      "ans": 3,
+      "exp": "The bullet prints condition with ↓ CO but ↑ amplitude : complete heart block (CO = SV ↑ × HR ↓). (Book p367)"
+    },
+    {
+      "id": "MED-C60-33",
+      "sec": "Rhythm Tree, Hyperkinetic Pulse Notes and the Collapsing-versus-Pseudocollapsing Table",
+      "page": 367,
+      "fmt": "match",
+      "q": "Match the pulse-comparison cells — 1) Collapsing peak 2) Pseudocollapsing peak 3) Collapsing volume 4) Pseudocollapsing volume … A) Ill sustained peak B) Well sustained apex (as printed on p367) C) High volume D) Normal volume",
+      "opts": [
+        "1-C, 2-D, 3-A, 4-B",
+        "1-A, 2-B, 3-D, 4-C",
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-C, 4-D"
+      ],
+      "ans": 3,
+      "exp": "The table prints ill sustained peak and high volume for Corrigan's/water hammer/collapsing against well sustained apex (as printed) and normal volume for pseudocollapsing. (Book p367)"
+    },
+    {
+      "id": "MED-C60-34",
+      "sec": "Rhythm Tree, Hyperkinetic Pulse Notes and the Collapsing-versus-Pseudocollapsing Table",
+      "page": 367,
+      "fmt": "recall",
+      "q": "Which causes are printed for the collapsing and pseudocollapsing pulses?",
+      "opts": [
+        "Collapsing: conditions with 2 outlets — AR, sinus rupture, AP window, PDA; pseudocollapsing: seen in aortic stenosis",
+        "Collapsing: high-output states only; pseudocollapsing: mitral stenosis",
+        "Collapsing: conditions with 2 outlets — MR, sinus rupture, AP window, PDA; pseudocollapsing: seen in AR",
+        "Collapsing: conditions with 2 outlets — aortic regurgitation, aortic sinus rupture, aorto pulmonary window, persistent ductus arteriosus; pseudocollapsing: seen in mitral regurgitation"
+      ],
+      "ans": 3,
+      "exp": "The causes row prints conditions with 2 outlets (AR, aortic sinus rupture, aorto pulmonary window, persistent ductus arteriosus) and pseudocollapsing seen in mitral regurgitation. (Book p367)"
+    },
+    {
+      "id": "MED-C60-35",
+      "sec": "Rhythm Tree, Hyperkinetic Pulse Notes and the Collapsing-versus-Pseudocollapsing Table",
+      "page": 367,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the p367 amplitude page.",
+      "opts": [
+        "False — collapsing pulse causes include mitral regurgitation as a two-outlet condition",
+        "False — pseudocollapsing pulse is seen in aortic regurgitation with high volume",
+        "True — complete heart block has ↓ CO yet ↑ amplitude because CO = SV ↑ × HR ↓",
+        "True — the elderly hyperkinetic pulse has a genuinely increased stroke volume"
+      ],
+      "ans": 2,
+      "exp": "Complete heart block's CO = SV ↑ × HR ↓ is printed; elderly SV does not increase; pseudocollapsing (normal volume) is MR; the two-outlet list is AR, sinus rupture, AP window and PDA. (Book p367)"
+    },
+    {
+      "id": "MED-C60-36",
+      "sec": "Hypokinetic Pulse, Pulsus Tardus versus Parvus et Tardus and the Bisferiens-versus-Dicroticus Table",
+      "page": 368,
+      "fmt": "recall",
+      "q": "Which chain defines the hypokinetic pulse?",
+      "opts": [
+        "↓ Amplitude → ↓ S.V (LV dysfunction)",
+        "↓ Amplitude → ↓ S.V (RV dysfunction)",
+        "↑ Amplitude → ↓ S.V (LV dysfunction)",
+        "↓ Amplitude → ↑ S.V (RV dysfunction)"
+      ],
+      "ans": 0,
+      "exp": "The line prints ↓ amplitude → ↓ S.V (LV dysfunction). (Book p368)"
+    },
+    {
+      "id": "MED-C60-37",
+      "sec": "Hypokinetic Pulse, Pulsus Tardus versus Parvus et Tardus and the Bisferiens-versus-Dicroticus Table",
+      "page": 368,
+      "fmt": "match",
+      "q": "Match the two hypokinetic variants — 1) Pulsus tardus 2) Pulsus parvus et tardus … A) Will reach desired amplitude in time; seen in severe AS B) Will not reach desired amplitude; seen in very severe AS",
+      "opts": [
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Pulsus tardus will reach desired amplitude in time (severe AS); pulsus parvus et tardus will not (very severe AS). (Book p368)"
+    },
+    {
+      "id": "MED-C60-38",
+      "sec": "Hypokinetic Pulse, Pulsus Tardus versus Parvus et Tardus and the Bisferiens-versus-Dicroticus Table",
+      "page": 368,
+      "fmt": "match",
+      "q": "Match the waveform rows — 1) Pulsus bisferiens 2) Pulsus dicroticus … A) 2 peaks in systole B) 1 peak in systole and 1 peak in diastole",
+      "opts": [
+        "1-B, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-A",
+        "1-A, 2-B"
+      ],
+      "ans": 3,
+      "exp": "The wave form row prints 2 peaks in systole for bisferiens and 1 peak in systole + 1 peak in diastole for dicroticus. (Book p368)"
+    },
+    {
+      "id": "MED-C60-39",
+      "sec": "Hypokinetic Pulse, Pulsus Tardus versus Parvus et Tardus and the Bisferiens-versus-Dicroticus Table",
+      "page": 368,
+      "fmt": "match",
+      "q": "Match the printed P/T notations of bisferiens causes — 1) Severe AR 2) HCM … A) P = T and T > P B) P > T",
+      "opts": [
+        "1-B, 2-A",
+        "1-B, 2-B",
+        "1-A, 2-A",
+        "1-A, 2-B"
+      ],
+      "ans": 3,
+      "exp": "The causes cell prints severe AR (P = T, T > P), AR with mild AS and hypertrophic cardiomyopathy (P > T). (Book p368)"
+    },
+    {
+      "id": "MED-C60-40",
+      "sec": "Hypokinetic Pulse, Pulsus Tardus versus Parvus et Tardus and the Bisferiens-versus-Dicroticus Table",
+      "page": 368,
+      "fmt": "recall",
+      "q": "Which mechanism chain is printed for bisferiens pulses?",
+      "opts": [
+        "AR → ↑ SV → large amplitude wave → P & T both prominent; AS+AR → ↓ velocity → ↓ lateral pressure; HCM → posterior motion",
+        "AS → ↑ SV → large amplitude wave → P & T both prominent; AR → venturi effect; HCM → SAM",
+        "AR → ↑ SV → large amplitude pressure pulse wave → P & T both prominent; AS+AR → ↑ velocity of turbulent flow d/t stenosis → ↓ lateral pressure in aorta d/t venturi effect; HCM → systolic anterior motion (SAM)",
+        "AR → ↑ SV → large amplitude wave → P only prominent; AS+AR → ↑ velocity → ↑ lateral pressure d/t venturi effect; HCM → SAM"
+      ],
+      "ans": 2,
+      "exp": "The mechanism cell prints the AR ↑ SV chain with P & T both prominent, the AS+AR turbulent-flow/venturi chain and HCM → SAM. (Book p368)"
+    },
+    {
+      "id": "MED-C60-41",
+      "sec": "Hypokinetic Pulse, Pulsus Tardus versus Parvus et Tardus and the Bisferiens-versus-Dicroticus Table",
+      "page": 368,
+      "fmt": "match",
+      "q": "Match the dicroticus and palpation cells — 1) Pulsus dicroticus cause 2) Its mechanism chain 3) Bisferiens palpation … A) LV failure B) LVF → ↓ CO → ↑ PR C) Radial more preferred",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 2,
+      "exp": "The dicroticus column prints LV failure with LVF → ↓ CO → ↑ PR; the palpation row prints radial more preferred for bisferiens and – for dicroticus. (Book p368)"
+    },
+    {
+      "id": "MED-C60-42",
+      "sec": "Hypokinetic Pulse, Pulsus Tardus versus Parvus et Tardus and the Bisferiens-versus-Dicroticus Table",
+      "page": 368,
+      "fmt": "numeric",
+      "q": "Which interval values are printed on the pulsus dicroticus tracing panel?",
+      "opts": [
+        "QS2 = 280, LVET = 190, PEP = 190",
+        "QS2 = 280, LVET = 190, PEP = 90",
+        "QS2 = 90, LVET = 190, PEP = 280",
+        "QS2 = 280, LVET = 90, PEP = 190"
+      ],
+      "ans": 1,
+      "exp": "Panel A prints QS2 = 280, LVET = 190 and PEP = 90 above the carotid trace with D and DN labels. (Book p368)"
+    },
+    {
+      "id": "MED-C60-43",
+      "sec": "Hypokinetic Pulse, Pulsus Tardus versus Parvus et Tardus and the Bisferiens-versus-Dicroticus Table",
+      "page": 368,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the p368 character table.",
+      "opts": [
+        "False — pulsus parvus et tardus is seen in mild AS",
+        "True — pulsus tardus reaches the desired amplitude in time and is seen in severe AS",
+        "False — bisferiens is best palpated at the femoral artery",
+        "True — pulsus dicroticus shows two peaks within systole"
+      ],
+      "ans": 1,
+      "exp": "Tardus reaches amplitude in time (severe AS) while parvus et tardus does not (very severe AS); dicroticus has one systolic and one diastolic peak; palpation prefers radial. (Book p368)"
+    },
+    {
+      "id": "MED-C60-44",
+      "sec": "Alternans versus Bigeminus, Post-Extrasystole Pulse Volume, Pulsus Paradoxus and Its Reverse",
+      "page": 369,
+      "fmt": "match",
+      "q": "Match the alternans-versus-bigeminus cells — 1) Alternans character 2) Bigeminus character 3) Alternans mechanism 4) Alternans rhythm 5) Bigeminus rhythm … A) Alternating high & low volume pulse (alternating SV) B) Normal beat alternates with premature contractions C) Ca2+ uptake and release fluctuates alternately D) Regular E) Regularly irregular",
+      "opts": [
+        "1-E, 2-D, 3-C, 4-B, 5-A",
+        "1-B, 2-A, 3-C, 4-D, 5-E",
+        "1-A, 2-B, 3-C, 4-E, 5-D",
+        "1-A, 2-B, 3-C, 4-D, 5-E"
+      ],
+      "ans": 3,
+      "exp": "The table prints alternating high & low volume (alternating SV) vs normal beat with premature contractions, Ca2+ fluctuation mechanism, rhythm regular vs regularly irregular. (Book p369)"
+    },
+    {
+      "id": "MED-C60-45",
+      "sec": "Alternans versus Bigeminus, Post-Extrasystole Pulse Volume, Pulsus Paradoxus and Its Reverse",
+      "page": 369,
+      "fmt": "recall",
+      "q": "Which mechanism chain is printed for pulsus bigeminus?",
+      "opts": [
+        "SV of PMB diminished → compensatory tachycardia → ↓ filling → ↓ volume",
+        "SV of sinus beat diminished → post PMB pause → ↓ diastolic filling → ↑ pulse volume",
+        "SV of PMB diminished → post PMB pause → ↑ systolic ejection → ↓ pulse volume",
+        "SV of premature beat (PMB) diminished → post PMB pause → ↑ diastolic filling → ↑ pulse volume in next beat"
+      ],
+      "ans": 3,
+      "exp": "The mechanism cell prints SV of PMB diminished → post PMB pause → ↑ diastolic filling → ↑ pulse volume in next beat. (Book p369)"
+    },
+    {
+      "id": "MED-C60-46",
+      "sec": "Alternans versus Bigeminus, Post-Extrasystole Pulse Volume, Pulsus Paradoxus and Its Reverse",
+      "page": 369,
+      "fmt": "recall",
+      "q": "What is post extra systole pulse volume used for?",
+      "opts": [
+        "To grade MR severity",
+        "To detect atrial fibrillation",
+        "To separate tamponade from CCP",
+        "To differentiate between mitral valve prolapse (MVP) and HCM"
+      ],
+      "ans": 3,
+      "exp": "The bullet prints post extra systole pulse volume used to differentiate between MVP and HCM. (Book p369)"
+    },
+    {
+      "id": "MED-C60-47",
+      "sec": "Alternans versus Bigeminus, Post-Extrasystole Pulse Volume, Pulsus Paradoxus and Its Reverse",
+      "page": 369,
+      "fmt": "match",
+      "q": "Match the post-VPC arms — 1) MVP 2) HCM … A) ↑ (↑ filling → ↑ SV → ↑ SBP, ↑ pulse volume) B) ↓ (Brockenbrough sign): ↑ filling → ↑ gradient/worsen SAM → ↓ CO, ↓ pulse volume, ↑ duration & intensity of murmur",
+      "opts": [
+        "1-A, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-B",
+        "1-B, 2-A"
+      ],
+      "ans": 1,
+      "exp": "The tree prints MVP ↑ (↑ filling → ↑ SV → ↑ SBP, ↑ pulse volume) and HCM ↓ (Brockenbrough sign) with the gradient/SAM chain. (Book p369)"
+    },
+    {
+      "id": "MED-C60-48",
+      "sec": "Alternans versus Bigeminus, Post-Extrasystole Pulse Volume, Pulsus Paradoxus and Its Reverse",
+      "page": 369,
+      "fmt": "numeric",
+      "q": "What threshold defines pulsus paradoxus on p369?",
+      "opts": [
+        "Systolic BP rises by >10 mmHg during inspiration",
+        "Systolic BP falls by >10 mmHg during inspiration",
+        "Diastolic BP falls by >10 mmHg during inspiration",
+        "Systolic BP falls by >5 mmHg during inspiration"
+      ],
+      "ans": 1,
+      "exp": "The bullet prints systolic BP falls by >10 mmHg during inspiration. (Book p369)"
+    },
+    {
+      "id": "MED-C60-49",
+      "sec": "Alternans versus Bigeminus, Post-Extrasystole Pulse Volume, Pulsus Paradoxus and Its Reverse",
+      "page": 369,
+      "fmt": "recall",
+      "q": "Which five causes of pulsus paradoxus are printed?",
+      "opts": [
+        "Cardiac tamponade, 1/3rd CCP cases, COPD, pulmonary fibrosis, SVC obstruction",
+        "Tamponade, RCM, COPD, PE, SVC obstruction (↓ venous return)",
+        "Cardiac tamponade, all CCP cases, asthma, pulmonary embolism, IVC obstruction",
+        "Cardiac tamponade, 1/3rd cases of chronic constrictive pericarditis, COPD (d/t vascular expansion, more blood in lungs), pulmonary embolism, SVC obstruction (↓ venous return)"
+      ],
+      "ans": 3,
+      "exp": "The cause list prints tamponade, 1/3rd cases of CCP, COPD (vascular expansion, more blood in lungs), pulmonary embolism and SVC obstruction (↓ venous return). (Book p369)"
+    },
+    {
+      "id": "MED-C60-50",
+      "sec": "Alternans versus Bigeminus, Post-Extrasystole Pulse Volume, Pulsus Paradoxus and Its Reverse",
+      "page": 369,
+      "fmt": "recall",
+      "q": "Which pulse and which reverse causes are printed?",
+      "opts": [
+        "Radial pulse for palpation; reverse paradoxus from IPPV in LV failure, isorhythmic AV dissociation and HCM",
+        "Femoral pulse for palpation; reverse pulsus paradoxus (systolic BP ↑ with inspiration) from IPPV in LV failure, isorhythmic AV dissociation and HCM",
+        "Femoral pulse for palpation; reverse paradoxus from IPPV in LV failure, isorhythmic AV dissociation and AR",
+        "Carotid pulse for palpation; reverse paradoxus from IPPV in LV failure, complete AV dissociation and HCM"
+      ],
+      "ans": 1,
+      "exp": "The page prints femoral pulse for palpation, then reverse pulsus paradoxus (systolic BP ↑ with inspiration) with IPPV in LV failure, isorhythmic AV dissociation and HCM. (Book p369)"
+    },
+    {
+      "id": "MED-C60-51",
+      "sec": "Alternans versus Bigeminus, Post-Extrasystole Pulse Volume, Pulsus Paradoxus and Its Reverse",
+      "page": 369,
+      "fmt": "fillup",
+      "q": "For palpation during pulsus paradoxus assessment the printed pulse is the ____ pulse.",
+      "opts": [
+        "radial",
+        "carotid",
+        "brachial",
+        "femoral"
+      ],
+      "ans": 3,
+      "exp": "The bullet under the paradoxus causes prints femoral pulse for palpation. (Book p369)"
+    },
+    {
+      "id": "MED-C60-52",
+      "sec": "Alternans versus Bigeminus, Post-Extrasystole Pulse Volume, Pulsus Paradoxus and Its Reverse",
+      "page": 369,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one item is not a printed cause of pulsus paradoxus.",
+      "opts": [
+        "COPD (vascular expansion, more blood in lungs)",
+        "SVC obstruction (↓ venous return)",
+        "Aortic stenosis",
+        "1/3rd cases of chronic constrictive pericarditis"
+      ],
+      "ans": 2,
+      "exp": "The printed causes are tamponade, 1/3rd CCP, COPD, pulmonary embolism and SVC obstruction; aortic stenosis is not listed. (Book p369)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U60-1",
+      "ch": 60,
+      "n": 1,
+      "title": "Pulse-versus-JVP Indicators, Arterial Pulse Introduction, Waveform Letters and Pulse Apex Deficit",
+      "sec": "Pulse-versus-JVP Indicators, Arterial Pulse Introduction, Waveform Letters and Pulse Apex Deficit",
+      "guide": "Pulse indicates left-sided ejection while JVP indicates right-sided filling (p364). The arterial pulse is a pressure wave originating in the aorta d/t LV systolic ejection, travelling at 5 m/s (faster than the 50 cm/s blood column); it indicates LV performance and the vascular reaction, with character/contour best felt at carotids.\nWaveform: P percussion (SV/LV contraction), T tidal (aortic recoil), D dicrotic (reflected wave from PVR), DN dicrotic notch (S2). LV markers: ↑ SV gives sharper upstroke + higher peak; ↑ ejection velocity sharper upstroke + earlier peak. Pulse apex deficit: supine, neck turned to palpation side, carotid palpated while auscultating; > 10 means atrial fibrillation.",
+      "qs": [
+        "MED-C60-01",
+        "MED-C60-02",
+        "MED-C60-03",
+        "MED-C60-04",
+        "MED-C60-05",
+        "MED-C60-06",
+        "MED-C60-07",
+        "MED-C60-08",
+        "MED-C60-09",
+        "MED-C60-10"
+      ]
+    },
+    {
+      "id": "MED-U60-2",
+      "ch": 60,
+      "n": 2,
+      "title": "Brachiofemoral Delay, Coarctation Captions, Central-to-Periphery Changes and Assessment Features",
+      "sec": "Brachiofemoral Delay, Coarctation Captions, Central-to-Periphery Changes and Assessment Features",
+      "guide": "Normal delays: carotid 30 ms, brachial 60 ms, radial 80 ms, femoral 75 ms; exaggerated delay = coarctation of aorta, whose captions are LVH on ECG, 3 sign on CXR, coarctation in cardiac MRI and serrated flow on continuous wave doppler (p365). Central→periphery: upstrokes steeper; ↓ peripheral resistance smooths the dicrotic notch and makes the dicrotic wave less prominent.\nAssessment features: rate, rhythm, volume, character, vessel wall, peripheral pulses, radiofemoral delay.",
+      "qs": [
+        "MED-C60-11",
+        "MED-C60-12",
+        "MED-C60-13",
+        "MED-C60-14",
+        "MED-C60-15",
+        "MED-C60-16",
+        "MED-C60-17",
+        "MED-C60-18"
+      ]
+    },
+    {
+      "id": "MED-U60-3",
+      "ch": 60,
+      "n": 3,
+      "title": "Rate: Tachycardia and Bradycardia Causes, Myxedema and Cushing Notes, Relative Bradycardia",
+      "sec": "Rate: Tachycardia and Bradycardia Causes, Myxedema and Cushing Notes, Relative Bradycardia",
+      "guide": "Sinus tachycardia: fever (infection), anxiety, exercise, high output states, hypovolemia, myocarditis, anterior wall MI, cardiac tamponade, cardiogenic shock. Sinus bradycardia: athletes, β blockers/CCB, ↑ ICT, hypothermia, inferior wall MI, myxedema (p366). Myxedema coma = unconscious, altered sensorium, bradycardia, hypothermia; Cushing's reflex = ↑ ICT + bradycardia + hypertension.\nRelative bradycardia: HR rise not corresponding to temperature (10 beats/min per 1°; 101°F→100, 102°F→110, 103°F→120); infectious typhoid/Q fever/Legionella, non-infectious drug fever/lymphoma/CNS lesions/factitious fever; rule out heart block and β blockers/CCB; dengue, malaria, leptospirosis usually do not cause it.",
+      "qs": [
+        "MED-C60-19",
+        "MED-C60-20",
+        "MED-C60-21",
+        "MED-C60-22",
+        "MED-C60-23",
+        "MED-C60-24",
+        "MED-C60-25",
+        "MED-C60-26",
+        "MED-C60-27"
+      ]
+    },
+    {
+      "id": "MED-U60-4",
+      "ch": 60,
+      "n": 4,
+      "title": "Rhythm Tree, Hyperkinetic Pulse Notes and the Collapsing-versus-Pseudocollapsing Table",
+      "sec": "Rhythm Tree, Hyperkinetic Pulse Notes and the Collapsing-versus-Pseudocollapsing Table",
+      "guide": "Rhythm: regular rapid = SVT/VT; irregularly irregular = AF, atrial flutter, SVT with varying conduction; regularly irregular = VPCs (p367). Hyperkinetic = high amplitude/volume with ↑ SV → ↑ CO; elderly rigid vessel means SV does not increase yet volume is high d/t non-distensibility; ↓ PVR makes the dicrotic wave less prominent; complete heart block has ↓ CO but ↑ amplitude (CO = SV ↑ × HR ↓).\nCollapsing (Corrigan's/water hammer): rapid up/downstroke, ill sustained peak, high volume, from two-outlet conditions (AR, aortic sinus rupture, aorto-pulmonary window, PDA); pseudocollapsing: well sustained apex (as printed), normal volume, seen in MR.",
+      "qs": [
+        "MED-C60-28",
+        "MED-C60-29",
+        "MED-C60-30",
+        "MED-C60-31",
+        "MED-C60-32",
+        "MED-C60-33",
+        "MED-C60-34",
+        "MED-C60-35"
+      ]
+    },
+    {
+      "id": "MED-U60-5",
+      "ch": 60,
+      "n": 5,
+      "title": "Hypokinetic Pulse, Pulsus Tardus versus Parvus et Tardus and the Bisferiens-versus-Dicroticus Table",
+      "sec": "Hypokinetic Pulse, Pulsus Tardus versus Parvus et Tardus and the Bisferiens-versus-Dicroticus Table",
+      "guide": "Hypokinetic = ↓ amplitude → ↓ SV (LV dysfunction); pulsus tardus reaches desired amplitude in time (severe AS) while parvus et tardus does not (very severe AS) (p368). Bisferiens = 2 systolic peaks (severe AR with P = T and T > P, AR with mild AS, HCM with P > T); mechanism: AR ↑ SV → large amplitude wave with P & T prominent; AS+AR ↑ turbulent velocity → ↓ lateral aortic pressure (venturi); HCM → SAM; palpation radial preferred.\nDicroticus = 1 systolic + 1 diastolic peak in LV failure (LVF → ↓ CO → ↑ PR); tracing panel prints QS2 = 280, LVET = 190, PEP = 90.",
+      "qs": [
+        "MED-C60-36",
+        "MED-C60-37",
+        "MED-C60-38",
+        "MED-C60-39",
+        "MED-C60-40",
+        "MED-C60-41",
+        "MED-C60-42",
+        "MED-C60-43"
+      ]
+    },
+    {
+      "id": "MED-U60-6",
+      "ch": 60,
+      "n": 6,
+      "title": "Alternans versus Bigeminus, Post-Extrasystole Pulse Volume, Pulsus Paradoxus and Its Reverse",
+      "sec": "Alternans versus Bigeminus, Post-Extrasystole Pulse Volume, Pulsus Paradoxus and Its Reverse",
+      "guide": "Alternans = alternating high & low volume (alternating SV) with fluctuating Ca2+ uptake/release, rhythm regular; bigeminus = normal beat alternating with premature contractions (PMB SV diminished → pause → ↑ filling → ↑ next volume), rhythm regularly irregular (p369). Post-extra-systole pulse volume separates MVP (↑: ↑ filling → ↑ SV → ↑ SBP/volume) from HCM (↓, Brockenbrough sign: ↑ gradient/worsen SAM → ↓ CO/volume, ↑ murmur duration & intensity).\nPulsus paradoxus = systolic BP fall >10 mmHg in inspiration: tamponade, 1/3rd CCP, COPD, PE, SVC obstruction; femoral pulse for palpation. Reverse paradoxus (SBP ↑ with inspiration): IPPV in LV failure, isorhythmic AV dissociation, HCM.",
+      "qs": [
+        "MED-C60-44",
+        "MED-C60-45",
+        "MED-C60-46",
+        "MED-C60-47",
+        "MED-C60-48",
+        "MED-C60-49",
+        "MED-C60-50",
+        "MED-C60-51",
+        "MED-C60-52"
+      ]
+    }
+  ]
+}

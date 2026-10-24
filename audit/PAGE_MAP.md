@@ -14,6 +14,7 @@ The audited run through Chapter 28 (p1–168) continues 02.pdf PDF23–51 (p140�
 The audited run through Chapter 33 (p1–205) continues 02.pdf PDF52–88 (p169–205). It is the longest run in the book and spans the end of the Hematology section into Pulmonology (Book p185 is the first Pulmonology page).
 The audited run through Chapter 38 (p1–235) continues 02.pdf PDF89–118 (p206–235): Venous Thromboembolism, Pulmonary Hypertension, Bronchiectasis, Occupational Lung Diseases and Respiratory Failure/ARDS.
 The audited run through Chapter 56 (p1–345) continues 02.pdf PDF119–130 (p236–247) and 03.pdf PDF1–98 (p248–345): Interstitial Lung Disease, Bronchial Asthma (straddling the 02.pdf/03.pdf seam at p248), Pulmonary Eosinophilia, Allergic Bronchopulmonary Aspergillosis, Hypersensitivity Pneumonitis, Pleural Effusion, OSAS, COPD, CAP, atypical pneumonia, the cardiac-cycle/heart-sound chapters, aortic valve disease, heart failure and both cardiomyopathy chapters. The p307/p313/p318/p326/p331/p336 chapter boundaries were visually checked.
+The audited run through Chapter 61 (p1–375, the end of the book) continues 03.pdf PDF99–128 (p346–375): Mitral Regurgitation, Mitral Stenosis, CCP/CT/RCM and Acute Pericarditis, Pulse and Jugular Venous Pulse (JVP). Every sheet was rendered at 2.0x and read line-to-line, with 4x crops for the p349 Venn diagram, p350/p370 neck and heart figures, p352 valve diagram, p357 balloon-valvotomy figure, p364–369 waveform letters and pulse tables, p371 two-scale JVP measurement and p373–375 JVP traces; handwritten numerals (p348 EF, p366 temperature–pulse pairs, p371 AJR table) were confirmed by crop. The p346/p352/p358/p364/p370 chapter boundaries were visually checked.
 
 ## Chapter sheet coverage verified (01.pdf, 02.pdf & 03.pdf)
 
@@ -75,6 +76,11 @@ The audited run through Chapter 56 (p1–345) continues 02.pdf PDF119–130 (p23
 | 54 | Acute Decompensated Heart Failure | 326–330 | 03.pdf PDF79–83 |
 | 55 | Cardiomyopathy : Part 1 | 331–335 | 03.pdf PDF84–88 |
 | 56 | Cardiomyopathy : Part 2 | 336–345 | 03.pdf PDF89–98 |
+| 57 | Mitral Regurgitation | 346–351 | 03.pdf PDF99–104 |
+| 58 | Mitral Stenosis | 352–357 | 03.pdf PDF105–110 |
+| 59 | CCP, CT, RCM and Acute Pericarditis | 358–363 | 03.pdf PDF111–116 |
+| 60 | Pulse | 364–369 | 03.pdf PDF117–122 |
+| 61 | Jugular Venous Pulse (JVP) | 370–375 | 03.pdf PDF123–128 |
 | 57 (next) | Mitral Regurgitation | 346 | 03.pdf PDF99 |
 
 Note (Ch 20): the Contents pages print 118, but the scanned heading "MYELOPROLIFERATIVE NEOPLASMS : PART 2"
