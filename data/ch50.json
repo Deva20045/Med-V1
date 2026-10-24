@@ -1,0 +1,753 @@
+{
+  "chapter": 50,
+  "title": "Added Heart Sounds",
+  "pageRange": "303-306",
+  "questions": [
+    {
+      "id": "MED-C50-01",
+      "sec": "The Diastolic Continuation from Protodiastole to Atrial Systole, the O-P-Time-S3-S4 Sequence, Early, Mid and Late Diastolic Position, and S3 with Its Three Mechanisms and Four Valve Lesions",
+      "page": 303,
+      "fmt": "recall",
+      "q": "Which sequence continues the cardiac cycle at the top of page 303?",
+      "opts": [
+        "Protodiastole → semilunar valves closed → isovolumetric relaxation → AV valves closed → rapid filling → reduced filling → atrial systole",
+        "Protodiastole → semilunar valves closed → isovolumetric relaxation → AV valves open → rapid filling → reduced filling → atrial systole",
+        "Protodiastole → semilunar valves open → isovolumetric contraction → AV valves open → rapid filling → reduced filling → atrial systole",
+        "Protodiastole → AV valves closed → isovolumetric relaxation → semilunar valves open → rapid filling → reduced filling → atrial systole"
+      ],
+      "ans": 1,
+      "exp": "The row reads protodiastole, semilunar valves closed, isovolumetric relaxation, AV valves open, rapid filling, reduced filling and atrial systole, with 70% passive and 30% active filling bracketed beneath. (Book p303)"
+    },
+    {
+      "id": "MED-C50-02",
+      "sec": "The Diastolic Continuation from Protodiastole to Atrial Systole, the O-P-Time-S3-S4 Sequence, Early, Mid and Late Diastolic Position, and S3 with Its Three Mechanisms and Four Valve Lesions",
+      "page": 303,
+      "fmt": "numeric",
+      "q": "Which filling percentages are printed beneath the rapid and atrial phases on page 303?",
+      "opts": [
+        "70% filling (passive) and 40% filling (active)",
+        "50% filling (passive) and 50% filling (active)",
+        "70% filling (passive) and 30% filling (active)",
+        "30% filling (passive) and 70% filling (active)"
+      ],
+      "ans": 2,
+      "exp": "The brackets read '70% filling (Passive)' under rapid and reduced filling and '30% filling (Active)' under atrial systole. (Book p303)"
+    },
+    {
+      "id": "MED-C50-03",
+      "sec": "The Diastolic Continuation from Protodiastole to Atrial Systole, the O-P-Time-S3-S4 Sequence, Early, Mid and Late Diastolic Position, and S3 with Its Three Mechanisms and Four Valve Lesions",
+      "page": 303,
+      "fmt": "match",
+      "q": "Match each diastolic sound to its printed position — 1) Opening snap, pericardial knock and tumour plop 2) S3 3) S4 … A) Late diastolic B) Early diastolic sounds C) Mid diastolic",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "The sequence line places opening snap (O), pericardial knock (P) and tumour plop together as early diastolic sounds, S3 as mid diastolic and S4 as late diastolic. (Book p303)"
+    },
+    {
+      "id": "MED-C50-04",
+      "sec": "The Diastolic Continuation from Protodiastole to Atrial Systole, the O-P-Time-S3-S4 Sequence, Early, Mid and Late Diastolic Position, and S3 with Its Three Mechanisms and Four Valve Lesions",
+      "page": 303,
+      "fmt": "fillup",
+      "q": "The three low pitched added sounds printed on page 303 are S3, S4 and ______.",
+      "opts": [
+        "ejection click",
+        "pericardial knock",
+        "opening snap",
+        "tumor plop"
+      ],
+      "ans": 3,
+      "exp": "The line reads 'Low pitched sounds: S3, S4 & tumor plop', separating them from the higher-pitched opening snap and knock discussed later. (Book p303)"
+    },
+    {
+      "id": "MED-C50-05",
+      "sec": "The Diastolic Continuation from Protodiastole to Atrial Systole, the O-P-Time-S3-S4 Sequence, Early, Mid and Late Diastolic Position, and S3 with Its Three Mechanisms and Four Valve Lesions",
+      "page": 303,
+      "fmt": "recall",
+      "q": "Which other names are printed for S3, and in which phase is it seen?",
+      "opts": [
+        "Ventricular or presystolic gallop rhythm, seen in the reduced filling phase",
+        "Ventricular or protodiastolic gallop rhythm, seen in the rapid filling phase",
+        "Atrial or presystolic gallop rhythm, seen in atrial systole",
+        "Atrial or protodiastolic gallop rhythm, seen in the rapid filling phase"
+      ],
+      "ans": 1,
+      "exp": "The S3 block reads 'AKA ventricular/protodiastolic gallop rhythm' and 'Seen in rapid filling phase', with the pre-requisite of a non-stenosed AV valve. (Book p303)"
+    },
+    {
+      "id": "MED-C50-06",
+      "sec": "The Diastolic Continuation from Protodiastole to Atrial Systole, the O-P-Time-S3-S4 Sequence, Early, Mid and Late Diastolic Position, and S3 with Its Three Mechanisms and Four Valve Lesions",
+      "page": 303,
+      "fmt": "recall",
+      "q": "What is the pre-requisite for S3, and which two valve lesions are therefore excluded?",
+      "opts": [
+        "A non-stenosed AV valve, excluding MS and TS",
+        "A stenosed AV valve, excluding MR and AR",
+        "A non-stenosed AV valve, excluding MR and AR",
+        "A non-stenosed semilunar valve, excluding AS and PS"
+      ],
+      "ans": 0,
+      "exp": "The line reads 'Pre-requisite: Non-stenosed AV valve (Not seen in MS & TS)', the stenotic valve preventing the rapid filling that generates S3. (Book p303)"
+    },
+    {
+      "id": "MED-C50-07",
+      "sec": "The Diastolic Continuation from Protodiastole to Atrial Systole, the O-P-Time-S3-S4 Sequence, Early, Mid and Late Diastolic Position, and S3 with Its Three Mechanisms and Four Valve Lesions",
+      "page": 303,
+      "fmt": "match",
+      "q": "Match each S3 mechanism to its printed setting — 1) Physiological 2) Increased end systolic volume 3) Less than normal filling … A) LVH, RVH and RCMP B) Young people, athletes and hyperkinetic states C) LV or RV failure",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 2,
+      "exp": "The three arms read physiological excessive rapid filling into a hypercompliant ventricle across a normal AV valve in the young, athletes and hyperkinetic states; increased end systolic volume seen in LV/RV failure, the commonest setting; and less than normal filling of a hypertrophic non-compliant ventricle in LVH, RVH and RCMP. (Book p303)"
+    },
+    {
+      "id": "MED-C50-08",
+      "sec": "The Diastolic Continuation from Protodiastole to Atrial Systole, the O-P-Time-S3-S4 Sequence, Early, Mid and Late Diastolic Position, and S3 with Its Three Mechanisms and Four Valve Lesions",
+      "page": 303,
+      "fmt": "recall",
+      "q": "How does the timing of a pathological S3 compare with a physiological S3, and which valve lesions produce S3?",
+      "opts": [
+        "Pathological S3 occurs earlier than physiological S3; it is heard in MS and AR, but not in MR or AS",
+        "Pathological S3 occurs later than physiological S3; it is heard in MR with or without LVF and in severe AS from LVH, but not in MS or AR with LVF",
+        "Pathological S3 occurs earlier than physiological S3; it is heard only in MS and TS",
+        "Pathological S3 occurs earlier than physiological S3; it is heard in MR with or without LVF and in severe AS from LVH, but not in MS or AR with LVF"
+      ],
+      "ans": 3,
+      "exp": "The line reads 'Pathological S3 occurs earlier than physiological S3', and the valvular diagram prints MR heard with or without LVF, AS seen in severe AS, MS not seen and AR not seen except with LVF. (Book p303)"
+    },
+    {
+      "id": "MED-C50-09",
+      "sec": "The Diastolic Continuation from Protodiastole to Atrial Systole, the O-P-Time-S3-S4 Sequence, Early, Mid and Late Diastolic Position, and S3 with Its Three Mechanisms and Four Valve Lesions",
+      "page": 303,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three statements about S3 on page 303 are printed, one contradicts the page:",
+      "opts": [
+        "S3 is seen in the rapid filling phase",
+        "S3 is also called the ventricular or protodiastolic gallop",
+        "S3 is a high pitched early systolic sound heard with the diaphragm",
+        "S3 is not seen in mitral stenosis or tricuspid stenosis"
+      ],
+      "ans": 2,
+      "exp": "S3 is a low pitched sound (the page lists it with S4 and tumour plop), occurs in the rapid filling phase, is a protodiastolic gallop and is excluded by a stenosed AV valve; nothing on the page makes it high pitched or systolic. (Book p303)"
+    },
+    {
+      "id": "MED-C50-10",
+      "sec": "The Diastolic Continuation from Protodiastole to Atrial Systole, the O-P-Time-S3-S4 Sequence, Early, Mid and Late Diastolic Position, and S3 with Its Three Mechanisms and Four Valve Lesions",
+      "page": 303,
+      "fmt": "scenario",
+      "q": "A lean 20-year-old athlete has a third heart sound at the apex, with excessive rapid filling of a hypercompliant ventricle and no cardiac disease. Which of the three printed mechanisms does he represent?",
+      "opts": [
+        "Pathological — increased end systolic volume in a dilated ventricle",
+        "Physiological — excessive rapid filling into a hypercompliant ventricle",
+        "Pathological — less than normal filling of a hypertrophic non-compliant ventricle",
+        "Pathological — rapid filling across a stenosed AV valve"
+      ],
+      "ans": 1,
+      "exp": "The three mechanisms are physiological excessive rapid filling into a hypercompliant ventricle in the young or athletic, increased end systolic volume in a dilated ventricle (LVF, MR, AR) and less than normal filling of a hypertrophic non-compliant ventricle (LVH, RVH, RCMP); a stenosed AV valve precludes S3. (Book p303)"
+    },
+    {
+      "id": "MED-C50-11",
+      "sec": "The Diastolic Continuation from Protodiastole to Atrial Systole, the O-P-Time-S3-S4 Sequence, Early, Mid and Late Diastolic Position, and S3 with Its Three Mechanisms and Four Valve Lesions",
+      "page": 303,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the valve lesions in which S3 is seen, as printed on page 303.",
+      "opts": [
+        "False — S3 requires a stenosed AV valve",
+        "False — S3 is always seen in aortic regurgitation with LVF",
+        "True — S3 is not seen in mitral stenosis or tricuspid stenosis",
+        "True — S3 is a constant finding in mitral stenosis"
+      ],
+      "ans": 2,
+      "exp": "The pre-requisite is a non-stenosed AV valve, printed as 'Not seen in MS & TS'; AR is also printed as not seen except with LVF. (Book p303)"
+    },
+    {
+      "id": "MED-C50-12",
+      "sec": "S3 Features with Left Lateral Position, Leg Raising and the Heart-Failure Caveat, the Pericardial Knock of Constrictive Pericarditis, and S4 with Its Four Prerequisites and Its Valve-Disease Table",
+      "page": 304,
+      "fmt": "recall",
+      "q": "How and where is S3 auscultated, and how does posture change it?",
+      "opts": [
+        "In the left lateral position at the lower left sternal border; it does not vary with respiration, and a pathological S3 disappears upright",
+        "In the left lateral position at the apex; it does not vary with respiration, and a physiological S3 disappears in the upright position",
+        "In the supine position at the apex; it varies with respiration, and a physiological S3 appears only in the upright position",
+        "In the left lateral position at the apex; it varies with inspiration, and a physiological S3 disappears in the upright position"
+      ],
+      "ans": 1,
+      "exp": "The features read 'Auscultated in: Left lateral position; At the apex', 'Does not vary with respiration' and 'Physiological S3 disappears in upright position'. (Book p304)"
+    },
+    {
+      "id": "MED-C50-13",
+      "sec": "S3 Features with Left Lateral Position, Leg Raising and the Heart-Failure Caveat, the Pericardial Knock of Constrictive Pericarditis, and S4 with Its Four Prerequisites and Its Valve-Disease Table",
+      "page": 304,
+      "fmt": "recall",
+      "q": "What does passive leg raising do, and why is it performed?",
+      "opts": [
+        "It increases heart rate so that a fourth sound appears in sinus rhythm",
+        "It reduces venous return so that S3 disappears even if it was heard in the left lateral position",
+        "It augments venous return so that a pericardial knock appears in constrictive pericarditis",
+        "It augments venous return so that S3 is heard even if it was not heard in the left lateral position"
+      ],
+      "ans": 3,
+      "exp": "The arrow reads 'Passive leg raising: Augments venous return → S3 heard even if not heard in left lateral', a bedside trick to unmask the sound. (Book p304)"
+    },
+    {
+      "id": "MED-C50-14",
+      "sec": "S3 Features with Left Lateral Position, Leg Raising and the Heart-Failure Caveat, the Pericardial Knock of Constrictive Pericarditis, and S4 with Its Four Prerequisites and Its Valve-Disease Table",
+      "page": 304,
+      "fmt": "recall",
+      "q": "Which three conditions are printed as heart failure without S3?",
+      "opts": [
+        "MS, TS and pericardial tamponade",
+        "MS, TS and constrictive pericarditis",
+        "AS, AR and pericardial tamponade",
+        "MS, MR and pericardial tamponade"
+      ],
+      "ans": 0,
+      "exp": "The note reads 'Heart failure without S3 → MS, TS, pericardial tamponade', the same stenotic-pair logic that excludes S3 at the valve. (Book p304)"
+    },
+    {
+      "id": "MED-C50-15",
+      "sec": "S3 Features with Left Lateral Position, Leg Raising and the Heart-Failure Caveat, the Pericardial Knock of Constrictive Pericarditis, and S4 with Its Four Prerequisites and Its Valve-Disease Table",
+      "page": 304,
+      "fmt": "recall",
+      "q": "Which disease produces a pericardial knock, and what is its printed mechanism?",
+      "opts": [
+        "Pericardial tamponade, where the pericardial fluid restricts systolic ejection",
+        "Acute pericarditis, where the inflamed pericardium structurally restricts diastolic filling by the pericardial shell",
+        "Chronic constrictive pericarditis, where the rock-like pericardium structurally restricts diastolic filling by the pericardial shell",
+        "Chronic constrictive pericarditis, where the pericardium is thin and offers no resistance to filling"
+      ],
+      "ans": 2,
+      "exp": "The knock block reads 'Seen in chronic constrictive pericarditis', with the mechanism 'Constrictive pericarditis → Rock-like pericarditis → Structural restriction of diastolic filling by pericardial shell'. (Book p304)"
+    },
+    {
+      "id": "MED-C50-16",
+      "sec": "S3 Features with Left Lateral Position, Leg Raising and the Heart-Failure Caveat, the Pericardial Knock of Constrictive Pericarditis, and S4 with Its Four Prerequisites and Its Valve-Disease Table",
+      "page": 304,
+      "fmt": "match",
+      "q": "Match each pericardial knock feature to what it is printed to do — 1) High pitched and louder with inspiration 2) Early diastolic timing 3) Disappears after pericardiectomy … A) Distinguishes it from S3 B) Confirms the pericardial origin C) Places it in early diastole",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 1,
+      "exp": "The knock features are high pitched and louder with inspiration, bracketed 'To differentiate from S3'; early diastolic sound; and 'Disappears following pericardiectomy', which proves the pericardial source. (Book p304)"
+    },
+    {
+      "id": "MED-C50-17",
+      "sec": "S3 Features with Left Lateral Position, Leg Raising and the Heart-Failure Caveat, the Pericardial Knock of Constrictive Pericarditis, and S4 with Its Four Prerequisites and Its Valve-Disease Table",
+      "page": 304,
+      "fmt": "recall",
+      "q": "Which other name and phase are printed for S4, and with which venous wave does it correlate?",
+      "opts": [
+        "Atrial or presystolic gallop, seen in atrial systole and correlating with the A-wave in the JVP",
+        "Atrial or protodiastolic gallop, seen in rapid filling and correlating with the A-wave in the JVP",
+        "Ventricular or presystolic gallop, seen in atrial systole and correlating with the V-wave in the JVP",
+        "Atrial or presystolic gallop, seen in atrial systole and correlating with the C-wave in the JVP"
+      ],
+      "ans": 0,
+      "exp": "The S4 block reads 'AKA atrial/presystolic gallop', 'Seen in atrial systole' and 'Correlates with A-wave in JVP'. (Book p304)"
+    },
+    {
+      "id": "MED-C50-18",
+      "sec": "S3 Features with Left Lateral Position, Leg Raising and the Heart-Failure Caveat, the Pericardial Knock of Constrictive Pericarditis, and S4 with Its Four Prerequisites and Its Valve-Disease Table",
+      "page": 304,
+      "fmt": "match",
+      "q": "Match each S4 prerequisite to its printed wording — 1) Atrium 2) Contraction 3) AV valve 4) Ventricle … A) Across a non stenosed A-V valve B) Healthy atria in sinus rhythm C) Into a non-dilated ± hypertrophic and non-compliant ventricle D) Contracting vigorously",
+      "opts": [
+        "1-D, 2-B, 3-A, 4-C",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-B, 2-D, 3-C, 4-A",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 3,
+      "exp": "The prerequisites read healthy atria in sinus rhythm, contracting vigorously, across a non stenosed A-V valve, into a non-dilated ± hypertrophic and non-compliant ventricle. (Book p304)"
+    },
+    {
+      "id": "MED-C50-19",
+      "sec": "S3 Features with Left Lateral Position, Leg Raising and the Heart-Failure Caveat, the Pericardial Knock of Constrictive Pericarditis, and S4 with Its Four Prerequisites and Its Valve-Disease Table",
+      "page": 304,
+      "fmt": "recall",
+      "q": "Which mechanism is printed for S4, and which valve lesions make it disappear or appear?",
+      "opts": [
+        "Atrial contraction increases LV end-diastolic fibre length; it is not seen in AS, MR or AR, but is heard in MS",
+        "Ventricular contraction increases LV end-diastolic fibre length; it is not seen in MS, MR or AR, but is heard in AS",
+        "Atrial contraction decreases LV end-diastolic fibre length; it is not seen in MS, MR or AR, but is heard in AS",
+        "Atrial contraction increases LV end-diastolic fibre length; it is not seen in MS, MR or AR, but is heard in AS"
+      ],
+      "ans": 3,
+      "exp": "The mechanism arrow reads 'Atrial contraction → ↑ LV end-diastolic fibre length', and the valvular list prints MS, MR and AR as not seen with AS heard, adding that it is heard in acute MR and AR. (Book p304)"
+    },
+    {
+      "id": "MED-C50-20",
+      "sec": "S3 Features with Left Lateral Position, Leg Raising and the Heart-Failure Caveat, the Pericardial Knock of Constrictive Pericarditis, and S4 with Its Four Prerequisites and Its Valve-Disease Table",
+      "page": 304,
+      "fmt": "match",
+      "q": "Match each valve lesion to its printed S3 and S4 cells — 1) AS 2) AR 3) MS 4) MR … A) S3 absent and S4 absent B) S3 present and S4 present C) S3 present in failure and S4 absent D) S3 present and S4 absent",
+      "opts": [
+        "1-B, 2-C, 3-A, 4-D",
+        "1-A, 2-C, 3-B, 4-D",
+        "1-B, 2-C, 3-D, 4-A",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 0,
+      "exp": "The table reads AS +/+, AR in failure/–, MS –/– and MR +/– for S3 and S4 respectively. (Book p304)"
+    },
+    {
+      "id": "MED-C50-21",
+      "sec": "S3 Features with Left Lateral Position, Leg Raising and the Heart-Failure Caveat, the Pericardial Knock of Constrictive Pericarditis, and S4 with Its Four Prerequisites and Its Valve-Disease Table",
+      "page": 304,
+      "fmt": "fillup",
+      "q": "The note beneath the S3/S4 table states that both added sounds are heard in acute ______.",
+      "opts": [
+        "AS and PS",
+        "MS and TS",
+        "MR and AR",
+        "MR and MS"
+      ],
+      "ans": 2,
+      "exp": "The note reads 'Note: Heard in acute MR & AR', a caveat that overrides the chronic valve-disease cells in the table above. (Book p304)"
+    },
+    {
+      "id": "MED-C50-22",
+      "sec": "S3 Features with Left Lateral Position, Leg Raising and the Heart-Failure Caveat, the Pericardial Knock of Constrictive Pericarditis, and S4 with Its Four Prerequisites and Its Valve-Disease Table",
+      "page": 304,
+      "fmt": "scenario",
+      "q": "A patient with chronic constrictive pericarditis has an early diastolic sound that disappears after pericardiectomy. Which sound is this, and which feature separates it from S3?",
+      "opts": [
+        "A pericardial knock, separated from S3 by its high pitch and inspiratory increase",
+        "A pericardial knock, separated from S3 by its low pitch and expiratory increase",
+        "An opening snap, separated from S3 by its early timing",
+        "A tumour plop, separated from S3 by its late diastolic timing"
+      ],
+      "ans": 0,
+      "exp": "The knock is high pitched and louder with inspiration, bracketed 'To differentiate from S3', and 'Disappears following pericardiectomy'. (Book p304)"
+    },
+    {
+      "id": "MED-C50-23",
+      "sec": "S3 Features with Left Lateral Position, Leg Raising and the Heart-Failure Caveat, the Pericardial Knock of Constrictive Pericarditis, and S4 with Its Four Prerequisites and Its Valve-Disease Table",
+      "page": 304,
+      "fmt": "scenario",
+      "q": "A patient in atrial fibrillation has no fourth heart sound despite LVH. Which printed prerequisite explains the absence?",
+      "opts": [
+        "S4 needs a dilated, compliant ventricle, which is absent here",
+        "S4 needs a rapid filling phase, which fibrillation enhances",
+        "S4 needs a stenosed AV valve, which is absent here",
+        "S4 needs healthy atria in sinus rhythm contracting vigorously"
+      ],
+      "ans": 3,
+      "exp": "The prerequisites begin 'Healthy atria in sinus rhythm' and 'Contracting vigorously', both lost in atrial fibrillation. (Book p304)"
+    },
+    {
+      "id": "MED-C50-24",
+      "sec": "The Three S4 Settings, the Opening Snap in Mitral Stenosis with Its S2-OS Interval Ladder and Auscultation Rules, and the Low Pitched Tumour Plop of Atrial Myxoma",
+      "page": 305,
+      "fmt": "match",
+      "q": "Match each setting of S4 to its printed examples — 1) Concentric LVH 2) Concentric RVH 3) RV ischaemia … A) Coronary artery disease B) Pulmonary stenosis, PAH and RCM C) Systemic HTN and HCM",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 1,
+      "exp": "The three arms read concentric LVH with systemic HTN and HCM, concentric RVH with pulmonary stenosis, PAH and RCM, and RV ischaemia from coronary artery disease. (Book p305)"
+    },
+    {
+      "id": "MED-C50-25",
+      "sec": "The Three S4 Settings, the Opening Snap in Mitral Stenosis with Its S2-OS Interval Ladder and Auscultation Rules, and the Low Pitched Tumour Plop of Atrial Myxoma",
+      "page": 305,
+      "fmt": "recall",
+      "q": "What does the opening snap represent, and which valve event produces it?",
+      "opts": [
+        "It is produced by closure of the semilunar valve and represents protodiastole",
+        "It is produced by opening of the AV valve and represents isovolumetric relaxation",
+        "It is produced by opening of the semilunar valve and represents rapid ejection",
+        "It is produced by closure of the AV valve and represents isovolumetric contraction"
+      ],
+      "ans": 1,
+      "exp": "The opening snap block reads 'Sound produced by opening of the A-V valve' and 'Represents isovolumetric relaxation'. (Book p305)"
+    },
+    {
+      "id": "MED-C50-26",
+      "sec": "The Three S4 Settings, the Opening Snap in Mitral Stenosis with Its S2-OS Interval Ladder and Auscultation Rules, and the Low Pitched Tumour Plop of Atrial Myxoma",
+      "page": 305,
+      "fmt": "recall",
+      "q": "How is the opening snap auscultated, and what are its printed prerequisites?",
+      "opts": [
+        "With the bell at the apex in expiration, requiring mobile leaflets, good LV function, primary organic MS and MS as the predominant lesion",
+        "With the bell at the lower left sternal border in expiration, requiring mobile leaflets, poor LV function and any degree of MS",
+        "With the diaphragm at the apex in inspiration, requiring calcified leaflets, poor LV function and MS as the predominant lesion",
+        "With the bell at the apex in expiration, requiring mobile leaflets, good LV function and any degree of MS even if another lesion predominates"
+      ],
+      "ans": 0,
+      "exp": "The auscultation block reads bell, apex and expiration; the prerequisites read mobile leaflets, good LV function, 1° MS (organic) and 'ms should be pre-dominant lesion'. (Book p305)"
+    },
+    {
+      "id": "MED-C50-27",
+      "sec": "The Three S4 Settings, the Opening Snap in Mitral Stenosis with Its S2-OS Interval Ladder and Auscultation Rules, and the Low Pitched Tumour Plop of Atrial Myxoma",
+      "page": 305,
+      "fmt": "recall",
+      "q": "Which mechanism produces the opening snap in mitral stenosis?",
+      "opts": [
+        "A low left atrial pressure with thickened leaflets causes a sudden doming motion of the valves into the LV",
+        "A raised left ventricular pressure with thickened leaflets causes a sudden doming motion of the valves into the LA",
+        "A raised left atrial pressure with thinned leaflets causes a gradual doming motion of the valves into the LV",
+        "A raised left atrial pressure with thickened leaflets causes a sudden doming motion of the valves into the LV"
+      ],
+      "ans": 3,
+      "exp": "The mechanism reads '↑ LAP + thickened leaflets → Sudden doming motion of valves into LV → Opening snap', with the opening snap proportional to LAP. (Book p305)"
+    },
+    {
+      "id": "MED-C50-28",
+      "sec": "The Three S4 Settings, the Opening Snap in Mitral Stenosis with Its S2-OS Interval Ladder and Auscultation Rules, and the Low Pitched Tumour Plop of Atrial Myxoma",
+      "page": 305,
+      "fmt": "recall",
+      "q": "How does a rising left atrial pressure change the S2–OS interval in mitral stenosis?",
+      "opts": [
+        "It does not change the timing of valve opening, so the S2–OS interval is independent of LAP",
+        "It opens the AV valves later, so the opening snap comes later and the S2–OS interval lengthens; S2–OS is directly proportional to LAP",
+        "It opens the AV valves earlier, so the opening snap comes earlier and the S2–OS interval shortens; S2–OS is inversely proportional to LAP",
+        "It opens the AV valves earlier, so the opening snap comes earlier and the S2–OS interval lengthens; S2–OS is directly proportional to LAP"
+      ],
+      "ans": 2,
+      "exp": "The pathophysiology chain reads '↑ LAP → Early opening of AV valves → Early OS → ↓ S2-OS interval', and the next line 'S2-OS α 1/LAP'. (Book p305)"
+    },
+    {
+      "id": "MED-C50-29",
+      "sec": "The Three S4 Settings, the Opening Snap in Mitral Stenosis with Its S2-OS Interval Ladder and Auscultation Rules, and the Low Pitched Tumour Plop of Atrial Myxoma",
+      "page": 305,
+      "fmt": "match",
+      "q": "Match each severity of mitral stenosis to its printed intervals and pressures — 1) Mild MS 2) Severe MS … A) S2–OS 40–60 mmHg with LAP >15 mmHg B) S2–OS >120 mmHg with LAP <5 mmHg",
+      "opts": [
+        "1-A, 2-A",
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-B"
+      ],
+      "ans": 1,
+      "exp": "The mild column prints S2–OS >120 mmHg with LAP <5 mmHg and the severe column S2–OS 40–60 mmHg with LAP >15 mmHg; the units are printed as mmHg against what should be milliseconds, a slip preserved verbatim. (Book p305)"
+    },
+    {
+      "id": "MED-C50-30",
+      "sec": "The Three S4 Settings, the Opening Snap in Mitral Stenosis with Its S2-OS Interval Ladder and Auscultation Rules, and the Low Pitched Tumour Plop of Atrial Myxoma",
+      "page": 305,
+      "fmt": "fillup",
+      "q": "The opening snap is auscultated with the patient standing, midway between the apex and the lower left sternal border, and it does not vary with ______.",
+      "opts": [
+        "respiration",
+        "posture",
+        "heart rate",
+        "exercise"
+      ],
+      "ans": 0,
+      "exp": "The features read auscultation done standing midway between apex and lower left sternal border, and 'Does not vary with respiration'. (Book p305)"
+    },
+    {
+      "id": "MED-C50-31",
+      "sec": "The Three S4 Settings, the Opening Snap in Mitral Stenosis with Its S2-OS Interval Ladder and Auscultation Rules, and the Low Pitched Tumour Plop of Atrial Myxoma",
+      "page": 305,
+      "fmt": "recall",
+      "q": "Which three descriptors are printed inside the ovals for tumour plop?",
+      "opts": [
+        "Low pitched, ventricular myxoma and mid diastolic sound",
+        "Low pitched, atrial myxoma and late diastolic sound",
+        "Low pitched, atrial myxoma and early diastolic sound",
+        "High pitched, atrial myxoma and early diastolic sound"
+      ],
+      "ans": 2,
+      "exp": "The three ovals read 'Low pitched', 'Atrial myxoma' and 'Early diastolic sound', matching the early diastolic grouping on page 303. (Book p305)"
+    },
+    {
+      "id": "MED-C50-32",
+      "sec": "The Three S4 Settings, the Opening Snap in Mitral Stenosis with Its S2-OS Interval Ladder and Auscultation Rules, and the Low Pitched Tumour Plop of Atrial Myxoma",
+      "page": 305,
+      "fmt": "scenario",
+      "q": "A patient with mitral stenosis has an S2–OS interval of 50 ms and a left atrial pressure of 18 mm Hg. Which severity does the printed ladder indicate?",
+      "opts": [
+        "Mild MS, since S2–OS is above 120 and LAP is below 5 mmHg",
+        "Severe MS, since S2–OS is above 120 mmHg",
+        "Mild MS, since any measurable S2–OS indicates mild disease",
+        "Severe MS, since S2–OS is 40–60 and LAP exceeds 15 mmHg"
+      ],
+      "ans": 3,
+      "exp": "The severe column prints S2–OS 40–60 mmHg with LAP >15 mmHg, against mild disease at >120 mmHg and LAP <5 mmHg; the units are printed as mmHg and preserved verbatim. (Book p305)"
+    },
+    {
+      "id": "MED-C50-33",
+      "sec": "The Three S4 Settings, the Opening Snap in Mitral Stenosis with Its S2-OS Interval Ladder and Auscultation Rules, and the Low Pitched Tumour Plop of Atrial Myxoma",
+      "page": 305,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the relation of the opening snap to left atrial pressure on page 305.",
+      "opts": [
+        "True — both the opening snap amplitude and the S2–OS interval are directly proportional to LAP",
+        "False — the opening snap bears no relation to LAP",
+        "True — the opening snap amplitude is proportional to LAP, while the S2–OS interval is inversely proportional to LAP",
+        "False — the opening snap amplitude is inversely proportional to LAP and the interval is directly proportional"
+      ],
+      "ans": 2,
+      "exp": "The two printed lines are 'Opening snap (OS) α LAP' and 'S2-OS α 1/LAP', which is why severe disease has a short interval and a loud snap. (Book p305)"
+    },
+    {
+      "id": "MED-C50-34",
+      "sec": "Systolic Added Sounds as Clicks, the Valvular and Vascular Ejection Clicks with Their S2 and S1 Rules, and the Non-Ejection Click of Mitral Valve Prolapse with Dynamic Auscultation",
+      "page": 306,
+      "fmt": "recall",
+      "q": "What are systolic added sounds called, and how are they classified?",
+      "opts": [
+        "Snaps, classified into ejection snaps and non-ejection snaps, with ejection snaps divided into valvular and vascular",
+        "Clicks, classified into valvular and vascular only, without a non-ejection group",
+        "Knocks, classified into ejection knocks and non-ejection knocks, with ejection knocks divided into valvular and vascular",
+        "Clicks, classified into ejection clicks and non-ejection clicks, with ejection clicks divided into valvular and vascular"
+      ],
+      "ans": 3,
+      "exp": "The heading reads 'Systolic Added Sounds AKA clicks', with the tree splitting ejection clicks (valvular and vascular) from non ejection clicks. (Book p306)"
+    },
+    {
+      "id": "MED-C50-35",
+      "sec": "Systolic Added Sounds as Clicks, the Valvular and Vascular Ejection Clicks with Their S2 and S1 Rules, and the Non-Ejection Click of Mitral Valve Prolapse with Dynamic Auscultation",
+      "page": 306,
+      "fmt": "recall",
+      "q": "Which event produces an ejection click, and which lesions are printed for the valvular type?",
+      "opts": [
+        "Closure of the semilunar valves; the valvular type occurs in AS, PS and bicuspid aortic valve through a doming motion halted abruptly",
+        "Opening of the semilunar valves; the valvular type occurs in AS, PS and bicuspid aortic valve through a doming motion halted abruptly",
+        "Opening of the atrioventricular valves; the valvular type occurs in MS, TS and bicuspid aortic valve through a doming motion halted abruptly",
+        "Opening of the semilunar valves; the valvular type occurs in AR, PR and bicuspid aortic valve through a doming motion halted abruptly"
+      ],
+      "ans": 1,
+      "exp": "The block reads 'Sound produced by opening of semilunar valves', and the valvular mechanism 'Stenosis of valve → Doming motion of valve coming to an abrupt halt' with 'Heard in AS, PS & BAV'. (Book p306)"
+    },
+    {
+      "id": "MED-C50-36",
+      "sec": "Systolic Added Sounds as Clicks, the Valvular and Vascular Ejection Clicks with Their S2 and S1 Rules, and the Non-Ejection Click of Mitral Valve Prolapse with Dynamic Auscultation",
+      "page": 306,
+      "fmt": "recall",
+      "q": "What causes a vascular ejection click, and in which lesion is it seen?",
+      "opts": [
+        "Sudden distension of the valve beyond the vessel, seen in stenosis of the vessel",
+        "Gradual distension of the vessel itself, seen in aneurysm of the vessel",
+        "Sudden distension of the valve beyond the vessel, seen in aneurysm of the vessel",
+        "Sudden collapse of the vessel beyond the valve, seen in coarctation of the aorta"
+      ],
+      "ans": 2,
+      "exp": "The vascular branch reads 'D/t sudden distension of the valve beyond the vessel' and 'Seen in aneurysm of vessel'. (Book p306)"
+    },
+    {
+      "id": "MED-C50-37",
+      "sec": "Systolic Added Sounds as Clicks, the Valvular and Vascular Ejection Clicks with Their S2 and S1 Rules, and the Non-Ejection Click of Mitral Valve Prolapse with Dynamic Auscultation",
+      "page": 306,
+      "fmt": "match",
+      "q": "Match each pathology to its printed S1 or S2 behaviour — 1) Vascular (root) pathologies 2) Valvular pathologies 3) Fever … A) Tachycardia with a loud S1 B) Soft S2 C) Loud S2",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 0,
+      "exp": "The note reads vascular (root) pathologies → loud S2, valvular pathologies → soft S2 and fever → tachycardia → loud S1. (Book p306)"
+    },
+    {
+      "id": "MED-C50-38",
+      "sec": "Systolic Added Sounds as Clicks, the Valvular and Vascular Ejection Clicks with Their S2 and S1 Rules, and the Non-Ejection Click of Mitral Valve Prolapse with Dynamic Auscultation",
+      "page": 306,
+      "fmt": "recall",
+      "q": "Which five features of ejection clicks are printed on page 306?",
+      "opts": [
+        "Absent in mild stenosis, heard best in the aortic area, often confused with a loud S1, varying with expiration, and the pulmonary click heard better in inspiration",
+        "Absent in severe stenosis from calcification, heard best in the aortic area, often confused with a loud S2, not varying with respiration, and the pulmonary click heard better in inspiration",
+        "Present in severe stenosis despite calcification, heard best in the pulmonary area, often confused with a loud S2, varying with respiration, and the pulmonary click heard better in inspiration",
+        "Absent in severe stenosis from calcification, heard best in the aortic area, often confused with a loud S1, not varying with respiration, and the pulmonary click heard better in expiration"
+      ],
+      "ans": 3,
+      "exp": "The features list reads absent in severe stenosis (d/t calcification), heard best in the aortic area, often confused with loud S1, does not vary with respiration, and 'Pulmonary ejection click → Heard better in expiration'. (Book p306)"
+    },
+    {
+      "id": "MED-C50-39",
+      "sec": "Systolic Added Sounds as Clicks, the Valvular and Vascular Ejection Clicks with Their S2 and S1 Rules, and the Non-Ejection Click of Mitral Valve Prolapse with Dynamic Auscultation",
+      "page": 306,
+      "fmt": "recall",
+      "q": "With which valve lesion are non-ejection clicks associated, and what does dynamic auscultation do?",
+      "opts": [
+        "Mitral valve prolapse, where dynamic auscultation abolishes the murmur",
+        "Aortic stenosis, where dynamic auscultation causes a long duration murmur",
+        "Mitral valve prolapse, where dynamic auscultation causes a long duration murmur",
+        "Mitral stenosis, where dynamic auscultation causes a long duration murmur"
+      ],
+      "ans": 2,
+      "exp": "The non-ejection section reads 'Associated with mitral valve prolapse' and, under features, 'Dynamic auscultation: Causes long duration murmur'. (Book p306)"
+    },
+    {
+      "id": "MED-C50-40",
+      "sec": "Systolic Added Sounds as Clicks, the Valvular and Vascular Ejection Clicks with Their S2 and S1 Rules, and the Non-Ejection Click of Mitral Valve Prolapse with Dynamic Auscultation",
+      "page": 306,
+      "fmt": "recall",
+      "q": "Which chain is printed for the mitral valve prolapse click during standing or Valsalva?",
+      "opts": [
+        "↓ afterload → ↑ ventricular cavity size → ↓ stretching of chordae → ↑ prolapse → click moves closer to S2",
+        "↓ preload → ↓ ventricular cavity size → ↓ stretching of chordae → ↑ prolapse → click moves closer to S1",
+        "↑ preload → ↑ ventricular cavity size → ↑ stretching of chordae → ↑ prolapse → click moves closer to S1",
+        "↓ preload → ↓ ventricular cavity size → ↑ stretching of chordae → ↓ prolapse → click moves away from S1"
+      ],
+      "ans": 1,
+      "exp": "The loop reads standing/Valsalva → ↓ preload → ↓ ventricular cavity size → ↓ stretching of chordae → ↑ prolapse → 'Click moves closer to S1'. (Book p306)"
+    },
+    {
+      "id": "MED-C50-41",
+      "sec": "Systolic Added Sounds as Clicks, the Valvular and Vascular Ejection Clicks with Their S2 and S1 Rules, and the Non-Ejection Click of Mitral Valve Prolapse with Dynamic Auscultation",
+      "page": 306,
+      "fmt": "scenario",
+      "q": "A young woman has a mid-systolic click and late systolic murmur that move earlier in standing and later on squatting. Which printed mechanism explains the movement?",
+      "opts": [
+        "Standing lowers preload, reducing ventricular cavity size and chordal stretch, so prolapse occurs earlier and the click approaches S1",
+        "Standing lowers afterload, increasing ventricular cavity size and chordal stretch, so prolapse occurs earlier and the click approaches S1",
+        "Standing lowers preload, reducing ventricular cavity size and chordal stretch, so prolapse occurs later and the click approaches S2",
+        "Standing raises preload, increasing ventricular cavity size and chordal stretch, so prolapse occurs later and the click approaches S2"
+      ],
+      "ans": 0,
+      "exp": "The printed loop is ↓ preload → ↓ ventricular cavity size → ↓ stretching of chordae → ↑ prolapse → click closer to S1, the behaviour that marks a non-ejection click of mitral valve prolapse. (Book p306)"
+    },
+    {
+      "id": "MED-C50-42",
+      "sec": "Systolic Added Sounds as Clicks, the Valvular and Vascular Ejection Clicks with Their S2 and S1 Rules, and the Non-Ejection Click of Mitral Valve Prolapse with Dynamic Auscultation",
+      "page": 306,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about ejection clicks on page 306.",
+      "opts": [
+        "False — they are never confused with a heart sound and vary widely with respiration",
+        "False — they are absent in mild stenosis because of calcification",
+        "True — they are often confused with a loud S2 and do vary with respiration",
+        "True — they are often confused with a loud S1 and do not vary with respiration"
+      ],
+      "ans": 3,
+      "exp": "The features print 'Often confused with loud S1' and 'Does not vary with respiration', while calcification abolishes the click only in severe stenosis. (Book p306)"
+    },
+    {
+      "id": "MED-C50-43",
+      "sec": "Systolic Added Sounds as Clicks, the Valvular and Vascular Ejection Clicks with Their S2 and S1 Rules, and the Non-Ejection Click of Mitral Valve Prolapse with Dynamic Auscultation",
+      "page": 306,
+      "fmt": "scenario",
+      "q": "A patient with severe calcific aortic stenosis has no ejection click. What does page 306 say about that?",
+      "opts": [
+        "The click is loudest in severe stenosis because of calcification",
+        "The click is absent in severe stenosis because of calcification",
+        "The absence of a click excludes aortic stenosis",
+        "The click is absent because vascular rather than valvular pathology is present"
+      ],
+      "ans": 1,
+      "exp": "Under features, 'Absent in severe stenosis (d/t calcification)' is printed first, so a missing click does not exclude severe disease. (Book p306)"
+    },
+    {
+      "id": "MED-C50-44",
+      "sec": "Systolic Added Sounds as Clicks, the Valvular and Vascular Ejection Clicks with Their S2 and S1 Rules, and the Non-Ejection Click of Mitral Valve Prolapse with Dynamic Auscultation",
+      "page": 306,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three are printed features of ejection clicks, one belongs to the non-ejection click of mitral valve prolapse:",
+      "opts": [
+        "It moves closer to S1 on standing because of reduced preload",
+        "It is often confused with a loud S1",
+        "It does not vary with respiration",
+        "It is heard best in the aortic area"
+      ],
+      "ans": 0,
+      "exp": "Movement with standing is the dynamic auscultation of the non-ejection click of mitral valve prolapse; ejection clicks are confused with loud S1, do not vary with respiration and are best heard in the aortic area. (Book p306)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U50-1",
+      "ch": 50,
+      "n": 1,
+      "title": "The Diastolic Continuation from Protodiastole to Atrial Systole, the O-P-Time-S3-S4 Sequence, Early, Mid and Late Diastolic Position, and S3 with Its Three Mechanisms and Four Valve Lesions",
+      "sec": "The Diastolic Continuation from Protodiastole to Atrial Systole, the O-P-Time-S3-S4 Sequence, Early, Mid and Late Diastolic Position, and S3 with Its Three Mechanisms and Four Valve Lesions",
+      "guide": "The cycle continues (p303) from protodiastole through closed semilunar valves, isovolumetric relaxation, opening AV valves, rapid and reduced filling (70% passive) to atrial systole (30% active).\nDiastolic sounds run opening snap, pericardial knock and tumour plop as early diastolic, S3 mid diastolic and S4 late diastolic, with S3, S4 and tumour plop the low pitched ones.\nS3 is the ventricular or protodiastolic gallop of rapid filling, requiring a non-stenosed AV valve and so absent in MS and TS; its mechanisms are physiological hypercompliant filling in the young, increased end systolic volume in LV/RV failure, and reduced filling of a hypertrophic non-compliant ventricle in LVH, RVH and RCMP, with pathological S3 earlier than physiological; it is heard in MR and severe AS but not MS or AR.",
+      "qs": [
+        "MED-C50-01",
+        "MED-C50-02",
+        "MED-C50-03",
+        "MED-C50-04",
+        "MED-C50-05",
+        "MED-C50-06",
+        "MED-C50-07",
+        "MED-C50-08",
+        "MED-C50-09",
+        "MED-C50-10",
+        "MED-C50-11"
+      ]
+    },
+    {
+      "id": "MED-U50-2",
+      "ch": 50,
+      "n": 2,
+      "title": "S3 Features with Left Lateral Position, Leg Raising and the Heart-Failure Caveat, the Pericardial Knock of Constrictive Pericarditis, and S4 with Its Four Prerequisites and Its Valve-Disease Table",
+      "sec": "S3 Features with Left Lateral Position, Leg Raising and the Heart-Failure Caveat, the Pericardial Knock of Constrictive Pericarditis, and S4 with Its Four Prerequisites and Its Valve-Disease Table",
+      "guide": "S3 is heard in the left lateral position at the apex, does not vary with respiration, disappears upright when physiological, and appears with passive leg raising; heart failure without S3 means MS, TS or pericardial tamponade (p304).\nThe pericardial knock of chronic constrictive pericarditis is high pitched, louder with inspiration and early diastolic, increasing with cardiac output and disappearing after pericardiectomy.\nS4 is the atrial or presystolic gallop of atrial systole correlating with the JVP A-wave, needing healthy atria in sinus rhythm contracting vigorously across a non-stenosed AV valve into a non-dilated ± hypertrophic non-compliant ventricle; its mechanism is a rise in LV end-diastolic fibre length, and it is not seen in MS, MR or AR but is heard in AS, and in acute MR and AR; the table gives AS +/+, AR in failure/–, MS –/– and MR +/–.",
+      "qs": [
+        "MED-C50-12",
+        "MED-C50-13",
+        "MED-C50-14",
+        "MED-C50-15",
+        "MED-C50-16",
+        "MED-C50-17",
+        "MED-C50-18",
+        "MED-C50-19",
+        "MED-C50-20",
+        "MED-C50-21",
+        "MED-C50-22",
+        "MED-C50-23"
+      ]
+    },
+    {
+      "id": "MED-U50-3",
+      "ch": 50,
+      "n": 3,
+      "title": "The Three S4 Settings, the Opening Snap in Mitral Stenosis with Its S2-OS Interval Ladder and Auscultation Rules, and the Low Pitched Tumour Plop of Atrial Myxoma",
+      "sec": "The Three S4 Settings, the Opening Snap in Mitral Stenosis with Its S2-OS Interval Ladder and Auscultation Rules, and the Low Pitched Tumour Plop of Atrial Myxoma",
+      "guide": "S4 also appears with concentric LVH from systemic HTN or HCM, concentric RVH from PS, PAH or RCM, and RV ischaemia from coronary disease (p305).\nThe opening snap is AV valve opening representing isovolumetric relaxation, heard with the bell at the apex in expiration, requiring mobile leaflets, good LV function and organic MS as the predominant lesion; raised LAP with thickened leaflets causes sudden doming, so OS α LAP and S2–OS α 1/LAP, printing S2–OS >120 mmHg with LAP <5 mmHg in mild disease and 40–60 mmHg with LAP >15 mmHg in severe disease.\nIt is heard standing midway between apex and lower left sternal border and does not vary with respiration; tumour plop is low pitched, from atrial myxoma, and early diastolic.",
+      "qs": [
+        "MED-C50-24",
+        "MED-C50-25",
+        "MED-C50-26",
+        "MED-C50-27",
+        "MED-C50-28",
+        "MED-C50-29",
+        "MED-C50-30",
+        "MED-C50-31",
+        "MED-C50-32",
+        "MED-C50-33"
+      ]
+    },
+    {
+      "id": "MED-U50-4",
+      "ch": 50,
+      "n": 4,
+      "title": "Systolic Added Sounds as Clicks, the Valvular and Vascular Ejection Clicks with Their S2 and S1 Rules, and the Non-Ejection Click of Mitral Valve Prolapse with Dynamic Auscultation",
+      "sec": "Systolic Added Sounds as Clicks, the Valvular and Vascular Ejection Clicks with Their S2 and S1 Rules, and the Non-Ejection Click of Mitral Valve Prolapse with Dynamic Auscultation",
+      "guide": "Systolic added sounds are clicks, split into ejection clicks (valvular and vascular) and non-ejection clicks (p306).\nEjection clicks come from semilunar valve opening: valvular clicks from a doming valve halted abruptly in AS, PS and bicuspid aortic valve, and vascular clicks from sudden distension beyond the valve in aneurysm; root pathology loudens S2 while valvular pathology softens it, fever with tachycardia loudens S1.\nEjection clicks disappear in severe calcific stenosis, are best heard in the aortic area, are often confused with a loud S1, do not vary with respiration, and a pulmonary click is better heard in expiration; non-ejection clicks belong to mitral valve prolapse, where standing or Valsalva lowers preload, shrinks the cavity, reduces chordal stretch, increases prolapse and moves the click toward S1.",
+      "qs": [
+        "MED-C50-34",
+        "MED-C50-35",
+        "MED-C50-36",
+        "MED-C50-37",
+        "MED-C50-38",
+        "MED-C50-39",
+        "MED-C50-40",
+        "MED-C50-41",
+        "MED-C50-42",
+        "MED-C50-43",
+        "MED-C50-44"
+      ]
+    }
+  ]
+}

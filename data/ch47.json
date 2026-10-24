@@ -1,0 +1,1713 @@
+{
+  "chapter": 47,
+  "title": "Community Acquired Pneumonia",
+  "pageRange": "274-285",
+  "questions": [
+    {
+      "id": "MED-C47-01",
+      "sec": "The Necrosis-Free Definition of Pneumonia, Its Five Parenchymal Sites, the Necrotising Note, the Six-Step Pathogenesis and the Three Protective Mechanisms",
+      "page": 274,
+      "fmt": "fillup",
+      "q": "Pneumonia is defined as acute infection of lung parenchyma without ______.",
+      "opts": [
+        "effusion",
+        "cavitation",
+        "fibrosis",
+        "necrosis"
+      ],
+      "ans": 3,
+      "exp": "The definition line reads 'Definition: Acute infection of lung parenchyma without necrosis', and the note below makes necrosis the dividing line to necrotising pneumonia and lung abscess. (Book p274)"
+    },
+    {
+      "id": "MED-C47-02",
+      "sec": "The Necrosis-Free Definition of Pneumonia, Its Five Parenchymal Sites, the Necrotising Note, the Six-Step Pathogenesis and the Three Protective Mechanisms",
+      "page": 274,
+      "fmt": "recall",
+      "q": "Which five structures does the page list as the seat of pneumonia?",
+      "opts": [
+        "Alveoli, alveolar interstitium, vascular interstitium, terminal bronchioles and secondary lobules",
+        "Alveoli, visceral pleura, vascular interstitium, respiratory bronchioles and alveolar ducts",
+        "Alveoli, alveolar interstitium, vascular interstitium, respiratory bronchioles and alveolar ducts",
+        "Alveoli, alveolar interstitium, conducting bronchi, respiratory bronchioles and alveolar ducts"
+      ],
+      "ans": 2,
+      "exp": "The arrow from the definition opens into 'Alveoli, alveolar interstitium, vascular interstitium, respiratory bronchioles, alveolar ducts', and the pleura and conducting bronchi are not included. (Book p274)"
+    },
+    {
+      "id": "MED-C47-03",
+      "sec": "The Necrosis-Free Definition of Pneumonia, Its Five Parenchymal Sites, the Necrotising Note, the Six-Step Pathogenesis and the Three Protective Mechanisms",
+      "page": 274,
+      "fmt": "match",
+      "q": "Match the parenchymal event to its printed outcome — 1) Necrosis 2) Destruction of parenchyma … A) Lung abscess B) Necrotizing pneumonia",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "The note branches 'Necrosis / destruction of parenchyma' into 'Necrotizing pneumonia' and 'Lung abscess' in that order. (Book p274)"
+    },
+    {
+      "id": "MED-C47-04",
+      "sec": "The Necrosis-Free Definition of Pneumonia, Its Five Parenchymal Sites, the Necrotising Note, the Six-Step Pathogenesis and the Three Protective Mechanisms",
+      "page": 274,
+      "fmt": "recall",
+      "q": "In which order does the printed pathogenesis flowchart run?",
+      "opts": [
+        "Defective cell-mediated immunity with viral infection → alveolar epithelial barrier disruption → disruption of lung microbiota → bacterial entry through microaspiration → alveoli",
+        "Defective cell-mediated immunity with viral infection → disruption of lung microbiota → alveolar epithelial barrier disruption → bacterial entry through microaspiration → alveoli",
+        "Disruption of lung microbiota → defective cell-mediated immunity → bacterial entry through microaspiration → alveolar epithelial barrier disruption → alveoli",
+        "Bacterial entry through microaspiration → defective cell-mediated immunity → disruption of lung microbiota → alveolar epithelial barrier disruption → alveoli"
+      ],
+      "ans": 1,
+      "exp": "The ladder reads defective cell mediated immunity with 'Infection by virus', disruption of lung microbiota, alveolar epithelial barrier disruption, entry of bacteria through microaspiration and then alveoli. (Book p274)"
+    },
+    {
+      "id": "MED-C47-05",
+      "sec": "The Necrosis-Free Definition of Pneumonia, Its Five Parenchymal Sites, the Necrotising Note, the Six-Step Pathogenesis and the Three Protective Mechanisms",
+      "page": 274,
+      "fmt": "match",
+      "q": "Match each cytokine to its printed effect — 1) IL-1, IL-6 and TNFα 2) IL-8 … A) Recruitment of neutrophils B) Fever",
+      "opts": [
+        "1-B, 2-A",
+        "1-B, 2-B",
+        "1-A, 2-B",
+        "1-A, 2-A"
+      ],
+      "ans": 0,
+      "exp": "The cytokine bracket groups IL-1, IL-6 and TNFα under 'Fever', while IL-8 alone points to 'Recruitment of neutrophils'. (Book p274)"
+    },
+    {
+      "id": "MED-C47-06",
+      "sec": "The Necrosis-Free Definition of Pneumonia, Its Five Parenchymal Sites, the Necrotising Note, the Six-Step Pathogenesis and the Three Protective Mechanisms",
+      "page": 274,
+      "fmt": "recall",
+      "q": "Which three protective mechanisms of the lung are printed on page 274?",
+      "opts": [
+        "Pulmonary alveolar macrophage, IgA secretion and mucociliary clearance",
+        "Pulmonary alveolar macrophage, cough reflex and surfactant",
+        "Neutrophilic phagocytosis, gag reflex and mucociliary clearance",
+        "Pulmonary alveolar macrophage, gag reflex and mucociliary clearance"
+      ],
+      "ans": 3,
+      "exp": "The note lists 'Pulmonary alveolar macrophage', 'Gag reflex' and 'mucociliary clearance' as the protective mechanisms. (Book p274)"
+    },
+    {
+      "id": "MED-C47-07",
+      "sec": "The Necrosis-Free Definition of Pneumonia, Its Five Parenchymal Sites, the Necrotising Note, the Six-Step Pathogenesis and the Three Protective Mechanisms",
+      "page": 274,
+      "fmt": "fillup",
+      "q": "The easiest and most common access to the lower respiratory tract is the ______ via aspiration.",
+      "opts": [
+        "trachea",
+        "oropharynx",
+        "nasopharynx",
+        "stomach"
+      ],
+      "ans": 1,
+      "exp": "The line reads 'Easiest / m/c access to lower respiratory tract: Oropharynx via aspiration', which explains why microaspiration dominates the pathogenesis. (Book p274)"
+    },
+    {
+      "id": "MED-C47-08",
+      "sec": "The Necrosis-Free Definition of Pneumonia, Its Five Parenchymal Sites, the Necrotising Note, the Six-Step Pathogenesis and the Three Protective Mechanisms",
+      "page": 274,
+      "fmt": "recall",
+      "q": "Which sequence follows the cytokine release in the pathogenesis chart?",
+      "opts": [
+        "Recruitment of neutrophils → vasoconstriction → interstitial fibrosis → impaired diffusion → hypoxia → dyspnea",
+        "Recruitment of neutrophils → capillary leak → alveolo-capillary exudate → improved diffusion → hyperoxia → dyspnea",
+        "Recruitment of neutrophils → capillary leak → alveolo-capillary exudate → impaired diffusion → hypoxia → dyspnea",
+        "Recruitment of macrophages → capillary leak → pleural effusion → impaired diffusion → hypoxia → dyspnea"
+      ],
+      "ans": 2,
+      "exp": "The right-hand column runs 'Recruitment of neutrophils → Capillary leak → Alveolo-capillary exudate → Impairs diffusion → Hypoxia → Dyspnea'. (Book p274)"
+    },
+    {
+      "id": "MED-C47-09",
+      "sec": "The Necrosis-Free Definition of Pneumonia, Its Five Parenchymal Sites, the Necrotising Note, the Six-Step Pathogenesis and the Three Protective Mechanisms",
+      "page": 274,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the definition of pneumonia on page 274.",
+      "opts": [
+        "False — necrosis is required before the term pneumonia can be used",
+        "True — pneumonia is an acute infection of lung parenchyma without necrosis",
+        "True — pneumonia is an acute infection of lung parenchyma with necrosis",
+        "False — pneumonia is a chronic infection of the pleura without necrosis"
+      ],
+      "ans": 1,
+      "exp": "The definition is 'Acute infection of lung parenchyma without necrosis', and the note makes necrosis the step to necrotising pneumonia or lung abscess. (Book p274)"
+    },
+    {
+      "id": "MED-C47-10",
+      "sec": "HAP, VAP and CAP by Source with Their 48-hour Rules, the Lobar and Interstitial Anatomy, the Typical and Atypical Split, and the Four-Part CAP Criteria with Auscultation",
+      "page": 275,
+      "fmt": "match",
+      "q": "Match each pneumonia to its printed source rule — 1) Hospital acquired pneumonia 2) Ventilator associated pneumonia 3) Community acquired pneumonia … A) No timing rule printed B) Occurs >48 hrs after admission (not present at admission) C) Occurs >48 hrs after endotracheal intubation",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 1,
+      "exp": "HAP is defined as occurring >48 hrs after admission and not present at admission, VAP as occurring >48 hrs after endotracheal intubation, while CAP carries no timing rule in this tree. (Book p275)"
+    },
+    {
+      "id": "MED-C47-11",
+      "sec": "HAP, VAP and CAP by Source with Their 48-hour Rules, the Lobar and Interstitial Anatomy, the Typical and Atypical Split, and the Four-Part CAP Criteria with Auscultation",
+      "page": 275,
+      "fmt": "numeric",
+      "q": "Which single interval governs both hospital acquired and ventilator associated pneumonia on page 275?",
+      "opts": [
+        "24 hours",
+        "72 hours",
+        "7 days",
+        "48 hours"
+      ],
+      "ans": 3,
+      "exp": "Both brackets print 48 hrs — one after admission for HAP and one after endotracheal intubation for VAP. (Book p275)"
+    },
+    {
+      "id": "MED-C47-12",
+      "sec": "HAP, VAP and CAP by Source with Their 48-hour Rules, the Lobar and Interstitial Anatomy, the Typical and Atypical Split, and the Four-Part CAP Criteria with Auscultation",
+      "page": 275,
+      "fmt": "match",
+      "q": "Match each classification axis to its printed branches — 1) Anatomical classification 2) Based on organism … A) Typical and atypical B) Lobar and interstitial",
+      "opts": [
+        "1-B, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-A",
+        "1-A, 2-B"
+      ],
+      "ans": 2,
+      "exp": "The second tree splits anatomy into lobar and interstitial, while the third splits organisms into typical and atypical. (Book p275)"
+    },
+    {
+      "id": "MED-C47-13",
+      "sec": "HAP, VAP and CAP by Source with Their 48-hour Rules, the Lobar and Interstitial Anatomy, the Typical and Atypical Split, and the Four-Part CAP Criteria with Auscultation",
+      "page": 275,
+      "fmt": "recall",
+      "q": "Which four-part sequence defines community acquired pneumonia on page 275?",
+      "opts": [
+        "Acute infection <1 week with cardinal features plus radiological infiltrates on chest X-ray or CT, with no other explanation for the illness",
+        "Chronic infection >4 weeks with cardinal features plus radiological infiltrates",
+        "Acute infection <1 week with cardinal features alone, radiology being optional",
+        "Acute infection <2 weeks with cardinal features plus radiological infiltrates, with no other explanation for the illness"
+      ],
+      "ans": 0,
+      "exp": "The tree prints '1) Acute infection: <1 week with' the cardinal features, '3) Radiological finding: Infiltrates in chest x-ray/CT' and '+ 4) No other explanation for illness'. (Book p275)"
+    },
+    {
+      "id": "MED-C47-14",
+      "sec": "HAP, VAP and CAP by Source with Their 48-hour Rules, the Lobar and Interstitial Anatomy, the Typical and Atypical Split, and the Four-Part CAP Criteria with Auscultation",
+      "page": 275,
+      "fmt": "recall",
+      "q": "Which five cardinal features are listed for CAP on page 275?",
+      "opts": [
+        "Fever, dyspnea/tachypnea/tachycardia, cough (± sputum), pleuritic chest pain and cyanosis",
+        "Fever, bradycardia, cough (± sputum), pleuritic chest pain and hemoptysis",
+        "Fever, dyspnea/tachypnea/tachycardia, cough (± sputum), pleuritic chest pain and hemoptysis",
+        "Fever, dyspnea/tachypnea/tachycardia, cough with purulent sputum, dull chest pain and clubbing"
+      ],
+      "ans": 2,
+      "exp": "The cardinal list reads fever; dyspnea/tachypnea/tachycardia; cough (± sputum); pleuritic chest pain; hemoptysis — cyanosis and clubbing are not part of it. (Book p275)"
+    },
+    {
+      "id": "MED-C47-15",
+      "sec": "HAP, VAP and CAP by Source with Their 48-hour Rules, the Lobar and Interstitial Anatomy, the Typical and Atypical Split, and the Four-Part CAP Criteria with Auscultation",
+      "page": 275,
+      "fmt": "numeric",
+      "q": "How long may the acute infection have lasted for the printed CAP criteria to apply?",
+      "opts": [
+        "<4 weeks",
+        "<1 week",
+        "<2 weeks",
+        "<48 hours"
+      ],
+      "ans": 1,
+      "exp": "Criterion 1 is 'Acute infection: <1 week with' the cardinal features, a tighter window than the <2-week and >4-week definitions used elsewhere in the book. (Book p275)"
+    },
+    {
+      "id": "MED-C47-16",
+      "sec": "HAP, VAP and CAP by Source with Their 48-hour Rules, the Lobar and Interstitial Anatomy, the Typical and Atypical Split, and the Four-Part CAP Criteria with Auscultation",
+      "page": 275,
+      "fmt": "fillup",
+      "q": "The auscultation findings printed for CAP are bronchial breath sounds and crackles, which the page labels ______.",
+      "opts": [
+        "subjective",
+        "specific",
+        "diagnostic",
+        "pathognomonic"
+      ],
+      "ans": 0,
+      "exp": "The line reads 'Auscultation findings: Bronchial breath sounds, crackles; Subjective', which is why radiology rather than auscultation sits in the criteria. (Book p275)"
+    },
+    {
+      "id": "MED-C47-17",
+      "sec": "HAP, VAP and CAP by Source with Their 48-hour Rules, the Lobar and Interstitial Anatomy, the Typical and Atypical Split, and the Four-Part CAP Criteria with Auscultation",
+      "page": 275,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the radiological criterion of CAP on page 275.",
+      "opts": [
+        "False — radiology is not part of the CAP criteria",
+        "False — the radiological criterion requires cavitation rather than infiltrates",
+        "True — infiltrates must be shown in a chest X-ray only, CT being excluded",
+        "True — infiltrates must be shown in a chest X-ray or CT"
+      ],
+      "ans": 3,
+      "exp": "Criterion 3 reads 'Radiological finding: Infiltrates in chest x-ray/CT', accepting either modality before the final 'no other explanation' clause. (Book p275)"
+    },
+    {
+      "id": "MED-C47-18",
+      "sec": "HAP, VAP and CAP by Source with Their 48-hour Rules, the Lobar and Interstitial Anatomy, the Typical and Atypical Split, and the Four-Part CAP Criteria with Auscultation",
+      "page": 275,
+      "fmt": "scenario",
+      "q": "A 34-year-old has three days of fever, cough with sputum and pleuritic pain, with a right lower zone infiltrate on chest X-ray and no other explanation. How many of the printed CAP criteria does he satisfy?",
+      "opts": [
+        "All four, but only if the sputum culture is positive",
+        "Only two — fever and cough are enough for the diagnosis",
+        "Only three — the radiological criterion needs CT rather than a chest X-ray",
+        "All four — acute infection under a week, cardinal features, radiological infiltrate and no alternative explanation"
+      ],
+      "ans": 3,
+      "exp": "The four criteria read acute infection <1 week with cardinal features, radiological infiltrate on chest X-ray/CT and no other explanation, and a three-day history fits the first. (Book p275)"
+    },
+    {
+      "id": "MED-C47-19",
+      "sec": "The Lobular and Interstitial Organism Columns, the MRSA-in-India Note and the Seven-Row Typical against Atypical Table",
+      "page": 276,
+      "fmt": "recall",
+      "q": "Which organisms are printed under lobar pneumonia on page 276?",
+      "opts": [
+        "Streptococcus pneumoniae (m/c), Klebsiella pneumoniae, Hemophilus influenza, Moraxella catarrhalis and Nocardia",
+        "Streptococcus pneumoniae (m/c), Staph. aureus (MRSA sp), Klebsiella pneumoniae, Hemophilus influenza and Moraxella catarrhalis",
+        "Mycoplasma, Chlamydia, Legionella, Aspergillus and Pneumocystis jirovecii",
+        "Streptococcus pneumoniae (m/c), Staph. aureus (MRSA sp), Klebsiella pneumoniae, Mycoplasma and Chlamydia"
+      ],
+      "ans": 1,
+      "exp": "The bacteria column reads 'Streptococcus pneumoniae (m/c)', 'Staph. aureus (MRSA sp)', 'Klebsiella pneumonia', 'Hemophilus influenza' and 'moraxella catarrhalis'; mycoplasma and chlamydia sit in the interstitial column. (Book p276)"
+    },
+    {
+      "id": "MED-C47-20",
+      "sec": "The Lobular and Interstitial Organism Columns, the MRSA-in-India Note and the Seven-Row Typical against Atypical Table",
+      "page": 276,
+      "fmt": "recall",
+      "q": "Which organisms fill the interstitial (atypical) column on page 276?",
+      "opts": [
+        "Mycoplasma (m/c), then chlamydia, Legionella and Moraxella, then Aspergillus and Nocardia",
+        "Virus (m/c), then mycoplasma, chlamydia and Legionella, then Candida, Histoplasma and Coccidioides",
+        "Virus (m/c), then pneumococcus, staphylococcus and klebsiella, then Aspergillus and Candida",
+        "Virus (m/c), then mycoplasma, chlamydia and Legionella with features of both, then Aspergillus, Pneumocystis jirovecii in HIV and Nocardia in the immunocompromised"
+      ],
+      "ans": 3,
+      "exp": "The right-hand column opens with 'virus (m/c)' under a merged cell, lists mycoplasma, chlamydia and Legionella with features of both, then fungi as Aspergillus, PCP in HIV and Nocardia in the immunocompromised. (Book p276)"
+    },
+    {
+      "id": "MED-C47-21",
+      "sec": "The Lobular and Interstitial Organism Columns, the MRSA-in-India Note and the Seven-Row Typical against Atypical Table",
+      "page": 276,
+      "fmt": "fillup",
+      "q": "The note beneath the organism table states that MRSA is not common in ______.",
+      "opts": [
+        "Africa",
+        "Japan",
+        "India",
+        "Europe"
+      ],
+      "ans": 2,
+      "exp": "The line reads 'Note: MRSA is not common in India', qualifying the MRSA entry in the lobar column and the ICU list on the next page. (Book p276)"
+    },
+    {
+      "id": "MED-C47-22",
+      "sec": "The Lobular and Interstitial Organism Columns, the MRSA-in-India Note and the Seven-Row Typical against Atypical Table",
+      "page": 276,
+      "fmt": "match",
+      "q": "Match each feature to typical or atypical pneumonia as printed — 1) Organism site 2) Onset 3) Pathology … A) Abrupt against insidious B) Extracellular against intracellular C) Alveolar capillary exudates against interstitial infiltrates",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 0,
+      "exp": "The table rows read extracellular vs intracellular, abrupt vs insidious, and alveolar capillary exudates vs interstitial infiltrates for typical against atypical disease. (Book p276)"
+    },
+    {
+      "id": "MED-C47-23",
+      "sec": "The Lobular and Interstitial Organism Columns, the MRSA-in-India Note and the Seven-Row Typical against Atypical Table",
+      "page": 276,
+      "fmt": "match",
+      "q": "Match each atypical clinical feature to its printed description — 1) Course 2) Fever 3) Sputum … A) Low grade B) Mild upper respiratory infection → dry cough, dyspnea → ARDS C) Scanty",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 0,
+      "exp": "The atypical cell prints 'mild URI → Dry cough, dyspnea → ARDS', 'Low grade fever' and 'Scanty sputum', closing with extrapulmonary involvement. (Book p276)"
+    },
+    {
+      "id": "MED-C47-24",
+      "sec": "The Lobular and Interstitial Organism Columns, the MRSA-in-India Note and the Seven-Row Typical against Atypical Table",
+      "page": 276,
+      "fmt": "match",
+      "q": "Match typical against atypical for laboratory detection as printed — 1) Culture/gram stain 2) Inflammatory parameters … A) CRP ↑, procalcitonin ↑ and leucocytosis B) Cannot be detected, with no inflammatory marker change",
+      "opts": [
+        "1-A, 2-A",
+        "1-B, 2-B",
+        "1-A, 2-B",
+        "1-B, 2-A"
+      ],
+      "ans": 3,
+      "exp": "The typical column says culture/gram stain 'Can be detected' with raised CRP, procalcitonin and leucocytosis; the atypical column says 'Cannot be detected' and prints only a dash for inflammatory parameters. (Book p276)"
+    },
+    {
+      "id": "MED-C47-25",
+      "sec": "The Lobular and Interstitial Organism Columns, the MRSA-in-India Note and the Seven-Row Typical against Atypical Table",
+      "page": 276,
+      "fmt": "match",
+      "q": "Match each radiological pattern to its pneumonia type — 1) Large area of consolidation with lobar involvement 2) Bilateral patchy or diffuse interstitial involvement … A) Atypical pneumonia B) Typical pneumonia",
+      "opts": [
+        "1-B, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-A",
+        "1-A, 2-B"
+      ],
+      "ans": 2,
+      "exp": "The last row reads 'Large area of consolidation (Lobar involvement)' for typical and 'Bilateral patchy / diffuse (Interstitial involvement)' for atypical pneumonia. (Book p276)"
+    },
+    {
+      "id": "MED-C47-26",
+      "sec": "The Lobular and Interstitial Organism Columns, the MRSA-in-India Note and the Seven-Row Typical against Atypical Table",
+      "page": 276,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three are printed in the lobar pneumonia organism column, one belongs to the interstitial column:",
+      "opts": [
+        "Streptococcus pneumoniae",
+        "Moraxella catarrhalis",
+        "Mycoplasma",
+        "Klebsiella pneumonia"
+      ],
+      "ans": 2,
+      "exp": "The lobar column prints S. pneumoniae (m/c), Staph aureus including MRSA, Klebsiella, H. influenzae and Moraxella; mycoplasma sits in the interstitial (atypical) column. (Book p276)"
+    },
+    {
+      "id": "MED-C47-27",
+      "sec": "Community Acquired MRSA, the Outpatient to ICU Organism Shift, MRSA and MDR Risk within Three Months, and Pneumococcal Morphology, Culture and Haemolysis Chart",
+      "page": 277,
+      "fmt": "recall",
+      "q": "Which two settings raise the possibility of community acquired MRSA on page 277?",
+      "opts": [
+        "Concurrent tuberculosis, and cavity with hemoptysis and pneumatocele",
+        "Concurrent influenza infection, and cavity with hemoptysis and pneumatocele",
+        "Recent hospitalization, and a simple parapneumonic effusion",
+        "Concurrent influenza infection, and bilateral hilar lymphadenopathy"
+      ],
+      "ans": 1,
+      "exp": "The two bullets are 'concurrent influenza infection' and 'cavity + hemoptysis + pneumatocele', the classic triad of necrotising community MRSA. (Book p277)"
+    },
+    {
+      "id": "MED-C47-28",
+      "sec": "Community Acquired MRSA, the Outpatient to ICU Organism Shift, MRSA and MDR Risk within Three Months, and Pneumococcal Morphology, Culture and Haemolysis Chart",
+      "page": 277,
+      "fmt": "match",
+      "q": "Match each care setting to its printed organisms — 1) Outpatient 2) Inpatient non-ICU 3) Inpatient ICU … A) Strep pneumoniae, MRSA and multidrug resistant gram-negative B) Strep pneumoniae, virus, mycoplasma, chlamydia and H. influenza C) Strep pneumoniae from ↓CMI, respiratory viruses and Legionella",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 3,
+      "exp": "The care-set-up tree gives outpatients strep pneumoniae, virus, mycoplasma, chlamydia and H. influenza; non-ICU inpatients strep pneumoniae (d/t ↓CMI), respiratory viruses and Legionella; ICU patients strep pneumoniae, MRSA and MDR gram-negative with high mortality. (Book p277)"
+    },
+    {
+      "id": "MED-C47-29",
+      "sec": "Community Acquired MRSA, the Outpatient to ICU Organism Shift, MRSA and MDR Risk within Three Months, and Pneumococcal Morphology, Culture and Haemolysis Chart",
+      "page": 277,
+      "fmt": "recall",
+      "q": "Which five risk factors are printed for MRSA and MDR gram-negative infection?",
+      "opts": [
+        "Congestive heart failure, hemodialysis, antibiotic use and hospitalization within the last 12 months, and structural lung disease",
+        "Congestive heart failure, neutropenia, recent surgery, and structural lung disease",
+        "Congestive heart failure, hemodialysis, antibiotic use and hospitalization within the last 3 months, and structural lung disease",
+        "Diabetes, hemodialysis, antibiotic use within the last 3 months, and pleural effusion"
+      ],
+      "ans": 2,
+      "exp": "The list reads congestive heart failure, hemodialysis, antibiotic use, hospitalization and structural lung disease, with the brace 'within the last 3 months' covering the antibiotic and admission items. (Book p277)"
+    },
+    {
+      "id": "MED-C47-30",
+      "sec": "Community Acquired MRSA, the Outpatient to ICU Organism Shift, MRSA and MDR Risk within Three Months, and Pneumococcal Morphology, Culture and Haemolysis Chart",
+      "page": 277,
+      "fmt": "fillup",
+      "q": "Antibiotic use and hospitalization count as MRSA/MDR risks only when they occurred within the last ______ months.",
+      "opts": [
+        "6",
+        "3",
+        "12",
+        "1"
+      ],
+      "ans": 1,
+      "exp": "The brace beside 'Antibiotic use' and 'Hospitalization' is labelled 'within the last 3 months', which is the time window the question tests. (Book p277)"
+    },
+    {
+      "id": "MED-C47-31",
+      "sec": "Community Acquired MRSA, the Outpatient to ICU Organism Shift, MRSA and MDR Risk within Three Months, and Pneumococcal Morphology, Culture and Haemolysis Chart",
+      "page": 277,
+      "fmt": "recall",
+      "q": "How are pneumococci described morphologically on page 277?",
+      "opts": [
+        "Gram-positive diplococci in chains, flame shaped or lanceolate",
+        "Gram-positive diplococci in pairs only, without a capsule",
+        "Gram-negative diplococci in chains, flame shaped or lanceolate",
+        "Gram-positive cocci in clusters, spherical and non-capsulated"
+      ],
+      "ans": 0,
+      "exp": "The morphology block reads 'gram-positive diplococci in chains', and the micrograph is captioned 'Flame shaped / Lanceolate diplococci'. (Book p277)"
+    },
+    {
+      "id": "MED-C47-32",
+      "sec": "Community Acquired MRSA, the Outpatient to ICU Organism Shift, MRSA and MDR Risk within Three Months, and Pneumococcal Morphology, Culture and Haemolysis Chart",
+      "page": 277,
+      "fmt": "recall",
+      "q": "Which culture characteristics of pneumococci are printed beside the blood agar photograph?",
+      "opts": [
+        "Beta hemolytic, complete hemolysis in 5% blood agar, with a clear zone and a swarming appearance",
+        "Alpha hemolytic, partial hemolysis in 5% blood agar, with a golden pigment and a comet-tail appearance",
+        "Gamma hemolytic, no hemolysis on blood agar, with a grey colony and a mucoid appearance",
+        "Alpha hemolytic, partial hemolysis in 5% blood agar, with green colour and a draughtsman or carrom coin appearance"
+      ],
+      "ans": 3,
+      "exp": "The culture block reads 'Alpha hemolytic (Partial hemolysis in 5% blood agar)', with arrows to 'green colour on blood agar' and the 'Draughtsman/carrom coin appearance' photograph. (Book p277)"
+    },
+    {
+      "id": "MED-C47-33",
+      "sec": "Community Acquired MRSA, the Outpatient to ICU Organism Shift, MRSA and MDR Risk within Three Months, and Pneumococcal Morphology, Culture and Haemolysis Chart",
+      "page": 277,
+      "fmt": "match",
+      "q": "Match each hemolysis pattern to its printed organisms — 1) Complete 2) Partial 3) No hemolysis … A) Enterococci B) Streptococcus C) Strep. pneumoniae and Strep. viridans",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "The note tree reads Complete → Streptococcus, Partial → Strep. pneumoniae and Strep. viridans, and No → Enterococci. (Book p277)"
+    },
+    {
+      "id": "MED-C47-34",
+      "sec": "Community Acquired MRSA, the Outpatient to ICU Organism Shift, MRSA and MDR Risk within Three Months, and Pneumococcal Morphology, Culture and Haemolysis Chart",
+      "page": 277,
+      "fmt": "scenario",
+      "q": "A patient with severe CAP is admitted to the ICU. Which organisms does the printed care-set-up tree expect, and what does it say about mortality?",
+      "opts": [
+        "Strep pneumoniae, MRSA and multidrug resistant gram-negative organisms, with high mortality",
+        "Virus, mycoplasma and chlamydia, with high mortality",
+        "Strep pneumoniae, respiratory viruses and Legionella, with low mortality",
+        "Strep pneumoniae, MRSA and Legionella, with high mortality"
+      ],
+      "ans": 0,
+      "exp": "The ICU arm reads 'Inpatient (ICU): (High mortality) Strep. pneumoniae, MRSA, multidrug resistant gram-negative (MDR)', distinct from the non-ICU arm. (Book p277)"
+    },
+    {
+      "id": "MED-C47-35",
+      "sec": "Pneumococcus against Viridans, the Four Toxins, the Quellung Reaction, Type 3 Invasiveness and the CAP Risk and Poor-Prognosis Notes",
+      "page": 278,
+      "fmt": "match",
+      "q": "Match the two streptococci to their printed results across the whole biochemical table — 1) Strep pneumoniae 2) Strep viridans … A) Negative for bile soluble, optochin susceptible and inulin fermentation B) Positive for bile soluble, optochin susceptible and inulin fermentation",
+      "opts": [
+        "1-A, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 2,
+      "exp": "The two-column table gives a plus to Strep pneumoniae and a minus to Strep viridans in all three rows — bile soluble, optochin susceptible and inulin fermentation. (Book p278)"
+    },
+    {
+      "id": "MED-C47-36",
+      "sec": "Pneumococcus against Viridans, the Four Toxins, the Quellung Reaction, Type 3 Invasiveness and the CAP Risk and Poor-Prognosis Notes",
+      "page": 278,
+      "fmt": "recall",
+      "q": "Which four toxins or antigens are listed for the pneumococcus on page 278?",
+      "opts": [
+        "Capsular polysaccharide, exotoxin A, IgA1 and pneumococcal somatic C antigen",
+        "Capsular polysaccharide, pneumolysin, IgA1 and pneumococcal somatic C antigen",
+        "Capsular polysaccharide, pneumolysin, streptolysin O and pneumococcal somatic C antigen",
+        "Capsular polysaccharide, pneumolysin, IgA protease and M protein"
+      ],
+      "ans": 1,
+      "exp": "The toxin list reads capsular polysaccharide, pneumolysin ('Cytolytic toxin → Pores in cell membrane'), IgA1 and pneumococcal somatic C antigen, which precipitates C reactive protein. (Book p278)"
+    },
+    {
+      "id": "MED-C47-37",
+      "sec": "Pneumococcus against Viridans, the Four Toxins, the Quellung Reaction, Type 3 Invasiveness and the CAP Risk and Poor-Prognosis Notes",
+      "page": 278,
+      "fmt": "fillup",
+      "q": "The Quellung reaction shown beside the toxin list demonstrates ______ of the capsule.",
+      "opts": [
+        "staining",
+        "swelling",
+        "dissolution",
+        "rupture"
+      ],
+      "ans": 1,
+      "exp": "The arrow on the diagram points to 'swelling of capsule' with the caption 'Quellung reaction' beneath it. (Book p278)"
+    },
+    {
+      "id": "MED-C47-38",
+      "sec": "Pneumococcus against Viridans, the Four Toxins, the Quellung Reaction, Type 3 Invasiveness and the CAP Risk and Poor-Prognosis Notes",
+      "page": 278,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the invasiveness of S. pneumoniae as printed on page 278.",
+      "opts": [
+        "True — every serotype of S. pneumoniae is invasive",
+        "False — S. pneumoniae is invasive except for type 3",
+        "False — S. pneumoniae is never invasive",
+        "True — S. pneumoniae is non invasive except for type 3"
+      ],
+      "ans": 3,
+      "exp": "The note under the Quellung diagram reads 'S pneumoniae is non invasive (Except type 3)', making type 3 the exception. (Book p278)"
+    },
+    {
+      "id": "MED-C47-39",
+      "sec": "Pneumococcus against Viridans, the Four Toxins, the Quellung Reaction, Type 3 Invasiveness and the CAP Risk and Poor-Prognosis Notes",
+      "page": 278,
+      "fmt": "recall",
+      "q": "Which six conditions define deficient cell-mediated immunity as a CAP risk on page 278?",
+      "opts": [
+        "Diabetes, chronic kidney disease, hemodialysis, COPD with bronchiectasis, cardiac failure and age >65 years",
+        "Diabetes, nephrotic syndrome, hemodialysis, COPD with bronchiectasis, cardiac failure and age >65 years",
+        "Diabetes, chronic kidney disease, peritoneal dialysis, asthma, cardiac failure and age >65 years",
+        "Diabetes, chronic kidney disease, hemodialysis, COPD with bronchiectasis, cardiac failure and age >50 years"
+      ],
+      "ans": 0,
+      "exp": "The list reads diabetes, chronic kidney disease, hemodialysis, 'chronic obstructive pulmonary disease, bronchiectasis', cardiac failure and 'Age >65 yrs'. (Book p278)"
+    },
+    {
+      "id": "MED-C47-40",
+      "sec": "Pneumococcus against Viridans, the Four Toxins, the Quellung Reaction, Type 3 Invasiveness and the CAP Risk and Poor-Prognosis Notes",
+      "page": 278,
+      "fmt": "recall",
+      "q": "Which four items are listed under the immunocompromised heading?",
+      "opts": [
+        "Steroid consumption, splenectomy, transplant and neutrophilia",
+        "Steroid consumption, transplant, neutropenia and HIV",
+        "Steroid or monoclonal antibody consumption, transplant and neutropenia",
+        "Monoclonal antibody consumption, transplant, neutropenia and chemotherapy"
+      ],
+      "ans": 2,
+      "exp": "The immunocompromised block reads 'Steroid, monoclonal antibody consumption', 'Transplant' and 'Neutropenia' — four drug/state entries across three bullets. (Book p278)"
+    },
+    {
+      "id": "MED-C47-41",
+      "sec": "Pneumococcus against Viridans, the Four Toxins, the Quellung Reaction, Type 3 Invasiveness and the CAP Risk and Poor-Prognosis Notes",
+      "page": 278,
+      "fmt": "recall",
+      "q": "Which two findings are printed as markers of a poor prognosis in CAP?",
+      "opts": [
+        "Hypotension and thrombocytosis, the latter usually with atypical organisms",
+        "Hypothermia and leukocytosis, the latter usually with typical organisms",
+        "Hypothermia and leukopenia, the latter usually with atypical organisms",
+        "Hyperthermia and leukocytosis, the latter usually with typical organisms"
+      ],
+      "ans": 2,
+      "exp": "The note reads 'Poor prognosis of CAP: Hypothermia. Leukopenia (usually atypical organisms)', both being paradoxical findings in an infection. (Book p278)"
+    },
+    {
+      "id": "MED-C47-42",
+      "sec": "Pneumococcus against Viridans, the Four Toxins, the Quellung Reaction, Type 3 Invasiveness and the CAP Risk and Poor-Prognosis Notes",
+      "page": 278,
+      "fmt": "scenario",
+      "q": "A diabetic patient with pneumococcal bacteremia is treated on the ward. Which organism does the printed etiology pairing predict, and what does the immunity list say about diabetes?",
+      "opts": [
+        "Streptococcus pneumoniae, and diabetes sits under immunocompromised states only",
+        "Klebsiella, and diabetes sits under deficient cell-mediated immunity",
+        "Streptococcus pneumoniae, and diabetes sits under deficient cell-mediated immunity",
+        "Pseudomonas, and diabetes sits under the structural lung disease list"
+      ],
+      "ans": 2,
+      "exp": "The p280 pairing links bacteremia/diabetes to S. pneumoniae, and the p278 risk list places diabetes first under deficient cell-mediated immunity. (Book p278)"
+    },
+    {
+      "id": "MED-C47-43",
+      "sec": "Type 2 Alveolar Binding, the Lobar Pneumonia Cardinal and Abdominal Symptoms, the Older-Patient Caveat, Resolution Timing and the Four-Column Chest Film Table",
+      "page": 279,
+      "fmt": "fillup",
+      "q": "The clinical pattern section opens by stating that bacteria bind to type ______ alveolar epithelial cells.",
+      "opts": [
+        "4",
+        "1",
+        "3",
+        "2"
+      ],
+      "ans": 3,
+      "exp": "The first line under Clinical Pattern reads 'Bacteria bind to type 2 alveolar epithelial cells', the same type II cell that makes surfactant in the earlier pulmonary chapter. (Book p279)"
+    },
+    {
+      "id": "MED-C47-44",
+      "sec": "Type 2 Alveolar Binding, the Lobar Pneumonia Cardinal and Abdominal Symptoms, the Older-Patient Caveat, Resolution Timing and the Four-Column Chest Film Table",
+      "page": 279,
+      "fmt": "recall",
+      "q": "Which five symptoms are bracketed as cardinal symptoms of lobar pneumonia?",
+      "opts": [
+        "High spiking fever, pleuritic chest pain, cough, hemoptysis and dyspnea",
+        "Low grade fever, pleuritic chest pain, cough, hemoptysis and dyspnea",
+        "High spiking fever, dull chest pain, cough with scanty sputum, hemoptysis and dyspnea",
+        "High spiking fever, pleuritic chest pain, cough, hemoptysis and abdominal pain"
+      ],
+      "ans": 0,
+      "exp": "The brace 'Cardinal symptoms' encloses exactly high spiking fever, pleuritic chest pain, cough, hemoptysis and dyspnea; abdominal symptoms and confusion sit outside it. (Book p279)"
+    },
+    {
+      "id": "MED-C47-45",
+      "sec": "Type 2 Alveolar Binding, the Lobar Pneumonia Cardinal and Abdominal Symptoms, the Older-Patient Caveat, Resolution Timing and the Four-Column Chest Film Table",
+      "page": 279,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three are printed under lobar pneumonia on page 279, one details belongs elsewhere:",
+      "opts": [
+        "Recurrent hiccups",
+        "Recurrent hiccups with diffuse abdominal pain as the only presentation in older patients",
+        "Confusion",
+        "Abdominal symptoms with diffuse abdominal pain"
+      ],
+      "ans": 1,
+      "exp": "Abdominal symptoms include diffuse abdominal pain and recurrent hiccups, and confusion is a separate bullet; in older patients confusion may be the only symptom, not the abdominal pair. (Book p279)"
+    },
+    {
+      "id": "MED-C47-46",
+      "sec": "Type 2 Alveolar Binding, the Lobar Pneumonia Cardinal and Abdominal Symptoms, the Older-Patient Caveat, Resolution Timing and the Four-Column Chest Film Table",
+      "page": 279,
+      "fmt": "recall",
+      "q": "What is printed about lobar pneumonia in older patients?",
+      "opts": [
+        "Cough is the only symptom, and classical signs may not be present",
+        "Abdominal pain is the only symptom, and classical signs are always present",
+        "Fever is always the only symptom, and classical signs are exaggerated",
+        "Confusion might be the only symptom, and classical signs may not be present"
+      ],
+      "ans": 3,
+      "exp": "The two lines read 'In older patients: Confusion might be the only symptom' and 'Classical signs may not be present', which is why the criteria lean on radiology. (Book p279)"
+    },
+    {
+      "id": "MED-C47-47",
+      "sec": "Type 2 Alveolar Binding, the Lobar Pneumonia Cardinal and Abdominal Symptoms, the Older-Patient Caveat, Resolution Timing and the Four-Column Chest Film Table",
+      "page": 279,
+      "fmt": "numeric",
+      "q": "How long after antibiotics do fever and leukocytosis resolve in the printed progression line?",
+      "opts": [
+        "7–10 days",
+        "4–5 days",
+        "2 weeks",
+        "24–48 hours"
+      ],
+      "ans": 1,
+      "exp": "The line reads 'Progression: Fever & leukocytosis resolve 4-5 days after antibiotics', a useful clock for judging treatment failure. (Book p279)"
+    },
+    {
+      "id": "MED-C47-48",
+      "sec": "Type 2 Alveolar Binding, the Lobar Pneumonia Cardinal and Abdominal Symptoms, the Older-Patient Caveat, Resolution Timing and the Four-Column Chest Film Table",
+      "page": 279,
+      "fmt": "match",
+      "q": "Match each pneumonia to its printed blood picture — 1) Lobar pneumonia 2) Interstitial bronchopneumonia … A) Normal CBC, CRP and procalcitonin B) Leucocytosis with raised CRP and procalcitonin",
+      "opts": [
+        "1-A, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 2,
+      "exp": "The table gives lobar disease leucocytosis, raised CRP and raised procalcitonin, while the interstitial column reads normal for all three. (Book p279)"
+    },
+    {
+      "id": "MED-C47-49",
+      "sec": "Type 2 Alveolar Binding, the Lobar Pneumonia Cardinal and Abdominal Symptoms, the Older-Patient Caveat, Resolution Timing and the Four-Column Chest Film Table",
+      "page": 279,
+      "fmt": "recall",
+      "q": "Which four signs are printed for the lobar pneumonia chest film?",
+      "opts": [
+        "Homogeneous consolidation, silhouette sign, air bronchogram and sharply marginated fissure",
+        "Heterogeneous patchy infiltrates, silhouette sign, air bronchogram and sharply marginated fissure",
+        "Homogeneous consolidation, cavity formation, air bronchogram and sharply marginated fissure",
+        "Homogeneous consolidation, silhouette sign, air bronchogram and bilateral diffuse fine reticular opacity"
+      ],
+      "ans": 0,
+      "exp": "The lobar column lists '1. Homogeneous consolidation, 2. Silhouette sign, 3. Air bronchogram, 4. Sharply marginated fissure', with Strep pneumoniae as the usual cause. (Book p279)"
+    },
+    {
+      "id": "MED-C47-50",
+      "sec": "Type 2 Alveolar Binding, the Lobar Pneumonia Cardinal and Abdominal Symptoms, the Older-Patient Caveat, Resolution Timing and the Four-Column Chest Film Table",
+      "page": 279,
+      "fmt": "recall",
+      "q": "Which signs and usual cause are printed for bronchopneumonia?",
+      "opts": [
+        "Bilateral diffuse fine reticular opacity, usually Pneumocystis jirovecii",
+        "Poorly defined heterogeneous patchy infiltrates scattered through the lung with an air bronchogram, usually staphylococcal aureus giving multilobar disease with cavitation, pneumatoceles and abscess",
+        "Airspace opacification in a lobar distribution, usually after a stroke or seizure",
+        "Homogeneous consolidation with a silhouette sign, usually Strep pneumoniae giving a single lobe"
+      ],
+      "ans": 1,
+      "exp": "The bronchopneumonia column prints 'Poorly defined heterogenous patchy infiltrates scattered throughout the lung', an air bronchogram, and 'Staphylococcal aureus → multilobar + Cavitation + pneumatoceles + abscess'. (Book p279)"
+    },
+    {
+      "id": "MED-C47-51",
+      "sec": "Type 2 Alveolar Binding, the Lobar Pneumonia Cardinal and Abdominal Symptoms, the Older-Patient Caveat, Resolution Timing and the Four-Column Chest Film Table",
+      "page": 279,
+      "fmt": "match",
+      "q": "Match each film pattern to its printed usual cause — 1) Interstitial pneumonia with bilateral diffuse fine reticular opacity 2) Aspiration with airspace opacification in a lobar or segmental distribution … A) Stroke or seizure B) Pneumocystis jirovecii pneumonia",
+      "opts": [
+        "1-B, 2-B",
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A"
+      ],
+      "ans": 2,
+      "exp": "The interstitial column names Pneumocystis (jiroveci) pneumonia and the aspiration column names stroke or seizure, with gravity-dependent predilection. (Book p279)"
+    },
+    {
+      "id": "MED-C47-52",
+      "sec": "Type 2 Alveolar Binding, the Lobar Pneumonia Cardinal and Abdominal Symptoms, the Older-Patient Caveat, Resolution Timing and the Four-Column Chest Film Table",
+      "page": 279,
+      "fmt": "scenario",
+      "q": "An 82-year-old presents with confusion alone and no classical signs of pneumonia. What does page 279 advise?",
+      "opts": [
+        "Confusion excludes pneumonia and points to a metabolic cause",
+        "Confusion may be the only symptom in older patients and classical signs may be absent, so radiology is needed",
+        "Classical signs are always present in older patients, so confusion can be ignored",
+        "Confusion in the elderly always means a lung abscess rather than pneumonia"
+      ],
+      "ans": 1,
+      "exp": "The two lines read 'In older patients: Confusion might be the only symptom' and 'Classical signs may not be present', which is why the CAP criteria include radiology. (Book p279)"
+    },
+    {
+      "id": "MED-C47-53",
+      "sec": "Sputum and Blood Culture Yields, BAL, and the Fourteen-Row Etiology Table from Bacteraemia to Atherosclerosis",
+      "page": 280,
+      "fmt": "recall",
+      "q": "Which specimen work-up is described at the top of page 280?",
+      "opts": [
+        "Sputum microscopy and sputum culture done in atypical pneumonia, blood culture with poor yield, and BAL",
+        "Sputum microscopy and culture done in typical pneumonia, blood culture with high yield, and BAL",
+        "Sputum culture done in atypical pneumonia, blood culture with poor yield, and lung biopsy",
+        "Sputum microscopy only, blood culture with poor yield, and pleural biopsy"
+      ],
+      "ans": 0,
+      "exp": "The bracket joins sputum microscopy and sputum culture as 'Done in atypical pneumonia', with blood culture noted for 'poor yield' and BAL listed last. (Book p280)"
+    },
+    {
+      "id": "MED-C47-54",
+      "sec": "Sputum and Blood Culture Yields, BAL, and the Fourteen-Row Etiology Table from Bacteraemia to Atherosclerosis",
+      "page": 280,
+      "fmt": "match",
+      "q": "Match each history to its printed organism — 1) Bacteremia or diabetes 2) Alcoholism with upper lobe involvement 3) COPD, smoking or bronchiectasis 4) Cystic fibrosis … A) Pseudomonas B) Klebsiella C) Streptococcus pneumoniae D) Burkholderia cepacia",
+      "opts": [
+        "1-B, 2-C, 3-A, 4-D",
+        "1-C, 2-A, 3-B, 4-D",
+        "1-C, 2-B, 3-D, 4-A",
+        "1-C, 2-B, 3-A, 4-D"
+      ],
+      "ans": 3,
+      "exp": "The table pairs bacteremia/diabetes with S. pneumoniae, the alcoholism cluster with Klebsiella, COPD/smoking/bronchiectasis with Pseudomonas and cystic fibrosis with Burkholderia cepacia. (Book p280)"
+    },
+    {
+      "id": "MED-C47-55",
+      "sec": "Sputum and Blood Culture Yields, BAL, and the Fourteen-Row Etiology Table from Bacteraemia to Atherosclerosis",
+      "page": 280,
+      "fmt": "match",
+      "q": "Match each lesion to its printed organism — 1) Lung abscess 2) Cavity 3) Pneumatocele … A) Klebsiella B) MRSA and anaerobes C) MRSA",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 2,
+      "exp": "The rows read lung abscess → MRSA and anaerobes, cavity → MRSA (printed in colour) and pneumatocele → Klebsiella. (Book p280)"
+    },
+    {
+      "id": "MED-C47-56",
+      "sec": "Sputum and Blood Culture Yields, BAL, and the Fourteen-Row Etiology Table from Bacteraemia to Atherosclerosis",
+      "page": 280,
+      "fmt": "match",
+      "q": "Match each exposure to its printed organism — 1) Sheep, cats and goats 2) Rabbits 3) Bats … A) Histoplasma B) Coxiella burnetii C) Francisella tularensis",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 1,
+      "exp": "The exposure rows read sheep/cats/goats → Coxiella burnetii, rabbits → Francisella tularensis and bats → Histoplasma. (Book p280)"
+    },
+    {
+      "id": "MED-C47-57",
+      "sec": "Sputum and Blood Culture Yields, BAL, and the Fourteen-Row Etiology Table from Bacteraemia to Atherosclerosis",
+      "page": 280,
+      "fmt": "fillup",
+      "q": "Travel to the Ohio and St. Lawrence river valley points to ______.",
+      "opts": [
+        "Histoplasma capsulatum",
+        "Coccidioides immitis",
+        "Cryptococcus neoformans",
+        "Blastomyces dermatitidis"
+      ],
+      "ans": 0,
+      "exp": "The row reads 'Travel to Ohio & St. Lawrence river valley → Histoplasma capsulatum', distinct from the bat exposure row that names Histoplasma alone. (Book p280)"
+    },
+    {
+      "id": "MED-C47-58",
+      "sec": "Sputum and Blood Culture Yields, BAL, and the Fourteen-Row Etiology Table from Bacteraemia to Atherosclerosis",
+      "page": 280,
+      "fmt": "fillup",
+      "q": "The final row of the etiology table links atherosclerosis to ______.",
+      "opts": [
+        "Legionella pneumophila",
+        "Coxiella burnetii",
+        "Mycoplasma pneumoniae",
+        "Chlamydia pneumoniae"
+      ],
+      "ans": 3,
+      "exp": "The last row pairs 'Atherosclerosis' with 'Chlamydia pneumoniae', the chronic-infection hypothesis printed in colour. (Book p280)"
+    },
+    {
+      "id": "MED-C47-59",
+      "sec": "Sputum and Blood Culture Yields, BAL, and the Fourteen-Row Etiology Table from Bacteraemia to Atherosclerosis",
+      "page": 280,
+      "fmt": "match",
+      "q": "Match each setting to its printed organism — 1) Alzheimer-type dementia or decreased level of consciousness 2) Travel on a cruise ship … A) Legionella B) Anaerobes",
+      "opts": [
+        "1-B, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-A",
+        "1-A, 2-B"
+      ],
+      "ans": 2,
+      "exp": "Dementia and a decreased level of consciousness point to anaerobes from aspiration, while cruise-ship travel points to Legionella. (Book p280)"
+    },
+    {
+      "id": "MED-C47-60",
+      "sec": "Sputum and Blood Culture Yields, BAL, and the Fourteen-Row Etiology Table from Bacteraemia to Atherosclerosis",
+      "page": 280,
+      "fmt": "scenario",
+      "q": "A patient with fever and a cavitating pneumonia reports exposure to bats. Which organism does the printed table suggest?",
+      "opts": [
+        "Coxiella burnetii",
+        "Chlamydia pneumoniae",
+        "Francisella tularensis",
+        "Histoplasma"
+      ],
+      "ans": 3,
+      "exp": "The exposure rows read sheep, cats and goats → Coxiella burnetii, rabbits → Francisella tularensis and bats → Histoplasma. (Book p280)"
+    },
+    {
+      "id": "MED-C47-61",
+      "sec": "Extrapulmonary Mycoplasma, and the Air Bronchogram, Silhouette, Golden S and Mediastinal Shift Captions",
+      "page": 281,
+      "fmt": "recall",
+      "q": "Which three extrapulmonary manifestations of mycoplasma are printed on page 281?",
+      "opts": [
+        "Cold antibody autoimmune hemolysis, Steven Johnson's syndrome and Guillain Barre syndrome",
+        "Cold antibody autoimmune hemolysis, erythema nodosum and Guillain Barre syndrome",
+        "Warm antibody autoimmune hemolysis, Steven Johnson's syndrome and myasthenia gravis",
+        "Cold antibody autoimmune hemolysis, Steven Johnson's syndrome and transverse myelitis"
+      ],
+      "ans": 0,
+      "exp": "The list reads 'Cold antibody autoimmune hemolysis', 'Steven Johnson's syndrome' and 'Guillain Barre syndrome' beneath the heading extrapulmonary manifestations of mycoplasma. (Book p281)"
+    },
+    {
+      "id": "MED-C47-62",
+      "sec": "Extrapulmonary Mycoplasma, and the Air Bronchogram, Silhouette, Golden S and Mediastinal Shift Captions",
+      "page": 281,
+      "fmt": "recall",
+      "q": "How is the air bronchogram described in the radiological findings block?",
+      "opts": [
+        "Air filled spaces within a cavity, which is specific to tuberculosis",
+        "Air filled spaces within consolidation, which is not specific to consolidation and also appears in cardiogenic pulmonary edema",
+        "Air filled spaces tracking along the pleura, which is specific to empyema",
+        "Air filled spaces within consolidation, which is specific to lobar pneumonia and never appears in edema"
+      ],
+      "ans": 1,
+      "exp": "The two bullets read 'Air filled spaces within consolidation' and 'Not specific to consolidation', with a captioned example 'Air bronchogram in a cardiogenic pulmonary edema'. (Book p281)"
+    },
+    {
+      "id": "MED-C47-63",
+      "sec": "Extrapulmonary Mycoplasma, and the Air Bronchogram, Silhouette, Golden S and Mediastinal Shift Captions",
+      "page": 281,
+      "fmt": "recall",
+      "q": "What does consolidation of the left lower lobe do to the silhouettes?",
+      "opts": [
+        "It loses the diaphragm silhouette while the left heart silhouette stays intact",
+        "It loses both the left heart and the diaphragm silhouettes",
+        "It loses the ascending aorta silhouette with the diaphragm intact",
+        "It loses the left heart silhouette while the diaphragm silhouette stays intact"
+      ],
+      "ans": 3,
+      "exp": "The two bullets under the left lower lobe film read 'Loss of left heart silhouette' and 'Diaphragm silhouette is intact', a classic silhouette-sign exercise. (Book p281)"
+    },
+    {
+      "id": "MED-C47-64",
+      "sec": "Extrapulmonary Mycoplasma, and the Air Bronchogram, Silhouette, Golden S and Mediastinal Shift Captions",
+      "page": 281,
+      "fmt": "recall",
+      "q": "Which silhouette is lost with consolidation of the right upper lobe, and which signs are bracketed to Klebsiella?",
+      "opts": [
+        "Loss of the descending aorta silhouette, with golden S and bulging fissure sign belonging to Pseudomonas infection",
+        "Loss of the ascending aorta silhouette, with golden S and bulging fissure sign belonging to staphylococcal infection",
+        "Loss of the right heart silhouette, with golden S and bulging fissure sign belonging to pneumococcal infection",
+        "Loss of the ascending aorta silhouette, with golden S or reverse S sign and bulging fissure sign belonging to Klebsiella infection"
+      ],
+      "ans": 3,
+      "exp": "The upper lobe film is captioned with 'Loss of ascending aorta silhouette', and the brace ties golden S/reverse S and bulging fissure to 'Klebsiella infection'. (Book p281)"
+    },
+    {
+      "id": "MED-C47-65",
+      "sec": "Extrapulmonary Mycoplasma, and the Air Bronchogram, Silhouette, Golden S and Mediastinal Shift Captions",
+      "page": 281,
+      "fmt": "match",
+      "q": "Match each chest film finding to its printed meaning — 1) Golden S sign or reverse S sign 2) Bulging fissure sign … A) Klebsiella infection alongside the golden S B) Collapse with mediastinum shifted to the same side",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-B",
+        "1-A, 2-A"
+      ],
+      "ans": 0,
+      "exp": "The collapse panel lists '1. Shifting of mediastinum to same side' and '2. Golden S sign / Reverse S sign', while the bulging fissure sign is bracketed with Klebsiella infection. (Book p281)"
+    },
+    {
+      "id": "MED-C47-66",
+      "sec": "Extrapulmonary Mycoplasma, and the Air Bronchogram, Silhouette, Golden S and Mediastinal Shift Captions",
+      "page": 281,
+      "fmt": "scenario",
+      "q": "A chest film shows right upper lobe consolidation, a bulging fissure and a reverse S curve, and the trachea is shifted to the right. Which combination does the page support?",
+      "opts": [
+        "Pleural effusion, with Klebsiella as the suggested organism",
+        "Collapse of the left upper lobe, with Klebsiella as the suggested organism",
+        "Collapse of the right upper lobe, with Klebsiella as the suggested organism",
+        "Consolidation without collapse, with pneumococcus as the suggested organism"
+      ],
+      "ans": 2,
+      "exp": "The collapse panel pairs mediastinal shift to the same side with golden S/reverse S, and the adjacent brace attributes golden S and bulging fissure to Klebsiella; the last caption is 'Collapse of right upper lobe'. (Book p281)"
+    },
+    {
+      "id": "MED-C47-67",
+      "sec": "Mycoplasma against Legionella Films, the Fibrocalcific Scar, Necrotising Klebsiella and the Pneumatocele Cascade with Its 4 mm Rule",
+      "page": 282,
+      "fmt": "match",
+      "q": "Match each photograph caption on page 282 to its printed message — 1) Mycoplasma/Chlamydia 2) Legionella 3) Bronchopneumonia 4) Fibrocalcific scar post TB … A) Bilateral dense consolidation B) Minimal interstitial infiltrates misdiagnosed as a normal study C) Air space opacification/consolidation D) Fibrosis",
+      "opts": [
+        "1-C, 2-A, 3-B, 4-D",
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-A, 3-D, 4-C"
+      ],
+      "ans": 1,
+      "exp": "The four captions read 'mycoplasma/Chlamydia minimal interstitial infiltrates misdiagnosed as normal study', 'Legionella bilateral dense consolidation', 'Bronchopneumonia air space opacification: consolidation' and 'Fibrocalcific scar post TB' with an arrow to fibrosis. (Book p282)"
+    },
+    {
+      "id": "MED-C47-68",
+      "sec": "Mycoplasma against Legionella Films, the Fibrocalcific Scar, Necrotising Klebsiella and the Pneumatocele Cascade with Its 4 mm Rule",
+      "page": 282,
+      "fmt": "recall",
+      "q": "Which two features are printed under the necrotising Klebsiella film?",
+      "opts": [
+        "Upper lobe involvement and bulging fissure sign",
+        "Lower lobe involvement and air bronchogram",
+        "Upper lobe involvement and golden S sign only",
+        "Bilateral diffuse infiltrates and pneumatocele"
+      ],
+      "ans": 0,
+      "exp": "The caption bullets read 'upper lobe involvement' and 'bulging fissure sign' beneath the circled necrotising area. (Book p282)"
+    },
+    {
+      "id": "MED-C47-69",
+      "sec": "Mycoplasma against Legionella Films, the Fibrocalcific Scar, Necrotising Klebsiella and the Pneumatocele Cascade with Its 4 mm Rule",
+      "page": 282,
+      "fmt": "recall",
+      "q": "Which sequence describes the pathogenesis of pneumonia with multiple pneumatocele on page 282?",
+      "opts": [
+        "Dense white opacity → air entry into abscess → necrosis of parenchyma → bursts into bronchus → gas within consolidation → cavity",
+        "Dense white opacity → cavity → air-fluid level → abscess → necrosis → air entry → resolution",
+        "Dense white opacity → focal suppurative lung abscess → necrosis and destruction of parenchyma → bursts into bronchus → air entry into abscess → gas within consolidation surrounded by a wall → air-fluid levels → cavity",
+        "Dense white opacity → focal suppurative lung abscess → fibrosis and scarring → air entry into abscess → gas within consolidation → air-fluid levels → cavity"
+      ],
+      "ans": 2,
+      "exp": "The flow begins with 'Dense white opacity: mass, consolidation, nodule' and runs through suppurative abscess, necrosis and destruction, rupture into the bronchus, air entry, gas within consolidation, air-fluid levels and finally cavity. (Book p282)"
+    },
+    {
+      "id": "MED-C47-70",
+      "sec": "Mycoplasma against Legionella Films, the Fibrocalcific Scar, Necrotising Klebsiella and the Pneumatocele Cascade with Its 4 mm Rule",
+      "page": 282,
+      "fmt": "fillup",
+      "q": "Gas within consolidation counts as a pneumatocele when surrounded by a wall of minimum ______ mm.",
+      "opts": [
+        "10",
+        "6",
+        "2",
+        "4"
+      ],
+      "ans": 3,
+      "exp": "The flow cell reads 'Gas within consolidation surrounded by a wall (min. 4mm)', and the adjacent note uses the same 4 mm to separate a bulla. (Book p282)"
+    },
+    {
+      "id": "MED-C47-71",
+      "sec": "Mycoplasma against Legionella Films, the Fibrocalcific Scar, Necrotising Klebsiella and the Pneumatocele Cascade with Its 4 mm Rule",
+      "page": 282,
+      "fmt": "recall",
+      "q": "In which four settings is the pneumatocele, cyst or bulla caption said to occur?",
+      "opts": [
+        "IV drug abusers and post viral infection, with progression to cavity, an association with Klebsiella and a size over 4 mm",
+        "IV drug abusers and post viral infection, with progression to cavity, an association with MRSA and a size under 4 mm",
+        "Alcoholics and post viral infection, with progression to pneumothorax, an association with MRSA and a size under 4 mm",
+        "IV drug abusers and post tubercular scarring, with progression to cavity, an association with MRSA and a size under 4 mm"
+      ],
+      "ans": 1,
+      "exp": "The list reads 'IV drug abusers', 'Post viral infection', 'Progresses to cavity', 'Associated with MRSA' and 'Size <4mm'. (Book p282)"
+    },
+    {
+      "id": "MED-C47-72",
+      "sec": "Mycoplasma against Legionella Films, the Fibrocalcific Scar, Necrotising Klebsiella and the Pneumatocele Cascade with Its 4 mm Rule",
+      "page": 282,
+      "fmt": "fillup",
+      "q": "The note at the foot of page 282 reserves the term bulla for a cavity larger than ______ mm.",
+      "opts": [
+        "6",
+        "4",
+        "2",
+        "10"
+      ],
+      "ans": 1,
+      "exp": "The boxed note reads 'Bulla: Cavity >4 mm', pairing with the 4 mm minimum wall thickness in the pneumatocele cascade above it. (Book p282)"
+    },
+    {
+      "id": "MED-C47-73",
+      "sec": "Mycoplasma against Legionella Films, the Fibrocalcific Scar, Necrotising Klebsiella and the Pneumatocele Cascade with Its 4 mm Rule",
+      "page": 282,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three are printed for the pneumatocele/ cyst/ bulla caption on page 282, one reverses the print:",
+      "opts": [
+        "Size <4 mm",
+        "Progresses to cavity",
+        "Associated with Klebsiella rather than MRSA",
+        "Seen in IV drug abusers"
+      ],
+      "ans": 2,
+      "exp": "The caption asserts an association with MRSA, seen in IV drug abusers and post viral infection, progressing to cavity with size <4 mm; Klebsiella is the pneumatocele organism in the page 280 table, not this caption. (Book p282)"
+    },
+    {
+      "id": "MED-C47-74",
+      "sec": "Mycoplasma against Legionella Films, the Fibrocalcific Scar, Necrotising Klebsiella and the Pneumatocele Cascade with Its 4 mm Rule",
+      "page": 282,
+      "fmt": "scenario",
+      "q": "An IV drug user develops a pneumatocele that progresses to a cavity. Which organism does the printed caption associate with this, and what size cut-off is given?",
+      "opts": [
+        "MRSA, with a size under 4 mm",
+        "MRSA, with a size over 4 mm",
+        "Pseudomonas, with a size under 4 mm",
+        "Klebsiella, with a size under 4 mm"
+      ],
+      "ans": 0,
+      "exp": "The caption reads 'Associated with MRSA' and 'Size <4mm', while the note reserves 'Bulla' for a cavity larger than 4 mm. (Book p282)"
+    },
+    {
+      "id": "MED-C47-75",
+      "sec": "The CURB-65 Score with Its BUN and Blood Urea Equivalents, the BTS Outpatient Algorithm and the Non-Severe against Severe Inpatient Antibiotic Table",
+      "page": 283,
+      "fmt": "match",
+      "q": "Match each CURB-65 letter to its printed criterion — 1) C 2) U 3) R 4) B … A) Respiratory rate >30/min B) Confusion C) Blood pressure <90 mmHg systolic or <60 mmHg diastolic D) Urea >7 mmol/L",
+      "opts": [
+        "1-B, 2-A, 3-D, 4-C",
+        "1-D, 2-B, 3-A, 4-C",
+        "1-B, 2-D, 3-C, 4-A",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 3,
+      "exp": "The stem lists C confusion, U urea >7 mmol/L, R respiratory rate >30/min, B blood pressure <90 systolic or <60 diastolic and 65 age ≥65. (Book p283)"
+    },
+    {
+      "id": "MED-C47-76",
+      "sec": "The CURB-65 Score with Its BUN and Blood Urea Equivalents, the BTS Outpatient Algorithm and the Non-Severe against Severe Inpatient Antibiotic Table",
+      "page": 283,
+      "fmt": "numeric",
+      "q": "Which urea value in mmol/L defines the U of CURB-65, and what are its printed BUN and blood urea equivalents?",
+      "opts": [
+        ">7 mmol/L, with BUN ≈21 mg/dL and blood urea ≈42 mg/dL",
+        ">7 mmol/L, with BUN ≈42 mg/dL and blood urea ≈21 mg/dL",
+        ">7 mmol/L, with BUN ≈7 mg/dL and blood urea ≈14 mg/dL",
+        ">10 mmol/L, with BUN ≈21 mg/dL and blood urea ≈42 mg/dL"
+      ],
+      "ans": 0,
+      "exp": "The bracket reads 'U: urea >7 mmol/L (BUN ≈ 21 mg/dL, Blood urea ≈ 42 mg/dL)', the two conversions serving readers who work in mg/dL. (Book p283)"
+    },
+    {
+      "id": "MED-C47-77",
+      "sec": "The CURB-65 Score with Its BUN and Blood Urea Equivalents, the BTS Outpatient Algorithm and the Non-Severe against Severe Inpatient Antibiotic Table",
+      "page": 283,
+      "fmt": "match",
+      "q": "Match each CURB-65 score to its printed management — 1) 0 2) 1 to 2 3) ≥3 … A) ICU management B) Outpatient management C) Inpatient management",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 3,
+      "exp": "The interpretation table gives score 0 outpatient management, 1 and 2 inpatient management and ≥3 ICU management. (Book p283)"
+    },
+    {
+      "id": "MED-C47-78",
+      "sec": "The CURB-65 Score with Its BUN and Blood Urea Equivalents, the BTS Outpatient Algorithm and the Non-Severe against Severe Inpatient Antibiotic Table",
+      "page": 283,
+      "fmt": "recall",
+      "q": "In the BTS outpatient algorithm, which combination is printed when antibiotic resistance risk is absent?",
+      "opts": [
+        "Amoxicillin 1 g TDS plus azithromycin 500 mg on day 1 then 250 mg on days 2–5, or clarithromycin 500 mg BD, or amoxicillin plus doxycycline",
+        "Amoxicillin 500 mg TDS plus azithromycin 500 mg for five days",
+        "Amoxyclav 625 mg TDS plus azithromycin or doxycycline",
+        "Levofloxacin 750 mg once daily alone"
+      ],
+      "ans": 0,
+      "exp": "The 'Absent' arm prints amoxicillin 1g TDS with azithromycin 500 mg D1 and 250 mg D2–D5 or clarithromycin 500 mg BD, or amoxicillin plus doxycycline; amoxyclav 625 mg TDS belongs to the 'Present' arm. (Book p283)"
+    },
+    {
+      "id": "MED-C47-79",
+      "sec": "The CURB-65 Score with Its BUN and Blood Urea Equivalents, the BTS Outpatient Algorithm and the Non-Severe against Severe Inpatient Antibiotic Table",
+      "page": 283,
+      "fmt": "recall",
+      "q": "Which regimen is printed when the risk of antibiotic resistance is present in outpatients?",
+      "opts": [
+        "Amoxicillin 1 g TDS plus azithromycin 500 mg",
+        "Amoxyclav 625 mg TDS plus azithromycin or doxycycline",
+        "Piperacillin–tazobactam 4.5 g QID IV plus a macrolide",
+        "Amoxicillin 1 g TDS plus doxycycline only"
+      ],
+      "ans": 1,
+      "exp": "The 'Present' arm prints 'Amoxyclav 625mg TDS + Azithromycin/Doxycycline', with the note that cephalosporins are an alternative to amoxyclav. (Book p283)"
+    },
+    {
+      "id": "MED-C47-80",
+      "sec": "The CURB-65 Score with Its BUN and Blood Urea Equivalents, the BTS Outpatient Algorithm and the Non-Severe against Severe Inpatient Antibiotic Table",
+      "page": 283,
+      "fmt": "fillup",
+      "q": "The note beneath the outpatient algorithm states that ______ are an alternative to amoxyclav.",
+      "opts": [
+        "fluoroquinolones",
+        "macrolides",
+        "cephalosporins",
+        "aminoglycosides"
+      ],
+      "ans": 2,
+      "exp": "The line reads 'Note: Cephalosporins are an alternative to amoxyclav', placed under the resistance-present arm. (Book p283)"
+    },
+    {
+      "id": "MED-C47-81",
+      "sec": "The CURB-65 Score with Its BUN and Blood Urea Equivalents, the BTS Outpatient Algorithm and the Non-Severe against Severe Inpatient Antibiotic Table",
+      "page": 283,
+      "fmt": "recall",
+      "q": "Which first-line inpatient regimen is printed for non-severe CAP?",
+      "opts": [
+        "A β-lactam (ampicillin + sulbactam 1.5 g QID IV or piperacillin + tazobactam 4.5 g QID IV) plus levofloxacin 750 mg/day",
+        "Azithromycin 500 mg BD alone",
+        "A β-lactam (ampicillin + sulbactam 1.5 g QID IV or piperacillin + tazobactam 4.5 g QID IV) plus a macrolide (azithromycin or clarithromycin 500 mg BD)",
+        "Levofloxacin 750 mg/day as monotherapy"
+      ],
+      "ans": 2,
+      "exp": "The non-severe first line is β-lactam with a macrolide, the β-lactam bracket giving ampicillin + sulbactam 1.5 g QID IV or piperacillin + tazobactam 4.5g QID IV, and the macrolide 500 mg BD. (Book p283)"
+    },
+    {
+      "id": "MED-C47-82",
+      "sec": "The CURB-65 Score with Its BUN and Blood Urea Equivalents, the BTS Outpatient Algorithm and the Non-Severe against Severe Inpatient Antibiotic Table",
+      "page": 283,
+      "fmt": "recall",
+      "q": "What is printed for second-line and severe CAP in the inpatient table?",
+      "opts": [
+        "Second line is levofloxacin 500 mg/day, and severe ICU disease takes a β-lactam alone",
+        "Second line is amoxyclav, and severe ICU disease takes a β-lactam plus azithromycin",
+        "Second line is a macrolide alone, and severe ICU disease takes levofloxacin monotherapy",
+        "Second line is a respiratory fluoroquinolone (levofloxacin 750 mg/day), and severe ICU disease takes a β-lactam plus levofloxacin, with fluoroquinolone monotherapy not recommended"
+      ],
+      "ans": 3,
+      "exp": "The second-line row reads 'Respiratory fluoroquinolone: Levofloxacin 750mg/day', and the severe column reads 'β-lactam + Levofloxacin (monotherapy with fluoroquinolone not recommended)'. (Book p283)"
+    },
+    {
+      "id": "MED-C47-83",
+      "sec": "The CURB-65 Score with Its BUN and Blood Urea Equivalents, the BTS Outpatient Algorithm and the Non-Severe against Severe Inpatient Antibiotic Table",
+      "page": 283,
+      "fmt": "scenario",
+      "q": "A patient with CAP is confused, has a urea of 9 mmol/L, a respiratory rate of 32/min, a blood pressure of 100/70 mmHg and is 70 years old. What CURB-65 score and disposal does the page give?",
+      "opts": [
+        "A score of 3, requiring inpatient ward management",
+        "A score of 3 from confusion, urea and respiratory rate, requiring ICU management",
+        "A score of 4, requiring ICU management",
+        "A score of 2, requiring outpatient management"
+      ],
+      "ans": 1,
+      "exp": "Confusion, urea >7 mmol/L and respiratory rate >30/min give three points; blood pressure 100/70 and age 70 add none, and a score ≥3 means ICU management. (Book p283)"
+    },
+    {
+      "id": "MED-C47-84",
+      "sec": "MRSA Cover and the 48–72-hour Response Rule, Empyema, Lung Abscess and ARDS, the Empyema against Abscess Table and the Definition of a Lung Cavity",
+      "page": 284,
+      "fmt": "recall",
+      "q": "Which three historical items trigger consideration of MRSA cover on page 284?",
+      "opts": [
+        "History of isolation, recent hospitalization and prior MRSA",
+        "History of isolation, recent hospitalization and prior influenza",
+        "History of isolation, diabetes and prior MRSA",
+        "History of intubation, recent hospitalization and prior MRSA"
+      ],
+      "ans": 0,
+      "exp": "The line reads 'H/o isolation, recent hospitalization, prior MRSA → MRSA cover considered', before the response-to-therapy rule. (Book p284)"
+    },
+    {
+      "id": "MED-C47-85",
+      "sec": "MRSA Cover and the 48–72-hour Response Rule, Empyema, Lung Abscess and ARDS, the Empyema against Abscess Table and the Definition of a Lung Cavity",
+      "page": 284,
+      "fmt": "numeric",
+      "q": "At what interval is response to therapy judged, and what follows if there is no response?",
+      "opts": [
+        "At 48–72 hours, and no response means changing the antibiotic without imaging",
+        "At 48–72 hours, and no response means a complication with CT as the next step",
+        "At 24 hours, and no response means a complication with a repeat chest X-ray",
+        "At 7 days, and no response means a complication with CT as the next step"
+      ],
+      "ans": 1,
+      "exp": "The line reads 'Response to Therapy: 48 – 72hrs → No response: Complication → CT', a strict three-step rule. (Book p284)"
+    },
+    {
+      "id": "MED-C47-86",
+      "sec": "MRSA Cover and the 48–72-hour Response Rule, Empyema, Lung Abscess and ARDS, the Empyema against Abscess Table and the Definition of a Lung Cavity",
+      "page": 284,
+      "fmt": "recall",
+      "q": "Which findings diagnose empyema, and what is its treatment?",
+      "opts": [
+        "Macroscopic pus with a complicated parapneumonic effusion; CT split pleura sign with raised protein and LDH, treated by decortication",
+        "Microscopic pus with a complicated parapneumonic effusion; ultrasound septation with low protein, treated by thoracocentesis",
+        "Macroscopic pus with a simple parapneumonic effusion; CT split pleura sign with raised glucose, treated by antibiotics alone",
+        "Macroscopic pus with a complicated parapneumonic effusion; CT split pleura sign with thickened parietal and visceral pleura, raised protein and LDH with low glucose, treated by intercostal drainage"
+      ],
+      "ans": 3,
+      "exp": "Empyema is macroscopic pus plus a complicated parapneumonic effusion (m/c); diagnosis uses the CT split pleura sign with thickened pleura and ↑protein, ↑LDH, ↓glucose, and treatment is intercostal drainage. (Book p284)"
+    },
+    {
+      "id": "MED-C47-87",
+      "sec": "MRSA Cover and the 48–72-hour Response Rule, Empyema, Lung Abscess and ARDS, the Empyema against Abscess Table and the Definition of a Lung Cavity",
+      "page": 284,
+      "fmt": "recall",
+      "q": "Which antibiotic triple and duration are printed for a lung abscess?",
+      "opts": [
+        "Vancomycin plus meropenem plus clindamycin for 6–8 weeks",
+        "Meropenem plus clindamycin for 6–8 weeks",
+        "Vancomycin plus piperacillin–tazobactam plus clindamycin for 6–8 weeks",
+        "Vancomycin plus meropenem plus clindamycin for 2 weeks"
+      ],
+      "ans": 0,
+      "exp": "The abscess line reads 'Rx: vancomycin + meropenem + Clindamycin × 6-8 wks', under the heading 'Destruction & cavity'. (Book p284)"
+    },
+    {
+      "id": "MED-C47-88",
+      "sec": "MRSA Cover and the 48–72-hour Response Rule, Empyema, Lung Abscess and ARDS, the Empyema against Abscess Table and the Definition of a Lung Cavity",
+      "page": 284,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three are printed complications of CAP on page 284, one is not:",
+      "opts": [
+        "ARDS with MDR organisms",
+        "Pleural plaque",
+        "Empyema",
+        "Lung abscess"
+      ],
+      "ans": 1,
+      "exp": "The complication list is empyema, lung abscess, ARDS with MDR and metastatic infection (rare); pleural plaque is not on it. (Book p284)"
+    },
+    {
+      "id": "MED-C47-89",
+      "sec": "MRSA Cover and the 48–72-hour Response Rule, Empyema, Lung Abscess and ARDS, the Empyema against Abscess Table and the Definition of a Lung Cavity",
+      "page": 284,
+      "fmt": "match",
+      "q": "Match empyema against abscess on the four printed rows — 1) Wall 2) Angle 3) X-ray 4) CT split pleura sign … A) Lentiform against rounded B) Smooth against irregular C) Positive against negative D) Obtuse against acute",
+      "opts": [
+        "1-B, 2-A, 3-D, 4-C",
+        "1-B, 2-D, 3-C, 4-A",
+        "1-B, 2-D, 3-A, 4-C",
+        "1-D, 2-B, 3-A, 4-C"
+      ],
+      "ans": 2,
+      "exp": "The table gives empyema against abscess as wall smooth vs irregular, angle obtuse vs acute, X-ray lentiform vs rounded, and split pleura sign positive vs negative. (Book p284)"
+    },
+    {
+      "id": "MED-C47-90",
+      "sec": "MRSA Cover and the 48–72-hour Response Rule, Empyema, Lung Abscess and ARDS, the Empyema against Abscess Table and the Definition of a Lung Cavity",
+      "page": 284,
+      "fmt": "fillup",
+      "q": "The note beside the empyema/abscess table states that a simple and synpneumonic effusion is ______.",
+      "opts": [
+        "fibrinous",
+        "sterile",
+        "loculated",
+        "purulent"
+      ],
+      "ans": 1,
+      "exp": "The note reads 'Simple & synpneumonic effusion: Sterile', which is why empyema requires macroscopic pus rather than an effusion alone. (Book p284)"
+    },
+    {
+      "id": "MED-C47-91",
+      "sec": "MRSA Cover and the 48–72-hour Response Rule, Empyema, Lung Abscess and ARDS, the Empyema against Abscess Table and the Definition of a Lung Cavity",
+      "page": 284,
+      "fmt": "recall",
+      "q": "How is a lung cavity defined on page 284, and which two organisms are printed?",
+      "opts": [
+        "A fluid filled space within consolidation, due to expulsion of necrotic debris, seen in staphylococcus and pseudomonas",
+        "A gas filled space within normal lung, due to expulsion of necrotic debris via the bronchial tree, seen in staphylococcus and klebsiella",
+        "A gas filled space within consolidation, due to bronchial obstruction, seen in pneumococcus and klebsiella",
+        "A gas filled space within consolidation, mass or nodule, due to expulsion of necrotic debris via the bronchial tree, seen in staphylococcus and klebsiella"
+      ],
+      "ans": 3,
+      "exp": "The definition is 'Gas filled space within consolidation, mass, nodule' with 'D/t expulsion of necrotic debris via bronchial tree', and the cavity arrow to necrotising pneumonia names staphylococcus and klebsiella. (Book p284)"
+    },
+    {
+      "id": "MED-C47-92",
+      "sec": "MRSA Cover and the 48–72-hour Response Rule, Empyema, Lung Abscess and ARDS, the Empyema against Abscess Table and the Definition of a Lung Cavity",
+      "page": 284,
+      "fmt": "scenario",
+      "q": "A patient with CAP has had no response after 72 hours of appropriate antibiotics. What does the printed rule say to do?",
+      "opts": [
+        "Suspect a complication and obtain a CT scan",
+        "Proceed directly to surgery",
+        "Change to a macrolide and repeat the chest X-ray in a week",
+        "Repeat the same antibiotics for another 72 hours"
+      ],
+      "ans": 0,
+      "exp": "The line reads 'Response to Therapy: 48 – 72hrs → No response: Complication → CT', so a CT follows the failed response. (Book p284)"
+    },
+    {
+      "id": "MED-C47-93",
+      "sec": "The Bulla, Cyst and Thin-Walled Cavity Captions, the Four Thick-Walled Causes and the Seven-Letter CAVITY Mnemonic",
+      "page": 285,
+      "fmt": "match",
+      "q": "Match each three-figure caption strip on page 285 to what it shows — 1) First strip 2) Second strip … A) Thick walled cavities B) Bulla, cyst and thin walled cavity",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "The upper strip shows three generous air spaces captioned Bulla, Cyst and Thin walled cavity; the lower strip shows 'Thick walled cavities'. (Book p285)"
+    },
+    {
+      "id": "MED-C47-94",
+      "sec": "The Bulla, Cyst and Thin-Walled Cavity Captions, the Four Thick-Walled Causes and the Seven-Letter CAVITY Mnemonic",
+      "page": 285,
+      "fmt": "recall",
+      "q": "Which four causes of thick walled cavities are printed on page 285?",
+      "opts": [
+        "Abscess, necrotising SCC, sarcoidosis and blastomycosis",
+        "Bulla, necrotising SCC, Wegener's granulomatosis and aspergilloma",
+        "Abscess, necrotising SCC, Wegener's granulomatosis and blastomycosis",
+        "Abscess, carcinoid tumour, Wegener's granulomatosis and histoplasmosis"
+      ],
+      "ans": 2,
+      "exp": "The thick walled cavity list reads 'Abscess', 'Necrotising SCC', 'wegener's granulomatosis' and 'Blastomycosis'. (Book p285)"
+    },
+    {
+      "id": "MED-C47-95",
+      "sec": "The Bulla, Cyst and Thin-Walled Cavity Captions, the Four Thick-Walled Causes and the Seven-Letter CAVITY Mnemonic",
+      "page": 285,
+      "fmt": "match",
+      "q": "Match each letter of the CAVITY mnemonic to its printed causes — 1) C 2) A 3) V 4) I 5) T 6) Y … A) Aspergillosis, autoimmune (Wegener's granulomatosis) and abscess B) Cancer, SCC being most common C) Vascular emboli D) Young patients with congenital abnormality E) TB F) Infection with Staphylococcus aureus and Klebsiella",
+      "opts": [
+        "1-B, 2-A, 3-F, 4-C, 5-E, 6-D",
+        "1-B, 2-A, 3-C, 4-F, 5-E, 6-D",
+        "1-A, 2-B, 3-C, 4-F, 5-D, 6-E",
+        "1-B, 2-C, 3-A, 4-F, 5-E, 6-D"
+      ],
+      "ans": 1,
+      "exp": "The mnemonic runs C cancer with SCC as m/c, A aspergillosis/autoimmune/abscess, V vascular emboli, I infection with staph and klebsiella, T TB, Y young patients with congenital abnormality. (Book p285)"
+    },
+    {
+      "id": "MED-C47-96",
+      "sec": "The Bulla, Cyst and Thin-Walled Cavity Captions, the Four Thick-Walled Causes and the Seven-Letter CAVITY Mnemonic",
+      "page": 285,
+      "fmt": "fillup",
+      "q": "In the CAVITY mnemonic the letter C stands for cancer, with ______ printed as the most common histological type.",
+      "opts": [
+        "carcinoid",
+        "small cell carcinoma",
+        "adenocarcinoma",
+        "SCC"
+      ],
+      "ans": 3,
+      "exp": "The first line of the mnemonic reads 'C – cancer (SCC: m/c)', placing squamous cell carcinoma first among cavitating cancers. (Book p285)"
+    },
+    {
+      "id": "MED-C47-97",
+      "sec": "The Bulla, Cyst and Thin-Walled Cavity Captions, the Four Thick-Walled Causes and the Seven-Letter CAVITY Mnemonic",
+      "page": 285,
+      "fmt": "recall",
+      "q": "Which three fungi are printed as causes of lung cavities at the end of the mnemonic?",
+      "opts": [
+        "Cryptococcus, Aspergillus and Coccidioidomycosis",
+        "Cryptococcus, Candida and Coccidioidomycosis",
+        "Histoplasma, Aspergillus and Coccidioidomycosis",
+        "Cryptococcus, Aspergillus and Blastomyces"
+      ],
+      "ans": 0,
+      "exp": "The seventh line reads 'Fungus: Cryptococcus, Aspergillus, Coccidioidomycosis', following the six mnemonic letters. (Book p285)"
+    },
+    {
+      "id": "MED-C47-98",
+      "sec": "The Bulla, Cyst and Thin-Walled Cavity Captions, the Four Thick-Walled Causes and the Seven-Letter CAVITY Mnemonic",
+      "page": 285,
+      "fmt": "scenario",
+      "q": "A 62-year-old smoker has a 3 cm thick-walled upper lobe cavity with an irregular inner margin. Using the page 285 lists, which diagnosis heads the differential and which benign mimic is named in the thick-walled group?",
+      "opts": [
+        "Pneumococcal pneumonia, with Wegener's granulomatosis among the thick-walled mimics",
+        "Tuberculosis, with a bulla among the thick-walled mimics",
+        "Necrotising squamous cell carcinoma, with Wegener's granulomatosis among the thick-walled mimics",
+        "Necrotising squamous cell carcinoma, with a simple cyst among the thick-walled mimics"
+      ],
+      "ans": 2,
+      "exp": "Thick walled cavities are abscess, necrotising SCC, Wegener's granulomatosis and blastomycosis, and the CAVITY mnemonic puts SCC as the commonest cancer; a bulla and a cyst are thin-walled structures in the strip above. (Book p285)"
+    },
+    {
+      "id": "MED-C47-99",
+      "sec": "The Bulla, Cyst and Thin-Walled Cavity Captions, the Four Thick-Walled Causes and the Seven-Letter CAVITY Mnemonic",
+      "page": 285,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — three are printed as causes of thick walled cavities, one belongs to the thin walled group above:",
+      "opts": [
+        "Wegener's granulomatosis",
+        "Necrotising SCC",
+        "Abscess",
+        "Bulla"
+      ],
+      "ans": 3,
+      "exp": "The thick walled list is abscess, necrotising SCC, Wegener's granulomatosis and blastomycosis, while a bulla is captioned in the thin walled strip above it. (Book p285)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U47-1",
+      "ch": 47,
+      "n": 1,
+      "title": "The Necrosis-Free Definition of Pneumonia, Its Five Parenchymal Sites, the Necrotising Note, the Six-Step Pathogenesis and the Three Protective Mechanisms",
+      "sec": "The Necrosis-Free Definition of Pneumonia, Its Five Parenchymal Sites, the Necrotising Note, the Six-Step Pathogenesis and the Three Protective Mechanisms",
+      "guide": "Pneumonia (p274) is acute infection of lung parenchyma without necrosis, seated in alveoli, alveolar and vascular interstitium, respiratory bronchioles and alveolar ducts; necrosis or destruction of parenchyma turns it into necrotising pneumonia or lung abscess.\nPathogenesis runs defective cell-mediated immunity with viral infection → disrupted lung microbiota → alveolar epithelial barrier disruption → bacterial microaspiration → alveoli → IL-1/IL-6/TNFα for fever and IL-8 for neutrophil recruitment → capillary leak → alveolo-capillary exudate → impaired diffusion → hypoxia → dyspnea.\nProtective mechanisms are the alveolar macrophage, gag reflex and mucociliary clearance, and the commonest access is the oropharynx via aspiration.",
+      "qs": [
+        "MED-C47-01",
+        "MED-C47-02",
+        "MED-C47-03",
+        "MED-C47-04",
+        "MED-C47-05",
+        "MED-C47-06",
+        "MED-C47-07",
+        "MED-C47-08",
+        "MED-C47-09"
+      ]
+    },
+    {
+      "id": "MED-U47-2",
+      "ch": 47,
+      "n": 2,
+      "title": "HAP, VAP and CAP by Source with Their 48-hour Rules, the Lobar and Interstitial Anatomy, the Typical and Atypical Split, and the Four-Part CAP Criteria with Auscultation",
+      "sec": "HAP, VAP and CAP by Source with Their 48-hour Rules, the Lobar and Interstitial Anatomy, the Typical and Atypical Split, and the Four-Part CAP Criteria with Auscultation",
+      "guide": "HAP occurs >48 hrs after admission and is not present at admission, VAP >48 hrs after endotracheal intubation, and CAP has no timing rule; anatomy splits into lobar and interstitial and organisms into typical and atypical (p275).\nCAP requires an acute infection <1 week with cardinal features — fever, dyspnea/tachypnea/tachycardia, cough ± sputum, pleuritic chest pain and hemoptysis — plus infiltrates on CXR or CT and no other explanation.\nAuscultation gives bronchial breath sounds and crackles, which the page labels subjective.",
+      "qs": [
+        "MED-C47-10",
+        "MED-C47-11",
+        "MED-C47-12",
+        "MED-C47-13",
+        "MED-C47-14",
+        "MED-C47-15",
+        "MED-C47-16",
+        "MED-C47-17",
+        "MED-C47-18"
+      ]
+    },
+    {
+      "id": "MED-U47-3",
+      "ch": 47,
+      "n": 3,
+      "title": "The Lobular and Interstitial Organism Columns, the MRSA-in-India Note and the Seven-Row Typical against Atypical Table",
+      "sec": "The Lobular and Interstitial Organism Columns, the MRSA-in-India Note and the Seven-Row Typical against Atypical Table",
+      "guide": "Lobar pneumonia (p276) is restricted to one lobe with Strep pneumoniae most common, Staph aureus including MRSA, Klebsiella, H. influenzae and Moraxella; the interstitial column opens with virus as most common, then mycoplasma, chlamydia and Legionella with features of both, then Aspergillus, PCP in HIV and Nocardia in the immunocompromised.\nThe note states MRSA is not common in India.\nTypical against atypical runs extracellular vs intracellular, abrupt vs insidious, alveolar capillary exudates vs interstitial infiltrates, neutrophilic vs lymphocytic, detectable vs undetectable on culture, raised CRP/procalcitonin/leucocytosis vs none, and large lobar consolidation vs bilateral patchy interstitial change.",
+      "qs": [
+        "MED-C47-19",
+        "MED-C47-20",
+        "MED-C47-21",
+        "MED-C47-22",
+        "MED-C47-23",
+        "MED-C47-24",
+        "MED-C47-25",
+        "MED-C47-26"
+      ]
+    },
+    {
+      "id": "MED-U47-4",
+      "ch": 47,
+      "n": 4,
+      "title": "Community Acquired MRSA, the Outpatient to ICU Organism Shift, MRSA and MDR Risk within Three Months, and Pneumococcal Morphology, Culture and Haemolysis Chart",
+      "sec": "Community Acquired MRSA, the Outpatient to ICU Organism Shift, MRSA and MDR Risk within Three Months, and Pneumococcal Morphology, Culture and Haemolysis Chart",
+      "guide": "Community acquired MRSA (p277) is suggested by concurrent influenza or by cavity with hemoptysis and pneumatocele.\nOutpatients carry strep pneumoniae, virus, mycoplasma, chlamydia and H. influenzae; non-ICU inpatients strep pneumoniae from low CMI, respiratory viruses and Legionella; ICU patients strep pneumoniae, MRSA and MDR gram-negative with high mortality — MRSA and MDR risk being CCF, hemodialysis, antibiotics and hospitalization within the last 3 months, and structural lung disease.\nPneumococci are gram-positive diplococci in chains, flame-shaped or lanceolate, alpha hemolytic with partial hemolysis on 5% blood agar, green colour and a draughtsman/carrom coin colony; complete hemolysis means streptococcus, partial means pneumoniae or viridans, and none means enterococci.",
+      "qs": [
+        "MED-C47-27",
+        "MED-C47-28",
+        "MED-C47-29",
+        "MED-C47-30",
+        "MED-C47-31",
+        "MED-C47-32",
+        "MED-C47-33",
+        "MED-C47-34"
+      ]
+    },
+    {
+      "id": "MED-U47-5",
+      "ch": 47,
+      "n": 5,
+      "title": "Pneumococcus against Viridans, the Four Toxins, the Quellung Reaction, Type 3 Invasiveness and the CAP Risk and Poor-Prognosis Notes",
+      "sec": "Pneumococcus against Viridans, the Four Toxins, the Quellung Reaction, Type 3 Invasiveness and the CAP Risk and Poor-Prognosis Notes",
+      "guide": "Strep pneumoniae is bile soluble, optochin susceptible and inulin fermenting while viridans is negative in all three (p278).\nThe toxins are capsular polysaccharide, pneumolysin (cytolytic, punching pores in the membrane), IgA1 and pneumococcal somatic C antigen, which precipitates C reactive protein; the Quellung reaction shows swelling of the capsule, and S. pneumoniae is non-invasive except type 3.\nCAP risk comes from deficient CMI — diabetes, chronic kidney disease, hemodialysis, COPD, bronchiectasis, cardiac failure and age >65 — or from immunocompromise by steroids/monoclonals, transplant and neutropenia, and poor prognosis is marked by hypothermia and leukopenia with atypical organisms.",
+      "qs": [
+        "MED-C47-35",
+        "MED-C47-36",
+        "MED-C47-37",
+        "MED-C47-38",
+        "MED-C47-39",
+        "MED-C47-40",
+        "MED-C47-41",
+        "MED-C47-42"
+      ]
+    },
+    {
+      "id": "MED-U47-6",
+      "ch": 47,
+      "n": 6,
+      "title": "Type 2 Alveolar Binding, the Lobar Pneumonia Cardinal and Abdominal Symptoms, the Older-Patient Caveat, Resolution Timing and the Four-Column Chest Film Table",
+      "sec": "Type 2 Alveolar Binding, the Lobar Pneumonia Cardinal and Abdominal Symptoms, the Older-Patient Caveat, Resolution Timing and the Four-Column Chest Film Table",
+      "guide": "Bacteria bind type 2 alveolar epithelial cells (p279); lobar pneumonia has cardinal high spiking fever, pleuritic chest pain, cough, hemoptysis and dyspnea, with abdominal pain and hiccups or confusion added, and in the elderly confusion may be the only symptom while classical signs are absent.\nFever and leukocytosis resolve 4–5 days after antibiotics; blood shows leucocytosis, raised CRP and procalcitonin in lobar disease against normal values in interstitial bronchopneumonia.\nFilms separate into lobar (homogeneous consolidation, silhouette sign, air bronchogram, sharply marginated fissure, usually pneumococcus), bronchopneumonia (poorly defined heterogeneous patchy infiltrates with air bronchogram, staph giving multilobar disease with cavitation, pneumatoceles and abscess), interstitial (bilateral diffuse fine reticular opacity, PCP) and aspiration (airspace opacification, gravity dependent, after stroke or seizure).",
+      "qs": [
+        "MED-C47-43",
+        "MED-C47-44",
+        "MED-C47-45",
+        "MED-C47-46",
+        "MED-C47-47",
+        "MED-C47-48",
+        "MED-C47-49",
+        "MED-C47-50",
+        "MED-C47-51",
+        "MED-C47-52"
+      ]
+    },
+    {
+      "id": "MED-U47-7",
+      "ch": 47,
+      "n": 7,
+      "title": "Sputum and Blood Culture Yields, BAL, and the Fourteen-Row Etiology Table from Bacteraemia to Atherosclerosis",
+      "sec": "Sputum and Blood Culture Yields, BAL, and the Fourteen-Row Etiology Table from Bacteraemia to Atherosclerosis",
+      "guide": "Sputum microscopy and culture are done in atypical pneumonia, blood culture has poor yield and BAL is listed last (p280).\nThe etiology table pairs bacteremia/diabetes with S. pneumoniae; alcoholism, upper lobe involvement, bulging fissure, cavitation and golden S with Klebsiella; COPD/smoking/bronchiectasis with Pseudomonas; cystic fibrosis with Burkholderia cepacia; lung abscess with MRSA and anaerobes; cavity with MRSA; pneumatocele with Klebsiella; dementia or low consciousness with anaerobes.\nExposures pair sheep, cats and goats with Coxiella, rabbits with Francisella, bats with Histoplasma, cruise ships with Legionella, the Ohio and St. Lawrence valleys with Histoplasma capsulatum and atherosclerosis with Chlamydia pneumoniae.",
+      "qs": [
+        "MED-C47-53",
+        "MED-C47-54",
+        "MED-C47-55",
+        "MED-C47-56",
+        "MED-C47-57",
+        "MED-C47-58",
+        "MED-C47-59",
+        "MED-C47-60"
+      ]
+    },
+    {
+      "id": "MED-U47-8",
+      "ch": 47,
+      "n": 8,
+      "title": "Extrapulmonary Mycoplasma, and the Air Bronchogram, Silhouette, Golden S and Mediastinal Shift Captions",
+      "sec": "Extrapulmonary Mycoplasma, and the Air Bronchogram, Silhouette, Golden S and Mediastinal Shift Captions",
+      "guide": "Mycoplasma adds cold antibody autoimmune hemolysis, Steven Johnson's syndrome and Guillain Barre syndrome (p281).\nAn air bronchogram is air-filled space within consolidation, not specific and also seen in cardiogenic pulmonary edema; left lower lobe consolidation loses the left heart silhouette with an intact diaphragm, while right upper lobe disease loses the ascending aorta silhouette.\nGolden S/reverse S and the bulging fissure sign are bracketed to Klebsiella, and collapse shifts the mediastinum to the same side.",
+      "qs": [
+        "MED-C47-61",
+        "MED-C47-62",
+        "MED-C47-63",
+        "MED-C47-64",
+        "MED-C47-65",
+        "MED-C47-66"
+      ]
+    },
+    {
+      "id": "MED-U47-9",
+      "ch": 47,
+      "n": 9,
+      "title": "Mycoplasma against Legionella Films, the Fibrocalcific Scar, Necrotising Klebsiella and the Pneumatocele Cascade with Its 4 mm Rule",
+      "sec": "Mycoplasma against Legionella Films, the Fibrocalcific Scar, Necrotising Klebsiella and the Pneumatocele Cascade with Its 4 mm Rule",
+      "guide": "Captions on p282 read mycoplasma/chlamydia minimal interstitial infiltrates misdiagnosed as a normal study, Legionella bilateral dense consolidation, bronchopneumonia air space opacification, and a fibrocalcific scar post TB with fibrosis; necrotising Klebsiella shows upper lobe involvement and a bulging fissure.\nThe pneumatocele cascade runs dense white opacity → focal suppurative abscess → necrosis and destruction → rupture into bronchus → air entry → gas within consolidation inside a wall of minimum 4 mm → air-fluid levels → cavity.\nPneumatoceles occur in IV drug abusers and after viral infection, progress to cavity, associate with MRSA and measure <4 mm, while a bulla is a cavity >4 mm.",
+      "qs": [
+        "MED-C47-67",
+        "MED-C47-68",
+        "MED-C47-69",
+        "MED-C47-70",
+        "MED-C47-71",
+        "MED-C47-72",
+        "MED-C47-73",
+        "MED-C47-74"
+      ]
+    },
+    {
+      "id": "MED-U47-10",
+      "ch": 47,
+      "n": 10,
+      "title": "The CURB-65 Score with Its BUN and Blood Urea Equivalents, the BTS Outpatient Algorithm and the Non-Severe against Severe Inpatient Antibiotic Table",
+      "sec": "The CURB-65 Score with Its BUN and Blood Urea Equivalents, the BTS Outpatient Algorithm and the Non-Severe against Severe Inpatient Antibiotic Table",
+      "guide": "CURB-65 (p283) is confusion, urea >7 mmol/L (BUN ≈21 mg/dL, blood urea ≈42 mg/dL), respiratory rate >30/min, blood pressure <90 systolic or <60 diastolic and age ≥65, scoring 0 for outpatient, 1–2 for inpatient and ≥3 for ICU care.\nThe BTS outpatient arm without resistance risk gives amoxicillin 1 g TDS plus azithromycin 500 mg day 1 then 250 mg days 2–5 or clarithromycin 500 mg BD, or amoxicillin plus doxycycline; with resistance risk it gives amoxyclav 625 mg TDS plus azithromycin or doxycycline, cephalosporins being an alternative.\nInpatients take a β-lactam (ampicillin + sulbactam 1.5 g QID IV or piperacillin–tazobactam 4.5 g QID IV) plus a macrolide 500 mg BD, second line levofloxacin 750 mg/day, and severe ICU disease a β-lactam plus levofloxacin without fluoroquinolone monotherapy.",
+      "qs": [
+        "MED-C47-75",
+        "MED-C47-76",
+        "MED-C47-77",
+        "MED-C47-78",
+        "MED-C47-79",
+        "MED-C47-80",
+        "MED-C47-81",
+        "MED-C47-82",
+        "MED-C47-83"
+      ]
+    },
+    {
+      "id": "MED-U47-11",
+      "ch": 47,
+      "n": 11,
+      "title": "MRSA Cover and the 48–72-hour Response Rule, Empyema, Lung Abscess and ARDS, the Empyema against Abscess Table and the Definition of a Lung Cavity",
+      "sec": "MRSA Cover and the 48–72-hour Response Rule, Empyema, Lung Abscess and ARDS, the Empyema against Abscess Table and the Definition of a Lung Cavity",
+      "guide": "MRSA cover follows isolation, recent hospitalization or prior MRSA, and response is judged at 48–72 hours, with no response meaning a complication and CT (p284).\nEmpyema is macroscopic pus with a complicated parapneumonic effusion, diagnosed by the CT split pleura sign with thickened pleura and ↑protein, ↑LDH, ↓glucose and treated by intercostal drainage; lung abscess is destruction with cavity and takes vancomycin + meropenem + clindamycin for 6–8 weeks; ARDS with MDR and metastatic infection complete the list.\nEmpyema against abscess is smooth vs irregular wall, obtuse vs acute angle, lentiform vs rounded on X-ray and positive vs negative split pleura sign, a simple synpneumonic effusion being sterile; a cavity is a gas-filled space within consolidation, mass or nodule from expectorated necrotic debris, seen in staphylococcus and klebsiella.",
+      "qs": [
+        "MED-C47-84",
+        "MED-C47-85",
+        "MED-C47-86",
+        "MED-C47-87",
+        "MED-C47-88",
+        "MED-C47-89",
+        "MED-C47-90",
+        "MED-C47-91",
+        "MED-C47-92"
+      ]
+    },
+    {
+      "id": "MED-U47-12",
+      "ch": 47,
+      "n": 12,
+      "title": "The Bulla, Cyst and Thin-Walled Cavity Captions, the Four Thick-Walled Causes and the Seven-Letter CAVITY Mnemonic",
+      "sec": "The Bulla, Cyst and Thin-Walled Cavity Captions, the Four Thick-Walled Causes and the Seven-Letter CAVITY Mnemonic",
+      "guide": "The caption strip on p285 shows a bulla, a cyst and a thin walled cavity, then thick walled cavities.\nThick walled cavities are abscess, necrotising SCC, Wegener's granulomatosis and blastomycosis.\nThe CAVITY mnemonic gives C cancer with SCC most common, A aspergillosis/autoimmune (Wegener's)/abscess, V vascular emboli, I infection with Staphylococcus aureus and Klebsiella, T TB, Y young patients with congenital abnormality, and fungus as Cryptococcus, Aspergillus and Coccidioidomycosis.",
+      "qs": [
+        "MED-C47-93",
+        "MED-C47-94",
+        "MED-C47-95",
+        "MED-C47-96",
+        "MED-C47-97",
+        "MED-C47-98",
+        "MED-C47-99"
+      ]
+    }
+  ]
+}
