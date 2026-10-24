@@ -1,4 +1,4 @@
-# Source caveats and transcription decisions — Book p46–345
+# Source caveats and transcription decisions — Book p46–375
 
 This companion follows the scanned *PULSE Medicine Vol 1*, Marrow Edition 8, page by page. Questions that reproduce a source statement are labelled as such; they are not independent clinical recommendations. The standalone app carries a matching study-only disclaimer.
 
@@ -220,3 +220,19 @@ All chapters are educational study material keyed to a particular scanned textbo
 | 343 | The RCM causes note prints `Ascaris lumbricoides : m/c associated infection`, and the recap labels amyloidosis the m/c cause of RCM. | Both printed claims are tested as source content and flagged as unusual associations rather than silently corrected. |
 | 344 | Cardiac MRI in amyloidosis prints `Glittering hyperrefractile myocardium (sparkling appearance) d/t interatrial septal thickening`. | The source wording and stated anatomical link are retained verbatim. |
 | 345 | Takotsubo biomarkers print `Troponin I: ↑ but ↓ rate of rise of Trop I` with `NT proBNP ↑↑`; short-term complications are bracketed `Same as MI`. | The discordant rise/rate wording and the MI comparison are tested as printed. |
+| 346 | The MR definition line reads `MR = Leakage of blood from LV → LA during systole` and the apparatus is listed as `Chordae tendineae + Papillary muscles + Adjacent LV myocardium` (three components, no count printed). | The definition and the three-part apparatus are tested verbatim; no count is inferred for the apparatus line. |
+| 347 | A heading `Other autoimmune diseases causing AR :` appears inside the MR chapter (SLE/Libman-Sacks, rheumatoid nodules under it). | The printed heading text is reproduced with `(as printed)` and the AR/MR placement slip is flagged in the explanation. |
+| 348 | Normal EF prints `70%` with `<60%` abnormal; the apex line prints `Well sustained peak` while p367's pseudocollapsing column prints `Well sustained apex`. | Each page's wording is tested against its own line and the two variants are kept distinct. |
+| 349 | The loudness order prints `MVP < RHD < LVD`; the Venn-diagram overlap letters `C, D, E` are printed without labels in the hatched intersection. | The inequality is tested as printed; the Venn letters are referenced only as figure labels, no meaning is inferred. |
+| 353 | A second LAP line prints `LAP = PAEDP = LVEDP–PAEDP = 8-10mmHg` (the arithmetic is internally inconsistent as printed). | Reproduced verbatim with `(as printed)`; not silently corrected or reconciled. |
+| 354–355 | The severe-MS branch (p354) prints `prominent v wave` while the p355 clinical-findings table prints JVP `prominent 'a' wave`. | Each page's finding is tested against its own line and the discrepancy is flagged rather than merged. |
+| 356 | The CXR brace includes `LVH` and `↓Cavity site` among MS findings; the TR sign is spelled `Caravallos sign`. | The atypical entries and the printed spelling are kept `(as printed)` with the standard eponym (Carvallo's sign) noted. |
+| 359 | The CCP hemodynamics line prints `elevation & equalization of diastolic preanse`. | Reproduced with `(as printed)` and read as `pressure`; the typo is flagged, not silently fixed. |
+| 362 | The friction-rub note prints `Paradoxical Pericardial friction rub : (more prominent with effusion)` (classically the rub fades as effusion accumulates). | The printed claim is tested as source text with a note that it contradicts the usual teaching. |
+| 364 | The pulse-wave velocity line prints `5 m/s (faster than column of blood – 50 cm/s)` and PAD `>10 = AF`. | Both figures and the AF threshold are tested exactly as printed. |
+| 366 | The temperature–pulse pairs print `101°F→100/min`, `102°F→110/min`, `103°F→120/min`. | Handwritten numerals were confirmed by 4x crop and tested as printed. |
+| 367 | The pseudocollapsing column prints `well sustained apex` (vs `well sustained peak` on p348). | Tested against its own page wording; the two variants are kept distinct and not normalized. |
+| 369 | The MVP arm prints `(↑ Filling → ↑ SV → ↑ SBP, ↑ Pulse volume)`. | The post-extrasystole chain is reproduced verbatim. |
+| 372 | RA pressure prints `= (5 + JVP cm) cm H2O` with `>8 cm H2O` elevated. | The formula and threshold are tested as printed. |
+| 374 | The x-descent position line prints `Diastole` while the x' chain ends `Systole` (the same descent is placed in two different cycle phases on one page). | Each label is tested against its own line and the internal inconsistency is flagged `(as printed)`. |
+| 375 | The giant-v-wave sign in TR is spelled `Lanscisis sign`. | Reproduced with `(as printed)` and the standard eponym (Lancisi's sign) noted in the explanation. |

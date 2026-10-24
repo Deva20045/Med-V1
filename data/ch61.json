@@ -1,0 +1,933 @@
+{
+  "chapter": 61,
+  "title": "Jugular Venous Pulse (JVP)",
+  "pageRange": "370-375",
+  "questions": [
+    {
+      "id": "MED-C61-01",
+      "sec": "Right-Heart Window, Its Three Indicators, Why the Right IJV Is Preferred and the Neck-Vessel Figures",
+      "page": 370,
+      "fmt": "recall",
+      "q": "How is the JVP introduced?",
+      "opts": [
+        "Surgical route to the right heart requiring a catheter",
+        "Window to the pulmonary artery measuring PCWP",
+        "Window to the right heart / natural non-invasive right heart (RH) catheter that helps measure pressure in the right atrium",
+        "Window to the left heart measuring LVEDP"
+      ],
+      "ans": 2,
+      "exp": "The opening lines print window to the right heart/natural non invasive right heart (RH) catheter : helps measure pressure in right atrium. (Book p370)"
+    },
+    {
+      "id": "MED-C61-02",
+      "sec": "Right-Heart Window, Its Three Indicators, Why the Right IJV Is Preferred and the Neck-Vessel Figures",
+      "page": 370,
+      "fmt": "recall",
+      "q": "Which three indicators are printed for the JVP?",
+      "opts": [
+        "RH hemodynamics, volume of blood in venous system, venous tone",
+        "RH hemodynamics, arterial blood volume, venous tone",
+        "LV hemodynamics, venous volume, venous tone",
+        "RH hemodynamics, venous volume, lymphatic tone"
+      ],
+      "ans": 0,
+      "exp": "The indicator bullets print RH hemodynamics, volume of blood in venous system and venous tone. (Book p370)"
+    },
+    {
+      "id": "MED-C61-03",
+      "sec": "Right-Heart Window, Its Three Indicators, Why the Right IJV Is Preferred and the Neck-Vessel Figures",
+      "page": 370,
+      "fmt": "recall",
+      "q": "Which five reasons make the right internal jugular vein the preferred vessel?",
+      "opts": [
+        "Preferred vessel to look for JVP; seen in carotid triangle between sternal & clavicular head of SCM; lateral to carotid artery & deep to SCM; straight line with RA; less likely for extrinsic compression",
+        "Preferred vessel for JVP; seen in posterior triangle; lateral to carotid; straight line with RV; never compressed",
+        "Preferred vessel to look for JVP; seen in carotid triangle; medial to carotid artery & superficial to SCM; straight line with RA; less likely compressed",
+        "Preferred vessel for JVP; seen in carotid triangle; lateral to carotid; straight line with LV; less likely compressed"
+      ],
+      "ans": 0,
+      "exp": "The IJV bullets print preferred vessel, carotid triangle (between sternal & clavicular head of sternocleidomastoid), lateral to carotid artery & deep to SCM, straight line with RA and less likely for extrinsic compression. (Book p370)"
+    },
+    {
+      "id": "MED-C61-04",
+      "sec": "Right-Heart Window, Its Three Indicators, Why the Right IJV Is Preferred and the Neck-Vessel Figures",
+      "page": 370,
+      "fmt": "fillup",
+      "q": "The right IJV is seen in the ____ triangle between the sternal and clavicular heads of sternocleidomastoid.",
+      "opts": [
+        "supraclavicular",
+        "posterior",
+        "carotid",
+        "omohyoid"
+      ],
+      "ans": 2,
+      "exp": "The bullet prints seen in the carotid triangle (between sternal & clavicular head of sternocleidomastoid). (Book p370)"
+    },
+    {
+      "id": "MED-C61-05",
+      "sec": "Right-Heart Window, Its Three Indicators, Why the Right IJV Is Preferred and the Neck-Vessel Figures",
+      "page": 370,
+      "fmt": "recall",
+      "q": "Which labels accompany the two neck figures?",
+      "opts": [
+        "Anatomy of neck vessels: carotid sinus and arteries only; Path of IJv: clavicle and manubrium",
+        "Anatomy of neck vessels: carotid sinus, common carotid artery, jugular veins, subclavian vein & artery; Path of IJv: trachea, thyroid and clavicle",
+        "Anatomy of neck vessels: carotid sinus, common carotid artery, internal and external jugular veins, subclavian vein & artery, anterior jugular vein, innominate vein, superior vena cava; Path of IJv: external jugular vein, path of IJ, clavicular and sternal heads of SCM, clavicle",
+        "Anatomy of neck vessels: vertebral arteries and veins; Path of IJv: SCM heads only"
+      ],
+      "ans": 2,
+      "exp": "The left figure lists carotid sinus, common carotid artery, internal jugular vein, external jugular vein, subclavian vein & artery with anterior jugular vein, innominate vein and superior vena cava; the right figure labels external jugular vein, path of IJ, clavicular head of SCM, clavicle and sternal head of SCM. (Book p370)"
+    },
+    {
+      "id": "MED-C61-06",
+      "sec": "Right-Heart Window, Its Three Indicators, Why the Right IJV Is Preferred and the Neck-Vessel Figures",
+      "page": 370,
+      "fmt": "recall",
+      "q": "Which three reasons are printed for not preferring the external jugular vein?",
+      "opts": [
+        "Has no valves; not visible in hypotensive state; multiple fascial planes",
+        "Has valves which can interfere with measurement of JVP; not visible in hypotensive state (d/t vasoconstriction); passes through multiple fascial planes",
+        "Has valves which amplify the JVP; not visible in hypertensive state; passes through multiple fascial planes",
+        "Has valves; visible only in hypervolemia; passes through one fascial plane"
+      ],
+      "ans": 1,
+      "exp": "The reason list prints valves interfering with measurement, invisibility in hypotensive state (d/t vasoconstriction) and multiple fascial planes. (Book p370)"
+    },
+    {
+      "id": "MED-C61-07",
+      "sec": "Right-Heart Window, Its Three Indicators, Why the Right IJV Is Preferred and the Neck-Vessel Figures",
+      "page": 370,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one statement reverses a printed IJV/EJV fact.",
+      "opts": [
+        "The IJV runs medial to the carotid artery and superficial to SCM",
+        "The IJV is in a straight line with the right atrium",
+        "The IJV is less likely to suffer extrinsic compression",
+        "The EJV is not visible in hypotensive state due to vasoconstriction"
+      ],
+      "ans": 0,
+      "exp": "The page prints the IJV lateral to carotid artery & deep to SCM; the other three statements are printed. (Book p370)"
+    },
+    {
+      "id": "MED-C61-08",
+      "sec": "Right-Heart Window, Its Three Indicators, Why the Right IJV Is Preferred and the Neck-Vessel Figures",
+      "page": 370,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the p370 anatomy page.",
+      "opts": [
+        "True — the IJV runs medial to the carotid artery",
+        "False — the JVP is the window to the left heart and measures LA pressure",
+        "False — the EJV is preferred because it has no valves",
+        "True — the right IJV lies in a straight line with the RA and is less likely to suffer extrinsic compression"
+      ],
+      "ans": 3,
+      "exp": "The IJV is lateral to the carotid and deep to SCM, in straight line with RA and less compressible; the EJV has valves and is not preferred; JVP is the right-heart window measuring RA pressure. (Book p370)"
+    },
+    {
+      "id": "MED-C61-09",
+      "sec": "IJV-versus-Carotid Table, Abdominojugular Reflex and the Two-Scale Measurement of JVP",
+      "page": 371,
+      "fmt": "match",
+      "q": "Match the IJV-versus-carotid cells — 1) IJV position 2) Carotid position 3) IJV peaks 4) Carotid upstroke 5) IJV digital compression … A) Superficial & lateral in neck B) Deeper & medial C) 2 peaks & 2 troughs, descents more obvious than crests D) Single upstroke only, brisker & visible E) Digital compression abolishes venous pulse",
+      "opts": [
+        "1-B, 2-A, 3-C, 4-D, 5-E",
+        "1-A, 2-B, 3-D, 4-C, 5-E",
+        "1-A, 2-B, 3-C, 4-D, 5-E",
+        "1-E, 2-D, 3-C, 4-B, 5-A"
+      ],
+      "ans": 2,
+      "exp": "The table prints superficial & lateral vs deeper & medial, 2 peaks & 2 troughs with descents more obvious than crests vs single brisker visible upstroke, and digital compression abolishing the venous pulse. (Book p371)"
+    },
+    {
+      "id": "MED-C61-10",
+      "sec": "IJV-versus-Carotid Table, Abdominojugular Reflex and the Two-Scale Measurement of JVP",
+      "page": 371,
+      "fmt": "match",
+      "q": "Match the respiration and abdominal-compression rows — 1) IJV with inspiration 2) Carotid with respiration 3) IJV with abdominal compression 4) Carotid with abdominal compression … A) Falls B) Do not change C) Elevates D) Has no effect",
+      "opts": [
+        "1-A, 2-B, 3-D, 4-C",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-B, 2-A, 3-C, 4-D"
+      ],
+      "ans": 1,
+      "exp": "The table prints JVP falls during inspiration vs do not change with respiration, and abdominal compression elevates JVP vs has no effect. (Book p371)"
+    },
+    {
+      "id": "MED-C61-11",
+      "sec": "IJV-versus-Carotid Table, Abdominojugular Reflex and the Two-Scale Measurement of JVP",
+      "page": 371,
+      "fmt": "recall",
+      "q": "Which seen/felt pair separates the two pulses?",
+      "opts": [
+        "Both better seen than felt",
+        "Both better felt than seen",
+        "IJV neither seen nor felt; carotid both",
+        "IJV better seen than felt; carotid better felt than seen"
+      ],
+      "ans": 3,
+      "exp": "The table prints better seen than felt (IJV) against better felt than seen (carotid). (Book p371)"
+    },
+    {
+      "id": "MED-C61-12",
+      "sec": "IJV-versus-Carotid Table, Abdominojugular Reflex and the Two-Scale Measurement of JVP",
+      "page": 371,
+      "fmt": "recall",
+      "q": "Which old term and procedure are printed for the abdominojugular reflex?",
+      "opts": [
+        "Old term hepatojugular reflex; compress the right hypochondrium for 60 sec",
+        "Old term jugulo-hepatic reflex; compress the periumbilical region for 10 sec",
+        "Old term hepatojugular reflex; compress the periumbilical region for 5 sec",
+        "Old term hepatojugular reflex; compress the periumbilical region for 10 sec"
+      ],
+      "ans": 3,
+      "exp": "The block prints old term : hepatojugular reflex and procedure : compress the periumbilical region for 10 sec. (Book p371)"
+    },
+    {
+      "id": "MED-C61-13",
+      "sec": "IJV-versus-Carotid Table, Abdominojugular Reflex and the Two-Scale Measurement of JVP",
+      "page": 371,
+      "fmt": "fillup",
+      "q": "AJR procedure : compress the ____ region for 10 sec.",
+      "opts": [
+        "right hypochondrial",
+        "epigastric",
+        "suprapubic",
+        "periumbilical"
+      ],
+      "ans": 3,
+      "exp": "The procedure line prints compress the periumbilical region for 10 sec. (Book p371)"
+    },
+    {
+      "id": "MED-C61-14",
+      "sec": "IJV-versus-Carotid Table, Abdominojugular Reflex and the Two-Scale Measurement of JVP",
+      "page": 371,
+      "fmt": "match",
+      "q": "Match the AJR observation table — 1) ↑ JVP <1 cm for <10 sec (transient) 2) ↑ JVP >3 cm for >10 sec … A) Normal B) Impending right heart failure",
+      "opts": [
+        "1-A, 2-A",
+        "1-B, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-B"
+      ],
+      "ans": 3,
+      "exp": "The table prints ↑ JVP <1 cm for <10 sec (transient) as normal and ↑ JVP >3 cm for >10 sec as impending right heart failure. (Book p371)"
+    },
+    {
+      "id": "MED-C61-15",
+      "sec": "IJV-versus-Carotid Table, Abdominojugular Reflex and the Two-Scale Measurement of JVP",
+      "page": 371,
+      "fmt": "recall",
+      "q": "Which two principle bullets explain the AJR?",
+      "opts": [
+        "Abdominal compression → ↓ venous return; a faulty RV over-fills",
+        "Abdominal compression → ↑ venous return; a faulty LV cannot receive it without rise in mean pressure",
+        "Abdominal compression → ↑ arterial return; a faulty RV cannot eject it",
+        "Abdominal compression → ↑ venous return; a faulty/dilated RV cannot receive ↑ venous return without rise in mean pressure"
+      ],
+      "ans": 3,
+      "exp": "The principle bullets print abdominal compression → ↑ venous return and a faulty/dilated RV not able to receive ↑ venous return without rise in mean pressure. (Book p371)"
+    },
+    {
+      "id": "MED-C61-16",
+      "sec": "IJV-versus-Carotid Table, Abdominojugular Reflex and the Two-Scale Measurement of JVP",
+      "page": 371,
+      "fmt": "recall",
+      "q": "Which axis labels and arrows caption the AJR trace?",
+      "opts": [
+        "JVP (cm H2O) scale 0/15/30 with onset and release arrows, captioned abdominojugular reflex",
+        "Pressure (mm Hg) scale 0/15/30 with onset arrow only, captioned Valsalva",
+        "JVP (mm Hg) scale 0/15/30 with inspiration and expiration arrows, captioned Kussmaul test",
+        "JVP (mm Hg) scale 0/15/30 with onset and release arrows, captioned abdominojugular reflex"
+      ],
+      "ans": 3,
+      "exp": "The trace carries JVP (mm Hg) 0/15/30 with onset and release arrows and the caption abdominojugular reflex. (Book p371)"
+    },
+    {
+      "id": "MED-C61-17",
+      "sec": "IJV-versus-Carotid Table, Abdominojugular Reflex and the Two-Scale Measurement of JVP",
+      "page": 371,
+      "fmt": "match",
+      "q": "Match the two-scale measurement labels — 1) Scale 1 2) Scale 2 3) Measured length 4) Patient position … A) At highest point of JVP B) Perpendicular to scale 1 at sternal angle C) x (measure this length) D) 45° with neck & trunk in same line",
+      "opts": [
+        "1-D, 2-C, 3-B, 4-A",
+        "1-A, 2-C, 3-B, 4-D",
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-C, 4-D"
+      ],
+      "ans": 3,
+      "exp": "The figure prints scale 1 at highest point of JVP, scale 2 perpendicular to scale 1 at sternal angle, measure this length (x) and patient position 45° with neck & trunk in same line. (Book p371)"
+    },
+    {
+      "id": "MED-C61-18",
+      "sec": "IJV-versus-Carotid Table, Abdominojugular Reflex and the Two-Scale Measurement of JVP",
+      "page": 371,
+      "fmt": "numeric",
+      "q": "Which fixed relation is printed for the sternal angle?",
+      "opts": [
+        "Sternal angle is 5 cm below the centre of right atrium",
+        "Sternal angle is 5 cm above the centre of right atrium",
+        "Sternal angle is 8 cm above the centre of right atrium",
+        "Sternal angle is 10 cm above the centre of the LA"
+      ],
+      "ans": 1,
+      "exp": "The principle line prints sternal angle & RA : fixed relation (sternal angle is 5 cm above the centre of right atrium). (Book p371)"
+    },
+    {
+      "id": "MED-C61-19",
+      "sec": "Measurement Inferences, Elevated-JVP Cause Groups, Kussmaul's Sign and Waveform Components",
+      "page": 372,
+      "fmt": "numeric",
+      "q": "Which inference thresholds are printed for JVP and RA pressure?",
+      "opts": [
+        "JVP >3 cm elevated; RA pressure = (5 + height) mmHg with >8 mmHg elevated",
+        "JVP >5 cm elevated; RA pressure = (3 + height) cm H2O with >6 elevated",
+        "JVP >3 cm above the sternal angle is elevated; RA pressure = (5 + JVP height in cm) cm H2O with >8 cm H2O elevated",
+        "JVP >8 cm elevated; RA pressure = (5 + height) cm H2O with >10 elevated"
+      ],
+      "ans": 2,
+      "exp": "The inference bullets print JVP >3 cm above the sternal angle elevated, RA pressure (5 + JVP height in cm) cm H2O and RA pressure >8 cm H2O elevated. (Book p372)"
+    },
+    {
+      "id": "MED-C61-20",
+      "sec": "Measurement Inferences, Elevated-JVP Cause Groups, Kussmaul's Sign and Waveform Components",
+      "page": 372,
+      "fmt": "recall",
+      "q": "Which equality closes the inference block?",
+      "opts": [
+        "RV systolic pressure = RA pressure",
+        "RV end diastolic pressure = RA pressure",
+        "LV end diastolic pressure = RA pressure",
+        "RV end diastolic pressure = PCWP"
+      ],
+      "ans": 1,
+      "exp": "The third bullet prints RV end diastolic pressure = RA pressure. (Book p372)"
+    },
+    {
+      "id": "MED-C61-21",
+      "sec": "Measurement Inferences, Elevated-JVP Cause Groups, Kussmaul's Sign and Waveform Components",
+      "page": 372,
+      "fmt": "recall",
+      "q": "Which cause gives a pulseless rise in JVP?",
+      "opts": [
+        "Circulatory overload (pulseless)",
+        "TS (pulseless)",
+        "RV infarction (pulseless)",
+        "SVC obstruction (all others cause pulsatile rise)"
+      ],
+      "ans": 3,
+      "exp": "The line prints pulseless rise in JVP : SVC obstruction (all others cause pulsatile rise). (Book p372)"
+    },
+    {
+      "id": "MED-C61-22",
+      "sec": "Measurement Inferences, Elevated-JVP Cause Groups, Kussmaul's Sign and Waveform Components",
+      "page": 372,
+      "fmt": "match",
+      "q": "Match the elevated-JVP cause groups — 1) Circulatory overload 2) ↑ RV pressure & ↓ compliance 3) RV inflow impedance … A) Renal failure, liver cirrhosis, excessive fluid administration B) Pulmonary stenosis, pulmonary HTN, RV failure/RV hypertrophy, RV infarction C) Tricuspid stenosis/atresia, RA myxoma, chronic constrictive pericarditis",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 3,
+      "exp": "The three groups print overload (renal failure, cirrhosis, fluid), ↑ RV pressure & ↓ compliance (PS, PHTN, RVF/RVH, RV infarction) and inflow impedance (TS/atresia, RA myxoma, CCP). (Book p372)"
+    },
+    {
+      "id": "MED-C61-23",
+      "sec": "Measurement Inferences, Elevated-JVP Cause Groups, Kussmaul's Sign and Waveform Components",
+      "page": 372,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one cause belongs to the RV inflow impedance group, not the ↑ RV pressure group.",
+      "opts": [
+        "RA myxoma",
+        "Pulmonary HTN",
+        "RV failure/RV hypertrophy",
+        "RV infarction"
+      ],
+      "ans": 0,
+      "exp": "The ↑ RV pressure & ↓ compliance group prints pulmonary stenosis, pulmonary HTN, RV failure/RV hypertrophy and RV infarction; RA myxoma sits under RV inflow impedance. (Book p372)"
+    },
+    {
+      "id": "MED-C61-24",
+      "sec": "Measurement Inferences, Elevated-JVP Cause Groups, Kussmaul's Sign and Waveform Components",
+      "page": 372,
+      "fmt": "recall",
+      "q": "Which definition and causes are printed for Kussmaul's sign?",
+      "opts": [
+        "Increase in JVP with expiration; causes tamponade, TR, DCMP",
+        "Fall in JVP with inspiration; causes TS and RA myxoma",
+        "Increase in JVP with inspiration; causes tamponade, AR, HCM",
+        "Increase in JVP with inspiration; causes CCP, TS, restrictive cardiomyopathy (RCM)"
+      ],
+      "ans": 3,
+      "exp": "The Kussmaul block prints increase in JVP with inspiration with causes CCP, TS, restrictive cardiomyopathy (RCM). (Book p372)"
+    },
+    {
+      "id": "MED-C61-25",
+      "sec": "Measurement Inferences, Elevated-JVP Cause Groups, Kussmaul's Sign and Waveform Components",
+      "page": 372,
+      "fmt": "recall",
+      "q": "Which components and timing line are printed for the JVP waveform?",
+      "opts": [
+        "3 positive waves a, c, v and 2 descents x, y; timing diastole – S2 – systole",
+        "3 positive waves a, x, v and 3 descents c, x', y; timing diastole – S1 – systole",
+        "4 positive waves a, c, v, h and 3 descents; timing systole – S1 – diastole",
+        "3 positive waves a, c, v and 3 descents x, x', y; timing diastole – S1 – systole – S2 – diastole"
+      ],
+      "ans": 3,
+      "exp": "The components bullets print 3 positive waves a, c, v and 3 descents x, x', y, with the trace timed diastole, S1, systole, S2, diastole. (Book p372)"
+    },
+    {
+      "id": "MED-C61-26",
+      "sec": "Measurement Inferences, Elevated-JVP Cause Groups, Kussmaul's Sign and Waveform Components",
+      "page": 372,
+      "fmt": "match",
+      "q": "Match the relation panel alignments — 1) a wave 2) c wave 3) x descent 4) v wave … A) Follows the P wave before S1 B) Coincides with S1 C) Systolic descent after c D) Peaks after S2",
+      "opts": [
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-A, 2-B, 3-D, 4-C"
+      ],
+      "ans": 1,
+      "exp": "The waveforms-of-JVP panel aligns A with P/QRS before S1, C with S1, X in systole and V around S2 against carotid pulse, heart sounds and EKG. (Book p372)"
+    },
+    {
+      "id": "MED-C61-27",
+      "sec": "Measurement Inferences, Elevated-JVP Cause Groups, Kussmaul's Sign and Waveform Components",
+      "page": 372,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the p372 inferences.",
+      "opts": [
+        "False — SVC obstruction produces a pulsatile rise like all other causes",
+        "True — JVP >3 cm above the sternal angle is elevated and RA pressure = (5 + height in cm) cm H2O",
+        "True — RA pressure above 8 cm H2O is normal",
+        "False — Kussmaul's sign is a fall of JVP with inspiration"
+      ],
+      "ans": 1,
+      "exp": "The page prints >3 cm elevated, RA pressure (5 + height) cm H2O with >8 elevated, SVC obstruction pulseless while others pulsatile, and Kussmaul's sign as JVP increase with inspiration. (Book p372)"
+    },
+    {
+      "id": "MED-C61-28",
+      "sec": "a Wave Mechanism and Position, Large a Waves, Cannon and Absent a Waves and the c Wave",
+      "page": 373,
+      "fmt": "recall",
+      "q": "Which mechanism and cardiac-cycle positions are printed for the a wave?",
+      "opts": [
+        "RA contraction; systole, precedes carotid upstroke, follows QRS",
+        "RV contraction; diastole, precedes carotid upstroke, follows T wave",
+        "RA contraction; diastole, follows carotid upstroke, follows P wave",
+        "RA contraction; diastole (just before systole/S1), precedes upstroke of carotid pulse, follows P wave of ECG"
+      ],
+      "ans": 3,
+      "exp": "The a wave block prints mechanism RA contraction with diastole (just before systole/S1), precede upstroke of carotid pulse and follows P wave of ECG. (Book p373)"
+    },
+    {
+      "id": "MED-C61-29",
+      "sec": "a Wave Mechanism and Position, Large a Waves, Cannon and Absent a Waves and the c Wave",
+      "page": 373,
+      "fmt": "match",
+      "q": "Match the large-a-wave block — 1) Mechanism 2) Causes … A) Atria contract against resistance B) RV hypertrophy, RCM, TS, RA myxoma, pulmonary hypertension",
+      "opts": [
+        "1-A, 2-A",
+        "1-B, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-B"
+      ],
+      "ans": 3,
+      "exp": "Large a wave prints atria contract against resistance with causes RV hypertrophy, RCM, TS, RA myxoma and pulmonary hypertension. (Book p373)"
+    },
+    {
+      "id": "MED-C61-30",
+      "sec": "a Wave Mechanism and Position, Large a Waves, Cannon and Absent a Waves and the c Wave",
+      "page": 373,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one condition gives an ABSENT a wave rather than a large one.",
+      "opts": [
+        "RA myxoma",
+        "Atrial fibrillation (AF)",
+        "Tricuspid stenosis",
+        "Pulmonary hypertension"
+      ],
+      "ans": 1,
+      "exp": "Large a wave causes are RV hypertrophy, RCM, TS, RA myxoma and pulmonary hypertension; AF is listed under absent a wave. (Book p373)"
+    },
+    {
+      "id": "MED-C61-31",
+      "sec": "a Wave Mechanism and Position, Large a Waves, Cannon and Absent a Waves and the c Wave",
+      "page": 373,
+      "fmt": "recall",
+      "q": "Which mechanism and cause tree define the giant (cannon) a wave?",
+      "opts": [
+        "Atria contract against closed tricuspid valve (TV); arrhythmia regular : AVNRT, AVRT; irregular : VT with AV dissociation, complete heart block (CHB)",
+        "Atria contract against closed mitral valve; regular : AVNRT, AVRT; irregular : VT with AV dissociation, CHB",
+        "Ventricles contract against closed TV; regular : AVNRT; irregular : CHB only",
+        "Atria contract against closed TV; regular : sinus tachycardia; irregular : AF"
+      ],
+      "ans": 0,
+      "exp": "The giant a wave block prints atria contract against closed tricuspid valve (TV) with arrhythmia regular AVNRT/AVRT and irregular VT with AV dissociation/complete heart block (CHB). (Book p373)"
+    },
+    {
+      "id": "MED-C61-32",
+      "sec": "a Wave Mechanism and Position, Large a Waves, Cannon and Absent a Waves and the c Wave",
+      "page": 373,
+      "fmt": "recall",
+      "q": "Which causes are printed for the absent a wave?",
+      "opts": [
+        "Atrial fibrillation (AF) and hyperkalemia (↑ serum K+)",
+        "AF and hypocalcemia",
+        "AVNRT and hyperkalemia",
+        "Sinus arrest and hypernatremia"
+      ],
+      "ans": 0,
+      "exp": "The absent a wave bullets print atrial fibrillation (AF) and hyperkalemia (↑ serum K+). (Book p373)"
+    },
+    {
+      "id": "MED-C61-33",
+      "sec": "a Wave Mechanism and Position, Large a Waves, Cannon and Absent a Waves and the c Wave",
+      "page": 373,
+      "fmt": "recall",
+      "q": "Which two mechanism bullets are printed for the c wave?",
+      "opts": [
+        "Upward bulge of TV during ejection; coincides with OS",
+        "Downward bulge of TV during isovolumetric contraction; coincides with S1",
+        "Upward bulge of mitral valve during isovolumetric contraction; coincides with S1",
+        "Upward bulge of tricuspid valve (TV) during isovolumetric contraction; coincides with S1"
+      ],
+      "ans": 3,
+      "exp": "The c wave mechanism bullets print upward bulge of TV during isovolumetric contraction and coincide with S1. (Book p373)"
+    },
+    {
+      "id": "MED-C61-34",
+      "sec": "a Wave Mechanism and Position, Large a Waves, Cannon and Absent a Waves and the c Wave",
+      "page": 373,
+      "fmt": "match",
+      "q": "Match the figure captions of p373 — 1) First trace panel 2) Second trace panel … A) Large a wave (arrow on the tall a with ECG/PHONO/JUGULAR labels) B) Cannon waves (repeated tall c spikes with x and y)",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-B"
+      ],
+      "ans": 2,
+      "exp": "The first panel is captioned large a wave with the arrow on a; the second is captioned cannon waves. (Book p373)"
+    },
+    {
+      "id": "MED-C61-35",
+      "sec": "a Wave Mechanism and Position, Large a Waves, Cannon and Absent a Waves and the c Wave",
+      "page": 373,
+      "fmt": "scenario",
+      "q": "A patient with complete heart block shows intermittent giant neck spikes that vanish when the rhythm becomes sinus. Which printed mechanism explains the spikes?",
+      "opts": [
+        "RA emptying against a stenosed tricuspid valve (slow y descent)",
+        "Atria contracting against a closed tricuspid valve during AV dissociation (cannon a waves)",
+        "Atria contracting against resistance from RV hypertrophy (large a waves)",
+        "Absent atrial contraction from hyperkalemia"
+      ],
+      "ans": 1,
+      "exp": "The cannon-a-wave tree lists complete heart block (CHB) under irregular arrhythmias with atria contracting against closed TV. (Book p373)"
+    },
+    {
+      "id": "MED-C61-36",
+      "sec": "a Wave Mechanism and Position, Large a Waves, Cannon and Absent a Waves and the c Wave",
+      "page": 373,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the p373 a and c waves.",
+      "opts": [
+        "True — the a wave is produced by RA relaxation",
+        "False — absent a waves are seen in RV hypertrophy and TS",
+        "False — cannon a waves require atrial contraction against an open tricuspid valve",
+        "True — the a wave follows the P wave, precedes the carotid upstroke and sits in diastole just before S1"
+      ],
+      "ans": 3,
+      "exp": "The a wave follows P and precedes the carotid upstroke in diastole; its mechanism is RA contraction; cannon waves need a closed TV; RV hypertrophy and TS give large a waves while AF and hyperkalemia abolish it. (Book p373)"
+    },
+    {
+      "id": "MED-C61-37",
+      "sec": "x and x' Descents with Their Variations and the v Wave with Prominent and Reduced Causes",
+      "page": 374,
+      "fmt": "match",
+      "q": "Match the x-descent mechanism arms — 1) x 2) x' … A) Atrial relaxation B) Opening of pulmonary valve → pull TV down → ↑ RA volume → ↓ RA pressure (systole)",
+      "opts": [
+        "1-A, 2-A",
+        "1-B, 2-B",
+        "1-A, 2-B",
+        "1-B, 2-A"
+      ],
+      "ans": 2,
+      "exp": "The tree prints x from atrial relaxation and x' from opening of pulmonary valve → pull TV down → ↑ RA volume → ↓ RA pressure with systole. (Book p374)"
+    },
+    {
+      "id": "MED-C61-38",
+      "sec": "x and x' Descents with Their Variations and the v Wave with Prominent and Reduced Causes",
+      "page": 374,
+      "fmt": "recall",
+      "q": "Which printed positions accompany the x descent and its x' arm?",
+      "opts": [
+        "Diastole for x' and systole for x",
+        "Systole for both arms",
+        "Diastole for both arms",
+        "Position in cardiac cycle : diastole for the x descent line, with systole printed under the x' chain"
+      ],
+      "ans": 3,
+      "exp": "The page prints position in cardiac cycle : diastole beside the mechanism line and systole at the foot of the x' chain. (Book p374)"
+    },
+    {
+      "id": "MED-C61-39",
+      "sec": "x and x' Descents with Their Variations and the v Wave with Prominent and Reduced Causes",
+      "page": 374,
+      "fmt": "match",
+      "q": "Match the x-descent variations — 1) Prominent x descent 2) Reduced/absent x descent … A) CCP, CT B) RVF/TR/AF",
+      "opts": [
+        "1-A, 2-A",
+        "1-B, 2-A",
+        "1-B, 2-B",
+        "1-A, 2-B"
+      ],
+      "ans": 3,
+      "exp": "The variations print prominent x descent : CCP, CT and reduced/absent x decent : RVF/TR/AF (as printed). (Book p374)"
+    },
+    {
+      "id": "MED-C61-40",
+      "sec": "x and x' Descents with Their Variations and the v Wave with Prominent and Reduced Causes",
+      "page": 374,
+      "fmt": "recall",
+      "q": "Which three traces share the right-hand figure, and what labels it?",
+      "opts": [
+        "Normal, tamponade and MS traces captioned JVP in MS",
+        "Tamponade, CCP and RVF traces captioned JVP in RV failure",
+        "Normal, tamponade and constrictive pericarditis traces captioned JVP in TR",
+        "Normal, tamponade and constrictive pericarditis traces with a, x, v, y and tricuspid valve opens, captioned JVP in constrictive pericarditis & tamponade"
+      ],
+      "ans": 3,
+      "exp": "The figure stacks normal, tamponade and constrictive pericarditis waveforms with the tricuspid-valve-opens line, captioned JVP in constrictive pericarditis & tamponade. (Book p374)"
+    },
+    {
+      "id": "MED-C61-41",
+      "sec": "x and x' Descents with Their Variations and the v Wave with Prominent and Reduced Causes",
+      "page": 374,
+      "fmt": "recall",
+      "q": "Which mechanism and positions are printed for the v wave?",
+      "opts": [
+        "Ventricular filling; mostly in systole with S1 before peak",
+        "Atrial filling; mostly in systole with S1 just before peak",
+        "Atrial filling; mostly in systole with S2 just before peak of v wave",
+        "Atrial filling; mostly in diastole with S2 after peak"
+      ],
+      "ans": 2,
+      "exp": "The v wave block prints mechanism atrial filling with mostly in systole and S2 just before peak of v wave. (Book p374)"
+    },
+    {
+      "id": "MED-C61-42",
+      "sec": "x and x' Descents with Their Variations and the v Wave with Prominent and Reduced Causes",
+      "page": 374,
+      "fmt": "match",
+      "q": "Match the prominent-v-wave block — 1) Mechanism 2) Causes (bracketed) … A) ↑ RA volume during ventricular systole B) TR, cor pulmonale, RCM, ASD + MR → high venacava pressure d/t RVF",
+      "opts": [
+        "1-A, 2-A",
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-B"
+      ],
+      "ans": 2,
+      "exp": "Prominent v wave prints d/t ↑ RA volume during ventricular systole with the bracket TR, cor pulmonale, RCM, ASD + MR → high venacava pressure d/t RVF. (Book p374)"
+    },
+    {
+      "id": "MED-C61-43",
+      "sec": "x and x' Descents with Their Variations and the v Wave with Prominent and Reduced Causes",
+      "page": 374,
+      "fmt": "recall",
+      "q": "Which causes reduce the v wave, and which photo closes p374?",
+      "opts": [
+        "Hypovolemia and hypotension; photo captioned JVP in TR",
+        "AF and hyperkalemia; photo captioned JVP in TR",
+        "Hypovolemia and hypertension; photo captioned JVP in CCP",
+        "Hypovolemia and hypotension; photo captioned JVP in MS"
+      ],
+      "ans": 0,
+      "exp": "The reduced v wave bullet prints causes : hypovolemia, hypotension beside the neck photo captioned JVP in TR. (Book p374)"
+    },
+    {
+      "id": "MED-C61-44",
+      "sec": "x and x' Descents with Their Variations and the v Wave with Prominent and Reduced Causes",
+      "page": 374,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one item reduces the x descent rather than making it prominent.",
+      "opts": [
+        "Sharp rapid descent in constrictive pericarditis",
+        "Atrial relaxation with preserved systolic descent",
+        "CT (cardiac tamponade)",
+        "RVF/TR/AF"
+      ],
+      "ans": 3,
+      "exp": "Prominent x descent is printed for CCP and CT; reduced/absent x descent is printed for RVF/TR/AF. (Book p374)"
+    },
+    {
+      "id": "MED-C61-45",
+      "sec": "x and x' Descents with Their Variations and the v Wave with Prominent and Reduced Causes",
+      "page": 374,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the p374 descents and v wave.",
+      "opts": [
+        "False — prominent x descent is printed for RVF, TR and AF",
+        "False — the v wave is a diastolic wave peaking before S1",
+        "True — the x descent is produced by atrial contraction",
+        "True — the x' descent follows pulmonary valve opening pulling the TV down, raising RA volume and lowering RA pressure in systole"
+      ],
+      "ans": 3,
+      "exp": "The x arm is atrial relaxation while x' follows pulmonary valve opening with the TV pulled down; prominent x descent belongs to CCP/CT and reduced/absent to RVF/TR/AF; the v wave is mostly systolic with S2 just before its peak. (Book p374)"
+    },
+    {
+      "id": "MED-C61-46",
+      "sec": "Lanscisis Sign, y Descent Variations, h Wave and the Closing Valve-Disease Note",
+      "page": 375,
+      "fmt": "recall",
+      "q": "Which sign and waveform set open p375?",
+      "opts": [
+        "Lanscisis sign : giant v wave in TR, with severe/mild/normal traces (as printed spelling)",
+        "Lanscisis sign : absent v wave in TR, with a single trace",
+        "Lanscisis sign : giant v wave in MS, with severe/mild/normal traces",
+        "Lanscisis sign : giant v wave in TR, with only a normal trace"
+      ],
+      "ans": 0,
+      "exp": "The note prints Lanscisis sign : giant v wave in TR above the severe/mild/normal waveform stack (spelling as printed). (Book p375)"
+    },
+    {
+      "id": "MED-C61-47",
+      "sec": "Lanscisis Sign, y Descent Variations, h Wave and the Closing Valve-Disease Note",
+      "page": 375,
+      "fmt": "recall",
+      "q": "Which mechanism and position are printed for the y descent?",
+      "opts": [
+        "RV emptying → ↓ RA pressure; systole",
+        "RA emptying → ↓ RA pressure; systole (following AV valve opening)",
+        "RA emptying → ↓ RA pressure; diastole (following AV valve opening)",
+        "RA emptying → ↑ RA pressure; diastole (following AV valve opening)"
+      ],
+      "ans": 2,
+      "exp": "The y descent block prints mechanism RA emptying → ↓ RA pressure and position diastole (following AV valve opening). (Book p375)"
+    },
+    {
+      "id": "MED-C61-48",
+      "sec": "Lanscisis Sign, y Descent Variations, h Wave and the Closing Valve-Disease Note",
+      "page": 375,
+      "fmt": "match",
+      "q": "Match the y-descent variations — 1) Rapid y descent 2) Slow y descent … A) CCP → Friedreich sign, plus causes of prominent v wave B) RA emptying & RV filling impaired : TS, RA myxoma",
+      "opts": [
+        "1-A, 2-A",
+        "1-B, 2-A",
+        "1-B, 2-B",
+        "1-A, 2-B"
+      ],
+      "ans": 3,
+      "exp": "Rapid y descent lists CCP → Friedreich sign and causes of prominent v wave; slow y descent lists impaired RA emptying & RV filling with TS and RA myxoma. (Book p375)"
+    },
+    {
+      "id": "MED-C61-49",
+      "sec": "Lanscisis Sign, y Descent Variations, h Wave and the Closing Valve-Disease Note",
+      "page": 375,
+      "fmt": "recall",
+      "q": "Which figure caption accompanies the rapid y descent trace?",
+      "opts": [
+        "Slow y descent with ECG and JVP labels over marks I, II, K",
+        "Rapid y descent with ECG P wave and JVP labels V, A, X, Y over marks I, II, K",
+        "Rapid x descent with ECG P and JVP labels",
+        "Rapid y descent with ECG QRS and JVP labels a, c, v"
+      ],
+      "ans": 1,
+      "exp": "The panel is captioned rapid y descent with ECG (P) above the JVP trace labelled V, A, X, Y and baseline marks I, II, K. (Book p375)"
+    },
+    {
+      "id": "MED-C61-50",
+      "sec": "Lanscisis Sign, y Descent Variations, h Wave and the Closing Valve-Disease Note",
+      "page": 375,
+      "fmt": "recall",
+      "q": "Where does the h wave sit, and why?",
+      "opts": [
+        "Just prior to a wave in long diastole d/t ↓ HR",
+        "Just prior to a wave in short diastole d/t ↓ HR",
+        "Just after a wave in long diastole d/t ↑ HR",
+        "Just prior to c wave in systole d/t ↓ HR"
+      ],
+      "ans": 0,
+      "exp": "The h wave line prints just prior to a wave in long diastole d/t ↓ HR beside the PCG-MA/JVP/ECG figure captioned h wave. (Book p375)"
+    },
+    {
+      "id": "MED-C61-51",
+      "sec": "Lanscisis Sign, y Descent Variations, h Wave and the Closing Valve-Disease Note",
+      "page": 375,
+      "fmt": "fillup",
+      "q": "The h wave sits just prior to the ____ wave in long diastole d/t ↓ HR.",
+      "opts": [
+        "a",
+        "v",
+        "x",
+        "c"
+      ],
+      "ans": 0,
+      "exp": "The h wave line prints just prior to a wave in long diastole d/t ↓ HR. (Book p375)"
+    },
+    {
+      "id": "MED-C61-52",
+      "sec": "Lanscisis Sign, y Descent Variations, h Wave and the Closing Valve-Disease Note",
+      "page": 375,
+      "fmt": "recall",
+      "q": "Which closing note is printed for valve disease and JVP?",
+      "opts": [
+        "AS, AR : no change; MR : prominent v wave; MS : prominent v wave",
+        "AS, AR, MR : no change; MS : prominent v wave (d/t pulmonary HTN)",
+        "AS, AR, MR : usually no change in JVP; MS : prominent a wave (d/t pulmonary HTN)",
+        "AS, AR, MR : elevated JVP; MS : low JVP"
+      ],
+      "ans": 2,
+      "exp": "The final note prints AS, AR, MR : usually no change in JVP and MS : prominent a wave (d/t pulmonary HTN). (Book p375)"
+    },
+    {
+      "id": "MED-C61-53",
+      "sec": "Lanscisis Sign, y Descent Variations, h Wave and the Closing Valve-Disease Note",
+      "page": 375,
+      "fmt": "scenario",
+      "q": "A CCP patient's JVP trace shows a steep early diastolic plunge after the v wave, and a separate TS patient shows a sluggish one. Which printed pair explains them?",
+      "opts": [
+        "Slow y descent in CCP against rapid y descent in TS",
+        "Rapid y descent in both, since both raise RA pressure",
+        "Rapid x descent in CCP against slow x descent in TS",
+        "Rapid y descent in CCP (Friedreich sign) against slow y descent in TS from impaired RA emptying/RV filling"
+      ],
+      "ans": 3,
+      "exp": "The variations print rapid y descent with CCP → Friedreich sign and slow y descent with impaired RA emptying & RV filling in TS and RA myxoma. (Book p375)"
+    },
+    {
+      "id": "MED-C61-54",
+      "sec": "Lanscisis Sign, y Descent Variations, h Wave and the Closing Valve-Disease Note",
+      "page": 375,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the p375 descents and h wave.",
+      "opts": [
+        "False — slow y descent causes are CCP and TR",
+        "True — a rapid y descent is printed for TS and RA myxoma",
+        "True — the y descent follows RA emptying after AV valve opening and is rapid in CCP (Friedreich sign)",
+        "False — the h wave sits just after the v wave in short diastole due to ↑ HR"
+      ],
+      "ans": 2,
+      "exp": "The y descent is diastolic after AV-valve opening with rapid form in CCP (Friedreich sign) and slow form in TS/RA myxoma; the h wave sits just prior to the a wave in long diastole d/t ↓ HR. (Book p375)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U61-1",
+      "ch": 61,
+      "n": 1,
+      "title": "Right-Heart Window, Its Three Indicators, Why the Right IJV Is Preferred and the Neck-Vessel Figures",
+      "sec": "Right-Heart Window, Its Three Indicators, Why the Right IJV Is Preferred and the Neck-Vessel Figures",
+      "guide": "JVP is the window to the right heart / natural non-invasive RH catheter measuring RA pressure, indicating RH hemodynamics, venous blood volume and venous tone (p370). The right IJV is preferred: carotid triangle between sternal & clavicular heads of SCM, lateral to carotid and deep to SCM, straight line with RA, less extrinsic compression.\nFigure labels: carotid sinus, common carotid artery, internal/external jugular veins, subclavian vein & artery, anterior jugular vein, innominate vein, SVC; path of IJv with SCM heads and clavicle. The EJV is not preferred: valves interfere with measurement, invisible in hypotension (vasoconstriction), multiple fascial planes.",
+      "qs": [
+        "MED-C61-01",
+        "MED-C61-02",
+        "MED-C61-03",
+        "MED-C61-04",
+        "MED-C61-05",
+        "MED-C61-06",
+        "MED-C61-07",
+        "MED-C61-08"
+      ]
+    },
+    {
+      "id": "MED-U61-2",
+      "ch": 61,
+      "n": 2,
+      "title": "IJV-versus-Carotid Table, Abdominojugular Reflex and the Two-Scale Measurement of JVP",
+      "sec": "IJV-versus-Carotid Table, Abdominojugular Reflex and the Two-Scale Measurement of JVP",
+      "guide": "IJV vs carotid: superficial & lateral, better seen than felt, 2 peaks & 2 troughs with descents more obvious than crests, digital compression abolishes it, falls with inspiration, elevates with abdominal compression — against deeper & medial, better felt, single brisker visible upstroke, no compression or respiratory effect (p371).\nAJR (old hepatojugular reflex): compress periumbilical region 10 sec; ↑ JVP <1 cm for <10 sec transient = normal, ↑ JVP >3 cm for >10 sec = impending right heart failure; principle = compression ↑ venous return which a faulty/dilated RV cannot receive without raised mean pressure. Measurement: scale 1 at JVP top, scale 2 perpendicular at sternal angle, measure x, patient 45° with neck & trunk in line; sternal angle is 5 cm above RA centre.",
+      "qs": [
+        "MED-C61-09",
+        "MED-C61-10",
+        "MED-C61-11",
+        "MED-C61-12",
+        "MED-C61-13",
+        "MED-C61-14",
+        "MED-C61-15",
+        "MED-C61-16",
+        "MED-C61-17",
+        "MED-C61-18"
+      ]
+    },
+    {
+      "id": "MED-U61-3",
+      "ch": 61,
+      "n": 3,
+      "title": "Measurement Inferences, Elevated-JVP Cause Groups, Kussmaul's Sign and Waveform Components",
+      "sec": "Measurement Inferences, Elevated-JVP Cause Groups, Kussmaul's Sign and Waveform Components",
+      "guide": "Inferences: JVP >3 cm above sternal angle elevated; RA pressure = (5 + JVP height cm) cm H2O with >8 elevated; RV end-diastolic pressure = RA pressure (p372). Pulseless rise = SVC obstruction; overload = renal failure, cirrhosis, excess fluid; ↑ RV pressure & ↓ compliance = PS, pulmonary HTN, RVF/RVH, RV infarction; inflow impedance = TS/atresia, RA myxoma, CCP. Kussmaul's sign = JVP rise with inspiration in CCP, TS, RCM.\nWaveform: positive a, c, v with descents x, x', y across diastole–S1–systole–S2–diastole; panel aligns a with P, c with S1, x in systole and v after S2.",
+      "qs": [
+        "MED-C61-19",
+        "MED-C61-20",
+        "MED-C61-21",
+        "MED-C61-22",
+        "MED-C61-23",
+        "MED-C61-24",
+        "MED-C61-25",
+        "MED-C61-26",
+        "MED-C61-27"
+      ]
+    },
+    {
+      "id": "MED-U61-4",
+      "ch": 61,
+      "n": 4,
+      "title": "a Wave Mechanism and Position, Large a Waves, Cannon and Absent a Waves and the c Wave",
+      "sec": "a Wave Mechanism and Position, Large a Waves, Cannon and Absent a Waves and the c Wave",
+      "guide": "a wave = RA contraction in diastole just before S1, preceding the carotid upstroke and following the P wave (p373). Large a wave = atria contracting against resistance (RV hypertrophy, RCM, TS, RA myxoma, pulmonary hypertension); giant/cannon a wave = atria against closed TV (regular AVNRT/AVRT; irregular VT with AV dissociation, CHB); absent a wave = AF and hyperkalemia.\nc wave = upward bulge of TV during isovolumetric contraction, coinciding with S1; figure captions are large a wave and cannon waves.",
+      "qs": [
+        "MED-C61-28",
+        "MED-C61-29",
+        "MED-C61-30",
+        "MED-C61-31",
+        "MED-C61-32",
+        "MED-C61-33",
+        "MED-C61-34",
+        "MED-C61-35",
+        "MED-C61-36"
+      ]
+    },
+    {
+      "id": "MED-U61-5",
+      "ch": 61,
+      "n": 5,
+      "title": "x and x' Descents with Their Variations and the v Wave with Prominent and Reduced Causes",
+      "sec": "x and x' Descents with Their Variations and the v Wave with Prominent and Reduced Causes",
+      "guide": "x descent = atrial relaxation (position line diastole) while x' = pulmonary valve opening pulling TV down → ↑ RA volume → ↓ RA pressure in systole; prominent x in CCP/CT, reduced/absent in RVF/TR/AF; figure stacks normal, tamponade and constrictive pericarditis (p374).\nv wave = atrial filling, mostly systolic with S2 just before its peak; prominent v from ↑ RA volume in ventricular systole (TR, cor pulmonale, RCM, ASD + MR → high venacava pressure d/t RVF); reduced v in hypovolemia/hypotension; photo JVP in TR.",
+      "qs": [
+        "MED-C61-37",
+        "MED-C61-38",
+        "MED-C61-39",
+        "MED-C61-40",
+        "MED-C61-41",
+        "MED-C61-42",
+        "MED-C61-43",
+        "MED-C61-44",
+        "MED-C61-45"
+      ]
+    },
+    {
+      "id": "MED-U61-6",
+      "ch": 61,
+      "n": 6,
+      "title": "Lanscisis Sign, y Descent Variations, h Wave and the Closing Valve-Disease Note",
+      "sec": "Lanscisis Sign, y Descent Variations, h Wave and the Closing Valve-Disease Note",
+      "guide": "Lanscisis sign (as printed) = giant v wave in TR with severe/mild/normal traces (p375). y descent = RA emptying → ↓ RA pressure in diastole after AV-valve opening; rapid y in CCP (Friedreich sign) and causes of prominent v wave; slow y with impaired RA emptying/RV filling in TS and RA myxoma; trace captioned rapid y descent with I, II, K marks.\nh wave sits just prior to the a wave in long diastole d/t ↓ HR. Closing note: AS, AR, MR usually no change in JVP; MS prominent a wave d/t pulmonary HTN.",
+      "qs": [
+        "MED-C61-46",
+        "MED-C61-47",
+        "MED-C61-48",
+        "MED-C61-49",
+        "MED-C61-50",
+        "MED-C61-51",
+        "MED-C61-52",
+        "MED-C61-53",
+        "MED-C61-54"
+      ]
+    }
+  ]
+}

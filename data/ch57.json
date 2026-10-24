@@ -1,0 +1,949 @@
+{
+  "chapter": 57,
+  "title": "Mitral Regurgitation",
+  "pageRange": "346-351",
+  "questions": [
+    {
+      "id": "MED-C57-01",
+      "sec": "Mitral Valve Components, MR Features and the Acute-versus-Chronic Classification Tree",
+      "page": 346,
+      "fmt": "match",
+      "q": "Match each printed component group to its count — 1) Leaflets and commissures 2) Annulus 3) Chordae tendineae, papillary muscles, adjacent LV myocardium … A) Two each B) One C) Three components listed without a number",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 2,
+      "exp": "The component list prints 2 leaflets, 2 commissures, 1 annulus, then chordae tendineae, papillary muscles and adjacent LV myocardium. (Book p346)"
+    },
+    {
+      "id": "MED-C57-02",
+      "sec": "Mitral Valve Components, MR Features and the Acute-versus-Chronic Classification Tree",
+      "page": 346,
+      "fmt": "fillup",
+      "q": "Mitral regurgitation is systolic retrograde flow from LV to ____ and is a pure volume overload lesion with normal diastolic function.",
+      "opts": [
+        "RA",
+        "RV",
+        "LA",
+        "aorta"
+      ],
+      "ans": 2,
+      "exp": "The features bullets read systolic retrograde flow from LV to LA, pure volume overload lesion and diastolic function is normal. (Book p346)"
+    },
+    {
+      "id": "MED-C57-03",
+      "sec": "Mitral Valve Components, MR Features and the Acute-versus-Chronic Classification Tree",
+      "page": 346,
+      "fmt": "recall",
+      "q": "Which diastolic-function statement is printed among the three MR features?",
+      "opts": [
+        "Diastolic function is normal",
+        "Diastolic function fails early",
+        "Diastolic function is abnormal only in acute MR",
+        "Diastolic dysfunction precedes systolic failure"
+      ],
+      "ans": 0,
+      "exp": "The third feature bullet states diastolic function is normal. (Book p346)"
+    },
+    {
+      "id": "MED-C57-04",
+      "sec": "Mitral Valve Components, MR Features and the Acute-versus-Chronic Classification Tree",
+      "page": 346,
+      "fmt": "match",
+      "q": "Match the classification arms in printed order — 1) Acute MR, first cause 2) Acute MR, second cause 3) Chronic primary MR 4) Chronic secondary MR … A) Papillary muscle rupture B) Chordae rupture C) Primary (organic) MR D) Secondary (functional) MR",
+      "opts": [
+        "1-B, 2-A, 3-C, 4-D",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-A, 2-B, 3-D, 4-C"
+      ],
+      "ans": 2,
+      "exp": "The tree splits acute MR (papillary muscle rupture, chordae rupture) from chronic MR (primary AKA organic, secondary AKA functional). (Book p346)"
+    },
+    {
+      "id": "MED-C57-05",
+      "sec": "Mitral Valve Components, MR Features and the Acute-versus-Chronic Classification Tree",
+      "page": 346,
+      "fmt": "recall",
+      "q": "Which papillary-muscle fact is printed under acute MR due to papillary muscle rupture?",
+      "opts": [
+        "Posteromedial papillary muscle has a dual supply so it never ruptures",
+        "Anterolateral papillary muscle is supplied only by RCA (m/c)",
+        "Inferior wall MI affects the anterolateral papillary muscle (m/c)",
+        "Inferior wall MI affects the posteromedial papillary wall because it is supplied only by RCA (m/c)"
+      ],
+      "ans": 3,
+      "exp": "The acute-MR arm prints inferior wall MI with posteromedial papillary wall supplied only by RCA as m/c, plus infection. (Book p346)"
+    },
+    {
+      "id": "MED-C57-06",
+      "sec": "Mitral Valve Components, MR Features and the Acute-versus-Chronic Classification Tree",
+      "page": 346,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one entry belongs to the printed PRIMARY (organic) MR column, not the secondary column.",
+      "opts": [
+        "Hypertrophic cardiomyopathy due to systolic anterior motion of the mitral leaflet",
+        "Annular dilatation (MR begets MR)",
+        "Leaflet/chordae tendineae abnormality due to rheumatic heart disease, m/c in developing countries",
+        "LV dysfunction (m/c) with annular abnormality"
+      ],
+      "ans": 2,
+      "exp": "Secondary (functional) MR prints annular abnormality, LV dysfunction (m/c), annular dilatation (MR begets MR) and HCM via SAM; RHD leaflet disease is primary. (Book p346)"
+    },
+    {
+      "id": "MED-C57-07",
+      "sec": "Mitral Valve Components, MR Features and the Acute-versus-Chronic Classification Tree",
+      "page": 346,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the printed MR classification.",
+      "opts": [
+        "False — the autoimmune disorders listed under primary MR are SLE and scleroderma",
+        "True — infective endocarditis is printed under papillary muscle rupture and bare infection under chordae rupture",
+        "True — primary MR is AKA organic MR, and the secondary (functional) column lists LV dysfunction as its m/c cause",
+        "False — MVP is the m/c cause of primary MR in developing countries"
+      ],
+      "ans": 2,
+      "exp": "Primary = organic and secondary = functional with LV dysfunction m/c; infection sits under papillary muscle rupture while infective endocarditis sits under chordae rupture; MVP is m/c in developed countries; the autoimmune list is SLE and rheumatoid arthritis. (Book p346)"
+    },
+    {
+      "id": "MED-C57-08",
+      "sec": "Mitral Valve Components, MR Features and the Acute-versus-Chronic Classification Tree",
+      "page": 346,
+      "fmt": "scenario",
+      "q": "A 58-year-old with a day-3 inferior wall MI develops sudden pulmonary oedema and a new systolic murmur. Which printed anatomical fact explains the valve failure?",
+      "opts": [
+        "Chordae rupture from infective endocarditis is the m/c acute cause",
+        "Annular dilatation from LV dysfunction begets MR",
+        "The anterolateral papillary muscle receives a single vessel from RCA",
+        "The posteromedial papillary wall is supplied only by RCA, so inferior MI ruptures it"
+      ],
+      "ans": 3,
+      "exp": "The acute-MR tree prints inferior wall MI → posteromedial papillary wall supplied only by RCA as m/c for papillary muscle rupture. (Book p346)"
+    },
+    {
+      "id": "MED-C57-09",
+      "sec": "RHD Timeline and Combinations, Autoimmune Notes, and the Physiology-versus-Pathology Chains",
+      "page": 347,
+      "fmt": "numeric",
+      "q": "Which ages are printed for the rheumatic chain?",
+      "opts": [
+        "Acute valvulitis at around 20 yrs, then 20–30 yrs to RHD",
+        "Acute valvulitis at around 5 yrs, then 5–10 yrs to RHD",
+        "Acute valvulitis at around 15 yrs, then 2–5 yrs to RHD",
+        "Acute valvulitis at around 10 yrs of age, then 15–20 yrs to RHD"
+      ],
+      "ans": 3,
+      "exp": "The note prints acute valvulitis (at around 10 yrs of age) → 15–20 yrs → RHD. (Book p347)"
+    },
+    {
+      "id": "MED-C57-10",
+      "sec": "RHD Timeline and Combinations, Autoimmune Notes, and the Physiology-versus-Pathology Chains",
+      "page": 347,
+      "fmt": "match",
+      "q": "Match the three printed RHD combinations in order — 1) First 2) Second 3) Third … A) MS + MR (m/c) B) MS + AR C) AR + AS",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 1,
+      "exp": "The RHD branch lists MS + MR (m/c), then MS + AR, then AR + AS. (Book p347)"
+    },
+    {
+      "id": "MED-C57-11",
+      "sec": "RHD Timeline and Combinations, Autoimmune Notes, and the Physiology-versus-Pathology Chains",
+      "page": 347,
+      "fmt": "recall",
+      "q": "What do the two pink summary lines on p347 state?",
+      "opts": [
+        "Both lines name MS as the commonest",
+        "Both lines name MR as the commonest",
+        "m/c heart disease d/t RHD is MS, while m/c rheumatic heart disease is MR",
+        "m/c heart disease d/t RHD is MR, while m/c rheumatic heart disease is MS"
+      ],
+      "ans": 2,
+      "exp": "The pink lines read m/c heart disease d/t RHD : MS and m/c rheumatic heart disease : MR. (Book p347)"
+    },
+    {
+      "id": "MED-C57-12",
+      "sec": "RHD Timeline and Combinations, Autoimmune Notes, and the Physiology-versus-Pathology Chains",
+      "page": 347,
+      "fmt": "recall",
+      "q": "How is acute valvulitis linked to MR on p347?",
+      "opts": [
+        "It can be associated with MR, the m/c valvular heart disease associated with acute rheumatic fever",
+        "It causes pure MS within one year",
+        "It never involves the mitral valve before age 20",
+        "It can be associated with AR, the m/c valvular lesion of acute rheumatic fever"
+      ],
+      "ans": 0,
+      "exp": "The note states acute valvulitis can be associated with MR (m/c valvular heart disease associated with acute rheumatic fever). (Book p347)"
+    },
+    {
+      "id": "MED-C57-13",
+      "sec": "RHD Timeline and Combinations, Autoimmune Notes, and the Physiology-versus-Pathology Chains",
+      "page": 347,
+      "fmt": "recall",
+      "q": "Which three diseases are listed as other autoimmune diseases causing AR (as printed on p347)?",
+      "opts": [
+        "SLE, rheumatoid arthritis, IgG4-related disease",
+        "Syphilis, Marfan syndrome, Ehlers–Danlos syndrome",
+        "Takayasu arteritis, Behcet's disease, ankylosing spondylitis",
+        "Reactive arthritis, psoriatic arthritis, gout"
+      ],
+      "ans": 2,
+      "exp": "The bullet list prints Takayasu arteritis, Behcet's disease and ankylosing spondylitis under the heading as printed (causing AR). (Book p347)"
+    },
+    {
+      "id": "MED-C57-14",
+      "sec": "RHD Timeline and Combinations, Autoimmune Notes, and the Physiology-versus-Pathology Chains",
+      "page": 347,
+      "fmt": "fillup",
+      "q": "In the physiology chain, rapid ejection and reduced ejection together send blood flow from LV to the ____ (high afterload).",
+      "opts": [
+        "LA",
+        "LVOT",
+        "aorta",
+        "pulmonary artery"
+      ],
+      "ans": 2,
+      "exp": "The brace joins rapid ejection and reduced ejection to blood flow from LV → aorta (high afterload). (Book p347)"
+    },
+    {
+      "id": "MED-C57-15",
+      "sec": "RHD Timeline and Combinations, Autoimmune Notes, and the Physiology-versus-Pathology Chains",
+      "page": 347,
+      "fmt": "recall",
+      "q": "Which chain opens the printed pathology column?",
+      "opts": [
+        "Disease process → annular dilatation → MR begets MR → RV failure",
+        "Disease process → chordae rupture → acute MR → cardiogenic shock",
+        "Disease process → coaptation zone not formed completely (soft S1) → incompetence of leaflet → leaking of blood from LV to LA",
+        "Disease process → leaflet calcification → stenosis → LA emptying"
+      ],
+      "ans": 2,
+      "exp": "The pathology chain begins with coaptation zone not formed completely : soft S1, incompetence of leaflet and leaking of blood from LV to LA. (Book p347)"
+    },
+    {
+      "id": "MED-C57-16",
+      "sec": "RHD Timeline and Combinations, Autoimmune Notes, and the Physiology-versus-Pathology Chains",
+      "page": 347,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one statement reverses the printed p347 pathology.",
+      "opts": [
+        "The LV develops concentric hypertrophy with increased wall thickness",
+        "↑ blood in LA is followed by ↑ blood from LA to LV",
+        "Eccentric hypertrophy with dilatation raises the LV radius while thickness is not increased",
+        "LA provides ↓↓ afterload for the LV so blood leaks LV to LA"
+      ],
+      "ans": 0,
+      "exp": "The page prints eccentric hypertrophy with dilatation (↑ radius of LV, thickness not increased); the concentric/thickened option reverses it. (Book p347)"
+    },
+    {
+      "id": "MED-C57-17",
+      "sec": "RHD Timeline and Combinations, Autoimmune Notes, and the Physiology-versus-Pathology Chains",
+      "page": 347,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the p347 physiology and pathology columns.",
+      "opts": [
+        "True — the leaking LA gives ↓↓ afterload for the LV, and remodelling is eccentric hypertrophy with dilatation while thickness is not increased",
+        "False — the incomplete coaptation zone produces a loud S1",
+        "False — wall stress is independent of the LV radius in MR",
+        "True — contractility is impaired early, even in mild MR"
+      ],
+      "ans": 0,
+      "exp": "The page prints LA as a ↓↓ afterload outlet, eccentric hypertrophy with dilatation (↑ radius, thickness not increased), soft S1 from the incomplete coaptation zone, wall stress ∝ radius, and contractility impairment only eventually in severe MR. (Book p347)"
+    },
+    {
+      "id": "MED-C57-18",
+      "sec": "Laplace's Law, Afterload Reduction, the Severity Table, Normal EF and the Pulse/BP/Apex/JVP Findings",
+      "page": 348,
+      "fmt": "fillup",
+      "q": "Laplace's law as printed: wall stress = pressure × radius divided by 2 × ____.",
+      "opts": [
+        "length",
+        "compliance",
+        "thickness",
+        "volume"
+      ],
+      "ans": 2,
+      "exp": "The formula prints wall stress = (pressure × radius)/(2 × thickness). (Book p348)"
+    },
+    {
+      "id": "MED-C57-19",
+      "sec": "Laplace's Law, Afterload Reduction, the Severity Table, Normal EF and the Pulse/BP/Apex/JVP Findings",
+      "page": 348,
+      "fmt": "recall",
+      "q": "Which two radius-related statements follow Laplace's law?",
+      "opts": [
+        "Wall stress ∝ radius, and the radius keeps on ↑ in MR till LVF; a thin-walled LV in MR requires less filling pressure",
+        "Wall stress ∝ thickness, and radius is fixed; thin LV needs less filling pressure",
+        "Wall stress ∝ radius only after LVF; thin LV needs more filling pressure",
+        "Wall stress ∝ 1/radius, and radius falls till LVF; thin LV needs more filling pressure"
+      ],
+      "ans": 0,
+      "exp": "The notes print wall stress ∝ radius (radius keeps on ↑ in MR till LVF) and thin walled LV in MR : require less filling pressure. (Book p348)"
+    },
+    {
+      "id": "MED-C57-20",
+      "sec": "Laplace's Law, Afterload Reduction, the Severity Table, Normal EF and the Pulse/BP/Apex/JVP Findings",
+      "page": 348,
+      "fmt": "management",
+      "q": "Which afterload strategy is printed for MR?",
+      "opts": [
+        "Beta blockers to raise afterload in acute MR",
+        "Fluid restriction to raise aortic afterload",
+        "NTG or sodium nitroprusside dilate the artery → ↓ afterload in aorta → more blood flow to aorta, used in acute MR, with strict BP control",
+        "Inotropes to constrict the arterial bed"
+      ],
+      "ans": 2,
+      "exp": "The bullets print NTG/sodium nitroprusside → ↓ afterload in aorta → more blood flow to aorta, used in acute MR, and strict BP control needed in MR. (Book p348)"
+    },
+    {
+      "id": "MED-C57-21",
+      "sec": "Laplace's Law, Afterload Reduction, the Severity Table, Normal EF and the Pulse/BP/Apex/JVP Findings",
+      "page": 348,
+      "fmt": "match",
+      "q": "Match the severity-table symptom and EF rows — 1) Symptoms, mild to moderate 2) Symptoms, severe/decompensated 3) EF, mild to moderate 4) EF, severe … A) Asymptomatic/palpitations or fatigue B) Dyspnea +++ (LV failure) C) Normal/↑↑ D) Normal/↓↓",
+      "opts": [
+        "1-A, 2-B, 3-D, 4-C",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-B, 2-A, 3-C, 4-D"
+      ],
+      "ans": 1,
+      "exp": "The table prints asymptomatic/palpitations or fatigue against dyspnea +++ (LV failure), and EF normal/↑↑ against normal/↓↓. (Book p348)"
+    },
+    {
+      "id": "MED-C57-22",
+      "sec": "Laplace's Law, Afterload Reduction, the Severity Table, Normal EF and the Pulse/BP/Apex/JVP Findings",
+      "page": 348,
+      "fmt": "match",
+      "q": "Match the severity-table pressure rows — 1) EF, mild to moderate 2) EF, severe/decompensated 3) LVEDP and LVESP, mild to moderate 4) LVEDP and LVESP, severe … A) Normal/↑↑ B) Normal/↓↓ C) Both normal D) Both ↑↑",
+      "opts": [
+        "1-B, 2-A, 3-D, 4-C",
+        "1-A, 2-B, 3-D, 4-C",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-A, 2-B, 3-C, 4-D"
+      ],
+      "ans": 3,
+      "exp": "EF is normal/↑↑ then normal/↓↓; LVEDP and LVESP are normal in mild-moderate disease and ↑↑ in severe/decompensated MR. (Book p348)"
+    },
+    {
+      "id": "MED-C57-23",
+      "sec": "Laplace's Law, Afterload Reduction, the Severity Table, Normal EF and the Pulse/BP/Apex/JVP Findings",
+      "page": 348,
+      "fmt": "numeric",
+      "q": "What EF values are printed for MR?",
+      "opts": [
+        "Normal EF 60%, and <50% needs treatment",
+        "Normal EF 55%, and <40% needs treatment",
+        "Normal EF in MR is 70%, and <60% means bad prognosis and needs treatment",
+        "Normal EF 75%, and <65% needs treatment"
+      ],
+      "ans": 2,
+      "exp": "The line prints normal EF in MR : 70% (<60% : bad prognosis and needs treatment). (Book p348)"
+    },
+    {
+      "id": "MED-C57-24",
+      "sec": "Laplace's Law, Afterload Reduction, the Severity Table, Normal EF and the Pulse/BP/Apex/JVP Findings",
+      "page": 348,
+      "fmt": "match",
+      "q": "Match the pulse-comparison cells — 1) Peak in pseudocollapsing (MR) 2) Peak in collapsing (AR) 3) Volume in pseudocollapsing 4) Volume in collapsing … A) Well sustained peak B) Ill sustained peak C) Normal volume D) High volume",
+      "opts": [
+        "1-C, 2-D, 3-A, 4-B",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-D, 4-C"
+      ],
+      "ans": 1,
+      "exp": "The table prints well sustained peak and normal volume for pseudocollapsing (MR) against ill sustained peak and high volume for collapsing (AR). (Book p348)"
+    },
+    {
+      "id": "MED-C57-25",
+      "sec": "Laplace's Law, Afterload Reduction, the Severity Table, Normal EF and the Pulse/BP/Apex/JVP Findings",
+      "page": 348,
+      "fmt": "recall",
+      "q": "Which two rows are shared across both pulse columns?",
+      "opts": [
+        "Slow upstroke and slow downstroke",
+        "Ill sustained peak and normal volume",
+        "Rapid upstroke and rapid downstroke",
+        "Well sustained peak and high volume"
+      ],
+      "ans": 2,
+      "exp": "Both columns share rapid upstroke and rapid downstroke before the peak/volume rows differ. (Book p348)"
+    },
+    {
+      "id": "MED-C57-26",
+      "sec": "Laplace's Law, Afterload Reduction, the Severity Table, Normal EF and the Pulse/BP/Apex/JVP Findings",
+      "page": 348,
+      "fmt": "scenario",
+      "q": "A severe MR patient decompensates into LV failure. Which printed pulse-pressure and apex findings appear?",
+      "opts": [
+        "Narrow pulse pressure with an impalpable apex",
+        "Narrow pulse pressure (severe MR → LV failure) with a down-and-out hyperkinetic apex",
+        "Wide pulse pressure with a double apical impulse",
+        "Wide pulse pressure with a tapping apex"
+      ],
+      "ans": 1,
+      "exp": "The page prints BP normal, severe MR → LV failure → narrow pulse pressure, and apex down and out hyperkinetic. (Book p348)"
+    },
+    {
+      "id": "MED-C57-27",
+      "sec": "Laplace's Law, Afterload Reduction, the Severity Table, Normal EF and the Pulse/BP/Apex/JVP Findings",
+      "page": 348,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the p348 findings.",
+      "opts": [
+        "False — severe MR widens the pulse pressure once LV failure supervenes",
+        "False — the thin-walled MR ventricle requires more filling pressure",
+        "True — normal EF in MR is 55% and treatment is needed only below 40%",
+        "True — the JVP v wave (atrial filling wave) is more prominent in acute MR due to ↑ atrial filling"
+      ],
+      "ans": 3,
+      "exp": "The page prints the v wave (atrial filling wave) as more prominent in acute MR, normal EF in MR 70% with <60% bad prognosis needing treatment, severe MR → LV failure → narrow pulse pressure, and a thin-walled LV requiring less filling pressure. (Book p348)"
+    },
+    {
+      "id": "MED-C57-28",
+      "sec": "Soft S1 to S4, the Pansystolic Murmur Columns, Loudness Order, 60/40 Rule and MVP Features with the Venn Diagram",
+      "page": 349,
+      "fmt": "recall",
+      "q": "Which two reasons are printed for the soft S1 of moderate to severe MR?",
+      "opts": [
+        "Wide split S2 and absent coaptation zone",
+        "Loss of coaptation zone and ↓ dp/dt of isovolumetric contraction",
+        "↑ dp/dt and premature closure of the leaflets",
+        "Leaflet calcification and ↑ dp/dt of isovolumetric contraction"
+      ],
+      "ans": 1,
+      "exp": "The S1 block lists 1. loss of coaptation zone and 2. ↓ dp/dt of isovolumetric contraction. (Book p349)"
+    },
+    {
+      "id": "MED-C57-29",
+      "sec": "Soft S1 to S4, the Pansystolic Murmur Columns, Loudness Order, 60/40 Rule and MVP Features with the Venn Diagram",
+      "page": 349,
+      "fmt": "fillup",
+      "q": "In severe MR, S2 shows early ____ producing a wide split S2.",
+      "opts": [
+        "OS",
+        "A2",
+        "P2",
+        "S3"
+      ],
+      "ans": 1,
+      "exp": "The line reads S2 : early A2 (wide split S2) in severe MR. (Book p349)"
+    },
+    {
+      "id": "MED-C57-30",
+      "sec": "Soft S1 to S4, the Pansystolic Murmur Columns, Loudness Order, 60/40 Rule and MVP Features with the Venn Diagram",
+      "page": 349,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about S3 and S4 in MR.",
+      "opts": [
+        "False — S3 appears only once heart failure develops",
+        "False — severe MR splits S2 widely because A2 is delayed",
+        "True — S3 is universal in MR and is present even without failure",
+        "True — S4 is a constant companion of MR"
+      ],
+      "ans": 2,
+      "exp": "The page prints S3 : universal in MR (present even without failure), S4 : never in MR, and early A2 (not delayed) with wide split S2 in severe MR. (Book p349)"
+    },
+    {
+      "id": "MED-C57-31",
+      "sec": "Soft S1 to S4, the Pansystolic Murmur Columns, Loudness Order, 60/40 Rule and MVP Features with the Venn Diagram",
+      "page": 349,
+      "fmt": "recall",
+      "q": "Why is the MR murmur pansystolic, and what is the printed exception?",
+      "opts": [
+        "Gradient in late systole; exception is MVP with a click",
+        "Gradient only in early systole; exception is chronic MR with a diastolic murmur",
+        "Gradient throughout systole and diastole; no exception printed",
+        "Gradient present throughout systole; exception is acute MR with a short decrescendo systolic murmur"
+      ],
+      "ans": 3,
+      "exp": "The murmur line prints pansystolic murmur → gradient present throughout systole (exception : acute MR short decrescendo systolic murmur). (Book p349)"
+    },
+    {
+      "id": "MED-C57-32",
+      "sec": "Soft S1 to S4, the Pansystolic Murmur Columns, Loudness Order, 60/40 Rule and MVP Features with the Venn Diagram",
+      "page": 349,
+      "fmt": "match",
+      "q": "Match the heard-at column — 1) Site 2) Position 3) Respiration 4) Stethoscope head … A) Apex B) Left lateral position C) Breath held in expiration D) Diaphragm",
+      "opts": [
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-A, 2-C, 3-B, 4-D",
+        "1-D, 2-C, 3-B, 4-A"
+      ],
+      "ans": 1,
+      "exp": "The heard-at bullets print apex, left lateral position, breath held in expiration and diaphragm of stethoscope. (Book p349)"
+    },
+    {
+      "id": "MED-C57-33",
+      "sec": "Soft S1 to S4, the Pansystolic Murmur Columns, Loudness Order, 60/40 Rule and MVP Features with the Venn Diagram",
+      "page": 349,
+      "fmt": "recall",
+      "q": "Which three character features are printed for the MR murmur?",
+      "opts": [
+        "Low frequency, soft blowing murmur with thrill, varying with respiration",
+        "High frequency, harsh murmur with thrill, no variation with respiration",
+        "Low frequency, harsh murmur with thrill, varying with respiration",
+        "High frequency, soft blowing murmur without thrill, and no variation with respiration"
+      ],
+      "ans": 3,
+      "exp": "The character column prints high frequency, soft blowing murmur without thrill and no variation with respiration. (Book p349)"
+    },
+    {
+      "id": "MED-C57-34",
+      "sec": "Soft S1 to S4, the Pansystolic Murmur Columns, Loudness Order, 60/40 Rule and MVP Features with the Venn Diagram",
+      "page": 349,
+      "fmt": "match",
+      "q": "Match murmur radiation to jet direction — 1) Jet directed backwards 2) Jet directed to interatrial septa … A) Axilla/back B) Base",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-B"
+      ],
+      "ans": 2,
+      "exp": "Radiation prints axilla/back (usually jet directed backwards) and base (jet directed to interatrial septa). (Book p349)"
+    },
+    {
+      "id": "MED-C57-35",
+      "sec": "Soft S1 to S4, the Pansystolic Murmur Columns, Loudness Order, 60/40 Rule and MVP Features with the Venn Diagram",
+      "page": 349,
+      "fmt": "numeric",
+      "q": "How does loudness relate to severity, and what order is printed?",
+      "opts": [
+        "Loudness is inversely related to severity in the order LVD < RHD < MVP",
+        "Loudness correlates with volume load in the order RHD < MVP < LVD",
+        "Loudness does not correlate with severity; no order is printed",
+        "Loudness correlates with severity (loudness ∝ pressure gradient) in the order MVP < RHD < LVD"
+      ],
+      "ans": 3,
+      "exp": "The line prints loudness of murmur correlate with severity (loudness ∝ pressure gradient) → MVP < RHD < LVD. (Book p349)"
+    },
+    {
+      "id": "MED-C57-36",
+      "sec": "Soft S1 to S4, the Pansystolic Murmur Columns, Loudness Order, 60/40 Rule and MVP Features with the Venn Diagram",
+      "page": 349,
+      "fmt": "numeric",
+      "q": "What thresholds make up the printed 60/40 rule for treating asymptomatic MR?",
+      "opts": [
+        "EF ≤70% and LVESD ≥55 mm",
+        "EF ≤40% and LVESD ≥60 mm",
+        "EF ≤60% and LVEDD ≥40 mm",
+        "Ejection fraction ≤60% and LVESD ≥40 mm"
+      ],
+      "ans": 3,
+      "exp": "The indication list prints asymptomatic with (60/40 rule) : ejection fraction ≤60% and LVESD ≥40 mm. (Book p349)"
+    },
+    {
+      "id": "MED-C57-37",
+      "sec": "Soft S1 to S4, the Pansystolic Murmur Columns, Loudness Order, 60/40 Rule and MVP Features with the Venn Diagram",
+      "page": 349,
+      "fmt": "management",
+      "q": "Which surgical preference and post-repair warning are printed?",
+      "opts": [
+        "Replacement > repair; post repair afterload falls so LV failure cannot occur",
+        "Replacement only; repair is contraindicated in chronic MR",
+        "Mitral valve repair > replacement; post repair a sudden ↑ in afterload can cause LV failure",
+        "Repair > replacement; post repair preload rises causing RV failure"
+      ],
+      "ans": 2,
+      "exp": "The bullets print mitral valve repair > replacement and post mitral valve repair → sudden ↑ in afterload → LV failure can occur. (Book p349)"
+    },
+    {
+      "id": "MED-C57-38",
+      "sec": "Soft S1 to S4, the Pansystolic Murmur Columns, Loudness Order, 60/40 Rule and MVP Features with the Venn Diagram",
+      "page": 349,
+      "fmt": "recall",
+      "q": "Which four MVP features open the Mitral Valve Prolapse section?",
+      "opts": [
+        "Redundancy of chordae with tissue buckling into LV, anterior leaflet m/c, male > female, m/c symptomatic",
+        "Redundancy of valve leaflet with excess tissue buckling into LA (floppy valve), posterior leaflet m/c, female > male (15–30 yrs), m/c asymptomatic",
+        "Stiff leaflets with calcium buckling into LA, posterior leaflet m/c, female > male (>60 yrs), m/c symptomatic",
+        "Redundancy of leaflet buckling into RA, anterior leaflet m/c, equal sex ratio, m/c asymptomatic"
+      ],
+      "ans": 1,
+      "exp": "The feature bullets print redundancy of valve leaflet (excess leaflet tissue buckling into LA, floppy valve), prolapse or flail posterior leaflet m/c, female > male (15–30 yrs) and m/c asymptomatic. (Book p349)"
+    },
+    {
+      "id": "MED-C57-39",
+      "sec": "Soft S1 to S4, the Pansystolic Murmur Columns, Loudness Order, 60/40 Rule and MVP Features with the Venn Diagram",
+      "page": 349,
+      "fmt": "recall",
+      "q": "How are the letters placed in the p349 Venn diagram?",
+      "opts": [
+        "A = flail leaflet, B = chordae rupture, C–E = calcification zones",
+        "A = MVP on ECHO, B = myxomatous disease, C–E outside both circles",
+        "A and B both denote pathology and C–E denote ECHO findings",
+        "A = myxomatous disease (pathology, one or both leaflets +/- chordae), B = mitral valve prolapse on ECHO, with C, D, E inside the hatched intersection"
+      ],
+      "ans": 3,
+      "exp": "The diagram labels circle A myxomatous disease (pathology) (affect one or both leaflet +/- chordae), circle B mitral valve prolapse (on ECHO) and places C, D, E in the hatched overlap. (Book p349)"
+    },
+    {
+      "id": "MED-C57-40",
+      "sec": "MVP Complications Flowchart, NEC and Murmur Auscultation and Dynamic Auscultation with Cavity Size",
+      "page": 350,
+      "fmt": "match",
+      "q": "Match the MVP complication arms — 1) GAG deposition in annulus 2) GAG deposition in chordae 3) Pulling of chordae … A) Annulus weakening/dilatation/calcification → MR B) Chordae rupture → acute MR C) Ischemic related symptoms (palpitation, angina)/ectopics",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 3,
+      "exp": "The flowchart sends annulus GAG to annulus weakening/dilatation/calcification → MR, chordae GAG to chordae rupture → acute MR, and pulling of chordae to ischemic symptoms/ectopics. (Book p350)"
+    },
+    {
+      "id": "MED-C57-41",
+      "sec": "MVP Complications Flowchart, NEC and Murmur Auscultation and Dynamic Auscultation with Cavity Size",
+      "page": 350,
+      "fmt": "recall",
+      "q": "What does the auscultation line say about the non-ejection click and murmur?",
+      "opts": [
+        "Only the murmur is heard; the click is absent in MVP",
+        "NEC is an ejection click heard with S1",
+        "NEC and murmur always occur together in MVP",
+        "MVP is associated with non-ejection click (NEC) and murmur, and both or any one independently can be heard"
+      ],
+      "ans": 3,
+      "exp": "The line prints MVP associated with : non ejection click (NEC) and murmur (both or any one independently can be heard). (Book p350)"
+    },
+    {
+      "id": "MED-C57-42",
+      "sec": "MVP Complications Flowchart, NEC and Murmur Auscultation and Dynamic Auscultation with Cavity Size",
+      "page": 350,
+      "fmt": "recall",
+      "q": "Which four murmur features are printed for MVP?",
+      "opts": [
+        "High pitched whooping (cooing dove) murmur, mid systolic crescendo decrescendo murmur, heard in apex, with radiation by leaflet",
+        "High pitched whooping murmur, pansystolic, heard at base, radiation to axilla only",
+        "Harsh ejection systolic murmur, heard at apex, radiation to carotids",
+        "Low pitched rumbling murmur, mid diastolic, heard at base, no radiation"
+      ],
+      "ans": 0,
+      "exp": "The murmur bullets print high pitched whooping (cooing dove), mid systolic crescendo decrescendo, heard in apex and radiation by prolapsing leaflet. (Book p350)"
+    },
+    {
+      "id": "MED-C57-43",
+      "sec": "MVP Complications Flowchart, NEC and Murmur Auscultation and Dynamic Auscultation with Cavity Size",
+      "page": 350,
+      "fmt": "match",
+      "q": "Match MVP radiation to the prolapsing leaflet — 1) Anterior leaflet prolapse 2) Posterior leaflet prolapse … A) Axilla B) Aortic area",
+      "opts": [
+        "1-B, 2-B",
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A"
+      ],
+      "ans": 1,
+      "exp": "Radiation prints anterior leaflet prolapse : axilla and posterior leaflet prolapse : aortic area. (Book p350)"
+    },
+    {
+      "id": "MED-C57-44",
+      "sec": "MVP Complications Flowchart, NEC and Murmur Auscultation and Dynamic Auscultation with Cavity Size",
+      "page": 350,
+      "fmt": "match",
+      "q": "Match each dynamic-auscultation arm to its load change and click/murmur effect — 1) Valsalva, sudden standing 2) Squatting, leg raising, standing to supine, isometric exercises … A) ↓ preload/↓ afterload → click moves closer to S1 with long duration murmur B) ↑ preload/↑ afterload → click away from S1 with shorter murmur",
+      "opts": [
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "The left arm (↓ preload/↓ afterload) ends in click closer to S1 + long murmur; the right arm (↑ preload/↑ afterload) ends in click away from S1 + shorter murmur. (Book p350)"
+    },
+    {
+      "id": "MED-C57-45",
+      "sec": "MVP Complications Flowchart, NEC and Murmur Auscultation and Dynamic Auscultation with Cavity Size",
+      "page": 350,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the p350 dynamic auscultation diagram.",
+      "opts": [
+        "False — the ↓-preload heart figure is labelled ↑ impedance, ↓ contractility, ↑ volume",
+        "True — isometric exercises are listed in the ↓ preload arm with Valsalva",
+        "True — Valsalva and sudden standing shrink cavity size, reduce chordal stretching and move the click closer to S1 with a longer murmur",
+        "False — squatting and leg raising increase prolapse and lengthen the murmur"
+      ],
+      "ans": 2,
+      "exp": "The ↓ preload arm (Valsalva, sudden standing) ends in click closer to S1 + long murmur with the figure labelled ↓ impedance, ↑ contractility, ↓ volume; the ↑ preload arm (squatting, leg raising, standing to supine, isometric exercises) reduces prolapse and shortens the murmur, its Ao/LV figure carrying ↑ impedance, ↓ contractility, ↑ volume. (Book p350)"
+    },
+    {
+      "id": "MED-C57-46",
+      "sec": "MVP Complications Flowchart, NEC and Murmur Auscultation and Dynamic Auscultation with Cavity Size",
+      "page": 350,
+      "fmt": "recall",
+      "q": "Which impedance/contractility/volume labels sit beside the two heart figures?",
+      "opts": [
+        "Left figure ↑ impedance, ↓ contractility, ↑ volume; right figure ↓ impedance, ↑ contractility, ↓ volume",
+        "Both figures carry ↓ impedance, ↑ contractility, ↓ volume",
+        "Both figures carry ↑ impedance, ↓ contractility, ↑ volume",
+        "Left figure ↓ impedance, ↑ contractility, ↓ volume; right (Ao/LV) figure ↑ impedance, ↓ contractility, ↑ volume"
+      ],
+      "ans": 3,
+      "exp": "The cropped figure labels print ↓ impedance/↑ contractility/↓ volume on the left and ↑ impedance/↓ contractility/↑ volume beside the Ao/LV heart. (Book p350)"
+    },
+    {
+      "id": "MED-C57-47",
+      "sec": "MVP Complications Flowchart, NEC and Murmur Auscultation and Dynamic Auscultation with Cavity Size",
+      "page": 350,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one manoeuvre belongs to the printed ↓ preload arm, not the ↑ preload arm.",
+      "opts": [
+        "Standing to supine",
+        "Sudden standing",
+        "Leg raising",
+        "Squatting"
+      ],
+      "ans": 1,
+      "exp": "The ↑ preload/↑ afterload arm lists squatting, leg raising, standing to supine and isometric exercises; sudden standing sits in the ↓ preload arm with Valsalva. (Book p350)"
+    },
+    {
+      "id": "MED-C57-48",
+      "sec": "Brockenbrough Phenomenon, the MVP-versus-HCM Table and Acute MR Pathogenesis, Murmur and Treatment",
+      "page": 351,
+      "fmt": "recall",
+      "q": "Which chain opens the Brockenbrough phenomenon?",
+      "opts": [
+        "Post ventricular premature contraction → compensatory pause → prolonged filling (↑ preload)",
+        "Compensatory pause → post VPC → shortened filling (↑ afterload)",
+        "Post atrial premature contraction → compensatory pause → reduced filling (↓ preload)",
+        "Post VPC → no pause → prolonged filling (↓ preload)"
+      ],
+      "ans": 0,
+      "exp": "The chain prints post ventricular premature contraction, compensatory pause and prolonged filling (↑ preload). (Book p351)"
+    },
+    {
+      "id": "MED-C57-49",
+      "sec": "Brockenbrough Phenomenon, the MVP-versus-HCM Table and Acute MR Pathogenesis, Murmur and Treatment",
+      "page": 351,
+      "fmt": "match",
+      "q": "Match the two post-pause arms — 1) In HCM 2) In MVP … A) ↑ force of contraction > ↑ preload → ↑ intensity of murmur → ↑ gradient B) Cavity size normal → murmur unchanged/↓",
+      "opts": [
+        "1-B, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-A",
+        "1-A, 2-B"
+      ],
+      "ans": 3,
+      "exp": "The HCM arm prints ↑ force of contraction > ↑ preload → ↑ intensity → ↑ gradient; the MVP arm prints cavity size normal → murmur unchanged/↓. (Book p351)"
+    },
+    {
+      "id": "MED-C57-50",
+      "sec": "Brockenbrough Phenomenon, the MVP-versus-HCM Table and Acute MR Pathogenesis, Murmur and Treatment",
+      "page": 351,
+      "fmt": "match",
+      "q": "Match the MVP-versus-HCM table cells — 1) MVP, standing/Valsalva (↓ preload) 2) HCM, standing/Valsalva 3) MVP, after VPC 4) HCM, after VPC … A) ↑ duration of murmur B) ↑ intensity of murmur C) Unchanged/↓ D) ↑ intensity & duration",
+      "opts": [
+        "1-C, 2-D, 3-A, 4-B",
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-D, 4-C",
+        "1-A, 2-B, 3-C, 4-D"
+      ],
+      "ans": 3,
+      "exp": "The table prints ↑ duration for MVP and ↑ intensity for HCM on standing/Valsalva, then unchanged/↓ for MVP and ↑ intensity & duration for HCM after VPC. (Book p351)"
+    },
+    {
+      "id": "MED-C57-51",
+      "sec": "Brockenbrough Phenomenon, the MVP-versus-HCM Table and Acute MR Pathogenesis, Murmur and Treatment",
+      "page": 351,
+      "fmt": "recall",
+      "q": "Which pathogenesis chain is printed for acute MR?",
+      "opts": [
+        "Papillary muscle/chordae rupture → acute regurgitation to non-compliant LA → ↑ LAP → ↑ PCWP → dyspnea (pulmonary edema)",
+        "Annular dilatation → chronic regurgitation → LA dilatation → AF → embolism",
+        "Chordae stretch → regurgitation to compliant LA → ↓ LAP → ↓ PCWP → cough",
+        "Papillary rupture → regurgitation to non-compliant RA → ↑ RAP → ↑ JVP → ascites"
+      ],
+      "ans": 0,
+      "exp": "The acute-MR flowchart prints rupture → non-compliant LA → ↑ LAP → ↑ PCWP → dyspnea (pulmonary edema). (Book p351)"
+    },
+    {
+      "id": "MED-C57-52",
+      "sec": "Brockenbrough Phenomenon, the MVP-versus-HCM Table and Acute MR Pathogenesis, Murmur and Treatment",
+      "page": 351,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about acute MR on p351.",
+      "opts": [
+        "True — LV systolic function is low/normal yet the patient soon goes into LVF and cardiogenic shock",
+        "False — the murmur is pansystolic with a gradient throughout systole",
+        "True — the LA adapts as a compliant chamber so LAP and PCWP stay normal",
+        "False — treatment is elective repair after six weeks of antibiotics"
+      ],
+      "ans": 0,
+      "exp": "The page prints a non-compliant LA with ↑ LAP and ↑ PCWP, LV systolic function low/normal with soon LVF → cardiogenic shock, a short systolic decrescendo murmur (the pansystolic gradient belongs to chronic MR), and NTG/nitroprusside till emergency CTVS intervention with bad prognosis. (Book p351)"
+    },
+    {
+      "id": "MED-C57-53",
+      "sec": "Brockenbrough Phenomenon, the MVP-versus-HCM Table and Acute MR Pathogenesis, Murmur and Treatment",
+      "page": 351,
+      "fmt": "management",
+      "q": "Which treatment bundle closes the acute MR section?",
+      "opts": [
+        "IABP alone as definitive therapy",
+        "Elective repair after 6 weeks of antibiotics",
+        "NTG/sodium nitroprusside till intervention, emergency intervention by CTVS surgeon needed, bad prognosis",
+        "Beta blocker and discharge with outpatient echo"
+      ],
+      "ans": 2,
+      "exp": "The treatment bullets print NTG/sodium nitroprusside : till intervention, emergency intervention by CTVS surgeon needed and bad prognosis. (Book p351)"
+    },
+    {
+      "id": "MED-C57-54",
+      "sec": "Brockenbrough Phenomenon, the MVP-versus-HCM Table and Acute MR Pathogenesis, Murmur and Treatment",
+      "page": 351,
+      "fmt": "scenario",
+      "q": "A post-infarct patient presents with flash pulmonary oedema, a short decrescendo systolic murmur and near-normal LV systolic function. What does p351 expect?",
+      "opts": [
+        "MVP with click moving away from S1 on squatting",
+        "Acute MR into a non-compliant LA with ↑ LAP/PCWP, bridged by NTG/nitroprusside to emergency CTVS intervention, with bad prognosis",
+        "Chronic MR with a compliant LA managed electively",
+        "Acute AR with wide pulse pressure managed by afterload rise"
+      ],
+      "ans": 1,
+      "exp": "The pattern matches acute MR: non-compliant LA, ↑ LAP and PCWP, short decrescendo murmur, low/normal LV function, NTG/nitroprusside till emergency surgery and bad prognosis. (Book p351)"
+    },
+    {
+      "id": "MED-C57-55",
+      "sec": "Brockenbrough Phenomenon, the MVP-versus-HCM Table and Acute MR Pathogenesis, Murmur and Treatment",
+      "page": 351,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one finding belongs to chronic severe MR (p349), not to the acute MR page.",
+      "opts": [
+        "↑ PCWP from a non-compliant LA",
+        "Cardiogenic shock after soon LVF",
+        "Wide split S2 with early A2",
+        "Short systolic decrescendo murmur"
+      ],
+      "ans": 2,
+      "exp": "Early A2 with wide split S2 is printed on p349 for severe MR; p351 prints ↑ PCWP, the short decrescendo murmur and shock after soon LVF. (Book p351)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U57-1",
+      "ch": 57,
+      "n": 1,
+      "title": "Mitral Valve Components, MR Features and the Acute-versus-Chronic Classification Tree",
+      "sec": "Mitral Valve Components, MR Features and the Acute-versus-Chronic Classification Tree",
+      "guide": "The mitral valve prints 2 leaflets, 2 commissures, 1 annulus plus chordae tendineae, papillary muscles and adjacent LV myocardium (p346). MR is systolic retrograde LV→LA flow, a pure volume overload lesion with normal diastolic function.\nAcute MR arises from papillary muscle rupture (inferior wall MI; posteromedial wall supplied only by RCA, m/c; infection) or chordae rupture (infective endocarditis); chronic MR splits into primary/organic (RHD m/c in developing, MVP m/c in developed, SLE/RA) and secondary/functional (annular abnormality, LV dysfunction m/c, annular dilatation with MR begets MR, HCM via SAM).",
+      "qs": [
+        "MED-C57-01",
+        "MED-C57-02",
+        "MED-C57-03",
+        "MED-C57-04",
+        "MED-C57-05",
+        "MED-C57-06",
+        "MED-C57-07",
+        "MED-C57-08"
+      ]
+    },
+    {
+      "id": "MED-U57-2",
+      "ch": 57,
+      "n": 2,
+      "title": "RHD Timeline and Combinations, Autoimmune Notes, and the Physiology-versus-Pathology Chains",
+      "sec": "RHD Timeline and Combinations, Autoimmune Notes, and the Physiology-versus-Pathology Chains",
+      "guide": "Acute valvulitis at around 10 yrs leads after 15–20 yrs to RHD with MS+MR (m/c), MS+AR and AR+AS; m/c heart disease d/t RHD is MS while m/c rheumatic heart disease is MR (p347). Other autoimmune diseases are listed under the printed heading 'causing AR': Takayasu arteritis, Behcet's, ankylosing spondylitis.\nPhysiology runs S1 → isovolumetric contraction → AV valve open → rapid + reduced ejection → LV to aorta (high afterload). Pathology runs coaptation-zone failure (soft S1) → incompetence → LV→LA leak (LA gives ↓↓ afterload) → ↑ LA blood → ↑ LA→LV blood → eccentric hypertrophy with dilatation (↑ radius, thickness not increased) → eventual contractility impairment (severe MR) → LVF.",
+      "qs": [
+        "MED-C57-09",
+        "MED-C57-10",
+        "MED-C57-11",
+        "MED-C57-12",
+        "MED-C57-13",
+        "MED-C57-14",
+        "MED-C57-15",
+        "MED-C57-16",
+        "MED-C57-17"
+      ]
+    },
+    {
+      "id": "MED-U57-3",
+      "ch": 57,
+      "n": 3,
+      "title": "Laplace's Law, Afterload Reduction, the Severity Table, Normal EF and the Pulse/BP/Apex/JVP Findings",
+      "sec": "Laplace's Law, Afterload Reduction, the Severity Table, Normal EF and the Pulse/BP/Apex/JVP Findings",
+      "guide": "Laplace: wall stress = pressure × radius/(2 × thickness); stress ∝ radius which keeps ↑ in MR till LVF; thin-walled LV needs less filling pressure (p348). NTG/sodium nitroprusside ↓ aortic afterload → more aortic flow, used in acute MR; strict BP control follows the same logic.\nSevere/decompensated MR shows dyspnea +++ (LV failure), EF normal/↓↓ and ↑↑ LVEDP/LVESP against asymptomatic/palpitations, normal/↑↑ EF and normal pressures; normal EF in MR is 70% and <60% is bad prognosis needing treatment. Pseudocollapsing pulse keeps a well sustained peak and normal volume against collapsing's ill sustained peak and high volume (rapid up/downstroke shared); BP normal, severe MR → LV failure → narrow pulse pressure; apex down-out hyperkinetic; JVP v wave prominent in acute MR.",
+      "qs": [
+        "MED-C57-18",
+        "MED-C57-19",
+        "MED-C57-20",
+        "MED-C57-21",
+        "MED-C57-22",
+        "MED-C57-23",
+        "MED-C57-24",
+        "MED-C57-25",
+        "MED-C57-26",
+        "MED-C57-27"
+      ]
+    },
+    {
+      "id": "MED-U57-4",
+      "ch": 57,
+      "n": 4,
+      "title": "Soft S1 to S4, the Pansystolic Murmur Columns, Loudness Order, 60/40 Rule and MVP Features with the Venn Diagram",
+      "sec": "Soft S1 to S4, the Pansystolic Murmur Columns, Loudness Order, 60/40 Rule and MVP Features with the Venn Diagram",
+      "guide": "Soft S1 follows loss of coaptation zone and ↓ dp/dt; severe MR gives early A2 (wide split S2); S3 is universal even without failure and S4 never occurs (p349). The pansystolic murmur reflects a whole-systole gradient, except acute MR's short decrescendo murmur; heard at apex, left lateral, breath held in expiration, diaphragm; high-frequency soft blowing without thrill, no respiratory variation; radiation axilla/back (jet backwards) or base (jet to interatrial septa); loudness ∝ gradient, MVP < RHD < LVD.\nTreatment indications: symptomatic, or asymptomatic with EF ≤60%/LVESD ≥40 mm (60/40 rule); repair > replacement, and post-repair sudden ↑ afterload can cause LVF. MVP: redundant leaflet buckling into LA (floppy), posterior leaflet m/c, F > M 15–30 yrs, m/c asymptomatic; Venn A = myxomatous disease (pathology), B = MVP on ECHO, C–E in the hatched overlap.",
+      "qs": [
+        "MED-C57-28",
+        "MED-C57-29",
+        "MED-C57-30",
+        "MED-C57-31",
+        "MED-C57-32",
+        "MED-C57-33",
+        "MED-C57-34",
+        "MED-C57-35",
+        "MED-C57-36",
+        "MED-C57-37",
+        "MED-C57-38",
+        "MED-C57-39"
+      ]
+    },
+    {
+      "id": "MED-U57-5",
+      "ch": 57,
+      "n": 5,
+      "title": "MVP Complications Flowchart, NEC and Murmur Auscultation and Dynamic Auscultation with Cavity Size",
+      "sec": "MVP Complications Flowchart, NEC and Murmur Auscultation and Dynamic Auscultation with Cavity Size",
+      "guide": "Excess leaflet tissue buckling into LA may carry GAG deposition: in annulus → weakening/dilatation/calcification → MR; in chordae → rupture → acute MR; pulling of chordae (papillary→LV myocardium) causes ischemic symptoms (palpitation, angina)/ectopics (p350). Auscultation: NEC and murmur, both or any one independently; murmur is high-pitched whooping (cooing dove), mid-systolic crescendo-decrescendo at apex, radiating to axilla (anterior leaflet) or aortic area (posterior leaflet).\nDynamic auscultation: Valsalva/sudden standing (↓ preload/↓ afterload) → ↓ ventricular blood → ↓ cavity → ↓ chordal stretch → more prolapse → click closer to S1 + longer murmur (figure ↓ impedance, ↑ contractility, ↓ volume); squatting/leg raising/standing-to-supine/isometric (↑ preload/↑ afterload) → ↑ cavity → more stretch → less prolapse → click away from S1 + shorter murmur (figure ↑ impedance, ↓ contractility, ↑ volume).",
+      "qs": [
+        "MED-C57-40",
+        "MED-C57-41",
+        "MED-C57-42",
+        "MED-C57-43",
+        "MED-C57-44",
+        "MED-C57-45",
+        "MED-C57-46",
+        "MED-C57-47"
+      ]
+    },
+    {
+      "id": "MED-U57-6",
+      "ch": 57,
+      "n": 6,
+      "title": "Brockenbrough Phenomenon, the MVP-versus-HCM Table and Acute MR Pathogenesis, Murmur and Treatment",
+      "sec": "Brockenbrough Phenomenon, the MVP-versus-HCM Table and Acute MR Pathogenesis, Murmur and Treatment",
+      "guide": "Brockenbrough: post-VPC → compensatory pause → prolonged filling (↑ preload); in HCM ↑ force of contraction > ↑ preload → ↑ murmur intensity → ↑ gradient; in MVP cavity size stays normal so murmur is unchanged/↓ (p351). Table: standing/Valsalva ↑ duration (MVP) vs ↑ intensity (HCM); after VPC unchanged/↓ (MVP) vs ↑ intensity & duration (HCM).\nAcute MR: rupture → non-compliant LA → ↑ LAP → ↑ PCWP → dyspnea (pulmonary edema); LV systolic function low/normal yet soon LVF → cardiogenic shock; short systolic decrescendo murmur; NTG/sodium nitroprusside till intervention, emergency CTVS surgery, bad prognosis.",
+      "qs": [
+        "MED-C57-48",
+        "MED-C57-49",
+        "MED-C57-50",
+        "MED-C57-51",
+        "MED-C57-52",
+        "MED-C57-53",
+        "MED-C57-54",
+        "MED-C57-55"
+      ]
+    }
+  ]
+}
