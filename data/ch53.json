@@ -1,0 +1,1145 @@
+{
+  "chapter": 53,
+  "title": "Heart Failure",
+  "pageRange": "318-325",
+  "questions": [
+    {
+      "id": "MED-C53-01",
+      "sec": "The ACC/AHA 2017 Definition, the Four Heart-Failure Types and the Complete NYHA Classification Table",
+      "page": 318,
+      "fmt": "recall",
+      "q": "Which three elements make up the ACC/AHA 2017 definition of heart failure?",
+      "opts": [
+        "A single arrhythmia; lung disease; increased urine output",
+        "Isolated chest pain; a normal heart; preserved filling and ejection",
+        "A complex clinical syndrome; a structural or functional cardiac disorder; impaired ventricular filling or ejection",
+        "Fever and leucocytosis; valve calcification; normal output"
+      ],
+      "ans": 2,
+      "exp": "The definition bullets read complex clinical syndrome, any structural/functional cardiac disorder and impaired ability of the ventricle to fill with or eject blood. (Book p318)"
+    },
+    {
+      "id": "MED-C53-02",
+      "sec": "The ACC/AHA 2017 Definition, the Four Heart-Failure Types and the Complete NYHA Classification Table",
+      "page": 318,
+      "fmt": "recall",
+      "q": "Which examples and expansions are printed directly beneath the definition?",
+      "opts": [
+        "Structural pericarditis and functional edema; both abbreviations are left unexpanded",
+        "Structural CAD and functional COPD; AHA is American Hospital Association",
+        "Structural LVH and functional arrhythmia such as AF; ACC is expanded as American College of Clinical Cardiology and AHA as American Heart Association",
+        "Structural MR and functional anemia; ACC is American College of Cardiology only"
+      ],
+      "ans": 2,
+      "exp": "The page gives structural LVH, functional arrhythmia/atrial fibrillation and expands ACC and AHA; the ACC expansion 'American College of Clinical Cardiology' is preserved as printed. (Book p318)"
+    },
+    {
+      "id": "MED-C53-03",
+      "sec": "The ACC/AHA 2017 Definition, the Four Heart-Failure Types and the Complete NYHA Classification Table",
+      "page": 318,
+      "fmt": "match",
+      "q": "Match each heart-failure type to its printed EF definition — 1) HFrEF 2) HFpEF/HFNEF 3) HFmrEF 4) ADHF … A) Acute decompensated heart failure B) Preserved/normal EF ≥50% C) Reduced EF <40% D) Mid-range EF 40–50%",
+      "opts": [
+        "1-C, 2-D, 3-B, 4-A",
+        "1-C, 2-B, 3-D, 4-A",
+        "1-B, 2-C, 3-D, 4-A",
+        "1-D, 2-B, 3-C, 4-A"
+      ],
+      "ans": 1,
+      "exp": "The four lines define HFrEF <40%, HFpEF/HFNEF ≥50%, HFmrEF 40–50% and ADHF as acute decompensated heart failure. (Book p318)"
+    },
+    {
+      "id": "MED-C53-04",
+      "sec": "The ACC/AHA 2017 Definition, the Four Heart-Failure Types and the Complete NYHA Classification Table",
+      "page": 318,
+      "fmt": "fillup",
+      "q": "The first-line symptoms in the NYHA section are angina, dyspnea and palpitation; ______ is explicitly not part of NYHA.",
+      "opts": [
+        "syncope",
+        "fatigue",
+        "nocturnal cough",
+        "orthopnea"
+      ],
+      "ans": 0,
+      "exp": "The two bullets read first-line symptoms angina, dyspnea, palpitation and 'Syncope is not a part of NYHA'. (Book p318)"
+    },
+    {
+      "id": "MED-C53-05",
+      "sec": "The ACC/AHA 2017 Definition, the Four Heart-Failure Types and the Complete NYHA Classification Table",
+      "page": 318,
+      "fmt": "match",
+      "q": "Match each NYHA class to its printed criterion — 1) Class I 2) Class II 3) Class III 4) Class IV … A) Symptoms with less than ordinary activity B) Symptoms with more than ordinary activity C) Symptoms at rest D) Symptoms with ordinary physical activity",
+      "opts": [
+        "1-C, 2-D, 3-A, 4-B",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-D, 2-B, 3-A, 4-C",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 3,
+      "exp": "Rows I–IV print symptoms with more than ordinary activity, ordinary physical activity, less than ordinary activity and at rest, respectively. (Book p318)"
+    },
+    {
+      "id": "MED-C53-06",
+      "sec": "The ACC/AHA 2017 Definition, the Four Heart-Failure Types and the Complete NYHA Classification Table",
+      "page": 318,
+      "fmt": "match",
+      "q": "Match each NYHA class to the mortality entry as drawn — 1) Class I 2) Class II–III 3) Class IV … A) LV-failure symptoms B) Negligible mortality C) Sudden cardiac death",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 1,
+      "exp": "The mortality column places negligible mortality against class I, sudden cardiac death across classes II–III and LV-failure symptoms against class IV. (Book p318)"
+    },
+    {
+      "id": "MED-C53-07",
+      "sec": "The ACC/AHA 2017 Definition, the Four Heart-Failure Types and the Complete NYHA Classification Table",
+      "page": 318,
+      "fmt": "scenario",
+      "q": "A patient develops breathlessness only while climbing his usual flight of stairs, with no symptoms at rest. According to the printed NYHA row, which class is this?",
+      "opts": [
+        "Class I — symptoms with more than ordinary activity",
+        "Class IV — symptoms at rest",
+        "Class II — symptoms with ordinary physical activity",
+        "Class III — symptoms with less than ordinary activity"
+      ],
+      "ans": 2,
+      "exp": "Ordinary physical activity maps to class II in the NYHA table. (Book p318)"
+    },
+    {
+      "id": "MED-C53-08",
+      "sec": "The ACC/AHA 2017 Definition, the Four Heart-Failure Types and the Complete NYHA Classification Table",
+      "page": 318,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the p318 definitions.",
+      "opts": [
+        "True — HFpEF/HFNEF is printed with preserved/normal EF ≥50%",
+        "False — syncope is one of the three first-line NYHA symptoms",
+        "True — HFrEF is printed with EF >70%",
+        "False — ADHF means chronic stable heart failure"
+      ],
+      "ans": 0,
+      "exp": "The page prints HFpEF/HFNEF ≥50%, HFrEF <40%, syncope outside NYHA and ADHF as acute decompensated heart failure. (Book p318)"
+    },
+    {
+      "id": "MED-C53-09",
+      "sec": "The A-to-D Stages, the Most Common Presentation, and the Ten Low-Output Systolic-Failure Features",
+      "page": 319,
+      "fmt": "match",
+      "q": "Match each heart-failure stage to its defining characteristic — 1) A 2) B 3) C 4) D … A) Structural disease but no symptoms B) Risk factors only, no symptoms or structural disease C) Refractory, no response to medical therapy D) Most common; symptomatic now or previously",
+      "opts": [
+        "1-C, 2-A, 3-D, 4-B",
+        "1-A, 2-B, 3-D, 4-C",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 2,
+      "exp": "Stage A has risk factors only, B structural disease without symptoms, C is most common and symptomatic (prior/present), and D is refractory with no response to any medical therapy. (Book p319)"
+    },
+    {
+      "id": "MED-C53-10",
+      "sec": "The A-to-D Stages, the Most Common Presentation, and the Ten Low-Output Systolic-Failure Features",
+      "page": 319,
+      "fmt": "recall",
+      "q": "Which four risk factors are printed under stage A?",
+      "opts": [
+        "Hypertension, atherosclerosis, diabetes mellitus and obstructive sleep apnea",
+        "MI, LVH, cardiac remodelling and AF",
+        "Anemia, infection, pregnancy and NSAIDs",
+        "CKD, obesity, CAD and thyrotoxicosis"
+      ],
+      "ans": 0,
+      "exp": "The stage-A bullets list HTN, atherosclerosis, DM and OSA. (Book p319)"
+    },
+    {
+      "id": "MED-C53-11",
+      "sec": "The A-to-D Stages, the Most Common Presentation, and the Ten Low-Output Systolic-Failure Features",
+      "page": 319,
+      "fmt": "fillup",
+      "q": "Stage B has no symptoms but structural heart disease, exemplified by an HTN patient with LVH and a previous MI with ______.",
+      "opts": [
+        "cardiac tamponade",
+        "aortic dissection",
+        "pulmonary embolism",
+        "cardiac remodelling"
+      ],
+      "ans": 3,
+      "exp": "The two stage-B examples are HTN patient → LVH and previous MI → cardiac remodelling. (Book p319)"
+    },
+    {
+      "id": "MED-C53-12",
+      "sec": "The A-to-D Stages, the Most Common Presentation, and the Ten Low-Output Systolic-Failure Features",
+      "page": 319,
+      "fmt": "recall",
+      "q": "What is printed as the most common presentation of heart failure?",
+      "opts": [
+        "HFrEF, NYHA 2/3 and stage C",
+        "HFmrEF, NYHA 4 and stage B",
+        "HFpEF, NYHA 1 and stage A",
+        "ADHF, NYHA 2 and stage D"
+      ],
+      "ans": 0,
+      "exp": "The note lists HFrEF, NYHA 2/3 and stage C as the most common presentation. (Book p319)"
+    },
+    {
+      "id": "MED-C53-13",
+      "sec": "The A-to-D Stages, the Most Common Presentation, and the Ten Low-Output Systolic-Failure Features",
+      "page": 319,
+      "fmt": "match",
+      "q": "Match the two named systolic-failure mechanisms to their printed consequences — 1) Fatigue 2) Decreased cardiac output 3) Cool extremities and cyanosis 4) Pulsus alternans and narrow pulse pressure … A) Left-sided HF symptoms B) Cachexia from TNF-α C) Peripheral hypoperfusion D) Listed as low-output signs",
+      "opts": [
+        "1-C, 2-A, 3-B, 4-D",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-A, 3-C, 4-D",
+        "1-B, 2-C, 3-A, 4-D"
+      ],
+      "ans": 2,
+      "exp": "Fatigue leads to cachexia with TNF-α as cause; decreased CO indicates left-sided HF symptoms; cool extremities/cyanosis reflect hypoperfusion; pulsus alternans and narrow pulse pressure are the final low-output signs. (Book p319)"
+    },
+    {
+      "id": "MED-C53-14",
+      "sec": "The A-to-D Stages, the Most Common Presentation, and the Ten Low-Output Systolic-Failure Features",
+      "page": 319,
+      "fmt": "recall",
+      "q": "Which complete ten-item systolic-failure list is printed on page 319?",
+      "opts": [
+        "Fatigue, decreased urine output, cool extremities, cyanosis, altered mentation, S3, cardiomegaly, displaced apex, pulsus alternans and narrow pulse pressure",
+        "Bendopnea, trepopnea, platypnea, cough, wheeze, obesity, AF, CKD, anemia and diabetes",
+        "Dyspnea, crackles, pleural effusion, orthopnea, PND, ascites, edema, JVP, hepatomegaly and tachycardia",
+        "Angina, syncope, fever, murmur, cannon waves, A2, P2, S4, OS and click"
+      ],
+      "ans": 0,
+      "exp": "The low-output list numbers fatigue with cachexia/TNF-α, decreased urine output, cool extremities, cyanosis, altered mentation, S3, cardiomegaly (dilated LV), displaced apex, pulsus alternans and narrow pulse pressure. (Book p319)"
+    },
+    {
+      "id": "MED-C53-15",
+      "sec": "The A-to-D Stages, the Most Common Presentation, and the Ten Low-Output Systolic-Failure Features",
+      "page": 319,
+      "fmt": "scenario",
+      "q": "A patient with HFrEF has altered mentation, cold cyanotic extremities, oliguria and a narrow pulse pressure. Which category does the page assign to these findings?",
+      "opts": [
+        "Systolic or LV forward-failure symptoms from decreased cardiac output",
+        "HFpEF comorbidity-driven inflammation",
+        "Stage-A risk factors only",
+        "Isolated right-heart congestion"
+      ],
+      "ans": 0,
+      "exp": "The HFrEF section labels these as systolic-failure/LV-forward symptoms due to decreased cardiac output and left-sided HF. (Book p319)"
+    },
+    {
+      "id": "MED-C53-16",
+      "sec": "The A-to-D Stages, the Most Common Presentation, and the Ten Low-Output Systolic-Failure Features",
+      "page": 319,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one item belongs to the later diastolic/right-failure list rather than the p319 low-output ten.",
+      "opts": [
+        "Altered mentation",
+        "Cardiomegaly",
+        "Pulsus alternans",
+        "Ascites"
+      ],
+      "ans": 3,
+      "exp": "Ascites appears under right-heart failure on p321; altered mentation, cardiomegaly and pulsus alternans are in the systolic low-output ten. (Book p319)"
+    },
+    {
+      "id": "MED-C53-17",
+      "sec": "The Diastolic-Failure Pressure Chain, Dyspnea, Crackles and Effusion, and the Orthopnea and PND Mechanisms",
+      "page": 320,
+      "fmt": "recall",
+      "q": "Which two upstream abnormalities converge on raised LVEDP in the diastolic-failure diagram?",
+      "opts": [
+        "Atrial fibrillation and renal-artery stenosis",
+        "Concentric LVH with reduced cavity size/volume and systolic failure with insufficient dilation plus increased ESV",
+        "Wide pulse pressure and aortic regurgitation",
+        "Pulmonary embolism and pericardial effusion"
+      ],
+      "ans": 1,
+      "exp": "The two arms read concentric LVH → cavity size/volume ↓ and systolic failure → insufficient dilation → ESV ↑, both converging on ↑LVEDP. (Book p320)"
+    },
+    {
+      "id": "MED-C53-18",
+      "sec": "The Diastolic-Failure Pressure Chain, Dyspnea, Crackles and Effusion, and the Orthopnea and PND Mechanisms",
+      "page": 320,
+      "fmt": "match",
+      "q": "Match the next three steps of the pressure chain — 1) Raised LVEDP 2) Raised LAP 3) Raised PCVP … A) Pulmonary exudation B) Raised left atrial pressure C) Raised pulmonary capillary venous pressure",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 3,
+      "exp": "The vertical chain runs ↑LVEDP → ↑LAP → ↑PCVP → pulmonary exudation. (Book p320)"
+    },
+    {
+      "id": "MED-C53-19",
+      "sec": "The Diastolic-Failure Pressure Chain, Dyspnea, Crackles and Effusion, and the Orthopnea and PND Mechanisms",
+      "page": 320,
+      "fmt": "recall",
+      "q": "Which three consequences of pulmonary exudation are listed?",
+      "opts": [
+        "Dyspnea (the predominant HF symptom), crackles in acute presentation and mostly right-sided pleural effusion with a preference to lie on the right side",
+        "Syncope, angina and palpitations",
+        "Cyanosis, fever and leukocytosis",
+        "Ascites, hepatomegaly and abdominal-jugular reflux"
+      ],
+      "ans": 0,
+      "exp": "The final three bullets are dyspnea (predominant symptom in HF), crackles (acute presentation) and pleural effusion mostly right-sided with right-side lying preference. (Book p320)"
+    },
+    {
+      "id": "MED-C53-20",
+      "sec": "The Diastolic-Failure Pressure Chain, Dyspnea, Crackles and Effusion, and the Orthopnea and PND Mechanisms",
+      "page": 320,
+      "fmt": "numeric",
+      "q": "How do the printed timings distinguish orthopnea from PND?",
+      "opts": [
+        "Orthopnea occurs after 2–3 hours; PND is immediate",
+        "Both occur only after standing 30 seconds",
+        "Orthopnea is after 5 years and PND after 3 years",
+        "Orthopnea is immediate after lying down; PND occurs after 2–3 hours of lying down"
+      ],
+      "ans": 3,
+      "exp": "The two lines print orthopnea immediately after lying down and PND after 2–3 hours. (Book p320)"
+    },
+    {
+      "id": "MED-C53-21",
+      "sec": "The Diastolic-Failure Pressure Chain, Dyspnea, Crackles and Effusion, and the Orthopnea and PND Mechanisms",
+      "page": 320,
+      "fmt": "fillup",
+      "q": "The PND mechanism begins when the patient lies supine and increased fluid shifts from the ______ to the intravascular compartment.",
+      "opts": [
+        "intracellular",
+        "interstitial",
+        "pericardial",
+        "alveolar"
+      ],
+      "ans": 1,
+      "exp": "The flowchart reads increased fluid shift from interstitial to intravascular compartment. (Book p320)"
+    },
+    {
+      "id": "MED-C53-22",
+      "sec": "The Diastolic-Failure Pressure Chain, Dyspnea, Crackles and Effusion, and the Orthopnea and PND Mechanisms",
+      "page": 320,
+      "fmt": "recall",
+      "q": "Which chain follows the fluid shift in PND?",
+      "opts": [
+        "Right atrium → pulmonary circulation → not accommodated by a patient in heart failure → symptomatic air hunger",
+        "JVP → liver → ascites → edema",
+        "Left atrium → systemic circulation → renal excretion → relief",
+        "Aorta → coronary circulation → angina → syncope"
+      ],
+      "ans": 0,
+      "exp": "The lower arrows read RA → pulmonary circulation → not accommodated by patient in heart failure → patient becomes symptomatic (air hunger). (Book p320)"
+    },
+    {
+      "id": "MED-C53-23",
+      "sec": "The Diastolic-Failure Pressure Chain, Dyspnea, Crackles and Effusion, and the Orthopnea and PND Mechanisms",
+      "page": 320,
+      "fmt": "scenario",
+      "q": "A patient becomes breathless the moment he reclines but has no delayed waking episodes. Which printed presentation is this?",
+      "opts": [
+        "Bendopnea",
+        "Orthopnea",
+        "Trepopnea",
+        "Paroxysmal nocturnal dyspnea"
+      ],
+      "ans": 1,
+      "exp": "Orthopnea is dyspnea immediately after lying down, while PND occurs 2–3 hours later. (Book p320)"
+    },
+    {
+      "id": "MED-C53-24",
+      "sec": "The Diastolic-Failure Pressure Chain, Dyspnea, Crackles and Effusion, and the Orthopnea and PND Mechanisms",
+      "page": 320,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one step is not in the p320 PND mechanism.",
+      "opts": [
+        "The failing patient cannot accommodate the shift and develops air hunger",
+        "Fluid enters the right atrium and pulmonary circulation",
+        "Patient lies supine",
+        "Decreased fluid shift from intravascular to interstitial compartment"
+      ],
+      "ans": 3,
+      "exp": "The page prints an increased interstitial-to-intravascular shift, not the reverse direction. (Book p320)"
+    },
+    {
+      "id": "MED-C53-25",
+      "sec": "Right-Heart Failure, the Abdominojugular Reflex, the Four Causes and the Framingham Major and Minor Criteria",
+      "page": 321,
+      "fmt": "fillup",
+      "q": "The most common cause printed for right-heart failure is ______ heart failure, acting through increased RVEDP.",
+      "opts": [
+        "left",
+        "high-output",
+        "right-sided valvular",
+        "congenital"
+      ],
+      "ans": 0,
+      "exp": "The top line reads m/c cause: left heart failure, due to increase in RVEDP. (Book p321)"
+    },
+    {
+      "id": "MED-C53-26",
+      "sec": "Right-Heart Failure, the Abdominojugular Reflex, the Four Causes and the Framingham Major and Minor Criteria",
+      "page": 321,
+      "fmt": "recall",
+      "q": "What pressure sequence leads to the five signs of right-heart failure?",
+      "opts": [
+        "Increased RA pressure → increased venacaval pressures → abdominojugular reflex, ascites, edema, hepatomegaly and raised JVP",
+        "Reduced PCWP → diuresis → weight loss, cyanosis and syncope",
+        "Reduced JVP → cough, wheeze and hemoptysis",
+        "Increased LVEDP → aortic dissection → chest pain and shock"
+      ],
+      "ans": 0,
+      "exp": "The right-HF flow starts with raised RA and venacaval pressures and ends in those five findings, with AJR called impending RHF. (Book p321)"
+    },
+    {
+      "id": "MED-C53-27",
+      "sec": "Right-Heart Failure, the Abdominojugular Reflex, the Four Causes and the Framingham Major and Minor Criteria",
+      "page": 321,
+      "fmt": "management",
+      "q": "At which site is the abdominojugular reflex palpated?",
+      "opts": [
+        "Carotid sinus",
+        "Right upper quadrant",
+        "Periumbilical area",
+        "Left axilla"
+      ],
+      "ans": 2,
+      "exp": "The AJR note reads site of palpation: periumbilical area. (Book p321)"
+    },
+    {
+      "id": "MED-C53-28",
+      "sec": "Right-Heart Failure, the Abdominojugular Reflex, the Four Causes and the Framingham Major and Minor Criteria",
+      "page": 321,
+      "fmt": "match",
+      "q": "Match each listed cause of heart failure to its qualifier — 1) Dilated cardiomyopathy 2) Ischemic cardiomyopathy 3) Valvular heart disease 4) Congenital heart disease … A) Severe AR, very severe AS or severe MR B) Genetic cause is most common C) Post-MI/CAD D) No qualifier printed",
+      "opts": [
+        "1-D, 2-C, 3-A, 4-B",
+        "1-C, 2-B, 3-A, 4-D",
+        "1-B, 2-C, 3-A, 4-D",
+        "1-B, 2-A, 3-C, 4-D"
+      ],
+      "ans": 2,
+      "exp": "The causes list genetic as the m/c cause of DCMP, ischemic cardiomyopathy post-MI/CAD, valvular disease with severe AR/very severe AS/severe MR, and congenital disease without qualifier. (Book p321)"
+    },
+    {
+      "id": "MED-C53-29",
+      "sec": "Right-Heart Failure, the Abdominojugular Reflex, the Four Causes and the Framingham Major and Minor Criteria",
+      "page": 321,
+      "fmt": "match",
+      "q": "Match the first four major Framingham criteria in printed order — 1) First 2) Second 3) Third 4) Fourth … A) Abdominojugular reflex B) Acute pulmonary edema C) Raised JVP D) Cardiomegaly",
+      "opts": [
+        "1-B, 2-A, 3-D, 4-C",
+        "1-D, 2-B, 3-A, 4-C",
+        "1-B, 2-D, 3-A, 4-C",
+        "1-B, 2-D, 3-C, 4-A"
+      ],
+      "ans": 2,
+      "exp": "The major column begins acute pulmonary edema, cardiomegaly, abdominojugular reflex and raised JVP. (Book p321)"
+    },
+    {
+      "id": "MED-C53-30",
+      "sec": "Right-Heart Failure, the Abdominojugular Reflex, the Four Causes and the Framingham Major and Minor Criteria",
+      "page": 321,
+      "fmt": "recall",
+      "q": "Which final three major Framingham criteria complete the column?",
+      "opts": [
+        "Ankle edema, hepatomegaly and pleural effusion",
+        "Nocturnal cough, dyspnea on exertion and tachycardia",
+        "Ascites, JVP and fatigue",
+        "PND/orthopnea, crepitations/rales and S3 gallop"
+      ],
+      "ans": 3,
+      "exp": "Major criteria 5–7 are PND/orthopnea, crepitations/rales and S3 (gallop). (Book p321)"
+    },
+    {
+      "id": "MED-C53-31",
+      "sec": "Right-Heart Failure, the Abdominojugular Reflex, the Four Causes and the Framingham Major and Minor Criteria",
+      "page": 321,
+      "fmt": "match",
+      "q": "Match the six minor Framingham criteria in order — 1) First 2) Second 3) Third 4) Fourth 5) Fifth 6) Sixth … A) Pleural effusion B) Ankle edema C) Tachycardia >120 bpm D) Dyspnea on exertion E) Nocturnal cough F) Hepatomegaly",
+      "opts": [
+        "1-B, 2-F, 3-D, 4-E, 5-A, 6-C",
+        "1-B, 2-D, 3-F, 4-A, 5-E, 6-C",
+        "1-B, 2-D, 3-F, 4-E, 5-A, 6-C",
+        "1-D, 2-B, 3-F, 4-E, 5-A, 6-C"
+      ],
+      "ans": 2,
+      "exp": "The minor column reads ankle edema, dyspnea on exertion, hepatomegaly, nocturnal cough, pleural effusion and tachycardia >120 bpm. (Book p321)"
+    },
+    {
+      "id": "MED-C53-32",
+      "sec": "Right-Heart Failure, the Abdominojugular Reflex, the Four Causes and the Framingham Major and Minor Criteria",
+      "page": 321,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the Framingham columns.",
+      "opts": [
+        "False — tachycardia >120 bpm is a major criterion",
+        "True — both S3 gallop and ankle edema are major criteria",
+        "False — acute pulmonary edema is a minor criterion",
+        "True — S3 gallop is a major criterion while ankle edema is a minor criterion"
+      ],
+      "ans": 3,
+      "exp": "S3 is major item 7, ankle edema minor item 1, tachycardia >120 bpm minor item 6 and acute pulmonary edema major item 1. (Book p321)"
+    },
+    {
+      "id": "MED-C53-33",
+      "sec": "HFpEF/HFNEF Pathophysiology, the Heart-Failure-versus-COPD Table and Bendopnea, Trepopnea and Platypnea",
+      "page": 322,
+      "fmt": "recall",
+      "q": "Which chain opens the HFpEF/HFNEF pathophysiology?",
+      "opts": [
+        "Myocardial infarction → papillary muscle rupture → acute MR → shock",
+        "Comorbidity-driven microvascular inflammation → LV dysfunction → affected longitudinal fibres (untwisting) → LV diastolic dysfunction",
+        "Renal-artery stenosis → flash edema → troponin rise → carvedilol",
+        "Aortic regurgitation → eccentric hypertrophy → wide pulse pressure → Lincoln sign"
+      ],
+      "ans": 1,
+      "exp": "The vertical chain begins comorbidity-driven microvascular inflammation, LV dysfunction, longitudinal-fibre (untwisting) involvement and LV diastolic dysfunction. (Book p322)"
+    },
+    {
+      "id": "MED-C53-34",
+      "sec": "HFpEF/HFNEF Pathophysiology, the Heart-Failure-versus-COPD Table and Bendopnea, Trepopnea and Platypnea",
+      "page": 322,
+      "fmt": "recall",
+      "q": "What happens after LV diastolic dysfunction in the same flowchart?",
+      "opts": [
+        "The aorta regurgitates into the LV, causing wide pulse pressure",
+        "The lung develops a pneumatocele, then a thin-walled cavity",
+        "The cavity dilates, LVEDP falls and AF risk disappears",
+        "Compensatory LVH decreases cavity size, raising LVEDP and LAP; raised PCVP causes interstitial/alveolar edema and dyspnea, while atrial stretch/dilation increases atrial contribution to CO (>40%) and AF risk"
+      ],
+      "ans": 3,
+      "exp": "The page prints compensation (LVH) → decreased cavity size → ↑LVEDP → ↑LAP, then a PCWP/edema/dyspnea arm and an atrial-stretch arm with >40% atrial CO contribution and AF risk. (Book p322)"
+    },
+    {
+      "id": "MED-C53-35",
+      "sec": "HFpEF/HFNEF Pathophysiology, the Heart-Failure-versus-COPD Table and Bendopnea, Trepopnea and Platypnea",
+      "page": 322,
+      "fmt": "match",
+      "q": "Match each column of the HF-versus-COPD note — 1) Crepitations 2) Peripheries 3) Predominant symptom … A) HF: dyspnea > cough B) HF: fine gravitational crepitations changing with position; COPD: fine crepitations not changing with position C) HF: cold; COPD: warm with CO₂ retention",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 2,
+      "exp": "The three table rows compare positional crepitations, cold versus warm peripheries and dyspnea-dominant HF versus cough-dominant COPD. (Book p322)"
+    },
+    {
+      "id": "MED-C53-36",
+      "sec": "HFpEF/HFNEF Pathophysiology, the Heart-Failure-versus-COPD Table and Bendopnea, Trepopnea and Platypnea",
+      "page": 322,
+      "fmt": "scenario",
+      "q": "A dyspneic patient has fine gravitational crackles that change with position and cold peripheries. Which side of the printed comparison does this fit?",
+      "opts": [
+        "Heart failure rather than COPD",
+        "COPD rather than heart failure",
+        "Isolated systolic AS",
+        "Acute aortic regurgitation"
+      ],
+      "ans": 0,
+      "exp": "The HF column pairs position-changing gravitational crepitations with cold peripheries; COPD has non-positional crepitations and warm peripheries. (Book p322)"
+    },
+    {
+      "id": "MED-C53-37",
+      "sec": "HFpEF/HFNEF Pathophysiology, the Heart-Failure-versus-COPD Table and Bendopnea, Trepopnea and Platypnea",
+      "page": 322,
+      "fmt": "numeric",
+      "q": "How many seconds of bending are specified in the bendopnea note?",
+      "opts": [
+        "3 seconds",
+        "5 minutes",
+        "30 seconds",
+        "2–3 hours"
+      ],
+      "ans": 2,
+      "exp": "The note reads bend for 30 secs → increased venous return → patient symptomatic. (Book p322)"
+    },
+    {
+      "id": "MED-C53-38",
+      "sec": "HFpEF/HFNEF Pathophysiology, the Heart-Failure-versus-COPD Table and Bendopnea, Trepopnea and Platypnea",
+      "page": 322,
+      "fmt": "match",
+      "q": "Match each related term to its printed description — 1) Bendopnea 2) Trepopnea 3) Platypnea … A) Breathlessness lying on one side; right-side preference with right effusion B) Sign of advanced HF made symptomatic by bending C) Printed as a name without a definition on this page",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 0,
+      "exp": "Bendopnea is advanced-HF bending; trepopnea is breathlessness on one side with the right-effusion example; platypnea is only named here. (Book p322)"
+    },
+    {
+      "id": "MED-C53-39",
+      "sec": "HFpEF/HFNEF Pathophysiology, the Heart-Failure-versus-COPD Table and Bendopnea, Trepopnea and Platypnea",
+      "page": 322,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one line belongs to the HFrEF low-output list, not the p322 HFpEF pathophysiology.",
+      "opts": [
+        "Atrial contribution to cardiac output is >40%",
+        "Pulsus alternans",
+        "Longitudinal fibres and untwisting are affected",
+        "PCWP rises and causes dyspnea"
+      ],
+      "ans": 1,
+      "exp": "Pulsus alternans is a p319 systolic-failure sign; the other three are in the HFpEF flowchart. (Book p322)"
+    },
+    {
+      "id": "MED-C53-40",
+      "sec": "HFpEF/HFNEF Pathophysiology, the Heart-Failure-versus-COPD Table and Bendopnea, Trepopnea and Platypnea",
+      "page": 322,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the p322 HFpEF notes.",
+      "opts": [
+        "False — LVH compensation enlarges the cavity",
+        "True — the caption says a right-sided pneumothorax with a shifted mediastinum",
+        "True — the chest-film caption says pulmonary edema with pleural effusion on both sides",
+        "False — atrial fibrillation risk is reduced by atrial stretch"
+      ],
+      "ans": 2,
+      "exp": "The image caption reads pulmonary edema with pleural effusion on both sides; atrial stretch increases AF risk and LVH compensation decreases cavity size. (Book p322)"
+    },
+    {
+      "id": "MED-C53-41",
+      "sec": "The European HFNEF Definition and Presentation, Ten Decompensation Risk Factors, Pathogenesis and Sympathetic Activation",
+      "page": 323,
+      "fmt": "recall",
+      "q": "Which three-part definition of HFNEF is attributed to the European Society of Cardiology?",
+      "opts": [
+        "Fever, raised ESR and pericardial enhancement",
+        "LV thickness ≥15 mm, small cavity and dynamic LVOT obstruction",
+        "Symptoms of congestive heart failure, normal/mildly abnormal LV systolic function and abnormal LV relaxation",
+        "Reduced EF <40%, dilated LV and global hypokinesia"
+      ],
+      "ans": 2,
+      "exp": "The definition bullets are symptoms of CHF, normal/mildly abnormal LV systolic function and abnormal LV relaxation. (Book p323)"
+    },
+    {
+      "id": "MED-C53-42",
+      "sec": "The European HFNEF Definition and Presentation, Ten Decompensation Risk Factors, Pathogenesis and Sympathetic Activation",
+      "page": 323,
+      "fmt": "recall",
+      "q": "How is the presentation of HFNEF described?",
+      "opts": [
+        "Older age groups, more often women, comorbid HTN/obesity/CKD/anemia/diabetes/CAD, and AF more than in HFrEF",
+        "Children with Williams syndrome and supravalvular AS",
+        "Young athletic males with isolated aortic regurgitation",
+        "Middle-aged males with anthracycline exposure"
+      ],
+      "ans": 0,
+      "exp": "The presentation bullets list older age, m/c women, the six comorbidities and AF more in HFNEF than HFrEF. (Book p323)"
+    },
+    {
+      "id": "MED-C53-43",
+      "sec": "The European HFNEF Definition and Presentation, Ten Decompensation Risk Factors, Pathogenesis and Sympathetic Activation",
+      "page": 323,
+      "fmt": "match",
+      "q": "Match each numbered ADHF risk factor to its printed detail — 1) Patient-related 2) Infection 3) Anemia 4) Drug-related … A) NSAIDs; naproxen printed as safest in HF B) Non-compliance to treatment C) CAD on aspirin → GI bleed → anemia → decompensation D) LRTI/IE",
+      "opts": [
+        "1-B, 2-D, 3-C, 4-A",
+        "1-D, 2-B, 3-C, 4-A",
+        "1-B, 2-C, 3-D, 4-A",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 0,
+      "exp": "The risk list gives non-compliance, LRTI/IE, the aspirin–GI-bleed–anemia chain, and NSAIDs/CCBs under drug-related decompensation. (Book p323)"
+    },
+    {
+      "id": "MED-C53-44",
+      "sec": "The European HFNEF Definition and Presentation, Ten Decompensation Risk Factors, Pathogenesis and Sympathetic Activation",
+      "page": 323,
+      "fmt": "recall",
+      "q": "Which CCBs and rhythm are emphasised in the ADHF risk list?",
+      "opts": [
+        "Amlodipine/nifedipine improve LV function; sinus bradycardia is most important",
+        "Verapamil prevents GI bleeding; AF is protective",
+        "Verapamil/diltiazem depress LV function; atrial fibrillation is the most important arrhythmia",
+        "Diltiazem is the safest NSAID; VT is most important"
+      ],
+      "ans": 2,
+      "exp": "The drug bullet names verapamil/diltiazem as depressing LV function, and the arrhythmia bullet names AF as most important. (Book p323)"
+    },
+    {
+      "id": "MED-C53-45",
+      "sec": "The European HFNEF Definition and Presentation, Ten Decompensation Risk Factors, Pathogenesis and Sympathetic Activation",
+      "page": 323,
+      "fmt": "management",
+      "q": "Which NSAID does the page print as the safest in heart failure?",
+      "opts": [
+        "Diclofenac",
+        "Piroxicam",
+        "Naproxen",
+        "Indomethacin"
+      ],
+      "ans": 2,
+      "exp": "The NSAID sub-bullet reads 'Safest NSAID in HF → Naproxen' as a source note, not a prescribing instruction. (Book p323)"
+    },
+    {
+      "id": "MED-C53-46",
+      "sec": "The European HFNEF Definition and Presentation, Ten Decompensation Risk Factors, Pathogenesis and Sympathetic Activation",
+      "page": 323,
+      "fmt": "recall",
+      "q": "Which risk factors complete items 5–8 after anemia and infective endocarditis?",
+      "opts": [
+        "Obesity, OSA, DM and atherosclerosis",
+        "Aortic dissection, trauma, sinus of Valsalva rupture and IE",
+        "Tachycardia, bradycardia, AF and VT",
+        "Renal failure, pregnancy, uncontrolled hypertension and myocardial ischemia"
+      ],
+      "ans": 3,
+      "exp": "Items 5–8 are renal failure, pregnancy, uncontrolled HTN and myocardial ischemia. (Book p323)"
+    },
+    {
+      "id": "MED-C53-47",
+      "sec": "The European HFNEF Definition and Presentation, Ten Decompensation Risk Factors, Pathogenesis and Sympathetic Activation",
+      "page": 323,
+      "fmt": "recall",
+      "q": "Which sequence is printed under pathogenesis of HFrEF?",
+      "opts": [
+        "Valve stenosis → gradient → AVR → prosthesis → anticoagulation",
+        "Comorbidity → inflammation → LVH → AF → transplant",
+        "Infection → myocarditis → Dallas criteria → steroids → LV rupture",
+        "Index event (DCM, ischemia) → HFrEF → compensatory mechanisms → cardiac remodelling → maintain CO"
+      ],
+      "ans": 3,
+      "exp": "The line reads index event (DCM, ischemia) → HFrEF → compensatory mechanisms → cardiac remodelling → maintain CO. (Book p323)"
+    },
+    {
+      "id": "MED-C53-48",
+      "sec": "The European HFNEF Definition and Presentation, Ten Decompensation Risk Factors, Pathogenesis and Sympathetic Activation",
+      "page": 323,
+      "fmt": "fillup",
+      "q": "The first compensatory mechanism is increased sympathetic activity, which increases contractility and heart rate and makes the patient prone to ______.",
+      "opts": [
+        "renal stones",
+        "polycythemia",
+        "arrhythmias",
+        "hemoptysis"
+      ],
+      "ans": 2,
+      "exp": "The sympathetic branch reads increased activity → increased contractility/HR → prone for arrhythmias. (Book p323)"
+    },
+    {
+      "id": "MED-C53-49",
+      "sec": "RAAS, ADH and Natriuretic-Peptide Compensation, the Treatment Logic and the Initial Beta-Blocker and ACE/ARB Choices",
+      "page": 324,
+      "fmt": "match",
+      "q": "Match each compensatory mechanism to its printed effect — 1) Angiotensin II 2) Aldosterone 3) ADH 4) Natriuretic peptides … A) Salt and water retention → raised preload B) Vasoconstriction → raised afterload C) Inhibit RAAS/sympathetic and excrete salt and water D) Free-water retention → hyponatremia",
+      "opts": [
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-D, 4-C",
+        "1-B, 2-D, 3-A, 4-C",
+        "1-B, 2-A, 3-D, 4-C"
+      ],
+      "ans": 3,
+      "exp": "The p324 bullets map angiotensin II to afterload, aldosterone to preload, ADH to free-water retention/hyponatremia and natriuretic peptides to inhibition/excretion. (Book p324)"
+    },
+    {
+      "id": "MED-C53-50",
+      "sec": "RAAS, ADH and Natriuretic-Peptide Compensation, the Treatment Logic and the Initial Beta-Blocker and ACE/ARB Choices",
+      "page": 324,
+      "fmt": "recall",
+      "q": "What does the note say happens when compensatory mechanisms 1, 2 and 3 are sustained?",
+      "opts": [
+        "They permanently restore normal EF without consequence",
+        "They close the aortic valve and abolish regurgitation",
+        "They produce polycythemia and pulmonary hypertension",
+        "Secondary end-organ damage within the ventricle worsens LV remodelling and leads to subsequent cardiac decompensation"
+      ],
+      "ans": 3,
+      "exp": "The note reads sustained activation of compensatory mechanisms (1, 2, 3) → secondary end-organ damage within ventricle → worsens LV remodelling → subsequent cardiac decompensation. (Book p324)"
+    },
+    {
+      "id": "MED-C53-51",
+      "sec": "RAAS, ADH and Natriuretic-Peptide Compensation, the Treatment Logic and the Initial Beta-Blocker and ACE/ARB Choices",
+      "page": 324,
+      "fmt": "management",
+      "q": "Which recombinant natriuretic peptide is named in the treatment logic, and what status is printed for it?",
+      "opts": [
+        "Nesiritide — no more used",
+        "Sacubitril — no more used",
+        "Carvedilol — only in acute asthma",
+        "Nesiritide — first-line drug of choice"
+      ],
+      "ans": 0,
+      "exp": "The p324 line says recombinant natriuretic peptide: Nesiritide (No more used). (Book p324)"
+    },
+    {
+      "id": "MED-C53-52",
+      "sec": "RAAS, ADH and Natriuretic-Peptide Compensation, the Treatment Logic and the Initial Beta-Blocker and ACE/ARB Choices",
+      "page": 324,
+      "fmt": "recall",
+      "q": "Which three pathways does heart-failure treatment aim to block?",
+      "opts": [
+        "The sympathetic pathway, RAAS and degradation of natriuretic peptides through a neprilysin inhibitor",
+        "The coronary pathway, platelet adhesion and fibrinolysis",
+        "The pulmonary pathway, surfactant and ciliary clearance",
+        "The vagal pathway, coagulation and vitamin D absorption"
+      ],
+      "ans": 0,
+      "exp": "The 'by blocking' bullets are sympathetic pathway, RAAS and degradation of natriuretic peptides: neprilysin inhibitor. (Book p324)"
+    },
+    {
+      "id": "MED-C53-53",
+      "sec": "RAAS, ADH and Natriuretic-Peptide Compensation, the Treatment Logic and the Initial Beta-Blocker and ACE/ARB Choices",
+      "page": 324,
+      "fmt": "match",
+      "q": "Match each beta blocker to its printed note — 1) Metoprolol 2) Bisoprolol 3) Carvedilol … A) Starting dose 3.125 mg BD B) Listed without a starting dose C) Most preferred; starting dose 1.25 mg",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "Under commonly used MBC drugs, metoprolol is listed alone, bisoprolol is most preferred at 1.25 mg and carvedilol starts at 3.125 mg BD. (Book p324)"
+    },
+    {
+      "id": "MED-C53-54",
+      "sec": "RAAS, ADH and Natriuretic-Peptide Compensation, the Treatment Logic and the Initial Beta-Blocker and ACE/ARB Choices",
+      "page": 324,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the p324 ACE-inhibitor/ARB section.",
+      "opts": [
+        "False — ARB > ACE because bradykinin falls",
+        "True — the page calls the benefit a class effect and says ACE > ARB because ACE raises bradykinin",
+        "False — perindopril is the only effective drug",
+        "True — only ramipril has a class effect"
+      ],
+      "ans": 1,
+      "exp": "The bullets read class effect (any drug is effective), common ramipril/perindopril and ACE > ARB because ACE increases bradykinin. (Book p324)"
+    },
+    {
+      "id": "MED-C53-55",
+      "sec": "RAAS, ADH and Natriuretic-Peptide Compensation, the Treatment Logic and the Initial Beta-Blocker and ACE/ARB Choices",
+      "page": 324,
+      "fmt": "numeric",
+      "q": "Which two starting doses are printed in the beta-blocker section?",
+      "opts": [
+        "Bisoprolol 12.5 mg and carvedilol 31.25 mg BD",
+        "Bisoprolol 1.25 mg and carvedilol 3.125 mg BD",
+        "Bisoprolol 2 mg/kg and carvedilol 480 mg",
+        "Bisoprolol 5 mg and carvedilol 5 µg/min"
+      ],
+      "ans": 1,
+      "exp": "The page prints bisoprolol 1.25 mg and carvedilol 3.125 mg BD; 2 mg/kg/480 mg is the later propranolol dose in HCM. (Book p324)"
+    },
+    {
+      "id": "MED-C53-56",
+      "sec": "RAAS, ADH and Natriuretic-Peptide Compensation, the Treatment Logic and the Initial Beta-Blocker and ACE/ARB Choices",
+      "page": 324,
+      "fmt": "scenario",
+      "q": "A patient with HFrEF has hyponatremia from free-water retention. Which compensatory hormone does page 324 link to this finding?",
+      "opts": [
+        "Natriuretic peptide",
+        "ADH",
+        "Aldosterone",
+        "Angiotensin II"
+      ],
+      "ans": 1,
+      "exp": "The ADH bullet reads free water retention → hyponatremia. (Book p324)"
+    },
+    {
+      "id": "MED-C53-57",
+      "sec": "ARNI, the Treatment Hierarchy, Euvolemia and Renal-Failure Caveats, the Fantastic Four and Refractory Heart Failure",
+      "page": 325,
+      "fmt": "recall",
+      "q": "As drawn in the ARNI diagram, what are the two components and their printed labels?",
+      "opts": [
+        "Metoprolol and carvedilol, both labelled beta blockers",
+        "Furosemide and torsemide, both labelled diuretics",
+        "Dobutamine and milrinone, both labelled inodilators",
+        "Valsartan (ARB) and sacubitril (NI), with the diagram's arrows preserved as printed"
+      ],
+      "ans": 3,
+      "exp": "The ARNI bracket combines valsartan (ARB) and sacubitril (NI); the diagram's unusual action arrows are treated as source text and are itemised in the caveats. (Book p325)"
+    },
+    {
+      "id": "MED-C53-58",
+      "sec": "ARNI, the Treatment Hierarchy, Euvolemia and Renal-Failure Caveats, the Fantastic Four and Refractory Heart Failure",
+      "page": 325,
+      "fmt": "recall",
+      "q": "Which actions do the arrows assign to the two ARNI components as printed in the source diagram?",
+      "opts": [
+        "Both components degrade natriuretic peptides",
+        "Valsartan prevents degradation of angiotensin II; sacubitril degrades natriuretic peptides",
+        "Both components prevent degradation of angiotensin II",
+        "Valsartan degrades natriuretic peptides; sacubitril prevents degradation of angiotensin II"
+      ],
+      "ans": 1,
+      "exp": "The p325 diagram places those two action captions under the component labels. They are quizzed as printed source wording rather than as a pharmacologic interpretation. (Book p325)"
+    },
+    {
+      "id": "MED-C53-59",
+      "sec": "ARNI, the Treatment Hierarchy, Euvolemia and Renal-Failure Caveats, the Fantastic Four and Refractory Heart Failure",
+      "page": 325,
+      "fmt": "recall",
+      "q": "Which five substances are printed under natriuretic peptides?",
+      "opts": [
+        "ANP, BNP, substance P, adrenomedulline and bradykinin",
+        "Dopamine, epinephrine, norepinephrine, serotonin and histamine",
+        "Troponin I, CK-MB, LDH, AST and myoglobin",
+        "Angiotensin I, aldosterone, ADH, renin and vasopressin"
+      ],
+      "ans": 0,
+      "exp": "The note prints ANP, BNP, substance P, adrenomedulline and bradykinin, preserving the page's spelling. (Book p325)"
+    },
+    {
+      "id": "MED-C53-60",
+      "sec": "ARNI, the Treatment Hierarchy, Euvolemia and Renal-Failure Caveats, the Fantastic Four and Refractory Heart Failure",
+      "page": 325,
+      "fmt": "management",
+      "q": "What primary management is printed for all patients with heart failure?",
+      "opts": [
+        "Nesiritide plus digoxin",
+        "Verapamil plus diltiazem",
+        "ARNI plus a beta blocker",
+        "Hydralazine plus nitrate"
+      ],
+      "ans": 2,
+      "exp": "The line reads for all patients with HF: ARNI + β blocker. (Book p325)"
+    },
+    {
+      "id": "MED-C53-61",
+      "sec": "ARNI, the Treatment Hierarchy, Euvolemia and Renal-Failure Caveats, the Fantastic Four and Refractory Heart Failure",
+      "page": 325,
+      "fmt": "recall",
+      "q": "What hierarchy follows in the next note?",
+      "opts": [
+        "Beta blocker > ARNI > ARB > ACE inhibitor",
+        "Diuretic > digoxin > verapamil > nesiritide",
+        "ARNI > beta blocker > ACE inhibitor > ARB",
+        "ACE inhibitor > ARB > ARNI > beta blocker"
+      ],
+      "ans": 2,
+      "exp": "The hierarchy line is ARNI > β blocker > ACE inhibitor > ARB. (Book p325)"
+    },
+    {
+      "id": "MED-C53-62",
+      "sec": "ARNI, the Treatment Hierarchy, Euvolemia and Renal-Failure Caveats, the Fantastic Four and Refractory Heart Failure",
+      "page": 325,
+      "fmt": "scenario",
+      "q": "A congested HF patient is not yet euvolemic. What sequence does the page print before starting a beta blocker?",
+      "opts": [
+        "Give diuretics first to relieve congestion, then start the beta blocker",
+        "Start verapamil and diltiazem together",
+        "Start beta blocker immediately; diuretics can wait",
+        "Perform cardiac transplantation before diuresis"
+      ],
+      "ans": 0,
+      "exp": "The note says if not euvolemic, diuretics first to relieve congestion and only then start beta blocker, otherwise pulmonary edema can occur. (Book p325)"
+    },
+    {
+      "id": "MED-C53-63",
+      "sec": "ARNI, the Treatment Hierarchy, Euvolemia and Renal-Failure Caveats, the Fantastic Four and Refractory Heart Failure",
+      "page": 325,
+      "fmt": "fillup",
+      "q": "Heart failure with renal failure is paired on page 325 with ______ plus nitrate.",
+      "opts": [
+        "dobutamine",
+        "hydralazine",
+        "sacubitril",
+        "finerenone"
+      ],
+      "ans": 1,
+      "exp": "The line reads heart failure with renal failure: hydralazine + nitrate. (Book p325)"
+    },
+    {
+      "id": "MED-C53-64",
+      "sec": "ARNI, the Treatment Hierarchy, Euvolemia and Renal-Failure Caveats, the Fantastic Four and Refractory Heart Failure",
+      "page": 325,
+      "fmt": "match",
+      "q": "Match the Fantastic Four to their printed drug/class detail — 1) First 2) Second 3) Third 4) Fourth … A) Aldosterone antagonist finerenone (non-steroidal) B) Beta blocker C) ARNI D) SGLT2 inhibitors such as empagliflozin and dapagliflozin",
+      "opts": [
+        "1-C, 2-A, 3-B, 4-D",
+        "1-B, 2-C, 3-A, 4-D",
+        "1-C, 2-B, 3-A, 4-D",
+        "1-C, 2-B, 3-D, 4-A"
+      ],
+      "ans": 2,
+      "exp": "The list is ARNI, beta blocker, aldosterone antagonist finerenone and SGLT2 inhibitors empagliflozin/dapagliflozin. (Book p325)"
+    },
+    {
+      "id": "MED-C53-65",
+      "sec": "ARNI, the Treatment Hierarchy, Euvolemia and Renal-Failure Caveats, the Fantastic Four and Refractory Heart Failure",
+      "page": 325,
+      "fmt": "numeric",
+      "q": "In the refractory-HF pathway, above which heart rate is ivabradine added to maximum-tolerated beta blocker plus Fantastic Four?",
+      "opts": [
+        "120/min",
+        "70/min",
+        "50/min",
+        "90/min"
+      ],
+      "ans": 1,
+      "exp": "The arrow reads if HR >70/min, add ivabradine, a funny-current inhibitor with visual disturbances. (Book p325)"
+    },
+    {
+      "id": "MED-C53-66",
+      "sec": "ARNI, the Treatment Hierarchy, Euvolemia and Renal-Failure Caveats, the Fantastic Four and Refractory Heart Failure",
+      "page": 325,
+      "fmt": "match",
+      "q": "Match each refractory-HF branch to its treatment — 1) Wide QRS 2) Normal QRS 3) Persistent symptoms after the wide-QRS therapy … A) LV assist devices or implantable cardioverter defibrillator B) Cardiac resynchronization therapy C) Cardiac transplant",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 1,
+      "exp": "With wide QRS the page moves CRT → transplant, while the normal-QRS branch goes to LV assisted devices or ICD. (Book p325)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U53-1",
+      "ch": 53,
+      "n": 1,
+      "title": "The ACC/AHA 2017 Definition, the Four Heart-Failure Types and the Complete NYHA Classification Table",
+      "sec": "The ACC/AHA 2017 Definition, the Four Heart-Failure Types and the Complete NYHA Classification Table",
+      "guide": "The ACC/AHA 2017 definition calls heart failure a complex clinical syndrome from structural/functional cardiac disease that impairs ventricular filling or ejection; structural LVH and functional AF are the examples, and the printed ACC/AHA expansions are retained (p318).\nThe four types are HFrEF EF <40%, HFpEF/HFNEF EF ≥50%, HFmrEF EF 40–50% and ADHF. The NYHA first-line symptoms are angina, dyspnea and palpitation; syncope is explicitly excluded.\nNYHA I–IV progress from symptoms with more than ordinary activity, ordinary activity, less than ordinary activity to rest; the mortality column gives negligible mortality, sudden cardiac death across II–III and LV-failure symptoms in IV.",
+      "qs": [
+        "MED-C53-01",
+        "MED-C53-02",
+        "MED-C53-03",
+        "MED-C53-04",
+        "MED-C53-05",
+        "MED-C53-06",
+        "MED-C53-07",
+        "MED-C53-08"
+      ]
+    },
+    {
+      "id": "MED-U53-2",
+      "ch": 53,
+      "n": 2,
+      "title": "The A-to-D Stages, the Most Common Presentation, and the Ten Low-Output Systolic-Failure Features",
+      "sec": "The A-to-D Stages, the Most Common Presentation, and the Ten Low-Output Systolic-Failure Features",
+      "guide": "Stage A has risk factors (HTN, atherosclerosis, DM, OSA) without symptoms or structural disease; stage B has structural disease without symptoms (HTN → LVH, previous MI → remodelling); stage C is the commonest and symptomatic; stage D is refractory to medical therapy (p319).\nThe most common overall presentation is HFrEF, NYHA 2/3, stage C.\nSystolic LV-forward failure from reduced cardiac output lists fatigue with cachexia/TNF-α, decreased urine output, cool extremities, cyanosis, altered mentation, S3, cardiomegaly/dilated LV, displaced apex, pulsus alternans and narrow pulse pressure.",
+      "qs": [
+        "MED-C53-09",
+        "MED-C53-10",
+        "MED-C53-11",
+        "MED-C53-12",
+        "MED-C53-13",
+        "MED-C53-14",
+        "MED-C53-15",
+        "MED-C53-16"
+      ]
+    },
+    {
+      "id": "MED-U53-3",
+      "ch": 53,
+      "n": 3,
+      "title": "The Diastolic-Failure Pressure Chain, Dyspnea, Crackles and Effusion, and the Orthopnea and PND Mechanisms",
+      "sec": "The Diastolic-Failure Pressure Chain, Dyspnea, Crackles and Effusion, and the Orthopnea and PND Mechanisms",
+      "guide": "Concentric LVH reducing cavity size and systolic failure with insufficient dilation/increased ESV both raise LVEDP; the chain continues through LAP and PCVP to pulmonary exudation (p320).\nIts consequences are dyspnea (predominant symptom), acute crackles and predominantly right-sided pleural effusion with right-side lying preference. Orthopnea is immediate on lying down; PND occurs after 2–3 hours.\nPND follows supine posture → increased interstitial-to-intravascular fluid shift → RA → pulmonary circulation → failure to accommodate the load → air hunger.",
+      "qs": [
+        "MED-C53-17",
+        "MED-C53-18",
+        "MED-C53-19",
+        "MED-C53-20",
+        "MED-C53-21",
+        "MED-C53-22",
+        "MED-C53-23",
+        "MED-C53-24"
+      ]
+    },
+    {
+      "id": "MED-U53-4",
+      "ch": 53,
+      "n": 4,
+      "title": "Right-Heart Failure, the Abdominojugular Reflex, the Four Causes and the Framingham Major and Minor Criteria",
+      "sec": "Right-Heart Failure, the Abdominojugular Reflex, the Four Causes and the Framingham Major and Minor Criteria",
+      "guide": "Right-heart failure is most often caused by left-heart failure through raised RVEDP, then raised RA and venacaval pressures produce impending AJR, ascites, edema, hepatomegaly and raised JVP; AJR is palpated periumbilically (p321).\nCauses are DCMP (genetic cause most common), ischemic cardiomyopathy post-MI/CAD, valvular disease (severe AR, very severe AS or severe MR) and congenital heart disease.\nFramingham major criteria are acute pulmonary edema, cardiomegaly, AJR, raised JVP, PND/orthopnea, crepitations/rales and S3 gallop; minor criteria are ankle edema, exertional dyspnea, hepatomegaly, nocturnal cough, pleural effusion and tachycardia >120 bpm.",
+      "qs": [
+        "MED-C53-25",
+        "MED-C53-26",
+        "MED-C53-27",
+        "MED-C53-28",
+        "MED-C53-29",
+        "MED-C53-30",
+        "MED-C53-31",
+        "MED-C53-32"
+      ]
+    },
+    {
+      "id": "MED-U53-5",
+      "ch": 53,
+      "n": 5,
+      "title": "HFpEF/HFNEF Pathophysiology, the Heart-Failure-versus-COPD Table and Bendopnea, Trepopnea and Platypnea",
+      "sec": "HFpEF/HFNEF Pathophysiology, the Heart-Failure-versus-COPD Table and Bendopnea, Trepopnea and Platypnea",
+      "guide": "HFpEF/HFNEF begins with comorbidity-driven microvascular inflammation → LV dysfunction → longitudinal-fibre/untwisting dysfunction → LV diastolic dysfunction (p322). Compensatory LVH reduces cavity size and raises LVEDP and LAP.\nOne arm raises PCWP to produce interstitial/alveolar edema and dyspnea; the other stretches/dilates the atria, raises their CO contribution >40% and predisposes to AF. The film caption shows bilateral pulmonary edema and pleural effusions.\nHF has position-changing gravitational crepitations, cold peripheries and dyspnea > cough; COPD has non-positional fine crepitations, warm CO₂-retaining peripheries and cough > dyspnea. Bendopnea is advanced HF with 30 seconds of bending; trepopnea is breathlessness on one side (right-side preference with right effusion); platypnea is named without definition.",
+      "qs": [
+        "MED-C53-33",
+        "MED-C53-34",
+        "MED-C53-35",
+        "MED-C53-36",
+        "MED-C53-37",
+        "MED-C53-38",
+        "MED-C53-39",
+        "MED-C53-40"
+      ]
+    },
+    {
+      "id": "MED-U53-6",
+      "ch": 53,
+      "n": 6,
+      "title": "The European HFNEF Definition and Presentation, Ten Decompensation Risk Factors, Pathogenesis and Sympathetic Activation",
+      "sec": "The European HFNEF Definition and Presentation, Ten Decompensation Risk Factors, Pathogenesis and Sympathetic Activation",
+      "guide": "The ESC HFNEF definition needs CHF symptoms, normal/mildly abnormal LV systolic function and abnormal LV relaxation; typical patients are older women with HTN, obesity, CKD, anemia, diabetes or CAD and more AF than HFrEF (p323).\nADHF risk factors are non-compliance, LRTI/IE, anemia from CAD aspirin → GI bleed, renal failure, pregnancy, uncontrolled HTN, myocardial ischemia, NSAIDs (naproxen printed as safest in HF), LV-depressing verapamil/diltiazem, and arrhythmias—especially AF.\nHFrEF pathogenesis runs index event (DCM/ischemia) → HFrEF → compensation → remodelling to maintain CO; sympathetic activation raises contractility and HR but predisposes to arrhythmias.",
+      "qs": [
+        "MED-C53-41",
+        "MED-C53-42",
+        "MED-C53-43",
+        "MED-C53-44",
+        "MED-C53-45",
+        "MED-C53-46",
+        "MED-C53-47",
+        "MED-C53-48"
+      ]
+    },
+    {
+      "id": "MED-U53-7",
+      "ch": 53,
+      "n": 7,
+      "title": "RAAS, ADH and Natriuretic-Peptide Compensation, the Treatment Logic and the Initial Beta-Blocker and ACE/ARB Choices",
+      "sec": "RAAS, ADH and Natriuretic-Peptide Compensation, the Treatment Logic and the Initial Beta-Blocker and ACE/ARB Choices",
+      "guide": "RAAS compensation raises afterload through angiotensin II and preload through aldosterone-mediated salt/water retention; ADH retains free water and causes hyponatremia, while natriuretic peptides inhibit RAAS/sympathetic activity and excrete salt and water (p324).\nSustained activation of mechanisms 1–3 causes secondary end-organ damage, worsens LV remodelling and leads to decompensation. Nesiritide is printed as no longer used; treatment blocks sympathetic activity, RAAS and degradation of natriuretic peptides with a neprilysin inhibitor.\nBeta blockers include metoprolol, bisoprolol (most preferred, 1.25 mg) and carvedilol (3.125 mg BD). ACE inhibitors/ARBs have a class effect, with ramipril/perindopril named and ACE > ARB because ACE raises bradykinin.",
+      "qs": [
+        "MED-C53-49",
+        "MED-C53-50",
+        "MED-C53-51",
+        "MED-C53-52",
+        "MED-C53-53",
+        "MED-C53-54",
+        "MED-C53-55",
+        "MED-C53-56"
+      ]
+    },
+    {
+      "id": "MED-U53-8",
+      "ch": 53,
+      "n": 8,
+      "title": "ARNI, the Treatment Hierarchy, Euvolemia and Renal-Failure Caveats, the Fantastic Four and Refractory Heart Failure",
+      "sec": "ARNI, the Treatment Hierarchy, Euvolemia and Renal-Failure Caveats, the Fantastic Four and Refractory Heart Failure",
+      "guide": "ARNI combines valsartan (ARB) and sacubitril (NI), with the printed diagram wording preserved as a source caveat (p325). Natriuretic peptides listed are ANP, BNP, substance P, adrenomedulline and bradykinin.\nPrimary management for all HF is ARNI + beta blocker, ranked ARNI > beta blocker > ACE inhibitor > ARB; if the patient is not euvolemic, diuretics must come first to avoid pulmonary edema. Renal-failure HF is paired with hydralazine + nitrate.\nThe Fantastic Four are ARNI, beta blocker, non-steroidal aldosterone antagonist finerenone and SGLT2 inhibitors (empagliflozin/dapagliflozin). If refractory and HR >70/min, ivabradine (funny-current inhibitor; visual disturbances) is added; wide-QRS refractory HF goes to CRT then transplant, while normal QRS goes to LV assist devices or ICD.",
+      "qs": [
+        "MED-C53-57",
+        "MED-C53-58",
+        "MED-C53-59",
+        "MED-C53-60",
+        "MED-C53-61",
+        "MED-C53-62",
+        "MED-C53-63",
+        "MED-C53-64",
+        "MED-C53-65",
+        "MED-C53-66"
+      ]
+    }
+  ]
+}

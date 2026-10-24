@@ -1,0 +1,827 @@
+{
+  "chapter": 55,
+  "title": "Cardiomyopathy : Part 1",
+  "pageRange": "331-335",
+  "questions": [
+    {
+      "id": "MED-C55-01",
+      "sec": "The Cardiomyopathy Definition and Seven Types, the DCMP Presentation Table, MRI Uses and Pathophysiology",
+      "page": 331,
+      "fmt": "fillup",
+      "q": "Cardiomyopathy is defined as myocardial disease with a structurally and functionally abnormal heart in the absence of coronary artery disease, hypertension, valvular heart disease or ______ heart disease.",
+      "opts": [
+        "congenital",
+        "pulmonary",
+        "pericardial",
+        "rheumatic"
+      ],
+      "ans": 0,
+      "exp": "The definition closes its exclusion list with congenital heart disease. (Book p331)"
+    },
+    {
+      "id": "MED-C55-02",
+      "sec": "The Cardiomyopathy Definition and Seven Types, the DCMP Presentation Table, MRI Uses and Pathophysiology",
+      "page": 331,
+      "fmt": "recall",
+      "q": "Which seven types are printed across the two columns of the types diagram?",
+      "opts": [
+        "HFrEF, HFmrEF, HFpEF, ADHF, RCM, HCM and DCMP",
+        "DCMP, HCM, RCMP, Takotsubo cardiomyopathy, arrhythmogenic RV dysplasia, LV non-compaction and tachycardia-induced cardiomyopathy",
+        "AS, AR, MS, MR, TR, PS and PR",
+        "Focal, diffuse, acute, chronic, genetic, ischemic and valvular"
+      ],
+      "ans": 1,
+      "exp": "The two printed columns list those seven cardiomyopathy types. (Book p331)"
+    },
+    {
+      "id": "MED-C55-03",
+      "sec": "The Cardiomyopathy Definition and Seven Types, the DCMP Presentation Table, MRI Uses and Pathophysiology",
+      "page": 331,
+      "fmt": "match",
+      "q": "Match each DCMP presentation column to its findings — 1) Systolic-failure symptoms 2) Diastolic-failure symptoms 3) Systolic-failure signs 4) Diastolic-failure signs … A) Fatigue and palpitations B) Tachycardia from low CO/sympathetic overactivity and down-and-out apex C) Dyspnea D) Edema and raised JVP",
+      "opts": [
+        "1-B, 2-C, 3-A, 4-D",
+        "1-A, 2-C, 3-B, 4-D",
+        "1-A, 2-D, 3-B, 4-C",
+        "1-C, 2-A, 3-B, 4-D"
+      ],
+      "ans": 1,
+      "exp": "The table separates systolic fatigue/palpitations, diastolic dyspnea, systolic tachycardia/down-and-out apex and diastolic edema/raised JVP. (Book p331)"
+    },
+    {
+      "id": "MED-C55-04",
+      "sec": "The Cardiomyopathy Definition and Seven Types, the DCMP Presentation Table, MRI Uses and Pathophysiology",
+      "page": 331,
+      "fmt": "match",
+      "q": "Match each table row to the systolic and diastolic auscultatory findings — 1) Systolic failure 2) Diastolic failure … A) Crepitations B) Prominent S3",
+      "opts": [
+        "1-B, 2-B",
+        "1-A, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-A"
+      ],
+      "ans": 3,
+      "exp": "The auscultation row gives prominent S3 for systolic failure and crepitations for diastolic failure. (Book p331)"
+    },
+    {
+      "id": "MED-C55-05",
+      "sec": "The Cardiomyopathy Definition and Seven Types, the DCMP Presentation Table, MRI Uses and Pathophysiology",
+      "page": 331,
+      "fmt": "recall",
+      "q": "Which sex predilection and MRI gold-standard uses are printed beneath the table?",
+      "opts": [
+        "Females > males; MRI is only for valve calcium",
+        "Males > females; MRI is gold standard for EF, RV function, amyloidosis/sarcoidosis and ischemia versus infarction",
+        "No sex predilection; MRI is only for congenital shunts",
+        "Males > females; MRI is only for coronary angiography"
+      ],
+      "ans": 1,
+      "exp": "The note states males > females and lists EF, RV function, amyloidosis/sarcoidosis and ischemia vs infarction under MRI gold standard. (Book p331)"
+    },
+    {
+      "id": "MED-C55-06",
+      "sec": "The Cardiomyopathy Definition and Seven Types, the DCMP Presentation Table, MRI Uses and Pathophysiology",
+      "page": 331,
+      "fmt": "recall",
+      "q": "Which sequence is printed under DCMP pathophysiology?",
+      "opts": [
+        "Microvascular inflammation → abnormal relaxation → AF",
+        "Stiff ventricles → raised RVEDP → ascites/edema",
+        "Concentric hypertrophy → small cavity → LVOT obstruction → MR",
+        "LV dilatation, thinning and systolic dysfunction → diastolic failure → LV failure → RV failure"
+      ],
+      "ans": 3,
+      "exp": "The pathophysiology line reads LV dilatation, thinning and systolic dysfunction → diastolic failure → LV failure → RV failure. (Book p331)"
+    },
+    {
+      "id": "MED-C55-07",
+      "sec": "The Cardiomyopathy Definition and Seven Types, the DCMP Presentation Table, MRI Uses and Pathophysiology",
+      "page": 331,
+      "fmt": "numeric",
+      "q": "Which global hypokinesia and heart-failure fraction are printed at the foot of page 331?",
+      "opts": [
+        "Global hypokinesia; DCMP accounts for 25% of all cases of heart failure",
+        "Normal wall motion; 100% of cases",
+        "Hypercontractile base; 75% of cases",
+        "Regional hypokinesia; 5% of cases"
+      ],
+      "ans": 0,
+      "exp": "The two closing bullets are global hypokinesia and 25% of all cases of heart failure. (Book p331)"
+    },
+    {
+      "id": "MED-C55-08",
+      "sec": "The Cardiomyopathy Definition and Seven Types, the DCMP Presentation Table, MRI Uses and Pathophysiology",
+      "page": 331,
+      "fmt": "scenario",
+      "q": "A male has fatigue, palpitations, sinus tachycardia, a down-and-out apex and prominent S3, with thin dilated ventricles and global hypokinesia. Which cardiomyopathy is the page describing?",
+      "opts": [
+        "Takotsubo cardiomyopathy",
+        "Restrictive cardiomyopathy",
+        "Dilated cardiomyopathy",
+        "Hypertrophic cardiomyopathy"
+      ],
+      "ans": 2,
+      "exp": "These are the systolic presentation and pathophysiology items under DCMP, including male predominance. (Book p331)"
+    },
+    {
+      "id": "MED-C55-09",
+      "sec": "The Cardiomyopathy Definition and Seven Types, the DCMP Presentation Table, MRI Uses and Pathophysiology",
+      "page": 331,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one feature belongs to HCM/RCMP rather than the page-331 DCMP column.",
+      "opts": [
+        "Prominent S3",
+        "Concentric hypertrophy with a small ventricular cavity",
+        "Global hypokinesia",
+        "Down-and-out apex"
+      ],
+      "ans": 1,
+      "exp": "Small-cavity concentric hypertrophy is the later HCM pattern; S3, global hypokinesia and a down-and-out apex belong to DCMP. (Book p331)"
+    },
+    {
+      "id": "MED-C55-10",
+      "sec": "Other Heart-Failure Causes, the Genetic Table and Variable Penetrance, Etiology Branches, Complications and the Thrombus Figure",
+      "page": 332,
+      "fmt": "recall",
+      "q": "Which three 'other causes of heart failure' are printed at the top of page 332?",
+      "opts": [
+        "Restrictive, hypertrophic and Takotsubo",
+        "Valvular, congenital and ischemia-related",
+        "Infective, postpartum and alcoholic",
+        "Genetic, drug-induced and endocrine"
+      ],
+      "ans": 1,
+      "exp": "The note lists valvular, congenital and ischemia-related causes. (Book p332)"
+    },
+    {
+      "id": "MED-C55-11",
+      "sec": "Other Heart-Failure Causes, the Genetic Table and Variable Penetrance, Etiology Branches, Complications and the Thrombus Figure",
+      "page": 332,
+      "fmt": "numeric",
+      "q": "What proportion of DCMP is labelled genetic, and what history supports it?",
+      "opts": [
+        "100%, with no family history",
+        "3%, with a history of asthma",
+        "30%, with a history of cardiac disease in the family",
+        "70%, with a history of renal stones"
+      ],
+      "ans": 2,
+      "exp": "The etiology heading reads genetic (30%) with H/o cardiac disease in family (+). (Book p332)"
+    },
+    {
+      "id": "MED-C55-12",
+      "sec": "Other Heart-Failure Causes, the Genetic Table and Variable Penetrance, Etiology Branches, Complications and the Thrombus Figure",
+      "page": 332,
+      "fmt": "match",
+      "q": "Match each genetic cardiomyopathy to its inheritance and protein — 1) DCMP 2) ARVD 3) LV non-compaction … A) Autosomal recessive; desmosome B) Autosomal dominant; truncated-variant titin > myosin heavy chain 7 > troponin I C) X-linked recessive; tafazzin protein",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 1,
+      "exp": "The three table rows give those exact inheritance/protein pairings. (Book p332)"
+    },
+    {
+      "id": "MED-C55-13",
+      "sec": "Other Heart-Failure Causes, the Genetic Table and Variable Penetrance, Etiology Branches, Complications and the Thrombus Figure",
+      "page": 332,
+      "fmt": "fillup",
+      "q": "Variability in presentation between patients is attributed on page 332 to variable penetrance and ______.",
+      "opts": [
+        "regurgitation",
+        "expression",
+        "methylation",
+        "oxygenation"
+      ],
+      "ans": 1,
+      "exp": "The note reads variable penetrance and expression. (Book p332)"
+    },
+    {
+      "id": "MED-C55-14",
+      "sec": "Other Heart-Failure Causes, the Genetic Table and Variable Penetrance, Etiology Branches, Complications and the Thrombus Figure",
+      "page": 332,
+      "fmt": "match",
+      "q": "Match each etiological subtype to its printed prognosis — 1) Peripartum CMP 2) Alcohol-induced CMP 3) Drug-induced CMP … A) Bad prognosis B) Good prognosis C) Good prognosis",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 3,
+      "exp": "The bracket shared by peripartum and alcohol-induced CMP marks good prognosis; drug-induced CMP is separately labelled bad prognosis. (Book p332)"
+    },
+    {
+      "id": "MED-C55-15",
+      "sec": "Other Heart-Failure Causes, the Genetic Table and Variable Penetrance, Etiology Branches, Complications and the Thrombus Figure",
+      "page": 332,
+      "fmt": "recall",
+      "q": "Which three toxin/nutrition deficiencies are printed, and which geographical note is attached to selenium?",
+      "opts": [
+        "Iron, calcium and vitamin D; iron in coastal zones",
+        "Vitamin A, B12 and magnesium; B12 in tropical zones",
+        "Thiamine, selenium and carnitine; selenium deficiency is noted in the sub-Himalayan zone as Keshan disease",
+        "Zinc, copper and folate; zinc in desert zones"
+      ],
+      "ans": 2,
+      "exp": "The branch lists thiamine, selenium (sub-Himalayan zone: Keshan's disease) and carnitine. (Book p332)"
+    },
+    {
+      "id": "MED-C55-16",
+      "sec": "Other Heart-Failure Causes, the Genetic Table and Variable Penetrance, Etiology Branches, Complications and the Thrombus Figure",
+      "page": 332,
+      "fmt": "match",
+      "q": "Match each etiological branch to its printed members — 1) Autoimmune 2) Endocrine 3) Inflammatory 4) Autoimmune comparison … A) Myocarditis B) Sarcoidosis and hemochromatosis C) Dilated component > restrictive component D) Pheochromocytoma, thyroid disease and obesity",
+      "opts": [
+        "1-B, 2-D, 3-A, 4-C",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-D, 2-B, 3-A, 4-C",
+        "1-B, 2-D, 3-C, 4-A"
+      ],
+      "ans": 0,
+      "exp": "The page lists autoimmune sarcoidosis/hemochromatosis with a dilated > restrictive component, endocrine pheochromocytoma/thyroid disease/obesity and inflammatory CMP as myocarditis. (Book p332)"
+    },
+    {
+      "id": "MED-C55-17",
+      "sec": "Other Heart-Failure Causes, the Genetic Table and Variable Penetrance, Etiology Branches, Complications and the Thrombus Figure",
+      "page": 332,
+      "fmt": "recall",
+      "q": "Which four complications are printed beneath the etiological branches?",
+      "opts": [
+        "Aortic dissection, IE, sinus rupture and trauma",
+        "Pneumatocele, empyema, lung abscess and ARDS",
+        "Kerley lines, cephalisation, bat-wing edema and pleural effusion",
+        "Thromboembolism, arrhythmias from a dilated LV, sudden cardiac death and decompensation with increased mortality"
+      ],
+      "ans": 3,
+      "exp": "The four complication bullets are exactly those. (Book p332)"
+    },
+    {
+      "id": "MED-C55-18",
+      "sec": "Other Heart-Failure Causes, the Genetic Table and Variable Penetrance, Etiology Branches, Complications and the Thrombus Figure",
+      "page": 332,
+      "fmt": "scenario",
+      "q": "A POCUS ECHO in a patient with DCMP shows an intraventricular thrombus. Which complication from the printed list does the image most directly illustrate?",
+      "opts": [
+        "Hypertrophic obstruction",
+        "Pericardial knock",
+        "Thromboembolism",
+        "Aortic stenosis"
+      ],
+      "ans": 2,
+      "exp": "The figure caption says POCUS ECHO showing DCMP + intraventricular thrombus, matching the thromboembolism complication. (Book p332)"
+    },
+    {
+      "id": "MED-C55-19",
+      "sec": "Other Heart-Failure Causes, the Genetic Table and Variable Penetrance, Etiology Branches, Complications and the Thrombus Figure",
+      "page": 332,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one item is not printed as a p332 cause or complication of DCMP.",
+      "opts": [
+        "Sudden cardiac death",
+        "Hemochromatosis",
+        "NOTCH-1 mutation with bicuspid aortic valve",
+        "Thiamine deficiency"
+      ],
+      "ans": 2,
+      "exp": "NOTCH-1/BAV belongs to the AS section; the other three appear in the DCMP etiology/complication lists. (Book p332)"
+    },
+    {
+      "id": "MED-C55-20",
+      "sec": "DCMP Investigations, Transplant, Angina with Normal Coronaries, and Peripartum Cardiomyopathy",
+      "page": 333,
+      "fmt": "recall",
+      "q": "Which three ECG findings are printed for DCMP?",
+      "opts": [
+        "Small-voltage complexes in limb leads (chest leads high voltage), sinus tachycardia from sympathetic overactivity and poor R-wave progression",
+        "Pseudo-infarct pattern, atrial fibrillation and complete heart block",
+        "Deep giant T inversions, LVH and short PR",
+        "Large Q waves, delta waves and long QT"
+      ],
+      "ans": 0,
+      "exp": "The ECG bullets are small voltage limb/high voltage chest leads, sinus tachycardia and poor R-wave progression. (Book p333)"
+    },
+    {
+      "id": "MED-C55-21",
+      "sec": "DCMP Investigations, Transplant, Angina with Normal Coronaries, and Peripartum Cardiomyopathy",
+      "page": 333,
+      "fmt": "recall",
+      "q": "Which three ECHO findings are listed?",
+      "opts": [
+        "Cardiomegaly, a large roomy thin-walled LV with raised end-diastolic dimensions and reduced EF, and global hypokinesia",
+        "Concentric LVH, small cavity and SAM",
+        "Apical ballooning with hypercontractile base",
+        "Biatrial enlargement, normal LV and pericardial effusion"
+      ],
+      "ans": 0,
+      "exp": "The ECHO bullets describe cardiomegaly, large roomy thin-walled LV (↑ end-diastolic dimensions and ↓ EF) and global hypokinesia. (Book p333)"
+    },
+    {
+      "id": "MED-C55-22",
+      "sec": "DCMP Investigations, Transplant, Angina with Normal Coronaries, and Peripartum Cardiomyopathy",
+      "page": 333,
+      "fmt": "management",
+      "q": "Why are MRI and angiogram grouped on page 333?",
+      "opts": [
+        "To diagnose myocarditis by Dallas criteria",
+        "To rule out CAD in all patients, especially when first presenting at age >30 years",
+        "To assess coronary calcium instead of ECHO",
+        "To measure valve gradients before TAVR"
+      ],
+      "ans": 1,
+      "exp": "The bracket says MRI/angiogram to rule out CAD in all, especially if presenting first time at age >30 years. (Book p333)"
+    },
+    {
+      "id": "MED-C55-23",
+      "sec": "DCMP Investigations, Transplant, Angina with Normal Coronaries, and Peripartum Cardiomyopathy",
+      "page": 333,
+      "fmt": "fillup",
+      "q": "The boxed note lists three causes of angina with normal coronaries: myocarditis, HCM and ______ cardiomyopathy.",
+      "opts": [
+        "ischemic",
+        "restrictive",
+        "alcohol-induced",
+        "Takotsubo"
+      ],
+      "ans": 3,
+      "exp": "The box reads myocarditis, HCM and Takotsubo Cm. (Book p333)"
+    },
+    {
+      "id": "MED-C55-24",
+      "sec": "DCMP Investigations, Transplant, Angina with Normal Coronaries, and Peripartum Cardiomyopathy",
+      "page": 333,
+      "fmt": "management",
+      "q": "What single treatment is printed for DCMP?",
+      "opts": [
+        "Transplant",
+        "Pericardiectomy",
+        "Septal myomectomy",
+        "Ivabradine"
+      ],
+      "ans": 0,
+      "exp": "The treatment line reads transplant. (Book p333)"
+    },
+    {
+      "id": "MED-C55-25",
+      "sec": "DCMP Investigations, Transplant, Angina with Normal Coronaries, and Peripartum Cardiomyopathy",
+      "page": 333,
+      "fmt": "recall",
+      "q": "What two prognostic statements open the peripartum-CMP section?",
+      "opts": [
+        "It is genetically absent in women over 30",
+        "It has the worst prognosis and no recurrence risk",
+        "It has the best prognosis among DCMPs but a high recurrence risk",
+        "It is always fatal within one week"
+      ],
+      "ans": 2,
+      "exp": "The first two bullets read best prognosis among DCMPs and high recurrence risk. (Book p333)"
+    },
+    {
+      "id": "MED-C55-26",
+      "sec": "DCMP Investigations, Transplant, Angina with Normal Coronaries, and Peripartum Cardiomyopathy",
+      "page": 333,
+      "fmt": "match",
+      "q": "Match each peripartum association and timing branch — 1) Associations 2) Time of presentation … A) Age at pregnancy >30 years and hypertension B) Postpartum and third trimester",
+      "opts": [
+        "1-A, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 1,
+      "exp": "The associations are age at pregnancy (>30 y) and hypertension; presentation is postpartum and third trimester. (Book p333)"
+    },
+    {
+      "id": "MED-C55-27",
+      "sec": "DCMP Investigations, Transplant, Angina with Normal Coronaries, and Peripartum Cardiomyopathy",
+      "page": 333,
+      "fmt": "fillup",
+      "q": "The pathology bullet names SFLT1 (soluble fibrin-like tyrosine kinase 1) as an ______ factor.",
+      "opts": [
+        "pro-coagulant",
+        "anti-angiogenic",
+        "pro-angiogenic",
+        "anti-arrhythmic"
+      ],
+      "ans": 1,
+      "exp": "The line reads soluble fibrin-like tyrosine kinase I: anti-angiogenic factor. (Book p333)"
+    },
+    {
+      "id": "MED-C55-28",
+      "sec": "DCMP Investigations, Transplant, Angina with Normal Coronaries, and Peripartum Cardiomyopathy",
+      "page": 333,
+      "fmt": "recall",
+      "q": "Which clinical features and advice are printed for peripartum CMP?",
+      "opts": [
+        "Fever, rash and arthritis; continue pregnancy and observe for years",
+        "Asymptomatic LVH and syncope; repeat pregnancy encouraged",
+        "LV systolic-failure features, worsening dyspnea even with minimal exertion/breastfeeding and diaphoresis; avoid pregnancy again and expect resolution in 3–4 months",
+        "Nocturnal angina and wide pulse pressure; immediate AVR"
+      ],
+      "ans": 2,
+      "exp": "The bullets list those three clinical features and the two advice items. (Book p333)"
+    },
+    {
+      "id": "MED-C55-29",
+      "sec": "DCMP Investigations, Transplant, Angina with Normal Coronaries, and Peripartum Cardiomyopathy",
+      "page": 333,
+      "fmt": "scenario",
+      "q": "A 32-year-old hypertensive woman in her third trimester develops worsening dyspnea with minimal exertion, sweating and systolic LV failure. Which etiological subtype is being described?",
+      "opts": [
+        "Drug-induced CMP from anthracyclines",
+        "Alcohol-induced cardiomyopathy",
+        "Peripartum cardiomyopathy",
+        "Arrhythmogenic RV dysplasia"
+      ],
+      "ans": 2,
+      "exp": "Age >30, hypertension, third-trimester/postpartum timing and LV systolic-failure symptoms are the printed peripartum associations. (Book p333)"
+    },
+    {
+      "id": "MED-C55-30",
+      "sec": "Drug-Induced Cardiomyopathy and Anthracycline Regimens, Alcohol-Induced Disease, and Myocarditis Onset and Etiology",
+      "page": 334,
+      "fmt": "match",
+      "q": "Match each drug/toxin group to its printed members — 1) Anthracyclines 2) Other left-column drugs 3) Right-column toxins … A) Trastuzumab, cyclophosphamide, VEGF inhibitors and proteasome inhibitors B) Anabolic steroids, lead, mercury, hydrocarbons and cocaine C) Doxorubicin, daunorubicin and mitoxantrone",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "The drug-induced CMP lists anthracyclines (doxorubicin/daunorubicin/mitoxantrone), the four other left-column drugs and the five right-column agents/toxins. (Book p334)"
+    },
+    {
+      "id": "MED-C55-31",
+      "sec": "Drug-Induced Cardiomyopathy and Anthracycline Regimens, Alcohol-Induced Disease, and Myocarditis Onset and Etiology",
+      "page": 334,
+      "fmt": "match",
+      "q": "Match each anthracycline chemotherapy use to its printed regimen — 1) Non-Hodgkin lymphoma 2) Hodgkin lymphoma 3) AML … A) 7 + 3 regimen B) Adriamycin (doxorubicin) in ABVD C) Hydroxydaunorubicin in R-CHOP",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 0,
+      "exp": "The note lists NHL hydroxydaunorubicin/R-CHOP, Hodgkin lymphoma Adriamycin/ABVD and AML 7 + 3. (Book p334)"
+    },
+    {
+      "id": "MED-C55-32",
+      "sec": "Drug-Induced Cardiomyopathy and Anthracycline Regimens, Alcohol-Induced Disease, and Myocarditis Onset and Etiology",
+      "page": 334,
+      "fmt": "fillup",
+      "q": "The alcohol-induced pathophysiology chain is ACE polymorphism → formation of ______ → cardiomyopathy.",
+      "opts": [
+        "acetone",
+        "acetylcholine",
+        "acetate",
+        "acetaldehyde"
+      ],
+      "ans": 3,
+      "exp": "The line reads ACE polymorphism → formation of acetaldehyde → cardiomyopathy. (Book p334)"
+    },
+    {
+      "id": "MED-C55-33",
+      "sec": "Drug-Induced Cardiomyopathy and Anthracycline Regimens, Alcohol-Induced Disease, and Myocarditis Onset and Etiology",
+      "page": 334,
+      "fmt": "recall",
+      "q": "Which three additional risks are associated with alcohol on page 334?",
+      "opts": [
+        "Pompe disease, Fabry disease and Friedreich ataxia",
+        "Pulmonary edema, renal failure and Cushing syndrome",
+        "Atrial fibrillation (holiday heart syndrome), stroke and ACS",
+        "Aortic dissection, IE and sinus of Valsalva rupture"
+      ],
+      "ans": 2,
+      "exp": "The bullets list AF (holiday heart syndrome), stroke and ACS. (Book p334)"
+    },
+    {
+      "id": "MED-C55-34",
+      "sec": "Drug-Induced Cardiomyopathy and Anthracycline Regimens, Alcohol-Induced Disease, and Myocarditis Onset and Etiology",
+      "page": 334,
+      "fmt": "match",
+      "q": "Match each branch of the alcohol section — 1) Aggravating deficiencies 2) Reversibility after avoiding alcohol … A) Thiamine, magnesium and selenium B) EF improves after 3–6 months",
+      "opts": [
+        "1-A, 2-A",
+        "1-B, 2-B",
+        "1-A, 2-B",
+        "1-B, 2-A"
+      ],
+      "ans": 2,
+      "exp": "The deficiency arms are thiamine, magnesium and selenium; treatment says avoid alcohol, reversible with EF improving after 3–6 months. (Book p334)"
+    },
+    {
+      "id": "MED-C55-35",
+      "sec": "Drug-Induced Cardiomyopathy and Anthracycline Regimens, Alcohol-Induced Disease, and Myocarditis Onset and Etiology",
+      "page": 334,
+      "fmt": "recall",
+      "q": "How is myocarditis introduced and timed at the bottom of page 334?",
+      "opts": [
+        "As a genetic disease with 30% family history",
+        "As focal or diffuse inflammatory dilated CMP, with acute onset more common than chronic (3 months)",
+        "As a postpartum disease resolving in 3–4 weeks",
+        "As a valvular disease with 5-year angina and 3-year syncope"
+      ],
+      "ans": 1,
+      "exp": "The lines read inflammatory dilated CMP → focal/diffuse and onset acute > chronic (3 months). (Book p334)"
+    },
+    {
+      "id": "MED-C55-36",
+      "sec": "Drug-Induced Cardiomyopathy and Anthracycline Regimens, Alcohol-Induced Disease, and Myocarditis Onset and Etiology",
+      "page": 334,
+      "fmt": "match",
+      "q": "Match each myocarditis etiology branch to its organism — 1) Post-viral 2) Parasitic … A) Trypanosoma cruzi (Chaga disease, as printed) B) HHV-6, the most common cause",
+      "opts": [
+        "1-A, 2-B",
+        "1-B, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-A"
+      ],
+      "ans": 3,
+      "exp": "The post-viral branch names HHV-6 as m/c and the other branch names T. cruzi with Chaga's disease. (Book p334)"
+    },
+    {
+      "id": "MED-C55-37",
+      "sec": "Drug-Induced Cardiomyopathy and Anthracycline Regimens, Alcohol-Induced Disease, and Myocarditis Onset and Etiology",
+      "page": 334,
+      "fmt": "recall",
+      "q": "What pathophysiology chain closes page 334?",
+      "opts": [
+        "Microvascular inflammation → LVH → atrial fibrillation",
+        "Systemic infection → severe cytokine release → decreased LV function",
+        "Aortic regurgitation → eccentric hypertrophy → wide pulse pressure",
+        "Drug exposure → acetaldehyde → fibrosis"
+      ],
+      "ans": 1,
+      "exp": "The line reads systemic infection → severe cytokine release → ↓ LV function. (Book p334)"
+    },
+    {
+      "id": "MED-C55-38",
+      "sec": "Drug-Induced Cardiomyopathy and Anthracycline Regimens, Alcohol-Induced Disease, and Myocarditis Onset and Etiology",
+      "page": 334,
+      "fmt": "scenario",
+      "q": "A patient with chronic heavy alcohol use has holiday-heart AF and a reduced EF. After abstinence, when does the page say EF improvement can be expected?",
+      "opts": [
+        "After 5 years",
+        "After 3–6 months",
+        "Only after transplantation",
+        "Within 30 seconds"
+      ],
+      "ans": 1,
+      "exp": "The alcohol treatment line calls the disease reversible with EF improving after 3–6 months. (Book p334)"
+    },
+    {
+      "id": "MED-C55-39",
+      "sec": "Drug-Induced Cardiomyopathy and Anthracycline Regimens, Alcohol-Induced Disease, and Myocarditis Onset and Etiology",
+      "page": 334,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one item is not printed in the drug-induced CMP list.",
+      "opts": [
+        "Takotsubo",
+        "Cyclophosphamide",
+        "Anabolic steroids",
+        "Trastuzumab"
+      ],
+      "ans": 0,
+      "exp": "Takotsubo is a cardiomyopathy type, not a drug/toxin cause; the other three are printed in the lists. (Book p334)"
+    },
+    {
+      "id": "MED-C55-40",
+      "sec": "The Clinical Spectrum of Myocarditis, ECG, Blood, HPE and MRI Findings, and Supportive Treatment",
+      "page": 335,
+      "fmt": "recall",
+      "q": "What is printed as the usual clinical status in myocarditis?",
+      "opts": [
+        "All have cardiogenic shock",
+        "All have normal coronaries and chest pain",
+        "The majority are subclinical",
+        "All have giant-cell myocarditis"
+      ],
+      "ans": 2,
+      "exp": "The first clinical-feature bullet reads majority: subclinical. (Book p335)"
+    },
+    {
+      "id": "MED-C55-41",
+      "sec": "The Clinical Spectrum of Myocarditis, ECG, Blood, HPE and MRI Findings, and Supportive Treatment",
+      "page": 335,
+      "fmt": "scenario",
+      "q": "A patient has unexplained tachycardia and hypotension shortly after a febrile infection, with chest pain despite normal coronaries and exertional dyspnea. Which presentation is this?",
+      "opts": [
+        "Peripartum cardiomyopathy",
+        "Asymptomatic severe AS",
+        "The post-febrile tachycardia/hypotension branch of myocarditis",
+        "Chronic compensated AR"
+      ],
+      "ans": 2,
+      "exp": "The branch begins unexplained tachycardia & hypotension, then 'following febrile infection' with chest pain/angina and normal coronaries or exertional dyspnea. (Book p335)"
+    },
+    {
+      "id": "MED-C55-42",
+      "sec": "The Clinical Spectrum of Myocarditis, ECG, Blood, HPE and MRI Findings, and Supportive Treatment",
+      "page": 335,
+      "fmt": "match",
+      "q": "Match each myocarditis clinical bullet to its printed prognosis or association — 1) Refractory hypotension in infection 2) New-onset heart failure 3) Giant-cell myocarditis with rapidly progressive HF … A) Poor prognosis B) Poor prognosis C) Sarcoidosis",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 3,
+      "exp": "Refractory hypotension and new-onset HF are both marked poor prognosis; the giant-cell rapidly progressive form is associated with sarcoidosis. (Book p335)"
+    },
+    {
+      "id": "MED-C55-43",
+      "sec": "The Clinical Spectrum of Myocarditis, ECG, Blood, HPE and MRI Findings, and Supportive Treatment",
+      "page": 335,
+      "fmt": "recall",
+      "q": "Which four investigation rows are printed on page 335?",
+      "opts": [
+        "X-ray bat wing, CT halo, bronchoscopy and sputum culture",
+        "MRI dagger sign, ECHO LVH, BNP and coronary calcium",
+        "ECHO global/LV dysfunction; ECG non-specific ST/T changes, low-voltage QRS and sinus tachycardia; blood troponin I elevation; HPE Dallas criteria",
+        "ECG delta waves, ECHO SAM, blood lead and HPE Reed–Sternberg cells"
+      ],
+      "ans": 2,
+      "exp": "Those are the four labelled investigations, plus the MRI image showing peripheral enhancement. (Book p335)"
+    },
+    {
+      "id": "MED-C55-44",
+      "sec": "The Clinical Spectrum of Myocarditis, ECG, Blood, HPE and MRI Findings, and Supportive Treatment",
+      "page": 335,
+      "fmt": "fillup",
+      "q": "The blood investigation specifically named on page 335 is elevation of ______ I.",
+      "opts": [
+        "c-reactive protein",
+        "lactate dehydrogenase",
+        "troponin",
+        "creatine kinase"
+      ],
+      "ans": 2,
+      "exp": "The blood line reads troponin I elevation. (Book p335)"
+    },
+    {
+      "id": "MED-C55-45",
+      "sec": "The Clinical Spectrum of Myocarditis, ECG, Blood, HPE and MRI Findings, and Supportive Treatment",
+      "page": 335,
+      "fmt": "recall",
+      "q": "What does the MRI image caption point out in myocarditis?",
+      "opts": [
+        "A dagger-shaped Doppler jet",
+        "Lamellar zebra bodies",
+        "Peripheral enhancement",
+        "A hypokinetic ballooned apex"
+      ],
+      "ans": 2,
+      "exp": "The MRI in myocarditis is labelled 'peripheral enhancement' by the arrow. (Book p335)"
+    },
+    {
+      "id": "MED-C55-46",
+      "sec": "The Clinical Spectrum of Myocarditis, ECG, Blood, HPE and MRI Findings, and Supportive Treatment",
+      "page": 335,
+      "fmt": "management",
+      "q": "What treatment is printed for myocarditis?",
+      "opts": [
+        "No specific therapy, supportive care and steroids only in autoimmune disease",
+        "Immediate transplant in every case",
+        "Anthracycline chemotherapy",
+        "Immediate valve replacement"
+      ],
+      "ans": 0,
+      "exp": "The three treatment bullets are no specific therapy, supportive care and steroids only in autoimmune disease. (Book p335)"
+    },
+    {
+      "id": "MED-C55-47",
+      "sec": "The Clinical Spectrum of Myocarditis, ECG, Blood, HPE and MRI Findings, and Supportive Treatment",
+      "page": 335,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about myocarditis investigations.",
+      "opts": [
+        "False — ECHO is always normal",
+        "False — Dallas criteria are applied to blood troponin",
+        "True — ECG may show non-specific ST/T changes, low-voltage QRS and sinus tachycardia",
+        "True — ECG always shows pathologic Q waves and a delta wave"
+      ],
+      "ans": 2,
+      "exp": "The ECG bullets are non-specific ST/T changes, low-voltage QRS and sinus tachycardia; Dallas criteria belong to HPE and ECHO shows global/LV dysfunction. (Book p335)"
+    },
+    {
+      "id": "MED-C55-48",
+      "sec": "The Clinical Spectrum of Myocarditis, ECG, Blood, HPE and MRI Findings, and Supportive Treatment",
+      "page": 335,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one statement is not printed for myocarditis.",
+      "opts": [
+        "The majority of cases are subclinical",
+        "Troponin I can be elevated",
+        "Steroids are given routinely in every viral case",
+        "Giant-cell myocarditis with rapid heart failure is linked to sarcoidosis"
+      ],
+      "ans": 2,
+      "exp": "The page restricts steroids to autoimmune disease; the other three are printed directly. (Book p335)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U55-1",
+      "ch": 55,
+      "n": 1,
+      "title": "The Cardiomyopathy Definition and Seven Types, the DCMP Presentation Table, MRI Uses and Pathophysiology",
+      "sec": "The Cardiomyopathy Definition and Seven Types, the DCMP Presentation Table, MRI Uses and Pathophysiology",
+      "guide": "Cardiomyopathy is myocardial disease with a structurally/functionally abnormal heart after excluding CAD, hypertension, valvular disease and congenital disease (p331). Seven types are DCMP, HCM, RCMP, Takotsubo, arrhythmogenic RV dysplasia, LV non-compaction and tachycardia-induced disease.\nDCMP systolic presentation has fatigue/palpitations, tachycardia from low CO/sympathetic overactivity, a down-and-out apex and prominent S3; diastolic presentation has dyspnea, edema/raised JVP and crepitations. Males > females.\nMRI is gold standard for EF, RV function, amyloidosis/sarcoidosis and ischemia versus infarction. DCMP runs LV dilatation/thinning/systolic dysfunction → diastolic failure → LV failure → RV failure, with global hypokinesia and 25% of all heart-failure cases.",
+      "qs": [
+        "MED-C55-01",
+        "MED-C55-02",
+        "MED-C55-03",
+        "MED-C55-04",
+        "MED-C55-05",
+        "MED-C55-06",
+        "MED-C55-07",
+        "MED-C55-08",
+        "MED-C55-09"
+      ]
+    },
+    {
+      "id": "MED-U55-2",
+      "ch": 55,
+      "n": 2,
+      "title": "Other Heart-Failure Causes, the Genetic Table and Variable Penetrance, Etiology Branches, Complications and the Thrombus Figure",
+      "sec": "Other Heart-Failure Causes, the Genetic Table and Variable Penetrance, Etiology Branches, Complications and the Thrombus Figure",
+      "guide": "Other heart-failure causes are valvular, congenital and ischemia-related (p332). Genetics accounts for 30% with a positive family history: DCMP is autosomal dominant (TV titin > myosin heavy chain 7 > troponin I), ARVD autosomal recessive (desmosome) and LV non-compaction X-linked recessive (tafazzin), with variable penetrance/expression.\nPeripartum and alcohol-induced CMP have good prognoses; drug-induced CMP is bad. Toxin/nutrition deficiencies are thiamine, selenium (sub-Himalayan Keshan disease) and carnitine; autoimmune sarcoidosis/hemochromatosis have a dilated > restrictive component; endocrine causes are pheochromocytoma, thyroid disease and obesity; inflammatory CMP is myocarditis.\nComplications are thromboembolism, arrhythmias from a dilated LV, sudden cardiac death and decompensation with increased mortality; the figure shows a DCMP intraventricular thrombus on POCUS ECHO.",
+      "qs": [
+        "MED-C55-10",
+        "MED-C55-11",
+        "MED-C55-12",
+        "MED-C55-13",
+        "MED-C55-14",
+        "MED-C55-15",
+        "MED-C55-16",
+        "MED-C55-17",
+        "MED-C55-18",
+        "MED-C55-19"
+      ]
+    },
+    {
+      "id": "MED-U55-3",
+      "ch": 55,
+      "n": 3,
+      "title": "DCMP Investigations, Transplant, Angina with Normal Coronaries, and Peripartum Cardiomyopathy",
+      "sec": "DCMP Investigations, Transplant, Angina with Normal Coronaries, and Peripartum Cardiomyopathy",
+      "guide": "DCMP ECG shows small-voltage limb-lead complexes (high voltage chest leads), sinus tachycardia and poor R-wave progression; ECHO shows cardiomegaly, a large roomy thin-walled LV with raised end-diastolic dimensions/reduced EF and global hypokinesia (p333). MRI/angiogram rule out CAD in all, especially first presentation after age 30.\nAngina with normal coronaries is boxed as myocarditis, HCM or Takotsubo CMP; treatment is transplant. Peripartum CMP has the best DCMP prognosis but high recurrence, is associated with pregnancy age >30 and hypertension, and presents postpartum or in the third trimester.\nIts pathology is SFLT1 (soluble fibrin-like tyrosine kinase I, anti-angiogenic); LV systolic failure, dyspnea with minimal exertion/breastfeeding and diaphoresis appear, with advice to avoid pregnancy again and expected resolution in 3–4 months.",
+      "qs": [
+        "MED-C55-20",
+        "MED-C55-21",
+        "MED-C55-22",
+        "MED-C55-23",
+        "MED-C55-24",
+        "MED-C55-25",
+        "MED-C55-26",
+        "MED-C55-27",
+        "MED-C55-28",
+        "MED-C55-29"
+      ]
+    },
+    {
+      "id": "MED-U55-4",
+      "ch": 55,
+      "n": 4,
+      "title": "Drug-Induced Cardiomyopathy and Anthracycline Regimens, Alcohol-Induced Disease, and Myocarditis Onset and Etiology",
+      "sec": "Drug-Induced Cardiomyopathy and Anthracycline Regimens, Alcohol-Induced Disease, and Myocarditis Onset and Etiology",
+      "guide": "Drug-induced CMP includes anthracyclines (doxorubicin, daunorubicin, mitoxantrone), trastuzumab, cyclophosphamide, VEGF inhibitors, proteasome inhibitors, anabolic steroids, lead, mercury, hydrocarbons and cocaine (p334). Anthracycline regimens noted are hydroxydaunorubicin in R-CHOP for NHL, Adriamycin/doxorubicin in ABVD for Hodgkin lymphoma and 7 + 3 for AML.\nAlcohol-induced disease follows ACE polymorphism → acetaldehyde; added risks are holiday-heart AF, stroke and ACS, aggravated by thiamine/magnesium/selenium deficiency. Avoiding alcohol can improve EF after 3–6 months.\nMyocarditis is focal or diffuse inflammatory dilated CMP, acute more than chronic (3 months), from post-viral HHV-6 (m/c) or Trypanosoma cruzi (Chaga's disease as printed), acting through systemic infection → severe cytokine release → reduced LV function.",
+      "qs": [
+        "MED-C55-30",
+        "MED-C55-31",
+        "MED-C55-32",
+        "MED-C55-33",
+        "MED-C55-34",
+        "MED-C55-35",
+        "MED-C55-36",
+        "MED-C55-37",
+        "MED-C55-38",
+        "MED-C55-39"
+      ]
+    },
+    {
+      "id": "MED-U55-5",
+      "ch": 55,
+      "n": 5,
+      "title": "The Clinical Spectrum of Myocarditis, ECG, Blood, HPE and MRI Findings, and Supportive Treatment",
+      "sec": "The Clinical Spectrum of Myocarditis, ECG, Blood, HPE and MRI Findings, and Supportive Treatment",
+      "guide": "Most myocarditis is subclinical (p335). Unexplained tachycardia/hypotension after febrile infection can present with chest pain/angina despite normal coronaries or exertional dyspnea; refractory hypotension in infection and new-onset HF are poor-prognosis markers, while giant-cell myocarditis with rapidly progressive HF is linked to sarcoidosis.\nECHO shows global/LV dysfunction, ECG non-specific ST/T changes with low-voltage QRS and sinus tachycardia, blood shows troponin I elevation, HPE uses Dallas criteria and the MRI caption marks peripheral enhancement.\nTreatment is no specific therapy, supportive care and steroids only for autoimmune disease.",
+      "qs": [
+        "MED-C55-40",
+        "MED-C55-41",
+        "MED-C55-42",
+        "MED-C55-43",
+        "MED-C55-44",
+        "MED-C55-45",
+        "MED-C55-46",
+        "MED-C55-47",
+        "MED-C55-48"
+      ]
+    }
+  ]
+}

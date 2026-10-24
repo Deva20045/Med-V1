@@ -1,0 +1,917 @@
+{
+  "chapter": 51,
+  "title": "Aortic Stenosis",
+  "pageRange": "307-312",
+  "questions": [
+    {
+      "id": "MED-C51-01",
+      "sec": "Aortic Valve Anatomy, Cusp Number and Function, the Surface Area and Normal Systolic Physiology",
+      "page": 307,
+      "fmt": "recall",
+      "q": "Which three components are printed for the aortic valve?",
+      "opts": [
+        "Three unequal leaflets, two commissures and one fibrous annulus",
+        "Two leaflets, three commissures and two fibrous annuli",
+        "Three equal-sized leaflets, three papillary muscles and one fibrous annulus",
+        "Three equal-sized leaflets or cusps, three commissures and one fibrous annulus"
+      ],
+      "ans": 3,
+      "exp": "The anatomy list gives 3 leaflets (cusps of equal size), 3 commissures and 1 fibrous annulus. (Book p307)"
+    },
+    {
+      "id": "MED-C51-02",
+      "sec": "Aortic Valve Anatomy, Cusp Number and Function, the Surface Area and Normal Systolic Physiology",
+      "page": 307,
+      "fmt": "fillup",
+      "q": "The congenital cusp counts listed under the aortic valve are four cusps (quadricuspid), two cusps called ______, and one cusp (unicuspid).",
+      "opts": [
+        "unicommissural aortic valve",
+        "quadricuspid aortic valve",
+        "bicuspid aortic valve (BAV)",
+        "tricuspid aortic valve"
+      ],
+      "ans": 2,
+      "exp": "The list reads 4 cusps: quadricuspid; 2 cusps: bicuspid aortic valve (BAV); 1 cusp: unicuspid. (Book p307)"
+    },
+    {
+      "id": "MED-C51-03",
+      "sec": "Aortic Valve Anatomy, Cusp Number and Function, the Surface Area and Normal Systolic Physiology",
+      "page": 307,
+      "fmt": "match",
+      "q": "Match each congenital cusp count to its printed name — 1) Four cusps 2) Two cusps 3) One cusp … A) Unicuspid B) Quadricuspid C) Bicuspid aortic valve",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "The three arms are 4 cusps → quadricuspid, 2 cusps → BAV and 1 cusp → unicuspid. (Book p307)"
+    },
+    {
+      "id": "MED-C51-04",
+      "sec": "Aortic Valve Anatomy, Cusp Number and Function, the Surface Area and Normal Systolic Physiology",
+      "page": 307,
+      "fmt": "recall",
+      "q": "Which three functional features are printed beside the diagram of the cusps?",
+      "opts": [
+        "Circular, remain partly open in diastole and close loosely to permit regurgitation",
+        "Triangular, open fully for turbulent flow and close tightly to cause stenosis",
+        "Crescent shaped, close fully in systole and open only in diastole",
+        "Crescent shaped, open fully for unimpeded flow and close tightly to prevent regurgitation"
+      ],
+      "ans": 3,
+      "exp": "The cusp bullets read crescent shaped, open fully to allow unimpeded flow and close tightly to prevent regurgitation. (Book p307)"
+    },
+    {
+      "id": "MED-C51-05",
+      "sec": "Aortic Valve Anatomy, Cusp Number and Function, the Surface Area and Normal Systolic Physiology",
+      "page": 307,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one statement reverses the printed relation between cusp number and valve lesion.",
+      "opts": [
+        "As the number of cusps falls, stenosis increases",
+        "As the number of cusps falls, regurgitation decreases",
+        "As the number of cusps increases, stenosis rises while regurgitation falls",
+        "A bicuspid aortic valve produces stenosis more often than regurgitation"
+      ],
+      "ans": 2,
+      "exp": "The line says fewer cusps mean increased stenosis but decreased regurgitation; BAV gives stenosis (75%) more than regurgitation (20–25%). (Book p307)"
+    },
+    {
+      "id": "MED-C51-06",
+      "sec": "Aortic Valve Anatomy, Cusp Number and Function, the Surface Area and Normal Systolic Physiology",
+      "page": 307,
+      "fmt": "numeric",
+      "q": "What surface area is printed for the aortic valve?",
+      "opts": [
+        "2–3 cm²",
+        "1–2 cm²",
+        "4–5 cm²",
+        "3–4 cm²"
+      ],
+      "ans": 3,
+      "exp": "The anatomy note prints 'Surface area of valve: 3–4 cm²'. (Book p307)"
+    },
+    {
+      "id": "MED-C51-07",
+      "sec": "Aortic Valve Anatomy, Cusp Number and Function, the Surface Area and Normal Systolic Physiology",
+      "page": 307,
+      "fmt": "recall",
+      "q": "Which set of labels is printed around the normal aortic valve in the open-position figure?",
+      "opts": [
+        "Commissure, left coronary artery, left coronary orifice, right coronary orifice and right coronary artery",
+        "Commissure, left coronary vein, right coronary orifice and pulmonary artery",
+        "Commissure, left coronary artery, right coronary artery and pulmonary artery",
+        "Fibrous annulus, left coronary orifice, right coronary artery and mitral valve"
+      ],
+      "ans": 0,
+      "exp": "The open-position figure labels the commissure, left coronary artery, left coronary orifice, right coronary orifice and right coronary artery. (Book p307)"
+    },
+    {
+      "id": "MED-C51-08",
+      "sec": "Aortic Valve Anatomy, Cusp Number and Function, the Surface Area and Normal Systolic Physiology",
+      "page": 307,
+      "fmt": "scenario",
+      "q": "During a normal ventricular systole, LVP and aortic pressure are both 120 mmHg and the aortic valve opens completely. What follows from that printed physiology?",
+      "opts": [
+        "Rapid ejection immediately fails",
+        "There is no transvalvular gradient",
+        "Pulmonary valve remains closed",
+        "A 40 mmHg mean gradient is generated"
+      ],
+      "ans": 1,
+      "exp": "The page pairs LVP 120 mmHg with aortic pressure 120 mmHg and states there is no gradient as the aortic valve opens completely. (Book p307)"
+    },
+    {
+      "id": "MED-C51-09",
+      "sec": "Aortic Valve Anatomy, Cusp Number and Function, the Surface Area and Normal Systolic Physiology",
+      "page": 307,
+      "fmt": "recall",
+      "q": "Which sequence is printed under physiology in ventricular systole?",
+      "opts": [
+        "Isovolumetric contraction → aortic and pulmonary valves open → rapid ejection → reduced ejection",
+        "Isovolumetric relaxation → aortic and pulmonary valves close → rapid filling → reduced filling",
+        "Isovolumetric contraction → mitral and tricuspid valves open → rapid ejection → reduced ejection",
+        "Aortic and pulmonary valves close → isovolumetric contraction → rapid filling → reduced filling"
+      ],
+      "ans": 0,
+      "exp": "The chain starts with IVC, then AV and PV open, followed by rapid and reduced ejection. (Book p307)"
+    },
+    {
+      "id": "MED-C51-10",
+      "sec": "The Aortic-Sclerosis-to-Stenosis Pathogenesis Chain, Rheumatic Valve Combinations, Demographic Notes, Specimen Captions and Etiology",
+      "page": 308,
+      "fmt": "recall",
+      "q": "In the pathogenesis flow, what combines to produce aortic sclerosis?",
+      "opts": [
+        "A dilated aortic root plus wide pulse pressure",
+        "A bicuspid or tricuspid aortic valve plus a pathological process",
+        "A unicuspid valve plus congenital aortopathy",
+        "A rheumatic mitral valve plus atrial fibrillation"
+      ],
+      "ans": 1,
+      "exp": "The bracket joins bicuspid/tricuspid aortic valve with pathological process and points to aortic sclerosis. (Book p308)"
+    },
+    {
+      "id": "MED-C51-11",
+      "sec": "The Aortic-Sclerosis-to-Stenosis Pathogenesis Chain, Rheumatic Valve Combinations, Demographic Notes, Specimen Captions and Etiology",
+      "page": 308,
+      "fmt": "match",
+      "q": "Match each pathological step to its place in the page-308 process — 1) Inflammation and lipoprotein deposition 2) RAAS activation with myofibroblast-to-osteoblast change and calcium hydroxyapatite deposition 3) Aortic sclerosis plus a transvalvular gradient … A) Aortic stenosis with symptoms B) Atherosclerotic process C) Early pathological process",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Inflammation/lipoprotein deposition opens the pathological list; RAAS, osteoblast change and hydroxyapatite deposition are bracketed under the atherosclerotic process; adding a gradient to aortic sclerosis yields stenosis and symptoms. (Book p308)"
+    },
+    {
+      "id": "MED-C51-12",
+      "sec": "The Aortic-Sclerosis-to-Stenosis Pathogenesis Chain, Rheumatic Valve Combinations, Demographic Notes, Specimen Captions and Etiology",
+      "page": 308,
+      "fmt": "fillup",
+      "q": "The printed transition from a sclerotic valve to symptomatic disease requires development of a ______.",
+      "opts": [
+        "coronary angiogram",
+        "transvalvular gradient",
+        "rheumatic combination",
+        "wide pulse pressure"
+      ],
+      "ans": 1,
+      "exp": "The line reads 'Aortic sclerosis + development of transvalvular gradient → Aortic stenosis → Symptoms'. (Book p308)"
+    },
+    {
+      "id": "MED-C51-13",
+      "sec": "The Aortic-Sclerosis-to-Stenosis Pathogenesis Chain, Rheumatic Valve Combinations, Demographic Notes, Specimen Captions and Etiology",
+      "page": 308,
+      "fmt": "match",
+      "q": "Match each rheumatic valve-disease combination to its printed rank — 1) MS + MR 2) MS + AR 3) AR + AS … A) Second most common B) Most common C) Third listed, without a rank",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 2,
+      "exp": "The list marks MS + MR m/c, MS + AR 2nd m/c and then adds AR + AS. (Book p308)"
+    },
+    {
+      "id": "MED-C51-14",
+      "sec": "The Aortic-Sclerosis-to-Stenosis Pathogenesis Chain, Rheumatic Valve Combinations, Demographic Notes, Specimen Captions and Etiology",
+      "page": 308,
+      "fmt": "numeric",
+      "q": "Which demographic percentages appear on page 308?",
+      "opts": [
+        "80% of elderly have sclerosis; 30% are male",
+        "30% of all patients need replacement; 80% have rheumatic disease",
+        "30% of elderly have sclerosis not severe enough to cause stenosis; 80% of patients are male",
+        "30% of elderly have severe stenosis; 80% are female"
+      ],
+      "ans": 2,
+      "exp": "The two bullets read 30% elderly have sclerosis not severe to cause stenosis and 80% are male patients. (Book p308)"
+    },
+    {
+      "id": "MED-C51-15",
+      "sec": "The Aortic-Sclerosis-to-Stenosis Pathogenesis Chain, Rheumatic Valve Combinations, Demographic Notes, Specimen Captions and Etiology",
+      "page": 308,
+      "fmt": "management",
+      "q": "What investigation is described as mandatory for every patient with AS who is undergoing valve replacement?",
+      "opts": [
+        "CT aortogram",
+        "Peripheral angiogram",
+        "Coronary angiogram",
+        "Dobutamine stress echo"
+      ],
+      "ans": 2,
+      "exp": "The bullet states all patients with AS undergoing valve replacement need a mandatory coronary angiogram. (Book p308)"
+    },
+    {
+      "id": "MED-C51-16",
+      "sec": "The Aortic-Sclerosis-to-Stenosis Pathogenesis Chain, Rheumatic Valve Combinations, Demographic Notes, Specimen Captions and Etiology",
+      "page": 308,
+      "fmt": "recall",
+      "q": "Which specimen captions are printed beneath the three valve photographs/diagram?",
+      "opts": [
+        "TAV showing myxomatous degeneration; right cusp fused; BAV with prolapse",
+        "BAV showing regurgitation; left and noncoronary cusps fused; TAV with normal commissures",
+        "BAV showing calcific stenosis; left and right cusps fused with calcified noncoronary cusp; TAV stenosis with calcified sclerotic tricuspid and fused commissures",
+        "Unicuspid stenosis; all commissures open; TAV with annular dilatation"
+      ],
+      "ans": 2,
+      "exp": "The captions describe BAV calcific stenosis, L and R cusp fusion with a calcified noncoronary cusp (N), and TAV stenosis with a calcified sclerotic tricuspid valve and fused commissures. (Book p308)"
+    },
+    {
+      "id": "MED-C51-17",
+      "sec": "The Aortic-Sclerosis-to-Stenosis Pathogenesis Chain, Rheumatic Valve Combinations, Demographic Notes, Specimen Captions and Etiology",
+      "page": 308,
+      "fmt": "recall",
+      "q": "What are the printed most-common cause of AS worldwide, in the young, and among all valvular pathology and all valvular heart disease worldwide?",
+      "opts": [
+        "BAV worldwide; degenerative calcification in the young; AS; MR",
+        "Degenerative calcification; rheumatic AS; MR; aortic sclerosis",
+        "Rheumatic AS; BAV in the elderly; aortic regurgitation; MS",
+        "Degenerative calcification; BAV in the young; aortic sclerosis; MR"
+      ],
+      "ans": 3,
+      "exp": "The etiology lines give worldwide AS cause degenerative calcification, young AS cause BAV, m/c valvular pathology worldwide aortic sclerosis and m/c valvular heart disease worldwide MR, with rheumatic AS less common. (Book p308)"
+    },
+    {
+      "id": "MED-C51-18",
+      "sec": "The Aortic-Sclerosis-to-Stenosis Pathogenesis Chain, Rheumatic Valve Combinations, Demographic Notes, Specimen Captions and Etiology",
+      "page": 308,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the aetiology lines on page 308.",
+      "opts": [
+        "True — rheumatic AS is printed as less common",
+        "False — BAV is the commonest cause in elderly patients",
+        "False — aortic sclerosis is the commonest valvular heart disease worldwide",
+        "True — rheumatic AS is the commonest cause worldwide"
+      ],
+      "ans": 0,
+      "exp": "The page labels rheumatic AS less common; degenerative calcification leads worldwide AS, BAV leads in the young, aortic sclerosis is the commonest valvular pathology and MR the commonest valvular heart disease. (Book p308)"
+    },
+    {
+      "id": "MED-C51-19",
+      "sec": "Bicuspid Aortic Valve Genetics and Aortopathy, Location-Based Types, Severity-Based Types and the 40/4/1 Rule",
+      "page": 309,
+      "fmt": "fillup",
+      "q": "BAV is the most common congenital valve defect and is linked on page 309 to a NOTCH-1 gene defect producing an ______ enzyme defect.",
+      "opts": [
+        "RAAS",
+        "eNOS",
+        "Sokolov–Lyon",
+        "hydroxyapatite"
+      ],
+      "ans": 1,
+      "exp": "The top line reads NOTCH-1 gene defect → eNOS enzyme defect. (Book p309)"
+    },
+    {
+      "id": "MED-C51-20",
+      "sec": "Bicuspid Aortic Valve Genetics and Aortopathy, Location-Based Types, Severity-Based Types and the 40/4/1 Rule",
+      "page": 309,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about BAV as printed at the top of page 309.",
+      "opts": [
+        "False — BAV is acquired only after rheumatic fever",
+        "True — BAV is more frequent in females and is X-linked recessive",
+        "False — BAV has no association with aortopathies",
+        "True — BAV is more frequent in males than females and is autosomal dominant"
+      ],
+      "ans": 3,
+      "exp": "The bullets print M > F, autosomal dominant and association with aortopathies such as aneurysm and dissection. (Book p309)"
+    },
+    {
+      "id": "MED-C51-21",
+      "sec": "Bicuspid Aortic Valve Genetics and Aortopathy, Location-Based Types, Severity-Based Types and the 40/4/1 Rule",
+      "page": 309,
+      "fmt": "management",
+      "q": "Because BAV is associated with aortopathies, what scan is printed as mandatory before valve replacement?",
+      "opts": [
+        "Coronary angiogram",
+        "Carotid Doppler",
+        "Dobutamine stress echo",
+        "CT aortogram"
+      ],
+      "ans": 3,
+      "exp": "Under aortopathies (aneurysm, dissection), the page marks a mandatory CT aortogram before valve replacement. (Book p309)"
+    },
+    {
+      "id": "MED-C51-22",
+      "sec": "Bicuspid Aortic Valve Genetics and Aortopathy, Location-Based Types, Severity-Based Types and the 40/4/1 Rule",
+      "page": 309,
+      "fmt": "match",
+      "q": "Match each location-based AS type to its association — 1) Valvular AS 2) Subvalvular AS 3) Supravalvular AS … A) Williams syndrome with increased calcium, growth failure and mental retardation B) Hypertrophic cardiomyopathy C) No separate association printed",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 0,
+      "exp": "The location tree lists valvular AS with no association, subvalvular AS with HCM and supravalvular AS with Williams syndrome and the triad in the parenthesis. (Book p309)"
+    },
+    {
+      "id": "MED-C51-23",
+      "sec": "Bicuspid Aortic Valve Genetics and Aortopathy, Location-Based Types, Severity-Based Types and the 40/4/1 Rule",
+      "page": 309,
+      "fmt": "recall",
+      "q": "How do mild and moderate AS remain symptom-free in the severity flowchart?",
+      "opts": [
+        "By concentric LV hypertrophy that maintains cardiac output at the expense of cavity size",
+        "By complete loss of the transvalvular gradient",
+        "By a fall in LVP to 60 mmHg",
+        "By eccentric hypertrophy with progressive dilatation"
+      ],
+      "ans": 0,
+      "exp": "The bracket under mild/moderate reads no symptoms due to LV concentric hypertrophy, which maintains cardiac output at the expense of cavity size. (Book p309)"
+    },
+    {
+      "id": "MED-C51-24",
+      "sec": "Bicuspid Aortic Valve Genetics and Aortopathy, Location-Based Types, Severity-Based Types and the 40/4/1 Rule",
+      "page": 309,
+      "fmt": "numeric",
+      "q": "What is the complete 40/4/1 rule printed for severe AS?",
+      "opts": [
+        "Mean gradient >40 mmHg, peak velocity <4 m/s and area >1 cm²",
+        "Mean gradient >60 mmHg, peak velocity >5 m/s and area <0.5 cm²",
+        "Mean gradient >40 mmHg, peak velocity >4 m/s and valve surface area <1 cm²",
+        "Mean gradient >4 mmHg, peak velocity >40 m/s and area <1 cm²"
+      ],
+      "ans": 2,
+      "exp": "The three values are >40 mmHg, >4 m/s and <1 cm². (Book p309)"
+    },
+    {
+      "id": "MED-C51-25",
+      "sec": "Bicuspid Aortic Valve Genetics and Aortopathy, Location-Based Types, Severity-Based Types and the 40/4/1 Rule",
+      "page": 309,
+      "fmt": "scenario",
+      "q": "A patient has symptomatic severe AS, a 1% sudden-cardiac-death risk and meets the 40/4/1 values. What does the severity branch say is needed?",
+      "opts": [
+        "Long-term anticoagulation alone",
+        "Immediate pericardiectomy",
+        "Only yearly reassessment",
+        "Aortic valve replacement"
+      ],
+      "ans": 3,
+      "exp": "Under severe AS the page prints 1% sudden-cardiac-death risk, symptoms present and aortic valve replacement needed. (Book p309)"
+    },
+    {
+      "id": "MED-C51-26",
+      "sec": "Bicuspid Aortic Valve Genetics and Aortopathy, Location-Based Types, Severity-Based Types and the 40/4/1 Rule",
+      "page": 309,
+      "fmt": "recall",
+      "q": "Which two outcomes are printed under very severe AS?",
+      "opts": [
+        "LV failure and a bad prognosis",
+        "Wide pulse pressure and nocturnal angina",
+        "No symptoms and negligible mortality",
+        "Normal cavity size and improved output"
+      ],
+      "ans": 0,
+      "exp": "The very severe branch reads LV failure and bad prognosis. (Book p309)"
+    },
+    {
+      "id": "MED-C51-27",
+      "sec": "Bicuspid Aortic Valve Genetics and Aortopathy, Location-Based Types, Severity-Based Types and the 40/4/1 Rule",
+      "page": 309,
+      "fmt": "fillup",
+      "q": "The handwritten explanation says a transvalvular gradient exists because a stenotic aortic valve does not ______.",
+      "opts": [
+        "close tightly in diastole",
+        "produce three commissures",
+        "calcify uniformly",
+        "open completely"
+      ],
+      "ans": 3,
+      "exp": "The note at the foot of the page says the AV fails to open completely or, in shorthand, a stenotic valve doesn't open completely. (Book p309)"
+    },
+    {
+      "id": "MED-C51-28",
+      "sec": "The ASD 5/3/1 Symptom Clock, Angina, Syncope and Dyspnea Mechanisms, Association Notes, Pulse, Blood Pressure, JVP and Apex",
+      "page": 310,
+      "fmt": "match",
+      "q": "Match the ASD symptom mnemonic to the printed valve-replacement interval — 1) Angina 2) Syncope 3) Dyspnea … A) 3 years B) 5 years C) 1 year",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 3,
+      "exp": "The branches label angina 5 years, syncope 3 years and dyspnea 1 year under 'valve should be replaced within'. (Book p310)"
+    },
+    {
+      "id": "MED-C51-29",
+      "sec": "The ASD 5/3/1 Symptom Clock, Angina, Syncope and Dyspnea Mechanisms, Association Notes, Pulse, Blood Pressure, JVP and Apex",
+      "page": 310,
+      "fmt": "recall",
+      "q": "Which three mechanisms are printed for angina in AS?",
+      "opts": [
+        "Fixed cardiac output, pulmonary edema and atrial fibrillation",
+        "Wide pulse pressure, aortic run-off and nocturnal bradycardia",
+        "Valve calcification, coronary spasm and right-heart failure",
+        "LVH increases LV mass and oxygen demand; coronary blood flow falls with atherosclerosis; capillary density falls relative to wall thickness"
+      ],
+      "ans": 3,
+      "exp": "The angina arm lists increased oxygen demand from LV mass, decreased coronary flow associated with atherosclerosis and reduced capillary density relative to wall thickness. (Book p310)"
+    },
+    {
+      "id": "MED-C51-30",
+      "sec": "The ASD 5/3/1 Symptom Clock, Angina, Syncope and Dyspnea Mechanisms, Association Notes, Pulse, Blood Pressure, JVP and Apex",
+      "page": 310,
+      "fmt": "fillup",
+      "q": "Syncope in AS is attributed to a fixed cardiac output that does not increase with ______.",
+      "opts": [
+        "activity",
+        "rest",
+        "diuresis",
+        "expiration"
+      ],
+      "ans": 0,
+      "exp": "The syncope branch reads fixed CO that does not increase with activity. (Book p310)"
+    },
+    {
+      "id": "MED-C51-31",
+      "sec": "The ASD 5/3/1 Symptom Clock, Angina, Syncope and Dyspnea Mechanisms, Association Notes, Pulse, Blood Pressure, JVP and Apex",
+      "page": 310,
+      "fmt": "scenario",
+      "q": "A patient's concentric LVH has reduced cavity size; LVEDP, LAP and PCWP rise and dyspnea follows. Which AS symptom chain is this?",
+      "opts": [
+        "The angina arm from capillary density to coronary flow",
+        "The dyspnea arm from concentric LVH to pulmonary exudation",
+        "The syncope arm from fixed CO to exertion",
+        "The Heyde syndrome arm from angiodysplasia to bleeding"
+      ],
+      "ans": 1,
+      "exp": "The dyspnea chain is concentric LVH → decreased cavity size → raised LVEDP, LAP and PCWP → dyspnea. (Book p310)"
+    },
+    {
+      "id": "MED-C51-32",
+      "sec": "The ASD 5/3/1 Symptom Clock, Angina, Syncope and Dyspnea Mechanisms, Association Notes, Pulse, Blood Pressure, JVP and Apex",
+      "page": 310,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the AS association note.",
+      "opts": [
+        "True — atrial fibrillation is called fatal because with raised LVEDP the atria contribute 40% of cardiac output",
+        "False — LV failure corresponds to mild AS",
+        "False — complete loss of gradient is called high-flow high-gradient AS",
+        "True — systemic hypertension should be left untreated so it does not mask severity"
+      ],
+      "ans": 0,
+      "exp": "The note calls AF fatal with raised LVEDP and 40% atrial contribution, says HTN masks severity and must be tightly controlled, links LV failure to very severe AS and complete gradient loss to low-flow low-gradient AS. (Book p310)"
+    },
+    {
+      "id": "MED-C51-33",
+      "sec": "The ASD 5/3/1 Symptom Clock, Angina, Syncope and Dyspnea Mechanisms, Association Notes, Pulse, Blood Pressure, JVP and Apex",
+      "page": 310,
+      "fmt": "recall",
+      "q": "Which two additional associations complete the note box on page 310?",
+      "opts": [
+        "Heyde syndrome (colonic angiodysplasia + AS) and acquired von Willebrand disease caused by AS",
+        "Cogan syndrome and root disease",
+        "William syndrome and supravalvular AS",
+        "Lincoln sign and nocturnal angina"
+      ],
+      "ans": 0,
+      "exp": "The final bullets read Heyde's syndrome: angiodysplasia of colon + AS, and AS is a cause for acquired von Willebrand disease. (Book p310)"
+    },
+    {
+      "id": "MED-C51-34",
+      "sec": "The ASD 5/3/1 Symptom Clock, Angina, Syncope and Dyspnea Mechanisms, Association Notes, Pulse, Blood Pressure, JVP and Apex",
+      "page": 310,
+      "fmt": "match",
+      "q": "Match each pulse finding to its printed definition — 1) Severe AS 2) Very severe AS … A) Pulsus parvus et tardus; does not reach amplitude B) Pulsus tardus; slow rising but reaches desired amplitude",
+      "opts": [
+        "1-A, 2-A",
+        "1-B, 2-B",
+        "1-A, 2-B",
+        "1-B, 2-A"
+      ],
+      "ans": 3,
+      "exp": "Severe AS has pulsus tardus (slow rising but reaches desired amplitude), while very severe AS has pulsus parvus et tardus (does not reach amplitude). (Book p310)"
+    },
+    {
+      "id": "MED-C51-35",
+      "sec": "The ASD 5/3/1 Symptom Clock, Angina, Syncope and Dyspnea Mechanisms, Association Notes, Pulse, Blood Pressure, JVP and Apex",
+      "page": 310,
+      "fmt": "recall",
+      "q": "Which BP, JVP and apex findings are printed for advanced AS?",
+      "opts": [
+        "Very severe AS with LVF gives narrow pulse pressure; JVP is normal; apex is outward displaced because of LVH and is a high-amplitude sustained heaving apex",
+        "Normal pulse pressure; cannon waves; tapping apex",
+        "Wide pulse pressure; normal JVP; ill-sustained apex",
+        "Wide pulse pressure; raised JVP; hyperdynamic down-and-out apex"
+      ],
+      "ans": 0,
+      "exp": "The findings list narrow pulse pressure from very severe AS with LVF, normal JVP, and an outward-displaced, high-amplitude sustained or heaving apex due to LVH. (Book p310)"
+    },
+    {
+      "id": "MED-C51-36",
+      "sec": "The ASD 5/3/1 Symptom Clock, Angina, Syncope and Dyspnea Mechanisms, Association Notes, Pulse, Blood Pressure, JVP and Apex",
+      "page": 310,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one statement is not a page-310 AS finding or association.",
+      "opts": [
+        "Acquired von Willebrand disease in AS",
+        "Pulsus tardus in severe AS",
+        "Wide pulse pressure with prominent popliteal pulsations",
+        "Normal JVP"
+      ],
+      "ans": 2,
+      "exp": "Wide pulse pressure and the popliteal (Lincoln) sign belong to the later AR material; the other three are printed in AS. (Book p310)"
+    },
+    {
+      "id": "MED-C51-37",
+      "sec": "Heart Sounds and the Mixed-Frequency Murmur with Its Carotid and Apical Components, ECG, X-Ray and ECHO",
+      "page": 311,
+      "fmt": "match",
+      "q": "Match each heart-sound finding to its printed AS setting — 1) Ejection click 2) Soft S2 3) Loud S2 4) Reverse split S2 … A) Severe AS with late A2 B) Degenerative pathology C) BAV pathology D) BAV",
+      "opts": [
+        "1-D, 2-C, 3-B, 4-A",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-B, 3-C, 4-A",
+        "1-C, 2-B, 3-D, 4-A"
+      ],
+      "ans": 2,
+      "exp": "The page gives S1 ejection click in BAV, degenerative pathology soft S2, BAV pathology loud S2 and severe AS reverse split S2 (late A2). (Book p311)"
+    },
+    {
+      "id": "MED-C51-38",
+      "sec": "Heart Sounds and the Mixed-Frequency Murmur with Its Carotid and Apical Components, ECG, X-Ray and ECHO",
+      "page": 311,
+      "fmt": "recall",
+      "q": "Which two added sounds are printed beneath the heart-sound list?",
+      "opts": [
+        "S2 and a mid-diastolic rumble",
+        "S3 from LVH/LVF and S4",
+        "Tumour plop and ejection click only",
+        "Opening snap and pericardial knock"
+      ],
+      "ans": 1,
+      "exp": "The lines read S3 present due to LVH/LVF and S4 present. (Book p311)"
+    },
+    {
+      "id": "MED-C51-39",
+      "sec": "Heart Sounds and the Mixed-Frequency Murmur with Its Carotid and Apical Components, ECG, X-Ray and ECHO",
+      "page": 311,
+      "fmt": "fillup",
+      "q": "The harsh mixed-frequency ejection systolic murmur has late systolic ______, which helps distinguish it from an innocent ESM.",
+      "opts": [
+        "diastolic continuation",
+        "presystolic silence",
+        "accentuation",
+        "decrescendo"
+      ],
+      "ans": 2,
+      "exp": "The murmur line reads harsh mixed frequency ESM with late systolic accentuation, helping differentiate from innocent ESM. (Book p311)"
+    },
+    {
+      "id": "MED-C51-40",
+      "sec": "Heart Sounds and the Mixed-Frequency Murmur with Its Carotid and Apical Components, ECG, X-Ray and ECHO",
+      "page": 311,
+      "fmt": "match",
+      "q": "Match each murmur component to its printed radiation — 1) Low-pitch component 2) High-pitch component … A) Apex (Gallavardin phenomenon) B) Carotid",
+      "opts": [
+        "1-A, 2-B",
+        "1-B, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A"
+      ],
+      "ans": 2,
+      "exp": "Low pitch radiates to the carotid; high pitch radiates to the apex as the Gallavardin phenomenon. (Book p311)"
+    },
+    {
+      "id": "MED-C51-41",
+      "sec": "Heart Sounds and the Mixed-Frequency Murmur with Its Carotid and Apical Components, ECG, X-Ray and ECHO",
+      "page": 311,
+      "fmt": "numeric",
+      "q": "What threshold is printed in the Sokolov–Lyon criterion for the LV strain pattern?",
+      "opts": [
+        "V5/V6 R wave + V1/V5 S wave >35 mm",
+        "V5/V6 R wave + V1/V5 S wave >55 mm",
+        "V5/V6 R wave + V1/V5 S wave <15 mm",
+        "V1/V2 R wave + V5/V6 S wave >35 mm"
+      ],
+      "ans": 0,
+      "exp": "The ECG criterion is printed as V5/V6 R wave + V1/V5 S wave >35 mm. (Book p311)"
+    },
+    {
+      "id": "MED-C51-42",
+      "sec": "Heart Sounds and the Mixed-Frequency Murmur with Its Carotid and Apical Components, ECG, X-Ray and ECHO",
+      "page": 311,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the page-311 investigations.",
+      "opts": [
+        "False — the X-ray shows a narrow aortic arch in AS",
+        "True — the ECG strain pattern has no much ST depression and asymmetric T inversion",
+        "False — the ECG criterion is below 10 mm",
+        "True — ECHO is only a screening test, not the definitive diagnosis"
+      ],
+      "ans": 1,
+      "exp": "The ECG bullets say no much ST depression and asymmetric T inversion; the X-ray caption shows a dilated aortic arch and ECHO is the definitive diagnosis and assesses severity. (Book p311)"
+    },
+    {
+      "id": "MED-C51-43",
+      "sec": "Heart Sounds and the Mixed-Frequency Murmur with Its Carotid and Apical Components, ECG, X-Ray and ECHO",
+      "page": 311,
+      "fmt": "scenario",
+      "q": "A clinician needs one test both to establish the diagnosis and grade severity in a patient with suspected AS. Which test does page 311 specify?",
+      "opts": [
+        "Coronary angiogram",
+        "ECHO",
+        "ECG",
+        "Chest X-ray"
+      ],
+      "ans": 1,
+      "exp": "The closing line names ECHO for definitive diagnosis and to assess severity of AS. (Book p311)"
+    },
+    {
+      "id": "MED-C51-44",
+      "sec": "Heart Sounds and the Mixed-Frequency Murmur with Its Carotid and Apical Components, ECG, X-Ray and ECHO",
+      "page": 311,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one statement conflicts with the printed AS murmur description.",
+      "opts": [
+        "It is a harsh mixed-frequency ejection systolic murmur",
+        "It has late systolic accentuation",
+        "It is best heard in the aortic area",
+        "It is best heard with the bell at the apex in expiration"
+      ],
+      "ans": 3,
+      "exp": "The AS murmur is mixed-frequency and harsh, with late systolic accentuation and best heard in the aortic area; the bell/apex/expiration language is not its printed description. (Book p311)"
+    },
+    {
+      "id": "MED-C51-45",
+      "sec": "Aortic Valve Replacement and Its Indications, Dobutamine Stress Testing, Disadvantages, TAVR and the Two Transcatheter Valves",
+      "page": 312,
+      "fmt": "recall",
+      "q": "Why is a bioprosthetic valve said to be used commonly for AVR?",
+      "opts": [
+        "It grows with younger patients and never degenerates",
+        "It is the least costly option and requires no cardiologist",
+        "It has fewer complications and no need to continue anticoagulants",
+        "It avoids both surgery and coronary angiography"
+      ],
+      "ans": 2,
+      "exp": "The line reads bioprosthetic valve used commonly: less complication and no need to continue anticoagulants. (Book p312)"
+    },
+    {
+      "id": "MED-C51-46",
+      "sec": "Aortic Valve Replacement and Its Indications, Dobutamine Stress Testing, Disadvantages, TAVR and the Two Transcatheter Valves",
+      "page": 312,
+      "fmt": "management",
+      "q": "Which first indication for AVR is listed on page 312?",
+      "opts": [
+        "Moderate AS with normal yearly echo",
+        "Any aortic sclerosis in an elderly patient",
+        "Severe symptomatic AS",
+        "Mild asymptomatic AS"
+      ],
+      "ans": 2,
+      "exp": "Indication 1 is severe symptomatic AS. (Book p312)"
+    },
+    {
+      "id": "MED-C51-47",
+      "sec": "Aortic Valve Replacement and Its Indications, Dobutamine Stress Testing, Disadvantages, TAVR and the Two Transcatheter Valves",
+      "page": 312,
+      "fmt": "numeric",
+      "q": "Which three thresholds qualify a patient with severe asymptomatic AS for AVR?",
+      "opts": [
+        "LV ejection fraction <50%, gradient >60 mmHg and peak flow ≥5 m/s",
+        "EF <70%, gradient >30 mmHg and peak flow ≥2 m/s",
+        "EF <55% or LVEDD ≥50%",
+        "EF <50%, gradient >40 mmHg and peak flow ≥4 m/s"
+      ],
+      "ans": 0,
+      "exp": "The three bullets are EF <50%, gradient >60 mmHg and peak flow ≥5 m/s; the 55/50 pair belongs to the later AR rule. (Book p312)"
+    },
+    {
+      "id": "MED-C51-48",
+      "sec": "Aortic Valve Replacement and Its Indications, Dobutamine Stress Testing, Disadvantages, TAVR and the Two Transcatheter Valves",
+      "page": 312,
+      "fmt": "scenario",
+      "q": "A severe-AS patient has no resting symptoms but becomes symptomatic during a dobutamine stress test. Why is that test printed as an AVR indication?",
+      "opts": [
+        "It reverses calcific stenosis before surgery",
+        "It distinguishes BAV from a tricuspid valve",
+        "It confirms that coronary angiography is unnecessary",
+        "It differentiates very severe AS from LV failure with incidental AS"
+      ],
+      "ans": 3,
+      "exp": "The fifth indication says symptomatic on dobutamine stress test, to differentiate very severe AS from LVF with incidental AS. (Book p312)"
+    },
+    {
+      "id": "MED-C51-49",
+      "sec": "Aortic Valve Replacement and Its Indications, Dobutamine Stress Testing, Disadvantages, TAVR and the Two Transcatheter Valves",
+      "page": 312,
+      "fmt": "recall",
+      "q": "Which two other AVR indications follow the severe asymptomatic criteria?",
+      "opts": [
+        "Rapid progression on yearly echo and undergoing any other procedure",
+        "A previous coronary angiogram and male sex",
+        "Development of wide pulse pressure and MR",
+        "Age below 30 and isolated aortic sclerosis"
+      ],
+      "ans": 0,
+      "exp": "Indications 3 and 4 are rapid progression on yearly echo and undergoing any other procedure. (Book p312)"
+    },
+    {
+      "id": "MED-C51-50",
+      "sec": "Aortic Valve Replacement and Its Indications, Dobutamine Stress Testing, Disadvantages, TAVR and the Two Transcatheter Valves",
+      "page": 312,
+      "fmt": "fillup",
+      "q": "The two disadvantages listed for AVR are more complications and difficulty getting ______ for elderly patients.",
+      "opts": [
+        "consent",
+        "fitness",
+        "a bioprosthetic valve",
+        "a CT aortogram"
+      ],
+      "ans": 1,
+      "exp": "The disadvantage bullets print more complications and difficult to get fitness for elderly patients. (Book p312)"
+    },
+    {
+      "id": "MED-C51-51",
+      "sec": "Aortic Valve Replacement and Its Indications, Dobutamine Stress Testing, Disadvantages, TAVR and the Two Transcatheter Valves",
+      "page": 312,
+      "fmt": "management",
+      "q": "When may TAVR be considered according to page 312?",
+      "opts": [
+        "Only for unicuspid valves",
+        "In place of all coronary angiograms",
+        "Only when AS is mild and symptom-free",
+        "When the patient is contraindicated for AVR"
+      ],
+      "ans": 3,
+      "exp": "The TAVR list ends 'Can be considered when c/I for AVR'. (Book p312)"
+    },
+    {
+      "id": "MED-C51-52",
+      "sec": "Aortic Valve Replacement and Its Indications, Dobutamine Stress Testing, Disadvantages, TAVR and the Two Transcatheter Valves",
+      "page": 312,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about TAVR as printed.",
+      "opts": [
+        "False — it can never be considered when AVR is contraindicated",
+        "True — it is done by a cardiologist trained in TAVR and is a costly procedure",
+        "True — it is cheaper and requires no specialist training",
+        "False — it is performed only with a mechanical valve"
+      ],
+      "ans": 1,
+      "exp": "The bullets say done by a cardiologist trained in TAVR, costly and considered when contraindicated for AVR. (Book p312)"
+    },
+    {
+      "id": "MED-C51-53",
+      "sec": "Aortic Valve Replacement and Its Indications, Dobutamine Stress Testing, Disadvantages, TAVR and the Two Transcatheter Valves",
+      "page": 312,
+      "fmt": "match",
+      "q": "Match the two illustrated transcatheter valves to their printed labels — 1) Upper valve 2) Lower valve … A) Self-expanding valve B) Balloon-expandable valve",
+      "opts": [
+        "1-A, 2-A",
+        "1-B, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-B"
+      ],
+      "ans": 2,
+      "exp": "The upper figure is captioned balloon-expandable valve and the lower figure self-expanding valve, under 'valves for TAVR'. (Book p312)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U51-1",
+      "ch": 51,
+      "n": 1,
+      "title": "Aortic Valve Anatomy, Cusp Number and Function, the Surface Area and Normal Systolic Physiology",
+      "sec": "Aortic Valve Anatomy, Cusp Number and Function, the Surface Area and Normal Systolic Physiology",
+      "guide": "The aortic valve has three equal cusps and three commissures around one fibrous annulus; its surface area is 3–4 cm² (p307).\nCusps are crescent shaped, open fully for unimpeded flow and close tightly against regurgitation; congenital counts are four (quadricuspid), two (BAV) or one (unicuspid), and fewer cusps favour stenosis over regurgitation, with BAV stenosis 75% against regurgitation 20–25%.\nNormal systole runs IVC → aortic and pulmonary valves open → rapid then reduced ejection; LVP and aortic pressure are each 120 mmHg, so a completely opening valve produces no gradient.",
+      "qs": [
+        "MED-C51-01",
+        "MED-C51-02",
+        "MED-C51-03",
+        "MED-C51-04",
+        "MED-C51-05",
+        "MED-C51-06",
+        "MED-C51-07",
+        "MED-C51-08",
+        "MED-C51-09"
+      ]
+    },
+    {
+      "id": "MED-U51-2",
+      "ch": 51,
+      "n": 2,
+      "title": "The Aortic-Sclerosis-to-Stenosis Pathogenesis Chain, Rheumatic Valve Combinations, Demographic Notes, Specimen Captions and Etiology",
+      "sec": "The Aortic-Sclerosis-to-Stenosis Pathogenesis Chain, Rheumatic Valve Combinations, Demographic Notes, Specimen Captions and Etiology",
+      "guide": "A bicuspid or tricuspid valve plus a pathological process gives aortic sclerosis; inflammation and lipoprotein deposition lead into the atherosclerotic process of RAAS activation, myofibroblast-to-osteoblast change and calcium hydroxyapatite deposition (p308).\nAdding a transvalvular gradient turns sclerosis into aortic stenosis and symptoms; rheumatic combinations are MS + MR (m/c), MS + AR (2nd m/c) and AR + AS, while 30% of elderly have non-severe sclerosis, 80% of patients are male and valve replacement requires coronary angiography.\nThe four captions cover BAV calcific stenosis, L/R cusp fusion with a calcified noncoronary cusp, TAV stenosis with fused commissures and the 1 cm scale; degenerative calcification is the worldwide AS cause, BAV in the young, aortic sclerosis the commonest valvular pathology and MR the commonest valvular heart disease, with rheumatic AS less common.",
+      "qs": [
+        "MED-C51-10",
+        "MED-C51-11",
+        "MED-C51-12",
+        "MED-C51-13",
+        "MED-C51-14",
+        "MED-C51-15",
+        "MED-C51-16",
+        "MED-C51-17",
+        "MED-C51-18"
+      ]
+    },
+    {
+      "id": "MED-U51-3",
+      "ch": 51,
+      "n": 3,
+      "title": "Bicuspid Aortic Valve Genetics and Aortopathy, Location-Based Types, Severity-Based Types and the 40/4/1 Rule",
+      "sec": "Bicuspid Aortic Valve Genetics and Aortopathy, Location-Based Types, Severity-Based Types and the 40/4/1 Rule",
+      "guide": "BAV is the commonest congenital valve defect, linked to NOTCH-1 and eNOS defects, M > F, autosomal dominant inheritance and aortopathies (aneurysm and dissection) requiring CT aortogram before valve replacement (p309).\nLocation types are valvular AS, subvalvular AS with HCM and supravalvular AS with Williams syndrome (increased calcium, growth failure and mental retardation); mild/moderate disease stays asymptomatic through concentric LVH that preserves cardiac output at the expense of cavity size.\nSevere AS has symptoms, a 1% sudden-death risk and needs valve replacement, with the 40/4/1 rule of mean gradient >40 mmHg, peak velocity >4 m/s and area <1 cm²; very severe AS gives LV failure and a bad prognosis, and the gradient exists because the stenotic valve does not open completely.",
+      "qs": [
+        "MED-C51-19",
+        "MED-C51-20",
+        "MED-C51-21",
+        "MED-C51-22",
+        "MED-C51-23",
+        "MED-C51-24",
+        "MED-C51-25",
+        "MED-C51-26",
+        "MED-C51-27"
+      ]
+    },
+    {
+      "id": "MED-U51-4",
+      "ch": 51,
+      "n": 4,
+      "title": "The ASD 5/3/1 Symptom Clock, Angina, Syncope and Dyspnea Mechanisms, Association Notes, Pulse, Blood Pressure, JVP and Apex",
+      "sec": "The ASD 5/3/1 Symptom Clock, Angina, Syncope and Dyspnea Mechanisms, Association Notes, Pulse, Blood Pressure, JVP and Apex",
+      "guide": "The ASD symptom clock prints angina 5 years, syncope 3 years and dyspnea 1 year for valve replacement (p310). Angina comes from increased LV mass/oxygen demand, reduced coronary flow with atherosclerosis and reduced capillary density relative to wall thickness; syncope is a fixed cardiac output that fails to rise with activity.\nDyspnea follows concentric LVH → smaller cavity → raised LVEDP/LAP/PCWP → pulmonary exudation. AF is called fatal because the atria contribute 40% of CO when LVEDP is high; systemic HTN masks severity and needs tight control; LV failure marks very severe AS and complete gradient loss is low-flow low-gradient AS; Heyde syndrome and acquired von Willebrand disease are added.\nSevere AS has pulsus tardus (slow rise but reaches amplitude) and very severe AS pulsus parvus et tardus (does not reach amplitude); LVF narrows pulse pressure, JVP remains normal and the LVH apex is displaced outward and heaving.",
+      "qs": [
+        "MED-C51-28",
+        "MED-C51-29",
+        "MED-C51-30",
+        "MED-C51-31",
+        "MED-C51-32",
+        "MED-C51-33",
+        "MED-C51-34",
+        "MED-C51-35",
+        "MED-C51-36"
+      ]
+    },
+    {
+      "id": "MED-U51-5",
+      "ch": 51,
+      "n": 5,
+      "title": "Heart Sounds and the Mixed-Frequency Murmur with Its Carotid and Apical Components, ECG, X-Ray and ECHO",
+      "sec": "Heart Sounds and the Mixed-Frequency Murmur with Its Carotid and Apical Components, ECG, X-Ray and ECHO",
+      "guide": "Heart sounds on p311 include an ejection click in BAV, soft S2 in degenerative disease, loud S2 in BAV and reverse-split S2 (late A2) in severe AS, with S3 from LVH/LVF and S4 present.\nThe murmur is a harsh mixed-frequency ejection systolic murmur with late systolic accentuation that separates it from an innocent ESM; its low-pitch component radiates to the carotid and its high-pitch component to the apex (Gallavardin phenomenon), and it is best heard in the aortic area.\nInvestigations show an LV strain pattern with Sokolov–Lyon >35 mm, not much ST depression and asymmetric T inversion on ECG, a dilated aortic arch on X-ray, and ECHO as the definitive test that also grades severity.",
+      "qs": [
+        "MED-C51-37",
+        "MED-C51-38",
+        "MED-C51-39",
+        "MED-C51-40",
+        "MED-C51-41",
+        "MED-C51-42",
+        "MED-C51-43",
+        "MED-C51-44"
+      ]
+    },
+    {
+      "id": "MED-U51-6",
+      "ch": 51,
+      "n": 6,
+      "title": "Aortic Valve Replacement and Its Indications, Dobutamine Stress Testing, Disadvantages, TAVR and the Two Transcatheter Valves",
+      "sec": "Aortic Valve Replacement and Its Indications, Dobutamine Stress Testing, Disadvantages, TAVR and the Two Transcatheter Valves",
+      "guide": "AVR commonly uses a bioprosthetic valve because it causes fewer complications and avoids continued anticoagulation (p312). Indications are severe symptomatic AS; severe asymptomatic AS with EF <50%, gradient >60 mmHg or peak flow ≥5 m/s; rapid progression on yearly echo; another planned procedure; or symptoms on a dobutamine stress test that separates very severe AS from LVF with incidental AS.\nAVR disadvantages are more complications and difficulty obtaining fitness in elderly patients. TAVR is performed by a trained cardiologist, is costly and can be considered when AVR is contraindicated; the illustrated valve types are balloon-expandable and self-expanding.",
+      "qs": [
+        "MED-C51-45",
+        "MED-C51-46",
+        "MED-C51-47",
+        "MED-C51-48",
+        "MED-C51-49",
+        "MED-C51-50",
+        "MED-C51-51",
+        "MED-C51-52",
+        "MED-C51-53"
+      ]
+    }
+  ]
+}

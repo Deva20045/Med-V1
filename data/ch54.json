@@ -1,0 +1,795 @@
+{
+  "chapter": 54,
+  "title": "Acute Decompensated Heart Failure",
+  "pageRange": "326-330",
+  "questions": [
+    {
+      "id": "MED-C54-01",
+      "sec": "The 80/20 ADHF Split, Eight Risk Factors, Four Clinical Classes and Mild-to-Moderate ADHF",
+      "page": 326,
+      "fmt": "numeric",
+      "q": "How does the opening ADHF branch divide prior versus de-novo disease?",
+      "opts": [
+        "80% prior heart failure (HFrEF/HFpEF, NYHA 1/2) and 20% de-novo heart failure",
+        "50% prior and 50% de-novo",
+        "70% prior and 30% de-novo",
+        "20% prior and 80% de-novo"
+      ],
+      "ans": 0,
+      "exp": "The branch prints 80% prior HF with HFrEF/HFpEF and NYHA 1/2, and 20% de-novo HF. (Book p326)"
+    },
+    {
+      "id": "MED-C54-02",
+      "sec": "The 80/20 ADHF Split, Eight Risk Factors, Four Clinical Classes and Mild-to-Moderate ADHF",
+      "page": 326,
+      "fmt": "match",
+      "q": "Match the eight risk factors in printed order — 1) First 2) Second 3) Third 4) Fourth 5) Fifth 6) Sixth 7) Seventh 8) Eighth … A) Uncontrolled hypertension B) Patient-related factors C) Pregnancy D) MI E) Infections (LRTI, IE) F) Anemia G) Atrial fibrillation H) Drugs (NSAIDs)",
+      "opts": [
+        "1-B, 2-F, 3-E, 4-H, 5-D, 6-G, 7-A, 8-C",
+        "1-E, 2-B, 3-F, 4-H, 5-D, 6-G, 7-A, 8-C",
+        "1-B, 2-E, 3-F, 4-D, 5-H, 6-G, 7-A, 8-C",
+        "1-B, 2-E, 3-F, 4-H, 5-D, 6-G, 7-A, 8-C"
+      ],
+      "ans": 3,
+      "exp": "The list is patient-related factors, infections, anemia, drugs, MI, AF, uncontrolled HTN and pregnancy. (Book p326)"
+    },
+    {
+      "id": "MED-C54-03",
+      "sec": "The 80/20 ADHF Split, Eight Risk Factors, Four Clinical Classes and Mild-to-Moderate ADHF",
+      "page": 326,
+      "fmt": "recall",
+      "q": "Which four classes of ADHF are printed?",
+      "opts": [
+        "Mild-to-moderate ADHF, hypertensive ADHF, ADHF with acute pulmonary edema and cardiogenic shock",
+        "HFrEF, HFmrEF, HFpEF and ADHF",
+        "Warm/dry, warm/wet, cold/dry and cold/wet",
+        "Acute AR, acute MR, myocarditis and Takotsubo"
+      ],
+      "ans": 0,
+      "exp": "The classification lists those four clinical presentations; the warm/cold quartet belongs to the later p328 flowchart. (Book p326)"
+    },
+    {
+      "id": "MED-C54-04",
+      "sec": "The 80/20 ADHF Split, Eight Risk Factors, Four Clinical Classes and Mild-to-Moderate ADHF",
+      "page": 326,
+      "fmt": "numeric",
+      "q": "How common is mild-to-moderate ADHF, and what underlying phenotype is printed?",
+      "opts": [
+        "It is the most common at 70% of ADHF and presents with underlying HFrEF",
+        "50% and underlying isolated RV failure",
+        "20% and no prior cardiomyopathy",
+        "30% and underlying HFpEF"
+      ],
+      "ans": 0,
+      "exp": "The first two lines under mild-to-moderate ADHF read m/c (70% of ADHF) and presents with underlying HFrEF. (Book p326)"
+    },
+    {
+      "id": "MED-C54-05",
+      "sec": "The 80/20 ADHF Split, Eight Risk Factors, Four Clinical Classes and Mild-to-Moderate ADHF",
+      "page": 326,
+      "fmt": "fillup",
+      "q": "Mild-to-moderate ADHF is precipitated by ______.",
+      "opts": [
+        "LRTI",
+        "aortic dissection",
+        "contrast allergy",
+        "pregnancy"
+      ],
+      "ans": 0,
+      "exp": "The third line names LRTI as the precipitant. (Book p326)"
+    },
+    {
+      "id": "MED-C54-06",
+      "sec": "The 80/20 ADHF Split, Eight Risk Factors, Four Clinical Classes and Mild-to-Moderate ADHF",
+      "page": 326,
+      "fmt": "recall",
+      "q": "Which right-sided congestive features are listed in mild-to-moderate ADHF?",
+      "opts": [
+        "Raised JVP, a tender enlarged liver and edema",
+        "Pulsus parvus et tardus, syncope and angina",
+        "Digital capillary pulsations and head nodding",
+        "Carotid and supraclavicular pulsations"
+      ],
+      "ans": 0,
+      "exp": "The branch from right-sided congestive symptoms lists ↑JVP, tender/enlarged liver and edema. (Book p326)"
+    },
+    {
+      "id": "MED-C54-07",
+      "sec": "The 80/20 ADHF Split, Eight Risk Factors, Four Clinical Classes and Mild-to-Moderate ADHF",
+      "page": 326,
+      "fmt": "match",
+      "q": "Match each O/E finding to its printed detail — 1) S3 2) Cardiomegaly 3) MR … A) Listed without a qualifier B) Possible due to annular dilatation C) Heart sound",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 1,
+      "exp": "The O/E bullets are S3 heart sound, cardiomegaly and MR (possible due to annular dilatation). (Book p326)"
+    },
+    {
+      "id": "MED-C54-08",
+      "sec": "The 80/20 ADHF Split, Eight Risk Factors, Four Clinical Classes and Mild-to-Moderate ADHF",
+      "page": 326,
+      "fmt": "scenario",
+      "q": "A patient with known HFrEF has progressive dyspnea after LRTI, raised JVP, tender hepatomegaly and edema, but no pulmonary edema or shock. Which ADHF class is this?",
+      "opts": [
+        "Hypertensive ADHF",
+        "Cardiogenic shock",
+        "Acute pulmonary edema with hypoperfusion",
+        "Mild-to-moderate ADHF"
+      ],
+      "ans": 3,
+      "exp": "The mild-to-moderate section specifies HFrEF, LRTI precipitation, right-sided congestion and absence of pulmonary edema/cardiogenic shock. (Book p326)"
+    },
+    {
+      "id": "MED-C54-09",
+      "sec": "The 80/20 ADHF Split, Eight Risk Factors, Four Clinical Classes and Mild-to-Moderate ADHF",
+      "page": 326,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one feature contradicts the p326 mild-to-moderate description.",
+      "opts": [
+        "MR may arise from annular dilatation",
+        "Cardiomegaly and S3 may be found",
+        "There is clear evidence of cardiogenic shock at rest",
+        "Progressive dyspnea is present"
+      ],
+      "ans": 2,
+      "exp": "The section explicitly says there is no evidence of pulmonary edema or cardiogenic shock. (Book p326)"
+    },
+    {
+      "id": "MED-C54-10",
+      "sec": "Oral Diuretics, Hypertensive ADHF and the Symptoms and Signs of Acute Pulmonary Edema",
+      "page": 327,
+      "fmt": "management",
+      "q": "Which oral diuretic and starting dose are printed for mild-to-moderate ADHF?",
+      "opts": [
+        "Spironolactone 25 mg",
+        "Torsemide 5–10 mg",
+        "Hydrochlorothiazide 50 mg",
+        "Furosemide 360 mg IV"
+      ],
+      "ans": 1,
+      "exp": "The management bullets read m/c used torsemide and starting dose 5–10 mg. (Book p327)"
+    },
+    {
+      "id": "MED-C54-11",
+      "sec": "Oral Diuretics, Hypertensive ADHF and the Symptoms and Signs of Acute Pulmonary Edema",
+      "page": 327,
+      "fmt": "recall",
+      "q": "Which demographic and underlying phenotype open the hypertensive-ADHF section?",
+      "opts": [
+        "Only children with congenital disease",
+        "Mostly males with underlying HFrEF",
+        "Mostly females with underlying HFpEF",
+        "Only postpartum women with DCMP"
+      ],
+      "ans": 2,
+      "exp": "The first two lines read m/c females and presents with underlying HFpEF. (Book p327)"
+    },
+    {
+      "id": "MED-C54-12",
+      "sec": "Oral Diuretics, Hypertensive ADHF and the Symptoms and Signs of Acute Pulmonary Edema",
+      "page": 327,
+      "fmt": "recall",
+      "q": "Which four clinical features are printed for hypertensive ADHF?",
+      "opts": [
+        "Wide pulse pressure, nocturnal angina and Lincoln sign",
+        "Pulsus bisferiens, LVOT gradient and S4",
+        "Cardiogenic shock, cold extremities, cyanosis and anuria",
+        "Progressive dyspnea, uncontrolled hypertension, no pulmonary edema/cardiogenic shock and diastolic-failure symptoms"
+      ],
+      "ans": 3,
+      "exp": "The four bullets list progressive dyspnoea, uncontrolled HTN, absence of pulmonary edema/cardiogenic shock and presence of diastolic failure symptoms. (Book p327)"
+    },
+    {
+      "id": "MED-C54-13",
+      "sec": "Oral Diuretics, Hypertensive ADHF and the Symptoms and Signs of Acute Pulmonary Edema",
+      "page": 327,
+      "fmt": "management",
+      "q": "What two-part management is printed for hypertensive ADHF?",
+      "opts": [
+        "Dobutamine and ECMO",
+        "IV diuretics and oral antihypertensives",
+        "Immediate cardiac transplant and ICD",
+        "NTG 5 µg/min and morphine"
+      ],
+      "ans": 1,
+      "exp": "The management list reads 1. IV diuretics and 2. oral antihypertensives. (Book p327)"
+    },
+    {
+      "id": "MED-C54-14",
+      "sec": "Oral Diuretics, Hypertensive ADHF and the Symptoms and Signs of Acute Pulmonary Edema",
+      "page": 327,
+      "fmt": "numeric",
+      "q": "Over what time span does breathlessness worsen in ADHF with acute pulmonary edema?",
+      "opts": [
+        "5–10 minutes",
+        "30 seconds",
+        "2–3 hours",
+        "60–90 minutes"
+      ],
+      "ans": 3,
+      "exp": "The first symptom bullet reads acute onset of breathlessness worsening over 60–90 mins. (Book p327)"
+    },
+    {
+      "id": "MED-C54-15",
+      "sec": "Oral Diuretics, Hypertensive ADHF and the Symptoms and Signs of Acute Pulmonary Edema",
+      "page": 327,
+      "fmt": "recall",
+      "q": "Which three remaining symptoms are printed under acute pulmonary edema?",
+      "opts": [
+        "Ascites, edema and tender hepatomegaly",
+        "The patient sits up and cannot lie down, gasps with air hunger and has diaphoresis",
+        "Hemoptysis alone, fever and night sweats",
+        "Syncope, angina and palpitations"
+      ],
+      "ans": 1,
+      "exp": "Those are the second through fourth symptom bullets. (Book p327)"
+    },
+    {
+      "id": "MED-C54-16",
+      "sec": "Oral Diuretics, Hypertensive ADHF and the Symptoms and Signs of Acute Pulmonary Edema",
+      "page": 327,
+      "fmt": "numeric",
+      "q": "Which threshold begins the signs list for acute pulmonary edema?",
+      "opts": [
+        "Fever >103°F",
+        "SBP >200 mmHg",
+        "Bradycardia <50 bpm",
+        "Tachypnea >30 bpm"
+      ],
+      "ans": 3,
+      "exp": "The first sign reads tachypnea (>30 bpm). (Book p327)"
+    },
+    {
+      "id": "MED-C54-17",
+      "sec": "Oral Diuretics, Hypertensive ADHF and the Symptoms and Signs of Acute Pulmonary Edema",
+      "page": 327,
+      "fmt": "recall",
+      "q": "Which three signs follow tachypnea?",
+      "opts": [
+        "Lighthouse sign, Traube sign and Duroziez sign",
+        "Abdominojugular reflux, ascites and splenomegaly",
+        "Hypertensive crisis, crepts over all lung fields and frothy sputum ± hemoptysis",
+        "Pulsus tardus, normal JVP and heaving apex"
+      ],
+      "ans": 2,
+      "exp": "The last three signs are hypertensive crisis, crepts over all lung fields and frothy sputum ± hemoptysis. (Book p327)"
+    },
+    {
+      "id": "MED-C54-18",
+      "sec": "Oral Diuretics, Hypertensive ADHF and the Symptoms and Signs of Acute Pulmonary Edema",
+      "page": 327,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the p327 acute pulmonary edema presentation.",
+      "opts": [
+        "False — bradycardia <30 bpm is the first sign",
+        "True — symptoms evolve over several weeks",
+        "False — the lungs are clear on auscultation",
+        "True — the patient is sitting up, cannot lie down, is gasping and diaphoretic"
+      ],
+      "ans": 3,
+      "exp": "The printed symptoms are 60–90-minute breathlessness, sitting up/cannot lie down, gasping and diaphoresis; signs include tachypnea >30 bpm and diffuse crepts. (Book p327)"
+    },
+    {
+      "id": "MED-C54-19",
+      "sec": "The Five Differential Diagnoses, Emergency Imaging, the Kerley-Line Table and the Perfusion–Congestion Flowchart",
+      "page": 328,
+      "fmt": "match",
+      "q": "Match the five differential diagnoses in printed order — 1) First 2) Second 3) Third 4) Fourth 5) Fifth … A) Bilateral renal-artery stenosis → flash pulmonary edema B) Acute coronary syndrome C) Takotsubo cardiomyopathy D) Acute AR/MR E) Myocarditis",
+      "opts": [
+        "1-B, 2-D, 3-E, 4-A, 5-C",
+        "1-D, 2-B, 3-E, 4-A, 5-C",
+        "1-B, 2-D, 3-A, 4-E, 5-C",
+        "1-B, 2-E, 3-D, 4-A, 5-C"
+      ],
+      "ans": 0,
+      "exp": "The list runs ACS, acute AR/MR, myocarditis, bilateral renal-artery stenosis with flash pulmonary edema and Takotsubo cardiomyopathy. (Book p328)"
+    },
+    {
+      "id": "MED-C54-20",
+      "sec": "The Five Differential Diagnoses, Emergency Imaging, the Kerley-Line Table and the Perfusion–Congestion Flowchart",
+      "page": 328,
+      "fmt": "recall",
+      "q": "Which details are printed under the acute AR/MR differential?",
+      "opts": [
+        "Acute MR due only to NSAIDs, followed by myocarditis",
+        "Acute AR due to aortic dissection, ruptured sinus of Valsalva or infective endocarditis, followed by acute MR",
+        "Acute AR due to BAV and coronary spasm, followed by MR in pregnancy",
+        "Chronic AR with wide pulse pressure, followed by tricuspid stenosis"
+      ],
+      "ans": 1,
+      "exp": "The branch lists acute AR (aortic dissection, ruptured sinus of Valsalva, infective endocarditis) and acute MR. (Book p328)"
+    },
+    {
+      "id": "MED-C54-21",
+      "sec": "The Five Differential Diagnoses, Emergency Imaging, the Kerley-Line Table and the Perfusion–Congestion Flowchart",
+      "page": 328,
+      "fmt": "fillup",
+      "q": "The fourth differential diagnosis links bilateral renal-artery stenosis to ______ pulmonary edema.",
+      "opts": [
+        "nocturnal",
+        "flash",
+        "bat-wing",
+        "interstitial"
+      ],
+      "ans": 1,
+      "exp": "The printed line reads bilateral renal artery stenosis → flash pulmonary edema. (Book p328)"
+    },
+    {
+      "id": "MED-C54-22",
+      "sec": "The Five Differential Diagnoses, Emergency Imaging, the Kerley-Line Table and the Perfusion–Congestion Flowchart",
+      "page": 328,
+      "fmt": "recall",
+      "q": "Which four imaging bullets accompany the chest-X-ray and CT figures?",
+      "opts": [
+        "ECHO is contraindicated; a halo sign is earliest; reversed bat wing appears; only Kerley D lines occur",
+        "CXR is not done in an emergency; bat-wing appearance indicates cardiopulmonary edema; cephalisation of pulmonary vessels is the earliest finding; it is associated with Kerley A/B/C lines",
+        "CT is mandatory first; a pneumatocele confirms edema; Kerley lines are late; no vascular changes occur",
+        "MRI is the only test; a dagger sign is seen; coronary angiography is earliest; no lines appear"
+      ],
+      "ans": 1,
+      "exp": "The bullets and two captions describe bat-wing cardiopulmonary edema, earliest cephalisation and Kerley A/B/C lines; the page says CXR is not done in an emergency. (Book p328)"
+    },
+    {
+      "id": "MED-C54-23",
+      "sec": "The Five Differential Diagnoses, Emergency Imaging, the Kerley-Line Table and the Perfusion–Congestion Flowchart",
+      "page": 328,
+      "fmt": "match",
+      "q": "Match each Kerley line to its LAP value and description — 1) A lines 2) B lines 3) C lines … A) LAP 20–24 mmHg; fluid in interlobular septa with short sharp horizontal lines perpendicular to pleura B) LAP 12–19 mmHg; dilated anastomotic channels between peripheral and central lymphatics C) LAP 20–24 mmHg; reticular opacities/enface Kerley B lines",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 2,
+      "exp": "The table prints A at 12–19 mmHg with anastomotic lymphatics, B at 20–24 mmHg with septal fluid and horizontal perpendicular short lines, and C at 20–24 mmHg with reticular/enface B lines. (Book p328)"
+    },
+    {
+      "id": "MED-C54-24",
+      "sec": "The Five Differential Diagnoses, Emergency Imaging, the Kerley-Line Table and the Perfusion–Congestion Flowchart",
+      "page": 328,
+      "fmt": "numeric",
+      "q": "Above which LAP does the page label the condition acute pulmonary edema?",
+      "opts": [
+        "35 mmHg",
+        "20 mmHg",
+        "25 mmHg",
+        "12 mmHg"
+      ],
+      "ans": 2,
+      "exp": "The line under the table reads LAP >25 mm of Hg: acute pulmonary edema. (Book p328)"
+    },
+    {
+      "id": "MED-C54-25",
+      "sec": "The Five Differential Diagnoses, Emergency Imaging, the Kerley-Line Table and the Perfusion–Congestion Flowchart",
+      "page": 328,
+      "fmt": "match",
+      "q": "Match each cell of the p328 flowchart to its perfusion and congestion data — 1) Warm and dry 2) Warm and wet 3) Cold and dry 4) Cold and wet … A) PCWP elevated, CI normal B) PCWP normal, CI normal (compensated) C) PCWP elevated, CI decreased D) PCWP low/normal, CI decreased",
+      "opts": [
+        "1-A, 2-B, 3-D, 4-C",
+        "1-B, 2-D, 3-A, 4-C",
+        "1-B, 2-A, 3-C, 4-D",
+        "1-B, 2-A, 3-D, 4-C"
+      ],
+      "ans": 3,
+      "exp": "The four cells give warm/dry normal PCWP and CI, warm/wet elevated PCWP and normal CI, cold/dry low/normal PCWP and reduced CI, and cold/wet elevated PCWP and reduced CI. (Book p328)"
+    },
+    {
+      "id": "MED-C54-26",
+      "sec": "The Five Differential Diagnoses, Emergency Imaging, the Kerley-Line Table and the Perfusion–Congestion Flowchart",
+      "page": 328,
+      "fmt": "management",
+      "q": "Which treatment arms are printed around the flowchart?",
+      "opts": [
+        "Stable disease; hypovolemia; natriuretic peptides/nesiritide or vasodilators (nitroprusside or nitroglycerin); inotropic drugs (dobutamine, milrinone, calcium sensitizers); and pulmonary edema with cardiogenic shock",
+        "AVR; TAVR; balloon valvotomy; ICD; CRT",
+        "Immediate transplant; dialysis; antibiotics; thrombolysis; pericardiectomy",
+        "Naproxen; verapamil; diltiazem; digoxin; vitamin K"
+      ],
+      "ans": 0,
+      "exp": "The labels around the 2×2 chart are stable, hypovolemia, natriuretic peptides/nesiritide or nitroprusside/nitroglycerin, inotropic drugs and pulmonary edema + cardiogenic shock. (Book p328)"
+    },
+    {
+      "id": "MED-C54-27",
+      "sec": "The Five Differential Diagnoses, Emergency Imaging, the Kerley-Line Table and the Perfusion–Congestion Flowchart",
+      "page": 328,
+      "fmt": "scenario",
+      "q": "A patient has no low perfusion at rest but has elevated PCWP with normal cardiac index. Which flowchart cell is this, and what does the page place beside it?",
+      "opts": [
+        "Cold and dry; hypovolemia",
+        "Warm and dry; observation as compensated",
+        "Warm and wet; natriuretic peptides/nesiritide or vasodilators",
+        "Cold and wet; inotropes and cardiogenic shock"
+      ],
+      "ans": 2,
+      "exp": "Warm/wet is PCWP elevated and CI normal; the treatment side lists natriuretic peptides/nesiritide or vasodilators. (Book p328)"
+    },
+    {
+      "id": "MED-C54-28",
+      "sec": "The Five Differential Diagnoses, Emergency Imaging, the Kerley-Line Table and the Perfusion–Congestion Flowchart",
+      "page": 328,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one pairing reverses the p328 table.",
+      "opts": [
+        "Kerley B lines correspond to LAP 20–24 mmHg",
+        "Kerley A lines correspond to LAP 20–24 mmHg",
+        "Kerley C lines correspond to LAP 20–24 mmHg",
+        "Acute pulmonary edema is printed at LAP >25 mmHg"
+      ],
+      "ans": 1,
+      "exp": "Kerley A lines are the 12–19 mmHg row; B and C share 20–24 mmHg and edema follows >25 mmHg. (Book p328)"
+    },
+    {
+      "id": "MED-C54-29",
+      "sec": "The Acute-Pulmonary-Edema Treatment Bundle and Cardiogenic-Shock Features, Investigations and Phenotype-Specific Support",
+      "page": 329,
+      "fmt": "numeric",
+      "q": "What IV furosemide dose and division are printed for acute pulmonary edema?",
+      "opts": [
+        "360 mg total, divided as 100 mg + 100 mg + 100 mg + 60 mg",
+        "100 mg + 60 mg + 40 mg + 20 mg",
+        "360 mg once",
+        "5–10 mg once"
+      ],
+      "ans": 0,
+      "exp": "The IV-bolus bracket reads 360 mg furosemide split into 100, 100, 100 and 60 mg. (Book p329)"
+    },
+    {
+      "id": "MED-C54-30",
+      "sec": "The Acute-Pulmonary-Edema Treatment Bundle and Cardiogenic-Shock Features, Investigations and Phenotype-Specific Support",
+      "page": 329,
+      "fmt": "recall",
+      "q": "Which position and oxygen measures follow the diuretic bullet?",
+      "opts": [
+        "Semi-recumbent position at 45° and high-flow oxygen via NRBM or NIV",
+        "Head-down tilt and bilevel negative pressure",
+        "Prone position at 90° and low-flow nasal cannula only",
+        "Left lateral decubitus and room air"
+      ],
+      "ans": 0,
+      "exp": "The list reads semi recumbent position (45°) and high-flow O₂ via NRBM/NIV. (Book p329)"
+    },
+    {
+      "id": "MED-C54-31",
+      "sec": "The Acute-Pulmonary-Edema Treatment Bundle and Cardiogenic-Shock Features, Investigations and Phenotype-Specific Support",
+      "page": 329,
+      "fmt": "numeric",
+      "q": "Which morphine dose and purpose are printed?",
+      "opts": [
+        "2 mg orally for anxiety",
+        "10 mg IM for analgesia only",
+        "5 mg/min by infusion for BP control",
+        "4 mg IV for extravascular fluid shift"
+      ],
+      "ans": 3,
+      "exp": "The morphine bullets read 4 mg IV and for extravascular fluid shift. (Book p329)"
+    },
+    {
+      "id": "MED-C54-32",
+      "sec": "The Acute-Pulmonary-Edema Treatment Bundle and Cardiogenic-Shock Features, Investigations and Phenotype-Specific Support",
+      "page": 329,
+      "fmt": "management",
+      "q": "Which drug and starting rate are printed under BP control?",
+      "opts": [
+        "Dobutamine at 2 µg/kg/min",
+        "NTG at 5 µg/min",
+        "Noradrenaline at 0.5 mg/min",
+        "Nitroprusside at 50 µg/min"
+      ],
+      "ans": 1,
+      "exp": "The line reads DOC: NTG at 5 μg/min. (Book p329)"
+    },
+    {
+      "id": "MED-C54-33",
+      "sec": "The Acute-Pulmonary-Edema Treatment Bundle and Cardiogenic-Shock Features, Investigations and Phenotype-Specific Support",
+      "page": 329,
+      "fmt": "numeric",
+      "q": "What systolic threshold is printed in the first cardiogenic-shock feature?",
+      "opts": [
+        "SBP <120 mmHg",
+        "DBP <20 mmHg",
+        "SBP <90 mmHg with narrow pulse pressure",
+        "Pulse pressure >20 mmHg"
+      ],
+      "ans": 2,
+      "exp": "The feature reads narrow pulse pressure (SBP <90 mm of Hg). (Book p329)"
+    },
+    {
+      "id": "MED-C54-34",
+      "sec": "The Acute-Pulmonary-Edema Treatment Bundle and Cardiogenic-Shock Features, Investigations and Phenotype-Specific Support",
+      "page": 329,
+      "fmt": "recall",
+      "q": "Which four features follow narrow pulse pressure in cardiogenic shock?",
+      "opts": [
+        "Ascites, hepatomegaly, edema and raised JVP",
+        "Angina, syncope, palpitations and fever",
+        "Tachypnea, crepts, frothy sputum and hemoptysis",
+        "Fatigue, altered mentation, cyanosis and cold extremities"
+      ],
+      "ans": 3,
+      "exp": "The remaining features are fatigue, altered mentation, cyanosis and cold extremities; the note adds poor prognosis. (Book p329)"
+    },
+    {
+      "id": "MED-C54-35",
+      "sec": "The Acute-Pulmonary-Edema Treatment Bundle and Cardiogenic-Shock Features, Investigations and Phenotype-Specific Support",
+      "page": 329,
+      "fmt": "management",
+      "q": "Which two investigations are printed for cardiogenic shock?",
+      "opts": [
+        "Chest X-ray and pulmonary function test",
+        "D-dimer and CT pulmonary angiogram",
+        "Coronary angiogram and treadmill test",
+        "Lactic acid levels to rule out occult shock; early ECHO with ACS exclusion to rule out acute AR and acute MR"
+      ],
+      "ans": 3,
+      "exp": "The investigation bullets read lactic acid to r/o occult shock and rule out ACS → early ECHO → rule out acute AR/MR. (Book p329)"
+    },
+    {
+      "id": "MED-C54-36",
+      "sec": "The Acute-Pulmonary-Edema Treatment Bundle and Cardiogenic-Shock Features, Investigations and Phenotype-Specific Support",
+      "page": 329,
+      "fmt": "match",
+      "q": "Match each HF phenotype to its printed shock support — 1) HFrEF inotrope 2) HFrEF inodilator 3) HFrEF mechanical 4) HFpEF vasopressors … A) Vasopressin/desmopressin B) Intra-aortic balloon pump or ECMO C) Dobutamine (m/c) D) Milrinone (m/c)",
+      "opts": [
+        "1-D, 2-C, 3-B, 4-A",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-C, 2-B, 3-D, 4-A",
+        "1-C, 2-D, 3-B, 4-A"
+      ],
+      "ans": 3,
+      "exp": "HFrEF uses dobutamine as the common inotrope, milrinone as the common inodilator and IABP/ECMO support; HFpEF uses vasopressin/desmopressin. (Book p329)"
+    },
+    {
+      "id": "MED-C54-37",
+      "sec": "The Acute-Pulmonary-Edema Treatment Bundle and Cardiogenic-Shock Features, Investigations and Phenotype-Specific Support",
+      "page": 329,
+      "fmt": "scenario",
+      "q": "An acute pulmonary edema patient has SBP 82 mmHg, cold extremities and altered mentation. Early ECHO excludes acute AR/MR. Which shock phenotype treatment does page 329 list next?",
+      "opts": [
+        "Prone 45° positioning without oxygen",
+        "Oral torsemide alone",
+        "HFrEF support with dobutamine/milrinone and IABP or ECMO",
+        "Immediate TAVR"
+      ],
+      "ans": 2,
+      "exp": "These are cardiogenic-shock features; after early ECHO, the HFrEF treatment branch gives inotrope/inodilator and mechanical support. (Book p329)"
+    },
+    {
+      "id": "MED-C54-38",
+      "sec": "The Acute-Pulmonary-Edema Treatment Bundle and Cardiogenic-Shock Features, Investigations and Phenotype-Specific Support",
+      "page": 329,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the acute-edema management list.",
+      "opts": [
+        "False — furosemide is omitted from acute edema management",
+        "True — morphine is given orally at 10 mg and NTG is given at 50 µg/min",
+        "False — NIV is contraindicated in every patient",
+        "True — morphine is given IV for extravascular fluid shift and NTG is the DOC at 5 µg/min"
+      ],
+      "ans": 3,
+      "exp": "The printed list includes 360 mg divided furosemide, 45° position, high-flow O₂ via NRBM/NIV, 4 mg IV morphine and NTG 5 μg/min for BP. (Book p329)"
+    },
+    {
+      "id": "MED-C54-39",
+      "sec": "Non-Recovering Pulmonary Edema, SCUF, BNP/NT-proBNP and Early Vasodilator Therapy in Acute AR or MR",
+      "page": 330,
+      "fmt": "management",
+      "q": "For pulmonary edema with maintained BP that is not recovering, what intervention is printed?",
+      "opts": [
+        "Dialysis or SCUF via a central/femoral catheter",
+        "Oral naproxen",
+        "Immediate TAVR",
+        "Balloon pericardiotomy"
+      ],
+      "ans": 0,
+      "exp": "The note reads patients with pulmonary edema and maintained BP, if not recovering, go to dialysis or SCUF via central/femoral catheter. (Book p330)"
+    },
+    {
+      "id": "MED-C54-40",
+      "sec": "Non-Recovering Pulmonary Edema, SCUF, BNP/NT-proBNP and Early Vasodilator Therapy in Acute AR or MR",
+      "page": 330,
+      "fmt": "fillup",
+      "q": "The expansion printed for SCUF is slow continuous ______.",
+      "opts": [
+        "ultrafiltrate dialysis",
+        "ultrafractionation",
+        "ultrafiltration",
+        "ultrasound filtration"
+      ],
+      "ans": 2,
+      "exp": "The parenthesis expands SCUF as slow continuous ultra filtration. (Book p330)"
+    },
+    {
+      "id": "MED-C54-41",
+      "sec": "Non-Recovering Pulmonary Edema, SCUF, BNP/NT-proBNP and Early Vasodilator Therapy in Acute AR or MR",
+      "page": 330,
+      "fmt": "numeric",
+      "q": "Which BNP/NT-proBNP value is printed for patients with a probability of heart failure?",
+      "opts": [
+        ">900 pg/mL",
+        ">90 pg/mL",
+        ">300 pg/mL",
+        ">900 ng/mL"
+      ],
+      "ans": 0,
+      "exp": "The note reads >900 pg/mL in patients with probability of HF. (Book p330)"
+    },
+    {
+      "id": "MED-C54-42",
+      "sec": "Non-Recovering Pulmonary Edema, SCUF, BNP/NT-proBNP and Early Vasodilator Therapy in Acute AR or MR",
+      "page": 330,
+      "fmt": "recall",
+      "q": "Which two modifiers are printed beneath the BNP/NT-proBNP threshold?",
+      "opts": [
+        "Levels are higher in obesity and diagnostic value is lost in renal failure",
+        "Levels are lower in obesity because the peptides are metabolised by adipocytes, and the page notes diagnostic value in renal failure",
+        "Levels are unaffected by adipocytes and measured only in urine",
+        "Levels are lower in renal failure and higher after dialysis"
+      ],
+      "ans": 1,
+      "exp": "The two bullets read lower in obese (metabolised by adipocytes) and diagnostic value in renal failure. (Book p330)"
+    },
+    {
+      "id": "MED-C54-43",
+      "sec": "Non-Recovering Pulmonary Edema, SCUF, BNP/NT-proBNP and Early Vasodilator Therapy in Acute AR or MR",
+      "page": 330,
+      "fmt": "management",
+      "q": "In early vasodilator therapy for acute AR or MR, which drug preference is printed?",
+      "opts": [
+        "Furosemide > torsemide",
+        "NTG > nitroprusside",
+        "Dobutamine > milrinone",
+        "Nitroprusside > NTG (nitroglycerine)"
+      ],
+      "ans": 3,
+      "exp": "The early-vasodilator line reads nitroprusside > NTG for acute AR/MR. (Book p330)"
+    },
+    {
+      "id": "MED-C54-44",
+      "sec": "Non-Recovering Pulmonary Edema, SCUF, BNP/NT-proBNP and Early Vasodilator Therapy in Acute AR or MR",
+      "page": 330,
+      "fmt": "recall",
+      "q": "What two-step purpose follows the nitroprusside preference?",
+      "opts": [
+        "It raises aortic pressure and increases the gradient in AR/MR",
+        "It raises preload and improves coronary steal",
+        "It decreases aortic pressure and thereby decreases the transvalvular gradient in AR/MR",
+        "It closes the aortic valve and prevents all surgery"
+      ],
+      "ans": 2,
+      "exp": "The arrows read decreases aortic pressure → decreases transvalvular gradient in AR/MR. (Book p330)"
+    },
+    {
+      "id": "MED-C54-45",
+      "sec": "Non-Recovering Pulmonary Edema, SCUF, BNP/NT-proBNP and Early Vasodilator Therapy in Acute AR or MR",
+      "page": 330,
+      "fmt": "scenario",
+      "q": "A patient with acute MR remains pulmonary-edematous with maintained BP despite initial therapy, and NT-proBNP is 950 pg/mL. Which page-330 branch applies if recovery still fails?",
+      "opts": [
+        "Dialysis/SCUF via central or femoral catheter, with the BNP value supporting HF probability",
+        "Routine yearly echocardiography only",
+        "Immediate discharge with oral NSAIDs",
+        "Mandatory coronary angiography before any treatment"
+      ],
+      "ans": 0,
+      "exp": "Non-recovery with maintained BP leads to dialysis/SCUF; >900 pg/mL is the printed HF-probability value. (Book p330)"
+    },
+    {
+      "id": "MED-C54-46",
+      "sec": "Non-Recovering Pulmonary Edema, SCUF, BNP/NT-proBNP and Early Vasodilator Therapy in Acute AR or MR",
+      "page": 330,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the page-330 notes.",
+      "opts": [
+        "True — NTG is preferred because it raises the transvalvular gradient",
+        "True — nitroprusside is preferred to NTG in acute AR/MR and lowers the transvalvular gradient",
+        "False — obesity raises BNP because adipocytes produce it",
+        "False — SCUF is used only when blood pressure is falling"
+      ],
+      "ans": 1,
+      "exp": "Nitroprusside > NTG is printed with aortic-pressure and gradient reduction; SCUF follows non-recovery despite maintained BP, and obesity lowers BNP through adipocyte metabolism. (Book p330)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U54-1",
+      "ch": 54,
+      "n": 1,
+      "title": "The 80/20 ADHF Split, Eight Risk Factors, Four Clinical Classes and Mild-to-Moderate ADHF",
+      "sec": "The 80/20 ADHF Split, Eight Risk Factors, Four Clinical Classes and Mild-to-Moderate ADHF",
+      "guide": "ADHF is 80% prior HF (HFrEF/HFpEF, NYHA 1/2) and 20% de novo (p326). Risk factors, in order, are patient-related factors, infections (LRTI/IE), anemia, drugs (NSAIDs), MI, AF, uncontrolled HTN and pregnancy.\nFour classes are mild-to-moderate ADHF, hypertensive ADHF, ADHF with acute pulmonary edema and cardiogenic shock.\nMild-to-moderate disease is 70% of ADHF, underlies HFrEF and is precipitated by LRTI; progressive dyspnea joins right-sided JVP/tender liver/edema, without pulmonary edema or shock, and O/E may show S3, cardiomegaly and MR from annular dilatation.",
+      "qs": [
+        "MED-C54-01",
+        "MED-C54-02",
+        "MED-C54-03",
+        "MED-C54-04",
+        "MED-C54-05",
+        "MED-C54-06",
+        "MED-C54-07",
+        "MED-C54-08",
+        "MED-C54-09"
+      ]
+    },
+    {
+      "id": "MED-U54-2",
+      "ch": 54,
+      "n": 2,
+      "title": "Oral Diuretics, Hypertensive ADHF and the Symptoms and Signs of Acute Pulmonary Edema",
+      "sec": "Oral Diuretics, Hypertensive ADHF and the Symptoms and Signs of Acute Pulmonary Edema",
+      "guide": "Mild-to-moderate ADHF uses oral torsemide 5–10 mg (p327). Hypertensive ADHF is most common in females with underlying HFpEF; it has progressive dyspnea, uncontrolled HTN, diastolic-failure symptoms and still no pulmonary edema or shock, and is managed with IV diuretics plus oral antihypertensives.\nAcute pulmonary edema causes breathlessness worsening over 60–90 minutes, an upright patient unable to lie down, gasping/air hunger and diaphoresis. Signs are tachypnea >30 bpm, hypertensive crisis, crepts across all lung fields and frothy sputum ± hemoptysis.",
+      "qs": [
+        "MED-C54-10",
+        "MED-C54-11",
+        "MED-C54-12",
+        "MED-C54-13",
+        "MED-C54-14",
+        "MED-C54-15",
+        "MED-C54-16",
+        "MED-C54-17",
+        "MED-C54-18"
+      ]
+    },
+    {
+      "id": "MED-U54-3",
+      "ch": 54,
+      "n": 3,
+      "title": "The Five Differential Diagnoses, Emergency Imaging, the Kerley-Line Table and the Perfusion–Congestion Flowchart",
+      "sec": "The Five Differential Diagnoses, Emergency Imaging, the Kerley-Line Table and the Perfusion–Congestion Flowchart",
+      "guide": "The differential list is ACS; acute AR (dissection, ruptured sinus of Valsalva, IE) or acute MR; myocarditis; bilateral renal-artery stenosis → flash pulmonary edema; and Takotsubo cardiomyopathy (p328).\nCXR is not done in an emergency, but bat-wing appearance indicates cardiopulmonary edema; cephalisation of pulmonary vessels is the earliest finding and is associated with Kerley A/B/C lines. Kerley A is LAP 12–19 mmHg with dilated anastomotic lymphatics; B is 20–24 mmHg with septal fluid and short horizontal lines perpendicular to pleura; C is 20–24 mmHg with reticular/enface B lines; LAP >25 mmHg means acute pulmonary edema.\nThe flowchart separates stable from no, then low perfusion at rest from no (hypovolemia); warm/dry is normal PCWP/CI, warm/wet elevated PCWP/normal CI, cold/dry low-normal PCWP/reduced CI and cold/wet elevated PCWP/reduced CI. Natriuretic peptides/nesiritide or nitroprusside/nitroglycerin, inotropes and pulmonary edema + cardiogenic shock label the treatment paths.",
+      "qs": [
+        "MED-C54-19",
+        "MED-C54-20",
+        "MED-C54-21",
+        "MED-C54-22",
+        "MED-C54-23",
+        "MED-C54-24",
+        "MED-C54-25",
+        "MED-C54-26",
+        "MED-C54-27",
+        "MED-C54-28"
+      ]
+    },
+    {
+      "id": "MED-U54-4",
+      "ch": 54,
+      "n": 4,
+      "title": "The Acute-Pulmonary-Edema Treatment Bundle and Cardiogenic-Shock Features, Investigations and Phenotype-Specific Support",
+      "sec": "The Acute-Pulmonary-Edema Treatment Bundle and Cardiogenic-Shock Features, Investigations and Phenotype-Specific Support",
+      "guide": "Acute pulmonary edema management uses IV furosemide 360 mg split 100 + 100 + 100 + 60 mg, semi-recumbent 45°, high-flow O₂ by NRBM/NIV, morphine 4 mg IV for extravascular fluid shift and BP control with NTG 5 µg/min (p329).\nCardiogenic shock has narrow pulse pressure with SBP <90 mmHg, fatigue, altered mentation, cyanosis and cold extremities, with a poor-prognosis note. Lactic acid rules out occult shock; early ECHO excludes ACS-related acute AR/MR.\nHFrEF support uses dobutamine (common inotrope), milrinone (common inodilator) and IABP/ECMO; HFpEF uses vasopressors vasopressin/desmopressin.",
+      "qs": [
+        "MED-C54-29",
+        "MED-C54-30",
+        "MED-C54-31",
+        "MED-C54-32",
+        "MED-C54-33",
+        "MED-C54-34",
+        "MED-C54-35",
+        "MED-C54-36",
+        "MED-C54-37",
+        "MED-C54-38"
+      ]
+    },
+    {
+      "id": "MED-U54-5",
+      "ch": 54,
+      "n": 5,
+      "title": "Non-Recovering Pulmonary Edema, SCUF, BNP/NT-proBNP and Early Vasodilator Therapy in Acute AR or MR",
+      "sec": "Non-Recovering Pulmonary Edema, SCUF, BNP/NT-proBNP and Early Vasodilator Therapy in Acute AR or MR",
+      "guide": "If pulmonary edema with maintained BP is not recovering, the page offers dialysis or SCUF via central/femoral catheter; SCUF is expanded as slow continuous ultrafiltration (p330).\nBNP/NT-proBNP >900 pg/mL is printed for patients with probability of HF; values are lower in obesity because of adipocyte metabolism, and the note flags diagnostic value in renal failure.\nEarly vasodilator therapy for acute AR/MR prefers nitroprusside > NTG (nitroglycerine); the printed chain is reduced aortic pressure → reduced transvalvular gradient.",
+      "qs": [
+        "MED-C54-39",
+        "MED-C54-40",
+        "MED-C54-41",
+        "MED-C54-42",
+        "MED-C54-43",
+        "MED-C54-44",
+        "MED-C54-45",
+        "MED-C54-46"
+      ]
+    }
+  ]
+}

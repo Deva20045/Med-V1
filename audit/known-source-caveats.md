@@ -1,4 +1,4 @@
-# Source caveats and transcription decisions — Book p46–205
+# Source caveats and transcription decisions — Book p46–345
 
 This companion follows the scanned *PULSE Medicine Vol 1*, Marrow Edition 8, page by page. Questions that reproduce a source statement are labelled as such; they are not independent clinical recommendations. The standalone app carries a matching study-only disclaimer.
 
@@ -194,3 +194,29 @@ All chapters are educational study material keyed to a particular scanned textbo
 | 300 | The hangout interval is printed `Time between crossover pressure & valve closure`, with the aortic column `↓ Hangout interval (30 ms)` and the pulmonary column `(80 ms)`. | The 30 ms/80 ms values are tested as printed; the downward arrow on the pulmonary column is preserved as printed even though 80 ms exceeds 30 ms, and the explanation flags the slip. |
 | 302 | An S2 split is called wide above a printed `>50 ms` gap, and the reverse split is defined with `P2 preceding A2`, splitting in expiration rather than inspiration. | Both definitions are tested as printed, including the 50 ms cut-off and the expiratory-split-with-reversed-order rule. |
 | 305 | The mitral stenosis ladder prints `S2–OS >120 mmHg with LAP <5 mmHg` for mild and `S2–OS 40–60 mmHg with LAP >15 mmHg` for severe disease — the units are printed as mmHg where milliseconds are intended — alongside `Opening snap (OS) α LAP` and `S2-OS α 1/LAP`. | The ladder is tested exactly as printed, with the mmHg/millisecond slip flagged in the explanation and in this table; the two proportionality lines are tested as the page's own explanation of the short, loud snap of severe disease. |
+
+
+## Chapters 51–56 (Book p307–345)
+
+| Book page | Item | How the quiz handles it |
+|---:|---|---|
+| 307 | The normal-systole bullet prints both LVP and aortic pressure as `120 mmHg`, then explains the absent gradient by complete aortic-valve opening. | Both 120 mmHg values and the complete-opening explanation are tested as printed; no pathological gradient is inferred from the normal tracing. |
+| 309 | The handwritten explanation of the transvalvular gradient reads `AV fail to open completely / stenotic valve don't open completely`. | The explanation is tested verbatim as a fill-up, preserving the source's grammar and the mechanical reason for the gradient. |
+| 310 | The ASD clock prints valve-replacement intervals of `5 years`, `3 years` and `1 year` under angina, syncope and dyspnea; the printed mortality table also puts `sudden cardiac death` across NYHA II–III. | Timing and mortality cells are quoted as source teaching, not presented as current prognostic guidance. |
+| 311 | The ECG strain bullet prints `No much ST depression`. | The wording is preserved in a true/false option and explanation rather than silently rewritten for style. |
+| 318 | The definition note expands ACC as `American College of Clinical Cardiology` (the standard name is American College of Cardiology). | Quizzed as printed with an explicit “printed expansion” qualifier; the standard expansion is not substituted into the source answer. |
+| 325 | The ARNI diagram assigns `prevents degradation of angiotensin II` to valsartan (ARB) and `degrades natriuretic peptides` to sacubitril (NI). | Both arrow captions are tested as printed source wording and flagged here; they are not offered as clinical pharmacology advice. The app's study-only disclaimer applies. |
+| 325 | `Fantastic 4` lists `Aldosterone antagonist: Finerenone (Non steroidal)` and `SGLT2 inhibitors: Empagliflozin, Dapagliflozin`; nesiritide on p324 is marked `No more used`. | Drug names/classes and the printed status are retained as source notes, not interpreted as a current prescribing protocol. |
+| 327 | The acute-pulmonary-edema signs print `Tachypnea (>130 bpm)` in OCR-sensitive handwriting; the visual sheet reads `>30 bpm`. | Verified on the rendered sheet and tested as `>30 bpm`; the OCR ambiguity is recorded here. |
+| 328 | The fourth differential is printed `Bilateral Renal Artery Stenosis → flash pulmonary edema`; the Kerley table assigns `12–19`, `20–24`, `20–24` and `>25 mm Hg` to A, B, C and acute edema. | The word `flash` and all four pressure bands are tested visually rather than from garbled OCR. |
+| 329 | The IV-diuretic bullet prints a total of `360 mg (Furosemide)` divided `100 mg / 100 mg / 100 mg / 60 mg`; morphine is `4 mg IV` and NTG is `5 µg/min`. | Dose values are reproduced as printed source content, not as treatment instructions for clinical use. |
+| 330 | The BNP note prints `>900 pg/mL`, `Lower in obese (As it is metabolised by adipocytes)` and the fragment `Diagnostic value in renal failure`. | The fragment is kept without adding a missing negation/qualifier; all three notes are tested as source text. |
+| 331 | The DCMP pathophysiology reads `LV dilatation, thinning and systolic dysfunction → Diastolic failure → LV failure → RV failure`, which is a different sequence from the p320 HF chain. | Each page's sequence is tested against its own flowchart; the two are not merged or reconciled. |
+| 332 | The genetic protein cell prints `TV (Truncated variant) Titin > myosin heavy chain 7 > troponin I`, and selenium is linked to `sub-Himalayan zone: Keshan's disease`. | The inequality-style protein list and geographical note are preserved as printed. |
+| 334 | Myocarditis etiology prints `HHV-6 : m/c cause` and `Trypanosoma cruzi (Chaga's disease)` (the usual possessive is Chagas). | Organism names and the printed spelling are retained with an “as printed” marker in the explanation. |
+| 338 | The SAM line says systolic motion occurs `after 2/3rd of systole`, and the 30 mmHg gradient is labelled `d/t subaortic obstruction (Subvalvular AS)`. | Both source-specific details are tested as printed, without inferring a different timing or obstruction level. |
+| 340 | The dynamic-auscultation note says all murmurs decrease with standing Valsalva except `MVP (↑ duration)` and `HCM (↑ intensity)`. | The two exceptions and their different response words are tested verbatim. |
+| 342 | RCM is introduced `Non-genetic → more common than HCM`; this is a printed comparison on the page. | It is tested as a source statement and not generalized beyond the page. |
+| 343 | The RCM causes note prints `Ascaris lumbricoides : m/c associated infection`, and the recap labels amyloidosis the m/c cause of RCM. | Both printed claims are tested as source content and flagged as unusual associations rather than silently corrected. |
+| 344 | Cardiac MRI in amyloidosis prints `Glittering hyperrefractile myocardium (sparkling appearance) d/t interatrial septal thickening`. | The source wording and stated anatomical link are retained verbatim. |
+| 345 | Takotsubo biomarkers print `Troponin I: ↑ but ↓ rate of rise of Trop I` with `NT proBNP ↑↑`; short-term complications are bracketed `Same as MI`. | The discordant rise/rate wording and the MI comparison are tested as printed. |

@@ -13,7 +13,7 @@ The audited run through Chapter 23 (p1–139) continues 02.pdf PDF9–22 (p126�
 The audited run through Chapter 28 (p1–168) continues 02.pdf PDF23–51 (p140–168).
 The audited run through Chapter 33 (p1–205) continues 02.pdf PDF52–88 (p169–205). It is the longest run in the book and spans the end of the Hematology section into Pulmonology (Book p185 is the first Pulmonology page).
 The audited run through Chapter 38 (p1–235) continues 02.pdf PDF89–118 (p206–235): Venous Thromboembolism, Pulmonary Hypertension, Bronchiectasis, Occupational Lung Diseases and Respiratory Failure/ARDS.
-The audited run through Chapter 44 (p1–263) continues 02.pdf PDF119–130 (p236–247) and 03.pdf PDF1–16 (p248–263): Interstitial Lung Disease, Bronchial Asthma (which straddles the 02.pdf/03.pdf seam at Book p248), Pulmonary Eosinophilia, Allergic Bronchopulmonary Aspergillosis, Hypersensitivity Pneumonitis and Pleural Effusion. Book p264 (03.pdf PDF17) was boundary-checked: it opens Chapter 45, Obstructive Sleep Apnea Syndrome.
+The audited run through Chapter 56 (p1–345) continues 02.pdf PDF119–130 (p236–247) and 03.pdf PDF1–98 (p248–345): Interstitial Lung Disease, Bronchial Asthma (straddling the 02.pdf/03.pdf seam at p248), Pulmonary Eosinophilia, Allergic Bronchopulmonary Aspergillosis, Hypersensitivity Pneumonitis, Pleural Effusion, OSAS, COPD, CAP, atypical pneumonia, the cardiac-cycle/heart-sound chapters, aortic valve disease, heart failure and both cardiomyopathy chapters. The p307/p313/p318/p326/p331/p336 chapter boundaries were visually checked.
 
 ## Chapter sheet coverage verified (01.pdf, 02.pdf & 03.pdf)
 
@@ -69,7 +69,13 @@ The audited run through Chapter 44 (p1–263) continues 02.pdf PDF119–130 (p23
 | 48 | Atypical Pneumonia and Pneumonia in Immunocompromised | 286–295 | 03.pdf PDF39–48 |
 | 49 | Cardiac Cycle With Heart Sounds | 296–302 | 03.pdf PDF49–55 |
 | 50 | Added Heart Sounds | 303–306 | 03.pdf PDF56–59 |
-| 51 (next) | Aortic Stenosis | 307 | 03.pdf PDF60 |
+| 51 | Aortic Stenosis | 307–312 | 03.pdf PDF60–65 |
+| 52 | Aortic Regurgitation | 313–317 | 03.pdf PDF66–70 |
+| 53 | Heart Failure | 318–325 | 03.pdf PDF71–78 |
+| 54 | Acute Decompensated Heart Failure | 326–330 | 03.pdf PDF79–83 |
+| 55 | Cardiomyopathy : Part 1 | 331–335 | 03.pdf PDF84–88 |
+| 56 | Cardiomyopathy : Part 2 | 336–345 | 03.pdf PDF89–98 |
+| 57 (next) | Mitral Regurgitation | 346 | 03.pdf PDF99 |
 
 Note (Ch 20): the Contents pages print 118, but the scanned heading "MYELOPROLIFERATIVE NEOPLASMS : PART 2"
 and the CML pathophysiology that follows it begin on Book p116; the scan is ground truth and the app
