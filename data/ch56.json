@@ -1,0 +1,1597 @@
+{
+  "chapter": 56,
+  "title": "Cardiomyopathy : Part 2",
+  "pageRange": "336-345",
+  "questions": [
+    {
+      "id": "MED-C56-01",
+      "sec": "HCM Epidemiology, Mutations, Pediatric Mimics, Complications, the 15-mm Definition and the Athlete-versus-HCM Table",
+      "page": 336,
+      "fmt": "recall",
+      "q": "Which three opening facts are printed for hypertrophic cardiomyopathy?",
+      "opts": [
+        "It is the most common genetic cardiovascular disease worldwide, the most common cause of sudden cardiac death and is autosomal dominant",
+        "It is always fatal in childhood, spares the LV and is recessive",
+        "It is caused by coronary atherosclerosis, is common only after MI and is infectious",
+        "It is the most common acquired valvular disease, causes wide pulse pressure and is X-linked"
+      ],
+      "ans": 0,
+      "exp": "The first three bullets state m/c genetic cardiovascular disease worldwide, m/c cause of SCD and autosomal dominant. (Book p336)"
+    },
+    {
+      "id": "MED-C56-02",
+      "sec": "HCM Epidemiology, Mutations, Pediatric Mimics, Complications, the 15-mm Definition and the Athlete-versus-HCM Table",
+      "page": 336,
+      "fmt": "fillup",
+      "q": "The mutation line ranks ______ binding protein C above myosin heavy chain.",
+      "opts": [
+        "desmosome",
+        "titin",
+        "myosin",
+        "tafazzin"
+      ],
+      "ans": 2,
+      "exp": "The mutation bullet reads myosin binding protein C > myosin heavy chain. (Book p336)"
+    },
+    {
+      "id": "MED-C56-03",
+      "sec": "HCM Epidemiology, Mutations, Pediatric Mimics, Complications, the 15-mm Definition and the Athlete-versus-HCM Table",
+      "page": 336,
+      "fmt": "numeric",
+      "q": "Which incidence, sex-prognosis and symptom percentages are printed?",
+      "opts": [
+        "M = F; sex does not affect prognosis; 50% are asymptomatic",
+        "M = F; females have more progression to heart failure and a poor prognosis; 95–99% are asymptomatic",
+        "M:F = 3:1; males progress more; 30% are asymptomatic",
+        "F:M = 3:1; men have poor prognosis; 5% asymptomatic"
+      ],
+      "ans": 1,
+      "exp": "The bullets read incidence M = F, in females increased progression to HF → poor prognosis and 95–99% asymptomatic. (Book p336)"
+    },
+    {
+      "id": "MED-C56-04",
+      "sec": "HCM Epidemiology, Mutations, Pediatric Mimics, Complications, the 15-mm Definition and the Athlete-versus-HCM Table",
+      "page": 336,
+      "fmt": "recall",
+      "q": "Which details follow the first paediatric HCM mimic, Pompe disease?",
+      "opts": [
+        "Aortic dissection and wide pulse pressure",
+        "Zebra bodies and renal stones",
+        "Desmosome mutation and lamellar bodies",
+        "Glycogen storage disease type 2 and a short PR interval"
+      ],
+      "ans": 3,
+      "exp": "Pompe's disease is annotated as glycogen storage disease type 2 and short PR interval. (Book p336)"
+    },
+    {
+      "id": "MED-C56-05",
+      "sec": "HCM Epidemiology, Mutations, Pediatric Mimics, Complications, the 15-mm Definition and the Athlete-versus-HCM Table",
+      "page": 336,
+      "fmt": "match",
+      "q": "Match the four printed paediatric HCM mimics in order — 1) First 2) Second 3) Third 4) Fourth … A) Friedreich ataxia B) Pompe disease C) Noonan syndrome D) Fabry disease",
+      "opts": [
+        "1-B, 2-C, 3-D, 4-A",
+        "1-B, 2-D, 3-C, 4-A",
+        "1-D, 2-B, 3-C, 4-A",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 1,
+      "exp": "The list is Pompe disease, Fabry disease, Noonan syndrome and Friedreich's ataxia. (Book p336)"
+    },
+    {
+      "id": "MED-C56-06",
+      "sec": "HCM Epidemiology, Mutations, Pediatric Mimics, Complications, the 15-mm Definition and the Athlete-versus-HCM Table",
+      "page": 336,
+      "fmt": "recall",
+      "q": "Which three complications are printed beside the paediatric mimics?",
+      "opts": [
+        "Kerley lines, cephalisation and flash edema",
+        "Progression to heart failure, arrhythmias (atrial fibrillation) and sudden cardiac death",
+        "Pulmonary embolism, empyema and lung abscess",
+        "Aortic regurgitation, wide pulse pressure and heart block"
+      ],
+      "ans": 1,
+      "exp": "The complications column lists progression to HF, arrhythmias (AF) and SCD. (Book p336)"
+    },
+    {
+      "id": "MED-C56-07",
+      "sec": "HCM Epidemiology, Mutations, Pediatric Mimics, Complications, the 15-mm Definition and the Athlete-versus-HCM Table",
+      "page": 336,
+      "fmt": "numeric",
+      "q": "What wall-thickness definition and exclusions are printed for HCM?",
+      "opts": [
+        "RV thickness ≥15 mm with dilatation",
+        "LV hypertrophy ≥15 mm without dilatation, in the absence of other cardiac/systemic disease capable of that degree of hypertrophy",
+        "LV thickness ≥30 mm regardless of systemic disease",
+        "LV thickness <10 mm with dilatation and no exclusions"
+      ],
+      "ans": 1,
+      "exp": "The definition is LV hypertrophy/thickening ≥15 mm without dilatation, after excluding other cardiac/systemic disease capable of producing that degree. (Book p336)"
+    },
+    {
+      "id": "MED-C56-08",
+      "sec": "HCM Epidemiology, Mutations, Pediatric Mimics, Complications, the 15-mm Definition and the Athlete-versus-HCM Table",
+      "page": 336,
+      "fmt": "recall",
+      "q": "Which two conditions are boxed as other causes of LV thickening ≥15 mm?",
+      "opts": [
+        "Pulmonary embolism and COPD",
+        "Anemia and thyrotoxicosis",
+        "Mitral stenosis and pericardial tamponade",
+        "Systemic hypertension and aortic stenosis"
+      ],
+      "ans": 3,
+      "exp": "The note lists systemic HTN and aortic stenosis. (Book p336)"
+    },
+    {
+      "id": "MED-C56-09",
+      "sec": "HCM Epidemiology, Mutations, Pediatric Mimics, Complications, the 15-mm Definition and the Athlete-versus-HCM Table",
+      "page": 336,
+      "fmt": "match",
+      "q": "Match each row of the athlete-heart versus HCM table — 1) Thickness of LV 2) Cavity 3) Diastolic filling 4) Improves with rest … A) Athlete <15 mm (10–12 mm); HCM ≥15 mm B) Athlete +; HCM − C) Athlete large; HCM small/concentric D) Athlete normal; HCM abnormal",
+      "opts": [
+        "1-C, 2-A, 3-D, 4-B",
+        "1-A, 2-D, 3-C, 4-B",
+        "1-A, 2-C, 3-B, 4-D",
+        "1-A, 2-C, 3-D, 4-B"
+      ],
+      "ans": 3,
+      "exp": "The four rows print those exact comparisons. (Book p336)"
+    },
+    {
+      "id": "MED-C56-10",
+      "sec": "Asymmetric and Inappropriate Hypertrophy, the Three LVOT States, Yamaguchi Disease and Diastolic Pathophysiology",
+      "page": 337,
+      "fmt": "recall",
+      "q": "Which three details define asymmetric hypertrophy in HCM?",
+      "opts": [
+        "It affects all four chambers symmetrically",
+        "It involves the right side only, affects the apex and posterior wall, and spares the septum",
+        "It is confined to the aortic root and pulmonary artery",
+        "It involves the left side only, affects the septum and anterior wall, and spares the apex and posterior wall"
+      ],
+      "ans": 3,
+      "exp": "The arrows from asymmetric hypertrophy read involves left side only, septal & anterior wall and sparing of apex & posterior wall. (Book p337)"
+    },
+    {
+      "id": "MED-C56-11",
+      "sec": "Asymmetric and Inappropriate Hypertrophy, the Three LVOT States, Yamaguchi Disease and Diastolic Pathophysiology",
+      "page": 337,
+      "fmt": "fillup",
+      "q": "HCM's hypertrophy is called inappropriate because it occurs in the absence of increased ______.",
+      "opts": [
+        "afterload",
+        "pulmonary pressure",
+        "venous return",
+        "preload"
+      ],
+      "ans": 0,
+      "exp": "The line reads inappropriate hypertrophy due to absence of ↑ afterload. (Book p337)"
+    },
+    {
+      "id": "MED-C56-12",
+      "sec": "Asymmetric and Inappropriate Hypertrophy, the Three LVOT States, Yamaguchi Disease and Diastolic Pathophysiology",
+      "page": 337,
+      "fmt": "match",
+      "q": "Match the three printed LVOT-obstruction thirds — 1) First third 2) Middle third 3) Final third … A) Dynamic obstruction B) Present C) Absent (normal)",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 2,
+      "exp": "The branches read 1/3rd present, 1/3rd absent (normal) and 1/3rd dynamic obstruction. (Book p337)"
+    },
+    {
+      "id": "MED-C56-13",
+      "sec": "Asymmetric and Inappropriate Hypertrophy, the Three LVOT States, Yamaguchi Disease and Diastolic Pathophysiology",
+      "page": 337,
+      "fmt": "recall",
+      "q": "Which four Yamaguchi-disease notes are printed?",
+      "opts": [
+        "It is an HCM variant with apical hypertrophy, only in the Japanese population and deep/giant T inversions",
+        "It is an ARVD variant with desmosome mutation, only in athletes and a dagger sign",
+        "It is an RCM variant with amyloid, only in elderly women and low voltage",
+        "It is a DCMP variant with global hypokinesia, only in children and a short PR"
+      ],
+      "ans": 0,
+      "exp": "The note lists variant of HCM, apical hypertrophy, only in Japanese population and deep/giant T inversions. (Book p337)"
+    },
+    {
+      "id": "MED-C56-14",
+      "sec": "Asymmetric and Inappropriate Hypertrophy, the Three LVOT States, Yamaguchi Disease and Diastolic Pathophysiology",
+      "page": 337,
+      "fmt": "recall",
+      "q": "Which stepwise chain opens the diastolic-dysfunction pathophysiology?",
+      "opts": [
+        "Concentric LVH → decreased cavity size → raised LV end-diastolic pressure → raised LA pressure",
+        "Microvascular inflammation → normal coronaries → troponin fall",
+        "LV dilatation → increased cavity size → reduced LVEDP → reduced LAP",
+        "Aortic regurgitation → wide pulse pressure → low DBP → syncope"
+      ],
+      "ans": 0,
+      "exp": "The vertical chain begins with concentric LVH, smaller cavity, raised LVEDP and raised LA pressure. (Book p337)"
+    },
+    {
+      "id": "MED-C56-15",
+      "sec": "Asymmetric and Inappropriate Hypertrophy, the Three LVOT States, Yamaguchi Disease and Diastolic Pathophysiology",
+      "page": 337,
+      "fmt": "numeric",
+      "q": "How does atrial stretch and dilatation change cardiac-output contribution in the flowchart?",
+      "opts": [
+        "It raises atrial contribution from 25% to 40%",
+        "It lowers it from 40% to 25%",
+        "It abolishes atrial contribution",
+        "It fixes it at 10%"
+      ],
+      "ans": 0,
+      "exp": "The arrow reads increased cardiac output (from 25 → 40%) under atrial stretch/dilatation. (Book p337)"
+    },
+    {
+      "id": "MED-C56-16",
+      "sec": "Asymmetric and Inappropriate Hypertrophy, the Three LVOT States, Yamaguchi Disease and Diastolic Pathophysiology",
+      "page": 337,
+      "fmt": "recall",
+      "q": "Which two downstream arms leave the raised-LA-pressure junction?",
+      "opts": [
+        "Flash pulmonary edema → renal stenosis; thromboembolism → LV thrombus",
+        "Atrial stretch/dilatation → increased cardiac output and AF risk; raised PCWP → pulmonary edema → dyspnea",
+        "Wide pulse pressure → Lincoln sign; aortic regurgitation → nocturnal angina",
+        "Systemic congestion → JVP/ascites; atrial enlargement → low voltage"
+      ],
+      "ans": 1,
+      "exp": "The left arm gives atrial stretch/dilatation with increased CO and AF risk; the right arm gives raised PCWP → pulmonary edema → dyspnea. (Book p337)"
+    },
+    {
+      "id": "MED-C56-17",
+      "sec": "Asymmetric and Inappropriate Hypertrophy, the Three LVOT States, Yamaguchi Disease and Diastolic Pathophysiology",
+      "page": 337,
+      "fmt": "scenario",
+      "q": "A patient with HCM becomes breathless during tachycardia despite no change in coronary anatomy. Which printed mechanism explains this?",
+      "opts": [
+        "Worsened aortic regurgitation from prolonged diastole",
+        "A pleural effusion causing cough-predominant COPD",
+        "Fixed cardiac output from aortic stenosis",
+        "Tachycardia-related dyspnea on exertion from diastolic dysfunction"
+      ],
+      "ans": 3,
+      "exp": "The final line under HCM pathophysiology is tachycardia-related dyspnea on exertion. (Book p337)"
+    },
+    {
+      "id": "MED-C56-18",
+      "sec": "Asymmetric and Inappropriate Hypertrophy, the Three LVOT States, Yamaguchi Disease and Diastolic Pathophysiology",
+      "page": 337,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one statement reverses the p337 physiology.",
+      "opts": [
+        "Atrial stretch raises the risk of atrial fibrillation",
+        "One third of patients have dynamic LVOT obstruction",
+        "The septum and anterior wall are asymmetrically hypertrophied",
+        "Concentric LVH enlarges the cavity and lowers LVEDP"
+      ],
+      "ans": 3,
+      "exp": "The page says concentric LVH decreases cavity size and raises LVEDP; the other three are printed. (Book p337)"
+    },
+    {
+      "id": "MED-C56-19",
+      "sec": "Asymmetrical Septal Hypertrophy, SAM, the Two Murmurs, the 30-mmHg Gradient and Aortic-Stenosis Types",
+      "page": 338,
+      "fmt": "recall",
+      "q": "Which chain follows asymmetrical septal hypertrophy into the LVOT?",
+      "opts": [
+        "Aortic-root dilatation → wide pulse pressure → low DBP → AK",
+        "Dilatation of LVOT → low-velocity jet → high-pressure zones → valve closure",
+        "Concentric fibrosis → small atria → low RVEDP → edema",
+        "Projection into LVOT → narrow LVOT width → high-velocity jet → low-pressure zones on either side of the jet"
+      ],
+      "ans": 3,
+      "exp": "The top of p338 prints that exact sequence. (Book p338)"
+    },
+    {
+      "id": "MED-C56-20",
+      "sec": "Asymmetrical Septal Hypertrophy, SAM, the Two Murmurs, the 30-mmHg Gradient and Aortic-Stenosis Types",
+      "page": 338,
+      "fmt": "fillup",
+      "q": "The low-pressure zones suck the anterior mitral leaflet into the septum/LVOT; this systolic anterior motion (SAM) occurs after ______ of systole.",
+      "opts": [
+        "one third",
+        "the completion",
+        "two thirds",
+        "one quarter"
+      ],
+      "ans": 2,
+      "exp": "The line reads systolic motion of the anterior mitral leaflet (SAM) occurs after 2/3rd of systole. (Book p338)"
+    },
+    {
+      "id": "MED-C56-21",
+      "sec": "Asymmetrical Septal Hypertrophy, SAM, the Two Murmurs, the 30-mmHg Gradient and Aortic-Stenosis Types",
+      "page": 338,
+      "fmt": "match",
+      "q": "Match each consequence of SAM to its printed branch — 1) Secondary mild MR 2) Increased LVOT obstruction … A) Ejection systolic murmur at the lower left sternal border B) Pansystolic murmur at the apex",
+      "opts": [
+        "1-A, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-B",
+        "1-B, 2-A"
+      ],
+      "ans": 3,
+      "exp": "The left branch gives mild MR → PSM at apex; the right gives increased LVOT obstruction → ESM at LLSB. (Book p338)"
+    },
+    {
+      "id": "MED-C56-22",
+      "sec": "Asymmetrical Septal Hypertrophy, SAM, the Two Murmurs, the 30-mmHg Gradient and Aortic-Stenosis Types",
+      "page": 338,
+      "fmt": "numeric",
+      "q": "What gradient is printed beneath the SAM branches?",
+      "opts": [
+        "15 mmHg",
+        "50 mmHg",
+        "90 mmHg",
+        "30 mmHg"
+      ],
+      "ans": 3,
+      "exp": "The section heading reads gradient (30 mmHg). (Book p338)"
+    },
+    {
+      "id": "MED-C56-23",
+      "sec": "Asymmetrical Septal Hypertrophy, SAM, the Two Murmurs, the 30-mmHg Gradient and Aortic-Stenosis Types",
+      "page": 338,
+      "fmt": "recall",
+      "q": "Why does that gradient occur, and what does it determine?",
+      "opts": [
+        "It is due to aortic-root dilatation and determines all peripheral signs",
+        "It is due to valve calcification and determines coronary calcium only",
+        "It is due to subaortic obstruction (subvalvular AS) and determines progression to heart failure (most important) and symptom severity",
+        "It is due to renal-artery stenosis and determines flash edema"
+      ],
+      "ans": 2,
+      "exp": "The gradient section says due to subaortic obstruction (subvalvular AS) and draws a determinant bracket to progression to HF (most important) and severity of symptoms. (Book p338)"
+    },
+    {
+      "id": "MED-C56-24",
+      "sec": "Asymmetrical Septal Hypertrophy, SAM, the Two Murmurs, the 30-mmHg Gradient and Aortic-Stenosis Types",
+      "page": 338,
+      "fmt": "match",
+      "q": "Match the three aortic-stenosis levels printed in the note — 1) Valvular 2) Subvalvular 3) Supravalvular … A) Least common; Williams syndrome B) Occurs in HCM C) Most common",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 0,
+      "exp": "The note reads valvular (m/c), subvalvular in HCM and supravalvular (Williams syndrome) least common. (Book p338)"
+    },
+    {
+      "id": "MED-C56-25",
+      "sec": "Asymmetrical Septal Hypertrophy, SAM, the Two Murmurs, the 30-mmHg Gradient and Aortic-Stenosis Types",
+      "page": 338,
+      "fmt": "fillup",
+      "q": "Angina with normal coronaries in HCM is attributed to ______ dysfunction.",
+      "opts": [
+        "pericardial",
+        "hepatic",
+        "valvular",
+        "microvascular"
+      ],
+      "ans": 3,
+      "exp": "The closing line reads angina with normal coronaries due to microvascular dysfunction. (Book p338)"
+    },
+    {
+      "id": "MED-C56-26",
+      "sec": "Asymmetrical Septal Hypertrophy, SAM, the Two Murmurs, the 30-mmHg Gradient and Aortic-Stenosis Types",
+      "page": 338,
+      "fmt": "scenario",
+      "q": "A patient has a 30-mmHg subaortic gradient, an ESM at the lower left sternal border and a PSM at the apex after SAM. What is the complication most strongly determined by that gradient?",
+      "opts": [
+        "Aortic-root dissection",
+        "Renal-artery stenosis",
+        "Flash pulmonary edema",
+        "Progression to heart failure"
+      ],
+      "ans": 3,
+      "exp": "The gradient bracket marks progression to heart failure as most important, along with symptom severity. (Book p338)"
+    },
+    {
+      "id": "MED-C56-27",
+      "sec": "Asymmetrical Septal Hypertrophy, SAM, the Two Murmurs, the 30-mmHg Gradient and Aortic-Stenosis Types",
+      "page": 338,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one event is not in the p338 SAM chain.",
+      "opts": [
+        "The septum projects into the LVOT",
+        "A high-velocity jet creates low-pressure zones",
+        "SAM occurs before one third of systole",
+        "The anterior mitral leaflet is drawn into the septum/LVOT"
+      ],
+      "ans": 2,
+      "exp": "The page says SAM occurs after two thirds of systole, not before one third. (Book p338)"
+    },
+    {
+      "id": "MED-C56-28",
+      "sec": "HCM Symptoms, Pulse and Apex Signs, Heart Sounds, Murmurs and the Principle of Dynamic Auscultation",
+      "page": 339,
+      "fmt": "numeric",
+      "q": "What asymptomatic percentage opens the clinical-features section?",
+      "opts": [
+        "95–99%",
+        "25%",
+        "70%",
+        "50%"
+      ],
+      "ans": 0,
+      "exp": "The first symptom bullet repeats 95–99% asymptomatic. (Book p339)"
+    },
+    {
+      "id": "MED-C56-29",
+      "sec": "HCM Symptoms, Pulse and Apex Signs, Heart Sounds, Murmurs and the Principle of Dynamic Auscultation",
+      "page": 339,
+      "fmt": "match",
+      "q": "Match each symptom branch — 1) Raised LAP/LVEDP 2) LVOT-obstruction symptoms 3) Palpitations 4) Syncope … A) Dyspnea on exertion/fatigue, orthopnea and PND in advanced stages B) Angina, syncope and dyspnea C) Due to arrhythmias; AF is the most common sustained arrhythmia D) Listed separately at the end",
+      "opts": [
+        "1-B, 2-A, 3-C, 4-D",
+        "1-A, 2-B, 3-D, 4-C",
+        "1-A, 2-C, 3-B, 4-D",
+        "1-A, 2-B, 3-C, 4-D"
+      ],
+      "ans": 3,
+      "exp": "The symptom arms are raised LAP/LVEDP with DOE/fatigue, orthopnea and PND; LVOT obstruction with angina/syncope/dyspnea; palpitations from arrhythmias with AF m/c sustained; and a final syncope bullet. (Book p339)"
+    },
+    {
+      "id": "MED-C56-30",
+      "sec": "HCM Symptoms, Pulse and Apex Signs, Heart Sounds, Murmurs and the Principle of Dynamic Auscultation",
+      "page": 339,
+      "fmt": "recall",
+      "q": "Which BP, JVP, pulse and bisferiens findings are printed?",
+      "opts": [
+        "Normal BP and JVP; jerky pulse; pulsus bisferiens with two systolic peaks, percussion > tidal and a second peak from SAM obstruction",
+        "Hypertensive crisis and cannon waves; pulsus alternans; P = T",
+        "Narrow pulse pressure and raised JVP; pulsus tardus; no bisferiens",
+        "Wide BP and raised JVP; collapsing pulse; P < T; third peak from AI"
+      ],
+      "ans": 0,
+      "exp": "The signs read BP normal, JVP normal, jerky pulse and pulsus bisferiens with its two peaks and SAM relation. (Book p339)"
+    },
+    {
+      "id": "MED-C56-31",
+      "sec": "HCM Symptoms, Pulse and Apex Signs, Heart Sounds, Murmurs and the Principle of Dynamic Auscultation",
+      "page": 339,
+      "fmt": "match",
+      "q": "Match each apical impulse to its printed cause — 1) Double apical impulse 2) Triple apical impulse … A) Presystolic accentuation B) SAM",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "The apex branch gives double impulse due to SAM and triple impulse due to presystolic accentuation. (Book p339)"
+    },
+    {
+      "id": "MED-C56-32",
+      "sec": "HCM Symptoms, Pulse and Apex Signs, Heart Sounds, Murmurs and the Principle of Dynamic Auscultation",
+      "page": 339,
+      "fmt": "match",
+      "q": "Match each heart sound to its printed finding — 1) S1 2) S2 3) S3 4) S4 … A) Present + from reduced filling of a non-compliant ventricle B) Normal C) Reverse split because LV hypertrophy increases ejection time D) Present ++ from a healthy atrium in sinus rhythm contracting into a hypertrophied non-compliant ventricle",
+      "opts": [
+        "1-B, 2-A, 3-C, 4-D",
+        "1-C, 2-B, 3-A, 4-D",
+        "1-B, 2-C, 3-A, 4-D",
+        "1-B, 2-C, 3-D, 4-A"
+      ],
+      "ans": 2,
+      "exp": "The four lines read S1 normal, S2 reverse split, S3 + and S4 ++ with those explanations. (Book p339)"
+    },
+    {
+      "id": "MED-C56-33",
+      "sec": "HCM Symptoms, Pulse and Apex Signs, Heart Sounds, Murmurs and the Principle of Dynamic Auscultation",
+      "page": 339,
+      "fmt": "recall",
+      "q": "Which two murmurs and three gradient factors close page 339?",
+      "opts": [
+        "Continuous murmur and OS; factors are calcium, platelets and oxygen",
+        "ESM at LLSB and PSM at apex; intensity varies with the LV–aorta pressure gradient, whose factors are preload, afterload and inotropy",
+        "Pericardial knock and tumour plop; factors are JVP, edema and ascites",
+        "EDM at base and MDM at apex; factors are heart rate, temperature and hemoglobin"
+      ],
+      "ans": 1,
+      "exp": "The murmur branch and dynamic-auscultation heading print those exact items. (Book p339)"
+    },
+    {
+      "id": "MED-C56-34",
+      "sec": "HCM Symptoms, Pulse and Apex Signs, Heart Sounds, Murmurs and the Principle of Dynamic Auscultation",
+      "page": 339,
+      "fmt": "fillup",
+      "q": "The dynamic-auscultation principle says the intensity of the ESM is proportional to the ______ pressure gradient.",
+      "opts": [
+        "aorta–pulmonary",
+        "LV–aorta",
+        "LA–LV",
+        "RA–RV"
+      ],
+      "ans": 1,
+      "exp": "The line reads intensity of ESM α LV–aorta pressure gradient. (Book p339)"
+    },
+    {
+      "id": "MED-C56-35",
+      "sec": "HCM Symptoms, Pulse and Apex Signs, Heart Sounds, Murmurs and the Principle of Dynamic Auscultation",
+      "page": 339,
+      "fmt": "scenario",
+      "q": "A young athlete has a jerky pulse, normal JVP and BP, a double apical impulse and an ESM at the lower left sternal border. Which cardiomyopathy fits these signs?",
+      "opts": [
+        "Hypertrophic cardiomyopathy",
+        "Restrictive cardiomyopathy",
+        "Dilated cardiomyopathy",
+        "Acute myocarditis"
+      ],
+      "ans": 0,
+      "exp": "These are the printed HCM pulse/apex/murmur signs. (Book p339)"
+    },
+    {
+      "id": "MED-C56-36",
+      "sec": "HCM Symptoms, Pulse and Apex Signs, Heart Sounds, Murmurs and the Principle of Dynamic Auscultation",
+      "page": 339,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one sign contradicts the printed HCM examination.",
+      "opts": [
+        "Normal JVP",
+        "Normal BP",
+        "Pulsus bisferiens",
+        "Wide pulse pressure with a collapsing pulse"
+      ],
+      "ans": 3,
+      "exp": "Wide pulse pressure/collapsing pulse is an AR sign; HCM has normal BP/JVP and bisferiens. (Book p339)"
+    },
+    {
+      "id": "MED-C56-37",
+      "sec": "Preferred Loading States, Relieving and Aggravating Factors, Manoeuvres, the Valsalva Exceptions and ECG",
+      "page": 340,
+      "fmt": "match",
+      "q": "Match the preferred loading state for HCM — 1) Preload 2) Afterload 3) Inotropy … A) Low B) High C) High",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 2,
+      "exp": "The top row reads high preload, high afterload and low inotropy. (Book p340)"
+    },
+    {
+      "id": "MED-C56-38",
+      "sec": "Preferred Loading States, Relieving and Aggravating Factors, Manoeuvres, the Valsalva Exceptions and ECG",
+      "page": 340,
+      "fmt": "recall",
+      "q": "Which three harmful mechanisms are drawn beneath the loading states?",
+      "opts": [
+        "High preload stretches the pericardium; high afterload closes the aortic valve; low inotropy causes SAM",
+        "Low preload reduces cavity size and raises obstruction/gradient/severity; reduced afterload leaves less blood in the LV and narrows the LVOT; increased inotropy draws the septum and mitral valve into the LVOT",
+        "Low preload causes wide pulse pressure; low afterload causes cyanosis; high inotropy causes pleural effusion",
+        "All three lower LVEDP and abolish the gradient"
+      ],
+      "ans": 1,
+      "exp": "Those are the three vertically printed mechanism chains under preload, afterload and inotropy. (Book p340)"
+    },
+    {
+      "id": "MED-C56-39",
+      "sec": "Preferred Loading States, Relieving and Aggravating Factors, Manoeuvres, the Valsalva Exceptions and ECG",
+      "page": 340,
+      "fmt": "match",
+      "q": "Match each relieving or aggravating factor — 1) Relieving 2) Preload aggravators 3) Afterload aggravator 4) Inotropy aggravators … A) Hydration (raised preload) B) Aggressive fall in BP C) Moderate–severe activity and digoxin-type inotropes (contraindicated to elevate BP) D) Venodilators and diuretics",
+      "opts": [
+        "1-A, 2-D, 3-C, 4-B",
+        "1-D, 2-A, 3-B, 4-C",
+        "1-A, 2-B, 3-D, 4-C",
+        "1-A, 2-D, 3-B, 4-C"
+      ],
+      "ans": 3,
+      "exp": "Hydration relieves; venodilators/diuretics lower preload; aggressive BP reduction lowers afterload; moderate–severe activity and inotropes such as digoxin increase inotropy. (Book p340)"
+    },
+    {
+      "id": "MED-C56-40",
+      "sec": "Preferred Loading States, Relieving and Aggravating Factors, Manoeuvres, the Valsalva Exceptions and ECG",
+      "page": 340,
+      "fmt": "match",
+      "q": "Match each dynamic manoeuvre to the column it occupies — 1) Valsalva while standing 2) Amyl nitrite 3) Isoproterenol 4) Hand grip … A) Decreases murmur intensity by raising afterload B) Increases intensity by lowering preload C) Increases intensity by raising force of contraction D) Increases intensity by lowering afterload",
+      "opts": [
+        "1-B, 2-C, 3-D, 4-A",
+        "1-D, 2-B, 3-C, 4-A",
+        "1-B, 2-D, 3-C, 4-A",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 2,
+      "exp": "Three manoeuvres sit in the increase-intensity column; hand grip and phenylephrine raise afterload in the decrease-intensity column. (Book p340)"
+    },
+    {
+      "id": "MED-C56-41",
+      "sec": "Preferred Loading States, Relieving and Aggravating Factors, Manoeuvres, the Valsalva Exceptions and ECG",
+      "page": 340,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about the Valsalva note and hand-grip partner.",
+      "opts": [
+        "True — standing Valsalva lowers all other murmurs but increases HCM intensity and MVP duration",
+        "False — hand grip lowers afterload",
+        "False — MVP and HCM are the only murmurs that decrease",
+        "True — standing Valsalva increases every murmur equally"
+      ],
+      "ans": 0,
+      "exp": "The note says all murmurs decrease with standing Valsalva except MVP (increased duration) and HCM (increased intensity); hand grip raises afterload. (Book p340)"
+    },
+    {
+      "id": "MED-C56-42",
+      "sec": "Preferred Loading States, Relieving and Aggravating Factors, Manoeuvres, the Valsalva Exceptions and ECG",
+      "page": 340,
+      "fmt": "recall",
+      "q": "Which second drug shares the decreased-intensity column with hand grip?",
+      "opts": [
+        "Phenylephrine",
+        "Amyl nitrite",
+        "Digoxin",
+        "Isoproterenol"
+      ],
+      "ans": 0,
+      "exp": "The decrease-intensity column lists hand grip and phenylephrine with increased afterload. (Book p340)"
+    },
+    {
+      "id": "MED-C56-43",
+      "sec": "Preferred Loading States, Relieving and Aggravating Factors, Manoeuvres, the Valsalva Exceptions and ECG",
+      "page": 340,
+      "fmt": "recall",
+      "q": "Which ECG findings are printed for HCM?",
+      "opts": [
+        "LVH, precordial ST–T changes and deep giant T inversions in Yamaguchi disease",
+        "Complete heart block and atrial standstill",
+        "Low-voltage QRS and pseudo-infarct pattern",
+        "Delta waves and long QT"
+      ],
+      "ans": 0,
+      "exp": "The investigations bullets are LVH and, in precordial leads, ST–T changes/deep giant T inversions (Yamaguchi). (Book p340)"
+    },
+    {
+      "id": "MED-C56-44",
+      "sec": "Preferred Loading States, Relieving and Aggravating Factors, Manoeuvres, the Valsalva Exceptions and ECG",
+      "page": 340,
+      "fmt": "scenario",
+      "q": "A patient with HCM stands and performs Valsalva; the ESM becomes louder. What change in loading is the page using to explain this?",
+      "opts": [
+        "Reduced contractility",
+        "Increased afterload",
+        "Reduced preload",
+        "Increased venous return"
+      ],
+      "ans": 2,
+      "exp": "The increase-intensity column labels standing Valsalva as decreased preload. (Book p340)"
+    },
+    {
+      "id": "MED-C56-45",
+      "sec": "Preferred Loading States, Relieving and Aggravating Factors, Manoeuvres, the Valsalva Exceptions and ECG",
+      "page": 340,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one intervention should reduce, not aggravate, the HCM murmur.",
+      "opts": [
+        "Isoproterenol",
+        "Venodilators",
+        "Diuretics",
+        "Hydration"
+      ],
+      "ans": 3,
+      "exp": "Hydration raises preload and is the printed relieving factor; the others aggravate obstruction. (Book p340)"
+    },
+    {
+      "id": "MED-C56-46",
+      "sec": "ECHO and the Dagger Sign, Medical Treatment and Beta-Blocker Advantages, CCBs and ICD Indications",
+      "page": 341,
+      "fmt": "management",
+      "q": "Which test is called the gold standard for diagnosing HCM?",
+      "opts": [
+        "Coronary angiogram",
+        "ECHO",
+        "ECG",
+        "Cardiac MRI"
+      ],
+      "ans": 1,
+      "exp": "The ECHO bullet reads gold standard for diagnosis of HCM. (Book p341)"
+    },
+    {
+      "id": "MED-C56-47",
+      "sec": "ECHO and the Dagger Sign, Medical Treatment and Beta-Blocker Advantages, CCBs and ICD Indications",
+      "page": 341,
+      "fmt": "numeric",
+      "q": "What ECHO thickness and exclusions are printed?",
+      "opts": [
+        "≥30 mm with biatrial dilatation",
+        "≥5 mm with pericardial effusion",
+        "<10 mm with dilatation",
+        "≥15 mm LV thickening without dilatation in the absence of another valvular/systemic/cardiac etiology"
+      ],
+      "ans": 3,
+      "exp": "The criterion repeats ≥15 mm thickening of LV with no dilatation and no other valvular/systemic/cardiac cause. (Book p341)"
+    },
+    {
+      "id": "MED-C56-48",
+      "sec": "ECHO and the Dagger Sign, Medical Treatment and Beta-Blocker Advantages, CCBs and ICD Indications",
+      "page": 341,
+      "fmt": "fillup",
+      "q": "The Doppler figure is labelled the ______ sign.",
+      "opts": [
+        "dagger",
+        "zebra",
+        "pistol-shot",
+        "bat-wing"
+      ],
+      "ans": 0,
+      "exp": "The Doppler caption reads dagger sign. (Book p341)"
+    },
+    {
+      "id": "MED-C56-49",
+      "sec": "ECHO and the Dagger Sign, Medical Treatment and Beta-Blocker Advantages, CCBs and ICD Indications",
+      "page": 341,
+      "fmt": "management",
+      "q": "What medical-management formula is printed above the individual drugs?",
+      "opts": [
+        "Furosemide plus morphine",
+        "Nitroprusside plus NTG",
+        "ACE inhibitor plus ARNI",
+        "Beta blocker or CCB plus disopyramide"
+      ],
+      "ans": 3,
+      "exp": "The line reads β-blocker/CCB + disopyramide. (Book p341)"
+    },
+    {
+      "id": "MED-C56-50",
+      "sec": "ECHO and the Dagger Sign, Medical Treatment and Beta-Blocker Advantages, CCBs and ICD Indications",
+      "page": 341,
+      "fmt": "numeric",
+      "q": "What propranolol dose and maximum are printed for HCM?",
+      "opts": [
+        "5 µg/min (maximum 20 µg/min)",
+        "3.125 mg BD (maximum 25 mg)",
+        "1.25 mg (maximum 5 mg)",
+        "2 mg/kg (maximum 480 mg)"
+      ],
+      "ans": 3,
+      "exp": "The beta-blocker line reads propranolol 2 mg/kg, max 480 mg. (Book p341)"
+    },
+    {
+      "id": "MED-C56-51",
+      "sec": "ECHO and the Dagger Sign, Medical Treatment and Beta-Blocker Advantages, CCBs and ICD Indications",
+      "page": 341,
+      "fmt": "match",
+      "q": "Match each printed beta-blocker advantage — 1) Heart rate 2) LVOT gradient 3) Angina 4) Diastolic filling … A) Reduced during rest and exercise B) Increased C) Reduced exercise heart-rate response D) Relieved by lowering myocardial oxygen demand",
+      "opts": [
+        "1-C, 2-A, 3-D, 4-B",
+        "1-C, 2-A, 3-B, 4-D",
+        "1-A, 2-C, 3-D, 4-B",
+        "1-C, 2-D, 3-A, 4-B"
+      ],
+      "ans": 0,
+      "exp": "The four advantages are reduced HR response to exercise, reduced rest/exercise gradient, angina relief by reduced myocardial O₂ demand and increased diastolic filling. (Book p341)"
+    },
+    {
+      "id": "MED-C56-52",
+      "sec": "ECHO and the Dagger Sign, Medical Treatment and Beta-Blocker Advantages, CCBs and ICD Indications",
+      "page": 341,
+      "fmt": "recall",
+      "q": "What does the first beta-blocker bullet state, and which two indications introduce CCBs?",
+      "opts": [
+        "Beta blocker is DOC; CCBs are used when beta blockers are contraindicated or their side effects are intolerable",
+        "Beta blocker is second line; CCBs are used to raise heart rate",
+        "Beta blocker is an inotrope; CCBs are used to close the ductus",
+        "Beta blocker is contraindicated; CCBs are used only in pregnancy"
+      ],
+      "ans": 0,
+      "exp": "The beta-blocker bullet says DOC; CCB indications are contraindication or intolerance to beta blockers. (Book p341)"
+    },
+    {
+      "id": "MED-C56-53",
+      "sec": "ECHO and the Dagger Sign, Medical Treatment and Beta-Blocker Advantages, CCBs and ICD Indications",
+      "page": 341,
+      "fmt": "recall",
+      "q": "Which two calcium-channel blockers are named?",
+      "opts": [
+        "Diltiazem and digoxin",
+        "Verapamil and propranolol",
+        "Amlodipine and nifedipine",
+        "Verapamil and diltiazem"
+      ],
+      "ans": 3,
+      "exp": "The CCB drug line names verapamil and diltiazem. (Book p341)"
+    },
+    {
+      "id": "MED-C56-54",
+      "sec": "ECHO and the Dagger Sign, Medical Treatment and Beta-Blocker Advantages, CCBs and ICD Indications",
+      "page": 341,
+      "fmt": "match",
+      "q": "Match the first three ICD indications — 1) First 2) Second 3) Third … A) Family history of SCD B) History of cardiac arrest C) Sustained VT",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 0,
+      "exp": "The ICD list begins H/o cardiac arrest, family H/o SCD and sustained VT. (Book p341)"
+    },
+    {
+      "id": "MED-C56-55",
+      "sec": "ECHO and the Dagger Sign, Medical Treatment and Beta-Blocker Advantages, CCBs and ICD Indications",
+      "page": 341,
+      "fmt": "recall",
+      "q": "Which final three ICD indications complete the column?",
+      "opts": [
+        "EF <50%, gradient >60 mmHg and peak flow ≥5 m/s",
+        "Age >75, Mayne sign and Sherman sign",
+        "Troponin rise, peripheral enhancement and Dallas criteria",
+        "Abnormal Holter study, unexplained syncope and LVH >30 mm"
+      ],
+      "ans": 3,
+      "exp": "The last three indications are abnormal Holter, unexplained syncope and LVH >30 mm. (Book p341)"
+    },
+    {
+      "id": "MED-C56-56",
+      "sec": "Disopyramide, Surgical Management, Restrictive Cardiomyopathy Physiology and Its Clinical Features",
+      "page": 342,
+      "fmt": "recall",
+      "q": "Which three disopyramide facts are printed?",
+      "opts": [
+        "It is an SGLT2 inhibitor, added to diuretics and causes visual loss",
+        "It is an anthracycline, added to chemotherapy and causes hair loss",
+        "It is class III, replaces transplant and causes hypertension",
+        "It is class Ia, added with beta blocker/CCB if there is no relief, and can prolong QT, cause anticholinergic effects and reduce EF"
+      ],
+      "ans": 3,
+      "exp": "The disopyramide bullets are class Ia, added with β-blocker/CCB if no relief, and the three side effects. (Book p342)"
+    },
+    {
+      "id": "MED-C56-57",
+      "sec": "Disopyramide, Surgical Management, Restrictive Cardiomyopathy Physiology and Its Clinical Features",
+      "page": 342,
+      "fmt": "numeric",
+      "q": "What refractory gradient triggers surgical management?",
+      "opts": [
+        ">90 mmHg",
+        ">15 mmHg",
+        ">50 mmHg despite medical therapy",
+        ">30 mmHg"
+      ],
+      "ans": 2,
+      "exp": "The surgical indication reads refractory HCM with gradient >50 mmHg despite medical therapy. (Book p342)"
+    },
+    {
+      "id": "MED-C56-58",
+      "sec": "Disopyramide, Surgical Management, Restrictive Cardiomyopathy Physiology and Its Clinical Features",
+      "page": 342,
+      "fmt": "match",
+      "q": "Match the two printed surgical methods — 1) Septal myomectomy 2) Alcohol septal ablation … A) Second method listed B) First method listed",
+      "opts": [
+        "1-A, 2-A",
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-B"
+      ],
+      "ans": 1,
+      "exp": "The methods line lists septal myomectomy, then alcohol septal ablation. (Book p342)"
+    },
+    {
+      "id": "MED-C56-59",
+      "sec": "Disopyramide, Surgical Management, Restrictive Cardiomyopathy Physiology and Its Clinical Features",
+      "page": 342,
+      "fmt": "recall",
+      "q": "How is restrictive cardiomyopathy introduced?",
+      "opts": [
+        "As the most common genetic cardiovascular disease",
+        "As an acute aortic regurgitation syndrome",
+        "As non-genetic and more common than HCM, under a nested diastolic-dysfunction scheme",
+        "As a catecholamine-induced apical ballooning syndrome"
+      ],
+      "ans": 2,
+      "exp": "The line reads non-genetic → more common than HCM above the nested diastolic-dysfunction diagram. (Book p342)"
+    },
+    {
+      "id": "MED-C56-60",
+      "sec": "Disopyramide, Surgical Management, Restrictive Cardiomyopathy Physiology and Its Clinical Features",
+      "page": 342,
+      "fmt": "match",
+      "q": "Match each label in the nested diastolic-dysfunction diagram — 1) Outer 2) Middle 3) Inner 4) Constrictive branch … A) Restrictive CMP B) Diastolic dysfunction C) Restrictive physiology D) Constrictive, e.g. chronic constrictive pericarditis",
+      "opts": [
+        "1-C, 2-B, 3-A, 4-D",
+        "1-B, 2-C, 3-D, 4-A",
+        "1-B, 2-C, 3-A, 4-D",
+        "1-B, 2-A, 3-C, 4-D"
+      ],
+      "ans": 2,
+      "exp": "The nested ovals are diastolic dysfunction, restrictive physiology and restrictive CMP; constrictive pericarditis is the adjacent but less severe branch. (Book p342)"
+    },
+    {
+      "id": "MED-C56-61",
+      "sec": "Disopyramide, Surgical Management, Restrictive Cardiomyopathy Physiology and Its Clinical Features",
+      "page": 342,
+      "fmt": "recall",
+      "q": "Which first three RCM features are printed?",
+      "opts": [
+        "Hypertrophied septum; LVOT obstruction; SAM",
+        "Ballooned apex; hypercontractile base; normal coronaries",
+        "Stiff non-compliant ventricles (R > L) with raised filling pressure; non-dilated normal-sized/small ventricles; and normal thickness",
+        "Dilated thin ventricles; large cavity; increased thickness"
+      ],
+      "ans": 2,
+      "exp": "The feature bullets begin stiff non-compliant ventricles (R > L) → raised pressure to fill, non-dilated ventricles and normal thickness. (Book p342)"
+    },
+    {
+      "id": "MED-C56-62",
+      "sec": "Disopyramide, Surgical Management, Restrictive Cardiomyopathy Physiology and Its Clinical Features",
+      "page": 342,
+      "fmt": "recall",
+      "q": "Which two arms follow raised RAP in the RCM flowchart?",
+      "opts": [
+        "Increased systemic blood pressure → systemic congestion with JVP, ascites, edema and hepatomegaly; atrial stretch/dilatation → increased AF risk",
+        "Wide pulse pressure → Lincoln/Sherman signs; coronary steal → angina",
+        "LVOT obstruction → ESM/PSM; sudden death",
+        "Cephalisation → Kerley lines; bat-wing edema"
+      ],
+      "ans": 0,
+      "exp": "The RAP node branches into systemic congestion and atrial stretch/AF. (Book p342)"
+    },
+    {
+      "id": "MED-C56-63",
+      "sec": "Disopyramide, Surgical Management, Restrictive Cardiomyopathy Physiology and Its Clinical Features",
+      "page": 342,
+      "fmt": "match",
+      "q": "Match each LV and atrial measurement to its printed value — 1) Systolic function 2) Dimensions 3) Both atria 4) End-diastolic pressure … A) Massively enlarged B) Normal or rarely reduced C) Almost normal D) Raised, RVEDP > LVEDP",
+      "opts": [
+        "1-C, 2-A, 3-B, 4-D",
+        "1-B, 2-C, 3-A, 4-D",
+        "1-C, 2-B, 3-D, 4-A",
+        "1-C, 2-B, 3-A, 4-D"
+      ],
+      "ans": 3,
+      "exp": "The lower bullets give systolic function almost normal, dimensions normal/rarely ↓, both atria massively enlarged and high EDP with RVEDP > LVEDP. (Book p342)"
+    },
+    {
+      "id": "MED-C56-64",
+      "sec": "Disopyramide, Surgical Management, Restrictive Cardiomyopathy Physiology and Its Clinical Features",
+      "page": 342,
+      "fmt": "recall",
+      "q": "What are the final three statements in the RCM features list?",
+      "opts": [
+        "Syncope is the first sign; HCM is the severest form; left failure exceeds right",
+        "Angina is the first sign; constriction is the severest form; systole fails first",
+        "Subtle exercise intolerance is the first sign; restrictive physiology is the severest diastolic dysfunction; biventricular diastolic failure is R > L",
+        "Palpitations are the first sign; Takotsubo is the severest form; output increases"
+      ],
+      "ans": 2,
+      "exp": "Those three closing lines are printed in that order. (Book p342)"
+    },
+    {
+      "id": "MED-C56-65",
+      "sec": "Disopyramide, Surgical Management, Restrictive Cardiomyopathy Physiology and Its Clinical Features",
+      "page": 342,
+      "fmt": "scenario",
+      "q": "A patient has normal-sized ventricles with almost normal systolic function, massively enlarged atria, RVEDP above LVEDP and early exercise intolerance. Which diagnosis is described?",
+      "opts": [
+        "Dilated cardiomyopathy",
+        "Hypertrophic cardiomyopathy",
+        "Restrictive cardiomyopathy",
+        "Takotsubo cardiomyopathy"
+      ],
+      "ans": 2,
+      "exp": "These are the characteristic RCM chamber and pressure findings with subtle exercise intolerance as first sign. (Book p342)"
+    },
+    {
+      "id": "MED-C56-66",
+      "sec": "RCM Causes and Storage Patterns, the Most Common Mutations, Amyloidosis Classification and Features",
+      "page": 343,
+      "fmt": "match",
+      "q": "Match each RCM cause group to its members — 1) Non-infiltrative 2) Intracellular 3) Intercellular 4) Infection note … A) Iron, glycosphingolipid and glycogen accumulation B) Amyloidosis, sarcoidosis, Loeffler syndrome and tropical endomyocardial fibrosis C) DM and scleroderma D) Ascaris lumbricoides, most common associated infection",
+      "opts": [
+        "1-C, 2-A, 3-D, 4-B",
+        "1-C, 2-A, 3-B, 4-D",
+        "1-C, 2-B, 3-A, 4-D",
+        "1-A, 2-C, 3-B, 4-D"
+      ],
+      "ans": 1,
+      "exp": "The causes tree divides non-infiltrative DM/scleroderma, intracellular storage diseases, intercellular infiltrative disease and the Ascaris infection note. (Book p343)"
+    },
+    {
+      "id": "MED-C56-67",
+      "sec": "RCM Causes and Storage Patterns, the Most Common Mutations, Amyloidosis Classification and Features",
+      "page": 343,
+      "fmt": "match",
+      "q": "Match each intracellular storage disease to its printed phenotype — 1) Iron accumulation 2) Fabry glycosphingolipid 3) Pompe glycogen … A) HCM > RCM B) HCM > RCM C) Dilated > RCM",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-A, 3-B",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 2,
+      "exp": "Hemochromatosis is printed as dilated > RCM; glycosphingolipid (Fabry) and glycogen (Pompe) accumulation are grouped as HCM > RCM. (Book p343)"
+    },
+    {
+      "id": "MED-C56-68",
+      "sec": "RCM Causes and Storage Patterns, the Most Common Mutations, Amyloidosis Classification and Features",
+      "page": 343,
+      "fmt": "recall",
+      "q": "Which other note and figure labels accompany the intercellular causes?",
+      "opts": [
+        "ARVD shows apical ballooning; iron causes a sparkling myocardium",
+        "Sarcoidosis is DCM > RCM; the image shows lamellar bodies in Fabry disease with a zebra/onion-skin appearance",
+        "Takotsubo shows a dagger sign; amyloid has a bat-wing appearance",
+        "Myocarditis shows peripheral enhancement; alcohol causes holiday heart"
+      ],
+      "ans": 1,
+      "exp": "The right branch notes sarcoidosis DCM > RCM, and the Fabry micrograph is labelled lamellar bodies and zebra/onion skin appearance. (Book p343)"
+    },
+    {
+      "id": "MED-C56-69",
+      "sec": "RCM Causes and Storage Patterns, the Most Common Mutations, Amyloidosis Classification and Features",
+      "page": 343,
+      "fmt": "fillup",
+      "q": "The most common associated infection printed under tropical endomyocardial fibrosis is ______.",
+      "opts": [
+        "HHV-6",
+        " Aspergillus fumigatus",
+        "Trypanosoma cruzi",
+        "Ascaris lumbricoides"
+      ],
+      "ans": 3,
+      "exp": "The line reads Ascaris lumbricoides: m/c associated infection. (Book p343)"
+    },
+    {
+      "id": "MED-C56-70",
+      "sec": "RCM Causes and Storage Patterns, the Most Common Mutations, Amyloidosis Classification and Features",
+      "page": 343,
+      "fmt": "match",
+      "q": "Match the three most common mutations — 1) DCMP 2) HCM 3) RCM … A) Amyloidosis B) Myosin binding protein mutation C) Truncated-variant titin mutation",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 1,
+      "exp": "The note gives DCMP TV titin, HCM myosin binding protein and RCM amyloidosis. (Book p343)"
+    },
+    {
+      "id": "MED-C56-71",
+      "sec": "RCM Causes and Storage Patterns, the Most Common Mutations, Amyloidosis Classification and Features",
+      "page": 343,
+      "fmt": "recall",
+      "q": "Which three classification bullets open amyloidosis?",
+      "opts": [
+        "Wild senile, mutant polyneuropathy and localized ANF",
+        "IgG4, Takayasu and Behcet",
+        "AL, Fabry and Pompe",
+        "Primary AL, secondary AA with no heart involvement and only kidney, and familial ATTR (transthyretin-related amyloidosis)"
+      ],
+      "ans": 3,
+      "exp": "The classification bullets are 1° AL, 2° AA (no heart, only kidney) and familial ATTR; the heart-involved note excludes secondary AA. (Book p343)"
+    },
+    {
+      "id": "MED-C56-72",
+      "sec": "RCM Causes and Storage Patterns, the Most Common Mutations, Amyloidosis Classification and Features",
+      "page": 343,
+      "fmt": "match",
+      "q": "Match the familial ATTR types and localized form — 1) Wild type 2) Mutant type 3) Localized amyloidosis … A) Familial amyloid polyneuropathy B) Senile systemic amyloidosis C) Atrial natriuretic factor produced → heart involved",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 1,
+      "exp": "The types branch to wild senile systemic amyloidosis and mutant familial amyloid polyneuropathy; localized amyloidosis is linked to ANF and heart involvement. (Book p343)"
+    },
+    {
+      "id": "MED-C56-73",
+      "sec": "RCM Causes and Storage Patterns, the Most Common Mutations, Amyloidosis Classification and Features",
+      "page": 343,
+      "fmt": "recall",
+      "q": "Which four features are printed under amyloidosis?",
+      "opts": [
+        "Apical ballooning, hypercontractile base, normal atria and excellent prognosis",
+        "Bilaterally thickened ventricles, biatrial dilatation, interatrial septal thickening and HF with diastolic greater than systolic dysfunction",
+        "LVOT obstruction, SAM, dagger Doppler and improved filling",
+        "Dilated thin ventricles, small atria, normal septum and systolic greater than diastolic HF"
+      ],
+      "ans": 1,
+      "exp": "The features bullets are B/L thickened ventricles, biatrial dilatation, interatrial septal thickening and HF diastolic > systolic. (Book p343)"
+    },
+    {
+      "id": "MED-C56-74",
+      "sec": "RCM Causes and Storage Patterns, the Most Common Mutations, Amyloidosis Classification and Features",
+      "page": 343,
+      "fmt": "scenario",
+      "q": "A patient has biatrial dilatation, a thickened interatrial septum and bilateral ventricular thickening with diastolic-predominant heart failure. Which infiltrative disease is being described?",
+      "opts": [
+        "Takotsubo cardiomyopathy",
+        "Arrhythmogenic RV dysplasia",
+        "Amyloidosis",
+        "Sarcoidosis"
+      ],
+      "ans": 2,
+      "exp": "These are the printed amyloidosis features. (Book p343)"
+    },
+    {
+      "id": "MED-C56-75",
+      "sec": "RCM Causes and Storage Patterns, the Most Common Mutations, Amyloidosis Classification and Features",
+      "page": 343,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one line reverses the p343 classification note.",
+      "opts": [
+        "Secondary AA is printed with kidney-only involvement",
+        "Secondary AA amyloidosis is the type with universal heart involvement",
+        "Primary AL amyloidosis is listed",
+        "The heart is involved in all except secondary AA"
+      ],
+      "ans": 1,
+      "exp": "The note explicitly exempts 2° AA from heart involvement; the other three follow the page. (Book p343)"
+    },
+    {
+      "id": "MED-C56-76",
+      "sec": "Amyloidosis Investigations, Arrhythmogenic RV Dysplasia, Tachycardia-Induced CMP and Takotsubo Presentation",
+      "page": 344,
+      "fmt": "match",
+      "q": "Match the amyloidosis investigations — 1) ECG 2) ECHO 3) Cardiac MRI 4) Prognosis … A) Poor B) Low-voltage complexes and pseudo-infarct pattern C) Hypertrophy, left greater than right D) Glittering hyperrefractile myocardium ('sparkling appearance')",
+      "opts": [
+        "1-B, 2-C, 3-D, 4-A",
+        "1-B, 2-C, 3-A, 4-D",
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-D, 3-C, 4-A"
+      ],
+      "ans": 0,
+      "exp": "The investigation bullets and caption pair those findings; prognosis is poor. (Book p344)"
+    },
+    {
+      "id": "MED-C56-77",
+      "sec": "Amyloidosis Investigations, Arrhythmogenic RV Dysplasia, Tachycardia-Induced CMP and Takotsubo Presentation",
+      "page": 344,
+      "fmt": "fillup",
+      "q": "The cardiac MRI's glittering hyperrefractile or sparkling appearance is attributed on page 344 to ______ septal thickening.",
+      "opts": [
+        "interventricular",
+        "intercostal",
+        "interatrial",
+        "interlobular"
+      ],
+      "ans": 2,
+      "exp": "The line reads due to interatrial septal thickening. (Book p344)"
+    },
+    {
+      "id": "MED-C56-78",
+      "sec": "Amyloidosis Investigations, Arrhythmogenic RV Dysplasia, Tachycardia-Induced CMP and Takotsubo Presentation",
+      "page": 344,
+      "fmt": "recall",
+      "q": "Which four bullets describe arrhythmogenic RV dysplasia?",
+      "opts": [
+        "Autosomal dominant, myosin mutation, LVOT obstruction and syncope",
+        "Drug-induced, anthracycline exposure, global hypokinesia and transplant",
+        "Autosomal recessive, mutated desmosome protein, fibrofatty replacement of RV myocardium and arrhythmia predisposition leading to SCD",
+        "X-linked, tafazzin mutation, apical ballooning and excellent prognosis"
+      ],
+      "ans": 2,
+      "exp": "The ARVD bullets are autosomal recessive, desmosomes, fibrofatty replacement of RV myocardium and arrhythmias → SCD. (Book p344)"
+    },
+    {
+      "id": "MED-C56-79",
+      "sec": "Amyloidosis Investigations, Arrhythmogenic RV Dysplasia, Tachycardia-Induced CMP and Takotsubo Presentation",
+      "page": 344,
+      "fmt": "recall",
+      "q": "What chain is printed for tachycardia-induced cardiomyopathy?",
+      "opts": [
+        "Systemic infection → cytokine release → reduced LV function",
+        "Recurrent tachycardia → disruption of myocardial fibres → CMP → AF",
+        "Desmosome mutation → fibrofatty RV replacement → SCD",
+        "Chronic alcohol → acetaldehyde → AF → stroke"
+      ],
+      "ans": 1,
+      "exp": "The line reads recurrent tachycardia → disruption of myocardial fibres → CMP → A-fib. (Book p344)"
+    },
+    {
+      "id": "MED-C56-80",
+      "sec": "Amyloidosis Investigations, Arrhythmogenic RV Dysplasia, Tachycardia-Induced CMP and Takotsubo Presentation",
+      "page": 344,
+      "fmt": "match",
+      "q": "Match the five Takotsubo synonyms — 1) Broken heart syndrome 2) Transient apical ballooning 3) Neurogenic myocardial stunning 4) Stress-induced CMP 5) Catecholamine-induced CMP … A) Third B) First C) Fifth D) Second E) Fourth",
+      "opts": [
+        "1-B, 2-A, 3-D, 4-E, 5-C",
+        "1-B, 2-D, 3-A, 4-E, 5-C",
+        "1-B, 2-D, 3-E, 4-A, 5-C",
+        "1-D, 2-B, 3-A, 4-E, 5-C"
+      ],
+      "ans": 1,
+      "exp": "The synonym list runs in that printed order. (Book p344)"
+    },
+    {
+      "id": "MED-C56-81",
+      "sec": "Amyloidosis Investigations, Arrhythmogenic RV Dysplasia, Tachycardia-Induced CMP and Takotsubo Presentation",
+      "page": 344,
+      "fmt": "recall",
+      "q": "Which three presentation bullets and figure labels are printed for Takotsubo?",
+      "opts": [
+        "Middle-aged females (F >>> M), chronic stress with sympathetic overactivity and transient LV dysfunction with a hypokinetic ballooned apex",
+        "Postpartum women, SFLT1 and resolution in 3–4 months",
+        "Children, Pompe disease and short PR with giant T inversions",
+        "Older men, acute infection and concentric LVH with a small cavity"
+      ],
+      "ans": 0,
+      "exp": "The presentation bullets are those three; the figure also labels a hypokinetic ballooned apex and catecholamine-induced transient myocardial stunning. (Book p344)"
+    },
+    {
+      "id": "MED-C56-82",
+      "sec": "Amyloidosis Investigations, Arrhythmogenic RV Dysplasia, Tachycardia-Induced CMP and Takotsubo Presentation",
+      "page": 344,
+      "fmt": "fillup",
+      "q": "The figure caption calls Takotsubo a catecholamine-induced transient myocardial ______.",
+      "opts": [
+        "hypertrophy",
+        "fibrosis",
+        "infarction",
+        "stunning"
+      ],
+      "ans": 3,
+      "exp": "The caption reads catecholamine-induced transient myocardial stunning. (Book p344)"
+    },
+    {
+      "id": "MED-C56-83",
+      "sec": "Amyloidosis Investigations, Arrhythmogenic RV Dysplasia, Tachycardia-Induced CMP and Takotsubo Presentation",
+      "page": 344,
+      "fmt": "scenario",
+      "q": "A middle-aged woman under chronic stress has sympathetic overactivity and transient LV systolic dysfunction with apical ballooning. Which synonym list and diagnosis does page 344 support?",
+      "opts": [
+        "Arrhythmogenic RV dysplasia",
+        "Drug-induced CMP",
+        "Amyloidosis",
+        "Takotsubo cardiomyopathy (stress-induced CMP)"
+      ],
+      "ans": 3,
+      "exp": "Those presentation features and the figure identify Takotsubo/stress-induced CMP. (Book p344)"
+    },
+    {
+      "id": "MED-C56-84",
+      "sec": "Amyloidosis Investigations, Arrhythmogenic RV Dysplasia, Tachycardia-Induced CMP and Takotsubo Presentation",
+      "page": 344,
+      "fmt": "oddoneout",
+      "q": "Pick the ODD ONE OUT — one feature belongs to myocarditis or amyloidosis, not Takotsubo presentation.",
+      "opts": [
+        "Transient hypokinetic ballooned apex",
+        "Female predominance",
+        "Peripheral enhancement on cardiac MRI",
+        "Chronic stress with sympathetic overactivity"
+      ],
+      "ans": 2,
+      "exp": "Peripheral enhancement is the p335 myocarditis MRI caption; the other three are printed for Takotsubo. (Book p344)"
+    },
+    {
+      "id": "MED-C56-85",
+      "sec": "Takotsubo Investigations, Angiographic and ECHO Findings, Prognosis, Short-Term Complications and Treatment",
+      "page": 345,
+      "fmt": "recall",
+      "q": "What can a Takotsubo ECG mimic?",
+      "opts": [
+        "Acute coronary syndrome or acute heart failure",
+        "Complete heart block and Wolff–Parkinson–White syndrome",
+        "Acute pericarditis only",
+        "Isolated pulmonary embolism"
+      ],
+      "ans": 0,
+      "exp": "The first investigation bullet reads ECG: mimic ACS/acute heart failure. (Book p345)"
+    },
+    {
+      "id": "MED-C56-86",
+      "sec": "Takotsubo Investigations, Angiographic and ECHO Findings, Prognosis, Short-Term Complications and Treatment",
+      "page": 345,
+      "fmt": "recall",
+      "q": "Which biomarker pattern is printed?",
+      "opts": [
+        "Troponin I remains normal and NT-proBNP falls",
+        "D-dimer rises and troponin never changes",
+        "CK-MB doubles hourly and BNP is undetectable",
+        "Troponin I rises but with a reduced rate of rise, while NT-proBNP rises markedly"
+      ],
+      "ans": 3,
+      "exp": "The bullets read troponin I ↑ but ↓ rate of rise and NT-proBNP ↑↑. (Book p345)"
+    },
+    {
+      "id": "MED-C56-87",
+      "sec": "Takotsubo Investigations, Angiographic and ECHO Findings, Prognosis, Short-Term Complications and Treatment",
+      "page": 345,
+      "fmt": "match",
+      "q": "Match the three angiogram findings — 1) Coronaries 2) Apex 3) Base … A) Hypokinetic B) Normal C) Hypercontractile",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 2,
+      "exp": "The angiogram branch reads normal coronaries, hypokinetic apex and hypercontractile base. (Book p345)"
+    },
+    {
+      "id": "MED-C56-88",
+      "sec": "Takotsubo Investigations, Angiographic and ECHO Findings, Prognosis, Short-Term Complications and Treatment",
+      "page": 345,
+      "fmt": "recall",
+      "q": "What does ECHO add about the regional wall-motion abnormality?",
+      "opts": [
+        "It is absent despite angiographic changes",
+        "It is not localized to a single coronary territory",
+        "It follows the LAD territory exactly",
+        "It is confined to the RV"
+      ],
+      "ans": 1,
+      "exp": "The ECHO bullet reads RWMA not localized to a single territory. (Book p345)"
+    },
+    {
+      "id": "MED-C56-89",
+      "sec": "Takotsubo Investigations, Angiographic and ECHO Findings, Prognosis, Short-Term Complications and Treatment",
+      "page": 345,
+      "fmt": "management",
+      "q": "What long-term prognosis is printed for Takotsubo?",
+      "opts": [
+        "Uniformly fatal",
+        "Excellent",
+        "Poor, as in amyloidosis",
+        "Dependent on immediate transplant"
+      ],
+      "ans": 1,
+      "exp": "The long-term prognosis line says excellent. (Book p345)"
+    },
+    {
+      "id": "MED-C56-90",
+      "sec": "Takotsubo Investigations, Angiographic and ECHO Findings, Prognosis, Short-Term Complications and Treatment",
+      "page": 345,
+      "fmt": "match",
+      "q": "Match each short-term complication — 1) Shock 2) LV rupture 3) Thromboembolism … A) Second listed B) Third listed C) First listed",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 3,
+      "exp": "The bracket lists shock, then LV rupture, then thromboembolism, with 'same as MI' alongside. (Book p345)"
+    },
+    {
+      "id": "MED-C56-91",
+      "sec": "Takotsubo Investigations, Angiographic and ECHO Findings, Prognosis, Short-Term Complications and Treatment",
+      "page": 345,
+      "fmt": "management",
+      "q": "Which two treatment bullets close the chapter?",
+      "opts": [
+        "Septal myomectomy and alcohol ablation",
+        "Immediate transplant and disopyramide",
+        "No specific therapy and carvedilol",
+        "Steroids for all patients and anthracyclines"
+      ],
+      "ans": 2,
+      "exp": "The treatment lines read no specific therapy and carvedilol. (Book p345)"
+    },
+    {
+      "id": "MED-C56-92",
+      "sec": "Takotsubo Investigations, Angiographic and ECHO Findings, Prognosis, Short-Term Complications and Treatment",
+      "page": 345,
+      "fmt": "scenario",
+      "q": "A post-menopausal woman after emotional stress has chest pain, a modest troponin-I rise, very high NT-proBNP, normal coronaries and apical hypokinesis with a hypercontractile base. What does the page expect long term?",
+      "opts": [
+        "Excellent long-term prognosis",
+        "Universal progression to transplant",
+        "Poor prognosis from amyloid",
+        "Sudden death in every patient"
+      ],
+      "ans": 0,
+      "exp": "The investigation pattern is Takotsubo and the long-term prognosis is printed as excellent, despite short-term complications. (Book p345)"
+    },
+    {
+      "id": "MED-C56-93",
+      "sec": "Takotsubo Investigations, Angiographic and ECHO Findings, Prognosis, Short-Term Complications and Treatment",
+      "page": 345,
+      "fmt": "truefalse",
+      "q": "TRUE or FALSE about Takotsubo investigations and complications.",
+      "opts": [
+        "False — the base is hypokinetic and the apex hypercontractile",
+        "False — troponin rises with an unusually rapid rate of rise",
+        "True — ECHO changes always follow one vascular territory and complications are unique",
+        "True — ECHO wall-motion abnormality extends beyond one coronary territory and short-term complications are the same as MI"
+      ],
+      "ans": 3,
+      "exp": "The page prints a non-territorial RWMA, the same-as-MI complication bracket, slow troponin-I rise and hypokinetic apex with hypercontractile base. (Book p345)"
+    }
+  ],
+  "units": [
+    {
+      "id": "MED-U56-1",
+      "ch": 56,
+      "n": 1,
+      "title": "HCM Epidemiology, Mutations, Pediatric Mimics, Complications, the 15-mm Definition and the Athlete-versus-HCM Table",
+      "sec": "HCM Epidemiology, Mutations, Pediatric Mimics, Complications, the 15-mm Definition and the Athlete-versus-HCM Table",
+      "guide": "HCM is the most common genetic cardiovascular disease worldwide and the most common cause of SCD; it is autosomal dominant, with myosin binding protein C ranked above myosin heavy chain (p336). Incidence is M = F, females progress more to HF with poor prognosis and 95–99% are asymptomatic.\nPaediatric mimics are Pompe disease (glycogen storage disease type 2, short PR), Fabry disease, Noonan syndrome and Friedreich ataxia; complications are HF progression, arrhythmias/AF and SCD.\nHCM is LV thickness ≥15 mm without dilatation after excluding other capable cardiac/systemic disease; systemic HTN and AS are the other ≥15 mm causes. Athlete's heart has LV thickness <15 mm (10–12 mm), a large cavity, normal diastolic filling and improvement with rest; HCM has ≥15 mm, a small cavity, abnormal filling and no improvement.",
+      "qs": [
+        "MED-C56-01",
+        "MED-C56-02",
+        "MED-C56-03",
+        "MED-C56-04",
+        "MED-C56-05",
+        "MED-C56-06",
+        "MED-C56-07",
+        "MED-C56-08",
+        "MED-C56-09"
+      ]
+    },
+    {
+      "id": "MED-U56-2",
+      "ch": 56,
+      "n": 2,
+      "title": "Asymmetric and Inappropriate Hypertrophy, the Three LVOT States, Yamaguchi Disease and Diastolic Pathophysiology",
+      "sec": "Asymmetric and Inappropriate Hypertrophy, the Three LVOT States, Yamaguchi Disease and Diastolic Pathophysiology",
+      "guide": "Asymmetric HCM involves only the left side, septal and anterior wall, sparing apex and posterior wall; hypertrophy is inappropriate because afterload is not raised (p337). LVOT obstruction is present in one third, absent/normal in one third and dynamic in one third.\nYamaguchi disease is a Japanese-population HCM variant with apical hypertrophy and deep/giant T inversions. Diastolic dysfunction runs concentric LVH → smaller cavity → raised LVEDP → raised LAP.\nAtrial stretch/dilatation raises the atrial CO contribution from 25 to 40% and AF risk; raised PCWP produces pulmonary edema and dyspnea, with tachycardia-related exertional dyspnea.",
+      "qs": [
+        "MED-C56-10",
+        "MED-C56-11",
+        "MED-C56-12",
+        "MED-C56-13",
+        "MED-C56-14",
+        "MED-C56-15",
+        "MED-C56-16",
+        "MED-C56-17",
+        "MED-C56-18"
+      ]
+    },
+    {
+      "id": "MED-U56-3",
+      "ch": 56,
+      "n": 3,
+      "title": "Asymmetrical Septal Hypertrophy, SAM, the Two Murmurs, the 30-mmHg Gradient and Aortic-Stenosis Types",
+      "sec": "Asymmetrical Septal Hypertrophy, SAM, the Two Murmurs, the 30-mmHg Gradient and Aortic-Stenosis Types",
+      "guide": "Asymmetrical septal hypertrophy projects into the LVOT, narrows it and creates a high-velocity jet with low-pressure zones that draw the anterior mitral leaflet into the septum/LVOT; SAM is printed after two thirds of systole (p338).\nMild secondary MR causes a PSM at the apex, while increased LVOT obstruction causes an ESM at the lower left sternal border. A 30 mmHg gradient reflects subaortic/subvalvular obstruction and determines progression to HF (most important) and symptom severity.\nThe AS-location note labels valvular most common, subvalvular as the HCM form and supravalvular/Williams least common; angina with normal coronaries is due to microvascular dysfunction.",
+      "qs": [
+        "MED-C56-19",
+        "MED-C56-20",
+        "MED-C56-21",
+        "MED-C56-22",
+        "MED-C56-23",
+        "MED-C56-24",
+        "MED-C56-25",
+        "MED-C56-26",
+        "MED-C56-27"
+      ]
+    },
+    {
+      "id": "MED-U56-4",
+      "ch": 56,
+      "n": 4,
+      "title": "HCM Symptoms, Pulse and Apex Signs, Heart Sounds, Murmurs and the Principle of Dynamic Auscultation",
+      "sec": "HCM Symptoms, Pulse and Apex Signs, Heart Sounds, Murmurs and the Principle of Dynamic Auscultation",
+      "guide": "Again 95–99% are asymptomatic (p339). Raised LAP/LVEDP gives exertional dyspnea/fatigue, orthopnea and PND in advanced disease; LVOT obstruction gives angina/syncope/dyspnea; palpitations come from arrhythmias with AF the commonest sustained arrhythmia, and syncope is repeated separately.\nBP and JVP are normal, the pulse is jerky and bisferiens has two systolic peaks with percussion > tidal and the second peak related to SAM obstruction. The double apical impulse is due to SAM and the triple impulse to presystolic accentuation.\nS1 is normal, S2 reverse split from prolonged ejection, S3 is + from reduced filling of a non-compliant ventricle and S4 ++ from a vigorously contracting sinus-rhythm atrium. Murmurs are ESM at LLSB and PSM at apex; ESM intensity follows the LV–aorta gradient and preload, afterload and inotropy.",
+      "qs": [
+        "MED-C56-28",
+        "MED-C56-29",
+        "MED-C56-30",
+        "MED-C56-31",
+        "MED-C56-32",
+        "MED-C56-33",
+        "MED-C56-34",
+        "MED-C56-35",
+        "MED-C56-36"
+      ]
+    },
+    {
+      "id": "MED-U56-5",
+      "ch": 56,
+      "n": 5,
+      "title": "Preferred Loading States, Relieving and Aggravating Factors, Manoeuvres, the Valsalva Exceptions and ECG",
+      "sec": "Preferred Loading States, Relieving and Aggravating Factors, Manoeuvres, the Valsalva Exceptions and ECG",
+      "guide": "HCM prefers high preload, high afterload and low inotropy (p340). Reduced preload and afterload shrink the cavity/LVOT and raise obstruction; increased inotropy draws septum and mitral valve into the LVOT.\nHydration relieves. Venodilators/diuretics, aggressive BP reduction, moderate–severe activity and inotropes such as digoxin aggravate; inotropes are contraindicated for elevating BP in HCM.\nStanding Valsalva, amyl nitrite and isoproterenol increase murmur intensity by lowering preload/afterload or raising contractility; hand grip and phenylephrine reduce it by raising afterload. All murmurs decrease with standing Valsalva except MVP (duration ↑) and HCM (intensity ↑). ECG shows LVH and precordial ST–T changes/deep giant T inversions in Yamaguchi.",
+      "qs": [
+        "MED-C56-37",
+        "MED-C56-38",
+        "MED-C56-39",
+        "MED-C56-40",
+        "MED-C56-41",
+        "MED-C56-42",
+        "MED-C56-43",
+        "MED-C56-44",
+        "MED-C56-45"
+      ]
+    },
+    {
+      "id": "MED-U56-6",
+      "ch": 56,
+      "n": 6,
+      "title": "ECHO and the Dagger Sign, Medical Treatment and Beta-Blocker Advantages, CCBs and ICD Indications",
+      "sec": "ECHO and the Dagger Sign, Medical Treatment and Beta-Blocker Advantages, CCBs and ICD Indications",
+      "guide": "ECHO is the gold standard for HCM and requires ≥15 mm LV thickening without dilatation or another valvular/systemic/cardiac cause; Doppler shows the dagger sign (p341). Medical management is beta blocker or CCB plus disopyramide.\nBeta blocker is DOC; propranolol is printed at 2 mg/kg (max 480 mg), reducing exercise HR response and rest/exercise LVOT gradient, relieving angina by lowering myocardial O₂ demand and increasing diastolic filling. CCBs are used for beta-blocker contraindication/intolerance; named drugs are verapamil and diltiazem.\nICD indications are previous cardiac arrest, family history of SCD, sustained VT, abnormal Holter, unexplained syncope and LVH >30 mm.",
+      "qs": [
+        "MED-C56-46",
+        "MED-C56-47",
+        "MED-C56-48",
+        "MED-C56-49",
+        "MED-C56-50",
+        "MED-C56-51",
+        "MED-C56-52",
+        "MED-C56-53",
+        "MED-C56-54",
+        "MED-C56-55"
+      ]
+    },
+    {
+      "id": "MED-U56-7",
+      "ch": 56,
+      "n": 7,
+      "title": "Disopyramide, Surgical Management, Restrictive Cardiomyopathy Physiology and Its Clinical Features",
+      "sec": "Disopyramide, Surgical Management, Restrictive Cardiomyopathy Physiology and Its Clinical Features",
+      "guide": "Disopyramide is class Ia, added to beta blocker/CCB if no relief, with QT prolongation, anticholinergic effects and reduced EF (p342). Surgery is for refractory HCM with gradient >50 mmHg despite medical therapy, by septal myomectomy or alcohol septal ablation.\nRCM is introduced as non-genetic, more common than HCM and nested inside diastolic dysfunction. Constrictive pericarditis is the constrictive branch; restrictive physiology and restrictive CMP are the more severe restrictive branch.\nRCM ventricles are stiff/non-compliant (R > L), non-dilated and of normal thickness, raising filling pressure and RAP. Systemic congestion gives JVP, ascites, edema and hepatomegaly; atrial stretch raises AF risk. Systolic function is almost normal, dimensions normal/rarely reduced, atria massively enlarged and RVEDP > LVEDP. Subtle exercise intolerance is first, restrictive physiology is the severest diastolic dysfunction and biventricular diastolic failure is R > L.",
+      "qs": [
+        "MED-C56-56",
+        "MED-C56-57",
+        "MED-C56-58",
+        "MED-C56-59",
+        "MED-C56-60",
+        "MED-C56-61",
+        "MED-C56-62",
+        "MED-C56-63",
+        "MED-C56-64",
+        "MED-C56-65"
+      ]
+    },
+    {
+      "id": "MED-U56-8",
+      "ch": 56,
+      "n": 8,
+      "title": "RCM Causes and Storage Patterns, the Most Common Mutations, Amyloidosis Classification and Features",
+      "sec": "RCM Causes and Storage Patterns, the Most Common Mutations, Amyloidosis Classification and Features",
+      "guide": "RCM causes are non-infiltrative DM/scleroderma; intracellular iron (hemochromatosis, dilated > RCM), glycosphingolipid (Fabry) and glycogen (Pompe) accumulation (the latter two HCM > RCM); and intercellular amyloidosis, sarcoidosis (DCM > RCM), Loeffler syndrome and tropical endomyocardial fibrosis (p343). The figure labels lamellar bodies and zebra/onion-skin appearance in Fabry disease, with Ascaris lumbricoides printed as the most common associated infection.\nThe mutation recap gives DCMP truncated-variant titin, HCM myosin-binding-protein and RCM amyloidosis.\nAmyloidosis is classified as primary AL, secondary AA (no heart, only kidney) and familial ATTR, with heart involved in all except secondary AA. ATTR is split into wild senile systemic amyloidosis and mutant familial amyloid polyneuropathy; localized amyloidosis produces atrial natriuretic factor and involves the heart. Features are bilateral thickened ventricles, biatrial dilatation, interatrial septal thickening and diastolic > systolic HF.",
+      "qs": [
+        "MED-C56-66",
+        "MED-C56-67",
+        "MED-C56-68",
+        "MED-C56-69",
+        "MED-C56-70",
+        "MED-C56-71",
+        "MED-C56-72",
+        "MED-C56-73",
+        "MED-C56-74",
+        "MED-C56-75"
+      ]
+    },
+    {
+      "id": "MED-U56-9",
+      "ch": 56,
+      "n": 9,
+      "title": "Amyloidosis Investigations, Arrhythmogenic RV Dysplasia, Tachycardia-Induced CMP and Takotsubo Presentation",
+      "sec": "Amyloidosis Investigations, Arrhythmogenic RV Dysplasia, Tachycardia-Induced CMP and Takotsubo Presentation",
+      "guide": "Amyloidosis ECG shows low-voltage complexes and a pseudo-infarct pattern; ECHO shows hypertrophy (L > R); cardiac MRI shows a glittering hyperrefractile/sparkling myocardium due to interatrial septal thickening, and prognosis is poor (p344).\nARVD is autosomal recessive with mutated desmosomes, fibrofatty replacement of RV myocardium and arrhythmias/SCD. Tachycardia-induced CMP follows recurrent tachycardia → myocardial-fibre disruption → CMP → AF.\nTakotsubo is also called broken-heart syndrome, transient apical ballooning, neurogenic myocardial stunning, stress-induced CMP and catecholamine-induced CMP. It affects middle-aged females (F >>> M), follows chronic stress/sympathetic overactivity and causes transient LV dysfunction with a hypokinetic ballooned apex (catecholamine-induced transient myocardial stunning).",
+      "qs": [
+        "MED-C56-76",
+        "MED-C56-77",
+        "MED-C56-78",
+        "MED-C56-79",
+        "MED-C56-80",
+        "MED-C56-81",
+        "MED-C56-82",
+        "MED-C56-83",
+        "MED-C56-84"
+      ]
+    },
+    {
+      "id": "MED-U56-10",
+      "ch": 56,
+      "n": 10,
+      "title": "Takotsubo Investigations, Angiographic and ECHO Findings, Prognosis, Short-Term Complications and Treatment",
+      "sec": "Takotsubo Investigations, Angiographic and ECHO Findings, Prognosis, Short-Term Complications and Treatment",
+      "guide": "Takotsubo ECG can mimic ACS or acute HF; troponin I rises but with a reduced rate of rise, and NT-proBNP rises markedly (p345).\nAngiography shows normal coronaries, a hypokinetic apex and a hypercontractile base; ECHO shows regional wall-motion abnormality not confined to one coronary territory.\nLong-term prognosis is excellent. Short-term complications are shock, LV rupture and thromboembolism, bracketed as the same as MI. Treatment is no specific therapy and carvedilol.",
+      "qs": [
+        "MED-C56-85",
+        "MED-C56-86",
+        "MED-C56-87",
+        "MED-C56-88",
+        "MED-C56-89",
+        "MED-C56-90",
+        "MED-C56-91",
+        "MED-C56-92",
+        "MED-C56-93"
+      ]
+    }
+  ]
+}

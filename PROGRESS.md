@@ -1,14 +1,55 @@
 # PULSE Medicine Vol 1 — Progress
 
-Updated **2026-10-24** (Chapters 45–50 released and deployed; source review now reaches Book p306). Standalone offline quiz based on *PULSE Medicine Vol 1*, printed Book p1–375 (Marrow Edition 8).
+Updated **2026-10-24** (Chapters 51–56 released and deployed; source review now reaches Book p345). Standalone offline quiz based on *PULSE Medicine Vol 1*, printed Book p1–375 (Marrow Edition 8).
 
 - Repository: `Deva20045/Med-V1`
-- Session branch: `arena/8e90885a-med-v1` (published from this release's session)
+- Session branch: `arena/828a204e-med-v1` (published from this release's session)
 - Published URL: https://deva20045.github.io/Med-V1/
 - Editable source of truth: `data/chNN.json`; generated offline deliverable: `pulse-medicine.html`; `index.html` redirects to it.
-- **Build status: 50 live chapters / 61 · 3,336 questions / 345 units.** Chapters 1–50 are embedded by `build_content.py`; source coverage is complete through Book p306.
+- **Build status: 56 live chapters / 61 · 3,690 questions / 384 units.** Chapters 1–56 are embedded by `build_content.py`; source coverage is complete through Book p345.
 
-## This release — Chapters 45 to 50 (Book p264–306)
+## This release — Chapters 51 to 56 (Book p307–345)
+
+Chapters 51–56 of *PULSE Medicine Vol 1* are complete in strict printed order (**Ch 51 Aortic Stenosis, Ch 52 Aortic Regurgitation, Ch 53 Heart Failure, Ch 54 Acute Decompensated Heart Failure, Ch 55 Cardiomyopathy : Part 1, Ch 56 Cardiomyopathy : Part 2**). All 39 scanned sheets in `uploads/03.pdf` PDF60–98 (Book p307–345) were rendered, read line-to-line and re-checked for thresholds and table cells. Every anatomy label, classification tree, pressure-gradient arrow, risk-factor list, comparison table, dynamic-auscultation column, figure caption, dose and eponym was inventoried into 354 new questions in exact page order.
+
+| Chapters | Book pages | Source sheets | Questions | Units |
+|---|---:|---|---:|---:|
+| 1–50 | 1–306 | `01.pdf` PDF13–129; `02.pdf` PDF1–130; `03.pdf` PDF1–59 | 3,336 | 345 |
+| 51 | 307–312 | `03.pdf` PDF60–65 | 53 | 6 |
+| 52 | 313–317 | `03.pdf` PDF66–70 | 48 | 5 |
+| 53 | 318–325 | `03.pdf` PDF71–78 | 66 | 8 |
+| 54 | 326–330 | `03.pdf` PDF79–83 | 46 | 5 |
+| 55 | 331–335 | `03.pdf` PDF84–88 | 48 | 5 |
+| 56 | 336–345 | `03.pdf` PDF89–98 | 93 | 10 |
+| **Cumulative** | **345** |  | **3,690** | **384** |
+
+The 354 new questions deliberately move beyond plain recall: 114 recall, 76 match, 34 fill-up, 33 scenario, 32 numeric, 25 management, 22 odd-one-out and 18 true/false (**240/354 = 68% non-recall**). Answer positions rotate deterministically; distractors are built from neighbouring printed lines, reversed arrows and adjacent thresholds rather than generic wrong words; all 76 `match` items are true bijections; every unit has a 2–4-line guide. Cumulative format distribution through Chapter 56: 1,990 recall, 468 match, 371 numeric, 263 fill-up, 203 scenario, 147 true/false, 147 odd-one-out and 101 management. Printed-verbatim quirks from p307–345 (the p318 `American College of Clinical Cardiology` expansion, the p325 ARNI action-arrow wording, the p327 `>30 bpm` tachypnea threshold, the p328 Kerley-line LAP bands, the p330 `diagnostic value in renal failure` fragment, the p334 `Chaga's disease` spelling, and the p343 `Ascaris lumbricoides` infection note) are preserved as source text and itemised in [audit/known-source-caveats.md](audit/known-source-caveats.md).
+
+### Chapter 51 — Aortic Stenosis (Book p307–312; 53 questions / 6 units)
+
+Begins with the three cusps, three commissures and one annulus, the congenital 4/2/1-cusp sequence, the printed 75% versus 20–25% BAV split, the 3–4 cm² valve area and the five coronary/commissural labels; normal systole is fixed at LVP 120 mmHg and aortic pressure 120 mmHg with no gradient. The pathogenesis chain runs from valve substrate through inflammation, lipoprotein, RAAS, osteoblast change and hydroxyapatite to sclerosis, then adds a transvalvular gradient before symptoms. Rheumatic combinations, the 30%/80% demographics, mandatory coronary angiogram and the three valve-specimen captions are followed by the aetiology ranks. BAV genetics adds NOTCH-1, eNOS, M > F, autosomal dominance, aortopathy and mandatory CT aortogram; location and severity trees keep HCM, Williams syndrome, concentric-LVH compensation, sudden death, AVR and the 40/4/1 rule. The ASD 5/3/1 clock, three angina mechanisms, fixed-output syncope, dyspnea pressure chain, AF/HTN/LVF notes, Heyde syndrome and acquired von Willebrand disease precede pulse, BP, JVP and apex findings. Heart sounds, the mixed-frequency murmur with carotid/Gallavardin components, Sokolov–Lyon >35 mm, the dilated aortic arch and definitive ECHO close with bioprosthetic AVR, all five indications, dobutamine stress testing, disadvantages and balloon-/self-expanding TAVR.
+
+### Chapter 52 — Aortic Regurgitation (Book p313–317; 48 questions / 5 units)
+
+Splits acute from chronic disease, then separates leaflet causes (rheumatic MS+AR/AR+AS, quadricuspid valves, Takayasu, ankylosing spondylitis) from root causes (syphilis m/c, Marfan, Ehlers–Danlos, Takayasu, Behcet, Cogan and IgG4-related disease) with every expansion. The diastolic gradient (LV 10 / aorta 80 mmHg), eccentric-hypertrophy compensation, EF equation and normal LVEDP are followed by decompensation with ESV and S3, the preload/afterload/DBP/pulse-pressure table, Hill and Lincoln signs, nocturnal angina, strict BP control and exercise benefit. The full AS-versus-AR table, high-volume and water-hammer definitions, collapsing versus pseudocollapsing pulses, aorta–pulmonary window/PDA note, bisferiens P/T rules, BP/apex/heart-sound table and the high-pitched early diastolic decrescendo murmur with Cole–Cecil and Key–Hodgkin radiations are all tested. The tracing, ESM and Austin Flint mechanism introduce all **16** peripheral signs in printed order, from Corrigan to Sherman, including Duroziez, Traube, Mayne >15 mmHg and Sherman age >75 years. Management closes with symptomatic AVR, the 55–50 rule, acute dissection/IE/sinus-rupture/trauma causes, LAP >25 mmHg, short low-pitched EDM with soft S1, shock/hypotension and immediate surgery bridged by NTG, nitroprusside and inotropes.
+
+### Chapter 53 — Heart Failure (Book p318–325; 66 questions / 8 units)
+
+Keeps the full ACC/AHA 2017 definition and abbreviations, all four EF types, the NYHA symptom exclusions, four class criteria and three mortality cells. Stages A–D are tested with every risk factor and example, followed by the HFrEF/NYHA 2–3/stage-C common presentation and all ten low-output systolic signs including TNF-α cachexia. Diastolic failure reproduces both converging arms, the LVEDP→LAP→PCVP→exudation chain, dyspnea/crackles/right effusion, immediate orthopnea versus 2–3-hour PND and the full supine fluid-shift mechanism. Right-heart failure, AJR site, four causes and both Framingham columns are covered cell by cell. HFpEF/HFNEF follows microvascular inflammation to longitudinal-fibre dysfunction, LVH, 25→40% atrial contribution, AF, edema, the HF-versus-COPD table and bendopnea/trepopnea/platypnea. The ESC definition, HFNEF presentation, ten ADHF risk factors, HFrEF remodelling chain and sympathetic activation lead into RAAS/ADH/natriuretic compensation, sustained-activation decompensation, nesiritide status, beta-blocker doses, ACE/ARB class effect, ARNI components and printed action arrows, hierarchy, euvolemia-first rule, Fantastic Four, ivabradine at HR >70/min and wide-versus-normal-QRS refractory branches.
+
+### Chapter 54 — Acute Decompensated Heart Failure (Book p326–330; 46 questions / 5 units)
+
+Opens with the 80/20 prior-versus-de-novo split, all eight risk factors in order and the four ADHF classes. Mild-to-moderate disease retains its 70% share, HFrEF substrate, LRTI trigger, progressive dyspnea, JVP/tender-liver/oedema cluster, absence of edema/shock and S3/cardiomegaly/annular-MR findings. Hypertensive ADHF is separated as female-predominant HFpEF with IV diuretics and oral antihypertensives, before acute pulmonary edema's 60–90-minute onset, orthostatic gasping, diaphoresis, tachypnea >30 bpm, hypertensive crisis, diffuse crepts and frothy sputum ± hemoptysis. The five differentials include acute AR/MR sub-branches and bilateral renal-artery stenosis with flash edema; emergency imaging covers bat-wing cardiopulmonary edema, earliest cephalisation and the complete Kerley A/B/C table with 12–19, 20–24 and >25 mmHg bands. The warm/dry, warm/wet, cold/dry and cold/wet perfusion grid is matched to PCWP, CI, stable/hypovolemic branches, nesiritide/vasodilators and inotropes. The treatment bundle preserves furosemide 360 mg as 100+100+100+60, 45°, NRBM/NIV, morphine 4 mg IV and NTG 5 µg/min; shock adds SBP <90 mmHg, lactate, early ECHO, dobutamine/milrinone/IABP/ECMO and HFpEF vasopressors. Final notes cover dialysis/SCUF, BNP/NT-proBNP >900 pg/mL, obesity and renal-failure caveats, and nitroprusside > NTG in acute AR/MR.
+
+### Chapter 55 — Cardiomyopathy : Part 1 (Book p331–335; 48 questions / 5 units)
+
+Defines cardiomyopathy by its CAD/HTN/valvular/congenital exclusions and inventories all seven named types. DCMP presentation is worked across systolic/diastolic symptoms, signs and auscultation, male predominance, MRI's four gold-standard uses and the dilatation→diastolic→LV→RV failure sequence with global hypokinesia and 25% of HF cases. Etiology covers the 30% genetic fraction and all three inheritance/protein rows, penetrance and expression, peripartum/alcohol/drug prognosis, thiamine/selenium/carnitine with Keshan disease, autoimmune, endocrine and inflammatory branches, four complications and the intraventricular-thrombus POCUS figure. Investigations retain limb-versus-chest voltage, sinus tachycardia, poor R progression, the large roomy thin-walled LV, MRI/angiogram for CAD after age >30, the angina-normal-coronaries triad and transplant. Peripartum CMP is tested from best prognosis/high recurrence through age >30, hypertension, third-trimester/postpartum timing, SFLT1, exertional/breastfeeding dyspnea, diaphoresis, avoidance of pregnancy and 3–4-month resolution. Drug-induced disease names every anthracycline, targeted drug, metal, hydrocarbon and cocaine, plus R-CHOP/ABVD/7+3 uses; alcohol disease follows ACE polymorphism → acetaldehyde, holiday-heart AF, stroke/ACS, deficiency aggravators and 3–6-month reversibility. Myocarditis finishes with focal/diffuse and acute/chronic timing, HHV-6/T. cruzi, cytokine release, subclinical majority, four clinical branches, ECG, troponin I, Dallas criteria, MRI peripheral enhancement and restrictive steroid use.
+
+### Chapter 56 — Cardiomyopathy : Part 2 (Book p336–345; 93 questions / 10 units)
+
+HCM opens with its three superlatives, mutation rank, M = F incidence, female prognosis, 95–99% asymptomatic fraction, four paediatric mimics with Pompe details, three complications, the ≥15 mm definition and the athlete-heart four-row table. Asymmetric hypertrophy, inappropriate afterload status and the three LVOT thirds lead into Yamaguchi disease and the complete diastolic chain with 25→40% atrial contribution, AF, PCWP, edema and tachycardia-related dyspnea. The SAM cascade is followed stepwise to a 30 mmHg subaortic gradient, PSM/ESM branches, symptom severity and the valvular/subvalvular/supravalvular note. Clinical HCM covers all symptom arms, normal BP/JVP, jerky and bisferiens pulses, double/triple apical impulses, S1–S4, ESM/PSM, the LV–aorta gradient principle, preload/afterload/inotropy chains, hydration, all aggravators and manoeuvres, the Valsalva MVP/HCM exceptions and ECG. ECHO ≥15 mm, dagger Doppler, beta blocker/CCB/disopyramide, propranolol 2 mg/kg max 480 mg, four beta-blocker advantages, CCB indications and six ICD indications precede refractory gradient >50 mmHg, myomectomy and alcohol ablation. RCM is covered through its nested physiology, stiff R>L ventricles, congestion, almost-normal systole, massive atria, RVEDP>LVEDP and exercise intolerance. All infiltrative/non-infiltrative causes, the Fabry figure, mutation recap and amyloid classification/features follow. Amyloid investigations, ARVD, tachycardia-induced CMP and the five Takotsubo synonyms/presentation close into ECG, troponin/NT-proBNP, angiogram, non-territorial RWMA, excellent long-term prognosis, MI-like complications and carvedilol.
+
+## Previous release — Chapters 45 to 50 (Book p264–306)
 
 Chapters 45–50 of *PULSE Medicine Vol 1* are complete in strict source order (**Ch 45 Obstructive Sleep Apnea Syndrome, Ch 46 Chronic Obstructive Airway Disease, Ch 47 Community Acquired Pneumonia, Ch 48 Atypical Pneumonia and Pneumonia in Immunocompromised, Ch 49 Cardiac Cycle With Heart Sounds, Ch 50 Added Heart Sounds**). Every printed line on Book p264–306 was inventoried from the `uploads/03.pdf` scans and converted into questions in exact page order, including classification trees, comparison tables, flowchart arms, pressure–volume and heart-sound timing charts, figure captions, printed thresholds and source slips.
 
@@ -768,18 +809,18 @@ node tests/app_parsers.cjs
 | 42 | Allergic Bronchopulmonary Aspergillosis | 253 | **Live** |
 | 43 | Hypersensitivity Pneumonitis | 257 | **Live** |
 | 44 | Pleural Effusion | 260 | **Live** |
-| 45 | Obstructive Sleep Apnea Syndrome | 264 | Soon |
-| 46 | Chronic Obstructive Airway Disease | 267 | Soon |
-| 47 | Community Acquired Pneumonia | 274 | Soon |
-| 48 | Atypical Pneumonia and Pneumonia in Immunocompromised | 286 | Soon |
-| 49 | Cardiac Cycle With Heart Sounds | 296 | Soon |
-| 50 | Added Heart Sounds | 303 | Soon |
-| 51 | Aortic Stenosis | 307 | Soon |
-| 52 | Aortic Regurgitation | 313 | Soon |
-| 53 | Heart Failure | 318 | Soon |
-| 54 | Acute Decompensated Heart Failure | 326 | Soon |
-| 55 | Cardiomyopathy : Part 1 | 331 | Soon |
-| 56 | Cardiomyopathy : Part 2 | 336 | Soon |
+| 45 | Obstructive Sleep Apnea Syndrome | 264 | **Live** |
+| 46 | Chronic Obstructive Airway Disease | 267 | **Live** |
+| 47 | Community Acquired Pneumonia | 274 | **Live** |
+| 48 | Atypical Pneumonia and Pneumonia in Immunocompromised | 286 | **Live** |
+| 49 | Cardiac Cycle With Heart Sounds | 296 | **Live** |
+| 50 | Added Heart Sounds | 303 | **Live** |
+| 51 | Aortic Stenosis | 307 | **Live** |
+| 52 | Aortic Regurgitation | 313 | **Live** |
+| 53 | Heart Failure | 318 | **Live** |
+| 54 | Acute Decompensated Heart Failure | 326 | **Live** |
+| 55 | Cardiomyopathy : Part 1 | 331 | **Live** |
+| 56 | Cardiomyopathy : Part 2 | 336 | **Live** |
 | 57 | Mitral Regurgitation | 346 | Soon |
 | 58 | Mitral Stenosis | 352 | Soon |
 | 59 | CCP, CT, RCM and Acute Pericarditis | 358 | Soon |
@@ -795,4 +836,4 @@ node tests/app_parsers.cjs
 4. Run `validate_content.py`, `tests`, and `build_content.py` to embed; verify live flags and embedded arrays.
 5. Commit, push, PR to `main` — live link updates via GitHub Pages.
 
-*Next up:* **Chapter 45 — Obstructive Sleep Apnea Syndrome (p264)** — render `uploads/03.pdf` PDF17 onward, audit in strict book order, and continue the same pipeline.
+*Next up:* **Chapter 57 — Mitral Regurgitation (p346)** — render `uploads/03.pdf` PDF99 onward, audit in strict book order, and continue the same pipeline.
